@@ -4,11 +4,9 @@ import { PlaceholdersAndVanishInput } from "@/components/ui/placeholders-and-van
 import { PlaceholdersAndInputSearch } from "@/ui-components/search-bar";
 import { useRouter, useSearchParams } from "next/navigation";
 import { useState } from "react";
-
-
+import { TextGenerateEffect } from "@/components/ui/text-generate-effect";
 
 export default function SearchPage() {
-
     const [apiResponse, setApiResponse] = useState(''); // State for API response
     const [query, setQuery] = useState(''); // State for input query
 
@@ -18,19 +16,19 @@ export default function SearchPage() {
         "Shareholder disputes in a family-owned company",
         "Arbitration clause enforcement in international commercial contracts",
         "Damages calculation in a construction delay case"
-      ];
+    ];
     
-      const handleChange = (e: React.ChangeEvent<HTMLInputElement>) => {
+    const handleChange = (e: React.ChangeEvent<HTMLInputElement>) => {
         setQuery(e.target.value); // Update query state
-      };
+    };
     
-      const router = useRouter(); // Initialize the router
-      const onSubmit = async (e: React.FormEvent<HTMLFormElement>) => {
+    const router = useRouter(); // Initialize the router
+    const onSubmit = async (e: React.FormEvent<HTMLFormElement>) => {
         e.preventDefault();
     
         try {
           console.log("query", query);
-          const response = await fetch("https://b58f-35-233-187-86.ngrok-free.app/query", {
+          const response = await fetch("https://fd60-34-145-84-105.ngrok-free.app/query", {
             method: "POST",
             headers: {
               "Content-Type": "application/json",
@@ -52,6 +50,7 @@ export default function SearchPage() {
           console.error("Error fetching the API:", error);
         }
       };
+
     return (
         <div>
             <div className="flex px-64 items-center justify-center h-auto w-screen mt-[8rem] z-200">
@@ -61,10 +60,13 @@ export default function SearchPage() {
               onSubmit={onSubmit}
             />
           </div>
-            <div className="mt-20 text-white px-20">
-            {/* <h1>Query Result</h1> */}
-            {/* {(query && <p><strong>Query:</strong> {query}</p>)} */}
-            {apiResponse && <p><strong>Response:</strong> {apiResponse}</p>}
+            <div className="mt-20 text-white px-20 items-center justify-center">
+            {/* <TextGenerateEffect words={apiResponse} /> */}
+            {apiResponse && (
+              <div className="relative z-20 font-sans font-bold text-neutral-700 dark:text-neutral-300 text-base">
+                <strong>Response:</strong> <TextGenerateEffect words={apiResponse} />
+              </div>
+            )}
         </div>
         </div>
     );
