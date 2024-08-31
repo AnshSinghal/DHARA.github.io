@@ -8,15 +8,15 @@ import { PlaceholdersAndVanishInput } from "../components/ui/placeholders-and-va
 import { useRouter } from "next/navigation";
 
 export default function LampDemo() {
-  const [apiResponse, setApiResponse] = useState(''); // State for API response
-  const [query, setQuery] = useState(''); // State for input query
+  const [apiResponse, setApiResponse] = useState(""); // State for API response
+  const [query, setQuery] = useState(""); // State for input query
 
   const placeholders = [
     "Breach of contract due to force majeure in the textile industry",
     "Intellectual property infringement in software development",
     "Shareholder disputes in a family-owned company",
     "Arbitration clause enforcement in international commercial contracts",
-    "Damages calculation in a construction delay case"
+    "Damages calculation in a construction delay case",
   ];
 
   const handleChange = (e: React.ChangeEvent<HTMLInputElement>) => {
@@ -29,13 +29,16 @@ export default function LampDemo() {
 
     try {
       console.log("query", query);
-      const response = await fetch("https://b58f-35-233-187-86.ngrok-free.app/query", {
-        method: "POST",
-        headers: {
-          "Content-Type": "application/json",
-        },
-        body: JSON.stringify({ question: query }), // Send the query state in the request
-      });
+      const response = await fetch(
+        "https://b58f-35-233-187-86.ngrok-free.app/query",
+        {
+          method: "POST",
+          headers: {
+            "Content-Type": "application/json",
+          },
+          body: JSON.stringify({ question: query }), // Send the query state in the request
+        }
+      );
 
       if (!response.ok) {
         throw new Error(`Error: ${response.status}`);
@@ -48,13 +51,11 @@ export default function LampDemo() {
       console.log("API response:", data.response);
 
       // Route to the new page with query parameters
-      router.push('/search');
-
+      router.push("/search");
     } catch (error) {
       console.error("Error fetching the API:", error);
     }
   };
-
 
   return (
     <div className="bg-slate-950">
@@ -84,8 +85,17 @@ export default function LampDemo() {
           >
             Digital Hub for Advance Research in Adjudication
           </motion.h1>
-          
         </LampContainer>
+      </div>
+      <div className="flex items-center justify-center mt-[-200px]">
+        <a href="/search">
+          <button className="relative inline-flex w-[18rem] h-20 overflow-hidden rounded-full p-[5px] focus:outline-none focus:ring-2 focus:ring-slate-400 focus:ring-offset-2 focus:ring-offset-slate-50">
+            <span className="absolute inset-[-1000%] animate-[spin_2s_linear_infinite] bg-[conic-gradient(from_90deg_at_50%_50%,#E2CBFF_0%,#393BB2_50%,#E2CBFF_100%)]" />
+            <span className="inline-flex h-full w-full cursor-pointer items-center justify-center rounded-full bg-slate-950 px-3 py-1 text-lg font-medium text-white backdrop-blur-3xl">
+              Get Started with DHARA &rarr;
+            </span>
+          </button>
+        </a>
       </div>
       <div className="h-screen"></div>
     </div>
