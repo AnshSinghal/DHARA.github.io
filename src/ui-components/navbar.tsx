@@ -17,8 +17,8 @@ export function Navbar({ className }: { className?: string }) {
         <a href="/search">
         <MenuItem setActive={setActive} active={active} item="Search">
         </MenuItem></a>
-        <a href="/features">
-        <MenuItem setActive={setActive} active={active} item="Features">
+        <a href="/predict">
+        <MenuItem setActive={setActive} active={active} item="Predict">
         </MenuItem></a>
         <a href="/about">
         <MenuItem setActive={setActive} active={active} item="About Us">
