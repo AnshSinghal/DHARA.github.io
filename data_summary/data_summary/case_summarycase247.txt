@@ -1,0 +1,138 @@
+## 1. Case Title
+
+* **Case Name:** Yeturu Rama Chandra Reddy, Engineer & ... vs Exe. Director, Godavari M.Wada ...
+* **Court:** Bombay High Court, Aurangabad Bench
+* **Date of Judgment:** 17th April 2017
+* **Citation:** Arb.Appeal Nos.6 & 5/16
+
+## 2. Background and Context
+
+**Brief Overview:** This case involves a dispute between a contractor, Yeturu Rama Chandra Reddy Engineers and Builders ("Contractor"), and the Godavari Marathawada Irrigation Development Corporation ("Employer"), a state government corporation. The dispute arose from a construction project for the Majalgaon Right Bank Canal, part of the Jaikwaid Project. The Contractor was awarded the contract in 1990, but abandoned the work in 1996. The Contractor had filed several claims with the Employer during the execution of the work, and some of these were subsequently referred to arbitration.
+
+**Key Issues:**
+
+* **Jurisdiction of the Court:** Whether the Bombay High Court, Aurangabad Bench, or the Commercial Appellate Division has jurisdiction to hear the case, given the Commercial Courts, Commercial Division and Commercial Appellate Division of High Court Act, 2015.
+* **Competency of the Arbitrator:** Whether the retired High Court Judge, Shri. Mutalik, was competent to act as the sole arbitrator according to the agreement between the parties.
+* **Res Judicata and Limitation:** Whether some of the claims were barred by the principles of res judicata (already decided by a court) and limitation (claims not filed within the prescribed time).
+* **Substantiation of Claims:** Whether the Contractor had sufficiently substantiated certain claims, particularly those related to controlled blasting and extra quarrying and transport charges.
+* **Interpretation of Contract:**  Whether the Arbitrator correctly interpreted the terms and conditions of the contract, especially those related to the payment of interest and the responsibility for procuring materials.
+
+## 3. Legal Principles Involved
+
+**Relevant Statutes and Provisions:**
+
+* **Arbitration and Conciliation Act, 1996:** Particularly sections 11, 16, and 34.
+* **Commercial Courts, Commercial Division and Commercial Appellate Division of High Court Act, 2015:** Sections 2(c), 13, and 15.
+* **Indian Contract Act:** Section 28.
+* **Indian Arbitration Act, 1940:** (The Act was applicable during the first arbitration).
+
+**Precedents Cited:**
+
+* **M/s. S.B.P & Co. Vs. M/s. Patel Engineering Ltd. and Anr. [AIR 2006 SUPREME COURT 450]**
+* **M/s. Konkan Railway Corporation Ltd. and Anr. Vs. M/s. Rani Construction P. Ltd. [AIR 2002 SUPREME COURT 778]**
+* **Huawei Technologies Company Ltd. Vs. Sterlite Technologies Ltd. [2016 (4) Mh.L.J. 101]**
+* **North Eastern Railway & Ors. Vs. Tripple Engineering Works [Civil Appeal No. 6275/2014 decided on 13.8.2014]**
+* **M/s. Deep Trading Company Vs. M/s. Indian Oil Corporation and Ors. [2013 (2) Arb.L.R. 105 (SC)]**
+* **Union of India and Anr. Vs. Indusind Bank Ltd. and Anr. [2016 (8) SCALE 779]**
+* **Union of India Vs. Bright Power Projects (India) Pvt. Ltd. [2016 (3) Mh.L.J. 1]**
+* **Hyderabad Municipal Corporation Vs. M. Krishnaswami Mudaliar [AIR 1985 SC 607]**
+* **Associate Builders Vs. Delhi Development Authority [2014 (4) Arb.LR 307 (SC)]**
+* **Swan Gold Mining Ltd. Vs. Hindustan Copper Ltd. [2014 (4) Arb.LR 1 (SC)]**
+
+**Legal Doctrines:**
+
+* **Res Judicata:** A legal doctrine that prevents parties from relitigating the same issues that were previously decided by a court.
+* **Constructive Res Judicata:** Similar to res judicata, but applies to issues that could have been raised in a previous case.
+* **Limitation:** A legal principle that sets a time limit for bringing a claim.
+* **Interpretation of Contracts:** A process of determining the meaning of terms and conditions within an agreement.
+
+## 4. Arguments Presented
+
+**Plaintiff’s Argument (Employer):**
+
+* The Arbitrator appointed under Section 11 of the Arbitration and Conciliation Act, 1996 was not competent because the agreement provided for an alternative procedure for appointing the arbitrator.
+* The Contractor's claims were barred by res judicata and limitation as they could have been raised in the previous arbitration.
+* The Contractor failed to substantiate several claims, including those related to controlled blasting and extra quarrying and transport charges.
+* The Arbitrator misconstrued the terms of the contract regarding interest payment and the Contractor's responsibility for procuring materials.
+
+**Defendant’s Argument (Contractor):**
+
+* The Court had the right to appoint the Arbitrator under Section 11 of the Arbitration and Conciliation Act, 1996.
+* The claims were not barred by res judicata or limitation.
+* The Contractor provided sufficient evidence to substantiate the claims.
+* The Arbitrator correctly interpreted the contract terms and conditions.
+
+## 5. Court’s Analysis and Reasoning
+
+**Key Findings:**
+
+* The Court found that the Commercial Appellate Division was not in existence when the appeals were filed, and therefore, the Bombay High Court, Aurangabad Bench, had jurisdiction.
+* The Court held that the Arbitrator, Shri. Mutalik, was not competent as the parties had an agreement providing for an alternative method of appointment, which the Contractor had disregarded. 
+* The Court determined that several of the Contractor's claims were barred by res judicata and limitation, as the Contractor had failed to raise these issues during the initial arbitration. 
+* The Court found that the Contractor did not provide sufficient evidence to support several claims, particularly those related to controlled blasting and extra quarrying and transport charges.
+* The Court determined that the Arbitrator had incorrectly interpreted the terms of the contract regarding interest on the bank guarantee and the responsibility for procuring materials.
+
+**Interpretation of Law:**
+
+* The Court analyzed the provisions of the Arbitration and Conciliation Act, 1996, and the Commercial Courts, Commercial Division and Commercial Appellate Division of High Court Act, 2015, to determine the applicable jurisdiction. 
+* The Court carefully examined the contractual agreement between the parties to determine the proper method of appointing the Arbitrator.
+* The Court applied the legal doctrines of res judicata and limitation to the specific claims raised by the Contractor.
+* The Court meticulously reviewed the contractual clauses and evidence provided by the Contractor to evaluate the substantiation of the claims.
+
+**Application of Law:**
+
+* The Court applied the legal principles established in various precedents cited in the judgment, particularly those regarding the competence of the Arbitrator, res judicata, and limitation. 
+* The Court carefully interpreted the contractual clauses and their implications for the specific issues in dispute. 
+* The Court concluded that the Arbitrator's decision was not supported by the evidence or the proper interpretation of the contract. 
+
+## 6. Judgment
+
+**Final Decision:**
+
+* The Court allowed the Employer's appeal, setting aside the entire award delivered by the Arbitrator.
+* The Court also set aside the decision of the P.D.J. that confirmed the award in respect of claim Nos. 1 and 6.
+
+**Relief Granted:**
+
+* The Contractor's claims were rejected. 
+
+**Orders:**
+
+* The Employer's proceeding filed under Section 34 of the Arbitration and Conciliation Act, 1996, was allowed.
+* The Contractor's appeal was dismissed.
+
+## 7. Implications
+
+**Impact on Law:**
+
+* The judgment provides a clear interpretation of the provisions of the Arbitration and Conciliation Act, 1996, regarding the competence of the Arbitrator when there is an existing agreement. 
+* The case clarifies the application of the principles of res judicata and limitation in construction disputes. 
+
+**Future Relevance:**
+
+* The judgment serves as a precedent for future cases involving the appointment of arbitrators and the enforcement of contractual terms. 
+* The decision emphasizes the importance of parties adhering to the established procedure for raising claims and seeking arbitration.
+
+**Broader Context:**
+
+* The case highlights the importance of meticulous contract drafting and proper execution of construction projects to avoid lengthy legal disputes.
+* It demonstrates the potential consequences of abandoning work and failing to follow the stipulated procedure for resolving disputes.
+
+## 8. Summary Points
+
+* The Contractor abandoned the work after receiving several extensions.
+* The Contractor failed to follow the contractual procedure for appointing the arbitrator.
+* Several claims were barred by res judicata and limitation.
+* The Contractor failed to provide sufficient evidence to substantiate some claims.
+* The Arbitrator misconstrued the terms of the contract and awarded compensation that was not warranted.
+
+## 9. References
+
+* **Citations:** Refer to the "Relevant Statutes and Provisions" and "Precedents Cited" sections.
+* **Further Reading:**
+
+* **Arbitration and Conciliation Act, 1996:** [Insert website link for the Act]
+* **Commercial Courts, Commercial Division and Commercial Appellate Division of High Court Act, 2015:** [Insert website link for the Act]
+* **Indian Contract Act:** [Insert website link for the Act] 
+* **Indian Arbitration Act, 1940:** [Insert website link for the Act] 
+

@@ -1,0 +1,62 @@
+## 1. Case Title
+
+* **Case Name:** Smt. Richa Bisht & Others vs. Union of India And Others
+* **Court:** Uttarakhand High Court
+* **Date of Judgment:** 11th March 2020
+* **Citation:** AIRONLINE 2020 UTR 478 
+
+## 2. Background and Context
+
+* **Brief Overview:** The petitioners (Smt. Richa Bisht and others) challenged an order by the District Judge, Nainital, transferring their application under Section 34 of the Arbitration and Conciliation Act, 1996 to the Commercial Court under Section 15(2) of the Commercial Courts Act, 2015. The petitioners had filed the application seeking enhanced compensation for their property acquired for the construction of National Highway No. 87 under the National Highways Act, 1956.
+* **Key Issues:**  
+    * Whether the District Judge was justified in transferring the case to the Commercial Court when it was filed under Section 3G(6) of the National Highways Act, 1956.
+    * Whether the dispute related to land acquisition for highway construction qualifies as a "commercial dispute" under the Commercial Courts Act, 2015.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * **National Highways Act, 1956:**  Section 3G(1-6), particularly Section 3G(6) which incorporates the Arbitration and Conciliation Act, 1996.
+    * **Arbitration and Conciliation Act, 1996:** Section 34 (challenges to arbitral awards).
+    * **Commercial Courts Act, 2015:** Sections 2(1)(c), 6, 10, and 15 (defining "commercial dispute," jurisdiction of Commercial Courts, and transfer of pending cases).
+* **Precedents Cited:**  The judgment did not specifically cite any precedents.
+* **Legal Doctrines:** The case primarily dealt with the interpretation and application of specific statutory provisions, particularly the definition of "commercial dispute" in the Commercial Courts Act, 2015.
+
+## 4. Arguments Presented
+
+* **Petitioners’ Argument:** The petitioners argued that the dispute arising from their land acquisition under the National Highways Act, 1956, was not a "commercial dispute" as defined in the Commercial Courts Act, 2015. They contended that they were not engaged in any trade or business related to immovable property, and the acquisition was a compulsory process under the Act.
+* **Respondents’ Argument:** The respondent (the Union of India) and the other parties did not specifically argue against the petitioners' position. However, the counsel for respondent no. 2 conceded that the petitioners were not involved in real estate business.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:** The court found that the dispute did not fall under any category of "commercial disputes" defined in Section 2(1)(c) of the Commercial Courts Act, 2015. 
+* **Interpretation of Law:** The court interpreted the definition of "commercial dispute" in the Commercial Courts Act, 2015, focusing on the requirement that the dispute must arise from one of the listed activities or transactions.
+* **Application of Law:** The court applied the definition of "commercial dispute" to the facts of the case, finding that the land acquisition for highway construction, even though involving compensation, did not fall within the scope of a commercial dispute.
+
+## 6. Judgment
+
+* **Final Decision:** The writ petition was allowed.
+* **Relief Granted:** The impugned order dated 21.09.2019 transferring the application to the Commercial Court was set aside. The Commercial Court, Dehradun was directed to return the case file to the District Judge, Nainital within three weeks.
+* **Orders:** The Commercial Court was directed to re-transfer the case to the District Judge, Nainital.
+
+## 7. Implications
+
+* **Impact on Law:** The judgment clarifies that not every dispute involving arbitration under the Arbitration and Conciliation Act, 1996 qualifies as a "commercial dispute" under the Commercial Courts Act, 2015. It emphasizes the need to strictly adhere to the definition of "commercial dispute" as defined in the Act.
+* **Future Relevance:** The judgment serves as a precedent in determining the applicability of the Commercial Courts Act, 2015 to disputes arising from land acquisition under the National Highways Act, 1956. Similar cases involving land acquisition may rely on this judgment to argue against transfer to Commercial Courts.
+* **Broader Context:** The judgment highlights the need for clear distinctions between commercial disputes and other legal disputes, especially in cases involving public interest and government action. It also emphasizes the intent of the Commercial Courts Act, 2015 to streamline the handling of high-value commercial transactions.
+
+## 8. Summary Points
+
+* The dispute arising from land acquisition for highway construction under the National Highways Act, 1956, does not constitute a "commercial dispute" under the Commercial Courts Act, 2015.
+* The Court strictly interpreted the definition of "commercial dispute" and found that the petitioners' dispute did not fall within the scope of the Act.
+* The judgment underscores the importance of adhering to the specific provisions of the Commercial Courts Act, 2015 in determining the jurisdiction of Commercial Courts.
+
+## 9. References
+
+* **Citations:** 
+    * National Highways Act, 1956: Section 3G(1-6)
+    * Arbitration and Conciliation Act, 1996: Section 34
+    * Commercial Courts Act, 2015: Sections 2(1)(c), 6, 10, and 15
+* **Further Reading:** 
+    * Commercial Courts Act, 2015 (complete text)
+    * Cases interpreting the definition of "commercial dispute" under the Act (e.g., cases involving construction contracts, real estate transactions)
+    * Cases related to land acquisition under the National Highways Act, 1956. 

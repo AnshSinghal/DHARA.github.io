@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A company is seeking to file a suit against another company for breach of contract. The defendant company claims that the suit is not maintainable as it falls under the jurisdiction of a Commercial Court, and the plaintiff did not obtain leave to file the suit in the High Court. The defendant argues that an order refusing to revoke leave granted by the High Court is an order passed under the Commercial Courts Act and therefore, the appeal against such an order is barred.",
+    "Legal Principles": "The Commercial Courts Act, 2015 aims to expedite commercial disputes and restrict interlocutory appeals. The Act specifies the jurisdiction of Commercial Courts and Divisions, and bars appeals from their orders except those specifically enumerated in the Act. The interpretation of the Act should give effect to the legislative intent of expediting commercial litigation.",
+    "Relevant Sections": "Section 7 of the Commercial Courts Act, 2015: All suits and applications relating to commercial disputes of a specified value filed in a High Court having ordinary original civil jurisdiction shall be heard and disposed of by the Commercial Division of that High Court. \nSection 13 of the Commercial Courts Act, 2015: Notwithstanding anything contained in any other law for the time being in force or Letters Patent of a High Court, no appeal shall lie from any order or decree of a Commercial Division or Commercial Court otherwise than in accordance with the provisions of this Act.",
+    "Context": "Jurisdiction of Commercial Courts, maintainability of appeals against orders passed by Commercial Courts or Divisions, interpretation of the Commercial Courts Act, 2015, legislative intent."
+  },
+  {
+    "Query": "A company filed a suit in the High Court claiming a debt of USD 5 million. The defendant company applied for revocation of leave granted to the plaintiff to file the suit in the High Court, arguing that the matter should be tried by a Commercial Court. The High Court refused to revoke leave. The defendant wants to appeal against this order and argues that the High Court's order refusing revocation of leave is not an order passed under the Commercial Courts Act, and therefore, the appeal is maintainable.",
+    "Legal Principles": "The Commercial Courts Act, 2015 aims to provide a streamlined process for commercial litigation. The Act confers exclusive jurisdiction on Commercial Courts for commercial disputes of specified value.  The intent of the Act is to minimize delays and encourage efficient dispute resolution.",
+    "Relevant Sections": "Section 4 of the Commercial Courts Act, 2015: Constitution of Commercial Division of High Court. \nSection 7 of the Commercial Courts Act, 2015: Jurisdiction of Commercial Divisions of High Courts. \nSection 13 of the Commercial Courts Act, 2015: Appeals from decrees of Commercial Courts and Commercial Divisions.",
+    "Context": "Jurisdiction of Commercial Courts, appeals against orders passed by Commercial Courts or Divisions, interpretation of the Commercial Courts Act, 2015."
+  },
+  {
+    "Query": "A company is seeking to recover a sum of Rs. 10 crore from another company. The plaintiff filed a suit in the High Court, obtaining leave under Clause 12 of the Letters Patent. The defendant argues that the suit is a commercial dispute and should be tried by a Commercial Court. The plaintiff contends that the High Court's order granting leave is not an order passed under the Commercial Courts Act and therefore, the appeal is maintainable.",
+    "Legal Principles": "The Commercial Courts Act, 2015 aims to establish specialized courts for handling commercial disputes efficiently. The Act emphasizes the need for speedy resolution of commercial disputes and aims to reduce delays in the justice system.",
+    "Relevant Sections": "Clause 12 of the Letters Patent for the High Court of Madras: The High Court has the power to grant leave to file suits in its original jurisdiction. \nSection 7 of the Commercial Courts Act, 2015: Jurisdiction of Commercial Divisions of High Courts.",
+    "Context": "Jurisdiction of Commercial Courts, original jurisdiction of High Courts, leave to file suit, interpretation of the Commercial Courts Act, 2015."
+  },
+  {
+    "Query": "A plaintiff filed a suit in the High Court against a defendant company, seeking a sum of Rs. 5 crore. The defendant moved the High Court to revoke leave granted to the plaintiff to file the suit in the High Court, arguing that the dispute falls within the jurisdiction of a Commercial Court. The High Court refused to revoke leave. The defendant now seeks to appeal against this order.",
+    "Legal Principles": "The Commercial Courts Act, 2015 establishes a specialized framework for resolving commercial disputes. The Act aims to ensure a prompt and efficient resolution of these disputes.",
+    "Relevant Sections": "Section 4 of the Commercial Courts Act, 2015: Constitution of Commercial Division of High Court. \nSection 7 of the Commercial Courts Act, 2015: Jurisdiction of Commercial Divisions of High Courts. \nSection 13 of the Commercial Courts Act, 2015: Appeals from decrees of Commercial Courts and Commercial Divisions.",
+    "Context": "Jurisdiction of Commercial Courts, appeals against orders passed by Commercial Courts or Divisions, interpretation of the Commercial Courts Act, 2015, legislative intent."
+  },
+  {
+    "Query": "A company filed a suit in the High Court for breach of contract. The defendant sought to revoke the leave granted to the plaintiff to file the suit in the High Court, arguing that the dispute falls within the jurisdiction of a Commercial Court. The High Court dismissed the defendant's application. The defendant now seeks to appeal against this order.",
+    "Legal Principles": "The Commercial Courts Act, 2015 seeks to promote efficient resolution of commercial disputes. The Act aims to streamline proceedings and reduce delays in the justice system. The intention is to minimize unnecessary appeals and focus on expedited dispute resolution.",
+    "Relevant Sections": "Section 7 of the Commercial Courts Act, 2015: Jurisdiction of Commercial Divisions of High Courts. \nSection 13 of the Commercial Courts Act, 2015: Appeals from decrees of Commercial Courts and Commercial Divisions.",
+    "Context": "Jurisdiction of Commercial Courts, appeals against orders passed by Commercial Courts or Divisions, interpretation of the Commercial Courts Act, 2015."
+  },
+  {
+    "Query": "A company is seeking to recover a sum of Rs. 2 crore from another company. The plaintiff filed a suit in the High Court, obtaining leave under Clause 12 of the Letters Patent. The defendant argues that the suit is a commercial dispute and should be tried by a Commercial Court. The plaintiff contends that the High Court's order granting leave is not an order passed under the Commercial Courts Act and therefore, the appeal is maintainable.",
+    "Legal Principles": "The Commercial Courts Act, 2015 establishes specialized courts for handling commercial disputes efficiently. The Act emphasizes the need for speedy resolution of commercial disputes and aims to reduce delays in the justice system.",
+    "Relevant Sections": "Clause 12 of the Letters Patent for the High Court of Madras: The High Court has the power to grant leave to file suits in its original jurisdiction. \nSection 7 of the Commercial Courts Act, 2015: Jurisdiction of Commercial Divisions of High Courts.",
+    "Context": "Jurisdiction of Commercial Courts, original jurisdiction of High Courts, leave to file suit, interpretation of the Commercial Courts Act, 2015."
+  },
+  {
+    "Query": "A plaintiff filed a suit in the High Court seeking to recover a sum of Rs. 1 crore from the defendant. The defendant argued that the suit is a commercial dispute and should be heard by a Commercial Court. The plaintiff, however, obtained leave from the High Court to file the suit. The defendant now wants to appeal against the High Court's order granting leave.",
+    "Legal Principles": "The Commercial Courts Act, 2015 establishes specialized courts for handling commercial disputes. The Act aims to ensure a prompt and efficient resolution of these disputes.",
+    "Relevant Sections": "Clause 12 of the Letters Patent for the High Court of Madras: The High Court has the power to grant leave to file suits in its original jurisdiction. \nSection 7 of the Commercial Courts Act, 2015: Jurisdiction of Commercial Divisions of High Courts.",
+    "Context": "Jurisdiction of Commercial Courts, original jurisdiction of High Courts, leave to file suit, interpretation of the Commercial Courts Act, 2015, legislative intent."
+  },
+  {
+    "Query": "A company filed a suit in the High Court against another company for breach of contract. The defendant argued that the suit falls under the jurisdiction of a Commercial Court and the plaintiff should have obtained leave from the Commercial Court to file the suit. The plaintiff, however, obtained leave from the High Court. The defendant now seeks to appeal against the High Court's order granting leave.",
+    "Legal Principles": "The Commercial Courts Act, 2015 aims to establish a streamlined process for resolving commercial disputes. The Act confers exclusive jurisdiction on Commercial Courts for commercial disputes of specified value.",
+    "Relevant Sections": "Section 7 of the Commercial Courts Act, 2015: Jurisdiction of Commercial Divisions of High Courts. \nSection 13 of the Commercial Courts Act, 2015: Appeals from decrees of Commercial Courts and Commercial Divisions.",
+    "Context": "Jurisdiction of Commercial Courts, appeals against orders passed by Commercial Courts or Divisions, interpretation of the Commercial Courts Act, 2015."
+  },
+  {
+    "Query": "A plaintiff filed a suit in the High Court seeking to recover a sum of Rs. 5 crore from the defendant. The defendant moved the High Court to revoke the leave granted to the plaintiff to file the suit, arguing that the dispute falls within the jurisdiction of a Commercial Court. The High Court refused to revoke leave. The defendant now seeks to appeal against this order.",
+    "Legal Principles": "The Commercial Courts Act, 2015 establishes a specialized framework for resolving commercial disputes. The Act aims to ensure a prompt and efficient resolution of these disputes.",
+    "Relevant Sections": "Section 4 of the Commercial Courts Act, 2015: Constitution of Commercial Division of High Court. \nSection 7 of the Commercial Courts Act, 2015: Jurisdiction of Commercial Divisions of High Courts. \nSection 13 of the Commercial Courts Act, 2015: Appeals from decrees of Commercial Courts and Commercial Divisions.",
+    "Context": "Jurisdiction of Commercial Courts, appeals against orders passed by Commercial Courts or Divisions, interpretation of the Commercial Courts Act, 2015, legislative intent."
+  },
+  {
+    "Query": "A company filed a suit in the High Court for breach of contract. The defendant sought to revoke the leave granted to the plaintiff to file the suit, arguing that the dispute falls within the jurisdiction of a Commercial Court. The High Court dismissed the defendant's application. The defendant now seeks to appeal against this order.",
+    "Legal Principles": "The Commercial Courts Act, 2015 seeks to promote efficient resolution of commercial disputes. The Act aims to streamline proceedings and reduce delays in the justice system.",
+    "Relevant Sections": "Section 7 of the Commercial Courts Act, 2015: Jurisdiction of Commercial Divisions of High Courts. \nSection 13 of the Commercial Courts Act, 2015: Appeals from decrees of Commercial Courts and Commercial Divisions.",
+    "Context": "Jurisdiction of Commercial Courts, appeals against orders passed by Commercial Courts or Divisions, interpretation of the Commercial Courts Act, 2015, legislative intent."
+  }
+]
+```

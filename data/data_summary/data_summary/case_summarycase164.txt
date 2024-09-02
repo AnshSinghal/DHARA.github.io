@@ -1,0 +1,144 @@
+## 1. Case Title
+
+* **Case Name:** Bharat Coking Coal Limited vs. M/S. At-Libra BPL (JV)
+* **Court:** Jharkhand High Court
+* **Date of Judgment:** 8th August 2024
+* **Citation:** Commercial Appeal No. 18 of 2023
+
+## 2. Background and Context
+
+* **Brief Overview:** This case involves a contractual dispute between Bharat Coking Coal Limited (BCCL), a public sector undertaking, and M/S. At-Libra BPL (JV), a joint venture firm engaged in mining and transportation. BCCL awarded a contract to At-Libra for coal extraction and transportation from a specific project site in Jharkhand. The contract was initially for 72 months and later extended by 625 days due to hindrances. However, BCCL terminated the contract midway and encashed the bank guarantee, alleging default by At-Libra. At-Libra filed a suit against BCCL seeking declaration, injunction, and recovery of money, claiming that BCCL wrongfully terminated the contract and refused to provide a work schedule necessary for completion. 
+* **Key Issues:**
+    * Whether BCCL’s termination of the contract was justified.
+    * Whether BCCL's refusal to provide a work schedule for the extended contract period constituted a breach of contract.
+    * Whether At-Libra was entitled to damages for the loss of profit due to the termination and the non-supply of the work schedule.
+    * Whether At-Libra was entitled to a refund of the bank guarantee and interest on the amount withheld by BCCL.
+    * Whether At-Libra was entitled to reimbursement for service tax paid and differential wages.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * Commercial Courts Act, 2015: Sections 13, 13(1-A), 13(2), 16
+    * Civil Procedure Code, 1908: Order VI Rule 3-A, Order VII Rule 2-A, Order VIII, Order XI, Order 39 Rule 1 & 2
+    * Indian Contract Act, 1872: Sections 49, 51, 52, 53, 54, 67, 70, 73
+    * Evidence Act, 1872: Sections 34, 62, 63, 64, 65, 102
+    * Interest Act: Sections 2(b), 3(b)
+* **Precedents Cited:**
+    * Deoraj Singh vs. CCL (2023 SCC Online Jhar 1558)
+    * Indicon Westfalia Ltd. vs. Yogendra Nath Tiwary (2023 SCC Online Jhar 558)
+    * Jaycee Housing Private Limited v. Registrar (general), Orissa High Court, Cuttack (2023) 1 SCC 549
+    * Kandla Export Corporation v. OCI Corporation (2018) 14 SCC 715
+    * Kishore Kirtilal Mehta v. Lilavati Kirtilal Mehta Medical Trust (2007) 10 SCC 21
+    * Bachhaj Nahar v. Nilima Mandal (2008) 17 SCC 491
+    * Bhagwati Prasad v. Chandramaul (1966) 2 SCR 286
+    * Ram Sarup Gupta v. Bishun Narain Inter College (1987) 2 SCC 555
+    * Mohammed Abdul Wahid v. Nilofer (2024) 2 SCC 144
+    * Arulvelu v. State (2009) 10 SCC 206
+    * Kuldeep Singh v. Commissioner of Police (1999) 2 SCC 10
+    * H.B. Gandhi v. M/s Gopi Nath & Sons (1992 Supp (2) SCC 312)
+    * Chairman, Life Insurance Corporation of India v. A. Masilamani (2013) 6 SCC 530
+    * BSNL v. BPL Mobile Cellular Ltd. (2008) 13 SCC 597
+    * Bhikraj Jaipuria v. Union of India (AIR 1962 SC 113)
+    * New India Assurance Co. Ltd. v. Nusli Neville Wadia (2008) 3 SCC 279
+    * Dalchand v. Municipal Corporation, Bhopal (1984) 2 SCC 486
+    * Patil Automation (P) Ltd. v. Rakheja Engineers (P) Ltd. (2022) 10 SCC 1
+    * Bhavnagar University v. Palitana Sugar Mill (P) Ltd. (2003) 2 SCC 111
+* **Legal Doctrines:**
+    * **Breach of Contract:** The court applied the principles of breach of contract, focusing on the duty to perform reciprocal promises in a contract.
+    * **Damages for Breach of Contract:** The court examined the principles for awarding damages under Section 73 of the Indian Contract Act, considering loss of profit and other incurred expenses.
+    * **Interpretation of Contracts:** The court analyzed the contract language, considering the definitions and meanings of key terms like "contract," "work," "contract documents," "work schedule," and "transportation schedule."
+    * **Estoppel, Waiver, and Acquiescence:** The court considered these doctrines to assess whether At-Libra was barred from claiming relief due to its actions or inaction.
+    * **Perversity of Findings:** The court applied the principle of perversity to assess whether the trial court's findings were based on no evidence or unreliable evidence.
+    * **Active Consideration:** The court evaluated whether the trial court actively applied its mind to the evidence and legal issues while reaching its decision.
+    * **Mandatory vs. Directory Provisions:** The court examined the distinction between mandatory and directory provisions of law, particularly in relation to the interest rate awarded.
+
+## 4. Arguments Presented
+
+* **Plaintiff's Argument (At-Libra):**
+    * BCCL wrongfully terminated the contract and refused to provide a work schedule for the extended period, constituting a breach of contract.
+    * The non-supply of the work schedule hindered At-Libra's ability to complete the contract, resulting in loss of profit and other expenses.
+    * The bank guarantee was illegally encashed without justification or notice to At-Libra.
+    * At-Libra is entitled to damages, including loss of profit, EMI payments on equipment, refund of the bank guarantee, interest on withheld funds, service tax reimbursement, and reimbursement for differential wages. 
+* **Defendant's Argument (BCCL):**
+    * At-Libra failed to complete the work within the stipulated time, even after the extended period.
+    * At-Libra did not submit a transportation schedule, which was a condition precedent for issuing a work schedule.
+    * BCCL was justified in terminating the contract and encashing the bank guarantee due to At-Libra's default.
+    * At-Libra's claims are exaggerated and unsupported by evidence.
+    * The trial court erred in awarding interest at 10.5% p.a., which is not in accordance with the Commercial Courts Act or the Interest Act.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The court found that the non-supply of a work schedule for the extended contract period by BCCL amounted to a breach of contract.
+    * The work schedule is an essential component of the contract, linked to the measurement of work, payment, and penalties.
+    * The court rejected BCCL's contention that the transportation schedule was a condition precedent for issuing the work schedule, finding that the transportation schedule was a continuous requirement throughout the contract and was already provided by At-Libra.
+    * The court determined that BCCL's termination of the contract was unjustified and amounted to a cover-up for their breach of contract by not providing the work schedule.
+    * The court found that BCCL's encashment of the bank guarantee was illegal and malafide, as At-Libra was not in default and was not given any opportunity to present its case.
+    * The court acknowledged that At-Libra was not in breach of contract and was ready to resume work upon receiving the work schedule, but BCCL intentionally withheld the work schedule to create a situation where At-Libra could not complete the contract.
+* **Interpretation of Law:**
+    * The court interpreted the contract language and determined that the work schedule was a fundamental requirement for the execution and completion of the contract, even during the extended period.
+    * The court interpreted the provisions of the Commercial Courts Act, finding that its scope for interference is limited to perversity of findings and not a full-fledged re-appreciation of evidence as in a regular first appeal under the CPC.
+    * The court interpreted the provisions of the CPC, Order VIII Rule 3-A, regarding specific denials, finding that BCCL's failure to specifically deny the requirement of a work schedule amounted to admission.
+    * The court interpreted the provisions of the CPC, Order XI, regarding admission and denial of documents, finding that BCCL's failure to deny the genuineness of documents submitted by At-Libra amounted to admission.
+    * The court interpreted the provisions of the Interest Act and the CPC, Order VII, regarding the interest rate, finding that the provisions are directory and not mandatory.
+* **Application of Law:**
+    * The court applied the principles of breach of contract to BCCL's actions, finding that their failure to provide the work schedule constituted a breach of the reciprocal promises in the contract.
+    * The court applied the principles of damages for breach of contract, awarding compensation to At-Libra for their loss of profit and other incurred expenses.
+    * The court applied the principles of estoppel, waiver, and acquiescence, finding that BCCL could not raise new arguments regarding the transportation schedule at the appellate stage.
+    * The court applied the principle of perversity, finding that the trial court's decision was not based on no evidence or unreliable evidence and was actively considered.
+    * The court applied the principle of mandatory vs. directory provisions, finding that the provisions regarding the interest rate were directory and the trial court's award of interest was justified.
+
+## 6. Judgment
+
+* **Final Decision:** The appeal was dismissed.
+* **Relief Granted:** The court upheld the trial court's judgment in favor of At-Libra, confirming the following:
+    * A decree of declaration that BCCL's termination of the contract was illegal and unjustified.
+    * A decree of direction to BCCL to pay a sum of Rs. 4,20,02,320/- as a refund of the bank guarantee and retention money.
+    * A decree of direction to BCCL to pay Rs. 1,80,40,014/- as reimbursement for differential wages.
+    * A decree of direction to BCCL to pay Rs. 2,63,19,879/- as illegally withheld money.
+    * A decree of direction to BCCL to reimburse Rs. 2,43,07,069/- for service tax paid by At-Libra.
+    * A decree of direction to BCCL to pay Rs. 4,98,45,047.88/- for the correct specific gravity of coal.
+    * A decree of direction to BCCL to pay Rs. 1,93,83,855/- for work done in February 2018.
+    * A decree of direction to BCCL to pay Rs. 1,34,73,451/- for work done in March 2018.
+    * A decree of direction to BCCL to pay Rs. 13,41,16,526/- as opportunity cost for the loss of profit.
+    * A decree of direction to BCCL to pay Rs. 13,46,06,546.43/- for the cost incurred on EMI payments for equipment.
+    * Interest on the total monetary claim at 10.5% p.a. pendant lite and till realization.
+* **Orders:** The court directed the disposal of any pending interlocutory applications.
+
+## 7. Implications
+
+* **Impact on Law:**
+    * This judgment reinforces the importance of providing work schedules in contracts, particularly when extensions are granted.
+    * The judgment emphasizes the consequences of failing to perform reciprocal promises in a contract.
+    * The judgment highlights the limited scope of appeals under the Commercial Courts Act, focusing on perversity of findings rather than re-appreciation of evidence.
+    * The judgment clarifies the interpretation of specific denial provisions in the CPC, Order VIII Rule 3-A, and the admission/denial of documents provisions in the CPC, Order XI.
+* **Future Relevance:**
+    * This case will likely influence future decisions regarding the interpretation and enforcement of work schedules in contracts.
+    * The judgment provides guidance on the scope and limits of appeals under the Commercial Courts Act.
+    * The case will be cited as an example of the consequences of breaching contracts and the importance of fulfilling reciprocal promises.
+* **Broader Context:**
+    * The case highlights the complexities of contractual disputes in the mining sector.
+    * The judgment underscores the importance of clear and unambiguous contracts to avoid future disputes.
+    * The case emphasizes the need for fair and transparent dealings between public sector undertakings and private entities.
+
+## 8. Summary Points
+
+* BCCL's failure to provide a work schedule for the extended contract period constituted a breach of contract.
+* The work schedule is crucial for measurement, payment, and performance appraisal in contracts.
+* The court rejected BCCL's justification for terminating the contract and encashing the bank guarantee.
+* At-Libra was awarded damages for loss of profit, EMI payments, and other expenses.
+* The judgment emphasizes the limited scope of appeals under the Commercial Courts Act.
+
+## 9. References
+
+* **Citations:**
+    * Commercial Courts Act, 2015
+    * Civil Procedure Code, 1908
+    * Indian Contract Act, 1872
+    * Evidence Act, 1872
+    * Interest Act
+    * All case citations listed in the judgment.
+* **Further Reading:**
+    * Other cases involving breach of contract and damages in the mining sector.
+    * Legal texts on the interpretation and enforcement of contracts.
+    * Articles and studies on the Commercial Courts Act, 2015. 

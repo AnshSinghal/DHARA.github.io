@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A plaintiff, a non-banking finance company, seeks to execute an arbitration award against a borrower. The borrower argues that the Commercial Court lacks jurisdiction because the State Government hasn't specified a pecuniary value for the Court.  The plaintiff argues the  'specified value' for the Commercial Court should default to the minimum value established by the Central Government.  How does the Court decide if the Commercial Court has jurisdiction?",
+    "Legal Principles": "The Court must interpret the provisions of the Commercial Courts Act, 2015, specifically Sections 2(1)(i) and 3(1-A) as amended by Act 28 of 2018, to determine the jurisdictional threshold of the Commercial Court. The Court will consider the interplay of Central Government and State Government notification powers in setting 'specified value' for Commercial Courts.  ",
+    "Relevant Sections": "**Section 2(1)(i) of the Commercial Courts Act, 2015** (as amended by Act 28 of 2018):  'Specified Value', in relation to a commercial dispute, shall mean the value of the subject-matter in respect of a suit as determined in accordance with section 12 [which shall not be less than three lakh rupees] or such higher value, as may be notified by the Central Government... \n **Section 3(1-A) of the Commercial Courts Act, 2015** (as amended by Act 28 of 2018): Notwithstanding anything contained in this Act, the State Government may, after consultation with the concerned High Court, by notification, specify such pecuniary value which shall not be less than three lakh rupees or such higher value, for whole or part of the State, as it may consider necessary.",
+    "Context": "This query concerns the jurisdiction of Commercial Courts in India under the Commercial Courts Act, 2015, and the impact of the 2018 amendment on the jurisdictional threshold. The specific issue is whether the Central Government's notification of a minimum 'specified value' overrides the requirement for a State Government notification."
+  },
+  {
+    "Query": "A company seeks to enforce an arbitration award against a defendant.  The defendant claims the arbitration award was invalid due to procedural irregularities in the arbitration process. The company argues the defendant waived any procedural objections by participating in the arbitration without raising these objections. What are the legal arguments for and against the company's waiver claim?",
+    "Legal Principles": "The Court will consider the doctrine of waiver in the context of arbitration proceedings. The key factors include the nature of the alleged procedural irregularities, the defendant's knowledge of these irregularities, their participation in the arbitration proceedings, and whether their participation constituted a clear intention to waive any objections to the process.",
+    "Relevant Sections": "N/A - This query involves a legal principle (waiver) and its application to arbitration proceedings, rather than specific statutory sections.",
+    "Context": "This query examines the concept of waiver in arbitration proceedings. The Court will need to analyze the specific facts of the case to determine if the defendant's participation in the arbitration constitutes a waiver of procedural objections."
+  },
+  {
+    "Query": "A contractor sues a client for non-payment of services. The client claims the contract was breached by the contractor, resulting in the client's refusal to pay. The contractor argues the client failed to provide adequate notice of the breach. How does the Court determine if the client's notice of breach was sufficient?",
+    "Legal Principles": "The Court will examine the terms of the contract, particularly those relating to notice of breach. It will also consider general principles of contract law regarding the requirement of reasonable notice. The Court will assess the timeliness, content, and form of the notice provided by the client.",
+    "Relevant Sections": "N/A - This query involves the interpretation of contract terms and principles of contract law, rather than specific statutory sections.",
+    "Context": "This query involves a contract dispute with specific focus on the requirement of adequate notice of breach. The Court's analysis will depend on the specific provisions of the contract and the surrounding circumstances."
+  },
+  {
+    "Query": "A landlord files an eviction action against a tenant for non-payment of rent. The tenant claims the landlord breached the lease agreement by failing to maintain the premises in a habitable condition. Can the tenant assert this counterclaim as a defense to the eviction?",
+    "Legal Principles": "The Court will consider the principles of constructive eviction, where a landlord's breach of the lease agreement renders the premises uninhabitable. The Court will analyze the nature of the landlord's breach, the impact on the tenant's enjoyment of the premises, and whether the tenant was justified in abandoning the premises.",
+    "Relevant Sections": "N/A - This query involves the application of landlord-tenant law and the principle of constructive eviction, rather than specific statutory sections.",
+    "Context": "This query involves a landlord-tenant dispute and examines the legal implications of a landlord's breach of a lease agreement. The Court will need to determine if the tenant's counterclaim has merit and can be asserted as a defense to the eviction action."
+  },
+  {
+    "Query": "A bank seeks to foreclose on a property due to the borrower's default on a mortgage loan. The borrower claims the bank violated the terms of the mortgage agreement by failing to properly process a modification request. How does the Court assess the bank's compliance with the mortgage agreement?",
+    "Legal Principles": "The Court will examine the terms of the mortgage agreement, particularly those related to loan modifications and the bank's obligations in processing such requests. The Court will also consider any applicable state or federal regulations governing mortgage lending practices.",
+    "Relevant Sections": "N/A - This query involves the interpretation of a mortgage agreement and the application of relevant regulations, rather than specific statutory sections.",
+    "Context": "This query involves a mortgage foreclosure action and focuses on the borrower's allegation of a bank's violation of the mortgage agreement. The Court's analysis will depend on the specific terms of the agreement and any applicable regulations."
+  },
+  {
+    "Query": "A small business owner is sued by a former employee for wrongful termination. The employee alleges the termination was based on discriminatory reasons. The business owner argues the termination was due to legitimate business reasons. What are the legal standards for proving wrongful termination and discrimination?",
+    "Legal Principles": "The Court will apply the applicable legal framework for wrongful termination, which may involve state law claims (e.g., breach of contract) and/or federal law claims (e.g., discrimination under Title VII). The Court will evaluate the employee's evidence of discriminatory motivation and the business owner's evidence of legitimate business reasons.",
+    "Relevant Sections": "Title VII of the Civil Rights Act of 1964, applicable state law statutes on wrongful termination, relevant case law on employment discrimination.",
+    "Context": "This query involves an employment dispute with allegations of wrongful termination and discrimination. The Court's decision will depend on the applicable legal standards for proving these claims."
+  },
+  {
+    "Query": "A plaintiff sues a defendant for personal injuries caused by a car accident. The defendant argues the plaintiff's own negligence contributed to the accident. How does the Court determine if the plaintiff's negligence reduces their recovery?",
+    "Legal Principles": "The Court will apply the principles of contributory negligence or comparative negligence. These doctrines allow for reduction of a plaintiff's damages based on their own negligence. The Court will assess the degree of fault attributable to both parties.",
+    "Relevant Sections": "N/A - This query involves the application of negligence principles in personal injury cases, rather than specific statutory sections.",
+    "Context": "This query involves a personal injury case with the defendant raising the defense of contributory or comparative negligence. The Court's analysis will focus on apportioning fault between the parties."
+  },
+  {
+    "Query": "A homeowner sues a contractor for breach of contract for faulty construction work. The contractor argues the homeowner's delay in providing access to the work site contributed to the delays and defects in the work. How does the Court determine if the homeowner's delay constitutes a material breach of contract?",
+    "Legal Principles": "The Court will examine the contract terms, including provisions relating to timeliness of performance and access to the work site. The Court will analyze the nature and extent of the homeowner's delay and its impact on the contractor's ability to perform the work.",
+    "Relevant Sections": "N/A - This query involves the interpretation of contract terms and the application of principles of material breach, rather than specific statutory sections.",
+    "Context": "This query involves a construction contract dispute with the contractor alleging the homeowner's delay constitutes a breach. The Court's analysis will depend on the specific contract terms and the circumstances of the delay."
+  },
+  {
+    "Query": "A partnership is dissolved, and one partner files a lawsuit against the other for breach of fiduciary duty. The plaintiff partner alleges the defendant partner engaged in self-dealing and diverted partnership opportunities for personal gain. How does the Court determine if a partner breached their fiduciary duty?",
+    "Legal Principles": "The Court will apply the principles of partnership law and fiduciary duty. It will analyze the defendant partner's actions to determine if they violated their duty of loyalty, good faith, and fairness to the partnership and the other partners.",
+    "Relevant Sections": "Relevant state partnership law statutes, case law on fiduciary duties in partnerships.",
+    "Context": "This query involves a partnership dispute alleging a breach of fiduciary duty. The Court will need to determine if the defendant partner's actions violated their duty to the partnership."
+  },
+  {
+    "Query": "A debtor files for bankruptcy.  A creditor objects to the debtor's proposed Chapter 7 plan, arguing the debtor has the ability to repay their debts through a Chapter 13 plan. What are the factors the Court considers when deciding whether to convert a Chapter 7 case to a Chapter 13 case?",
+    "Legal Principles": "The Court will examine the factors outlined in the Bankruptcy Code, specifically 11 U.S.C. § 706(a), for determining if conversion to a Chapter 13 plan is appropriate. The Court will analyze the debtor's income, expenses, and ability to repay debts under a Chapter 13 plan.",
+    "Relevant Sections": "11 U.S.C. § 706(a) -  Conversion of Chapter 7 to Chapter 13.",
+    "Context": "This query involves a bankruptcy case where a creditor is seeking conversion from Chapter 7 to Chapter 13. The Court will apply the relevant legal standards for conversion."
+  }
+]
+```

@@ -1,0 +1,106 @@
+##  1. Case Title
+
+  *  **Case Name:** M/S Univabs Sleepers Pvt. Ltd vs Union Of India 
+  *  **Court:** Chattisgarh High Court
+  *  **Date of Judgment:** 12 October, 2018
+  *  **Citation:** 16 Arba/46/2017 Union Of ...
+
+## 2. Background and Context
+
+  *  **Brief Overview:** M/s Univabs Sleepers Pvt. Ltd. (Univabs) entered into a contract with the Union of India (Union) for the manufacture and supply of concrete sleepers for the railway. The initial contract was for two years and one month with a target quantity of 255,000 sleepers. The contract was later extended and the quantity increased. 
+  *  **Key Issues:** 
+    *  Whether Univabs was entitled to additional claims not included in the initial demand for arbitration.
+    *  Whether the Arbitrator correctly determined that the Union was in breach of contract.
+    *  Whether the Arbitrator's finding on Univabs' claim for faulty price variation formula, VAT credit, and demurrage charges warranted interference.
+    *  Whether the Commercial Court had the power to modify the Award instead of simply setting it aside.
+
+## 3. Legal Principles Involved
+
+  *  **Relevant Statutes and Provisions:**
+    *  Arbitration and Conciliation Act, 1996 (Act of 1996) - Sections 16, 23, 34.
+    *  Indian Contract Act, 1872 (Act of 1872) - Sections 73, 74, 75.
+    *  Indian Railways Standard Conditions of Contract (IRS) - Clause 2900 (a).
+  *  **Precedents Cited:** 
+    *  Himachal Pradesh State Electricity Board Vs. R.J. Shah & Company (1999) 4 SCC 214
+    *  Divisional Controller, KSRTC Vs. Mahadeva Shetty and Anr. (2003) 7 SCC 197
+    *  State of Gujarat & Ors. Vs. Utility Users' Welfare Association & Ors. (2018 SCC Online SC 368)
+    *  State of Goa Vs. Praveen Enterprises (2012) 12 SCC 581
+    *  Oil and Natural Gas Corporation Limited Vs. Western Geco International Limited (2014) 9 SCC 263
+    *  Gayatri Balaswami Vs. ISG Novasoft Technologies Ltd. 2014 (6) CTC 602
+    *  Maharashtra State Electricity Distribution Company Ltd. Vs. M/s. Datar Switchgear Limited & Ors.(2018 SCC Online SC 20)
+    *  M/s .A.T. Brij Paul Sing & Ors. State of Gujarat (1984) 4 SCC 59
+    *  M.P. Power Generation Co. Ltd. & Anr. Ansaldo Energia SPA & Anr. (2018 SCC Online SC 385)
+    *  ONGC Ltd. Vs. Saw Pipes Ltd (2003) 5 SCC 705
+    *  Hindustan Zinc Ltd. Vs. Friends Coal Carbonisation (2006) 4 SCC 445
+    *  Mcdermott International Inc. Vs. Burn Standard Co. Ltd. (2006) 11 SCC 181
+    *  Centrotrade Minerals & Metals Inc. Vs. Hindustan Copper Ltd. (2006) 11 SCC 245
+    *  DDA Vs. R.S. Sharma and Co. (2008)13 SCC 80
+    *  J.G. Engineers (P) Ltd. Vs. Union of India (2011) 5 SCC 758
+    *  Union of India Vs. Col. LSN Murthy (2012) 1 SCC 718
+    *  Rashtriya Ispat Nigam Limited Vs. Dewan Chand Ram Saran (2012) 5 SCC 306
+    *  MSK Projects (I) (JV) Ltd. v. State of Rajasthan, (2011) 10 SCC 573
+    *  National Highways Authority of India Vs. ITD Cementation India Limited (2015) 14 SCC 21
+    *  Karasands H. Thacker Vs. M/s The Saran Engineering Co. Ltd. (AIR 1965 SC 1981)
+    *  M/s. A.T. Brij Paul Singh And Ors. Vs. State of Gujarat (1984) 4 SCC 59
+    *  Maharashtra State Electricity Distribution Company Ltd. Vs. M/s. Datar Switchgear Limited & Ors., (2018 SCC Online SC 20)
+    *  Indian Oil Corporation Ltd. vs. Amritsar Gas Service and Ors. - 1991(1) SCC 533
+    *  Gayatri Balaswamy Vs. ISG Novasoft Technologies Ltd (2014) 6 CTC 602
+  *  **Legal Doctrines:**
+    *  **Public Policy:** The court examines the concept of public policy as defined under the Act of 1996, particularly in the context of "patent illegality" and "fundamental policy of Indian law."
+    *  **Breach of Contract:**  The court analyzes the principles of breach of contract and the right to compensation for damages under the Act of 1872.
+    *  **Interpretation of Contractual Terms:**  The court considers the principles of interpretation of contractual terms, particularly in the context of arbitration clauses and price variation formulas.
+    *  **Scope of Judicial Interference:** The court explores the boundaries of judicial interference in arbitration proceedings, specifically under Section 34 of the Act of 1996.
+
+## 4. Arguments Presented
+
+  *  **Univabs’ Argument:** 
+    *  The Arbitrator was wrong in excluding Univabs’ additional claims from the scope of arbitration.
+    *  The Arbitrator erred in finding that Univabs was not entitled to damages for the Union’s breach of contract.
+    *  The Arbitrator's findings on specific claims, such as faulty price variation formula, VAT credit, and demurrage charges, were flawed.
+    *  The Commercial Court should have modified the Award to award damages and adjudicate on the additional claims instead of simply setting aside the Award.
+  *  **Union’s Argument:**
+    *  The additional claims raised by Univabs were beyond the scope of the initial reference to arbitration.
+    *  The Union did not breach the contract as its sole responsibility was to nominate cement suppliers, and it could not be held accountable for the supplier's failure to meet supply obligations.
+    *  The Arbitrator correctly interpreted the contract terms and conditions regarding price variation formula, VAT credit, and demurrage charges.
+    *  The Commercial Court was limited to setting aside the Award and could not modify or correct it.
+
+## 5. Court’s Analysis and Reasoning
+
+  *  **Key Findings:**
+    *  The court held that the Arbitrator erred in excluding Univabs’ additional claims, relying on the precedent set in *Praveen Enterprises* (supra).
+    *  The court concluded that the Arbitrator's finding on the Union's breach of contract was not perverse or illegal.
+    *  The court found that the Arbitrator's decision on specific claims, such as faulty price variation formula, VAT credit, and demurrage charges, suffered from legal flaws, particularly in the case of demurrage charges.
+    *  The court affirmed the Commercial Court's decision to set aside the Award regarding the additional claims and breach of contract but rejected the Commercial Court's power to modify the Award.
+  *  **Interpretation of Law:**
+    *  The court interpreted Section 34 of the Act of 1996 and its amendments to emphasize the limited scope of judicial interference in arbitration proceedings.
+    *  The court interpreted the relevant provisions of the Act of 1872 to clarify the principles of compensation for breach of contract.
+    *  The court analyzed the arbitration clause in the contract and the precedents related to the interpretation of contractual terms.
+  *  **Application of Law:**
+    *  The court applied the principles of public policy, breach of contract, and interpretation of contractual terms to the specific facts of the case.
+    *  The court analyzed the arguments presented by both parties in light of the applicable legal provisions and precedents.
+
+## 6. Judgment
+
+  *  **Final Decision:** The court partly allowed the appeal filed by Univabs and dismissed the appeal filed by the Union.
+  *  **Relief Granted:**  The court did not award damages or make specific findings on the merits of the additional claims.
+  *  **Orders:** The court directed that Univabs could re-initiate arbitration proceedings to seek adjudication of the additional claims and compensation for the Union’s breach of contract.
+
+## 7. Implications
+
+  *  **Impact on Law:** The judgment reinforces the limited scope of judicial interference in arbitration proceedings under the Act of 1996, particularly with respect to the power of courts to modify awards. 
+  *  **Future Relevance:** The judgment provides guidance on the application of the principles of public policy and breach of contract in arbitration cases.
+  *  **Broader Context:** The case highlights the complexities of contractual disputes involving government entities and the role of arbitration in resolving such disputes.
+
+## 8. Summary Points
+
+  *  The court upheld the Arbitrator's finding that the Union breached the contract, but found that the Arbitrator erred in excluding Univabs' additional claims.
+  *  The court clarified the limited power of courts to modify awards under Section 34 of the Act of 1996, emphasizing that courts can only set aside the award and not correct errors of the arbitrator.
+  *  The court confirmed the right of a party to seek compensation for a breach of contract under the Indian Contract Act, even in the absence of specific provisions in the contract.
+
+## 9. References
+
+  *  **Citations:** See "Precedents Cited" section.
+  *  **Further Reading:**
+    *  Arbitration and Conciliation Act, 1996
+    *  Indian Contract Act, 1872
+    *  Cases related to public policy, breach of contract, and the interpretation of contractual terms in arbitration proceedings.

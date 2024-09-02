@@ -1,0 +1,118 @@
+## 1. Case Title
+
+* **Case Name:** Sunrise Industries India Limited vs. Pt Oki Pulp And Paper Mills & Anr.
+* **Court:** Gujarat High Court
+* **Date of Judgment:** 12th January 2017
+* **Citation:** AIR 2017 (NOC) 1114 (GUJ.)
+
+## 2. Background and Context
+
+* **Brief Overview:** This case involves a dispute between Sunrise Industries India Limited (plaintiff) and PT Oki Pulp And Paper Mills (defendant No. 1), a company based in Indonesia, regarding a contract for the supply and installation of equipment for a pulp mill in Indonesia. A bank guarantee (defendant No. 2) was issued in favor of the defendant No. 1 to secure the performance of the contract.  A disagreement arose between the parties, leading the defendant No. 1 to invoke the bank guarantee and demand payment from the bank. The plaintiff then filed a suit in the Commercial Court, Vadodara seeking an injunction to prevent the bank from paying the defendant No. 1 and to declare that the bank was not obligated to honor the guarantee. 
+
+* **Key Issues:**
+    * Whether the Commercial Court, Vadodara had territorial jurisdiction to hear the suit in light of a clause in the contract that stipulated exclusive jurisdiction in the Courts of Singapore.
+    * Whether the plaintiff was entitled to an injunction restraining the bank from honoring the bank guarantee. 
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * Code of Civil Procedure, 1908 (CPC):
+        * Order VII Rule 10
+        * Order VII Rule 11
+        * Section 20(3)
+    * Companies Act, 1956
+
+* **Precedents Cited:**
+    * Modi Entertainment Network & Anr. vs. W.S.G. Cricket Pte. Ltd. reported in (2003)4 SCC 341
+    * Sukanya Holdings (P) Ltd. vs. Jayesh H. Pandya and Anr. reported in (2003)5 SCC 531
+    * Mukeshkumar Mohanlal Mashru vs. Dilipkumar Mohanlal Mashru & Ors. rendered in Civil Revision Application No.462/1998
+    * Lark Laboratories Ltd. vs. Nabros Pharma Pvt. Ltd. reported in 2009(2) GLR 1376
+    * M/s. Tec Papers Pvt. Ltd. Thro' Director, Yogesh Shivshanker vs. Ahmedabad Municipal Corporation & Anr. reported in 2009(3) GLH 511
+    * T. Arivandandam vs. T. V. Satyapal and Anr. reported in (1977)4 SCC 467
+    * South East Asia Shipping Co. Ltd. vs. Nav Bharat Enterprises Pvt. Ltd. reported in (1996)3 SCC 443
+    * U.P. State Sugar Corporation vs. Sumac International Ltd. reported in (1997)1 SCC 568
+    * Dwarikesh Sugar Industries Ltd. vs. Prem Heavy Engineering Works (P) Ltd. reported in (1997)6 SCC 450
+    * Piramal Healthcare Limited (Formerly known as Nicholas Piramal India Ltd.) vs. Diasorin S.P.A reported in (2010) 172 DLT 131
+* **Legal Doctrines:**
+    * Territorial Jurisdiction: Determining which court has the authority to hear a case based on geographical considerations.
+    * Forum Conveniens: The doctrine of choosing the most appropriate forum for a case based on factors like the convenience of the parties and witnesses.
+    * Anti-Suit Injunction: An injunction to prevent a party from pursuing a lawsuit in another court, often based on the existence of a forum selection clause or when the other court is considered an inappropriate forum.
+    * Ouster Clause: A clause in a contract that seeks to exclude the jurisdiction of specific courts.
+    * Inherent Jurisdiction: The inherent power of a court to regulate its own proceedings and enforce its orders.
+    * Part Cause of Action: A legal concept where a part of the cause of action for a claim arises within the jurisdiction of a specific court.
+
+## 4. Arguments Presented
+
+* **Plaintiff’s Argument:**
+    * The plaintiff argued that the Commercial Court, Vadodara had territorial jurisdiction to hear the suit, even though the contract contained an ouster clause specifying the Courts of Singapore, because the bank (defendant No. 2) was not a party to the contract and therefore could not be sued in Singapore. 
+    * The plaintiff argued that the Commercial Court, Vadodara was the natural forum for the case since the bank guarantee was issued and received in Vadodara. 
+    * The plaintiff also argued that the suit was for a permanent injunction against the bank, not a breach of contract against the defendant No. 1, making the Singapore Court inapplicable for this specific relief.
+    * The plaintiff claimed that the defendant No. 1 had not followed the proper procedure for challenging the court's jurisdiction under Order VII Rule 10 or by raising a preliminary issue.
+    * The plaintiff relied heavily on the Supreme Court's decision in Modi Entertainment Network (2003) 4 SCC 341 to argue that even in the presence of an ouster clause, a natural court could still exercise jurisdiction in exceptional circumstances.
+    * The plaintiff also emphasized that the Commercial Court, Vadodara had not considered the application for injunction on its merits, solely dismissing it based on the jurisdiction argument.
+
+* **Defendant’s Argument:**
+    * The defendant No. 1 argued that the Commercial Court, Vadodara lacked territorial jurisdiction because the parties had chosen the Courts of Singapore as a neutral forum to resolve disputes as per Clause 6 of the contract.
+    * The defendant No. 1 claimed that the plaintiff was trying to circumvent the ouster clause by naming the bank as a defendant and that the true cause of action was against the defendant No. 1 for breach of contract.
+    * The defendant No. 1 argued that the plaintiff was not entitled to an injunction against the bank because there were no allegations of a breach of the bank guarantee.
+    * The defendant No. 1 relied on various Supreme Court precedents including South East Asia Shipping Co. Ltd. (1996) 3 SCC 443 to argue that the cause of action for a bank guarantee arises where the bank is located.
+    * The defendant No. 1 argued that the plaintiff's conduct in initiating proceedings in Singapore, after the case was heard in the Gujarat High Court, was a breach of contract and disentitled them from obtaining an injunction.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The Gujarat High Court found that the Commercial Court, Vadodara had not been justified in dismissing the suit solely based on the findings made while deciding the interim injunction application without giving the plaintiff an opportunity to present arguments on jurisdiction. 
+    * The court held that Order VII Rule 10 of the CPC was not applicable in this case because the Commercial Court, Vadodara, as the natural court, did not lack inherent jurisdiction.
+    * The court further observed that even if Order VII Rule 10 was applicable, it could not be used to dismiss a suit; the court could only return the plaint to the plaintiff to be filed in an appropriate court.
+    * The court recognized that the Supreme Court's decision in Modi Entertainment Network (2003) 4 SCC 341 established that a natural court can exercise jurisdiction despite an ouster clause in exceptional circumstances, such as when the forum of choice is not convenient or when a party is seeking relief that cannot be obtained in the chosen forum. 
+    * The court acknowledged that the plaintiff had initiated proceedings in Singapore after the hearing in the Gujarat High Court. 
+
+* **Interpretation of Law:**
+    * The court interpreted the ouster clause in the contract as creating a non-exclusive jurisdiction, meaning that the parties had agreed to submit to the jurisdiction of the Singapore courts but did not exclude the jurisdiction of other courts.
+    * The court emphasized that a court's inherent jurisdiction cannot be easily excluded by a contractual clause.
+
+* **Application of Law:**
+    * The court applied the principles of territorial jurisdiction and forum conveniens to determine that the Commercial Court, Vadodara could potentially have jurisdiction to hear the suit, even with the ouster clause, considering the unique circumstances of the case.
+    * The court emphasized the importance of giving parties a fair opportunity to be heard on jurisdictional issues and the inadmissibility of dismissing a suit solely based on observations made in an interim injunction application.
+    * The court considered the arguments presented by both sides and carefully reviewed the relevant legal precedents.
+
+## 6. Judgment
+
+* **Final Decision:** The Gujarat High Court allowed both the Appeal From Order and the First Appeal. 
+* **Relief Granted:** The impugned orders passed by the Commercial Court, Vadodara, dismissing the suit and the application for injunction, were quashed and set aside. 
+* **Orders:** The matter was remanded back to the Commercial Court, Vadodara to decide the application for injunction afresh on its merits, considering the arguments and relevant legal precedents. The defendant No. 1 was allowed to submit an appropriate application challenging the Commercial Court's jurisdiction if necessary, and the court was ordered to dispose of the application within 6 weeks.
+
+## 7. Implications
+
+* **Impact on Law:** This judgment reinforces the importance of following proper legal procedure when challenging a court's jurisdiction. It also highlights that a court's inherent jurisdiction cannot be easily ousted by a contractual clause and that parties must be given a fair opportunity to be heard on jurisdictional issues. 
+
+* **Future Relevance:** This case is likely to be cited in future cases involving jurisdictional challenges, particularly in situations where a contract contains an ouster clause. It emphasizes the flexibility and discretion of courts in deciding whether to exercise jurisdiction despite such clauses, particularly when the chosen forum is not convenient or when relief sought cannot be obtained there.
+
+* **Broader Context:** The case reflects the complexities of international commercial disputes and the challenges in navigating different legal systems and jurisdictions. It also emphasizes the need for parties to carefully consider the implications of forum selection clauses in their contracts. 
+
+## 8. Summary Points
+
+* The Gujarat High Court quashed the lower court's orders dismissing the suit and injunction application, holding that the Commercial Court, Vadodara had not followed proper procedure and had not considered the case on its merits.
+* The court found that the ouster clause in the contract did not necessarily prevent the Commercial Court from exercising jurisdiction, particularly considering the unique circumstances of the case.
+* The court emphasized the importance of giving parties a fair opportunity to present arguments on jurisdictional issues and the need for a proper application to challenge jurisdiction.
+* The case highlights the complexities of forum selection clauses and the flexibility of courts in determining the appropriate forum for a dispute. 
+
+## 9. References
+
+* **Citations:** 
+    * Code of Civil Procedure, 1908 (CPC)
+    * Companies Act, 1956
+    * Modi Entertainment Network & Anr. vs. W.S.G. Cricket Pte. Ltd. reported in (2003)4 SCC 341
+    * Sukanya Holdings (P) Ltd. vs. Jayesh H. Pandya and Anr. reported in (2003)5 SCC 531
+    * Mukeshkumar Mohanlal Mashru vs. Dilipkumar Mohanlal Mashru & Ors. rendered in Civil Revision Application No.462/1998
+    * Lark Laboratories Ltd. vs. Nabros Pharma Pvt. Ltd. reported in 2009(2) GLR 1376
+    * M/s. Tec Papers Pvt. Ltd. Thro' Director, Yogesh Shivshanker vs. Ahmedabad Municipal Corporation & Anr. reported in 2009(3) GLH 511
+    * T. Arivandandam vs. T. V. Satyapal and Anr. reported in (1977)4 SCC 467
+    * South East Asia Shipping Co. Ltd. vs. Nav Bharat Enterprises Pvt. Ltd. reported in (1996)3 SCC 443
+    * U.P. State Sugar Corporation vs. Sumac International Ltd. reported in (1997)1 SCC 568
+    * Dwarikesh Sugar Industries Ltd. vs. Prem Heavy Engineering Works (P) Ltd. reported in (1997)6 SCC 450
+    * Piramal Healthcare Limited (Formerly known as Nicholas Piramal India Ltd.) vs. Diasorin S.P.A reported in (2010) 172 DLT 131 
+
+* **Further Reading:**
+    * Articles on forum selection clauses, territorial jurisdiction, and anti-suit injunctions.
+    * Cases relating to jurisdictional challenges and forum non conveniens.

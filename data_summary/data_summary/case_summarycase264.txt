@@ -1,0 +1,78 @@
+## 1. Case Title
+
+* **Case Name:** Matra Mobili Private Limited vs. Madanapalle Retail Private Limited
+* **Court:** Karnataka High Court
+* **Date of Judgment:** 11th September, 2023
+* **Citation:** NC: 2023:KHC:32601-DB, COMAP No.321 of 2023
+
+## 2. Background and Context
+
+* **Brief Overview:** Madanapalle Retail Private Limited (respondent/plaintiff), a company selling home furniture under the brand name "Sunday" and "Sunday Life," filed a commercial suit against Matra Mobili Private Limited (appellant/defendant) seeking a permanent injunction to prevent the defendant from infringing and passing off their registered trademarks. 
+* **Key Issues:** 
+    * Whether the defendant's use of the brand name "Sunday" and "Sunday Design" constituted trademark infringement and passing off. 
+    * Whether the commercial court erred in granting ex parte injunction without sufficient reasons and notice to the defendant.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * The Commercial Courts Act, 2015, Section 13(1A) 
+    * The Code of Civil Procedure, 1908, Order XLIII 
+    * The Trade Marks Act, 1999, Section 11(1)
+* **Precedents Cited:**  Numerous precedents cited by both parties, including:
+    * Supriya Shrinate v. MRT Music and Ors. (ILR 2022 Kar 5159)
+    * Vedant Fashions Pvt. Ltd. v. Rajul Devi (2014 SCC OnLine Kar 7191)
+    * Shiv Kumar Chadha v. Municipal Corporation of Delhi and others (1993) 3 SCC 161
+    * Dabur India Limited v. Emami Limited, High Court of Delhi, FAO (OS) (Comm) 171/2023 dated 21 August 2023.
+    * A.Venkatasubbiah Naidu v. S.Chellappan and others (2000) 7 SCC 695
+    * And many others cited by both parties.
+* **Legal Doctrines:**
+    * **Trademark Infringement:** Unauthorized use of a registered trademark in a way likely to cause confusion with the goods or services of the trademark owner.
+    * **Passing Off:** Misrepresentation of goods or services as those of another.
+    * **Ex Parte Injunction:**  An injunction granted without hearing the defendant's side.
+
+## 4. Arguments Presented
+
+* **Plaintiff’s Argument:**
+    * Respondent (plaintiff) had been using the trademarks "Sunday" and "Sunday Life" since 2015 and had obtained registration for these marks.
+    * The defendant was selling similar products under a deceptively similar name ("Sunday Design"), leading to customer confusion and infringing on the plaintiff's goodwill.
+    * The defendant's actions were causing irreparable harm to the plaintiff's business and reputation.
+* **Defendant’s Argument:**
+    * The defendant had been operating since 2020 and was not directly competing with the plaintiff's specific product line of mattresses and pillows.
+    * The defendant's use of "Sunday Design" was distinct enough to avoid confusion with the plaintiff's trademark.
+    * The plaintiff had deliberately concealed information about their trademark's limitations and their awareness of the defendant's business, leading to the improper grant of ex parte injunction. 
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:** 
+    * The commercial court had erred in granting ex parte injunction without sufficient reasons for dispensing with notice to the defendant.
+    * There was a significant delay in the plaintiff filing the suit despite awareness of the defendant's business since 2021. 
+    * The commercial court had not properly considered the defendant's arguments about the distinction in product lines and the potential for confusion. 
+* **Interpretation of Law:** The court emphasized the importance of following the procedure for granting ex parte injunctions under Order XXXIX Rule 3 of the CPC, which mandates reasons for dispensing with notice.
+* **Application of Law:** The court found that the commercial court had failed to apply the law correctly by granting ex parte injunction without properly considering the defendant's arguments and the relevant precedents cited.
+
+## 6. Judgment
+
+* **Final Decision:** The appeal was allowed in part. The impugned order granting ex parte injunction was set aside. 
+* **Relief Granted:** The matter was remanded back to the commercial court for reconsideration of the interlocutory applications filed by the plaintiff, ensuring that the defendant had a full opportunity to present their case.
+* **Orders:** The commercial court was directed to conduct a fair hearing and dispose of the applications within two weeks. 
+
+## 7. Implications
+
+* **Impact on Law:** This case highlights the importance of following due process and procedural fairness, particularly in granting ex parte injunctions. It emphasizes the need for commercial courts to carefully consider the reasons for dispensing with notice and to thoroughly evaluate the arguments presented by both parties.
+* **Future Relevance:** This judgment could influence future cases involving trademark infringement and passing off, particularly in situations where ex parte injunctions are sought. 
+* **Broader Context:** The case underscores the significance of balancing the rights of trademark owners with the interests of businesses operating under similar names, especially in a competitive market environment. 
+
+## 8. Summary Points
+
+* The Karnataka High Court set aside an ex parte injunction granted in a trademark infringement case.
+* The court found that the commercial court had not followed proper procedures in granting the injunction without sufficient reason for dispensing with notice. 
+* The case emphasizes the importance of due process and fair hearing in legal proceedings.
+
+## 9. References
+
+* **Citations:** The judgment specifically cites several relevant sections of the Commercial Courts Act, 2015, Code of Civil Procedure, 1908, and Trade Marks Act, 1999, as well as numerous precedents.
+* **Further Reading:**  
+    * **The Commercial Courts Act, 2015:** [Link to official source]
+    * **The Code of Civil Procedure, 1908:** [Link to official source]
+    * **The Trade Marks Act, 1999:** [Link to official source]
+    * **The cited precedents:** [Links to legal databases or online resources] 

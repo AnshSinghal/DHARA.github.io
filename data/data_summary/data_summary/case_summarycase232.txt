@@ -1,0 +1,87 @@
+##  1. Case Title
+
+* **Case Name:** Sanjay Suganchand Kasliwal Prop. Kasliwal Construction vs. M/S Golden Dreams Buildcon Pvt Ltd And Others 
+* **Court:** Bombay High Court, Bench at Aurangabad
+* **Date of Judgment:** 10th November 2023
+* **Citation:** 2023:BHC-AUG:24780
+
+## 2. Background and Context
+
+* **Brief Overview:**  Sanjay Suganchand Kasliwal (Appellant) filed a suit for specific performance of a Memorandum of Understanding (MoU) dated 26.12.2009, seeking development rights for a property. The MoU involved a joint venture with Ajanta Infrastructures Ltd. (Defendant No. 7) for residential development. The Appellant had already paid a portion of the agreed consideration but the Defendants failed to obtain necessary permissions and ultimately refused to execute a Development Agreement.
+* **Key Issues:**  The primary legal issue is whether the dispute arose out of a "commercial dispute" under Section 2(1)(c) of the Commercial Courts Act, 2015 (Act of 2015), thereby requiring the case to be tried by a Commercial Court instead of a civil court. 
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * Commercial Courts Act, 2015: Section 2(1)(c), Section 6, Section 15.
+    * Code of Civil Procedure (CPC): Order VII Rule 10 and 11.
+* **Precedents Cited:** 
+    * Ambalal Sarabhai Enterprises Ltd. Vs. K.S. Infraspace LLP and another reported in 2020 (15) SCC 585.
+    * Vasu Health Care Pvt. Ltd. Vs. Gujarat Akruti TCG Biotech Ltd. Reported in AIR 2017 SC 153.
+    * Dhulabhai Vs. State of M.P. reported in AIR 1969 SC 78.
+    * Sushil Kumar Agarwal Vs. Meenakshi Sadhu & Ors. reported in MANU/SC/1144/2018. 
+    * Kanchanganga Realtors Pvt. Ltd. V/s Monarch Infrastructure reported in AIR 2019 Bom 102.
+    * Vaijinath Kale Vs. Nerkar Property LLP reported in 2021 (3) Mh.L.J. 202.
+* **Legal Doctrines:** 
+    * Strict Construction of Statutes: The court emphasized the need for strict interpretation of the provisions of the Commercial Courts Act, 2015.
+    * Exclusive Use of Property for Trade or Commerce: The court analyzed the "exclusively used in trade or commerce" criterion for determining whether an immovable property falls within the scope of Section 2(1)(c)(vii) of the Commercial Courts Act, 2015.
+    * Jurisdiction of Courts: The court addressed the jurisdiction of Civil Courts versus Commercial Courts in cases involving "commercial disputes."
+    * Development Agreements: The court clarified the different categories of development agreements and whether they qualify as "construction contracts" under the Act of 2015.
+
+## 4. Arguments Presented
+
+* **Appellant’s Argument:**
+    * The Appellant contended that the dispute was not exclusively commercial in nature, citing the involvement of statutory authorities (SICOM and MIDC) and the absence of an existing joint venture. 
+    * He argued that the property is not currently "actually used" for trade or commerce, only "likely to be used," which does not meet the requirements of Section 2(1)(c)(vii). 
+    * He relied on the Supreme Court judgment in Ambalal Sarabhai, emphasizing the strict construction of the Commercial Courts Act and the requirement for "actual use" of property for trade or commerce. 
+    * The Appellant pointed out that the suit involved specific allegations against SICOM and MIDC, which cannot be considered "commercial disputes" as they are regulatory authorities.
+    * The Appellant also argued that the trial court should have considered only the contents of the plaint, not the defendant's defense, when deciding on the return of the plaint.
+* **Respondent’s Argument:**
+    * The Respondents argued that the transaction involving the property and the joint venture for residential development was undeniably commercial in nature.
+    * They emphasized the involvement of MIDC and SICOM in the process and the pecuniary benefit sought by the Appellant through the development agreement. 
+    * The Respondents asserted that the suit aimed to enforce a construction contract relating to immovable property, falling under Section 2(1)(c)(vi) of the Commercial Courts Act.
+    * They contended that the MOU clearly indicated a development agreement for construction and that the consideration involved was significant, further supporting the commercial nature of the dispute.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The court found that the trial court had incorrectly analyzed the plaint under Section 2(1)(c)(vi) (construction contracts) instead of Section 2(1)(c)(vii) (agreements related to immovable property used exclusively in trade or commerce).
+    * The court acknowledged that while the MoU could be considered a development agreement, it was not a simple "construction contract" as the Appellant had acquired rights in the property by paying consideration, ultimately leading to the transfer of the property upon development.
+    * The court cited the Supreme Court judgment in Sushil Kumar Agarwal, emphasizing the importance of identifying whether an agreement creates an interest in the property for the developer.
+    * The court stated that the dispute should be analyzed based on the "exclusively used in trade or commerce" criterion of Section 2(1)(c)(vii).
+    * The court reiterated the principle of strict construction of the Commercial Courts Act, citing the Ambalal Sarabhai judgment, and emphasized that "used" signifies "actually used" and not "likely to be used" or "to be used."
+* **Interpretation of Law:**
+    * The court interpreted the provisions of Section 2(1)(c) of the Commercial Courts Act, 2015, particularly clauses (vi) and (vii), to determine the applicability of the Commercial Courts Act to the case.
+    * It interpreted the "used exclusively in trade or commerce" criterion as requiring "actual use" for trade or commerce, aligning with the Ambalal Sarabhai judgment.
+* **Application of Law:**
+    * The court applied the legal principles to the specific facts of the case, analyzing the terms of the MoU and the nature of the Appellant's rights in the property.
+    * It distinguished the case from a pure "construction contract," where the contractor has no interest in the property, and concluded that the Appellant had acquired a valuable interest in the property by paying consideration. 
+    * The court determined that the dispute needed to be adjudicated under the "agreements relating to immovable property used exclusively in trade or commerce" category of Section 2(1)(c)(vii) of the Act.
+
+## 6. Judgment
+
+* **Final Decision:** The court quashed and set aside the order of the trial court, which had returned the plaint for filing before the Commercial Court.
+* **Relief Granted:** The matter was remanded back to the trial court for fresh adjudication of the application under Order VII Rule 10 and 11 of the CPC, read with Section 3 of the Commercial Courts Act, 2015.
+* **Orders:** The parties were ordered to appear before the trial court on 30.11.2023 to proceed with the matter. The suit was restored.
+
+## 7. Implications
+
+* **Impact on Law:** The judgment reinforces the importance of strict construction of the provisions of the Commercial Courts Act, 2015, particularly regarding the "exclusively used in trade or commerce" criterion. 
+* **Future Relevance:** The case provides valuable guidance on how to classify development agreements and whether they qualify as "construction contracts" under the Act of 2015. 
+* **Broader Context:** The judgment demonstrates the complexities of determining jurisdiction in disputes involving immovable property and the importance of aligning the dispute with the relevant provisions of the Commercial Courts Act.
+
+## 8. Summary Points
+
+* The dispute involved a specific performance suit seeking development rights for a property based on a Memorandum of Understanding. 
+* The court determined that the trial court had incorrectly categorized the dispute under Section 2(1)(c)(vi) (construction contracts).
+* The court emphasized the requirement of "actual use" of the property for trade or commerce under Section 2(1)(c)(vii) of the Act. 
+* The judgment stressed the need for strict construction of the Commercial Courts Act, 2015.
+* The case was remanded back to the trial court for fresh adjudication.
+
+## 9. References
+
+* **Citations:**  Commercial Courts Act, 2015 (Section 2(1)(c), Section 6, Section 15), Code of Civil Procedure (Order VII Rule 10 and 11).
+* **Further Reading:** 
+    * Ambalal Sarabhai Enterprises Ltd. Vs. K.S. Infraspace LLP and another reported in 2020 (15) SCC 585.
+    * Sushil Kumar Agarwal Vs. Meenakshi Sadhu & Ors. reported in MANU/SC/1144/2018.
+    * Dhulabhai Vs. State of M.P. reported in AIR 1969 SC 78. 

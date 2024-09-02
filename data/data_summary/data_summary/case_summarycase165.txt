@@ -1,0 +1,129 @@
+## 1. Case Title
+
+* **Case Name:** Ujjagar Construction Pvt. Ltd vs Nayati Healthcare And Research Ncr Pvt. Ltd.
+* **Court:** Punjab-Haryana High Court
+* **Date of Judgment:** 20 November, 2023
+* **Citation:** 2023:PHHC:146990
+
+## 2. Background and Context
+
+* **Brief Overview:** Ujjagar Construction Pvt. Ltd. (Plaintiff) sued Nayati Healthcare & Research NCR Pvt. Ltd. (Defendant 1), its promoter Ms. Nira Radia (Defendant 2), and Apollo Hospitals North Ltd. (Defendant 3) for specific performance of a Memorandum of Understanding (MOU) dated 08.04.2022, regarding the sale of 5.628 acres of land in Gurugram. The property was previously mortgaged to Yes Bank Ltd. and later sold to Apollo Hospitals North Ltd. after Yes Bank took possession under the Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002 (SARFAESI Act).
+* **Key Issues:** 
+    * Whether the suit for specific performance is maintainable before the Civil Court in light of the SARFAESI Act.
+    * Whether the plaintiff is entitled to a temporary injunction restraining the defendants from alienating the property.
+    * Whether the MOU is valid and enforceable despite the plaintiff's failure to pay any consideration and the non-fulfillment of certain conditions precedent.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002 (SARFAESI Act), specifically Sections 13(4), 17, 34.
+    * Indian Contract Act, 1872, specifically Sections 2(d), 2(g), 36.
+    * Transfer of Property Act, 1882, specifically Section 54.
+    * Specific Relief Act, 1963, specifically Sections 12(1), 20(A), 20(B), 41(ha).
+    * Code of Civil Procedure, 1908, specifically Order 1 Rule 10, Order 7 Rule 10, Order 7 Rule 11, Order 39 Rule 1 & 2.
+* **Precedents Cited:**
+    * Nahar Industrial Enterprises Limited v. Hong Kong and Shanghai Banking Corporation, (2009) 8 Supreme Court Cases 646.
+    * J.P. Builders and another v. A. Ramadas Rao and another, (2011) 1 Supreme Court Cases 429.
+    * Robust Hotels Private Limited and others v. EIH Limited and others, (2017) 1 Supreme Court Cases 622.
+    * DLF Qutab Enclave Complex Educational Charitable Trust v. State of Haryana, 2003(5) SCC 622.
+    * Jagdish Singh v. Heeralal and others, (2014) 1 Supreme Court Cases 479.
+    * G. Vikram Kumar v. State Bank of Hyderabad and others, 2023 SCC Online SC 549.
+    * Asset Reconstruction Company v. Florita Buildcon Private Limited, 2017 AIR (Bombay) 25.
+    * South Indian Bank Ltd. And others v. Naven Mathew Philip and another, 2023 SCC Online SC 435.
+    * Ambalal Sarabhai Enterprise Limited v. KS Infraspace LLP Limited and another, 2020(5) Supreme Court Cases 410.
+    * Dalpat Kumar v. Prahlad Singh, (1992) 1 Supreme Court Cases 719.
+    * M/s Best Sellers Retail (India) Pvt. Ltd. v. M/s Aditya Birla Nuvo Ltd., 2012(6) Supreme Court Cases 792.
+    * Taj Ram v. Pinku and Ors., 2009(10) R.C.R. (Civil) 172.
+    * Saroj Aggarwal and Anr. v. Shakuntala Aggarwal, 2014(9) R.C.R. (Civil) 3079.
+    * Raman (Dead) by Legal Representatives v. R. Natarajan, (2022) 10 Supreme Court Cases 143. 
+* **Legal Doctrines:**
+    * **Jurisdiction of Civil Courts:** The court examined the extent to which the jurisdiction of Civil Courts is barred under the SARFAESI Act and analyzed precedents concerning the plenary nature of civil court jurisdiction.
+    * **Specific Performance:** The court considered the discretionary nature of specific performance and the principle of "as is, where is" agreements.
+    * **Temporary Injunction:** The court applied the three established principles for granting temporary injunctions: prima facie case, balance of convenience, and irreparable loss.
+    * **Bona Fide Purchaser:** The court examined the definition of a bona fide purchaser and its applicability to Apollo Hospitals North Ltd.
+    * **Impleadment of Parties:** The court analyzed the relevance of impleading parties, particularly the secured creditor (Yes Bank) in this case.
+    * **Conditions Precedent:** The court analyzed the impact of unfulfilled conditions precedent in the MOU on its validity and enforceability.
+    * **Impossible Conditions:** The court examined the impact of an impossible condition precedent on the validity of an agreement.
+    * **Lis Pendens:** The court considered the principle of lis pendens as a means of safeguarding the plaintiff's rights during the pendency of the suit.
+    * **Interpretation of Statutes:** The court interpreted the provisions of the SARFAESI Act, specifically the meaning of "any person" under Section 17 and the scope of Section 34.
+
+## 4. Arguments Presented
+
+**Plaintiff's Argument:**
+
+* The plaintiff was ready and willing to perform its part of the MOU and had even purchased stamp papers.
+* The plaintiff did not pay any consideration to the defendants because the MOU stipulated that payment would be made to Yes Bank first, and the amount payable to the defendants would be determined after settlement of Yes Bank's dues.
+* The plaintiff waived the condition of obtaining Change of Land Use (CLU) for commercial use of the property.
+* Defendant 3 (Apollo Hospitals) is not a bona fide purchaser as it was aware of the pending suit and the MOU.
+* The plaintiff's claim is not barred under the SARFAESI Act because Yes Bank's dues were settled before the suit was filed.
+* The plaintiff did not complete the transaction within 30 days of the vacation of the stay because of the appeal filed by DHFL before the NCLAT.
+* The Appellate Court erred in holding that the plaintiff did not make out a prima facie case for temporary injunction and in barring the jurisdiction of the Civil Court under the SARFAESI Act.
+
+**Defendant's Argument:**
+
+* The plaintiff failed to fulfill the conditions precedent of the MOU, rendering it infructuous.
+* The plaintiff never intended to buy the property and deliberately did not implead the Bank as a party to the suit.
+* The condition precedent of obtaining CLU for commercial use was impossible, making the MOU void.
+* The plaintiff did not comply with the Security Interest (Enforcement) Rules, 2002, which required the Bank's ratification of any sale agreement.
+* The plaintiff failed to establish the necessary elements for granting temporary injunction, specifically a prima facie case and irreparable injury.
+* The suit is barred under Section 34 of the SARFAESI Act as the plaintiff could have sought relief before the Debts Recovery Tribunal.
+* Defendant 3 is a bona fide purchaser and acquired the property through a valid sale deed after obtaining necessary approvals.
+* The plaintiff made contradictory statements in the MOU and the plaint regarding the possession of the property.
+* The suit is barred under Sections 20(A), 20(B), and 41(ha) of the Specific Relief Act, 1963.
+
+## 5. Court's Analysis and Reasoning
+
+* **Key Findings:**
+    * The court found that the MOU was valid and enforceable, despite the plaintiff not paying any consideration, as the payment was contingent on settling Yes Bank's dues.
+    * The court recognized that the plaintiff's suit was not barred under the SARFAESI Act because Yes Bank's dues were settled before the suit was filed, and the plaintiff was not seeking relief against the Bank.
+    * The court held that the plaintiff's claim was maintainable before the Civil Court, as the suit sought relief that could not be adjudicated by the Debts Recovery Tribunal.
+    * The court found that the plaintiff had not made out a prima facie case for temporary injunction and rejected the plea. 
+    * The court noted that the plaintiff could have sought relief under Section 17 of the SARFAESI Act, but chose not to, implying that the plaintiff may not have had a genuine intention to purchase the property. 
+    * The court concluded that granting a temporary injunction in favor of the plaintiff would cause irreparable harm to Defendant 3, who had invested a substantial amount and held the title and possession of the property.
+
+* **Interpretation of Law:**
+    * The court interpreted the provision of "any person" under Section 17 of the SARFAESI Act broadly, recognizing that the plaintiff could have availed the remedy under the Act.
+    * The court clarified that the bar of jurisdiction under Section 34 of the SARFAESI Act only applies to matters that can be determined by the Debts Recovery Tribunal and does not bar all suits related to property subject to the SARFAESI Act.
+    * The court reiterated the three principles for granting temporary injunctions and emphasized the importance of demonstrating a strong prima facie case, irreparable injury, and balance of convenience.
+
+* **Application of Law:**
+    * The court applied the principles of specific performance and temporary injunction to the facts of the case, considering the circumstances surrounding the MOU, the actions of the parties, and the potential consequences of granting relief.
+    * The court applied the concept of bona fide purchaser to assess the rights of Defendant 3, recognizing that Apollo Hospitals had invested a significant amount and acquired the property legally.
+
+## 6. Judgment
+
+* **Final Decision:**
+    * The court modified the Appellate Court's order, holding that the plaintiff's suit was maintainable before the Civil Court.
+    * The court dismissed the plaintiff's application for temporary injunction.
+
+* **Relief Granted:**
+    * The court did not grant any specific relief to the plaintiff, but clarified that the suit was maintainable before the Civil Court.
+
+* **Orders:**
+    * The court ordered that the impugned order dated 21.09.2023 be modified to remove the bar on the jurisdiction of the Civil Court.
+    * The court dismissed the plaintiff's application for temporary injunction.
+
+## 7. Implications
+
+* **Impact on Law:** 
+    * The judgment clarifies that the jurisdiction of Civil Courts is not completely ousted in cases involving property subject to the SARFAESI Act, and suits seeking relief beyond the scope of the Debts Recovery Tribunal are maintainable.
+* **Future Relevance:** 
+    * This case will be relevant in future cases involving specific performance agreements concerning property subject to the SARFAESI Act, particularly when the secured creditor's dues have been settled.
+* **Broader Context:** 
+    * The case highlights the complexities arising from multiple parallel legal proceedings and the potential for conflicting interests among different stakeholders. 
+
+## 8. Summary Points
+
+* The plaintiff's suit for specific performance of the MOU was maintainable before the Civil Court.
+* The plaintiff's plea for temporary injunction was rejected because it did not establish a prima facie case, balance of convenience, or irreparable injury.
+* The court found that the plaintiff's actions suggested a lack of genuine intent to purchase the property.
+* The judgment reaffirms the principle that the jurisdiction of Civil Courts is not completely ousted by the SARFAESI Act for all matters related to secured property.
+
+## 9. References
+
+* **Citations:**  Please refer to the "Legal Principles Involved" section above for full citations of statutes and precedents.
+* **Further Reading:** 
+    * Cases concerning specific performance, temporary injunctions, and the SARFAESI Act.
+    * Legal commentaries and textbooks on the relevant statutes and legal doctrines.
+
+This summary provides a comprehensive overview of the case, encompassing the background, legal principles, arguments, court's analysis, and final judgment. 

@@ -1,0 +1,128 @@
+## 1. Case Title
+
+* **Case Name:** Yash Tekwani vs. Dheeraj Kashyap
+* **Court:** Delhi District Court (Commercial Court-01), South-East, Saket Courts, New Delhi
+* **Date of Judgment:** 19th December 2020
+* **Citation:** OMP (I) (Comm) No. 261/2020
+
+## 2. Background and Context
+
+* **Brief Overview:** Yash Tekwani, proprietor of Prince Paan, filed a suit for trademark infringement and passing off against Dheeraj Kashyap and his father, Ram Mahesh Kashyap, alleging they were using a deceptively similar trademark, "PRINCE CHAAT BHANDAR," for their Golgappa and Chaat business, which is identical to Tekwani's registered trademark "PRINCE CHAAT CORNER."  The dispute arose after the defendants opened a shop named "Prince Chaat Bhandar" in close proximity to Tekwani's shop, despite prior franchise agreements between them. Tekwani sought an injunction to restrain the defendants from using the infringing trademark.
+* **Key Issues:**
+    * Whether the plaintiff was entitled to an injunction against the defendant's use of the allegedly infringing trademark.
+    * Whether the defendant had prior use of the trade name "PRINCE CHAAT CORNER" before the plaintiff's registration and whether this constituted a valid defense.
+    * Whether the plaintiff's wife, who was the registered owner of the trademark, could grant usage rights to her husband, allowing him to file the suit.
+    * Whether the plaintiff had concealed information about the Caveat Petitions filed by the defendant before the ex-parte injunction was granted.
+    * Whether the plaintiff had complied with Order 39 Rule 3 CPC regarding service of documents on the defendant.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * **Trade Marks Act, 1999:** Section 29 (Infringement), Section 11 (Well-Known Marks), Section 28 (Exclusive Rights), Section 53 (Suit for Infringement)
+    * **Code of Civil Procedure, 1908:** Order 39 (Injunctions), Order 39 Rule 3, Order 39 Rule 4, Section 148A (Caveat Petitions)
+    * **Indian Evidence Act, 1872:** Section 65B (Electronic Evidence)
+    * **Arbitration & Conciliation Act, 1996:** Section 16 (Challenge to Arbitrator's Award)
+* **Precedents Cited:**
+    * **Zila Parishad, Baduan And Ors. Vs Brahma Rishi Sharma** (AIR 1970 All 376) - On the scope of appeal against an ex-parte injunction.
+    * **P.Gayazuddin & Ors. Vs State Of Andhra Pradesh** (2015 (3) Civil Court Cases 380 (A.P.)) - On the mandatory nature of recording reasons for granting an injunction without notice.
+    * **Himalaya Drug Company Vs. S.B.L. Limited** (2012 SCC Online Del 136) - On the principles of trademark infringement.
+    * **Laxmikant V. Patel Versus ChetanBhai Shah & Anr.** (2002 (3) SCC 65) - On the principles of passing off.
+    * **Uniply Industries Ltd vs Unicorn Plywood Pvt. Ltd. & Ors.** (AIR 2001 SC 2083) - On establishing prior use of a trademark.
+    * **Monish Gujral & Ors Vs G. Kiran Kumar & Ors** (CS (Comm) 137/2017) - On unauthorized use of trademarks by franchisees.
+    * **Kaviraj Pandit Durga Dutt Sharma vs. Navaratna Pharmaceutical Laboratories** (1965 SCR (1) 737) - On identifying essential features of a trademark.
+    * **Automatic Electric Limited vs. R.K. Dhawan & Anr.** (77 (1999) DLT 292) - On estoppel regarding descriptive trademarks.
+    * **Sahil Kohli Versus Registrar of Trademark, IPAB** (Case No. OA/6-8/2018/TM/DEL) - On the weight of courier receipts as proof of service.
+    * **Reserve Bank of India Employee vs. The Reserve Bank of India & Ors.** (AIR 1981 AP 246) - On the effect of a caveat petition.
+    * **Institute For Inner Studies & Ors. vs. Charlotte Anderson & Ors.** (CS (OS) 2252/2011) - On compliance with Order 39 Rule 3 CPC.
+    * **Ashland Licensing & Intellectual Property Llc v. Savita Chemicals Limited** (ILR (2010) 6 Del 376) - On the ability of a trademark owner to transfer usage rights to another entity.
+    * **Anil Verma vs. Ashok Kumar** (FAO No. 578/2018) - On the use of generic terms as trademarks.
+* **Legal Doctrines:**
+    * **Trademark Infringement:** The unauthorized use of a registered trademark or a deceptively similar mark, causing confusion in the market.
+    * **Passing Off:**  The misrepresentation of goods or services as belonging to someone else, thereby harming their goodwill.
+    * **Prior User:** A defense to trademark infringement where the defendant establishes that they were using the mark before the plaintiff obtained registration.
+    * **Estoppel:** The principle that prevents a party from asserting a claim that contradicts their previous actions or statements.
+    * **Balance of Convenience:** A factor considered in granting injunctions, weighing the potential harm to the plaintiff if the injunction is not granted against the harm to the defendant if it is. 
+
+## 4. Arguments Presented
+
+* **Plaintiff's Argument:**
+    * Tekwani argued that the defendants' use of "PRINCE CHAAT BHANDAR" was a clear infringement of his registered trademark, "PRINCE CHAAT CORNER," as it was visually and phonetically similar, causing confusion in the market.
+    * He claimed that he was the prior user of the trademark "PRINCE CHAAT CORNER" since 1965, having built significant goodwill and reputation in the market. 
+    * He presented evidence of his sales figures, advertisement expenditures, and multiple trademark registrations across different classes. 
+    * He argued that the defendants' use of the trademark was dishonest and malicious, intended to capitalize on his goodwill.
+    * He stated that the defendants were aware of his rights as they had previously been his franchisees and had acknowledged his ownership of the trademark in the franchise agreements.
+    * Tekwani claimed that he had not received the Caveat Petitions filed by the defendants and had not concealed any material facts from the court.
+    * He argued that he had complied with Order 39 Rule 3 CPC within the stipulated time frame.
+    * He presented the trademark usage agreement signed by his wife, granting him the right to use the trademark.
+* **Defendant's Argument:**
+    * The defendants argued that Tekwani's suit was not maintainable because the trademark was registered in his wife's name, and he had no right to file an infringement suit.
+    * They argued that they were the prior users of the trade name "PRINCE CHAAT CORNER" since 2000, before Tekwani's wife registered the trademark.
+    * They claimed that they had filed Caveat Petitions and had served Tekwani with copies, which he had concealed from the court.
+    * They alleged that Tekwani had not complied with Order 39 Rule 3 CPC, failing to serve them with the required documents.
+    * They argued that "PRINCE" was a descriptive and generic term, and Tekwani could not claim exclusive rights to it.
+    * They relied on evidence such as their father's membership card in the Greater Kailash Market Association, a mobile phone connection activated in 2001, and a bank account opened in 2009, as proof of prior use.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The court found that the plaintiff had established a prima facie case for trademark infringement and passing off, as the defendants' mark was visually and phonetically similar to his registered trademark.
+    * The court accepted the plaintiff's argument that the defendants' use of the infringing mark was likely to cause confusion and deception among consumers.
+    * The court acknowledged the plaintiff's prior use and extensive goodwill in the market, evident from his sales figures and advertising efforts.
+    * The court considered the plaintiff's multiple trademark registrations as proof of his intent to safeguard his rights.
+    * The court rejected the defendants' claim of prior use, finding their evidence insufficient to establish a prior claim to the trademark.
+    * The court accepted the plaintiff's affidavit stating that he had not received the Caveat Petitions filed by the defendants. 
+    * The court found that the plaintiff had complied with Order 39 Rule 3 CPC within the stipulated time frame.
+    * The court acknowledged the trademark usage agreement signed by the plaintiff's wife and considered it a valid transfer of usage rights, allowing the plaintiff to file the infringement suit.
+* **Interpretation of Law:**
+    * The court interpreted Section 29 of the Trade Marks Act to find that the defendants' mark was deceptively similar to the plaintiff's registered trademark and therefore infringed his rights.
+    * The court relied on precedents such as "Himalaya Drug Company Vs. S.B.L. Limited" to emphasize that a close similarity between marks, coupled with potential deception, is enough to establish infringement.
+    * The court applied the principle of passing off as established in "Laxmikant V. Patel Versus ChetanBhai Shah & Anr." to find that the defendants' actions were likely to mislead consumers.
+    * The court referred to "Uniply Industries Ltd vs Unicorn Plywood Pvt. Ltd. & Ors." to apply the test of prior use and determine whether the defendants had established a legitimate claim.
+    * The court relied on "Automatic Electric Limited v. R.K. Dhawan & Anr." to conclude that the defendants were estopped from arguing that "PRINCE" was a descriptive term, given they themselves had applied for trademark registration using that word.
+* **Application of Law:**
+    * The court applied the principles of trademark infringement and passing off to the specific facts of the case, finding that the defendants' actions were likely to cause harm to the plaintiff's reputation and goodwill.
+    * The court considered the balance of convenience, finding that the potential harm to the plaintiff if the injunction was not granted outweighed the potential harm to the defendants if it was.
+    * The court acknowledged the legal precedents and doctrines related to trademark infringement, passing off, prior user, estoppel, and the service of documents, applying them to the evidence presented by both parties.
+
+## 6. Judgment
+
+* **Final Decision:**  The court ruled in favor of the plaintiff, Yash Tekwani, confirming the ex-parte injunction granted earlier.
+* **Relief Granted:** The court issued an injunction restraining the defendants, Dheeraj Kashyap and Ram Mahesh Kashyap, from selling, offering for sale, advertising, or promoting any products under the trademark "PRINCE/PRINCE CHAAT BHANDAR" with the logo or any other deceptively similar trademark.
+* **Orders:** The court dismissed the defendant's application under Order 39 Rule 4 CPC seeking to vacate the ex-parte injunction. The application of the plaintiff under Order 39 Rule 1 and 2 CPC was allowed. 
+
+## 7. Implications
+
+* **Impact on Law:** The judgment re-affirms the importance of protecting registered trademarks from infringement and reinforces the principles of passing off in cases of deceptive similarity. It reiterates the weight given to the plaintiff's prior use and goodwill in determining trademark infringement.
+* **Future Relevance:** This case serves as a precedent for future cases involving similar factual scenarios, demonstrating the court's approach to examining prior use claims and the validity of trademark usage agreements within family-owned businesses.
+* **Broader Context:** The case highlights the complexities of trademark disputes within franchising relationships and emphasizes the need for clear agreements regarding trademark usage and exclusivity.
+
+## 8. Summary Points
+
+* The plaintiff, Yash Tekwani, successfully obtained an injunction against the defendants' use of the deceptively similar trademark "PRINCE CHAAT BHANDAR," which infringed his registered trademark "PRINCE CHAAT CORNER."
+* The court rejected the defendants' claim of prior use, finding their evidence insufficient to establish a prior claim to the trademark.
+* The court acknowledged the trademark usage agreement between the plaintiff and his wife and ruled that it was a valid transfer of usage rights, allowing the plaintiff to file the infringement suit.
+* The court emphasized the plaintiff's prior use, goodwill, and reputation in the market, evident from his sales figures and advertising efforts.
+
+## 9. References
+
+* **Trade Marks Act, 1999:**  <br>
+  * Section 29: https://www.indiacode.nic.in/bitstream/123456789/1982/1/TM_1999.pdf
+  * Section 11: https://www.indiacode.nic.in/bitstream/123456789/1982/1/TM_1999.pdf
+  * Section 28: https://www.indiacode.nic.in/bitstream/123456789/1982/1/TM_1999.pdf
+  * Section 53: https://www.indiacode.nic.in/bitstream/123456789/1982/1/TM_1999.pdf
+* **Code of Civil Procedure, 1908:** <br>
+  * Order 39: https://www.indiacode.nic.in/bitstream/123456789/2082/1/CPC_1908.pdf
+  * Order 39 Rule 3: https://www.indiacode.nic.in/bitstream/123456789/2082/1/CPC_1908.pdf
+  * Order 39 Rule 4: https://www.indiacode.nic.in/bitstream/123456789/2082/1/CPC_1908.pdf
+  * Section 148A: https://www.indiacode.nic.in/bitstream/123456789/2082/1/CPC_1908.pdf
+* **Indian Evidence Act, 1872:** <br>
+  * Section 65B: https://www.indiacode.nic.in/bitstream/123456789/1302/1/IEA_1872.pdf
+* **Arbitration & Conciliation Act, 1996:** <br>
+  * Section 16: https://www.indiacode.nic.in/bitstream/123456789/1492/1/ARBITRATION_1996.pdf
+
+**Further Reading:**
+
+* **Understanding Intellectual Property Law in India:** [Link to relevant resource or book]
+* **Landmark Cases in Trademark Law:** [Link to relevant resource or book]
+
+This summary provides a detailed overview of the case, covering the facts, legal principles, arguments, court's analysis, and judgment. It is important to note that this summary does not constitute legal advice. 

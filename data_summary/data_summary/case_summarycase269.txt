@@ -1,0 +1,81 @@
+## 1. Case Title
+
+* **Case Name:** Trinetramilan Product Protection Solutions Private Limited vs Tara Narayan
+* **Court:** Karnataka High Court
+* **Date of Judgment:** 7th June, 2023
+* **Citation:** NC: 2023:KHC:19391 (WP No. 23517 of 2022 and connected matters)
+
+## 2. Background and Context
+
+* **Brief Overview:** The case involved two suits filed by Tara Narayan and A.S. Narayan (her husband) against Trinetramilan Product Protection Solutions Private Limited (TPPS) and its directors for eviction from a commercial property in Bengaluru. Both suits were initially filed before the II Additional Senior Civil Judge, Bengaluru Rural District, Bengaluru. The plaintiffs sought eviction, recovery of arrears of rent, electricity charges, and future mesne profits.
+* **Key Issues:**
+    * Whether the dispute between the parties constituted a "commercial dispute" under the Commercial Courts Act, 2015 (the Act), warranting transfer to a designated Commercial Court.
+    * Whether the plaintiffs were required to comply with Section 12-A of the Act, mandating pre-institution mediation, prior to filing the suit.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * The Commercial Courts Act, 2015
+        * Section 2(1)(c)(vii): Defines "commercial dispute" to include disputes arising from agreements relating to immovable property used exclusively in trade or commerce.
+        * Section 12-A: Mandates pre-institution mediation for commercial disputes, except those involving urgent interim relief.
+    * The Code of Civil Procedure, 1908
+        * Order VII Rule 11: Allows for rejection of the plaint if it does not disclose a cause of action or if the suit is barred by law.
+* **Precedents Cited:**
+    * Patil Automation Pvt. Ltd. & Others v Rakheja Engineers Pvt. Ltd. (2022 SCC Online SC 1028): The Supreme Court held Section 12-A of the Act to be mandatory and directed rejection of plaints filed in violation of its provisions from 20.08.2022 onwards.
+* **Legal Doctrines:**
+    * Prospective Operation: The principle that judgments generally do not apply retrospectively to situations that occurred before the judgment was delivered.
+    * Interpretation of Statutes: The process of analyzing and interpreting legal provisions to determine their meaning and application.
+
+## 4. Arguments Presented
+
+* **Plaintiff’s Argument:**
+    * The dispute constituted a commercial dispute as the property was used for commercial purposes by the defendants.
+    * Transfer to the Commercial Court was justified under Section 15 of the Act.
+    * The suits were filed before the designated Commercial Court was established and were not subject to the mandatory pre-institution mediation requirement of Section 12-A of the Act.
+* **Defendant’s Argument:**
+    * The dispute was not a commercial dispute.
+    * The plaintiffs should have initiated pre-institution mediation under Section 12-A of the Act before filing the suit.
+    * The plaint should be rejected under Order VII Rule 11 of the CPC due to non-compliance with Section 12-A.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The property was being used for commercial purposes by the defendants.
+    * The dispute therefore fell under the definition of a commercial dispute under Section 2(1)(c)(vii) of the Act.
+    * The suits were filed before the designated Commercial Court was established and the judgment in Patil Automation Pvt. Ltd. (supra) did not have retrospective operation.
+* **Interpretation of Law:**
+    * The court interpreted the provisions of the Commercial Courts Act, particularly Section 2(1)(c)(vii), Section 12-A, and Section 15, to determine their applicability to the case.
+    * The court considered the judgment in Patil Automation Pvt. Ltd. (supra) to understand its implications for suits filed before the judgment's date of effect.
+* **Application of Law:**
+    * The court applied the legal principles to the facts of the case and found that the plaintiffs were not required to comply with Section 12-A of the Act as the suit was filed before the designated Commercial Court was established.
+
+## 6. Judgment
+
+* **Final Decision:** The court dismissed the petitions filed by the defendants.
+* **Relief Granted:** No specific relief was granted as the petitions were dismissed.
+* **Orders:** The court upheld the Commercial Court's orders:
+    * Allowing the applications filed by the plaintiffs under Section 15 of the Act, transferring the suits to the Commercial Court.
+    * Rejecting the applications filed by the defendants under Order VII Rule 11 of the CPC seeking rejection of the plaint.
+
+## 7. Implications
+
+* **Impact on Law:** The judgment reinforces the applicability of the Commercial Courts Act to disputes arising from agreements related to immovable properties used exclusively in trade or commerce. 
+* **Future Relevance:** This case serves as a precedent for understanding the application of Section 12-A of the Act to suits filed before the judgment in Patil Automation Pvt. Ltd. (supra) was delivered. 
+* **Broader Context:** The judgment highlights the increasing importance of commercial courts in resolving commercial disputes in India.
+
+## 8. Summary Points
+
+* The court found that the dispute between the parties constituted a "commercial dispute" under the Commercial Courts Act.
+* The court upheld the transfer of the suits to the designated Commercial Court under Section 15 of the Act.
+* The court found that the plaintiffs were not required to comply with the pre-institution mediation requirement of Section 12-A of the Act as the suits were filed before the designated Commercial Court was established.
+* The judgment in Patil Automation Pvt. Ltd. (supra) was found not to apply retrospectively to suits filed before its date of effect.
+
+## 9. References
+
+* **Citations:**
+    * The Commercial Courts Act, 2015
+    * The Code of Civil Procedure, 1908
+    * Patil Automation Pvt. Ltd. & Others v Rakheja Engineers Pvt. Ltd. (2022 SCC Online SC 1028)
+* **Further Reading:**
+    * Other judgments interpreting the Commercial Courts Act.
+    * Articles and commentaries on the application of pre-institution mediation in commercial disputes. 

@@ -1,0 +1,103 @@
+## Case Title
+
+* **Case Name:** Bangalore Blues Entertainment India Private Limited vs. One Ikigaii Edutech Private Limited
+* **Court:** Karnataka High Court
+* **Date of Judgment:** 2nd January, 2023
+* **Citation:**  Miscellaneous First Appeal No. 6392 of 2022 (CPC)
+
+## Background and Context
+
+* **Brief Overview:** Bangalore Blues Entertainment India Private Limited (Appellant), a bar and restaurant owner, had subleased a property from One Ikigaii Edutech Private Limited (Respondent 1) for 10 years.  Respondent 2, Mrs. K. Sayirani, was the original lessor of the property. A dispute arose regarding the sublease agreement, leading to Respondent 1 filing a suit for injunction against both the Appellant and Respondent 2.
+* **Key Issues:**
+    * Whether the suit filed by Respondent 1 was a commercial dispute under the Commercial Courts Act, 2015 (CC Act), and thus required to be filed in the Commercial Court.
+    * Whether the trial court had jurisdiction to grant a temporary injunction when the suit itself might be filed in the wrong court.
+    * Whether the specific relief of injunction was justified given the existence of a prior settlement agreement between the parties.
+
+## Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * Commercial Courts Act, 2015 (CC Act) - Especially Sections 2, 3, 12, and 134.
+    * Trade Marks Act, 1999 - Section 134.
+    * Specific Relief Act, 1963 - Sections 6, 14(1)(a), (d), 37, 41(e), and 42.
+    * Code of Civil Procedure, 1908 - Order VII Rule 10, Order XXXIX Rules 1 & 2, and Section 151.
+    * Karnataka Court Fees and Suits Valuation Act - Section 26(c).
+* **Precedents Cited:**
+    * Fine Footwear Pvt. Ltd. Vs. Sketchers USA Inc. and Anr. (2019) 5 KLJ 358
+    * Jagmohan Behl v/s State Bank of Indore (2017 SCC OnLine Del 10706)
+    * Ambalal Sarabhai Enterprises Ltd. v/s K.S. Infraspace LLP (2020) 15 SCC 585.
+    * Vishal Pipes Ltd. Vs. Bhavya Pipe Industry (2022 SCC OnLine Del 1730)
+    * Shamsher Singh v. Rajinder Prashad (1973) 2 SCC 524.
+    * Meenakshisundaram Chettiar v. Venkatachalam Chettiar (1980) 1 SCC 616.
+    * Abdul Hamid Shamsi v. Abdul Majid (1988) 2 SCC 575.
+    * Commercial Aviation & Travel Company v. Vimani Pannalal (1988) 3 SCC 423.
+    * Bharat Sanchar Nigam Ltd. v. All India Bharat Sanchar Nigam Executives' Association (Regd.) (2006) 130 DLT 195.
+    * Subhashini Malik v. S.K. Gandhi (2016) 233 DLT 83.
+    * Kesavarapu Venkateswarlu v. Sardharala Satanaryana AIR 1957 AP 49 (FB) and V Ramamirthaam v. Rama Film Service AIR 1951 Mad 93 (FB).
+    * Harshad Chiman Lal Modi v. D.L.F. Universal Ltd. (2005) 7 SCC 791 and Mantoo Sarkar v. Oriental Insurance Company Limited (2009) 2 SCC 244.
+    * Glaxo Laboratories v. Presiding Officer (1984) 1 SCC 1: AIR 1984 SC 505.
+    * Maya Mathew v. State of Kerala (2010) 4 SCC 498.
+    * Vijay Kumar Ghai v. State of West Bengal SLP (Crl.) 10951 of 2019, decided on 22 March, 2022
+    * Krishna Lal Chawla v. State of U.P. (2021) 5 SCC 435.
+* **Legal Doctrines:**
+    * **Jurisdiction:** The court's authority to hear and decide a case.
+    * **Forum Shopping:** The practice of choosing a court that is likely to provide a favorable outcome.
+    * **Specified Value:** The monetary value assigned to a commercial dispute under the CC Act, determining the jurisdiction of the court.
+    * **Injunction:** A court order prohibiting a party from performing a particular action.
+
+## Arguments Presented
+
+* **Appellant’s Argument:**
+    * The sublease agreement constituted a commercial dispute under the CC Act, thus requiring the suit to be filed in the Commercial Court. 
+    * The trial court erred in granting the injunction as it lacked jurisdiction due to the commercial nature of the dispute.
+    * The Appellant pointed to a prior settlement agreement between the parties, rendering the relief sought in the suit unnecessary and barred under the Specific Relief Act.
+    * The Appellant claimed that Respondent 1 had deliberately undervalued the suit to avoid filing in the Commercial Court and engaged in forum shopping.
+* **Respondent’s Argument:**
+    * The value of the suit did not exceed the threshold limit specified under the CC Act for a commercial dispute, meaning the Civil Court had jurisdiction.
+    * The Respondent 1 had not raised the issue of jurisdiction before the trial court and had not filed any application for return or rejection of the plaint. 
+    * The trial court had correctly considered the principles governing injunctions and had granted the injunction based on valid grounds.
+
+## Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The Court acknowledged that the lease agreement was for exclusive use of the property for commercial purposes.
+    * The Court referred to the principle laid down in **Fine Footwear Pvt. Ltd. (supra)** that both the "specified value" exceeding Rs. 3 lakhs and the nature of the dispute falling under the definition of commercial dispute in the CC Act are necessary to constitute a commercial dispute.
+    * The Court found that the monthly rental value of the property, exceeding Rs. 3 lakhs, prima facie met the specified value requirement.
+    * The Court addressed the issue of forum shopping and acknowledged the need to prevent undervaluation of suits to deliberately avoid filing in the Commercial Court.
+    * The Court examined the prior settlement agreement and the Appellant's claim of undervaluation.
+* **Interpretation of Law:**
+    * The Court interpreted the relevant provisions of the CC Act, including Section 12, to determine the specified value of the dispute.
+    * The Court relied on various precedents regarding the valuation of suits and the role of the court in scrutinizing such valuation.
+    * The Court applied the principles laid down in **Vishal Pipes Ltd. (supra)** regarding IPR matters, noting the need for a preliminary examination of the specified value to prevent forum shopping.
+    * The Court considered the principles of injunction and the potential harm caused by the non-granting of injunction.
+* **Application of Law:**
+    * The Court considered the specific facts of the case and applied the relevant legal principles to determine the appropriate course of action.
+    * The Court addressed the issue of the trial court's jurisdiction and the conflicting arguments regarding the nature of the dispute.
+    * The Court considered the Appellant's arguments regarding the settlement agreement and its impact on the suit.
+    * The Court directed the trial court to examine the specific value of the suit to determine its jurisdiction.
+
+## Judgment
+
+* **Final Decision:** The Court disposed of the appeal by directing the plaintiff (Respondent 1) to plead regarding the specified value of the suit within 15 days. The trial court was instructed to determine whether the specified value was below the threshold limit specified in the CC Act and decide on its jurisdiction to entertain the suit. 
+* **Relief Granted:** None. 
+* **Orders:**
+    * The trial court was directed to determine the specified value and decide on its jurisdiction within 30 days. 
+    * If the suit is held not maintainable, the interim injunction granted by the trial court would be vacated with liberty to Respondent 1 to seek said relief before the Commercial Court.
+
+## Implications
+
+* **Impact on Law:** The judgment emphasizes the need for a clear determination of the specified value in commercial disputes to prevent forum shopping and ensure that cases are filed in the appropriate court. 
+* **Future Relevance:** The case sets a precedent for how courts should handle disputes involving commercial agreements and the determination of specified value, especially in situations where the plaintiff might deliberately undervalue the suit to avoid filing in the Commercial Court. 
+* **Broader Context:** The judgment highlights the broader issue of forum shopping and the need for courts to actively ensure that litigants are not abusing their rights by strategically choosing courts based on perceived favorable outcomes. 
+
+## Summary Points
+
+* The Appellant challenged the trial court's decision to grant a temporary injunction in a suit related to a sublease agreement.
+* The primary issue was whether the suit was a commercial dispute under the CC Act, requiring it to be filed in the Commercial Court.
+* The Court held that the trial court's jurisdiction was subject to the determination of the specified value of the suit.
+* The judgment emphasized the importance of preventing forum shopping and ensuring that cases are filed in the appropriate court based on the specified value.
+
+## References
+
+* **Statutes:** Commercial Courts Act, 2015; Trade Marks Act, 1999; Specific Relief Act, 1963; Code of Civil Procedure, 1908; Karnataka Court Fees and Suits Valuation Act.
+* **Cases:** Fine Footwear Pvt. Ltd. Vs. Sketchers USA Inc. and Anr. (2019) 5 KLJ 358; Jagmohan Behl v/s State Bank of Indore (2017 SCC OnLine Del 10706); Ambalal Sarabhai Enterprises Ltd. v/s K.S. Infraspace LLP (2020) 15 SCC 585; Vishal Pipes Ltd. Vs. Bhavya Pipe Industry (2022 SCC OnLine Del 1730).
+* **Further Reading:** The Commercial Courts Act, 2015; The Code of Civil Procedure, 1908.

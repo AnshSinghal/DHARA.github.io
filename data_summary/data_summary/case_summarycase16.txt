@@ -1,0 +1,110 @@
+## 1. Case Title
+
+* **Case Name:** Reliance Infrastructure Ltd. vs. State of Goa
+* **Court:** Supreme Court of India
+* **Date of Judgment:** 10th May, 2023
+* **Citation:** 2023 SCC OnLine SC 444 
+
+## 2. Background and Context
+
+* **Brief Overview:** The case involved a dispute between Reliance Infrastructure Limited (RIL) and the State of Goa regarding the payment for electricity supplied by RIL to the State under a Power Purchase Agreement (PPA) signed in 1997. The dispute arose primarily from the parties' disagreement on the method of calculating variable charges for electricity generated using alternative fuel (RLNG), the downrating of the plant's capacity, and the billing for a 4MW power supply sold to third parties.
+* **Key Issues:** 
+    * Whether the parties agreed to a fixed or fluctuating price for electricity generated using RLNG.
+    * Whether the downrating of the plant's capacity was applicable.
+    * Whether the State was liable to pay variable charges for the 4MW power sold to third parties.
+    * Whether the netting-out principle was applicable to the backup power supplied by the State during a plant shutdown.
+    * Whether the Arbitral Tribunal erred in awarding pre-reference period interest and in setting the post-award interest rate at 15% per annum.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * Arbitration and Conciliation Act, 1996 (the Act): Sections 8, 9, 16, 17, 18, 23, 26, 28, 31, 33, 34, 37, 86(1)(f)
+    * Electricity Act, 2003: Section 86(1)(f)
+    * Indian Evidence Act, 1872: Section 114
+    * Contract Act, 1872: Section 74
+    * Interest Act, 1978: Section 2(b)
+    * Code of Civil Procedure, 1908: Order XIV Rule 1
+* **Precedents Cited:** 
+    * Ssangyong Engineering and Construction Co. Ltd. v. NHAI: (2019) 15 SCC 131
+    * Vedanta Ltd. v. Shenzhen Shandong Nuclear Power Construction Co. Ltd: (2019) 11 SCC 465
+    * MMTC Limited v. Vedanta Limited: (2019) 4 SCC 163
+    * PSA SICAL Terminals (P) Ltd. v. Board of Trustees of V.O. Chidambranar Port Trust Tuticorin and Ors.: (2021) SCC Online SC 508
+    * Delhi Airport Metro Express Pvt. Ltd. v. Delhi Metro Rail Corporation Ltd.: (2022) 1 SCC 131
+    * Haryana Tourism Ltd. v. Kandhari Beverages Ltd.: (2022) 3 SCC 237
+    * State of Chhattisgarh and Ors. v. Sal Udyog Pvt. Ltd.: (2022) 2 SCC 275
+    * Associate Builders v. Delhi Development Authority: (2015) 3 SCC 49
+    * NHAI v. M. Hakeem: (2021) 9 SCC 1
+    * Uttarakhand PurvSainikKalyan Nigam Ltd. v. Northern Coal Field Ltd.: (2020) 2 SCC 455
+    * Bhaven Construction v. Sardar Sarovar Narmada Nigam Ltd.: (2022) 1 SCC 75
+    * Rashtriya Ispat Nigam Ltd. v. Dewan Chand Ram Saran: (2012) 5 SCC 306
+    * State of Rajasthan v. Puri Construction Co. Ltd.: (1994) 6 SCC 485
+    * Excise and Taxation Officer-cum-Assessing Authority v. Gopi Nath & Sons: 1992 Supp (2) SCC 312
+    * Bachhittar Singh Vs State of Punjab: AIR 1963 S.C 395
+    * Bombay Chemicals Ltd. v/s. Union of India – 2006(201) ELT 167 Bombay
+* **Legal Doctrines:**
+    * **Scope of Interference under Section 34 and 37 of the Arbitration Act:** This doctrine emphasizes the limited scope of judicial interference in arbitral awards, limiting it to specific grounds under Section 34 and further restricting it in appeals under Section 37.
+    * **Patent Illegality:** This doctrine outlines the criteria for setting aside an award due to "patent illegality" appearing on its face, focusing on illegalities that go to the root of the matter and are not simply errors of law.
+    * **Principles of Natural Justice:** The court emphasized the importance of fair procedure and due process in arbitral proceedings, ensuring both parties have a fair opportunity to present their case.
+    * **Construction of Contractual Terms:** The court highlighted the primary role of the Arbitral Tribunal in interpreting contract terms, only interfering when the interpretation is unreasonable or goes beyond the scope of the contract.
+
+## 4. Arguments Presented
+
+* **Plaintiff’s Argument (RIL):**
+    * The Arbitral Tribunal correctly found that the parties had agreed to a variable price for electricity generated using RLNG, based on the fluctuating cost of fuel and the dollar exchange rate. 
+    * The downrating of the plant's capacity was not applicable as the Supplementary PPAs had reduced the plant's rated capacity and no reference was made to degradation.
+    * The State was liable to pay variable charges for the 4MW power sold to third parties because the State had agreed to exempt RIL from paying fixed charges for this power while retaining the right to revert to purchasing this power in the future.
+    * The Arbitral Tribunal was justified in awarding interest for the pre-reference period and setting the post-award interest rate at 15% per annum, based on the PPA and Section 31(7) of the Act.
+* **Defendant’s Argument (State of Goa):**
+    * The Arbitral Tribunal erred in ignoring the relevant contractual clauses (12.1.4-12.1.7) relating to fuel supply and failing to consider the impact of these clauses on the variable charges.
+    * The Arbitral Tribunal incorrectly disregarded the concept of downrating, as it was essential under the contract regardless of changes in rated capacity.
+    * The State should not be liable for variable charges on the 4MW power sold to third parties because the State had not received this power and it was not justifiable for RIL to be compensated for both fixed and variable charges.
+    * The Arbitral Tribunal was not justified in awarding pre-reference period interest, as the amount owed was in dispute and could not be crystallized until documentation was provided during arbitration proceedings.
+    * The post-award interest rate of 15% was excessive and should be reduced to 10% based on the principle of proportionality and reasonableness, as determined in Vedanta Ltd. (supra).
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The court found that the Arbitral Tribunal had correctly addressed the core issue of whether the parties had agreed to a variable or fixed price for electricity generated using RLNG. 
+    * The court agreed with the Arbitral Tribunal's interpretation of the PPA and supplementary PPAs concerning the downrating of the plant's capacity.
+    * The court found that the Arbitral Tribunal had considered the relevant evidence and reached a plausible conclusion regarding the 4MW power sold to third parties.
+    * The court upheld the Arbitral Tribunal's award of interest for the pre-reference period.
+    * The court rejected the High Court's reduction of the post-award interest rate from 15% to 10%, finding no justification for doing so.
+* **Interpretation of Law:**
+    * The court meticulously examined the relevant statutory provisions of the Arbitration and Conciliation Act, 1996, particularly focusing on the limited scope of judicial interference under Sections 34 and 37.
+    * The court clarified the meaning and application of the concept of "patent illegality" as it applies to arbitral awards. 
+    * The court emphasized the importance of considering the terms of the contract and the trade usages applicable to the transaction, as mandated by Section 28(3) of the Act.
+    * The court carefully analyzed the precedents cited by both parties, particularly emphasizing the need for restraint and minimal interference in arbitral awards.
+* **Application of Law:**
+    * The court applied the principles of minimal judicial interference and the limited scope of "patent illegality" to determine that the High Court had exceeded its jurisdiction by reappraising the evidence and substituting its own interpretation for that of the Arbitral Tribunal.
+    * The court found that the High Court had erred in setting aside the award on the ground that the Arbitral Tribunal had failed to consider certain contractual clauses (12.1.4-12.1.7), as these clauses were not relevant to the core issues presented before the Arbitral Tribunal.
+    * The court rejected the High Court's conclusion that the Arbitral Tribunal had ignored relevant evidence regarding the downrating of the plant's capacity.
+    * The court held that the High Court was not justified in reducing the post-award interest rate, as the Arbitral Tribunal had acted within its powers under Section 31(7) of the Act.
+
+## 6. Judgment
+
+* **Final Decision:** The Supreme Court allowed the appeal filed by RIL and dismissed the appeal filed by the State of Goa. 
+* **Relief Granted:** The Supreme Court restored the original arbitral award in its entirety, including the award of interest.
+* **Orders:** The High Court's judgment and order modifying the arbitral award was set aside. The arbitral award was reinstated.
+
+## 7. Implications
+
+* **Impact on Law:** This judgment reinforces the principles of minimal judicial interference in arbitral awards and the strict limitations on the scope of review under Sections 34 and 37 of the Arbitration and Conciliation Act, 1996. 
+* **Future Relevance:** This case serves as a reminder for courts to exercise restraint and carefully analyze the grounds for interference with arbitral awards, avoiding reappreciation of evidence or substituting their own interpretations of the law.
+* **Broader Context:** This judgment highlights the importance of clarity in contractual agreements and the role of arbitration as an efficient and effective dispute resolution mechanism in commercial disputes.
+
+## 8. Summary Points
+
+* The Supreme Court upheld the Arbitral Tribunal's award, finding no basis for the High Court's interference.
+* The court emphasized the limited scope of judicial review of arbitral awards, focusing on "patent illegality" and avoiding reappreciation of evidence.
+* The court rejected the State's arguments that the Arbitral Tribunal had ignored relevant contractual clauses and disregarded the concept of downrating.
+* The court clarified that the Arbitral Tribunal was justified in awarding interest for the pre-reference period and in setting the post-award interest rate at 15% per annum.
+
+## 9. References
+
+* **Citations:** See the "Relevant Statutes and Provisions" and "Precedents Cited" sections above for full citations of statutes and cases.
+
+* **Further Reading:**
+    * Associate Builders v. Delhi Development Authority: (2015) 3 SCC 49 
+    * Ssangyong Engineering and Construction Co. Ltd. v. NHAI: (2019) 15 SCC 131 
+    * Delhi Airport Metro Express Pvt. Ltd. v. Delhi Metro Rail Corporation Ltd.: (2022) 1 SCC 131 
+    * Haryana Tourism Ltd. v. Kandhari Beverages Ltd.: (2022) 3 SCC 237

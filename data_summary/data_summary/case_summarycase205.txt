@@ -1,0 +1,116 @@
+## 1. Case Title
+
+* **Case Name:** Marsons Electrical Industries vs. Chairman, Madhya Pradesh Electricity Board (Madhya Pradesh State Electricity Board) And Another
+* **Court:** Allahabad High Court
+* **Date of Judgment:** 12 December, 2023
+* **Citation:** 2023:AHC:235589-DB
+
+## 2. Background and Context
+
+**Brief Overview:** This case revolves around a dispute between Marsons Electrical Industries (Appellant), a small-scale transformer manufacturer, and the Madhya Pradesh Electricity Board (Respondent), over delayed payment for transformers supplied by the Appellant. The dispute arose due to the Respondent's failure to pay interest on the delayed payments, as mandated by the Interest on Delayed Payments to Small Scale and Ancillary Undertakings Act, 1993 (1993 Act). The Appellant initially filed a claim petition before the U.P. Industry Facilitation Council (Council) at Kanpur under the 1993 Act, which was later replaced by the Micro, Small and Medium Enterprises Development Act, 2006 (MSMED Act, 2006). The Council awarded the Appellant the disputed interest amount, but the Respondent challenged the award before the Commercial Court, Kanpur, arguing that the Council lacked jurisdiction.
+
+**Key Issues:** 
+* Whether the Council had jurisdiction to adjudicate the dispute under the MSMED Act, 2006, despite the contractual provision granting exclusive jurisdiction to courts at Jabalpur.
+* Whether the Appellant, despite being registered as a small-scale industry prior to the MSMED Act, 2006, qualified as a "supplier" under the Act to claim the benefits of delayed payment provisions.
+* Whether the claim was time-barred, considering the delay in filing the claim petition.
+
+## 3. Legal Principles Involved
+
+**Relevant Statutes and Provisions:**
+
+* **MSMED Act, 2006:**  Sections 2(b), 2(d), 2(n), 15, 16, 18(1), 18(2), 18(4), 24, and 32.
+* **Arbitration and Conciliation Act, 1996 (Act, 1996):**  Sections 20(2), 34, and 37.
+* **Interest on Delayed Payments to Small Scale and Ancillary Undertakings Act, 1993:**  (1993 Act)
+
+**Precedents Cited:**
+
+* Silpi Industries vs. Kerala State Road Transport Corporation 
+* Gujarat State Civil Supplies Corporation Ltd. vs. Mahakali Foods Private Ltd
+* Bharat Heavy Electricals Ltd vs. Vector Engineering Company
+* Bajaj Auto Limited vs. State of Maharashtra
+* Konkan Railway Corporation Ltd. vs. Chenab Bridge Project Undertaking
+* Lion Engineering Consultants vs. State of M.P. and others
+* Vaishno Enterprises vs. Hamilton Medical AG and another
+* Dhule Municipal Corporation vs. Microvision Technologies and another
+
+**Legal Doctrines:**
+
+* **Overriding Effect of Special Legislation:** The MSMED Act, 2006 being a special legislation, overrides general laws like the Arbitration and Conciliation Act, 1996.
+* **Prospective Application of Benefits:**  Benefits under the MSMED Act, 2006 are generally applicable prospectively from the date of registration.
+* **Jurisdiction of Arbitration Tribunals:**  The jurisdiction of an arbitration tribunal is determined by the agreement between the parties and relevant statutory provisions.
+* **Scope of Judicial Review:** The court's power to interfere with an arbitration award under Section 37 of the Act, 1996 is limited.
+
+## 4. Arguments Presented
+
+**Appellant’s Argument:**
+
+* The Appellant, being a small-scale industry registered since 1971, was a "supplier" under the MSMED Act, 2006 and eligible for the benefits provided under the Act, including interest on delayed payments.
+* The MSMED Act, 2006, being a special Act, overrides the contractual clause granting exclusive jurisdiction to courts in Jabalpur and empowers the Council to adjudicate the dispute.
+* The claim was not time-barred as it was filed within the statutory period prescribed under the 1993 Act.
+* The Council's jurisdiction was never challenged by the Respondent before the Council and the Respondent cannot raise it for the first time before the Commercial Court.
+
+**Respondent’s Argument:**
+
+* The Appellant was not a "supplier" under the MSMED Act, 2006 as it was registered under the Act only in 2016, after the contract was executed.
+* The Council lacked jurisdiction to adjudicate the dispute as the parties had agreed to exclusive jurisdiction of courts at Jabalpur in their contract.
+* The Appellant's claim was time-barred as it was filed after the statutory period prescribed under the 1993 Act.
+* The Appellant had withdrawn its claim petition in 2002 and could not file a fresh claim later.
+
+## 5. Court’s Analysis and Reasoning
+
+**Key Findings:**
+
+* The Appellant was continuously registered as a small-scale industry since 1971 and qualified as a "supplier" under the MSMED Act, 2006, irrespective of the date of re-registration under the Act.
+* The MSMED Act, 2006, being a special legislation, overrides any conflicting provisions in the contract, including the jurisdiction clause.
+* The Council had jurisdiction to adjudicate the dispute under the MSMED Act, 2006, considering the Appellant's registration as a small-scale industry and the applicability of Section 32 of the Act.
+* The claim was not time-barred as it was filed within the statutory period prescribed under the 1993 Act, and the later filing under the MSMED Act, 2006, was a continuation of the earlier claim.
+
+**Interpretation of Law:**
+
+* The court interpreted the provisions of the MSMED Act, 2006, particularly Section 2(n), 18(1), 18(2), 18(4), and 32, to determine the Appellant's status as a "supplier" and the Council's jurisdiction.
+* The court relied on the principle of overriding effect of special legislation, as established in the Silpi Industries case, to rule in favor of the Appellant.
+* The court emphasized the importance of timely and smooth payments to small-scale suppliers under the MSMED Act, 2006.
+
+**Application of Law:**
+
+* The court applied the provisions of the MSMED Act, 2006 to the facts of the case, finding that the Appellant met the criteria of a "supplier" under the Act.
+* The court considered the precedents cited by both parties, particularly the Silpi Industries case and the Gujarat State Civil Supplies Corporation case, and distinguished the facts of those cases from the current case.
+* The court rejected the Respondent's arguments based on the contractual jurisdiction clause, holding that the statutory provisions of the MSMED Act, 2006 override any contractual agreements.
+
+## 6. Judgment
+
+**Final Decision:** The Allahabad High Court allowed the Appellant's appeal under Section 37 of the Arbitration and Conciliation Act, 1996. 
+
+**Relief Granted:** The court set aside the order of the Commercial Court, Kanpur, and restored the award passed by the Facilitation Council dated 2.7.2009, signed on 7.9.2011 and finalized on 3.2.2012.
+
+**Orders:** The Commercial Court, Kanpur, was directed to uphold the Council's award.
+
+## 7. Implications
+
+**Impact on Law:** This judgment reinforces the principle that the MSMED Act, 2006, being a special legislation, overrides any conflicting provisions in agreements between parties, including jurisdiction clauses. It also clarifies that the benefits of the MSMED Act, 2006 are available to small-scale enterprises registered prior to the enactment of the Act, even if they subsequently re-register under the Act. 
+
+**Future Relevance:** This case serves as a precedent for future disputes involving delayed payments to small-scale suppliers under the MSMED Act, 2006. It emphasizes the importance of considering the overriding effect of special legislation and the statutory provisions governing such disputes.
+
+**Broader Context:** This judgment highlights the government's commitment to protecting the interests of small-scale enterprises by providing a mechanism for timely payment and dispute resolution through the MSMED Act, 2006.
+
+## 8. Summary Points
+
+* The Allahabad High Court held that the MSMED Act, 2006 overrides contractual provisions, including jurisdiction clauses.
+* The court recognized the Appellant as a "supplier" under the MSMED Act, 2006, despite being registered prior to the enactment of the Act.
+* The court upheld the Facilitation Council's award, affirming its jurisdiction to adjudicate the dispute under the MSMED Act, 2006.
+* The judgment reaffirms the importance of timely payments to small-scale enterprises and the provisions of the MSMED Act, 2006.
+
+## 9. References
+
+**Citations:**
+
+* Micro, Small and Medium Enterprises Development Act, 2006
+* Arbitration and Conciliation Act, 1996
+* Interest on Delayed Payments to Small Scale and Ancillary Undertakings Act, 1993
+
+**Further Reading:**
+
+* Silpi Industries vs. Kerala State Road Transport Corporation
+* Gujarat State Civil Supplies Corporation Ltd. vs. Mahakali Foods Private Ltd
+* Vaishno Enterprises vs. Hamilton Medical AG and another
+* Dhule Municipal Corporation vs. Microvision Technologies and another 

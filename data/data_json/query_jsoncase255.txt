@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A borrower, 'XYZ Construction', claims a bank, 'ABC Bank', fraudulently invoked the SARFAESI Act to seize their property. The bank claims they followed due process after the borrower defaulted on their loan. The borrower seeks a declaration that the bank's actions were illegal and wants damages. The bank argues the borrower should have gone to the DRT and not the civil court.  Is the civil court the proper forum for this dispute?",
+    "Legal Principles": "Jurisdiction of civil courts vs. DRTs in disputes involving SARFAESI Act, fraud allegations against banks, applicability of Section 19 of the Recovery of Debts and Bankruptcy Act, 1993.",
+    "Relevant Sections": "Section 13(1A) of the Commercial Courts Act, 2015, Order VII Rule 10 and Rule 11(d) of the Code of Civil Procedure, 1908, Section 19 of the Recovery of Debts and Bankruptcy Act, 1993, Section 17 of the Recovery Act, 1993.",
+    "Context": "Commercial Suit, Appeal from Order, jurisdiction, SARFAESI Act, fraud, DRT, civil court, India"
+  },
+  {
+    "Query": "A company, 'Tech Solutions', is in a dispute with a supplier, 'Hardware Inc.', over a contract for IT equipment. Tech Solutions alleges Hardware Inc. breached the contract by providing faulty equipment. Hardware Inc. claims the equipment is fine and Tech Solutions is just trying to avoid payment. Both parties have filed a suit in a Commercial Court.  What are the key arguments each party might make regarding the proper interpretation of the contract?",
+    "Legal Principles": "Contract interpretation, breach of contract, remedies for breach, evidence in contract disputes, commercial law principles.",
+    "Relevant Sections": "Relevant sections of the Indian Contract Act, 1872, terms and conditions of the contract, relevant clauses regarding quality, performance, and remedies.",
+    "Context": "Commercial Suit, Contract Interpretation, Breach of Contract, Commercial Law, India"
+  },
+  {
+    "Query": "Two companies, 'Green Energy' and 'Solar Power', signed a joint venture agreement to develop a solar power plant. They later fell into a dispute regarding the allocation of profits and responsibilities. Green Energy claims Solar Power violated the agreement. Solar Power claims Green Energy failed to meet its obligations. They are now in a Commercial Court, seeking a resolution.  How would the court approach the interpretation of the joint venture agreement and what factors might it consider in determining the rights and obligations of the parties?",
+    "Legal Principles": "Joint venture agreements, interpretation of partnership agreements, rights and obligations of partners, allocation of profits and losses, remedies for breach of contract.",
+    "Relevant Sections": "Relevant sections of the Indian Partnership Act, 1932, provisions of the joint venture agreement, clauses related to profit sharing, responsibilities, dispute resolution.",
+    "Context": "Commercial Suit, Joint Venture Agreement, Partnership Law, Commercial Law, India"
+  },
+  {
+    "Query": "A small business owner, 'Crafts Emporium', defaulted on a loan from 'Local Bank'. Local Bank invoked the SARFAESI Act and seized Crafts Emporium's property. Crafts Emporium claims the bank failed to follow the proper procedures and that the seizure was unlawful. They seek a declaration that the seizure was invalid and are requesting damages. Local Bank argues they followed all the required steps. Is the bank's seizure of the property legally valid?",
+    "Legal Principles": "SARFAESI Act, enforcement of security interest, due process, legal remedies for wrongful seizure, procedures for taking possession under the SARFAESI Act.",
+    "Relevant Sections": "Sections of the SARFAESI Act, 2002,  relevant procedures for taking possession, provisions related to defaults, legal remedies available to the borrower.",
+    "Context": "Commercial Suit, SARFAESI Act, Seizure of Property, Default on Loan, India"
+  },
+  {
+    "Query": "'Fashion House' is a clothing retailer that had a business loan from 'City Bank'. The loan agreement includes a clause stating that City Bank can appoint a receiver to manage Fashion House's assets if a default occurs. Fashion House defaulted on the loan.  Can City Bank legally appoint a receiver and how does the court determine if it is justified?",
+    "Legal Principles": "Loan agreements, appointment of receivers, default on loan, remedies available to lenders, power of the court to appoint receivers.",
+    "Relevant Sections": "Sections of the Indian Contract Act, 1872, provisions of the loan agreement, clauses related to appointment of receivers, legal principles for appointing receivers.",
+    "Context": "Commercial Suit, Loan Agreement, Appointment of Receiver, Default on Loan, India"
+  },
+  {
+    "Query": "'TechCorp' entered into a contract with 'Software Solutions' for software development services. TechCorp claims Software Solutions delivered incomplete and faulty software. Software Solutions argues they completed the work as per the contract and TechCorp is refusing to pay.  What are the key legal issues in this dispute and what remedies might TechCorp seek?",
+    "Legal Principles": "Contract interpretation, breach of contract, performance of contractual obligations, quality of services, remedies for breach of contract.",
+    "Relevant Sections": "Relevant sections of the Indian Contract Act, 1872, terms and conditions of the software development agreement, clauses related to scope of work, delivery, quality standards, remedies for breach.",
+    "Context": "Commercial Suit, Contract Dispute, Breach of Contract, Software Development Agreement, India"
+  },
+  {
+    "Query": "A company, 'Global Exports', entered into a contract with 'International Shipping' for the transportation of goods overseas. Global Exports claims the goods were damaged during transportation due to negligence by International Shipping. International Shipping denies liability. What factors will the court consider in determining whether International Shipping is liable for the damage to the goods?",
+    "Legal Principles": "Contractual liability, carriage of goods by sea, negligence, causation, standard of care, burden of proof.",
+    "Relevant Sections": "Relevant sections of the Carriage of Goods by Sea Act, 1925, the terms and conditions of the contract of carriage, provisions related to liability for damage to goods.",
+    "Context": "Commercial Suit, Carriage of Goods by Sea, Damage to Goods, Negligence, India"
+  },
+  {
+    "Query": "'Construction Group' entered into a contract with 'City Corporation' for the construction of a new government building. Construction Group claims City Corporation wrongfully terminated the contract without sufficient cause. City Corporation claims they were justified in terminating the contract because Construction Group failed to meet deadlines and specifications.  What arguments might Construction Group raise to challenge the termination?",
+    "Legal Principles": "Termination of contracts, breach of contract, substantial performance, wrongful termination, remedies for breach.",
+    "Relevant Sections": "Relevant sections of the Indian Contract Act, 1872, terms and conditions of the construction contract, clauses related to termination, performance standards, remedies for breach.",
+    "Context": "Commercial Suit, Construction Contract, Termination of Contract, Breach of Contract, India"
+  },
+  {
+    "Query": "Two companies, 'Pharmaceuticals Inc.' and 'Medical Supplies', entered into a contract for the supply of medical equipment. Pharmaceuticals Inc. claims Medical Supplies breached the contract by delivering substandard equipment. Medical Supplies denies the claim and argues that the equipment meets the required specifications.  What evidence would be relevant in determining whether the medical equipment meets the contractual specifications?"
+    "Legal Principles": "Contract interpretation, breach of contract, quality of goods, evidence in commercial disputes, expert testimony, standards for medical equipment.",
+    "Relevant Sections": "Relevant sections of the Sale of Goods Act, 1930, terms and conditions of the contract, clauses related to quality of goods, specifications, inspection procedures, remedies for breach.",
+    "Context": "Commercial Suit, Contract Dispute, Breach of Contract, Quality of Goods, Medical Equipment, India"
+  },
+  {
+    "Query": "'Energy Solutions' entered into an agreement with 'Solar Power' to install solar panels on Energy Solutions' factory building. Solar Power installed the panels but they were not functioning properly. Energy Solutions claims they were defective and seeks a refund. Solar Power claims the issue is due to improper maintenance by Energy Solutions.  What factors would the court consider in determining the cause of the malfunctioning solar panels?"
+    "Legal Principles": "Contractual liability, performance of services, defects in goods, causation, standard of care, burden of proof.",
+    "Relevant Sections": "Relevant sections of the Sale of Goods Act, 1930, the terms and conditions of the installation agreement, provisions related to warranty, defects, maintenance, liability for defects."
+    "Context": "Commercial Suit, Contract Dispute, Installation Agreement, Defective Goods, Solar Panels, India"
+  }
+]
+``` 

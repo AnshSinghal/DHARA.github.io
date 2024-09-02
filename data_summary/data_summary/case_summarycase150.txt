@@ -1,0 +1,119 @@
+## 1. Case Title
+
+* **Case Name:** S P M L Infra Limited vs. South Bihar Power Distribution Company Limited 
+* **Court:** Patna High Court
+* **Date of Judgment:** 26th April 2023
+* **Citation:** CWJC No.20350 of 2021 dt. 26-04-2023
+
+## 2. Background and Context
+
+* **Brief Overview:** This case involves a complex legal dispute arising from a tripartite agreement between the South Bihar Power Distribution Company Limited (SBPDCL), Bhagalpur Electricity Distribution Company Private Limited (BEDCPL), and SPML Infra Limited (SPML) for the distribution of electricity in Bhagalpur. The dispute centers around the interpretation of the Distribution Franchisee Agreement (DFA) and the role of SPML and BEDCPL in the arbitration process. 
+* **Key Issues:** 
+    * Whether SPML should be considered a party to the arbitration agreement despite BEDCPL being a subsidiary company.
+    * Whether the extension of the mandate of the arbitral tribunal by the District Judge was valid and if the tribunal's mandate had actually terminated.
+    * Whether the court should appoint new arbitrators, considering the termination of the previous tribunal and the need for fresh proceedings.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * Article 226 and 227 of the Constitution of India
+    * Section 11, 15, 16, 21, 29A, 34, 37, and 38 of the Arbitration and Conciliation Act, 1996 
+    * Section 230 of the Contract Act, 1872
+* **Precedents Cited:**
+    * S.N. Prasad v. Monnet Finance Ltd., (2011) 1 SCC 320
+    * Jayesh H. Pandya & Anr. Vs. Subhtex India Ltd. & Ors. (2020) 17 SCC 383
+    * Datar Switchgears Ltd. Vs. Tata Finance Ltd. & Anr. (2000) 8 SCC 151
+    * Punj Lloyed Ltd. Vs. Petronet MHB Ltd. (2006) 2 SCC 638
+    * Zostel Hospitality (P) Ltd. v. Oravel Stays (P) Ltd. (2021) 9 SCC 765
+    * M/S S.B.P. & Co. Vs. M/S Patel Engineering Ltd. & Anr. (2005) 8 SCC 618
+    * Vidya Drolia Vs. Durga Trading Corporation (2021) 2 SCC 1
+    * IVRCL Ltd. vs. Alkor Petroo Ltd. (2016 SCC Online Guj 7809)
+    * SP Singla Constructions Pvt. Ltd. Vs. State of Himachal Pradesh (2019 (1) PLJR SC 276)
+    * Antrix Corporation Limited Vs. Devas Multimedia Pvt. Ltd. (2014) 11 SCC 560
+    * NHPC Ltd. Erstwhile Vs. M/S Hindustan Construction Company Ltd. & Ors.) (2015 SCC Online P & H 105) 
+    * Deep Industries Limited Vs. Oil and Natural Gas Corporation Limited (2020) 15 SCC 706
+    * Bharat Sanchar Nigam Limited Vs. Motorola India Private Limited (2009) 2 SCC 337
+    * S.P. Singla Constructions Private Limited Vs. State of Himachal Pradesh (2019) 2 SCC 488
+    * Chloro Controls India (P) Ltd. vs. Severn Trent Water Purification Inc. (2013) 1 SCC 641 
+    * Directorate of Enforcement Vs. Deepak Mahajan (1994) 3 SCC 440
+    * Commissioner of Income Tax Vs. Ajanta Electricals (1995) 4 SCC 182 
+    * Tata Capital Financial Services Ltd. Vs. Siva Industries and Holding Ltd. (MANU/SCOR/95271/2022)
+    * Shailesh Dhariyawan Vs. Mohan Bal Krishan Lulla (2016) 3 SCC 619
+    * Sasan Power Limited Vs. North American Coal Corporation (2016) 10 SCC 813
+    * Mahanagar Telephone Nigam Ltd. Vs Canara Bank (2020) 12 SCC 767 
+* **Legal Doctrines:** 
+    * **Agency:** The court examined the legal concept of agency in the context of SPML and BEDCPL, considering whether BEDCPL could sue on its own behalf or if SPML needed to be directly involved. 
+    * **Arbitrability:** The court analyzed whether the dispute was a matter that could be resolved through arbitration under the Arbitration and Conciliation Act.
+    * **Waiver:** The court reviewed the doctrine of waiver, examining whether SBPDCL had waived its right to object to BEDCPL's initiation of the arbitration process.
+    * **Jurisdiction:** The court scrutinized the jurisdictional limits of the District Judge and the High Court concerning appointing, substituting, and extending the mandate of arbitrators. 
+    * **Interpretation of Statutes:** The court applied principles of statutory interpretation to determine the meaning of "extension" in Section 29A of the Act and the scope of the term "Court" in different sections.
+
+## 4. Arguments Presented
+
+* **Plaintiff’s Argument (SBPDCL):**
+    * BEDCPL, as a 100% subsidiary of SPML, lacked the right to initiate arbitration proceedings against SBPDCL, as the principle SPML was the real party in interest. 
+    * The DFA was not a valid arbitration agreement between SBPDCL and BEDCPL.
+    * The mandate of the initial arbitral tribunal terminated on 13.05.2017, and subsequent extensions by the tribunal were invalid. 
+    * The District Judge erred in extending the tribunal's mandate under Section 29A(4) of the Act.
+    * The District Judge's dismissal of SBPDCL's petitions challenging the tribunal's jurisdiction and extensions was incorrect. 
+    * SBPDCL requested the High Court to appoint an arbitrator on behalf of SPML, as SPML failed to do so. 
+* **Defendant’s Argument (SPML and BEDCPL):** 
+    * BEDCPL, as a separate legal entity, had the right to invoke the arbitration clause in the DFA. 
+    * The DFA established an arbitration agreement between SBPDCL and BEDCPL.
+    * The District Judge correctly extended the mandate of the arbitral tribunal under Section 29A(4).
+    * The issues of SPML's involvement and the tribunal's jurisdiction were matters to be decided by the tribunal, not the courts. 
+    * SBPDCL had waived its right to object to the arbitration process by participating in it. 
+    * The High Court should not appoint new arbitrators, as the arbitration process was ongoing with BEDCPL's arbitrator. 
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The court found that SPML was a necessary party to the arbitration agreement despite the DFA's wording, considering the agreement's overall intention and SPML's undertaking to cover BEDCPL's liabilities.
+    * The court concluded that the arbitral tribunal's mandate terminated on 13.05.2017, and subsequent extensions were invalid. 
+    * The court determined that the District Judge lacked jurisdiction to extend the mandate of the arbitral tribunal, as this power was vested in the High Court or Supreme Court under Section 11 of the Act. 
+* **Interpretation of Law:**
+    * The court interpreted the term "extension" in Section 29A(4) to refer to a period of time during which the mandate of the arbitral tribunal was in existence, not a revival of a terminated mandate.
+    * The court determined that the term "Court" in Section 29A(6) meant the court that had the power to appoint arbitrators, not the Principal Civil Court. 
+* **Application of Law:**
+    * The court applied the principle of agency to determine that SPML, as the principal, was a party to the arbitration agreement, despite BEDCPL's role as the subsidiary. 
+    * The court applied the doctrine of waiver to determine that SBPDCL had not waived its right to object to the arbitration process by participating in it.
+    * The court applied the principle of statutory interpretation to interpret the meaning of "Court" and "extension" within the context of the Arbitration and Conciliation Act.
+
+## 6. Judgment
+
+* **Final Decision:** The High Court allowed the petitions of SBPDCL, setting aside the District Judge's orders extending the mandate of the arbitral tribunal. The court declared that the arbitral tribunal ceased to exist and ordered fresh arbitration proceedings.
+* **Relief Granted:** SBPDCL's petitions were granted, and the previous arbitration proceedings were declared null and void.
+* **Orders:** The High Court ordered that:
+    * SPML should be treated as a party to the arbitration agreement. 
+    * New arbitrators should be appointed, with one chosen by SBPDCL and the other chosen jointly by SPML and BEDCPL.
+    * The parties should select arbitrators from a list of former judges of the Patna High Court within two weeks. 
+    * The fresh arbitration proceedings should follow the timeline prescribed in Section 29A of the Act. 
+
+## 7. Implications
+
+* **Impact on Law:**
+    * This judgment clarifies the scope of the term "extension" in Section 29A of the Arbitration and Conciliation Act, highlighting that it refers to extending an existing mandate, not reviving a terminated mandate. 
+    * The judgment emphasizes the importance of understanding the jurisdictional limits of different courts in appointing, substituting, and extending the mandate of arbitrators.
+    * The judgment provides a clearer understanding of the role of subsidiaries in arbitration proceedings when a parent company is the real party in interest.
+* **Future Relevance:** This case serves as a precedent for future cases involving the interpretation of Section 29A of the Arbitration and Conciliation Act, particularly regarding the court's power to extend mandates and the potential need for fresh proceedings. 
+* **Broader Context:** The judgment highlights the importance of carefully drafted agreements, especially in complex commercial transactions, to avoid future disputes and ensure a smooth and efficient arbitration process.
+
+## 8. Summary Points
+
+* **Key Takeaways:**
+    * Subsidiary companies cannot always act independently in arbitration proceedings if the parent company is the real party in interest.
+    * The court cannot extend the mandate of an arbitral tribunal after it has terminated; the power to extend lies with the court that appointed the arbitrators.
+    * Courts should carefully consider the jurisdictional limits of various courts in arbitration matters.
+    * Fresh arbitration proceedings are necessary when the previous tribunal's mandate terminates and parties are not in agreement on the process.
+
+## 9. References
+
+* **Citations:**
+    * The Arbitration and Conciliation Act, 1996
+    * The Contract Act, 1872
+    * The Constitution of India
+    * All cases mentioned in the summary.
+* **Further Reading:** 
+    * Legal texts and articles on the Arbitration and Conciliation Act, 1996
+    * Case law on agency, arbitration, and jurisdictional issues.
+

@@ -1,0 +1,113 @@
+## 1. Case Title
+
+* **Case Name:** Dilip Choudhury vs. Pratishruti Projects Limited and Ors.
+* **Court:** Calcutta High Court
+* **Date of Judgment:** 17th September, 2019
+* **Citation:** Not provided in the text, but it can be found on the Calcutta High Court website using the case name and date.
+
+## 2. Background and Context
+
+* **Brief Overview:** Dilip Choudhury (the plaintiff) filed a civil suit in 2015 against Pratishruti Projects Limited and others (the defendants) for recovery of money and damages related to a joint venture agreement involving two medical institutions. The defendants initially applied to dismiss the suit and, following a decree in the plaintiff's favor, appealed. This appeal resulted in the suit being returned to an appropriate bench for disposal. The defendants then applied for extensions of time to file their written statements, which the plaintiff opposed. 
+* **Key Issues:**
+    * Whether the dispute in the suit was a "commercial dispute" under the Commercial Courts Act, 2015. 
+    * Whether the plaintiff was obligated to apply for the transfer of the suit to the Commercial Division under the Commercial Courts Act, 2015.
+    * Whether the court's orders granting extensions of time to file written statements were subject to review under Order XLVII of the Code of Civil Procedure, 1908.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * The Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015 (the Commercial Courts Act).
+    * The Code of Civil Procedure, 1908 (CPC).
+    * Order VIII Rule 1 of the CPC (as amended by the Calcutta Amendment and the Commercial Courts Act).
+    * Order XLVII of the CPC (relating to review of judgments).
+    * Section 15 of the Commercial Courts Act (relating to transfer of pending cases).
+    * Section 16(1) and (2) of the Commercial Courts Act (relating to the application of the CPC to commercial disputes). 
+    * First Schedule to the Commercial Courts Act (relating to amendments to the CPC).
+* **Precedents Cited:**
+    * Raja Shatrunji Vs. Mohammad Azmat Azim Khan (AIR 1971 SC 1474)
+    * Board of Control for Cricket, India Vs. Netaji Cricket Club (AIR 2005 SC 592)
+    * Lily Thomas, Etc. Vs. Union of India (AIR 2000 SC 1650)
+    * M/s. Northern India Caterers (India) Ltd. Vs. Lt. Governor of Delhi (1980) 2 SCC 167
+    * Smt. Shakuntalabai Krishna Bhoyar Vs. State of Maharashtra (AIR 1986 Bombay 308)
+    * Tinkari Sen Vs. Dulal Chandra Das (AIR 1967 Calcutta 518)
+    * State of West Bengal and Ors.Vs. Kamal Sengupta and Anr. (2008) 8 SCC 612
+    * Parsion Devi Vs. Sumitri Devi (1997) 8 SCC 715
+    * Meera Bhanja Vs. Nirmala Kumari Choudhury (1995) 1 SCC 170
+    * Colonial Life Insurance Company (Trinidad) Ltd. Vs. Reliance General Insurance Company Ltd. (2019 SCC Online Bom 848) 
+    * SCG Contracts India (case cited by the plaintiff, but not fully elaborated in the judgment).
+    * Salem Advocate Bar Association, T.N. Vs. Union of India (2005) 6 SCC 344
+* **Legal Doctrines:**
+    * Retrospective effect of legislation.
+    * Interpretation of statutory provisions, particularly "shall" and "may."
+    * Review jurisdiction of courts under Order XLVII of the CPC.
+
+## 4. Arguments Presented
+
+* **Plaintiff's Argument:**
+    * The dispute arose from a joint venture agreement, qualifying as a "commercial dispute" under the Commercial Courts Act, 2015.
+    * The decision of the Appeal Court classifying the dispute as commercial triggered automatic application of the Commercial Courts Act, including the amended provisions of Order VIII Rule 1 of the CPC regarding the filing of written statements.
+    * The court's failure to consider these amended provisions constituted an "error apparent on the face of the record" warranting review. 
+* **Defendant's Argument:**
+    * The plaintiff failed to initiate the transfer of the suit to the Commercial Division under Section 15 of the Commercial Courts Act, 2015.
+    * The defendants were actively contesting the suit and had already participated in proceedings prior to the application for extensions of time.
+    * The error, if any, was not "apparent on the face of the record" and required a detailed examination of the legal position. 
+    * The proviso to Section 15(4) of the Commercial Courts Act preserved the court's discretion to extend the time for filing written statements in transferred commercial suits.
+
+## 5. Court's Analysis and Reasoning
+
+* **Key Findings:**
+    * The court found that the plaintiff failed to take the necessary steps under Section 15(5) of the Commercial Courts Act to transfer the suit to the Commercial Division. 
+    * The court held that the error alleged by the plaintiff was not "apparent on the face of the record" and required a lengthy and involved analysis of the law.
+    * The court interpreted the proviso to Section 15(4) of the Commercial Courts Act as preserving the court's discretion to extend the time for filing written statements in commercial suits. 
+* **Interpretation of Law:**
+    * The court interpreted the Commercial Courts Act, 2015 as requiring the plaintiff to initiate the transfer of the suit to the Commercial Division under Section 15(5).
+    * The court found that the plaintiff's argument that the Commercial Courts Act applied automatically without the plaintiff's action was incorrect. 
+    * The court interpreted "shall not apply" in the proviso to Section 15(4) as preserving the defendant's right to file written statements within a reasonable timeframe, even in transferred commercial suits.
+* **Application of Law:**
+    * The court applied the principles of review jurisdiction under Order XLVII of the CPC, finding that the alleged error was not "apparent on the face of the record" but required a detailed examination of the facts and law.
+    * The court applied the principles established in various precedents, finding that a review was not a mechanism for a rehearing of the case on merits.
+
+## 6. Judgment
+
+* **Final Decision:** The court dismissed the plaintiff's applications for review of the orders granting extensions of time to the defendants to file their written statements.
+* **Relief Granted:** No specific relief was granted.
+* **Orders:** The court ordered that the review applications be dismissed without any order as to costs. 
+
+## 7. Implications
+
+* **Impact on Law:** 
+    * This judgment clarifies the application of the Commercial Courts Act, 2015 in cases where suits were filed before the Act's enactment.
+    * The judgment confirms that the plaintiff bears the responsibility for initiating the transfer of a suit to the Commercial Division under Section 15(5) of the Act.
+    * The judgment highlights the limited scope of review jurisdiction under Order XLVII of the CPC, particularly for errors that are not "apparent on the face of the record." 
+* **Future Relevance:** This judgment provides guidance to courts and parties in similar cases where the application of the Commercial Courts Act is in question.
+* **Broader Context:** The judgment demonstrates the importance of ensuring that the correct legal framework is applied from the outset of legal proceedings. 
+
+## 8. Summary Points
+
+* The plaintiff's suit was filed before the enactment of the Commercial Courts Act, 2015.
+* The plaintiff failed to initiate the transfer of the suit to the Commercial Division. 
+* The court held that the plaintiff's argument regarding an "error apparent on the face of the record" was not valid.
+* The court found that the proviso to Section 15(4) of the Commercial Courts Act preserved the court's discretion to extend the time for filing written statements in commercial suits.
+* The plaintiff's applications for review were dismissed. 
+
+## 9. References
+
+* The Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015.
+* The Code of Civil Procedure, 1908.
+* All cases cited in the judgment, including:
+    * Raja Shatrunji Vs. Mohammad Azmat Azim Khan (AIR 1971 SC 1474)
+    * Board of Control for Cricket, India Vs. Netaji Cricket Club (AIR 2005 SC 592)
+    * Lily Thomas, Etc. Vs. Union of India (AIR 2000 SC 1650)
+    * M/s. Northern India Caterers (India) Ltd. Vs. Lt. Governor of Delhi (1980) 2 SCC 167
+    * Smt. Shakuntalabai Krishna Bhoyar Vs. State of Maharashtra (AIR 1986 Bombay 308)
+    * Tinkari Sen Vs. Dulal Chandra Das (AIR 1967 Calcutta 518)
+    * State of West Bengal and Ors.Vs. Kamal Sengupta and Anr. (2008) 8 SCC 612
+    * Parsion Devi Vs. Sumitri Devi (1997) 8 SCC 715
+    * Meera Bhanja Vs. Nirmala Kumari Choudhury (1995) 1 SCC 170
+    * Colonial Life Insurance Company (Trinidad) Ltd. Vs. Reliance General Insurance Company Ltd. (2019 SCC Online Bom 848)
+    * Salem Advocate Bar Association, T.N. Vs. Union of India (2005) 6 SCC 344
+
+* **Further Reading:** 
+    * The Commercial Courts Act, 2015
+    * The Code of Civil Procedure, 1908
+    * Articles and books on review jurisdiction under Order XLVII of the CPC. 

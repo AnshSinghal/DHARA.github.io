@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A company, 'ABC Technologies', filed a suit against 'XYZ Corporation' for breach of contract. The contract was for the supply of software and XYZ Corporation failed to deliver the software as per the agreed terms. ABC Technologies wants to know if they can sue XYZ Corporation in a commercial court or a regular civil court.",
+    "Legal Principles": "The Commercial Courts Act, 2015, defines commercial disputes and designates commercial courts to handle them. The Act provides for transfer of pending suits to the Commercial Division of the High Court.",
+    "Relevant Sections": "Section 2(c) of the Commercial Courts Act defines 'commercial dispute'.\nSection 15 of the Commercial Courts Act provides for transfer of pending suits to the Commercial Division of the High Court.",
+    "Context": "Jurisdiction: India, Case type: Contractual dispute."
+  },
+  {
+    "Query": "A property dispute has arisen between two families, 'Sharma Family' and 'Singh Family'. They both claim ownership of a piece of land. The Sharma Family filed a suit in the civil court, but the Singh Family claims that the dispute should be resolved in a commercial court as it involves a commercial transaction.",
+    "Legal Principles": "The Commercial Courts Act, 2015, defines commercial disputes and designates commercial courts to handle them. The Act does not include property disputes within the definition of commercial disputes.",
+    "Relevant Sections": "Section 2(c) of the Commercial Courts Act defines 'commercial dispute'.",
+    "Context": "Jurisdiction: India, Case type: Property dispute."
+  },
+  {
+    "Query": "A case involving a trademark infringement claim by 'Brand A' against 'Brand B' is before the court. Brand B argues that the case should be heard in a commercial court as it is a commercial dispute.",
+    "Legal Principles": "The Commercial Courts Act, 2015, defines commercial disputes and designates commercial courts to handle them. Intellectual property disputes, including trademark infringement, fall under the definition of commercial disputes.",
+    "Relevant Sections": "Section 2(c) of the Commercial Courts Act defines 'commercial dispute' and includes intellectual property rights relating to trademarks.",
+    "Context": "Jurisdiction: India, Case type: Intellectual property dispute."
+  },
+  {
+    "Query": "A case involving a dispute between two companies, 'Company X' and 'Company Y', over a distribution agreement is being heard in the High Court. Company X wants to know whether the case should be transferred to the Commercial Division of the High Court.",
+    "Legal Principles": "The Commercial Courts Act, 2015, defines commercial disputes and designates commercial courts to handle them. The Act requires the transfer of pending suits relating to commercial disputes to the Commercial Division of the High Court.",
+    "Relevant Sections": "Section 2(c) of the Commercial Courts Act defines 'commercial dispute' and includes distribution agreements.\nSection 15 of the Commercial Courts Act provides for transfer of pending suits to the Commercial Division of the High Court.",
+    "Context": "Jurisdiction: India, Case type: Contractual dispute."
+  },
+  {
+    "Query": "A case regarding a patent infringement claim by 'Inventor A' against 'Company B' is before the court. Company B claims that the case should be heard in a commercial court because it involves a commercial transaction.",
+    "Legal Principles": "The Commercial Courts Act, 2015, defines commercial disputes and designates commercial courts to handle them. Intellectual property disputes, including patent infringement, fall under the definition of commercial disputes.",
+    "Relevant Sections": "Section 2(c) of the Commercial Courts Act defines 'commercial dispute' and includes intellectual property rights relating to patents.",
+    "Context": "Jurisdiction: India, Case type: Intellectual property dispute."
+  },
+  {
+    "Query": "A case involving a loan agreement between 'Lender A' and 'Borrower B' is being heard in the High Court. Borrower B is challenging the loan agreement claiming it is unfair. Lender A argues that the case should be heard in the Commercial Division of the High Court.",
+    "Legal Principles": "The Commercial Courts Act, 2015, defines commercial disputes and designates commercial courts to handle them. Loan agreements fall under the definition of commercial disputes.",
+    "Relevant Sections": "Section 2(c) of the Commercial Courts Act defines 'commercial dispute' and includes agreements relating to loans.\nSection 15 of the Commercial Courts Act provides for transfer of pending suits to the Commercial Division of the High Court.",
+    "Context": "Jurisdiction: India, Case type: Contractual dispute."
+  },
+  {
+    "Query": "A case regarding a copyright infringement claim by 'Author A' against 'Publisher B' is before the court. Publisher B argues that the case should be heard in a commercial court as it involves a commercial transaction.",
+    "Legal Principles": "The Commercial Courts Act, 2015, defines commercial disputes and designates commercial courts to handle them. Intellectual property disputes, including copyright infringement, fall under the definition of commercial disputes.",
+    "Relevant Sections": "Section 2(c) of the Commercial Courts Act defines 'commercial dispute' and includes intellectual property rights relating to copyright.",
+    "Context": "Jurisdiction: India, Case type: Intellectual property dispute."
+  },
+  {
+    "Query": "A case involving a dispute between two companies, 'Company A' and 'Company B', over a joint venture agreement is being heard in the High Court. Company A wants to know whether the case should be transferred to the Commercial Division of the High Court.",
+    "Legal Principles": "The Commercial Courts Act, 2015, defines commercial disputes and designates commercial courts to handle them. Joint venture agreements fall under the definition of commercial disputes.",
+    "Relevant Sections": "Section 2(c) of the Commercial Courts Act defines 'commercial dispute' and includes joint venture agreements.\nSection 15 of the Commercial Courts Act provides for transfer of pending suits to the Commercial Division of the High Court.",
+    "Context": "Jurisdiction: India, Case type: Contractual dispute."
+  },
+  {
+    "Query": "A case regarding a dispute between two companies, 'Company X' and 'Company Y', over a distribution agreement is being heard in the High Court. Company X wants to know whether the case should be transferred to the Commercial Division of the High Court.",
+    "Legal Principles": "The Commercial Courts Act, 2015, defines commercial disputes and designates commercial courts to handle them. The Act requires the transfer of pending suits relating to commercial disputes to the Commercial Division of the High Court.",
+    "Relevant Sections": "Section 2(c) of the Commercial Courts Act defines 'commercial dispute' and includes distribution agreements.\nSection 15 of the Commercial Courts Act provides for transfer of pending suits to the Commercial Division of the High Court.",
+    "Context": "Jurisdiction: India, Case type: Contractual dispute."
+  },
+  {
+    "Query": "A case involving a dispute over a construction contract between 'Contractor A' and 'Client B' is before the court. Client B argues that the case should be heard in a commercial court as it involves a commercial transaction.",
+    "Legal Principles": "The Commercial Courts Act, 2015, defines commercial disputes and designates commercial courts to handle them. Construction contracts fall under the definition of commercial disputes.",
+    "Relevant Sections": "Section 2(c) of the Commercial Courts Act defines 'commercial dispute' and includes agreements relating to construction works.",
+    "Context": "Jurisdiction: India, Case type: Contractual dispute."
+  }
+]
+```

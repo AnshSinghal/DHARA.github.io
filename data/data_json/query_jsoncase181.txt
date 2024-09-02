@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A construction company (A) is in a dispute with a client (B) over the payment of a construction project.  A claims that B has not paid the full amount due for the completed project. B claims that the project was not completed to the agreed specifications, and therefore, they are not obligated to pay the full amount. A is worried that B might dispose of its assets and make it difficult to recover the remaining payment. A seeks an order to secure the amount in dispute before the arbitration proceedings begin.",
+    "Legal Principles": "Interim Measures of Protection, Section 9 of the Arbitration and Conciliation Act, 1996, Order XXXVIII Rule 5 of the Code of Civil Procedure, 1908, Prima Facie Case, Balance of Convenience, Frustration of Award",
+    "Relevant Sections": "Section 9(1)(ii)(b) of the Arbitration and Conciliation Act, 1996",
+    "Context": "Jurisdiction: India, Case Type: Application for Interim Measures of Protection under Section 9 of the A&C Act, in aid of arbitration proceedings"
+  },
+  {
+    "Query": "A software company (A) entered into an agreement with a client (B) to develop a custom software application. After the development was complete, B refused to pay the agreed amount, claiming that the software did not meet the required specifications. A is concerned that B might dispose of its assets and make it difficult to recover the payment. A seeks a court order to freeze B's assets while the arbitration proceedings are ongoing.",
+    "Legal Principles": "Interim Measures of Protection, Section 9 of the Arbitration and Conciliation Act, 1996, Order XXXVIII Rule 5 of the Code of Civil Procedure, 1908, Prima Facie Case, Balance of Convenience, Frustration of Award",
+    "Relevant Sections": "Section 9(1)(ii)(b) of the Arbitration and Conciliation Act, 1996",
+    "Context": "Jurisdiction: India, Case Type: Application for Interim Measures of Protection under Section 9 of the A&C Act, in aid of arbitration proceedings"
+  },
+  {
+    "Query": "A manufacturing company (A) entered into a supply agreement with a distributor (B) for the supply of certain products. B failed to make timely payments for the supplied goods. A is concerned that B might dispose of its assets and make it difficult to recover the outstanding payments. A seeks a court order to secure the amount in dispute before the arbitration proceedings begin.",
+    "Legal Principles": "Interim Measures of Protection, Section 9 of the Arbitration and Conciliation Act, 1996, Order XXXVIII Rule 5 of the Code of Civil Procedure, 1908, Prima Facie Case, Balance of Convenience, Frustration of Award",
+    "Relevant Sections": "Section 9(1)(ii)(b) of the Arbitration and Conciliation Act, 1996",
+    "Context": "Jurisdiction: India, Case Type: Application for Interim Measures of Protection under Section 9 of the A&C Act, in aid of arbitration proceedings"
+  },
+  {
+    "Query": "A logistics company (A) entered into a contract with a client (B) for the transportation of goods. After the completion of the transportation, B refused to pay the agreed amount, claiming that the goods were damaged during transit. A is concerned that B might dispose of its assets and make it difficult to recover the payment. A seeks a court order to secure the amount in dispute before the arbitration proceedings begin.",
+    "Legal Principles": "Interim Measures of Protection, Section 9 of the Arbitration and Conciliation Act, 1996, Order XXXVIII Rule 5 of the Code of Civil Procedure, 1908, Prima Facie Case, Balance of Convenience, Frustration of Award",
+    "Relevant Sections": "Section 9(1)(ii)(b) of the Arbitration and Conciliation Act, 1996",
+    "Context": "Jurisdiction: India, Case Type: Application for Interim Measures of Protection under Section 9 of the A&C Act, in aid of arbitration proceedings"
+  },
+  {
+    "Query": "A technology company (A) licensed its software to a client (B). B failed to pay the licensing fees as per the agreement. A is concerned that B might dispose of its assets and make it difficult to recover the outstanding fees. A seeks a court order to secure the amount in dispute before the arbitration proceedings begin.",
+    "Legal Principles": "Interim Measures of Protection, Section 9 of the Arbitration and Conciliation Act, 1996, Order XXXVIII Rule 5 of the Code of Civil Procedure, 1908, Prima Facie Case, Balance of Convenience, Frustration of Award",
+    "Relevant Sections": "Section 9(1)(ii)(b) of the Arbitration and Conciliation Act, 1996",
+    "Context": "Jurisdiction: India, Case Type: Application for Interim Measures of Protection under Section 9 of the A&C Act, in aid of arbitration proceedings"
+  },
+  {
+    "Query": "A consulting firm (A) provided services to a client (B). B refused to pay the agreed fees, claiming that the services were not satisfactory. A is concerned that B might dispose of its assets and make it difficult to recover the fees. A seeks a court order to secure the amount in dispute before the arbitration proceedings begin.",
+    "Legal Principles": "Interim Measures of Protection, Section 9 of the Arbitration and Conciliation Act, 1996, Order XXXVIII Rule 5 of the Code of Civil Procedure, 1908, Prima Facie Case, Balance of Convenience, Frustration of Award",
+    "Relevant Sections": "Section 9(1)(ii)(b) of the Arbitration and Conciliation Act, 1996",
+    "Context": "Jurisdiction: India, Case Type: Application for Interim Measures of Protection under Section 9 of the A&C Act, in aid of arbitration proceedings"
+  },
+  {
+    "Query": "A media company (A) entered into a contract with a client (B) for advertising services. B failed to pay the agreed advertising fees. A is concerned that B might dispose of its assets and make it difficult to recover the fees. A seeks a court order to secure the amount in dispute before the arbitration proceedings begin.",
+    "Legal Principles": "Interim Measures of Protection, Section 9 of the Arbitration and Conciliation Act, 1996, Order XXXVIII Rule 5 of the Code of Civil Procedure, 1908, Prima Facie Case, Balance of Convenience, Frustration of Award",
+    "Relevant Sections": "Section 9(1)(ii)(b) of the Arbitration and Conciliation Act, 1996",
+    "Context": "Jurisdiction: India, Case Type: Application for Interim Measures of Protection under Section 9 of the A&C Act, in aid of arbitration proceedings"
+  },
+  {
+    "Query": "A financial services company (A) provided a loan to a borrower (B). B failed to repay the loan as per the agreement. A is concerned that B might dispose of its assets and make it difficult to recover the loan amount. A seeks a court order to secure the amount in dispute before the arbitration proceedings begin.",
+    "Legal Principles": "Interim Measures of Protection, Section 9 of the Arbitration and Conciliation Act, 1996, Order XXXVIII Rule 5 of the Code of Civil Procedure, 1908, Prima Facie Case, Balance of Convenience, Frustration of Award",
+    "Relevant Sections": "Section 9(1)(ii)(b) of the Arbitration and Conciliation Act, 1996",
+    "Context": "Jurisdiction: India, Case Type: Application for Interim Measures of Protection under Section 9 of the A&C Act, in aid of arbitration proceedings"
+  },
+  {
+    "Query": "A healthcare provider (A) provided medical services to a patient (B). B refused to pay the medical bills, claiming that the services were not satisfactory. A is concerned that B might dispose of its assets and make it difficult to recover the bills. A seeks a court order to secure the amount in dispute before the arbitration proceedings begin.",
+    "Legal Principles": "Interim Measures of Protection, Section 9 of the Arbitration and Conciliation Act, 1996, Order XXXVIII Rule 5 of the Code of Civil Procedure, 1908, Prima Facie Case, Balance of Convenience, Frustration of Award",
+    "Relevant Sections": "Section 9(1)(ii)(b) of the Arbitration and Conciliation Act, 1996",
+    "Context": "Jurisdiction: India, Case Type: Application for Interim Measures of Protection under Section 9 of the A&C Act, in aid of arbitration proceedings"
+  },
+  {
+    "Query": "A retail company (A) sold goods to a customer (B) on credit. B failed to make the payments as per the agreement. A is concerned that B might dispose of its assets and make it difficult to recover the outstanding payments. A seeks a court order to secure the amount in dispute before the arbitration proceedings begin.",
+    "Legal Principles": "Interim Measures of Protection, Section 9 of the Arbitration and Conciliation Act, 1996, Order XXXVIII Rule 5 of the Code of Civil Procedure, 1908, Prima Facie Case, Balance of Convenience, Frustration of Award",
+    "Relevant Sections": "Section 9(1)(ii)(b) of the Arbitration and Conciliation Act, 1996",
+    "Context": "Jurisdiction: India, Case Type: Application for Interim Measures of Protection under Section 9 of the A&C Act, in aid of arbitration proceedings"
+  }
+]
+```

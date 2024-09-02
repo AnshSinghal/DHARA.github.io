@@ -1,0 +1,83 @@
+## 1. Case Title
+
+* **Case Name:** Anita Chhabra & Ors. vs. Surender Kumar
+* **Court:** Delhi High Court
+* **Date of Judgment:** 26th September, 2022
+* **Citation:** Not provided in the text, but can be found on the Delhi High Court website using the case name and date.
+
+## 2. Background and Context
+
+* **Brief Overview:** Anita Chhabra and others (petitioners) filed a commercial suit against Surender Kumar (respondent) in the Delhi High Court seeking recovery of ₹66 lakhs with interest. The suit was filed under the Code of Civil Procedure (CPC), as amended by the Commercial Courts Act, 2015. 
+* **Key Issues:**
+    * Whether the petitioners were allowed to bring additional documents on record beyond the 30-day period allowed by Order XI Rule 1(4) of the CPC, as amended by the Commercial Courts Act.
+    * Whether the suit filed by the petitioners could be considered an "urgent filing" for the purposes of Order XI Rule 1(4).
+    * Whether the petitioners had established reasonable cause for not filing the additional documents with the plaint as required by Order XI Rule 1(5).
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * Code of Civil Procedure, 1908 (CPC), as amended by the Commercial Courts Act, 2015: 
+        * Order XI Rule 1(1) - Requirement to file a list of documents with the plaint.
+        * Order XI Rule 1(4) - Permits additional documents to be filed within 30 days of filing the suit, subject to court leave, in the case of "urgent filings".
+        * Order XI Rule 1(5) - Permits additional documents to be filed beyond 30 days of filing the suit, subject to court leave and establishing reasonable cause for non-disclosure.
+        * Order VII Rule 14 - Allows for additional documents to be placed on record, but this was found inapplicable in the case of commercial suits.
+* **Precedents Cited:**
+    * Sudhir Kumar @ S. Baliyan v. Vinay Kumar G.B. (2021 SCC OnLine 734) - This case established that an application to place additional documents on record in a commercial suit, even if filed under Order VII Rule 14, could be treated as an application under Order XI Rule 1(4) or (5).
+    * Re: Cognizance for Extension of Limitation Suo Motu Writ Petition (C) 3/2020 (2022 3 SCC 117) -  This case established that the period from 15th March 2020 to 28th February 2022 was to be excluded for computing periods of limitation for filing legal proceedings due to the COVID-19 pandemic. 
+    * Centaur Pharmaceuticals Pvt. Ltd. v. Stanford Laboratories Pvt. Ltd. (MANU/SCOR/50600/2022) - This case upheld the Supreme Court's order in Re: Cognizance for Extension of Limitation and confirmed that the period of limitation for filing legal proceedings was extended till 28th February 2022.
+    * Babasaheb Raosaheb Kobarne v Pyrotek India Private Limited (MANU/SCOR/03428/2022) - This case confirmed that the statutory periods of limitation were extended till 28th February 2022 due to the COVID-19 pandemic.
+    * Prakash Corporates v. Dee Vee Projects Ltd (2022) 5 SCC 112 - This case confirmed that the period from 15th March 2020 to 28th February 2022 was to be excluded for computing periods of limitation and that this exclusion resulted in an "enlargement of time".
+    * Sagufa Ahmed v. Upper Assam Plywood Products (P) Ltd (2021) 2 SCC 317 - This case, while overruled by later Supreme Court decisions, had previously suggested that the benefit of extended limitation due to the pandemic would only apply if the normal period of limitation expired after 15th March 2020. 
+* **Legal Doctrines:** 
+    * **Strict Construction of Statutes:** The Court emphasized the need to strictly interpret the provisions of the Commercial Courts Act and adhere to the prescribed time periods and formalities. 
+    * **Reasonable Cause:**  To rely on documents not filed with the plaint after the 30-day window, Order XI Rule 1(5) requires the party to establish reasonable cause for non-disclosure. 
+    * **Urgent Filing:** The Court clarified that the benefit of Order XI Rule 1(4) regarding additional documents applies only to "urgent filings" and that the mere fact that a suit was filed within the extended period of limitation due to the pandemic does not constitute an "urgent filing".
+
+## 4. Arguments Presented
+
+* **Plaintiff’s Argument:**
+    * The petitioners argued that the 30-day period for filing additional documents under Order XI Rule 1(4) was extended to 28th February 2022 due to the Supreme Court's orders regarding the COVID-19 pandemic.
+    * They argued that they had filed the additional documents on 8th September 2021, well within the extended time period. 
+    * They argued that the suit was filed urgently, since it was filed after the normal period of limitation had expired, taking advantage of the extension granted by the Supreme Court.
+* **Defendant’s Argument:**
+    * The respondent argued that the petitioners were not entitled to the benefit of Order XI Rule 1(4) because the suit was not filed as an "urgent filing".
+    * They argued that the suit was a simple money suit with no claim for interim relief, and the fact that it was filed within the extended limitation period due to the pandemic did not make it an "urgent filing".
+    * The respondent argued that the petitioners had not established reasonable cause for failing to file the additional documents with the plaint, as required by Order XI Rule 1(5).
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The Court found that the petitioners had not filed the suit as an "urgent filing" and therefore did not meet the requirements of Order XI Rule 1(4) to file additional documents within 30 days.
+    * The Court emphasized the need to strictly interpret the provisions of the Commercial Courts Act and follow the prescribed time periods and formalities.
+    * The Court found that the petitioners had not established reasonable cause for not filing the additional documents with the plaint, as required by Order XI Rule 1(5).
+* **Interpretation of Law:**
+    * The Court interpreted the provisions of Order XI Rules 1(1), 1(4), and 1(5) of the CPC, as amended by the Commercial Courts Act, and the Supreme Court's orders on extended limitation periods due to the pandemic. 
+    * The Court relied on the precedent in Sudhir Kumar, which established that the filing of a suit must be urgent to be eligible for Order XI Rule 1(4) provisions. 
+* **Application of Law:**
+    * The Court applied the strict construction of the law principle and found that the petitioners had not met the requirements for relying on additional documents under Order XI Rule 1(4) or 1(5).
+    * The Court determined that the mere fact that the suit was filed within the extended limitation period due to the pandemic did not, on its own, constitute an urgent filing. 
+
+## 6. Judgment
+
+* **Final Decision:** The Delhi High Court dismissed the petitioners' petition.
+* **Relief Granted:** No relief was granted to the petitioners.
+* **Orders:** No specific orders were issued beyond dismissing the petition. 
+
+## 7. Implications
+
+* **Impact on Law:** This judgment clarifies the application of Order XI Rule 1(4) in commercial suits and emphasizes the need for a strict interpretation of the Commercial Courts Act provisions.
+* **Future Relevance:** The judgment provides guidance for future cases involving additional documents in commercial suits, particularly in situations where the filing is made within the extended limitation period due to the pandemic.
+* **Broader Context:** This case highlights the importance of understanding the specific requirements of the Commercial Courts Act and the need to adhere to strict formalities, including the timely filing of documents.
+
+## 8. Summary Points
+
+* The petitioners failed to meet the requirements for filing additional documents under Order XI Rule 1(4) or 1(5) of the CPC, as amended by the Commercial Courts Act.
+* The suit was not deemed an "urgent filing" under Order XI Rule 1(4).
+* The Court emphasized the strict construction of the law principle and the importance of adhering to time periods and formalities in commercial suits. 
+
+## 9. References
+
+* **Citations:** The full citations for all relevant cases and statutes are listed in the "Legal Principles Involved" section.
+* **Further Reading:** 
+    * The full text of the judgment for detailed legal reasoning and analysis.
+    * Other case laws on Order XI Rule 1 of the CPC, as amended by the Commercial Courts Act, and on the application of extended limitation periods due to the COVID-19 pandemic. 

@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A defendant filed a written statement after the statutory deadline without an application for condonation of delay. The plaintiff objected to the late filing. Can the court accept the written statement without a condonation application?",
+    "Legal Principles": "The Commercial Courts Act, 2015, amended Order VI of the CPC, requiring a written statement to be filed within 30 days of summons service. The court can condone delays beyond 30 days but within 120 days, but only with a sufficient explanation and an application for condonation of delay.",
+    "Relevant Sections": "Order VIII Rule 1 CPC, Order VII Rule 11 CPC, Order VI CPC (as amended by the Commercial Courts Act, 2015)",
+    "Context": "This case involves a commercial dispute where the defendant failed to file a written statement within the statutory deadline and did not file an application for condonation of delay. The court is considering whether to accept the written statement without the condonation application."
+  },
+  {
+    "Query": "A plaintiff filed a commercial suit and the defendant objected to the suit valuation, claiming the plaintiff had not paid the correct court fees.  The plaintiff later paid the additional court fees. Can the court reject the plaint on the grounds of incorrect valuation?",
+    "Legal Principles": "Order VII Rule 11 CPC allows the court to reject a plaint if the plaintiff fails to correctly value the suit and pay the proper court fees within a specified time. However, the court must issue a specific order directing the plaintiff to correct the valuation.",
+    "Relevant Sections": "Order VII Rule 11 CPC",
+    "Context": "This case involves a commercial suit where the defendant objected to the plaintiff's initial valuation and the subsequent payment of additional court fees by the plaintiff. The court is considering whether to reject the plaint due to the initial incorrect valuation."
+  },
+  {
+    "Query": "A defendant filed a written statement and affidavit of admission and denial, but both were filed beyond the statutory time limit. The plaintiff objected to the late filings. Can the court accept the written statement and affidavit without condoning the delay?",
+    "Legal Principles": "The Commercial Courts Act, 2015, requires written statements to be filed within 30 days of summons service. The court can condone delays beyond 30 days but within 120 days, but only with a sufficient explanation and an application for condonation of delay. The filing of an affidavit of admission and denial is also subject to these time limitations.",
+    "Relevant Sections": "Order VIII Rule 1 CPC, Order VI CPC (as amended by the Commercial Courts Act, 2015)",
+    "Context": "This case involves a commercial dispute where the defendant filed both a written statement and affidavit of admission and denial beyond the statutory deadlines without condonation applications. The court is considering whether to accept these documents despite the delays."
+  },
+  {
+    "Query": "The Delhi High Court (Original Side) Rules, 2018, require an affidavit of admission and denial to be filed alongside a written statement. Does this requirement apply to District Courts handling commercial disputes?",
+    "Legal Principles": "Practice Direction No. 1, issued under Section 18 of the Commercial Courts Act, 2015, explicitly states that the Delhi High Court (Original Side) Rules, 2018, and provisions of the Commercial Courts Act, 2015, apply to all suits and original proceedings in relation to commercial disputes in District Courts.",
+    "Relevant Sections": "Delhi High Court (Original Side) Rules, 2018, Practice Direction No. 1, Section 18 of the Commercial Courts Act, 2015",
+    "Context": "This case involves a commercial dispute in a District Court where the defendant argues that the Delhi High Court (Original Side) Rules, 2018, requiring an affidavit of admission and denial, do not apply to District Courts. The court is considering whether the rules apply in this context."
+  },
+  {
+    "Query": "A plaintiff filed a commercial suit and the defendant raised objections to the suit valuation.  The plaintiff then paid additional court fees to address the objections. Should the court issue fresh summons to the defendant after the court fees were paid?",
+    "Legal Principles": "The court can reject a plaint under Order VII Rule 11 CPC if the plaintiff fails to correctly value the suit and pay the proper court fees. However, the court must issue a specific order directing the plaintiff to correct the valuation.  Once the plaintiff complies with the court's order, the court should proceed with the case without issuing fresh summons.",
+    "Relevant Sections": "Order VII Rule 11 CPC",
+    "Context": "This case involves a commercial suit where the defendant objected to the plaintiff's initial valuation and the plaintiff subsequently paid additional court fees. The court is considering whether to issue fresh summons to the defendant after the court fees were paid."
+  },
+  {
+    "Query": "A defendant failed to file a written statement within the statutory 30-day period but filed it within 120 days. The defendant did not file an application for condonation of delay. Should the court treat the late filing as a default judgment?",
+    "Legal Principles": "The Commercial Courts Act, 2015, requires written statements to be filed within 30 days of summons service. The court can condone delays beyond 30 days but within 120 days, but only with a sufficient explanation and an application for condonation of delay.  The absence of a condonation application may lead to the court treating the late filing as a default judgment.",
+    "Relevant Sections": "Order VIII Rule 1 CPC, Order VI CPC (as amended by the Commercial Courts Act, 2015)",
+    "Context": "This case involves a commercial dispute where the defendant filed a written statement beyond the statutory deadline but within the outer limit of 120 days. The court is considering whether to treat the late filing as a default judgment due to the absence of a condonation application."
+  },
+  {
+    "Query": "A defendant filed a written statement beyond the statutory deadline but within the 120-day period. The plaintiff objected to the late filing.  Should the court accept the written statement without considering the defendant's explanation for the delay?",
+    "Legal Principles": "The Commercial Courts Act, 2015, allows the court to condone delays beyond 30 days but within 120 days, but only with a sufficient explanation and an application for condonation of delay. The court must consider the defendant's explanation for the delay before making a decision on the written statement.",
+    "Relevant Sections": "Order VIII Rule 1 CPC, Order VI CPC (as amended by the Commercial Courts Act, 2015)",
+    "Context": "This case involves a commercial dispute where the defendant filed a written statement beyond the statutory deadline but within the outer limit of 120 days. The court is considering whether to accept the written statement without considering the defendant's explanation for the delay."
+  },
+  {
+    "Query": "A defendant argued that the court should automatically extend the time for filing a written statement beyond 30 days.  Is the court obligated to grant such an extension?",
+    "Legal Principles": "The Commercial Courts Act, 2015, allows the court to condone delays beyond 30 days but within 120 days, but only with a sufficient explanation and an application for condonation of delay. The court is not obligated to grant an extension automatically. The defendant must provide a compelling explanation for the delay.",
+    "Relevant Sections": "Order VIII Rule 1 CPC, Order VI CPC (as amended by the Commercial Courts Act, 2015)",
+    "Context": "This case involves a commercial dispute where the defendant argues that the court should automatically extend the time for filing a written statement. The court is considering whether it has an obligation to grant such an extension."
+  },
+  {
+    "Query": "A defendant raised objections to the plaintiff's valuation of the suit and the plaintiff later paid additional court fees to address the objections. Does the defendant have a right to a fresh summons after the court fees were paid?",
+    "Legal Principles": "Order VII Rule 11 CPC allows the court to reject a plaint if the plaintiff fails to correctly value the suit and pay the proper court fees. However, the court must issue a specific order directing the plaintiff to correct the valuation. Once the plaintiff complies with the order, the court should proceed with the case without issuing fresh summons.",
+    "Relevant Sections": "Order VII Rule 11 CPC",
+    "Context": "This case involves a commercial suit where the defendant raised objections to the plaintiff's initial valuation and the plaintiff subsequently paid additional court fees. The court is considering whether the defendant has a right to a fresh summons after the court fees were paid."
+  },
+  {
+    "Query": "A defendant filed a written statement and affidavit of admission and denial after the statutory deadlines.  The plaintiff objected, but the court accepted the documents. Can the plaintiff seek a review of the court's decision to accept the documents?",
+    "Legal Principles": "A review of a judgment is allowed under Order XLVII Rule 1 CPC if there is new evidence, mistake or error apparent on the face of the record, or any other sufficient reason. The scope of review is limited and cannot be used as a substitute for an appeal. The court should not entertain review petitions that merely re-argue previously considered points.",
+    "Relevant Sections": "Order XLVII Rule 1 CPC",
+    "Context": "This case involves a commercial dispute where the defendant filed documents beyond the statutory deadlines. The court accepted the documents, and the plaintiff is seeking a review of this decision. The court is considering whether the plaintiff has sufficient grounds for review."
+  }
+]
+```

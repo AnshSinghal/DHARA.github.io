@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "In a commercial dispute involving a contract for the design, procurement, and supply of industrial equipment, where the parties have a valid arbitration agreement, can the High Court appoint an arbitrator even though the Commercial Courts Act, 2015, seems to suggest jurisdiction lies with a Commercial Court?",
+    "Legal Principles": "The High Court has exclusive jurisdiction to appoint arbitrators under Section 11 of the Arbitration and Conciliation Act, 1996 (ACA), unless the parties have agreed on another procedure for appointment. Section 10(3) of the Commercial Courts Act, 2015, does not divest the High Court's jurisdiction in appointing arbitrators.",
+    "Relevant Sections": "Section 11 of the Arbitration and Conciliation Act, 1996 (ACA)  \nSection 10(3) of the Commercial Courts Act, 2015",
+    "Context": "This query relates to a commercial dispute with an arbitration agreement, specifically regarding the appointment of an arbitrator. It involves the interplay of the Arbitration and Conciliation Act, 1996, and the Commercial Courts Act, 2015."
+  },
+  {
+    "Query": "A case involving a contract dispute where the parties have an arbitration agreement, but one party refuses to appoint an arbitrator. The other party applies to the High Court for appointment. What factors does the court consider when deciding whether to appoint an arbitrator?",
+    "Legal Principles": "The High Court, under Section 11 of the Arbitration and Conciliation Act, 1996, has the power to appoint an arbitrator when parties fail to agree on the appointment process. The court focuses on the existence of a valid arbitration agreement and considers the qualifications required for the arbitrator, the contents of the disclosure provided by the arbitrator, and other considerations to ensure the appointment of an independent and impartial arbitrator.",
+    "Relevant Sections": "Section 11(6) and (6-A) of the Arbitration and Conciliation Act, 1996.",
+    "Context": "This query involves a case where a party seeks to enforce an arbitration agreement by asking the High Court to appoint an arbitrator due to the other party's refusal to participate in the process."
+  },
+  {
+    "Query": "Two parties are involved in a commercial dispute with an arbitration clause that specifies the venue of arbitration. The case is filed in a High Court outside the designated venue. Can the High Court appoint an arbitrator despite the venue clause?",
+    "Legal Principles": "While a venue clause in an arbitration agreement is generally respected, the High Court may still have jurisdiction to appoint an arbitrator if the parties have a valid arbitration agreement. The court will consider the parties' agreement on venue and the relevant statutory provisions.",
+    "Relevant Sections": "Section 11(12) of the Arbitration and Conciliation Act, 1996.",
+    "Context": "This query focuses on the interplay between a venue clause in an arbitration agreement and the jurisdiction of the High Court to appoint an arbitrator."
+  },
+  {
+    "Query": "A case involving a construction contract with an arbitration clause. One party wants to challenge the appointment of an arbitrator based on their perceived bias. What steps can be taken to address this concern?",
+    "Legal Principles": "An arbitrator's impartiality is crucial. Parties can challenge the appointment of an arbitrator based on perceived bias. The court will consider the grounds for challenge and can replace the arbitrator if the bias is established.",
+    "Relevant Sections": "Section 12 of the Arbitration and Conciliation Act, 1996.",
+    "Context": "This query relates to the process of challenging an arbitrator's appointment due to alleged bias in a construction contract dispute."
+  },
+  {
+    "Query": "A commercial dispute between two companies with an arbitration clause that requires the appointment of a sole arbitrator. The parties fail to agree on an arbitrator within the stipulated time. How does the court resolve this impasse?",
+    "Legal Principles": "When parties fail to agree on an arbitrator within the stipulated time, the court has the authority to appoint an arbitrator under Section 11 of the Arbitration and Conciliation Act, 1996. The court will consider the parties' agreement on the appointment process and the need for an independent and impartial arbitrator.",
+    "Relevant Sections": "Section 11(5) of the Arbitration and Conciliation Act, 1996.",
+    "Context": "This query focuses on the court's role in resolving a deadlock between parties who cannot agree on an arbitrator."
+  },
+  {
+    "Query": "A case where the parties have agreed on a specific procedure for appointing an arbitrator, but one party fails to comply with the agreed-upon process. Can the High Court intervene?",
+    "Legal Principles": "The High Court can intervene under Section 11(6) of the Arbitration and Conciliation Act, 1996, to address a party's failure to comply with an agreed-upon appointment procedure. The court will ensure that the agreed-upon process is followed fairly.",
+    "Relevant Sections": "Section 11(6) of the Arbitration and Conciliation Act, 1996.",
+    "Context": "This query concerns the High Court's role in enforcing agreed-upon appointment procedures in an arbitration."
+  },
+  {
+    "Query": "In a case where the subject matter of the arbitration is a commercial dispute of a specified value, should the case be filed in the High Court or a Commercial Court?",
+    "Legal Principles": "Under Section 10 of the Commercial Courts Act, 2015, commercial disputes of a specified value, where the arbitration is not international, are typically heard by the Commercial Court. However, the High Court retains jurisdiction to appoint arbitrators under Section 11 of the Arbitration and Conciliation Act, 1996.",
+    "Relevant Sections": "Section 10 of the Commercial Courts Act, 2015, and Section 11 of the Arbitration and Conciliation Act, 1996.",
+    "Context": "This query explores the division of jurisdiction between High Courts and Commercial Courts in commercial disputes involving arbitration."
+  },
+  {
+    "Query": "A case involving a dispute over the construction of a commercial building. The contract contains an arbitration clause, but the parties disagree on the qualifications and experience required for the arbitrator. How does the court determine the qualifications of the arbitrator?",
+    "Legal Principles": "The court will consider the qualifications specified in the arbitration agreement, the nature of the dispute, and the need for expertise in the relevant field. The court will strive to appoint an arbitrator with appropriate qualifications to ensure a fair and efficient resolution of the dispute.",
+    "Relevant Sections": "Section 11(8) of the Arbitration and Conciliation Act, 1996.",
+    "Context": "This query focuses on the court's role in determining the qualifications of an arbitrator, specifically in a construction dispute."
+  },
+  {
+    "Query": "A case where the parties to an arbitration agreement fail to agree on the fees payable to the arbitrator. What mechanisms can be used to determine the fees?",
+    "Legal Principles": "The court has the authority to frame rules for determining arbitrator fees, considering the rates specified in the Fourth Schedule of the Arbitration and Conciliation Act, 1996. The court will balance the need for fair compensation for the arbitrator with the parties' interests.",
+    "Relevant Sections": "Section 11(14) of the Arbitration and Conciliation Act, 1996.",
+    "Context": "This query deals with the process of determining arbitrator fees when parties fail to reach an agreement."
+  },
+  {
+    "Query": "Two companies are involved in a commercial dispute arising from a supply contract. They have an arbitration clause but cannot agree on the seat of arbitration. How does the court determine the seat of arbitration?",
+    "Legal Principles": "The court will consider the parties' agreement on the seat of arbitration and the relevant statutory provisions. The court may consider factors like the location of the parties, the subject matter of the dispute, and the convenience of the parties.",
+    "Relevant Sections": "Section 20 of the Arbitration and Conciliation Act, 1996.",
+    "Context": "This query addresses the determination of the seat of arbitration when parties cannot agree on its location."
+  }
+]
+```

@@ -1,0 +1,93 @@
+## 1. Case Title
+
+* **Case Name:** Indian Bank (Formerly Known As Allahabad Bank) vs. Rameshchandra M Thakkar
+* **Court:** Gujarat High Court
+* **Date of Judgment:** 21st February 2023
+* **Citation:** C/SCA/2337/2023
+
+## 2. Background and Context
+
+* **Brief Overview:**  The petitioner, Indian Bank (formerly Allahabad Bank), challenged an order by the 4th Additional Senior Civil Judge, Ahmedabad (Rural) dismissing its application to return the plaint in a suit filed by the respondent, Rameshchandra M Thakkar. The bank argued that the dispute was a "commercial dispute" under the Commercial Courts Act, 2015, and therefore, the civil court lacked jurisdiction.
+* **Key Issues:**
+    * Whether the dispute arising from a lease agreement for immovable property used for banking activities constituted a "commercial dispute" under the Commercial Courts Act, 2015.
+    * Whether the trial court erred in dismissing the bank's application to return the plaint, considering the bank's submission that the dispute was a commercial one.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * **Commercial Courts, Commercial Division and Commercial Appellant Division of High Courts Act, 2015:**  
+        * **Section 2(1)(c)(vii):** Defines "commercial dispute" as a dispute arising out of agreements relating to immovable property used exclusively in trade or commerce.
+    * **Code of Civil Procedure, 1908:** 
+        * **Order 7, Rule 10:**  Provides for the return of a plaint if the court lacks jurisdiction.
+    * **Transfer of Property Act, 1882:**
+        * **Section 106:** Deals with the termination of the leasehold relationship and recovery of possession by the lessor.
+* **Precedents Cited:** 
+    * **Kushal Limited vs. Tirumala Technocast Pvt Limited:** This case involved a dispute over a lease agreement for a warehouse. The Gujarat High Court held that the dispute constituted a "commercial dispute" as the property was used exclusively for trade and commerce.
+    * **Jagmohan Behl vs. State Bank of Indore:**  The Delhi High Court held that disputes relating to immovable property used in trade or commerce, even if they involve actions for recovery of possession or damages, are considered "commercial disputes".
+    * **Deepak Polymers Private Ltd vs. Anchor Investments Private Limited:** The Calcutta High Court held that eviction suits based on Section 106 of the Transfer of Property Act, which are not directly related to the terms of the lease agreement, are not considered "commercial disputes".
+    * **Gujarat State Warehousing Corporation vs. Divine Developers:** The Gujarat High Court held that a dispute arising from a lease agreement for a godown used for storage of goods constituted a "commercial dispute."
+* **Legal Doctrines:**
+    * **Jurisdiction:**  The power of a court to hear and decide a case.
+    * **Commercial Dispute:**  A dispute arising from trade or commerce, as defined under the Commercial Courts Act, 2015.
+    * **Landlord and Tenant:**  The legal relationship between the owner of a property and the person occupying it under a lease agreement.
+
+## 4. Arguments Presented
+
+* **Plaintiff’s Argument:**
+    * The respondent argued that the dispute arose from the bank's failure to vacate the premises after the expiry of the lease agreement, despite several notices.
+    * He asserted that the bank's continued occupation of the property after the termination of the lease agreement constituted a breach of the lease agreement and not a violation of any clause related to the lease agreement.
+    * He contended that the dispute was not a "commercial dispute" because it did not arise from the lease agreement but from the bank's refusal to vacate the property after the termination of the lease.
+    * He relied on the judgment in Deepak Polymers Private Ltd vs. Anchor Investments Private Limited, where the Calcutta High Court held that eviction suits based on Section 106 of the Transfer of Property Act are not considered "commercial disputes".
+* **Defendant’s Argument:**
+    * The petitioner argued that the dispute was a "commercial dispute" because it arose from the lease agreement, which related to immovable property used exclusively in trade and commerce.
+    * It submitted that the lease agreement was for a period of 15 years and the leased premises were used by the bank for banking activities, which constituted trade and commerce.
+    * It argued that the dispute arose from the bank's alleged violation of Clause 10 of the lease agreement, which required the lessee to deliver the premises to the lessor after the expiry of the lease.
+    * It relied on the judgments in Kushal Limited vs. Tirumala Technocast Pvt Limited and Jagmohan Behl vs. State Bank of Indore, which held that disputes arising from lease agreements for property used in trade or commerce are considered "commercial disputes".
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The court acknowledged that the lease agreement was for a period of 15 years and the premises were used for banking activities, which constitute trade and commerce.
+    * The court also acknowledged that the dispute arose from the bank's failure to vacate the premises after the expiry of the lease agreement.
+    * However, the court held that the dispute did not arise from a breach of any specific clause of the lease agreement related to the lease period, but rather from the bank's refusal to vacate the property after the lease expired, despite several notices from the respondent.
+* **Interpretation of Law:**
+    * The court interpreted Section 2(1)(c)(vii) of the Commercial Courts Act, 2015, as requiring a dispute to arise directly from a clause related to the lease agreement itself for it to be considered a "commercial dispute."
+    * The court held that Section 106 of the Transfer of Property Act, which deals with the termination of the leasehold relationship and recovery of possession by the lessor, is distinct from the terms of the lease agreement itself.
+* **Application of Law:**
+    * The court applied the ratio laid down in the judgment in Deepak Polymers Private Ltd vs. Anchor Investments Private Limited to hold that the dispute in the present case did not arise from the lease agreement but from the bank's failure to vacate the property after the termination of the lease, and therefore, it did not constitute a "commercial dispute."
+
+## 6. Judgment
+
+* **Final Decision:** The Gujarat High Court partly allowed the petition and quashed and set aside the order passed by the trial court dismissing the bank's application to return the plaint.
+* **Relief Granted:** The trial court was directed to decide the bank's application afresh, framing an issue regarding jurisdiction and deciding it expeditiously within a period of four weeks from the receipt of the order.
+* **Orders:** Both parties were permitted to take all contentions available to them in accordance with law.
+
+## 7. Implications
+
+* **Impact on Law:** The judgment clarifies that eviction suits based on Section 106 of the Transfer of Property Act, even if they involve leased premises used for trade or commerce, may not necessarily constitute "commercial disputes" under the Commercial Courts Act, 2015.
+* **Future Relevance:** This case provides guidance for determining whether a dispute arising from a lease agreement constitutes a "commercial dispute" under the Commercial Courts Act, 2015. 
+* **Broader Context:** The judgment reinforces the importance of distinguishing between disputes arising from the terms of a lease agreement and those arising from the landlord's statutory right to recover possession after the termination of the lease.
+
+## 8. Summary Points
+
+* **Key Takeaways:**
+    * Disputes arising from the termination of a lease agreement, based on the landlord's statutory right to recover possession, may not be considered "commercial disputes" even if the property is used in trade or commerce.
+    * The court's interpretation of the Commercial Courts Act, 2015, emphasizes the requirement for a direct nexus between the dispute and a clause related to the lease agreement itself.
+    * The judgment highlights the need to consider the specific facts and circumstances of each case when determining whether a dispute constitutes a "commercial dispute."
+
+## 9. References
+
+* **Citations:**
+    * Commercial Courts, Commercial Division and Commercial Appellant Division of High Courts Act, 2015
+    * Code of Civil Procedure, 1908
+    * Transfer of Property Act, 1882
+    * Kushal Limited vs. Tirumala Technocast Pvt Limited (C/SCA/3572/2022, Gujarat High Court)
+    * Jagmohan Behl vs. State Bank of Indore (FAO(OS) No. 166 of 2016, Delhi High Court)
+    * Deepak Polymers Private Ltd vs. Anchor Investments Private Limited (C.O. No. 759 of 2021, Calcutta High Court)
+    * Gujarat State Warehousing Corporation vs. Divine Developers (Special Civil Application No. 9705 of 2019, Gujarat High Court)
+* **Further Reading:**
+    * The Commercial Courts, Commercial Division and Commercial Appellant Division of High Courts Act, 2015
+    * The Transfer of Property Act, 1882
+    * Legal commentaries on the Commercial Courts Act, 2015 and the Transfer of Property Act, 1882.
+
+This summary aims to provide a detailed and comprehensive understanding of the case, including relevant facts, arguments, legal principles, and the court's analysis and reasoning. 

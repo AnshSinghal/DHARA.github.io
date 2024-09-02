@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A power company (DGVCL) sues a steel company (Essar Steel) for unpaid electricity charges.  Essar Steel has since undergone insolvency proceedings and been acquired by a new company (Arcelor Mittal).  Arcelor Mittal argues that the debt to DGVCL was extinguished by the insolvency resolution plan.  Can DGVCL still pursue its claim against Arcelor Mittal? ",
+    "Legal Principles": "Insolvency and Bankruptcy Code, 2016,  Resolution Plan,  Extinguishment of Claims, Statutory Dues,  Commercial Courts Act, 2015,  Summary Judgment",
+    "Relevant Sections": "Section 31 of the Insolvency and Bankruptcy Code, 2016,  Order XIII A of the Code of Civil Procedure,  Section 145 of the Electricity Act, 2003",
+    "Context": "Jurisdiction: Gujarat High Court,  Case Type: Commercial Civil Suit,  Subject Matter:  Dispute over unpaid electricity charges, effect of insolvency resolution plan"
+  },
+  {
+    "Query": "A landlord sues a tenant for unpaid rent. The tenant has since gone through a corporate restructuring and the company that took over its operations claims the debt is extinguished.  Is the landlord's claim against the new company valid? ",
+    "Legal Principles": "Contract Law,  Assignment of Contracts,  Assumption of Liability,  Novation,  Insolvency and Bankruptcy Code, 2016,  Resolution Plan",
+    "Relevant Sections": "Section 31 of the Insolvency and Bankruptcy Code, 2016,  Section 145 of the Electricity Act, 2003",
+    "Context": "Jurisdiction:  Any State High Court, Case Type:  Civil Suit,  Subject Matter:  Dispute over unpaid rent,  effect of corporate restructuring"
+  },
+  {
+    "Query": "A bank sues a borrower for unpaid loan installments. The borrower has undergone a merger with another company. The merged company argues that the debt to the bank is not their responsibility.  Can the bank still pursue its claim against the merged company? ",
+    "Legal Principles": "Corporate Law,  Mergers and Acquisitions,  Assumption of Liabilities,  Successor Liability,  Contract Law",
+    "Relevant Sections": "The Companies Act, 2013,  The Insolvency and Bankruptcy Code, 2016,  Section 145 of the Electricity Act, 2003",
+    "Context": "Jurisdiction:  Any State High Court,  Case Type:  Civil Suit,  Subject Matter:  Dispute over unpaid loan installments,  effect of a merger"
+  },
+  {
+    "Query": "A supplier of goods sues a company for non-payment of invoices. The company has since been acquired by a private equity firm.  The private equity firm claims they are not liable for the debt.  Does the supplier have a valid claim against the private equity firm?",
+    "Legal Principles": "Corporate Law,  Acquisitions,  Assumption of Liabilities,  Due Diligence,  Contract Law,  Insolvency and Bankruptcy Code, 2016,  Resolution Plan",
+    "Relevant Sections": "The Companies Act, 2013,  Section 31 of the Insolvency and Bankruptcy Code, 2016, Section 145 of the Electricity Act, 2003",
+    "Context": "Jurisdiction: Any State High Court, Case Type:  Civil Suit,  Subject Matter:  Dispute over unpaid invoices,  effect of a corporate acquisition"
+  },
+  {
+    "Query": "A construction company sues a developer for non-payment of construction fees. The developer has undergone a complex series of corporate transactions, including a transfer of assets and a change of ownership.  The new owner claims they are not liable for the debt.  Can the construction company pursue its claim against the new owner?",
+    "Legal Principles": "Corporate Law,  Transfer of Assets,  Assumption of Liabilities,  Successor Liability,  Contract Law,  Insolvency and Bankruptcy Code, 2016,  Resolution Plan",
+    "Relevant Sections": "The Companies Act, 2013,  Section 31 of the Insolvency and Bankruptcy Code, 2016,  Section 145 of the Electricity Act, 2003",
+    "Context": "Jurisdiction:  Any State High Court,  Case Type:  Civil Suit,  Subject Matter:  Dispute over unpaid construction fees,  effect of complex corporate transactions"
+  },
+  {
+    "Query": "A software vendor sues a tech company for breach of contract. The tech company has gone through a series of mergers and acquisitions.  The current company claims they are not responsible for the original contract. Can the software vendor pursue its claim against the current company?",
+    "Legal Principles": "Contract Law,  Assignment of Contracts,  Assumption of Liability,  Novation,  Corporate Law,  Mergers and Acquisitions,  Successor Liability",
+    "Relevant Sections": "The Companies Act, 2013,  The Insolvency and Bankruptcy Code, 2016,  Section 145 of the Electricity Act, 2003",
+    "Context": "Jurisdiction:  Any State High Court, Case Type:  Civil Suit,  Subject Matter:  Dispute over breach of contract,  effect of mergers and acquisitions"
+  },
+  {
+    "Query": "A company sues another company for patent infringement. The infringing company has been acquired by a larger multinational corporation. Does the multinational corporation become liable for the patent infringement? ",
+    "Legal Principles": "Intellectual Property Law,  Patent Infringement,  Corporate Law,  Acquisitions,  Assumption of Liabilities",
+    "Relevant Sections": "The Patents Act, 1970,  The Companies Act, 2013,  The Insolvency and Bankruptcy Code, 2016,  Section 145 of the Electricity Act, 2003",
+    "Context": "Jurisdiction:  Any State High Court or Intellectual Property Appellate Board,  Case Type:  Civil Suit,  Subject Matter:  Patent Infringement,  effect of a corporate acquisition"
+  },
+  {
+    "Query": "A business partner sues another partner for breach of a partnership agreement. The breaching partner's business has been sold to a third party.  Is the third party liable for the breach of the partnership agreement?",
+    "Legal Principles": "Partnership Law,  Breach of Contract,  Assumption of Liabilities,  Transfer of Business,  Successor Liability",
+    "Relevant Sections": "The Indian Partnership Act, 1932,  The Companies Act, 2013,  The Insolvency and Bankruptcy Code, 2016,  Section 145 of the Electricity Act, 2003",
+    "Context": "Jurisdiction:  Any State High Court,  Case Type:  Civil Suit,  Subject Matter:  Breach of Partnership Agreement,  effect of business sale"
+  },
+  {
+    "Query": "A supplier sues a retailer for non-payment of goods. The retailer has filed for bankruptcy and is going through a liquidation process. Can the supplier still pursue its claim against the retailer's assets during the liquidation process?",
+    "Legal Principles": "Insolvency and Bankruptcy Code, 2016,  Liquidation,  Proof of Debt,  Distribution of Assets,  Priority of Claims",
+    "Relevant Sections": "The Insolvency and Bankruptcy Code, 2016,  Section 145 of the Electricity Act, 2003",
+    "Context": "Jurisdiction:  National Company Law Tribunal (NCLT),  Case Type:  Insolvency Proceedings,  Subject Matter:  Dispute over unpaid goods,  effect of bankruptcy and liquidation"
+  },
+  {
+    "Query": "A customer sues a company for a defective product. The company has been dissolved. Can the customer still pursue its claim against the former company's assets?",
+    "Legal Principles": "Company Law,  Dissolution of Company,  Winding Up,  Statutory Obligations,  Limited Liability",
+    "Relevant Sections": "The Companies Act, 2013,  The Insolvency and Bankruptcy Code, 2016,  Section 145 of the Electricity Act, 2003",
+    "Context": "Jurisdiction:  Any State High Court or National Company Law Tribunal (NCLT),  Case Type:  Civil Suit,  Subject Matter:  Dispute over defective product,  effect of company dissolution"
+  }
+]
+```

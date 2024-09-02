@@ -1,0 +1,140 @@
+## 1. Case Title
+
+* **Case Name:** M/S Bansal Infra Projects Pvt. Ltd. vs. M/S Jindal Steel & Power Ltd.
+* **Court:** Orissa High Court, Cuttack
+* **Date of Judgment:** 20th August 2024
+* **Citation:**  W.P.(C) No.11848 of 2024 (Orissa High Court)
+
+## 2. Background and Context
+
+**Brief Overview:** Bansal Infra Projects Pvt. Ltd. (Bansal) was contracted by Jindal Steel & Power Ltd. (JSPL) to construct 400 flats. JSPL provided an advance payment of 8.5% of the contract value, secured by a Bank Guarantee (BG) from Bansal. The project faced delays due to JSPL's alleged failure to fulfill its contractual obligations, such as timely material supply and site preparation. JSPL invoked the BG, claiming Bansal's non-performance, and Bansal filed an Arbitration Petition under Section 9 of the Arbitration and Conciliation Act, 1996 (the Act, 1996). The Commercial Court rejected Bansal's application for ex-parte injunction to prevent BG encashment, leading to this Writ Petition.
+
+**Key Issues:**
+
+* **Maintainability of Writ Petition:** Whether a writ petition is maintainable against an interlocutory order of the Commercial Court rejecting an application for ex-parte injunction in a Section 9 proceeding under the Act, 1996.
+* **Applicability of Order 39 Rule 3 of CPC in Section 9 Proceedings:** Whether the Commercial Court was justified in rejecting the application under Order 39 Rule 3 of the Code of Civil Procedure (CPC) in a Section 9 application.
+* **Scope of Judicial Interference in Bank Guarantee Encashment:**  Whether and under what circumstances injunction can be granted against invocation of an unconditional bank guarantee.
+
+## 3. Legal Principles Involved
+
+**Relevant Statutes and Provisions:**
+
+* **The Arbitration and Conciliation Act, 1996:** Section 9 (Interim measures, etc., by Court), Section 37 (Appealable orders).
+* **The Commercial Courts Act, 2015:** Section 8 (Bar against revision application or petition against an interlocutory order), Section 13 (Appeals from decrees of Commercial Courts and Commercial Divisions).
+* **The Code of Civil Procedure, 1908 (CPC):** Order 39 (Injunctions), Order 43 (Appeals from orders).
+
+**Precedents Cited:**
+
+* **Arcelor Mittal Nippon Steel India Ltd. Vs. Essar Bulk Terminal Ltd., (2022) 1 SCC 712** (Supreme Court)
+* **Gangotri Enterprises Ltd. Vs. Union of India and others, (2016) 11 SCC 720** (Supreme Court)
+* **Union of India and another vs. Millennium Delhi Broadcast LLP and others, (2022) 7 SCC 67** (Supreme Court)
+* **Maria Margarida Sequeira Fernandes & others Vs. Erasmo Jack De Sequeira (dead), (2012) 5 SCC 370** (Supreme Court)
+* **Gujarat Maritime Board vs. L & T Infrastructure Development Projects Ltd. and others, (2016) 10 SCC 46** (Supreme Court)
+* **National Highway Authority of India Vs. Ganga Enterprises and others, (2003) 7 SCC 410** (Supreme Court)
+* **Adani Agri Fresh Ltd. Vs. Mahaboob Sharif and others, (2016) 14 SCC 517** (Supreme Court)
+* **Andhra Pradesh Pollution Control Board vs. CCL Products (India) Ltd., (2019) 20 SCC 669** (Supreme Court)
+* **Trafalgar House Construction (T) Satyam Shankaranarayana (JV) vs. State of Orissa and others, 2007 (Suppl. 2) OLR 822** (Orissa High Court)
+* **Deep Industries Limited Vs. Oil and Natural Gas Corporation Limited and others, (2020) 15 SCC 556** (Supreme Court)
+* **Deepak Mittal & another Vs. Geeta Sharma & others, 2017 SCC OnLine Del 10365** (Delhi High Court)
+* **M/s Sai Concrete Pavers Pvt. Ltd., Visakhapatnam vs. National Aluminium Company Ltd., Koraput, AIR 2016 Orissa 103** (Orissa High Court)
+* **Santosh Kumar Acharya Vs. Ratnakar Swain, 2023 SCC OnLine Orissa 2301** (Orissa High Court)
+* **Odisha State Road Transport Corporation, Bhubaneswar vs. ARSS Bus Terminal Pvt. Ltd., Bhubaneswar, 2023 (I) ILR-CUT-253** (Orissa High Court)
+* **Bhaven Construction through authorized signatory Premjibhai K. Shah Vs. Executive Engineer, Sardar Sarovar Narmada Nigam Limited and another, (2022) 1 SCC 75** (Supreme Court)
+* **Baburam Prakash Chandra Maheshwari vs. Antarim Zila Parishad Now Zila Parishad, Muzaffarnagar, AIR 1969 SC 556** (Supreme Court)
+
+**Legal Doctrines:**
+
+* **Principle of Harmonious Construction:**  Interpreting statutes together to avoid conflicts and maintain consistency.
+* **Principle of Overriding Effect:** When a later statute conflicts with an earlier one, the later statute prevails.
+* **Bank Guarantee as Independent Contract:** A bank guarantee is a separate contract between the bank and the beneficiary, independent of the underlying contract.
+* **Exceptions to Non-Interference with Bank Guarantee:**  Fraud, irretrievable harm or injustice, special equities, and invocation not in accordance with guarantee terms.
+
+## 4. Arguments Presented
+
+**Plaintiff’s Argument (Bansal):**
+
+* **Maintainability of Writ Petition:** The Petitioner argues that they are remediless due to lack of clarity under Section 37(1)(b) of the Act, 1996 on the appealability of interlocutory orders in Section 9 proceedings.
+* **Applicability of Order 39 Rule 3 of CPC:**  The Petitioner contends that they were entitled to an ex-parte injunction because the Commercial Court failed to consider the documents submitted, which demonstrated irreparable harm and exceptional circumstances.
+* **Scope of Judicial Interference in Bank Guarantee Encashment:** Bansal claims that the BG was not a performance BG but was meant to secure an advance payment. Their outstanding bills and JSPL's failure to fulfill contractual obligations create special equities warranting injunction against BG encashment.
+
+**Defendant’s Argument (JSPL):**
+
+* **Maintainability of Writ Petition:** The Defendant argues that an appeal under Section 37(1)(b) of the Act, 1996 is available, rendering the writ petition not maintainable. They also cite the Commercial Courts Act, 2015, which restricts revision applications or petitions against interlocutory orders.
+* **Applicability of Order 39 Rule 3 of CPC:**  JSPL claims that Order 39 Rule 3 of CPC is not applicable to Section 9 proceedings. They contend that the Commercial Court correctly rejected Bansal's application for ex-parte injunction because Bansal failed to demonstrate exceptional circumstances or irreparable harm.
+* **Scope of Judicial Interference in Bank Guarantee Encashment:** JSPL argues that the BG was valid and invoked rightfully based on Bansal's failure to perform contractual obligations. They highlight the general principle of non-interference with unconditional bank guarantees unless fraud or special equities exist, which Bansal failed to establish. 
+
+## 5. Court’s Analysis and Reasoning
+
+**Key Findings:**
+
+* **Interlocutory Order Not Appealable:** The Court, analyzing various High Court judgments and the relevant Acts, concludes that an interlocutory order rejecting an application for ex-parte injunction in a Section 9 proceeding is not appealable.
+* **Application of Order 39 Rule 3 Inapplicable:** The Court concurs with the coordinate Bench's view in the Sai Concrete Pavers case, that applications under Order 39 Rule 3 of CPC in Section 9 proceedings should be treated as part of the Section 9 application. 
+* **Exceptional Circumstances for Injunction:** The Court recognizes the well-established exceptions to non-interference with bank guarantee encashment, namely fraud, irretrievable harm or injustice, and special equities.
+
+**Interpretation of Law:**
+
+* The Court analyzes the provisions of the Commercial Courts Act, 2015 and the Arbitration and Conciliation Act, 1996, noting the Act's priority over the C.C. Act, but leaving procedural aspects to the C.C. Act.
+* The Court interprets the Supreme Court's precedents on bank guarantees, outlining the general principle of non-interference and the exceptions.
+
+**Application of Law:**
+
+* The Court applies the principle of harmonious construction to reconcile the Acts and the CPC, interpreting the statutes consistently.
+* The Court assesses the pleadings and documents in the case, focusing on the allegations of JSPL's non-performance, Bansal's pending bills, and the terms of the Bank Guarantee.
+
+## 6. Judgment
+
+**Final Decision:**
+
+* The Court dismisses the Writ Petition, ruling that the interim order dated 20.05.2024 restraining JSPL from invoking the BG will remain in force until the disposal of ARBP No. 14 of 2024, subject to the extension of the Bank Guarantee by 31.12.2024.
+
+**Relief Granted:**
+
+* The Court directs both parties to appear before the Commercial Court in ARBP No. 14 of 2024.
+* JSPL is required to file its objections in the Section 9 application within ten days.
+* Bansal is instructed to extend the BG until 31.12.2024.
+
+**Orders:**
+
+* The Commercial Court is directed to conclude the Section 9 proceedings within six weeks of JSPL filing its objection.
+* The Commercial Court is to decide ARBP No. 14 of 2024 on merit, considering the pleadings and documents, without being influenced by the Court's observations.
+
+## 7. Implications
+
+**Impact on Law:**
+
+* This judgment clarifies the appealability of interlocutory orders passed in Section 9 applications, confirming that they are not appealable. 
+* It emphasizes the principle of non-interference in bank guarantee encashment, subject to established exceptions.
+
+**Future Relevance:**
+
+* This case will guide future decisions on the maintainability of writ petitions against interlocutory orders in Section 9 proceedings.
+* It reaffirms the principles governing judicial intervention in bank guarantee encashment, highlighting the requirement for compelling grounds.
+
+**Broader Context:**
+
+* This case highlights the complexities of commercial disputes involving contracts, bank guarantees, and arbitration.
+* It demonstrates the importance of clear contract provisions and the role of courts in balancing the rights of parties in such situations.
+
+## 8. Summary Points
+
+* The Court determined that an interlocutory order rejecting an ex-parte injunction in a Section 9 application is not appealable.
+* The Court found that the Commercial Court incorrectly applied Order 39 Rule 3 of CPC in Section 9 proceedings.
+* The Court recognized the exceptions to non-interference with bank guarantee encashment but found that the circumstances in this case warrant the continued interim order restraining JSPL.
+* The Court ordered the Commercial Court to conclude the Section 9 proceedings and decide the dispute on merit.
+
+## 9. References
+
+**Citations:**
+
+* The Arbitration and Conciliation Act, 1996
+* The Commercial Courts Act, 2015
+* The Code of Civil Procedure, 1908 (CPC)
+* All case law cited in the judgment
+
+**Further Reading:**
+
+* **The Law Relating to Bank Guarantees and Letters of Credit** by P.K. Malhotra
+* **Commentary on Arbitration and Conciliation Act, 1996** by S.K. Kapur
+* **Commentary on the Code of Civil Procedure, 1908** by Mulla
+
+This summary provides a comprehensive overview of the case, incorporating facts, legal arguments, legal principles, and the court's decision. It also discusses the implications of the case for future legal practice.

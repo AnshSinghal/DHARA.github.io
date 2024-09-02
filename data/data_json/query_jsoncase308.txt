@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A landlord has filed a suit for possession of a commercial property against a tenant who is running a hotel business. The lease agreement has expired, and the tenant claims they have spent a significant amount on renovations. The landlord argues that the tenant has not paid the agreed-upon rent and is illegally occupying the property. Can the court grant an interim mandatory injunction for possession, considering the tenant's claims and the outstanding rent?",
+    "Legal Principles": "Interim mandatory injunctions can be granted under Order XXXIX, Rule 1 and 2 of the Code of Civil Procedure read with Section 39 of the Specific Relief Act. The court has the power to grant such relief in exceptional circumstances to maintain the status quo as of the date of the suit. However, final relief, such as possession, cannot be granted at the interim stage, especially when there are triable issues and the suit is primarily for possession.",
+    "Relevant Sections": "Order XXXIX, Rule 1 and 2 of the Code of Civil Procedure, Section 39 of the Specific Relief Act",
+    "Context": "Jurisdiction: Bombay High Court. Case Type: Commercial Appeal, Interim Mandatory Injunction in a Suit for Possession"
+  },
+  {
+    "Query": "A company with a share capital exceeding Rs. 1 crore is involved in a commercial dispute related to a lease agreement. The company argues that the dispute should be governed by the Maharashtra Rent Control Act, 1999, while the other party claims it is a commercial dispute under the Commercial Courts Act, 2015. Which law governs the dispute, and what is the jurisdiction of the court?",
+    "Legal Principles": "Section 3 of the Maharashtra Rent Control Act, 1999 excludes companies with a share capital exceeding Rs. 1 crore from its application. Commercial disputes between parties involving companies with such a share capital fall under the purview of the Commercial Courts Act, 2015.",
+    "Relevant Sections": "Section 3 of the Maharashtra Rent Control Act, 1999, Section 2 (c) (i) & (vii) of the Commercial Court, 2015",
+    "Context": "Jurisdiction: Bombay High Court. Case Type: Commercial Dispute, Jurisdiction under Rent Control Act vs. Commercial Courts Act"
+  },
+  {
+    "Query": "A plaintiff filed a commercial suit without first attempting pre-institution mediation as mandated under Section 12-A of the Commercial Courts Act, 2015. The defendant raises this non-compliance as a ground in an appeal. Is the suit defective, and can the defendant rely on this ground at the appellate stage?",
+    "Legal Principles": "Section 12-A of the Commercial Courts Act, 2015 mandates pre-institution mediation in commercial suits unless urgent interim relief is sought. While the provision is generally considered directory, failure to comply can be raised as a ground in an appeal, especially if it was not raised before the trial court. However, the court may exercise discretion based on the specific circumstances of the case.",
+    "Relevant Sections": "Section 12-A of the Commercial Courts Act, 2015",
+    "Context": "Jurisdiction: Bombay High Court. Case Type: Commercial Appeal, Non-Compliance with Pre-Institution Mediation Requirement"
+  },
+  {
+    "Query": "A lease agreement contains a clause stating that the licensee (tenant) must pay a certain amount as liquidated damages if they terminate the agreement prematurely. The licensee terminates the agreement early and refuses to pay the liquidated damages. Can the licensor (landlord) enforce this clause and claim the liquidated damages?",
+    "Legal Principles": "Liquidated damages clauses in contracts are enforceable if they are a genuine pre-estimate of the actual loss that the aggrieved party may suffer due to the breach. The courts will examine whether the stipulated amount is reasonable and not a penalty. If the amount is deemed excessive or disproportionate to the actual loss, it may be considered a penalty, and the court may not enforce it.",
+    "Relevant Sections": "Indian Contract Act, 1872",
+    "Context": "Jurisdiction: Bombay High Court. Case Type: Commercial Dispute, Enforceability of Liquidated Damages Clause"
+  },
+  {
+    "Query": "A company files a suit for possession of a commercial property based on a lease agreement. The lease agreement is silent on the consequences of default in payment of rent. Can the court grant an interim mandatory injunction for possession, even without a specific default clause?",
+    "Legal Principles": "Even without a specific default clause in the lease agreement, the court can grant interim relief based on general principles of law and equity. The court can consider the nature of the breach, the likelihood of the tenant continuing to occupy the property illegally, and the potential harm to the landlord if possession is not granted. However, the court will carefully examine the specific circumstances to ensure that the relief is justified.",
+    "Relevant Sections": "Indian Contract Act, 1872, Specific Relief Act, 1963",
+    "Context": "Jurisdiction: Bombay High Court. Case Type: Commercial Dispute, Interim Injunction in Absence of Default Clause"
+  },
+  {
+    "Query": "A tenant is occupying a commercial property beyond the lease period. The landlord seeks possession, but the tenant argues that they have invested significantly in renovations. Can the court consider the tenant's investment in renovations while deciding on an interim injunction?",
+    "Legal Principles": "The court can consider the tenant's investment in renovations, but it is not a decisive factor in granting an interim injunction. The court will weigh this against the landlord's right to possession, the tenant's continued illegal occupancy, and the potential harm to both parties. The court may order the tenant to deposit a specific amount, or it may grant a stay on the injunction pending the final decision of the suit.",
+    "Relevant Sections": "Order XXXIX, Rule 1 and 2 of the Code of Civil Procedure, Specific Relief Act, 1963",
+    "Context": "Jurisdiction: Bombay High Court. Case Type: Commercial Dispute, Interim Injunction, Tenant's Renovations"
+  },
+  {
+    "Query": "A landlord files a suit against a tenant for unpaid rent. The tenant claims that they have offset the rent against renovation expenses incurred with the landlord's consent. The landlord denies any such consent. Can the court consider the tenant's offset claim while deciding on an interim injunction?",
+    "Legal Principles": "The court will examine the tenant's claim of offsetting rent against renovation expenses based on the evidence presented. If there is sufficient evidence to support the tenant's claim of consent from the landlord, the court may consider it while deciding on an interim injunction. However, the court may also require the tenant to provide security or deposit a certain amount to protect the landlord's interests.",
+    "Relevant Sections": "Indian Contract Act, 1872, Specific Relief Act, 1963",
+    "Context": "Jurisdiction: Bombay High Court. Case Type: Commercial Dispute, Interim Injunction, Offset Claim"
+  },
+  {
+    "Query": "A tenant claims that the landlord has not paid property tax, which is the landlord's responsibility under the lease agreement. The tenant argues that this non-payment justifies their refusal to pay rent. Can the tenant's argument be considered a valid defense against the landlord's claim for rent?",
+    "Legal Principles": "The court will examine whether the landlord's non-payment of property tax constitutes a breach of the lease agreement and whether it justifies the tenant's refusal to pay rent. The court will consider the lease agreement's terms, the severity of the breach, and the potential harm to both parties. The tenant's argument may be considered a valid defense if it is proven that the landlord's non-payment of property tax has significantly affected the tenant's enjoyment of the property.",
+    "Relevant Sections": "Indian Contract Act, 1872, Specific Relief Act, 1963",
+    "Context": "Jurisdiction: Bombay High Court. Case Type: Commercial Dispute, Landlord's Non-Payment of Property Tax"
+  },
+  {
+    "Query": "A lease agreement contains a clause for termination upon giving a specific notice period. The landlord terminates the lease agreement without providing the stipulated notice period. Can the tenant rely on this breach to resist the landlord's claim for possession?",
+    "Legal Principles": "The tenant can rely on the landlord's breach of the notice provision as a defense against the landlord's claim for possession. The court will examine whether the landlord's non-compliance with the notice provision constitutes a material breach of the lease agreement. The court may grant a stay on the landlord's claim for possession until the notice period is fulfilled or may grant other relief to mitigate the harm to the tenant.",
+    "Relevant Sections": "Indian Contract Act, 1872, Specific Relief Act, 1963",
+    "Context": "Jurisdiction: Bombay High Court. Case Type: Commercial Dispute, Breach of Notice Provision in Lease Agreement"
+  },
+  {
+    "Query": "A tenant claims that the landlord has failed to make necessary repairs to the property, which has impacted the tenant's business. Can this be considered a breach of the lease agreement and a valid defense against the landlord's claim for possession?",
+    "Legal Principles": "The court will examine whether the landlord's failure to make repairs constitutes a breach of the lease agreement and whether it justifies the tenant's refusal to vacate the property. The court will consider the lease agreement's terms, the severity of the breach, and the potential harm to both parties. The tenant's argument may be considered a valid defense if it is proven that the landlord's failure to make repairs has significantly affected the tenant's enjoyment of the property and ability to conduct their business.",
+    "Relevant Sections": "Indian Contract Act, 1872, Specific Relief Act, 1963",
+    "Context": "Jurisdiction: Bombay High Court. Case Type: Commercial Dispute, Landlord's Failure to Make Repairs"
+  }
+]
+```

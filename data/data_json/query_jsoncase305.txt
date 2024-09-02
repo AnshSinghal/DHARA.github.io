@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A hotel owner is seeking to evict a tenant who has been operating a hotel on the property under a leave and license agreement. The agreement has expired, and the tenant has failed to pay rent for several months. The tenant argues that the dispute is governed by the Maharashtra Rent Control Act, 1999, and that the Commercial Court has no jurisdiction. Is the Commercial Court the appropriate forum for this dispute?",
+    "Legal Principles": "Jurisdiction of Commercial Courts, applicability of Maharashtra Rent Control Act, leave and license agreements, interpretation of commercial disputes",
+    "Relevant Sections": "Section 3, 47, 49 of the Maharashtra Rent Control Act, 1999, Section 2(c)(i) & (vii), Section 11, 12-A of the Commercial Courts Act, 2015",
+    "Context": "This is a commercial dispute between a hotel owner and a tenant regarding a leave and license agreement. The case involves the issue of jurisdiction, the applicability of rent control legislation, and the nature of commercial disputes."
+  },
+  {
+    "Query": "A landlord has filed a suit seeking possession of a commercial property leased to a tenant. The lease agreement contains a clause stating that the tenant must pay a liquidated damages amount if they terminate the agreement prematurely. The tenant has terminated the agreement but refuses to pay the liquidated damages. Can the landlord claim liquidated damages in this case?",
+    "Legal Principles": "Liquidated damages, lease agreements, breach of contract, interpretation of contract clauses, enforceability of contractual provisions",
+    "Relevant Sections": "Section 74 of the Indian Contract Act, 1872, provisions relating to liquidated damages in the lease agreement",
+    "Context": "This is a dispute arising out of a commercial lease agreement where the landlord is seeking to enforce a liquidated damages clause due to the tenant's premature termination."
+  },
+  {
+    "Query": "A company has entered into a contract with a supplier for the supply of goods. The supplier has failed to deliver the goods as per the agreed upon timeline. The company has suffered losses due to the delay. Can the company seek an injunction to prevent the supplier from supplying the goods to other parties while the dispute is pending?",
+    "Legal Principles": "Breach of contract, injunctions, specific performance, remedies for breach of contract",
+    "Relevant Sections": "Order XXXIX of the Code of Civil Procedure, 1908, provisions relating to injunctions, Section 14 of the Specific Relief Act, 1963",
+    "Context": "This is a commercial dispute involving a breach of contract for the supply of goods. The company is seeking an injunction as a remedy for the breach."
+  },
+  {
+    "Query": "Two parties entered into a joint venture agreement to develop a commercial property. One party has breached the agreement and has refused to contribute its share of the development costs. The other party seeks to dissolve the joint venture. Can the Court dissolve the joint venture and order an account of profits?",
+    "Legal Principles": "Joint ventures, breach of agreement, dissolution of partnership, account of profits, remedies for breach of joint venture agreements",
+    "Relevant Sections": "Indian Partnership Act, 1932, provisions relating to dissolution of partnership, Section 14 of the Specific Relief Act, 1963",
+    "Context": "This is a commercial dispute concerning a joint venture agreement where one party is seeking to dissolve the venture and recover its losses."
+  },
+  {
+    "Query": "A company has filed a suit against its former employee for breach of confidentiality agreements. The employee has used confidential information obtained during his employment to start a competing business. Can the company seek an injunction to prevent the employee from using the confidential information?",
+    "Legal Principles": "Confidentiality agreements, breach of contract, injunctions, trade secrets, employee duties, restrictive covenants",
+    "Relevant Sections": "Order XXXIX of the Code of Civil Procedure, 1908, provisions relating to injunctions, Section 14 of the Specific Relief Act, 1963, provisions relating to confidential information and restrictive covenants in employment contracts",
+    "Context": "This is a commercial dispute arising from a breach of confidentiality agreement between a company and its former employee. The company is seeking an injunction to protect its confidential information."
+  },
+  {
+    "Query": "Two companies entered into a distribution agreement. One company terminated the agreement prematurely, claiming that the other company had breached the agreement. The other company disputes the breach and seeks damages for the premature termination. Can the company that terminated the agreement claim that it is not liable for damages?",
+    "Legal Principles": "Distribution agreements, breach of contract, termination of agreements, damages for breach of contract, remedies for breach of commercial agreements",
+    "Relevant Sections": "Indian Contract Act, 1872, provisions relating to breach of contract and damages, provisions in the distribution agreement relating to termination and remedies",
+    "Context": "This is a commercial dispute concerning the termination of a distribution agreement and the potential liability for damages."
+  },
+  {
+    "Query": "A company has filed a suit against its competitor for unfair competition. The competitor has allegedly copied the company's product design and marketing strategies. Can the company obtain an injunction to prevent the competitor from continuing its allegedly unfair practices?",
+    "Legal Principles": "Unfair competition, passing off, trademarks, intellectual property, remedies for unfair competition",
+    "Relevant Sections": "Trade Marks Act, 1999, provisions relating to passing off, Section 14 of the Specific Relief Act, 1963, provisions relating to injunctions",
+    "Context": "This is a commercial dispute involving allegations of unfair competition, where the company is seeking injunctive relief."
+  },
+  {
+    "Query": "A company has filed a suit for recovery of dues from its customer. The customer has argued that the company has failed to deliver the goods as per the agreed upon quality and quantity. Can the company seek summary judgment in this case?",
+    "Legal Principles": "Summary judgments, debt recovery, contractual obligations, breach of contract, remedies for breach of contract",
+    "Relevant Sections": "Order 37 of the Code of Civil Procedure, 1908, provisions relating to summary judgments, provisions in the contract relating to quality and quantity of goods",
+    "Context": "This is a commercial dispute involving a claim for debt recovery, where the company is seeking summary judgment to expedite the process."
+  },
+  {
+    "Query": "A company has filed a suit for specific performance of a contract for the sale of land. The other party has refused to sell the land despite the agreement. Can the Court order specific performance in this case?",
+    "Legal Principles": "Specific performance, contracts for sale of land, breach of contract, remedies for breach of contract, enforceability of contractual obligations",
+    "Relevant Sections": "Specific Relief Act, 1963, provisions relating to specific performance, provisions in the contract for sale of land",
+    "Context": "This is a commercial dispute concerning the sale of land, where the company is seeking an order for specific performance of the contract."
+  },
+  {
+    "Query": "A company has been accused of engaging in fraudulent activities, including misrepresentation of financial information. The company's creditors are seeking to recover their losses. Can the Court appoint a receiver to manage the company's assets while the dispute is pending?",
+    "Legal Principles": "Receivership, fraud, insolvency, creditor protection, remedies for fraudulent activities",
+    "Relevant Sections": "The Companies Act, 2013, provisions relating to receivership, Insolvency and Bankruptcy Code, 2016, provisions relating to insolvency proceedings",
+    "Context": "This is a commercial dispute involving allegations of fraud and the potential appointment of a receiver to protect the interests of creditors."
+  }
+]
+```

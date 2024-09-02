@@ -1,0 +1,109 @@
+##  1. Case Title
+
+* **Case Name:** Hubtown Limited vs. IDBI Trusteeship Service Limited
+* **Court:** Bombay High Court 
+* **Date of Judgment:** 24 October 2016 
+* **Citation:** Not explicitly stated in the text provided.
+
+## 2. Background and Context
+
+* **Brief Overview:** This case involves a dispute between Hubtown Limited (Appellant-Defendant) and IDBI Trusteeship Service Limited (Respondent-Plaintiff) arising from a guarantee agreement.  IDBI, as debenture trustee, sought to enforce the guarantee provided by Hubtown against debts owed by Rubix Trading Private Limited. The case centers on the interpretation of the guarantee and whether it could be severed from other, potentially illegal, financial transactions.
+* **Key Issues:** 
+    * The maintainability of the Commercial Appeal filed by Hubtown.
+    * The interpretation of the guarantee agreement and whether it was severable from other transactions.
+    * The applicability of the Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015 (Commercial Courts Act) to the case, particularly regarding the transfer of summary suits and the scope of appeal under the Act.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * The Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015
+    * The Companies Act, 1956
+    * The Code of Civil Procedure, 1908 (CPC) including Order XXXVII (Summary Suits) and Order XIII-A (Summary Judgments)
+    * The Arbitration and Conciliation Act, 1996 
+    * The Foreign Exchange Management Act (FEMA)
+    * The Letters Patent Act
+* **Precedents Cited:** 
+    * Shah Babulal Khimji v. Jayaben D. Kania & Anr. (1981) 4 SCC 8
+    * Midnapore Peoples' Co-op. Bank Ltd v. Chunilal Nanda, AIR 2006 SC 2190
+    * Garikapati Veeraya Vs. N. Subbiah Choudhry & Ors. AIR 1957 SC 540
+    * Kamal Kumar Dutta vs. Ruby General Hospital (2006) 7 SCC 613
+    * Arun Dev Upadhyaya Vs. Integrated Sales Service Ltd. & Anr. 2016(9) SCALE 427
+    * B.O.I. Finance Ltd. Vs. Custodian & Ors. (1997) 10 SCC 488
+    * Canbank Financial Services Ltd. Vs. The Custodian & Ors. (2004) 8 SCC 355
+    * Immami Appa Rao vs. G. Ramalingamurthi
+    * Sir Chunilal V. Mehta and sons Ltd. Vs. Century Spinning and Manufacturing Co. Ltd. AIR 1962 SC 1314
+    * Hero Vinoth (Minor) Vs. Seshammal (2006) 5 SCC 545=AIR 2006 SC 2234
+    * Smt. Krishnabai Bhritar Ganpatrao Deshmukh Vs. Appasaheb Tuljaramarao Nimbalkar (1979) 4 SCC 60
+    * S.Chattanatha Karayalar Vs. The Central Bank of India Ltd. AIR 1965 SC 1856
+    * M/s. Mechelec Engineers & Manufacturers Vs. M/s. Basic Equipment Corporation (1976) 4 SCC 687 
+    * Sunil Enterprises and Anr. Vs. SBI Commercial & International Bank Ltd. (1998) 5 SCC 354
+    * State Bank of Saurashtra Vs. Ashit Shipping Services (P) Ltd. (2002) 4 SCC 736
+    * R. Savarna Prabhu and Anr. Vs. Videocon Leasing and Industrial Finance Limited & Anr. (2013)14 SCC 606
+* **Legal Doctrines:** 
+    * **Severability of Contracts:** The court examines whether a clause within a guarantee agreement can be separated from other potentially illegal transactions. 
+    * **Interpretation of Contracts:** The court interprets the guarantee agreement and other relevant documents to determine their legal effect.
+    * **Public Policy:** The court considers whether the transactions in question violate public policy, specifically focusing on foreign direct investment (FDI) regulations.
+    * **Estoppel:** The court addresses the concept of estoppel in the context of enforcing illegal transactions.
+    * **Right of Appeal:** The court explores the nature of the right to appeal, whether it is procedural or substantive, and whether it can be extinguished by legislation.
+
+## 4. Arguments Presented
+
+* **Plaintiff’s Argument (IDBI):** 
+    * The guarantee agreement was a separate transaction from the other transactions involving FDI and was not affected by their potential illegality.
+    * The guarantee agreement was severable from the other transactions.
+    * The loan from DIIPL to Rubix was a regular Indian Rupee loan, not subject to FDI rules.
+    * Hubtown is liable under the guarantee for the debts owed by Rubix.
+* **Defendant’s Argument (Hubtown):** 
+    * The guarantee agreement was part of a larger, illegal structuring of FDI through Vinca.
+    * The DIIPL loan was part of this illegal structure and not severable from it.
+    * The transactions were interconnected and not separate.
+    * The guarantee agreement was therefore unenforceable as it was part of an illegal scheme.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:** 
+    * The court found that the Commercial Appeal filed by Hubtown was maintainable under the Commercial Courts Act.
+    * The court found that the issue of severability of the guarantee agreement was a triable issue and required further evidence.
+    * The court held that the earlier finding by a single judge (S.J. Kathawalla) that the transactions were inseverable was relevant and could not be disregarded in the present case.
+    * The court found that the arguments presented by Hubtown raised triable issues that required adjudication.
+    * The court did not find the conditions imposed by the single judge (S.J. Kathawalla) on granting leave to defend to be justified.
+* **Interpretation of Law:** 
+    * The court interpreted the Commercial Courts Act, particularly Section 13, to permit appeals against decisions, judgments, and orders of the Commercial Division, including those related to summary suits.
+    * The court interpreted Order XXXVII of the CPC to apply to summary suits even after their transfer to the Commercial Division.
+    * The court interpreted the principle of severability of contracts as applicable to the case, requiring further evidence to determine whether the guarantee was severable. 
+* **Application of Law:** 
+    * The court applied the principles laid down in various precedents, including cases on interpretation of documents, severability, public policy, and the right of appeal, to the facts of the case.
+    * The court considered the arguments and the findings of the earlier single judge (S.J. Kathawalla) and found that they were relevant to the current dispute.
+
+## 6. Judgment
+
+* **Final Decision:** The appeal filed by Hubtown was allowed.
+* **Relief Granted:**
+    * The impugned order of the single judge granting conditional leave to defend was set aside.
+    * Unconditional leave to defend the summary suit was granted to Hubtown.
+* **Orders:**
+    * The summary suit was transferred to the list of commercial causes.
+    * Hubtown was directed to file its written statement within a specified time.
+    * The hearing of the suit was expedited.
+
+## 7. Implications
+
+* **Impact on Law:** The judgment clarifies the maintainability of appeals under the Commercial Courts Act, particularly in cases involving summary suits. It also emphasizes the importance of considering previous judgments on similar issues when adjudicating new cases.
+* **Future Relevance:** The case sets a precedent for how courts should deal with appeals related to summary suits and the interpretation of guarantee agreements in the context of potentially illegal transactions. 
+* **Broader Context:** The case highlights the complexities involved in enforcing guarantees when related transactions are potentially illegal, underscoring the importance of thorough legal analysis and due process.
+
+## 8. Summary Points
+
+* The Commercial Courts Act applies retrospectively to pending suits and appeals related to commercial disputes.
+* Appeals are maintainable under Section 13 of the Commercial Courts Act even against interlocutory orders that have the effect of a "judgment". 
+* The court clarified the distinction between "summary suit" and "summary judgment" under the Commercial Courts Act.
+* The court emphasized the importance of upholding the right to appeal even when it may be challenged by legislation.
+* The court recognized that the interpretation of documents and the determination of severability are triable issues requiring further evidence.
+* The court highlighted the principle that previous findings on similar issues are relevant and should not be disregarded.
+
+## 9. References
+
+* **Citations:** Please note that specific citations are not provided in the text excerpt. You would need to refer to the full judgment for complete citations.
+* **Further Reading:** 
+    *  For further information on the Commercial Courts Act, you can consult legal databases and online resources.
+    * For more information on the interpretation of contracts and the concept of severability, refer to legal texts and case law.

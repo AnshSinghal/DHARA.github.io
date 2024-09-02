@@ -1,0 +1,146 @@
+## 1. Case Title
+
+* **Case Name:** N.C.C. Limited vs. Sembcorp Gayatri Power Limited and another
+* **Court:** Andhra High Court
+* **Date of Judgment:** 24th October 2017
+* **Citation:** Not explicitly provided in the text.
+
+## 2. Background and Context
+
+* **Brief Overview:** N.C.C. Limited (appellant) entered into several contracts with Sembcorp Gayatri Power Limited (respondent) for the construction of a power plant. The project faced delays primarily attributed to the supplier, China National Technical I & E Corporation and Tianjin Electric Power Construction Company (CTC). The respondent sought to invoke bank guarantees provided by the appellant for the alleged delay, despite the appellant arguing that the delays were not their fault and they were owed substantial sums for their work.
+* **Key Issues:** 
+    * Whether the respondent was justified in invoking the bank guarantee despite the disputed nature of the delay.
+    * Whether the appellant had established a prima facie case of fraud or special equities to warrant an injunction restraining the respondent from invoking the bank guarantee.
+    * Whether the respondent was entitled to claim liquidated damages from both the appellant and CTC for the same delays.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * The Arbitration and Conciliation Act, 1996 (1996 Act)
+    * The Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015 (2015 Act)
+    * The Indian Evidence Act, 1872
+    * The Sick Industrial Companies (Special Provisions) Act, 1985 (SICA)
+    * The Code of Civil Procedure (CPC)
+* **Precedents Cited:**
+    * U.P. State Sugar Corpn. v. Sumac International Ltd. 
+    * Gujarat Maritime Board v. L&T Infrastructure Development Projects Ltd. 
+    * Hindustan Steel Works Construction Ltd v. Tarapore & Co. 
+    * Gangotri Enterprises Ltd. v. Union of India
+    * Union of India v. Raman Iron Foundry
+    * Hindustan Construction Co. Ltd. v. State of Bihar 
+    * Tarapore & Co. v. Visakhapatnam Steel Plant
+    * G.S. Atwal & Co. (Engineers) (P) Ltd. v. Hindustan Steel Workers Construction Ltd
+    * Ansal Engineering Projects Ltd. v. Tehri Hydro Development Corporation Ltd. 
+    * Sumac International Ltd. v. Singh Consultants and Engineers (P) Ltd. 
+    * United Commercial Bank v. Bank of India
+    * Centax (India) Ltd. v. Vinmar Impex Inc
+    * State of Maharashtra v. National Construction Co. 
+    * ICICI Bank Ltd, Hyderabad v. IVRCL Ltd, Hyderabad 
+    * Singh Consultants and Engineers (P) Ltd. v. Edward Owen Engineering Ltd. 
+    * Hindustan Construction Company Ltd. v. Flowmore (P) Ltd
+    * National Construction Co. v. United Commercial Bank
+    * ICICI Bank Ltd. v. IVRCL Ltd.
+    * Techtrans Construction India Pvt Ltd & Ksheeraabad Constructions Pvt. Ltd. v. Reliance Utility Engineers Ltd. 
+    * Himadri Chemicals Industries Ltd. v. Coal Tar Refining Co., 
+    * Punj Lloyd Insulations Ltd. v. State Bank of India
+    * Synthetic Foams Ltd. v. Simplex Concrete Piles (India) Pvt. Ltd. 
+    * Hindustan Construction Co. Ltd. v. Satluj Jal Nigam Ltd. 
+    * State Trading Corporation of India Ltd. v. State Bank of India 
+    * Ritesh Tewari v. State of U.P.
+    * Bharat Singh v. State of Haryana
+    * Seema Arshad Zaheer v. Municipal Corpn. of Greater Mumbai 
+    * Dwarikesh Sugar Industries Ltd. v. Prem Heavy Engineering Works (P) Ltd. 
+    * Svenska Handelsbanken v. Indian Charge Chrome
+    * Larsen & Toubro Ltd. v. Maharashtra SEB
+    * Hindustan Steel Workers Construction Ltd. v. G.S. Atwal & Co. (Engineers) (P) Ltd. 
+    * National Thermal Power Corpn. Ltd. v. Flowmore (P) Ltd 
+    * Millenium Wires (P) Ltd. v. State Trading Corporation of India Ltd 
+    * R D,. Harbottle (Mercantile) Ltd. v. National Westminster Bank Ltd. 
+    * Continental Construction Ltd. v. Satluj Jal Vidyut Nigam Ltd 
+    * Reliance Salt Ltd. v. Cosmos Enterprises
+    * Gammon-OJSC Mosmetrostroy JV v. Chennai Metro Rail Limited
+    * P.D. Alkaram Pvt. Ltd. v. Canara Bank 
+    * Universal Publishers Pvt. Ltd. v. Australian Executor Trustees Limited
+    * Amar Singh v. Union of India
+    * Dalglish v. Jarvie 
+    * Dalip Singh v. State of U.P.
+    * Hari Narain v. Badri Das 
+    * Welcome Hotel v. State of A.P.
+    * G. Narayanaswamy Reddy v. Govt. of Karnataka
+    * S.P. Chengalvaraya Naidu v. Jagannath 
+    * A.V. Papayya Sastry v. Govt. of A.P. 
+    * Prestige Lights Ltd. v. SBI
+    * Sunil Poddar v. Union Bank of India 
+    * K.D. Sharma v. SAIL
+    * G. Jayashree v. Bhagwandas S. Patel 
+    * Castelli v. Cookf 
+    * Republic of Peru v. Dreyfus Bros. & Co. 
+    * R. v. Kensington Income Tax Commr., ex p Princess de Polignac 
+    * Synthetic Foams Ltd. v. Satluj Jal Nigam Ltd
+    * State Trading Corporation of India Ltd. v. State Bank of India
+    * Bhandari Engineers and Builders Pvt. Ltd. v. Vijaya Bank
+    * General Electric Technical Services Company Inc. v. Punj Sons (p) Ltd.
+    * Itek Corporation v. First National Bank of Boston
+    * A.L.N. Narayanan Chettyar v. Official Assignee, High Court Rangoon
+* **Legal Doctrines:** 
+    * **Independent Contract:**  The court recognized that a bank guarantee is a separate and independent contract between the bank and the beneficiary, not bound by the underlying contract between the principal parties.
+    * **Fraud:** The court clarified that fraud, to be a valid basis for injunction, must be of a serious nature, specifically related to the bank guarantee itself, and known to the bank.
+    * **Special Equities:**  This refers to exceptional circumstances justifying interference with a bank guarantee. It involves demonstrating the potential for irretrievable injustice or damage if the guarantee is invoked.
+    * **Irretrievable Injury:** This involves proving that the party seeking injunction will suffer irreparable harm that cannot be remedied by other legal means.
+
+## 4. Arguments Presented
+
+* **Appellant’s Argument:**
+    * The appellant argued that the respondent's claim for liquidated damages was fraudulent and unjustified, as the delays were primarily caused by the supplier (CTC). 
+    * They contended that the respondent could not unilaterally invoke the bank guarantee without adjudicating the dispute.
+    * The appellant also argued for special equities in their favor due to the large sums owed to them by the respondent, the respondent's financial instability, and the likelihood that they would be unable to recover the funds even if they won in arbitration.
+    * They argued that the respondent's actions would cause them irretrievable injury, crippling their business and liquidity.
+* **Respondent’s Argument:**
+    * The respondent asserted that the bank guarantee was unconditional and they were entitled to invoke it based on the contract's terms.
+    * They refuted the appellant's claim of fraud, arguing that the delays were partially caused by the appellant, and they had a right to claim liquidated damages for breaches of the separate contracts.
+    * The respondent argued that the appellant had not established a valid case of special equities or irretrievable injury.
+    * They claimed that the appellant had made false statements in their petition regarding the achievement of provisional acceptance.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The court found that the bank guarantees were unconditional and irrevocable, binding the bank to make payment on demand.
+    * The court found that the appellant had not provided sufficient evidence to establish fraud or special equities to warrant an injunction.
+    * The court found that the appellant's claim of irretrievable injury was not substantiated.
+    * The court found that the appellant's statements about achieving provisional acceptance were false.
+* **Interpretation of Law:**
+    * The court thoroughly analyzed the legal principles related to bank guarantees, fraud, special equities, and irretrievable injury.
+    * It emphasized the independent nature of bank guarantees and the reluctance of courts to interfere with their enforcement.
+    * The court also clarified the specific requirements for proving fraud and special equities.
+* **Application of Law:**
+    * The court applied the legal principles to the facts of the case, carefully examining the evidence presented by both parties.
+    * It scrutinized the contractual provisions, the bank guarantee documents, and the evidence related to the alleged fraud and special equities.
+    * The court considered the precedents cited by both parties and distinguished the present case from those where injunctions had been granted.
+
+## 6. Judgment
+
+* **Final Decision:** The court dismissed all the appeals filed by the appellant.
+* **Relief Granted:** No relief was granted to the appellant.
+* **Orders:** The court dismissed the appeals and any pending miscellaneous petitions related to the case.
+
+## 7. Implications
+
+* **Impact on Law:** The judgment reinforced the principles governing bank guarantees, particularly the reluctance of courts to interfere with their enforcement unless fraud or special equities are clearly established. 
+* **Future Relevance:** The case serves as a precedent for future cases involving similar disputes over bank guarantees. It provides a detailed analysis of the legal requirements for obtaining injunctions to restrain their invocation.
+* **Broader Context:** This case highlights the importance of clear and unambiguous language in contracts, particularly those involving bank guarantees, to prevent disputes and ensure the smooth functioning of commercial transactions.
+
+## 8. Summary Points
+
+* Bank guarantees are independent contracts, and courts are reluctant to interfere with their enforcement.
+* Fraud, to justify an injunction, must be proven with strong evidence, be related to the bank guarantee itself, and be known to the bank.
+* Special equities require exceptional circumstances demonstrating potential irretrievable injustice or damage if the guarantee is invoked.
+* Irretrievable injury must be conclusively established, and a mere apprehension of non-payment is insufficient.
+* False statements in pleadings can lead to a denial of relief and even non-suiting of the party.
+
+## 9. References
+
+* All the cases cited in the judgment are listed in the "Precedents Cited" section of this summary.
+* Further reading could include:
+    * Texts on the Arbitration and Conciliation Act, 1996
+    * Texts on commercial law and bank guarantees
+    * Other case law related to bank guarantees and injunctions. 

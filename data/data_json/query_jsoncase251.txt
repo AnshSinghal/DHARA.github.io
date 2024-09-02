@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A hospital filed an application under Section 34 of the Arbitration and Conciliation Act, 1996 (A&C Act) to set aside an arbitral award. However, the application was dismissed as being barred by limitation. The hospital argues that various delays were caused by erroneous orders of the court, which should be excluded from the limitation period. Should the court condone the delay and allow the hospital to proceed with its application?",
+    "Legal Principles": "The principle of Actus Curiae Neminem Gravabit (the act of the court shall not prejudice no man) can be applied to remedy prejudice caused by erroneous court orders. The period spent pursuing mediation as directed by the court can be excluded from the limitation period under Section 14 of the Limitation Act, 1963. When a court order is palpably erroneous, it can be considered non-est and the time spent complying with it may be excluded from limitation. The court can condone delay in filing applications under Section 34 of the A&C Act if there is sufficient cause for the delay.",
+    "Relevant Sections": "Section 34, Section 37(1)(c) of the Arbitration & Conciliation Act, 1996; Section 14 of the Limitation Act, 1963; Section 12A of the Commercial Courts Act, 2015; Section 20 of the A&C Act",
+    "Context": "This case involves an application under Section 34 of the A&C Act to set aside an arbitral award. The court must determine whether the delay in filing the application should be condoned, considering the impact of erroneous court orders and the application of relevant legal principles."
+  },
+  {
+    "Query": "A construction company filed a lawsuit against a developer for breach of contract. The developer argued that the suit was barred by limitation as the company had not filed the suit within the prescribed period. However, the company claimed that it had initiated mediation proceedings as mandated by Section 12A of the Commercial Courts Act, 2015, and this period should be excluded from the limitation period. Can the court exclude the mediation period from the limitation period?",
+    "Legal Principles": "Section 12A of the Commercial Courts Act, 2015, mandates pre-institution mediation in certain cases. The period spent in mediation proceedings can be excluded from the limitation period under the Limitation Act, 1963, pursuant to Section 12A(3). ",
+    "Relevant Sections": "Section 12A of the Commercial Courts Act, 2015; Section 14 of the Limitation Act, 1963",
+    "Context": "This case involves a breach of contract lawsuit where the defendant argues that the suit is barred by limitation. The court must determine if the time spent in mediation, as mandated by Section 12A of the Commercial Courts Act, 2015, can be excluded from the limitation period."
+  },
+  {
+    "Query": "Two parties entered into a contract with an arbitration clause specifying Delhi as the seat of arbitration. A dispute arose, and the arbitral tribunal conducted hearings in an office located in Connaught Place, Delhi. One party filed an application to set aside the arbitral award in the Commercial Court, New Delhi (Patiala House Courts), claiming that the seat of arbitration was Connaught Place. The other party argues that the seat of arbitration was Delhi, and the Commercial Court in Karkardooma, Delhi, has jurisdiction. Which court has jurisdiction?",
+    "Legal Principles": "When parties agree to a seat of arbitration, the court exercising jurisdiction over the seat of arbitration has exclusive jurisdiction over arbitral proceedings. However, the venue where hearings are held is distinct from the seat of arbitration. The court exercising jurisdiction over the subject matter of the arbitration, as defined in Section 2(1)(e) of the A&C Act, may also have jurisdiction unless the parties have agreed otherwise.",
+    "Relevant Sections": "Section 2(1)(e), Section 20 of the A&C Act",
+    "Context": "This case involves a dispute about the jurisdiction of the court to entertain an application to set aside an arbitral award. The court must determine the seat of arbitration and whether the agreed-upon seat of arbitration grants exclusive jurisdiction to the court exercising jurisdiction over that location."
+  },
+  {
+    "Query": "A company filed an application under Section 34 of the A&C Act to set aside an arbitral award. The application was filed beyond the limitation period, but the company claimed that it was due to the court's erroneous order requiring pre-institution mediation. Can the court condone the delay, considering the company's reliance on the erroneous order?",
+    "Legal Principles": "The principle of Actus Curiae Neminem Gravabit (the act of the court shall not prejudice no man) can be applied to remedy prejudice caused by erroneous court orders. A court order directing pre-institution mediation under Section 12A of the Commercial Courts Act, 2015, is not applicable to applications under Section 34 of the A&C Act. ",
+    "Relevant Sections": "Section 34 of the Arbitration & Conciliation Act, 1996; Section 12A of the Commercial Courts Act, 2015",
+    "Context": "This case involves an application under Section 34 of the A&C Act where the applicant claims that the delay in filing the application was due to an erroneous court order requiring pre-institution mediation. The court must determine whether the delay caused by the erroneous order should be condoned."
+  },
+  {
+    "Query": "A company filed an application to set aside an arbitral award beyond the three-month limitation period prescribed in Section 34 of the A&C Act. The company sought to rely on the Supreme Court order in Re: Cognizance for Extension of Limitation, arguing that it extended the limitation period for filing applications. Does the Supreme Court order extend the limitation period for filing applications under Section 34?",
+    "Legal Principles": "The Supreme Court order in Re: Cognizance for Extension of Limitation extended the limitation period for certain legal proceedings but did not extend the period for condoning delay in filing applications under Section 34 of the A&C Act. However, subsequent Supreme Court decisions have clarified that the period for condoning delay in filing applications can also be extended.",
+    "Relevant Sections": "Section 34 of the Arbitration & Conciliation Act, 1996",
+    "Context": "This case involves an application under Section 34 of the A&C Act where the applicant seeks to rely on the Supreme Court order in Re: Cognizance for Extension of Limitation to condone the delay in filing the application. The court must determine whether the Supreme Court order applies to the limitation period for filing applications under Section 34."
+  },
+  {
+    "Query": "A business owner entered into a contract with a supplier, including an arbitration clause designating Delhi as the seat of arbitration. A dispute arose, and the arbitral tribunal held hearings at a location in Gurgaon, Haryana. The business owner filed an application to set aside the arbitral award in the Commercial Court, Delhi. The supplier argued that the Commercial Court in Gurgaon has exclusive jurisdiction because the hearings were held in Gurgaon. Does the location of the hearings determine the jurisdiction of the court?",
+    "Legal Principles": "The seat of arbitration, not the location of hearings, determines the exclusive jurisdiction of the court over arbitral proceedings. The venue for hearings can be different from the agreed-upon seat of arbitration.",
+    "Relevant Sections": "Section 20 of the A&C Act",
+    "Context": "This case involves a dispute about the jurisdiction of the court to entertain an application to set aside an arbitral award. The court must determine whether the location of the hearings or the agreed-upon seat of arbitration governs jurisdiction."
+  },
+  {
+    "Query": "A construction company entered into a contract with a homeowner, including an arbitration clause. A dispute arose, and the company filed an application to set aside the arbitral award. However, the company did not file the application within the prescribed three-month period and instead sought to rely on the principle of Actus Curiae Neminem Gravabit, arguing that delays were caused by the court's erroneous orders. Can the company rely on this principle to justify the delay?",
+    "Legal Principles": "The principle of Actus Curiae Neminem Gravabit (the act of the court shall not prejudice no man) can be invoked to excuse delays caused by the court's own actions. However, it must be shown that the court's actions were clearly erroneous and caused prejudice to the party seeking to rely on the principle.",
+    "Relevant Sections": "Section 34 of the Arbitration & Conciliation Act, 1996",
+    "Context": "This case involves an application under Section 34 of the A&C Act where the applicant seeks to excuse the delay in filing the application by invoking the principle of Actus Curiae Neminem Gravabit. The court must determine whether the principle applies in this case and whether the court's actions caused prejudice to the applicant."
+  },
+  {
+    "Query": "A company filed an application under Section 34 of the A&C Act to set aside an arbitral award. The application was filed beyond the three-month limitation period, but the company argued that the delay was caused by the court's refusal to condone the initial delay in filing. Can the company rely on this refusal to justify the further delay?",
+    "Legal Principles": "A court's refusal to condone a delay in filing an application does not automatically excuse further delay. However, the court may consider the reasons for the initial refusal and the subsequent delay when determining whether to condone the overall delay.",
+    "Relevant Sections": "Section 34 of the Arbitration & Conciliation Act, 1996",
+    "Context": "This case involves an application under Section 34 of the A&C Act where the applicant seeks to justify the delay in filing the application by arguing that the delay was caused by the court's refusal to condone an earlier delay. The court must determine whether the court's refusal constitutes sufficient cause for the subsequent delay."
+  },
+  {
+    "Query": "A software development company filed an application to set aside an arbitral award. The application was filed after the prescribed limitation period, but the company argued that it was due to delays caused by the court's order requiring pre-institution mediation, which was later found to be inapplicable. Can the court condone the delay, considering the company's reliance on the court's erroneous order?",
+    "Legal Principles": "A court's erroneous order directing pre-institution mediation under Section 12A of the Commercial Courts Act, 2015, is not applicable to applications under Section 34 of the A&C Act. The period spent complying with the erroneous order may be excluded from the limitation period, and the court may condone the delay caused by the order.",
+    "Relevant Sections": "Section 34 of the Arbitration & Conciliation Act, 1996; Section 12A of the Commercial Courts Act, 2015",
+    "Context": "This case involves an application under Section 34 of the A&C Act where the applicant seeks to condone the delay in filing the application, arguing that the delay was caused by a court's erroneous order requiring pre-institution mediation. The court must determine whether the delay caused by the erroneous order should be excused."
+  },
+  {
+    "Query": "A company filed an application under Section 34 of the A&C Act to set aside an arbitral award. The application was filed beyond the limitation period, but the company argued that it was due to the court's erroneous order requiring pre-institution mediation. The company did not appeal the court's order. Can the company still claim that the delay caused by the erroneous order should be excluded from the limitation period?",
+    "Legal Principles": "While a court order directing pre-institution mediation under Section 12A of the Commercial Courts Act, 2015, is not applicable to applications under Section 34 of the A&C Act, the party affected by the erroneous order may be expected to challenge it. The failure to appeal the order may affect the court's determination of whether the delay caused by the erroneous order should be excused.",
+    "Relevant Sections": "Section 34 of the Arbitration & Conciliation Act, 1996; Section 12A of the Commercial Courts Act, 2015",
+    "Context": "This case involves an application under Section 34 of the A&C Act where the applicant seeks to condone the delay in filing the application, arguing that the delay was caused by a court's erroneous order requiring pre-institution mediation. The court must determine whether the applicant's failure to appeal the erroneous order affects the determination of whether to condone the delay."
+  }
+]
+```

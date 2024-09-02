@@ -1,0 +1,113 @@
+## 1. Case Title
+
+* **Case Name:** M/s. Harpreet Singh Chhabra and four others vs. Mrs. Suneet Kaur Sahney and eight others
+* **Court:** Andhra High Court
+* **Date of Judgment:** 7th September, 2018
+* **Citation:** C.O.M.C.A.No. 2 of 2018 and batch 
+
+## 2. Background and Context
+
+* **Brief Overview:** The case revolves around a dispute between the petitioners (Harpreet Singh Chhabra and others) and the respondents (Suneet Kaur Sahney and others) regarding a loan of Rs. 20 crore. The petitioners had lent the money to the respondents, but when the respondents failed to repay, the petitioners filed lawsuits for recovery and a complaint under the Negotiable Instruments Act. In retaliation, the respondents filed a criminal case against the petitioners, leading to the arrest of two of them. Under duress, the petitioners signed a settlement deed, which included an arbitration clause appointing Ravinder Singh Sarma as the sole arbitrator.  The petitioners later challenged this appointment and sought the termination of the arbitrator's mandate due to alleged bias and undue delay. 
+* **Key Issues:**
+    * Whether the High Court could entertain a revision petition under Article 227 of the Constitution of India despite the provisions of Section 8 and 13 of the Commercial Courts Act, 2015.
+    * Whether the arbitrator's mandate was terminated due to undue delay in completing the arbitration proceedings.
+    * Whether the Arbitration and Conciliation (Amendment) Act, 2015 was applicable to the case.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * Article 227 of the Constitution of India (Supervisory jurisdiction of High Courts)
+    * Section 8 of the Commercial Courts Act, 2015 (Bar on revisions against interlocutory orders)
+    * Section 13 of the Commercial Courts Act, 2015 (Appeals against decisions of Commercial Courts)
+    * Section 14 of the Arbitration and Conciliation Act, 1996 (Termination of arbitrator's mandate)
+    * Section 26 of the Arbitration and Conciliation (Amendment) Act, 2015 (Applicability of the amendment to pending proceedings)
+    * Section 12 of the Arbitration and Conciliation Act, 1996 (Disqualification of an arbitrator)
+* **Precedents Cited:**
+    * L. Chandra Kumar v. Union of India (1997) 3 SCC 261
+    * State v. Navjot Sandhu 
+    * Suryadev Rai v. Ram Chander Rai (2003) 6 SCC 675 
+    * Shalini Shyam Shetty v. Rajendra Shankar Patil
+    * State of Gujarat v. Union of India (R/Special Civil Application No.737 of 2018)
+    * Coal India Ltd. v. Saroj Kumar Mishra (2010) 8 SCC 329
+    * M/s. Hindustan Wires Limited v. Mr. R.Suresh (2008 (5) MHLJ 749)
+    * Jayesh H.Pandya v. Subhtex India Limited (2005) 1 MHLJ 884
+    * Bhupinder Singh Bindra v. Union of India (1995) 5 SCC 329
+    * Vijay Hiralal v. J.N.Port Trust
+    * Snehadeep Auto Centre v. Hindustain Petroleum Corporation Limited
+    * Shyam Telecom Ltd., v. Arm Ltd. 
+    * NBCC Ltd. V. J.G.Engineering 
+    * Haryana Packaids Pvt. Ltd. v. Indian Oil Corporation Limited 
+    * B.C.C.I. vs. Kochi Cricket Private Limited (2018) SCC Online SC 232
+    * Mascon Multiservices and Consultants Private Limited vs. Bharat Oman Refineries Limited (2007 (1) Arb.LR 564 (Gauhati) (DB))
+    * State of Arunachal Pradesh v. Subhash Projects and Marketing Limited (2008) 6 Bombay CR 611)
+    * Tufan Chatterjee v. Rangan Dhar (AIR 2015 Calcutta 24)
+    * Raffles Design International India Private Limited v. Educomp Professional Education Limited (AIR 2016 Cal. 213) 
+* **Legal Doctrines:**
+    * **Supervisory Jurisdiction:** The High Court's power to supervise the functioning of lower courts and tribunals.
+    * **Waiver:** A party's voluntary relinquishment of a known right.
+    * **Estoppel:** A legal principle that prevents a party from asserting a claim or defense that is inconsistent with their previous actions or statements.
+    * **Prospective Application of Laws:** The principle that new laws generally apply to events or actions that occur after their enactment.
+
+## 4. Arguments Presented
+
+* **Petitioner's Argument:**
+    * The petitioners argued that the termination of the arbitrator's mandate due to non-completion of arbitration proceedings within the time fixed by the High Court was incorrect.
+    * They asserted that the delay in proceedings was not due to the arbitrator but was caused by the respondents' own actions, including filing lawsuits and seeking adjournments.
+    * They argued that the respondents were estopped from raising the plea of undue delay because they had participated in the proceedings without objection, even after the expiry of the five-month time limit set by the High Court.
+    * They also contended that the Arbitration and Conciliation (Amendment) Act, 2015 was not applicable to the case, as the arbitration proceedings had commenced before the amendment came into force.
+* **Respondent's Argument:**
+    * The respondents argued that the arbitrator's mandate was terminated due to his failure to complete the proceedings within the five-month time limit set by the High Court.
+    * They claimed that the arbitrator had failed to act without undue delay, even considering the periods of stay granted by courts.
+    * They argued that the petitioners had waived their right to object to the delay by participating in the proceedings after the time limit expired.
+    * They contended that the Arbitration and Conciliation (Amendment) Act, 2015 was applicable to the case because the Court proceedings commenced after the amendment came into force.
+
+## 5. Court's Analysis and Reasoning
+
+* **Key Findings:**
+    * The Court found that the respondents had participated in the arbitration proceedings without raising any objection to the delay, even after the time limit set by the High Court had expired.
+    * The Court also found that the respondents had themselves been responsible for delaying the proceedings through their own actions.
+    * The Court determined that the Arbitration and Conciliation (Amendment) Act, 2015 was not applicable to the case because the arbitration proceedings had started before the amendment came into effect.
+* **Interpretation of Law:**
+    * The Court interpreted Article 227 of the Constitution of India to hold that the High Court's supervisory jurisdiction was not limited or taken away by Section 8 of the Commercial Courts Act.
+    * The Court interpreted Section 14 of the Arbitration and Conciliation Act, 1996 to require a finding of "undue delay" to justify the termination of an arbitrator's mandate.
+    * The Court interpreted Section 26 of the Arbitration and Conciliation (Amendment) Act, 2015 to apply only to court proceedings initiated after the amendment came into effect, not to arbitration proceedings that had begun earlier.
+* **Application of Law:**
+    * The Court applied the doctrine of waiver to the respondents' conduct, finding that they had waived their right to object to the delay in the arbitration proceedings.
+    * The Court applied the doctrine of estoppel to prevent the respondents from asserting their claim of undue delay after their participation in the proceedings after the time limit had expired.
+    * The Court applied the principle of prospective application of laws to determine that the Arbitration and Conciliation (Amendment) Act, 2015 was not applicable to the case.
+
+## 6. Judgment
+
+* **Final Decision:** The Court allowed the Civil Revision Petition, holding that the order terminating the arbitrator's mandate was illegal and incorrect.
+* **Relief Granted:** The order terminating the arbitrator's mandate was set aside.
+* **Orders:** The Court directed the parties to continue with the arbitration proceedings before the original arbitrator.
+
+## 7. Implications
+
+* **Impact on Law:** This judgment confirms the High Court's supervisory jurisdiction under Article 227 of the Constitution of India, even when there are statutory provisions like Section 8 of the Commercial Courts Act. It also reinforces the principles of waiver and estoppel in the context of arbitration proceedings.
+* **Future Relevance:** The judgment could be cited in future cases involving similar issues related to the termination of an arbitrator's mandate due to delay, the applicability of amended legislation to pending proceedings, and the High Court's supervisory jurisdiction.
+* **Broader Context:** This case highlights the importance of parties' conduct and their participation in arbitration proceedings, particularly when time limits are imposed. It also emphasizes the need for courts to carefully examine the applicability of new legislation to ongoing legal disputes.
+
+## 8. Summary Points
+
+* The High Court held that the termination of the arbitrator's mandate was incorrect.
+* The respondents' own actions contributed to the delay in the arbitration proceedings.
+* The respondents waived their right to object to the delay and were estopped from asserting their claim.
+* The Arbitration and Conciliation (Amendment) Act, 2015 was not applicable to the case.
+* The High Court's supervisory jurisdiction under Article 227 of the Constitution of India is not limited by Section 8 of the Commercial Courts Act.
+
+## 9. References
+
+* **Citations:**
+    * Article 227 of the Constitution of India
+    * Section 8 of the Commercial Courts Act, 2015
+    * Section 13 of the Commercial Courts Act, 2015
+    * Section 14 of the Arbitration and Conciliation Act, 1996
+    * Section 26 of the Arbitration and Conciliation (Amendment) Act, 2015
+    * Section 12 of the Arbitration and Conciliation Act, 1996
+    * All cited judgments
+* **Further Reading:**
+    * Arbitration and Conciliation Act, 1996
+    * Commercial Courts Act, 2015
+    * The Constitution of India
+    * Relevant case law on waiver, estoppel, and the supervisory jurisdiction of High Courts. 

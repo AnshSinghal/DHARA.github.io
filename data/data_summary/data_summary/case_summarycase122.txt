@@ -1,0 +1,100 @@
+## 1. Case Title
+
+•	**Case Name:** Sigmarq Technologies Pvt. Ltd And 2 Ors vs Manugraph India Limited And 7 Ors
+•	**Court:** Bombay High Court
+•	**Date of Judgment:** 14 September, 2017
+•	**Citation:**  COMAP40.16.doc
+
+## 2. Background and Context
+
+•	**Brief Overview:** Two separate suits were filed in the Bombay High Court: 
+    * **Suit No. 516 of 2013:** Filed by Manugraph India Limited (Plaintiff) against Sigmarq Technologies Pvt. Ltd. (Defendant), alleging a commercial dispute. 
+    * **Suit No. 632 of 2014:** Filed by Ezeego One Travel & Tours Ltd. (Plaintiff) against Le Travenues Technology Pvt. Ltd. (Defendant), also alleging a commercial dispute.
+
+•	**Key Issues:** The primary legal question in both cases was whether the Bombay High Court had territorial jurisdiction to hear the suits. The Defendants argued that the plaintiffs' branch offices in Delhi and Kolhapur, respectively, were where the cause of action arose, and therefore the Delhi and Kolhapur courts had jurisdiction. 
+
+## 3. Legal Principles Involved
+
+•	**Relevant Statutes and Provisions:**
+    * **Code of Civil Procedure, 1908:**
+        * **Section 9-A:**  Enables the court to rule on a preliminary issue of jurisdiction.
+        * **Order XIV:**  Deals with framing preliminary issues in a suit.
+        * **Order XLIII:**  Enumerates appealable orders under the Code.
+        * **Section 104:**  Provides for appeals from certain orders.
+        * **Section 105:**  Limits appeals from orders.
+    * **Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015 (Act 4 of 2016):** 
+        * **Section 13:**  Defines the appellate jurisdiction of the Commercial Appellate Division.
+        * **Section 21:**  Gives overriding effect to the Act over other laws.
+    * **Arbitration & Conciliation Act, 1996:**
+        * **Section 37:**  Deals with appeals against arbitral awards.
+•	**Precedents Cited:** 
+    * **Shah Babulal Khimji vs Jayaben D. Kania & Anr., AIR 1981 SC 1786:** Defines the term "judgment" in the context of Letters Patent of High Courts.
+    * **Hubtown Limited vs. IDBI Trusteeship Service Ltd., 2017 4 BCR 310:** Interprets the provisions of the Commercial Courts Act and the scope of appeal under Section 13.
+    * **Smt. Sushila Singhania & Ors. vs. Bharat Hari Singhania, Commercial Appeal No.41 of 2016:**  Deals with the maintainability of appeals against orders passed in execution proceedings.
+    * **Mithailal Dalsangar Singh & Ors. vs. Annabai Devram Kini & Ors. (2003) 10 SCC 691 : AIR 2003 SC 4244:**  Defines "judgment" in the context of Letters Patent.
+    * **Banarasi & Ors. vs. Ram Phal AIR 2003 SC 1989:** Interprets "person aggrieved" for the purpose of appeals under the Code of Civil Procedure.
+    * **Shiv Shakti Cooperative Housing Society vs. Swaraj Developer reported in AIR 2003 SC 2434:**  Interprets Section 105 of the Code of Civil Procedure.
+    * **Midnapore Peoples' Co-op. Bank Ltd. & Ors. vs. Chunilal Nanda & Ors., AIR 2006 SC 2190:** Defines "judgment" in the context of Letters Patent.
+    * **Employer in Relation to Management of Central Mine Panning and Design Institute Ltd. vs. Union of India & anr., AIR 2001 SC 883:**  Interprets "judgment" in the context of Letters Patent.
+•	**Legal Doctrines:**
+    * **Territorial Jurisdiction:** The court's power to hear a case based on the location where the cause of action arose.
+    * **Doctrine of Precedents:**  The principle that courts should follow previous judgments in similar cases.
+    * **Judicial Discipline:**  The principle that lower courts should follow the decisions of higher courts.
+
+## 4. Arguments Presented
+
+•	**Appellant's Argument:**
+    * The defendants argued that the plaintiffs' branch offices in Delhi and Kolhapur, respectively, were where the cause of action arose, and therefore the Delhi and Kolhapur courts had jurisdiction.
+    * They argued that an order determining jurisdictional issues was a "judgment" under the Commercial Courts Act and therefore appealable.
+    * They relied heavily on the Supreme Court judgment in Shah Babulal Khimji, arguing that the test of "finality" in determining an appealable judgment should be applied. 
+    * They also argued that the order of the Single Judge was akin to a preliminary decree, which, according to Section 97 of the Code of Civil Procedure, would preclude them from disputing the jurisdiction at a later stage if they didn't appeal.
+•	**Respondent's Argument:**
+    * The plaintiffs argued that the order of the Single Judge was not an appealable order under the Commercial Courts Act.
+    * They emphasized the Act's focus on expeditious disposal of commercial disputes and argued that allowing appeals against such orders would obstruct the process.
+    * They highlighted the non-obstante clause in Section 13(2) of the Commercial Courts Act, stating that appeals are only available as provided for in the Act and not under any other law.
+    * They argued that the order did not conclusively determine the rights of the parties, as the Bombay High Court could still dismiss the suits on merits.
+
+## 5. Court’s Analysis and Reasoning
+
+•	**Key Findings:**
+    * The court acknowledged the Act's aim to expedite commercial disputes and its focus on a streamlined process. 
+    * The court recognized that the order under appeal merely overruled the defendants' preliminary objections to jurisdiction, not conclusively determining their rights.
+•	**Interpretation of Law:**
+    * The court interpreted Section 13 of the Commercial Courts Act, emphasizing the proviso that limits appeals to specific orders enumerated in Order XLIII of the Code of Civil Procedure and Section 37 of the Arbitration & Conciliation Act.
+    * The court interpreted Section 13(2) as a non-obstante clause, overriding other laws and limiting appeals to the specific provisions of the Act.
+    * The court applied the test of "finality" as established by the Supreme Court in Shah Babulal Khimji to determine whether the order was a "judgment" within the meaning of the Act.
+•	**Application of Law:**
+    * The court considered the order under appeal as not "final" because it did not conclusively determine the rights of the parties. The Bombay High Court could still dismiss the suits on merits.
+    * The court found that the order was not appealable under Section 13 of the Commercial Courts Act because it did not fall within the specific categories of appealable orders. 
+
+## 6. Judgment
+
+•	**Final Decision:** The Bombay High Court dismissed the appeals, upholding the Single Judge's order that the court had jurisdiction to hear the suits.
+•	**Relief Granted:** No relief was granted to the appellants.
+•	**Orders:**  The court refused the appellants' request to stay the hearing of the Notice of Motion seeking interim relief.
+
+## 7. Implications
+
+•	**Impact on Law:** The judgment reinforces the interpretation of the Commercial Courts Act as intended to expedite commercial disputes and minimize interlocutory appeals.
+•	**Future Relevance:** This case clarifies the application of the "finality" test to determine appealable judgments under the Commercial Courts Act, specifically regarding orders determining jurisdictional issues. 
+•	**Broader Context:** This case demonstrates the ongoing tension between the need for judicial efficiency and the right to appeal. The court balances these concerns by prioritizing a streamlined process for commercial disputes while ensuring parties can challenge the court's jurisdiction in a final appeal.
+
+## 8. Summary Points
+
+•	The Bombay High Court upheld the Single Judge's order that the court had jurisdiction to hear two commercial disputes.
+•	The court found that the order determining jurisdiction was not appealable under the Commercial Courts Act because it did not conclusively determine the rights of the parties and did not fall within the specific categories of appealable orders under the Act.
+•	The judgment emphasizes the importance of expedited commercial dispute resolution while still allowing parties to challenge jurisdiction in a final appeal.
+
+## 9. References
+
+•	**Code of Civil Procedure, 1908**
+•	**Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015 (Act 4 of 2016)**
+•	**Arbitration & Conciliation Act, 1996**
+•	**Shah Babulal Khimji vs Jayaben D. Kania & Anr., AIR 1981 SC 1786**
+•	**Hubtown Limited vs. IDBI Trusteeship Service Ltd., 2017 4 BCR 310**
+•	**Smt. Sushila Singhania & Ors. vs. Bharat Hari Singhania, Commercial Appeal No.41 of 2016**
+•	**Mithailal Dalsangar Singh & Ors. vs. Annabai Devram Kini & Ors. (2003) 10 SCC 691 : AIR 2003 SC 4244**
+•	**Banarasi & Ors. vs. Ram Phal AIR 2003 SC 1989**
+•	**Shiv Shakti Cooperative Housing Society vs. Swaraj Developer reported in AIR 2003 SC 2434**
+•	**Midnapore Peoples' Co-op. Bank Ltd. & Ors. vs. Chunilal Nanda & Ors., AIR 2006 SC 2190**
+•	**Employer in Relation to Management of Central Mine Panning and Design Institute Ltd. vs. Union of India & anr., AIR 2001 SC 883** 

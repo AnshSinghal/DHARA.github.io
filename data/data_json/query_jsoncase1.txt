@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A company entered into a contract with a contractor for construction work. The contract was not properly stamped under the Stamp Act. The contractor filed an application for reference to arbitration under Section 8 of the Arbitration and Conciliation Act, 1996. The court refused to refer the matter to arbitration on the grounds that the contract was not enforceable due to the lack of proper stamping. Is the court's decision correct? Can an arbitration agreement in an unstamped contract be enforced?",
+    "Legal Principles": "The doctrine of separability of an arbitration agreement from the underlying contract, the statutory provisions of the Stamp Act regarding the enforceability of unstamped documents, and the application of the kompetenz-kompetenz principle under the Arbitration Act.",
+    "Relevant Sections": "Section 16 of the Arbitration and Conciliation Act, 1996; Section 34 of the Maharashtra Stamp Act, 1958; Section 35 of the Maharashtra Stamp Act, 1958; Section 40 of the Indian Stamp Act, 1899; Section 42 of the Indian Stamp Act, 1899.",
+    "Context": "Jurisdiction: India; Case Type: Arbitration, Contract Law, Stamp Act."
+  },
+  {
+    "Query": "A company invoked a bank guarantee furnished by a supplier under a contract. The supplier claimed that the invocation was fraudulent, as the contract had not been performed. The company applied for reference to arbitration under Section 8 of the Arbitration and Conciliation Act, 1996. The court, however, held that the allegations of fraud were arbitrable and referred the matter to arbitration. Is the court's decision justified? Are allegations of fraudulent invocation of a bank guarantee arbitrable?",
+    "Legal Principles": "The arbitrability of fraud, the scope of arbitrable disputes under the Arbitration and Conciliation Act, 1996, and the distinction between civil and criminal aspects of fraud.",
+    "Relevant Sections": "Section 8 of the Arbitration and Conciliation Act, 1996; Section 17 of the Indian Contract Act, 1872.",
+    "Context": "Jurisdiction: India; Case Type: Arbitration, Contract Law, Banking Law."
+  },
+  {
+    "Query": "A company filed a writ petition challenging an order of a commercial court refusing to refer a dispute to arbitration. The court had rejected the application for arbitration on the grounds that the contract was not properly stamped. Is the writ petition maintainable? Is it permissible to challenge an order refusing reference to arbitration under Section 8 through a writ petition?",
+    "Legal Principles": "The availability of alternative statutory remedies, the principles of exhaustion of remedies, and the maintainability of writ petitions under Articles 226 and 227 of the Constitution of India.",
+    "Relevant Sections": "Section 8 of the Arbitration and Conciliation Act, 1996; Section 37 of the Arbitration and Conciliation Act, 1996; Articles 226 and 227 of the Constitution of India.",
+    "Context": "Jurisdiction: India; Case Type: Arbitration, Writ Petition, Constitutional Law."
+  },
+  {
+    "Query": "A landlord filed a suit against a tenant for eviction based on the tenant's failure to pay rent. The lease agreement contained an arbitration clause. The tenant applied for reference to arbitration under Section 8 of the Arbitration and Conciliation Act, 1996. The court declined to refer the matter to arbitration, arguing that eviction matters are governed by special statutes and are not arbitrable. Is the court's decision correct? Can disputes relating to eviction under tenancy laws be referred to arbitration?",
+    "Legal Principles": "The arbitrability of disputes governed by special statutes, the scope of arbitrable disputes under the Arbitration and Conciliation Act, 1996, and the principle of forum non conveniens.",
+    "Relevant Sections": "Section 8 of the Arbitration and Conciliation Act, 1996; Section 2(3) of the Arbitration and Conciliation Act, 1996.",
+    "Context": "Jurisdiction: India; Case Type: Arbitration, Tenancy Law, Property Law."
+  },
+  {
+    "Query": "A company entered into a contract with a supplier for the supply of goods. The contract contained an arbitration clause. The company alleged that the supplier had delivered defective goods and filed a suit for damages. The supplier applied for reference to arbitration under Section 8 of the Arbitration and Conciliation Act, 1996. The court, however, dismissed the application, holding that the dispute was too complex and involved technical issues that could not be effectively adjudicated by an arbitrator. Is the court's decision justified? Can disputes involving technical and complex issues be referred to arbitration?",
+    "Legal Principles": "The scope of arbitrable disputes, the competence of arbitrators, and the principle of deference to the parties' chosen forum.",
+    "Relevant Sections": "Section 8 of the Arbitration and Conciliation Act, 1996.",
+    "Context": "Jurisdiction: India; Case Type: Arbitration, Contract Law, Commercial Law."
+  },
+  {
+    "Query": "A company filed a suit against a former employee for breach of a non-compete agreement. The agreement contained an arbitration clause. The former employee applied for reference to arbitration under Section 8 of the Arbitration and Conciliation Act, 1996. The court, however, refused to refer the matter to arbitration, citing the sensitive nature of the dispute and the need for a public forum. Is the court's decision appropriate? Are disputes involving non-compete agreements arbitrable?",
+    "Legal Principles": "The arbitrability of disputes involving non-compete agreements, the principle of deference to the parties' chosen forum, and the balancing of public policy considerations.",
+    "Relevant Sections": "Section 8 of the Arbitration and Conciliation Act, 1996.",
+    "Context": "Jurisdiction: India; Case Type: Arbitration, Employment Law, Contract Law."
+  },
+  {
+    "Query": "A company entered into a contract with a contractor for the construction of a building. The contract contained an arbitration clause. The company later discovered that the contractor had obtained the contract through fraudulent means and filed a suit for rescission of the contract. The contractor applied for reference to arbitration under Section 8 of the Arbitration and Conciliation Act, 1996. The court, however, held that the allegations of fraud were so serious that they could not be effectively dealt with in arbitration. Is the court's decision valid? Can disputes involving allegations of serious fraud be referred to arbitration?",
+    "Legal Principles": "The arbitrability of fraud, the scope of arbitrable disputes, and the distinction between fraud that permeates the entire contract and fraud that is limited to a specific provision.",
+    "Relevant Sections": "Section 8 of the Arbitration and Conciliation Act, 1996; Section 17 of the Indian Contract Act, 1872.",
+    "Context": "Jurisdiction: India; Case Type: Arbitration, Contract Law, Construction Law."
+  },
+  {
+    "Query": "A company filed a suit against a former director for breach of fiduciary duty. The company's articles of association contained an arbitration clause. The former director applied for reference to arbitration under Section 8 of the Arbitration and Conciliation Act, 1996. The court, however, dismissed the application, arguing that disputes involving fiduciary duties are inherently complex and should be decided by courts. Is the court's decision correct? Are disputes involving breaches of fiduciary duty arbitrable?",
+    "Legal Principles": "The arbitrability of disputes involving breaches of fiduciary duty, the scope of arbitrable disputes, and the principle of deference to the parties' chosen forum.",
+    "Relevant Sections": "Section 8 of the Arbitration and Conciliation Act, 1996.",
+    "Context": "Jurisdiction: India; Case Type: Arbitration, Company Law, Contract Law."
+  },
+  {
+    "Query": "A company filed a suit against a competitor for infringement of its trademark. The trademark license agreement contained an arbitration clause. The competitor applied for reference to arbitration under Section 8 of the Arbitration and Conciliation Act, 1996. The court, however, declined to refer the matter to arbitration, holding that trademark disputes are governed by special legislation and are not arbitrable. Is the court's decision justified? Are disputes involving trademark infringement arbitrable?",
+    "Legal Principles": "The arbitrability of disputes governed by special statutes, the scope of arbitrable disputes, and the principle of deference to the parties' chosen forum.",
+    "Relevant Sections": "Section 8 of the Arbitration and Conciliation Act, 1996; Section 2(3) of the Arbitration and Conciliation Act, 1996.",
+    "Context": "Jurisdiction: India; Case Type: Arbitration, Intellectual Property Law, Contract Law."
+  },
+  {
+    "Query": "A company filed a suit against a supplier for breach of contract. The contract contained an arbitration clause, but it was not properly signed. The supplier applied for reference to arbitration under Section 8 of the Arbitration and Conciliation Act, 1996. The court, however, dismissed the application, holding that the arbitration agreement was not valid due to the improper signing. Is the court's decision correct? Can an arbitration agreement be enforced if it is not properly signed?",
+    "Legal Principles": "The requirements for a valid arbitration agreement, the principle of separability, and the application of the kompetenz-kompetenz principle under the Arbitration Act.",
+    "Relevant Sections": "Section 7 of the Indian Contract Act, 1872; Section 8 of the Arbitration and Conciliation Act, 1996; Section 16 of the Arbitration and Conciliation Act, 1996.",
+    "Context": "Jurisdiction: India; Case Type: Arbitration, Contract Law, Commercial Law."
+  }
+]
+```

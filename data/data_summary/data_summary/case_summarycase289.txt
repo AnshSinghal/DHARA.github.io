@@ -1,0 +1,87 @@
+## 1. Case Title
+
+* **Case Name:** United Telecoms Limited, vs The Director 
+* **Court:** Telangana High Court
+* **Date of Judgment:** 26th August 2022
+* **Citation:** COMMERCIAL COURT APPEAL NOs.33, 34, 40, 41, 42, 48, 49, 51 and 52 of 2018 and 4, 17, 18, 19, 20 OF 2019
+
+## 2. Background and Context
+
+* **Brief Overview:**  This case involves a dispute between several software companies (CCS Infotech Limited, United Telecoms Limited, and Data Management Corporation) and the Mee-Seva organization (formerly E-Seva). The dispute arose from agreements signed in 2003 for the companies to build, operate, and maintain Mee-Seva centers (e-governance centers) across Hyderabad and Secunderabad. The dispute focused on issues related to the effective date of the agreements, the downward revision of rates, and the fixation of transaction slabs.
+* **Key Issues:**
+    * Determining the effective date of the agreements.
+    * Legality of the rate revision (reduction) by Mee-Seva.
+    * Whether transaction slabs should be proportionally increased with the number of centers.
+    * The entitlement of the companies to various reliefs claimed.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * **Arbitration and Conciliation Act, 1996:**
+        * Section 2(1)(c)4: Defines 'arbitral award' and includes interim award.
+        * Section 17: Vests power in the arbitrator to pass interim orders.
+        * Section 32: Deals with the termination of arbitral proceedings.
+        * Section 33: Deals with correction and interpretation of awards and additional awards.
+        * Section 34: Provides for application to set aside an arbitral award. 
+* **Precedents Cited:**
+    * **The Project Director, National Highways Nos.45E and 220, National Highways Authority of India vs. M.Hakeem and others** (2021) 9 SCC 1
+    * **Ragya Bee and others vs. P.S.R. Constructions and others** 2022 (3) ALD 151
+    * **Delhi Airport Metro Express Pvt. Ltd. Vs. Delhi Metro Rail Corporation Ltd.** (2006) 11 SCC 181
+* **Legal Doctrines:**
+    * **Functus Officio:**  The principle that once an arbitrator passes a final award, they are no longer empowered to act in the same matter.
+    * **Deemed Stay:** The concept that filing an application under Section 34 of the Arbitration and Conciliation Act, 1996, creates an automatic stay on the enforcement of the award. 
+    * **Public Policy of India:**  The Court considered the application of public policy when reviewing the legality of the Arbitrator's actions.
+
+## 4. Arguments Presented
+
+* **Appellants' Argument (Software Companies):**
+    * The Commercial Court erred in modifying the Arbitrator's award, as Section 34 only allows for setting aside or remanding the award, not modifying it.
+    * The Commercial Court incorrectly interpreted the Government Order regarding electricity bills, leading to an incorrect application of the revised rate.
+    * The reduction of the interest rate from 12% to 6% was unjustified.
+    * The Arbitrator's award should be accepted in its entirety. 
+* **Respondent's Argument (Mee-Seva):**
+    * The Arbitrator's actions were illegal, including the passing of preliminary and final awards, which is not permissible under the Act. 
+    * The Arbitrator exceeded his jurisdiction by extending the contract through interim orders.
+    * The Government Order regarding electricity bills was incorrectly applied by the Arbitrator, as it only applies to new contracts, not existing ones.
+    * The Arbitrator's findings were perverse and based on incorrect interpretation of the agreement.
+    * The Commercial Court should have remanded the case to the Arbitrator for a fresh award.
+
+## 5. Court's Analysis and Reasoning
+
+* **Key Findings:**
+    * The Court found that the Arbitrator erred in splitting the award into preliminary and final awards. The Act does not allow for such a division.
+    * The Court also found that the Arbitrator exceeded his authority by passing a final award after the respondent had filed an application under Section 34 challenging the preliminary award, as this created a deemed stay on the award.
+    * The Court concluded that the Commercial Court had no jurisdiction to modify the Arbitrator's award and had erred in doing so.
+* **Interpretation of Law:** The Court interpreted the provisions of the Arbitration and Conciliation Act, 1996, particularly Sections 17, 32, 33, and 34, focusing on the limited powers granted to courts in reviewing arbitral awards. 
+* **Application of Law:** The Court applied the legal principles established by previous judgments, particularly those regarding the scope of Section 34 and the principle of functus officio. 
+
+## 6. Judgment
+
+* **Final Decision:** The High Court allowed the appeals filed by the software companies. 
+* **Relief Granted:** The Court remitted the matter back to the Arbitral Tribunal for a fresh determination, with a new Arbitrator appointed (Hon'ble Sri Justice Vilas V.Afzulpurkar).
+* **Orders:** The parties were ordered to submit all relevant documents to the new Arbitrator within four weeks, and the new Arbitrator was requested to conclude the proceedings within 16 weeks. 
+
+## 7. Implications
+
+* **Impact on Law:** The judgment reiterates the limited scope of judicial intervention in arbitral proceedings under Section 34 of the Act. 
+* **Future Relevance:** The judgment reinforces the principle that courts cannot modify arbitral awards, only set them aside or remand them for a fresh decision. It clarifies the limitations placed on Arbitrators in passing multiple awards.
+* **Broader Context:** This case highlights the importance of careful drafting of contracts and adherence to the legal framework governing arbitration, particularly the procedures outlined in the Arbitration and Conciliation Act, 1996.
+
+## 8. Summary Points
+
+* The Arbitrator erred in splitting the award into preliminary and final awards.
+* The Court found that the Commercial Court exceeded its jurisdiction by modifying the Arbitrator's award.
+* The case was remanded to a new Arbitrator for a fresh determination.
+* The judgment reinforces the limited scope of judicial intervention in arbitral proceedings.
+
+## 9. References
+
+* **Arbitration and Conciliation Act, 1996**
+* **The Project Director, National Highways Nos.45E and 220, National Highways Authority of India vs. M.Hakeem and others** (2021) 9 SCC 1
+* **Ragya Bee and others vs. P.S.R. Constructions and others** 2022 (3) ALD 151
+* **Delhi Airport Metro Express Pvt. Ltd. Vs. Delhi Metro Rail Corporation Ltd.** (2006) 11 SCC 181
+
+**Further Reading:** 
+
+* Other case laws on Section 34 of the Arbitration and Conciliation Act, 1996.
+* Articles and commentaries on the principle of functus officio and deemed stay. 

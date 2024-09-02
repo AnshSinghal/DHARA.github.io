@@ -1,0 +1,87 @@
+## Case Title
+
+* **Case Name:** South Delhi Municipal Corporation vs. M/S Tech Mahindra
+* **Court:** Delhi High Court
+* **Date of Judgment:** February 12, 2019
+* **Citation:** EFA(OS)(COMM) 3/2019 
+
+## Background and Context
+
+* **Brief Overview:** The South Delhi Municipal Corporation (SDMC) appealed an order of the Single Judge directing it to deposit 50% of the awarded amount in an arbitration case while the SDMC's petition under Section 34 of the Arbitration and Conciliation Act, 1996 (the Arbitration Act) was pending.
+* **Key Issues:** The main legal issue was whether the appeal was maintainable under the Commercial Courts Act, 2015 (the CC Act) as the SDMC argued the order amounted to an attachment before judgment.
+
+## Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * Section 13 of the Commercial Courts Act, 2015
+    * Order XXXVIII Rule 2 of the Code of Civil Procedure (CPC)
+    * Order XLIII Rule 1(q) of the CPC
+    * Section 36 and Section 37 of the Arbitration Act, 1996
+    * Section 8, 11, and 21 of the Commercial Courts Act, 2015
+* **Precedents Cited:**
+    * Kandla Export Corporation & Anr. Vs. M/s. OCI Corporation & Anr., (2018) 14 SCC 715
+    * Fuerst Day Lawson Limited vs. Jindal Exports Limited, (2011) 8 SCC 333
+    * Ganga Bai v Vijay Kumar, (1974) 2 SCC 393
+* **Legal Doctrines:**
+    * The overriding effect of the CC Act (Section 21)
+    * The limited jurisdiction of Commercial Courts and Appellate Divisions
+    * The nature of appeals as a creature of statute 
+
+## Arguments Presented
+
+* **Appellant's Argument (SDMC):** 
+    * The impugned order is an attachment before judgment (Order XXXVIII Rule 2 of CPC) and thus appealable under Order XLIII Rule 1(q) of the CPC.
+    * Section 36 of the Arbitration Act attracts the provisions of the CPC, making the order appealable.
+* **Respondent's Argument (Tech Mahindra):**
+    * The appeal is not maintainable under Section 13 of the CC Act as it only permits appeals against orders enumerated in Order XLIII or under Section 37 of the Arbitration Act.
+    * Order XLIII applies to suits, not arbitration proceedings.
+    * The intent of the CC Act is to limit interlocutory appeals.
+
+## Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The CC Act aims to limit the jurisdiction of Commercial Courts and Appellate Divisions.
+    * The appealability of an order under Section 13 of the CC Act is restricted to orders enumerated in Order XLIII or under Section 37 of the Arbitration Act.
+    * Order XLIII deals with suits and not proceedings under the Arbitration Act.
+    * The provisions of the CPC referred to in Section 36 of the Arbitration Act relate to enforcement proceedings, not interlocutory orders like the one in question.
+* **Interpretation of Law:**
+    * The court emphasized the specific provisions of the CC Act, especially Sections 8, 11, and 21, which demonstrate the intent to restrict appellate jurisdiction.
+    * The court analyzed the Statement of Objects and Reasons of the CC Act to reinforce the legislative intent of limiting appeals.
+    * The court referred to the Supreme Court judgments in Kandla Export Corporation and Ganga Bai, highlighting the statutory nature of appeal rights.
+* **Application of Law:**
+    * The court applied the principles derived from the CC Act, the Arbitration Act, and the cited precedents to conclude that the appeal was not maintainable under the provisions of the CC Act.
+    * The court rejected the appellant's arguments about the applicability of Order XXXVIII and Section 36 of the Arbitration Act, finding them inapplicable to the present case.
+
+## Judgment
+
+* **Final Decision:** The appeal was dismissed.
+* **Relief Granted:** No relief was granted to the appellant.
+* **Orders:** No specific orders were issued beyond dismissing the appeal.
+
+## Implications
+
+* **Impact on Law:** The judgment reinforces the narrow scope of appellate jurisdiction under the CC Act. It clarifies that the appealability of an order in arbitration proceedings is governed by Section 13 of the CC Act and does not extend to interlocutory orders not specifically enumerated in Order XLIII or Section 37 of the Arbitration Act.
+* **Future Relevance:** This judgment will likely be cited in future cases dealing with the maintainability of appeals in arbitration proceedings before commercial courts.
+* **Broader Context:** This case highlights the increasing emphasis on streamlining commercial dispute resolution in India. 
+
+## Summary Points
+
+* The Delhi High Court dismissed an appeal filed by the SDMC challenging an order to deposit 50% of an arbitration award amount.
+* The court held that the appeal was not maintainable under the Commercial Courts Act, 2015 as the CC Act restricts appellate jurisdiction to orders specifically enumerated in Order XLIII or under Section 37 of the Arbitration Act.
+* The court rejected the appellant's arguments that the order amounted to an attachment before judgment or that Section 36 of the Arbitration Act attracted the provisions of the CPC.
+* This case reaffirms the importance of careful consideration of the specific provisions of the CC Act when determining the appealability of orders in commercial disputes.
+
+## References
+
+* **Citations:**
+    * Commercial Courts Act, 2015
+    * Code of Civil Procedure, 1908 (CPC)
+    * Arbitration and Conciliation Act, 1996
+    * Kandla Export Corporation & Anr. Vs. M/s. OCI Corporation & Anr., (2018) 14 SCC 715
+    * Fuerst Day Lawson Limited vs. Jindal Exports Limited, (2011) 8 SCC 333
+    * Ganga Bai v Vijay Kumar, (1974) 2 SCC 393
+* **Further Reading:**
+    * The Commercial Courts Act, 2015
+    * The Arbitration and Conciliation Act, 1996
+    * The Code of Civil Procedure, 1908
+    * Case law on appealability of orders under the Commercial Courts Act, 2015. 

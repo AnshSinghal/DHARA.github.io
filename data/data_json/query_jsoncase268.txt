@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A developer cancelled a flat purchase agreement due to non-payment. The buyers' heirs are disputing the cancellation and seeking a declaration that the cancellation is void. The developer has filed for arbitration under the Arbitration and Conciliation Act, 1996, and the matter is now before the court. The court must determine whether the case should be transferred to a Commercial Court under the Commercial Courts Act, 2015.",
+    "Legal Principles": "The Commercial Courts Act, 2015 (CC Act) establishes special courts to handle commercial disputes. The CC Act aims to expedite the resolution of commercial disputes, including arbitration matters.",
+    "Relevant Sections": "Section 10 of the CC Act grants jurisdiction to Commercial Courts over arbitration matters involving commercial disputes. Section 15 of the CC Act deals with the transfer of pending cases to Commercial Courts.",
+    "Context": "Jurisdiction of Commercial Courts in arbitration matters, transfer of pending cases under the CC Act, applicability of the CC Act to arbitration proceedings."
+  },
+  {
+    "Query": "A dispute has arisen over a construction contract. The contractor claims the owner owes him payment for completed work, while the owner argues that the work is defective and refuses to pay. The contractor has filed an application for arbitration under Section 8 of the Arbitration and Conciliation Act, 1996. The owner opposes the arbitration and seeks to have the matter decided in a civil court. The question before the court is whether the application for arbitration should be granted.",
+    "Legal Principles": "Section 8 of the Arbitration and Conciliation Act, 1996 (Arbitration Act) allows parties to agree to refer disputes to arbitration. If parties have agreed to arbitration, the court generally has to refer the matter to arbitration.",
+    "Relevant Sections": "Section 8 of the Arbitration Act: Referral to arbitration. Section 37 of the Arbitration Act: Appeals against certain orders.",
+    "Context": "Application for arbitration under Section 8 of the Arbitration Act, opposition to arbitration, court's power to refer disputes to arbitration."
+  },
+  {
+    "Query": "A company filed an application for arbitration under the Arbitration and Conciliation Act, 1996, against its supplier for breach of contract. The arbitration tribunal issued an award in favor of the company. The supplier is now challenging the arbitral award in court. The court needs to decide whether the challenge to the award is maintainable under Section 34 of the Arbitration Act.",
+    "Legal Principles": "Section 34 of the Arbitration and Conciliation Act, 1996 (Arbitration Act) allows a party to challenge an arbitral award in court under certain circumstances.",
+    "Relevant Sections": "Section 34 of the Arbitration Act: Setting aside arbitral awards. Section 37 of the Arbitration Act: Appeals against certain orders.",
+    "Context": "Challenge to an arbitral award, grounds for setting aside an award under Section 34 of the Arbitration Act, jurisdiction of the court to review an arbitral award."
+  },
+  {
+    "Query": "A landlord has filed a suit for eviction of a tenant for non-payment of rent. The tenant claims that the landlord has violated the terms of the lease agreement and is not entitled to evict him. The matter is now before the court. The court must decide whether the case should be transferred to a Commercial Court under the Commercial Courts Act, 2015.",
+    "Legal Principles": "The Commercial Courts Act, 2015 (CC Act) establishes specialized courts for resolving commercial disputes. The CC Act aims to expedite the resolution of commercial disputes and ensure consistent application of commercial law.",
+    "Relevant Sections": "Section 2 of the CC Act defines commercial disputes. Section 10 of the CC Act grants jurisdiction to Commercial Courts over arbitration matters involving commercial disputes.",
+    "Context": "Jurisdiction of Commercial Courts in real estate disputes, applicability of the CC Act to landlord-tenant disputes, transfer of pending cases under the CC Act."
+  },
+  {
+    "Query": "Two parties entered into a contract for the sale of goods. The buyer alleges that the goods delivered by the seller were defective and seeks compensation for the losses incurred. The seller denies liability and asserts that the buyer failed to properly inspect the goods. The matter is now before the court. The court must decide whether the case should be transferred to a Commercial Court under the Commercial Courts Act, 2015.",
+    "Legal Principles": "The Commercial Courts Act, 2015 (CC Act) establishes specialized courts for resolving commercial disputes. The CC Act aims to expedite the resolution of commercial disputes and ensure consistent application of commercial law.",
+    "Relevant Sections": "Section 2 of the CC Act defines commercial disputes. Section 10 of the CC Act grants jurisdiction to Commercial Courts over arbitration matters involving commercial disputes.",
+    "Context": "Jurisdiction of Commercial Courts in contract disputes involving sale of goods, applicability of the CC Act to commercial transactions, transfer of pending cases under the CC Act."
+  },
+  {
+    "Query": "A company filed an application for arbitration under the Arbitration and Conciliation Act, 1996, against its former employee for breach of contract. The employee claims that the arbitration agreement is invalid and seeks to have the matter decided in a civil court. The court needs to determine whether the arbitration agreement is valid and enforceable.",
+    "Legal Principles": "The Arbitration and Conciliation Act, 1996 (Arbitration Act) allows parties to agree to refer disputes to arbitration. The validity of an arbitration agreement is essential for the enforcement of an arbitral award.",
+    "Relevant Sections": "Section 7 of the Arbitration Act: Validity of arbitration agreements. Section 8 of the Arbitration Act: Referral to arbitration.",
+    "Context": "Validity of arbitration agreements, grounds for challenging an arbitration agreement, court's power to enforce arbitration agreements."
+  },
+  {
+    "Query": "A business partner has filed a suit for dissolution of a partnership and for accounting of partnership assets. The other partner claims that the dissolution is premature and seeks to continue the partnership. The matter is now before the court. The court must decide whether the case should be transferred to a Commercial Court under the Commercial Courts Act, 2015.",
+    "Legal Principles": "The Commercial Courts Act, 2015 (CC Act) establishes specialized courts for resolving commercial disputes. The CC Act aims to expedite the resolution of commercial disputes and ensure consistent application of commercial law.",
+    "Relevant Sections": "Section 2 of the CC Act defines commercial disputes. Section 10 of the CC Act grants jurisdiction to Commercial Courts over arbitration matters involving commercial disputes.",
+    "Context": "Jurisdiction of Commercial Courts in partnership disputes, applicability of the CC Act to business partnerships, transfer of pending cases under the CC Act."
+  },
+  {
+    "Query": "A company filed an application for arbitration under the Arbitration and Conciliation Act, 1996, against its distributor for breach of contract. The arbitration tribunal issued an award in favor of the company. The distributor is now challenging the arbitral award in court. The court needs to decide whether the challenge to the award is maintainable under Section 34 of the Arbitration Act.",
+    "Legal Principles": "Section 34 of the Arbitration and Conciliation Act, 1996 (Arbitration Act) allows a party to challenge an arbitral award in court under certain circumstances. The grounds for challenging an award are limited.",
+    "Relevant Sections": "Section 34 of the Arbitration Act: Setting aside arbitral awards. Section 37 of the Arbitration Act: Appeals against certain orders.",
+    "Context": "Challenge to an arbitral award, grounds for setting aside an award under Section 34 of the Arbitration Act, jurisdiction of the court to review an arbitral award."
+  },
+  {
+    "Query": "A customer has filed a complaint against a company for defective goods purchased online. The company argues that the customer's claim is not within the jurisdiction of the Commercial Court as the value of the goods is below the specified threshold. The court needs to decide whether the case falls under the jurisdiction of the Commercial Court.",
+    "Legal Principles": "The Commercial Courts Act, 2015 (CC Act) establishes specialized courts for resolving commercial disputes. The CC Act has a specified value threshold for commercial disputes to be adjudicated in Commercial Courts.",
+    "Relevant Sections": "Section 2 of the CC Act defines commercial disputes and specifies value thresholds. Section 10 of the CC Act grants jurisdiction to Commercial Courts over arbitration matters involving commercial disputes.",
+    "Context": "Jurisdiction of Commercial Courts in consumer disputes, applicability of the CC Act to online transactions, determination of specified value threshold."
+  },
+  {
+    "Query": "A company has filed an application for arbitration under the Arbitration and Conciliation Act, 1996, against its supplier for breach of contract. The supplier claims that the arbitration agreement is invalid and seeks to have the matter decided in a civil court. The court needs to determine whether the arbitration agreement is valid and enforceable.",
+    "Legal Principles": "The Arbitration and Conciliation Act, 1996 (Arbitration Act) allows parties to agree to refer disputes to arbitration. The validity of an arbitration agreement is essential for the enforcement of an arbitral award.",
+    "Relevant Sections": "Section 7 of the Arbitration Act: Validity of arbitration agreements. Section 8 of the Arbitration Act: Referral to arbitration.",
+    "Context": "Validity of arbitration agreements, grounds for challenging an arbitration agreement, court's power to enforce arbitration agreements."
+  }
+]
+```

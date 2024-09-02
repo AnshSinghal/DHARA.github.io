@@ -1,0 +1,58 @@
+```json
+[
+  {
+    "Query": "A company, 'ABC Enterprises', has filed an execution application for an arbitral award against 'XYZ Limited' before the Commercial Court. 'XYZ Limited' has argued that the Commercial Court lacks jurisdiction and filed an application to have the execution application returned to the original court in Delhi. The Commercial Court dismissed the application.  Can 'XYZ Limited' appeal this decision to the High Court?",
+    "Legal Principles": "The right to appeal against an order of a Commercial Court depends on the provisions of the Commercial Courts Act, 2015, and the Arbitration and Conciliation Act, 1996.  The Supreme Court has held that appeals against orders passed by the Commercial Court are restricted to those explicitly mentioned in Section 13 of the Commercial Courts Act and Section 37 of the Arbitration Act.",
+    "Relevant Sections": "Section 13(1) of the Commercial Courts Act, 2015, Section 37 of the Arbitration and Conciliation Act, 1996.",
+    "Context": "The query concerns the appealability of an order passed by a Commercial Court in an arbitration execution proceeding. The relevant jurisdiction is the High Court, and the case type is an appeal against an order regarding jurisdiction."
+  },
+  {
+    "Query": "A contractor, 'BuildRight Construction', has been awarded an arbitration award against a developer, 'Skyline Properties', for a construction project. 'Skyline Properties' filed a Section 34 application to set aside the award in the Delhi High Court, which was dismissed for being time-barred.  'BuildRight Construction' then initiated execution proceedings for the award in the Commercial Court.  'Skyline Properties' filed an application to stay execution pending the appeal of the Section 34 dismissal, which was rejected by the Commercial Court.  Can 'Skyline Properties' appeal this decision to the High Court?",
+    "Legal Principles": "An order refusing to stay execution of an arbitral award pending the outcome of an appeal against the award itself is not considered appealable under the Commercial Courts Act or the Arbitration Act. Appeals are limited to orders specifically enumerated in these statutes.",
+    "Relevant Sections": "Section 13(1) of the Commercial Courts Act, 2015, Section 37 of the Arbitration and Conciliation Act, 1996.",
+    "Context": "The query involves an application to stay execution of an arbitral award pending an appeal. The relevant jurisdiction is the High Court, and the case type is an appeal against an order refusing to grant a stay."
+  },
+  {
+    "Query": "A party, 'Tech Solutions', is facing an execution application for an arbitral award in the Commercial Court. They argue that the award is invalid because of procedural irregularities and file an application under Section 34 of the Arbitration Act. The Commercial Court dismisses the application, finding no merit in the arguments. Can 'Tech Solutions' appeal this decision to the High Court?",
+    "Legal Principles": "An order rejecting a Section 34 application to set aside an arbitral award is explicitly appealable under Section 37 of the Arbitration Act. This appeal can be filed in the Commercial Appellate Division of the High Court.",
+    "Relevant Sections": "Section 37(1)(c) of the Arbitration and Conciliation Act, 1996, Section 13(1) of the Commercial Courts Act, 2015.",
+    "Context": "The query concerns an appeal against a Commercial Court order dismissing a Section 34 application to set aside an arbitral award. The relevant jurisdiction is the High Court, and the case type is an appeal under Section 37 of the Arbitration Act."
+  },
+  {
+    "Query": "Two companies, 'Alpha Inc.' and 'Beta Corp.', have a dispute over a contract.  They agree to refer the dispute to arbitration. The Arbitrator issues an award in favor of 'Alpha Inc.'  'Beta Corp.' seeks to challenge the award in the Commercial Court, alleging procedural irregularities. The Commercial Court dismisses the challenge and orders the execution of the award.  Can 'Beta Corp.' appeal this decision to the High Court?",
+    "Legal Principles": "The appealability of the Commercial Court's decision depends on the specific grounds for challenging the award. If the grounds fall under Section 37 of the Arbitration Act, then an appeal to the High Court is allowed. If the grounds are not covered by Section 37, the appeal is not maintainable.",
+    "Relevant Sections": "Section 13(1) of the Commercial Courts Act, 2015, Section 37 of the Arbitration and Conciliation Act, 1996.",
+    "Context": "The query involves an appeal against a Commercial Court order dismissing a challenge to an arbitral award. The relevant jurisdiction is the High Court, and the case type is an appeal under Section 37 of the Arbitration Act."
+  },
+  {
+    "Query": "A company, 'Green Energy Solutions', has secured an arbitral award against 'PowerGen Ltd.'  'Green Energy Solutions' files an execution application in the Commercial Court.  'PowerGen Ltd.' claims that the award is unenforceable due to a contractual provision that requires specific performance rather than monetary compensation. The Commercial Court rejects this argument and orders the execution of the award. Can 'PowerGen Ltd.' appeal this decision?",
+    "Legal Principles": "The appealability of the Commercial Court's decision will depend on whether the arguments raised by 'PowerGen Ltd.' fall under the grounds for appeal outlined in Section 37 of the Arbitration Act. If they do, an appeal is possible. If not, the appeal is not maintainable.",
+    "Relevant Sections": "Section 13(1) of the Commercial Courts Act, 2015, Section 37 of the Arbitration and Conciliation Act, 1996.",
+    "Context": "The query involves an appeal against a Commercial Court order upholding the enforceability of an arbitral award. The relevant jurisdiction is the High Court, and the case type is an appeal under Section 37 of the Arbitration Act."
+  },
+  {
+    "Query": "A software company, 'CodeTech', has been awarded an arbitral award against a client, 'MediaCorp', for breach of contract. 'CodeTech' files an execution application in the Commercial Court, which is opposed by 'MediaCorp' on the grounds that the award is unclear and ambiguous.  The Commercial Court rejects 'MediaCorp's' argument and orders the execution of the award.  Can 'MediaCorp' appeal this decision to the High Court?",
+    "Legal Principles": "An appeal against a Commercial Court's order regarding the execution of an arbitral award is generally permissible under Section 37 of the Arbitration Act if the grounds for appeal are included in the specified categories.  The appeal would be filed in the Commercial Appellate Division of the High Court.",
+    "Relevant Sections": "Section 13(1) of the Commercial Courts Act, 2015, Section 37 of the Arbitration and Conciliation Act, 1996.",
+    "Context": "The query concerns an appeal against a Commercial Court's order upholding the execution of an arbitral award. The relevant jurisdiction is the High Court, and the case type is an appeal under Section 37 of the Arbitration Act."
+  },
+  {
+    "Query": "A construction company, 'BuildWell', has an arbitral award against a property developer, 'Cityscape', for unpaid construction work.  'BuildWell' files an execution application in the Commercial Court.  'Cityscape' claims that 'BuildWell' has not fulfilled all contractual obligations and files an application to stay the execution pending the resolution of this issue. The Commercial Court rejects the application for a stay. Can 'Cityscape' appeal this decision to the High Court?",
+    "Legal Principles": "An order rejecting an application to stay execution of an arbitral award pending the resolution of a related issue is generally not appealable under Section 37 of the Arbitration Act, unless there are specific grounds for appeal related to the award itself. The appealability depends on the specific circumstances of the case.",
+    "Relevant Sections": "Section 13(1) of the Commercial Courts Act, 2015, Section 37 of the Arbitration and Conciliation Act, 1996.",
+    "Context": "The query concerns an appeal against a Commercial Court's order refusing to grant a stay of execution. The relevant jurisdiction is the High Court, and the case type is an appeal under Section 37 of the Arbitration Act."
+  },
+  {
+    "Query": "A company, 'Global Trading', is facing an execution application for an arbitral award in the Commercial Court.  They argue that the award is based on fraudulent misrepresentation by the other party, 'International Exports'. The Commercial Court dismisses this claim and orders the execution of the award.  Can 'Global Trading' appeal this decision?",
+    "Legal Principles": "An appeal against a Commercial Court order rejecting an argument related to the validity of an arbitral award is generally allowed under Section 37 of the Arbitration Act. The appeal would be filed in the Commercial Appellate Division of the High Court.",
+    "Relevant Sections": "Section 13(1) of the Commercial Courts Act, 2015, Section 37 of the Arbitration and Conciliation Act, 1996.",
+    "Context": "The query concerns an appeal against a Commercial Court's order upholding the execution of an arbitral award. The relevant jurisdiction is the High Court, and the case type is an appeal under Section 37 of the Arbitration Act."
+  },
+  {
+    "Query": "A company, 'Creative Designs', has secured an arbitral award against a client, 'RetailMart', for unpaid design services. 'Creative Designs' files an execution application in the Commercial Court. 'RetailMart' argues that the arbitral tribunal lacked jurisdiction to decide the case.  The Commercial Court dismisses this argument and orders execution of the award. Can 'RetailMart' appeal this decision?",
+    "Legal Principles": "The appealability of this Commercial Court decision depends on whether the jurisdictional challenge raised by 'RetailMart' falls within the grounds for appeal listed in Section 37 of the Arbitration Act. If it does, an appeal is allowed. If not, the appeal is not maintainable.",
+    "Relevant Sections": "Section 13(1) of the Commercial Courts Act, 2015, Section 37 of the Arbitration and Conciliation Act, 1996.",
+    "Context": "The query concerns an appeal against a Commercial Court's order regarding the execution of an arbitral award. The relevant jurisdiction is the High Court, and the case type is an appeal under Section 37 of the Arbitration Act."
+  }
+]
+```

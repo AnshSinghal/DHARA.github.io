@@ -1,0 +1,149 @@
+## 1. Case Title
+
+* **Case Name:** M/S. M.G. Mohanty And Another vs State Of Odisha And Others
+* **Court:** Orissa High Court
+* **Date of Judgment:** 8th April 2022
+* **Citation:**  Not provided in the text.
+
+## 2. Background and Context
+
+**Brief Overview:**
+This case involves five writ petitions challenging a notification issued by the State of Odisha establishing Commercial Courts under the Commercial Courts Act, 2015 (CC Act). The petitioners, various businesses and individuals engaged in arbitration proceedings, argue that the notification, by conferring jurisdiction on Senior Civil Judges (Commercial Courts), violates the provisions of the Arbitration and Conciliation Act, 1996 (A&C Act) which requires such matters to be heard by the Principal Civil Court (District & Sessions Judge). 
+
+**Key Issues:**
+1. Whether jurisdiction under Sections 9, 14, 34, etc., of the A&C Act can be conferred on a judicial officer subordinate to the rank of a District Judge (i.e., Principal Civil Judge).
+2. Whether the State Government's power under the CC Act overrides the provisions of the A&C Act, particularly Section 42.
+
+## 3. Legal Principles Involved
+
+**Relevant Statutes and Provisions:**
+
+* **Arbitration and Conciliation Act, 1996 (A&C Act):**
+    * Section 2(1)(e): Defines "Court" as the Principal Civil Court of original jurisdiction in a district, excluding Courts of inferior rank.
+    * Section 9: Provisions for interim reliefs in arbitration proceedings.
+    * Section 14: Provisions for termination of mandate of an arbitrator.
+    * Section 34: Provisions for challenging an arbitral award.
+    * Section 37: Provisions for appeals against orders under the A&C Act.
+    * Section 42: Provides that once an application under the A&C Act is made in a Court, that Court shall have exclusive jurisdiction over the arbitral proceedings.
+* **Commercial Courts Act, 2015 (CC Act):**
+    * Section 2(1)(b): Defines "Commercial Court."
+    * Section 3: Provisions for the constitution of Commercial Courts by the State Government in consultation with the High Court.
+    * Section 3A: Provisions for the constitution of Commercial Appellate Courts.
+    * Section 10: Deals with jurisdiction of Commercial Courts in respect of arbitration matters, including both international and domestic arbitrations.
+    * Section 15(2): Provisions for the transfer of pending cases, including arbitration applications, to Commercial Courts.
+    * Section 21: Provides that the CC Act has overriding effect, notwithstanding any inconsistent provisions in other laws.
+* **Orissa Civil Courts Act, 1984 (OCC Act):**
+    * Section 2: Defines classes of Civil Courts, including the Court of the District Judge as the principal Court of original civil jurisdiction in the district.
+
+**Precedents Cited:**
+
+* **Kandla Export Corporation v. OCI Corporation (2018) 14 SCC 715:** The Supreme Court held that the A&C Act is a special statute and prevails over the CC Act, which is a general statute.
+* **Fuerst Day Lawson Ltd v. Jindal Exports Ltd. (2011) 8 SCC 333:** This case is cited in Kandla Export Corporation to support the characterization of the CC Act as a general statute. 
+* **Innoventive Industries Ltd. v. ICICI Bank and others (2018) 1 SCC 407:** The Court emphasizes the need for clear and irreconcilable inconsistency between statutes before holding them to be in direct collision.
+* **New India Assurance Company Limited v. Shanti Misra (1975) 2 SCC 840:**  This case holds that a change in law concerning procedural matters operates retrospectively, requiring parties to proceed in the new forum even if their cause of action arose prior to the change.
+* **State of Maharashtra, through Executive Engineer v. Atlanta Limited (2014) 11 SCC 619:**  This case is relied upon by the Madhya Pradesh High Court in Yashwardhan Raghuwanshi to emphasize the Court of the District Judge as the superior most jurisdiction in a district.
+* **Yashwardhan Raghuwanshi v. District & Sessions Judge 2021 SCC OnLine MP 457:** The Madhya Pradesh High Court held that only a Court of the status of District Judge or Additional District Judge can handle arbitration matters under the A&C Act, rejecting the assignment of such matters to Civil Judge Class-I.
+* **Apollo Real Estate LLP v. Dr. Arun Waghmare 2019 SCC OnLine MP 2570:**  This case, not referenced in Yashwardhan Raghuwanshi, comes to a different conclusion, favoring the applicability of Section 10(2) and 15(2) of the CC Act over the A&C Act.
+* **Gaurang Mangesh Suctancar v. Sonia Gaurang Suctancar:**  The Bombay High Court, in this case, concludes that the provisions of the CC Act prevail over the A&C Act. 
+
+**Legal Doctrines:**
+
+* **Generalia Specialibus Non-Derogant:** This maxim suggests that general law should not override special law. However, the Court rejects the applicability of this maxim in this case, arguing that both the A&C Act and the CC Act are special statutes, and the later enacted CC Act should prevail.
+* **Harmonious Construction:**  The Court emphasizes the need to interpret the provisions of the two statutes in a way that ensures they co-exist harmoniously.
+* **Purposive Construction:** The Court considers the objectives and purposes of both the CC Act and the A&C Act, focusing on their shared goal of providing for speedy resolution of disputes.
+
+## 4. Arguments Presented
+
+**Plaintiff’s Argument (Petitioners):**
+
+* The A&C Act is a special statute, and its provisions regarding the definition of "Court" and the exclusive jurisdiction of the Principal Civil Court prevail over the general provisions of the CC Act.
+* The maxim "generalia specialibus non-derogant" applies, meaning that the general law of the CC Act should yield to the special law of the A&C Act.
+* Section 21 of the CC Act, which provides for overriding effect, does not override the provisions of the A&C Act.
+* Reliance on the decision in Kandla Export Corporation v. OCI Corporation to support the argument that the A&C Act prevails.
+* Reliance on the Madhya Pradesh High Court judgment in Yashwardhan Raghuwanshi to support the argument that arbitration matters should be heard only by Courts of the status of District Judge or Additional District Judge.
+
+**Defendant’s Argument (Opposite Parties):**
+
+* There is no apparent conflict between the A&C Act and the CC Act; both are special statutes, and the later enacted CC Act prevails.
+* The inconsistency between the two Acts must be clear, direct, and irreconcilable (based on Innoventive Industries).
+* A purposive and harmonious construction should be applied, and the legislature intended to provide a specific forum (Commercial Courts) for resolving arbitration disputes under the CC Act.
+* The CC Act aims at speedy adjudication of commercial disputes, including arbitration matters, and its procedural provisions can co-exist harmoniously with the substantive provisions of the A&C Act.
+* Reliance on the decision in New India Assurance Company Limited v. Shanti Misra to argue that the change in forum (from Principal Civil Court to Commercial Court) operates retrospectively.
+* Reliance on the Bombay High Court judgment in Gaurang Mangesh Suctancar to argue that the CC Act prevails over the A&C Act.
+* The CC Act provides for a two-tier system of Commercial Courts, with original jurisdiction at a lower level and appellate jurisdiction at the District Judge level, which ensures proper adjudication of commercial disputes.
+
+## 5. Court’s Analysis and Reasoning
+
+**Key Findings:**
+
+* The Court rejects the Petitioners' argument that the A&C Act is a special statute and the CC Act is a general statute.
+* The Court recognizes that both Acts are special statutes, and the CC Act, being later in time, should prevail over the A&C Act.
+* The Court finds no clear, direct, and irreconcilable inconsistency between the A&C Act and the CC Act.
+* The Court highlights the legislative intent behind the CC Act, which aimed to create a specific mechanism for the speedy resolution of commercial disputes, including arbitration matters.
+* The Court considers the provisions of Section 10(3) and 15(2) of the CC Act to be consistent with the objective of providing a streamlined and expeditious process for handling arbitration cases.
+
+**Interpretation of Law:**
+
+* The Court interprets the definition of "Court" in the A&C Act to apply to the Principal Civil Court, but it recognizes that the CC Act has introduced a distinct forum for handling commercial disputes, including arbitration matters.
+* The Court clarifies that the maxim "generalia specialibus non-derogant" does not apply in this case due to the fact that both Acts are special statutes.
+* The Court emphasizes the harmonious construction approach, recognizing that both Acts aim to achieve the same objective of speedy resolution of disputes.
+
+**Application of Law:**
+
+* The Court applies the principle of harmonious construction to reconcile the provisions of the A&C Act and the CC Act, finding no conflict in their objectives.
+* The Court upholds the validity of the notification issued by the State of Odisha establishing Commercial Courts, finding no arbitrariness in the provisions of the CC Act.
+* The Court accepts the reasoning of the Bombay High Court in Gaurang Mangesh Suctancar, which concludes that the CC Act prevails over the A&C Act.
+* The Court rejects the Petitioners' argument based on the decision in Kandla Export Corporation, noting that the issue there concerned appeals under the A&C Act, which is not relevant in this case.
+* The Court also rejects the reasoning of the Madhya Pradesh High Court in Yashwardhan Raghuwanshi, finding it inconsistent with the objectives and intent of the CC Act.
+
+## 6. Judgment
+
+**Final Decision:** 
+The petitions are dismissed, meaning the Court upholds the validity of the notification issued by the State of Odisha establishing Commercial Courts.
+
+**Relief Granted:**
+No specific relief is granted to the Petitioners.
+
+**Orders:**
+The interim orders previously issued by the Court are vacated.
+
+## 7. Implications
+
+**Impact on Law:**
+This judgment clarifies the relationship between the A&C Act and the CC Act, establishing the precedence of the latter in handling commercial disputes, including arbitration matters.
+
+**Future Relevance:**
+This judgment is likely to influence future legal decisions regarding the jurisdiction of Commercial Courts in Odisha and potentially other states where similar legislation exists. 
+
+**Broader Context:**
+The case highlights the ongoing efforts to streamline commercial dispute resolution processes in India, balancing the need for speedy adjudication with the principles of fairness and due process. 
+
+## 8. Summary Points
+
+* The Orissa High Court upheld the validity of the State Government's notification establishing Commercial Courts under the CC Act.
+* The Court found no conflict between the CC Act and the A&C Act, emphasizing that both Acts are special statutes with the later-enacted CC Act prevailing.
+* The Court concluded that the CC Act, through its provisions for Commercial Courts, provides a specific forum for handling arbitration disputes efficiently and expeditiously. 
+* The Court rejected the petitioners' arguments based on the A&C Act and the maxim "generalia specialibus non-derogant," emphasizing the harmonious construction approach.
+
+## 9. References
+
+**Citations:** 
+
+* **Arbitration and Conciliation Act, 1996 (A&C Act)**
+* **Commercial Courts Act, 2015 (CC Act)**
+* **Orissa Civil Courts Act, 1984 (OCC Act)**
+* **Kandla Export Corporation v. OCI Corporation (2018) 14 SCC 715**
+* **Fuerst Day Lawson Ltd v. Jindal Exports Ltd. (2011) 8 SCC 333**
+* **Innoventive Industries Ltd. v. ICICI Bank and others (2018) 1 SCC 407**
+* **New India Assurance Company Limited v. Shanti Misra (1975) 2 SCC 840**
+* **State of Maharashtra, through Executive Engineer v. Atlanta Limited (2014) 11 SCC 619**
+* **Yashwardhan Raghuwanshi v. District & Sessions Judge 2021 SCC OnLine MP 457**
+* **Apollo Real Estate LLP v. Dr. Arun Waghmare 2019 SCC OnLine MP 2570**
+* **Gaurang Mangesh Suctancar v. Sonia Gaurang Suctancar**
+
+**Further Reading:**
+
+* **Principles of Statutory Interpretation by G.P. Singh** 
+* **Commercial Courts Act, 2015**
+* **Arbitration and Conciliation Act, 1996**
+* Other judgments concerning the relationship between the A&C Act and the CC Act. 

@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A plaintiff filed a commercial suit in the Bombay High Court and the defendant failed to file a written statement within the 120 days stipulated by the Commercial Courts Act. The defendant now seeks an extension of time to file the written statement, arguing that they were unable to do so due to unforeseen circumstances. Can the court grant the extension?",
+    "Legal Principles": "The Commercial Courts Act mandates a 120-day time limit for filing a written statement in commercial suits. This provision is mandatory and cannot be circumvented by the court's inherent powers or through the application of procedural rules like Order VIII Rule 9. However, the court can still exercise its discretion in certain exceptional circumstances. ",
+    "Relevant Sections": "Order VIII Rule 1 (as amended by the Commercial Courts Act), Order VIII Rule 9, Order VIII Rule 10, Section 16 of the Commercial Courts Act, Section 21 of the Commercial Courts Act.",
+    "Context": "Commercial suit in the Bombay High Court, jurisdiction of the court under the Commercial Courts Act, interpretation of mandatory provisions of the CPC, discretionary powers of the court."
+  },
+  {
+    "Query": "A defendant filed a commercial suit in the Bombay High Court and the plaintiff filed a list of documents with the plaint but failed to disclose all documents in their possession. The defendant argues that the plaint should be rejected under Order VII Rule 11 (d) as it is barred by law. Is the defendant's argument valid?",
+    "Legal Principles": "Order XI Rule 1 of the CPC, as substituted by the Commercial Courts Act, requires plaintiffs to disclose all documents in their possession, control, or custody with the plaint. However, the failure to do so does not automatically bar the suit.  Consequences for non-disclosure are outlined within Order XI itself. ",
+    "Relevant Sections": "Order XI Rule 1 (as amended by the Commercial Courts Act), Order VII Rule 11 (d) of the CPC.",
+    "Context": "Commercial suit in the Bombay High Court, jurisdiction of the court under the Commercial Courts Act, interpretation of mandatory provisions of the CPC, disclosure of documents, consequences of non-disclosure."
+  },
+  {
+    "Query": "A plaintiff filed a commercial suit in the Bombay High Court and the defendant, residing outside the jurisdiction of the court, filed a written statement without being served with the summons. The plaintiff argues that the written statement should not be accepted because the defendant did not receive proper service. Can the court accept the written statement?",
+    "Legal Principles": "The service of summons is essential for establishing the jurisdiction of the court and ensuring that the defendant is aware of the case they must answer. The defendant's written statement without proper service may be considered invalid. ",
+    "Relevant Sections": "Order V of the CPC,  Order VIII of the CPC, Section 16 of the Commercial Courts Act.",
+    "Context": "Commercial suit in the Bombay High Court, jurisdiction of the court, service of summons, procedural requirements, validity of written statement."
+  },
+  {
+    "Query": "A plaintiff filed a commercial suit in the Bombay High Court and the defendant, who filed a written statement within the stipulated time, seeks to amend the written statement to include additional arguments. The plaintiff opposes the amendment. Does the court have the power to allow the amendment?",
+    "Legal Principles": "Amendments to pleadings are allowed under Order VI of the CPC, but are subject to the discretion of the court. The court must consider factors like the stage of proceedings, the prejudice to the other party, and the reasons for the amendment. ",
+    "Relevant Sections": "Order VI of the CPC, Section 16 of the Commercial Courts Act.",
+    "Context": "Commercial suit in the Bombay High Court, jurisdiction of the court under the Commercial Courts Act, amendment of pleadings, discretionary powers of the court."
+  },
+  {
+    "Query": "A plaintiff filed a commercial suit in the Bombay High Court and the defendant, a foreign company, seeks to file a written statement in their own language. The plaintiff objects, arguing that all pleadings should be in English. Can the court allow the defendant to file a statement in a foreign language?",
+    "Legal Principles": "The language of pleadings is governed by the provisions of the CPC. The court has the discretion to allow pleadings in a foreign language if it is satisfied that justice requires it. ",
+    "Relevant Sections": "Order VI of the CPC, Section 16 of the Commercial Courts Act.",
+    "Context": "Commercial suit in the Bombay High Court, jurisdiction of the court under the Commercial Courts Act, language of pleadings, foreign language,  discretionary powers of the court."
+  },
+  {
+    "Query": "A plaintiff filed a commercial suit in the Bombay High Court and the defendant argues that the suit should be dismissed for want of prosecution, alleging that the plaintiff has not taken any steps in the case for several months. Can the court dismiss the suit for want of prosecution?",
+    "Legal Principles": "Suits can be dismissed for want of prosecution under Order XVII of the CPC if the plaintiff fails to take necessary steps to prosecute the case. The court must consider factors like the length of the delay, the reason for the delay, and the prejudice to the defendant. ",
+    "Relevant Sections": "Order XVII of the CPC, Section 16 of the Commercial Courts Act.",
+    "Context": "Commercial suit in the Bombay High Court, jurisdiction of the court under the Commercial Courts Act, dismissal of suit, want of prosecution,  discretionary powers of the court."
+  },
+  {
+    "Query": "A plaintiff filed a commercial suit in the Bombay High Court seeking a permanent injunction against the defendant. The defendant seeks to have the suit transferred to another court with jurisdiction over the subject matter of the dispute. Does the court have the power to transfer the suit?",
+    "Legal Principles": "Suits can be transferred from one court to another with jurisdiction over the subject matter under Section 24 of the CPC. The court must consider factors like the convenience of the parties, the efficiency of justice, and the location of witnesses and evidence. ",
+    "Relevant Sections": "Section 24 of the CPC, Section 16 of the Commercial Courts Act.",
+    "Context": "Commercial suit in the Bombay High Court, jurisdiction of the court under the Commercial Courts Act, transfer of suit, discretionary powers of the court."
+  },
+  {
+    "Query": "A plaintiff filed a commercial suit in the Bombay High Court and the defendant argues that the suit should be dismissed because the plaintiff is not the real party in interest. Can the court dismiss the suit based on this argument?",
+    "Legal Principles": "Suits can be dismissed if the plaintiff is not the real party in interest, meaning they do not have a legal right to bring the claim. The court must consider factors like the plaintiff's standing, the nature of the claim, and the evidence presented. ",
+    "Relevant Sections": "Order II of the CPC, Section 16 of the Commercial Courts Act.",
+    "Context": "Commercial suit in the Bombay High Court, jurisdiction of the court under the Commercial Courts Act, dismissal of suit, real party in interest,  discretionary powers of the court."
+  },
+  {
+    "Query": "A plaintiff filed a commercial suit in the Bombay High Court and the defendant seeks to challenge the jurisdiction of the court, arguing that the suit should be heard in a different court. Does the court have the power to determine its own jurisdiction?",
+    "Legal Principles": "Courts have the inherent power to determine their own jurisdiction. The court must consider the facts of the case, the nature of the dispute, and the relevant legal principles to decide if it has jurisdiction. ",
+    "Relevant Sections": "Section 16 of the Commercial Courts Act.",
+    "Context": "Commercial suit in the Bombay High Court, jurisdiction of the court under the Commercial Courts Act, challenge to jurisdiction,  discretionary powers of the court."
+  },
+  {
+    "Query": "A plaintiff filed a commercial suit in the Bombay High Court and the defendant argues that the suit should be dismissed because the plaintiff has already filed a similar suit in another court. Can the court dismiss the suit based on this argument?",
+    "Legal Principles": "The principle of res judicata prohibits the relitigation of matters that have already been decided by a competent court. The court must consider factors like the identity of the parties, the subject matter of the dispute, and the outcome of the previous litigation. ",
+    "Relevant Sections": "Section 11 of the CPC, Section 16 of the Commercial Courts Act.",
+    "Context": "Commercial suit in the Bombay High Court, jurisdiction of the court under the Commercial Courts Act, dismissal of suit, res judicata,  discretionary powers of the court."
+  }
+]
+```

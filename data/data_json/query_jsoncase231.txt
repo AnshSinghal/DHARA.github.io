@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A plaintiff has filed an IPR suit valuing it below Rs. 3 lakhs. The defendant argues that this undervaluation is deliberate to avoid the application of the Commercial Courts Act, 2015. Should the suit be treated as a non-commercial suit, or should the plaintiff be compelled to amend the plaint and pay higher court fees?",
+    "Legal Principles": "Dominus litis, specified value under the Commercial Courts Act, 2015, valuation of suits for court fees under the Court Fees Act, 1870, harmonious construction of statutes.",
+    "Relevant Sections": "Section 2(1)(c)(xvii), Section 12(1)(d) of the Commercial Courts Act, 2015, Section 7 of the Court Fees Act, 1870",
+    "Context": "IPR suit valued below Rs. 3 lakhs, application of Commercial Courts Act, 2015, determination of specified value, court fees."
+  },
+  {
+    "Query": "A company has filed a suit for trademark infringement, valuing it at Rs. 2 lakhs. The defendant argues that the suit should be tried by a commercial court as the subject matter involves intellectual property rights. The plaintiff contends that the suit value determines jurisdiction, and the matter should be tried by a non-commercial court.",
+    "Legal Principles": "Jurisdiction of commercial courts, specified value under the Commercial Courts Act, 2015, valuation of suits based on relief claimed, distinction between subject matter and relief sought.",
+    "Relevant Sections": "Section 2(1)(c)(xvii), Section 12 of the Commercial Courts Act, 2015",
+    "Context": "Trademark infringement suit, jurisdiction of commercial courts, valuation of suits, specified value."
+  },
+  {
+    "Query": "A plaintiff has filed a copyright infringement suit, valuing it at Rs. 1 lakh. The defendant argues that the plaintiff deliberately undervalued the suit to avoid the application of the Commercial Courts Act, 2015. The plaintiff contends that the valuation is based on the relief sought, and the suit should be tried by a non-commercial court.",
+    "Legal Principles": "Dominus litis, specified value under the Commercial Courts Act, 2015, valuation of suits for court fees under the Court Fees Act, 1870, burden of proof for undervaluation.",
+    "Relevant Sections": "Section 2(1)(c)(xvii), Section 12 of the Commercial Courts Act, 2015, Section 7 of the Court Fees Act, 1870",
+    "Context": "Copyright infringement suit, jurisdiction of commercial courts, valuation of suits, specified value."
+  },
+  {
+    "Query": "A plaintiff has filed a suit for passing off, valuing it at Rs. 2.5 lakhs. The defendant argues that the suit should be tried by a commercial court as the subject matter involves intellectual property rights. The plaintiff contends that the suit value determines jurisdiction, and the matter should be tried by a non-commercial court.",
+    "Legal Principles": "Jurisdiction of commercial courts, specified value under the Commercial Courts Act, 2015, valuation of suits based on relief claimed, distinction between subject matter and relief sought.",
+    "Relevant Sections": "Section 2(1)(c)(xvii), Section 12 of the Commercial Courts Act, 2015",
+    "Context": "Passing off suit, jurisdiction of commercial courts, valuation of suits, specified value."
+  },
+  {
+    "Query": "A plaintiff has filed a suit for infringement of design rights, valuing it at Rs. 1.5 lakhs. The defendant argues that the plaintiff deliberately undervalued the suit to avoid the application of the Commercial Courts Act, 2015. The plaintiff contends that the valuation is based on the relief sought, and the suit should be tried by a non-commercial court.",
+    "Legal Principles": "Dominus litis, specified value under the Commercial Courts Act, 2015, valuation of suits for court fees under the Court Fees Act, 1870, burden of proof for undervaluation.",
+    "Relevant Sections": "Section 2(1)(c)(xvii), Section 12 of the Commercial Courts Act, 2015, Section 7 of the Court Fees Act, 1870",
+    "Context": "Design rights infringement suit, jurisdiction of commercial courts, valuation of suits, specified value."
+  },
+  {
+    "Query": "A plaintiff has filed a suit for patent infringement, valuing it at Rs. 2 lakhs. The defendant argues that the suit should be tried by a commercial court as the subject matter involves intellectual property rights. The plaintiff contends that the suit value determines jurisdiction, and the matter should be tried by a non-commercial court.",
+    "Legal Principles": "Jurisdiction of commercial courts, specified value under the Commercial Courts Act, 2015, valuation of suits based on relief claimed, distinction between subject matter and relief sought.",
+    "Relevant Sections": "Section 2(1)(c)(xvii), Section 12 of the Commercial Courts Act, 2015",
+    "Context": "Patent infringement suit, jurisdiction of commercial courts, valuation of suits, specified value."
+  },
+  {
+    "Query": "A company has filed a suit for recovery of unpaid royalties, valuing it at Rs. 1.8 lakhs. The defendant argues that the suit should be tried by a commercial court as the subject matter involves intellectual property rights. The plaintiff contends that the suit value determines jurisdiction, and the matter should be tried by a non-commercial court.",
+    "Legal Principles": "Jurisdiction of commercial courts, specified value under the Commercial Courts Act, 2015, valuation of suits based on relief claimed, distinction between subject matter and relief sought.",
+    "Relevant Sections": "Section 2(1)(c)(xvii), Section 12 of the Commercial Courts Act, 2015",
+    "Context": "Royalties recovery suit, jurisdiction of commercial courts, valuation of suits, specified value."
+  },
+  {
+    "Query": "A plaintiff has filed a suit for declaration of ownership of a trademark, valuing it at Rs. 2.2 lakhs. The defendant argues that the suit should be tried by a commercial court as the subject matter involves intellectual property rights. The plaintiff contends that the suit value determines jurisdiction, and the matter should be tried by a non-commercial court.",
+    "Legal Principles": "Jurisdiction of commercial courts, specified value under the Commercial Courts Act, 2015, valuation of suits based on relief claimed, distinction between subject matter and relief sought.",
+    "Relevant Sections": "Section 2(1)(c)(xvii), Section 12 of the Commercial Courts Act, 2015",
+    "Context": "Trademark ownership declaration suit, jurisdiction of commercial courts, valuation of suits, specified value."
+  },
+  {
+    "Query": "A plaintiff has filed a suit for injunction to restrain the defendant from using a confusingly similar trademark, valuing it at Rs. 1.6 lakhs. The defendant argues that the suit should be tried by a commercial court as the subject matter involves intellectual property rights. The plaintiff contends that the suit value determines jurisdiction, and the matter should be tried by a non-commercial court.",
+    "Legal Principles": "Jurisdiction of commercial courts, specified value under the Commercial Courts Act, 2015, valuation of suits based on relief claimed, distinction between subject matter and relief sought.",
+    "Relevant Sections": "Section 2(1)(c)(xvii), Section 12 of the Commercial Courts Act, 2015",
+    "Context": "Trademark infringement injunction suit, jurisdiction of commercial courts, valuation of suits, specified value."
+  },
+  {
+    "Query": "A plaintiff has filed a suit for damages arising from copyright infringement, valuing it at Rs. 1.9 lakhs. The defendant argues that the suit should be tried by a commercial court as the subject matter involves intellectual property rights. The plaintiff contends that the suit value determines jurisdiction, and the matter should be tried by a non-commercial court.",
+    "Legal Principles": "Jurisdiction of commercial courts, specified value under the Commercial Courts Act, 2015, valuation of suits based on relief claimed, distinction between subject matter and relief sought.",
+    "Relevant Sections": "Section 2(1)(c)(xvii), Section 12 of the Commercial Courts Act, 2015",
+    "Context": "Copyright infringement damages suit, jurisdiction of commercial courts, valuation of suits, specified value."
+  }
+]
+```

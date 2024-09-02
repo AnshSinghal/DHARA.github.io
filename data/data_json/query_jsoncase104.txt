@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A construction company, ABC Builders, was awarded a contract to build a new school building.  The contract included an arbitration clause.  The government, the contracting party, terminated the contract, alleging that ABC Builders breached the contract terms. ABC Builders filed an application for interim measures with the arbitral tribunal, which granted a status quo order. The government appealed the arbitral tribunal's order to the Commercial Court, which dismissed the appeal. The government now seeks to appeal the Commercial Court's decision. Is the government's appeal maintainable?",
+    "Legal Principles": "The principle of finality of judgments, the self-contained nature of the Arbitration Act, and the exclusivity of the appeal process under Section 37 of the Arbitration Act.",
+    "Relevant Sections": "Section 37 of the Arbitration Act, Section 2(1)(e)(i) of the Arbitration Act, Section 10(3) of the Commercial Courts Act, 2015",
+    "Context": "Appeal against an order of the Commercial Court concerning an arbitral tribunal's decision on interim measures, under the Arbitration and Conciliation Act, 1996 and the Commercial Courts Act, 2015."
+  },
+  {
+    "Query": "A dispute arose between a technology company, Tech Solutions, and its client, XYZ Corporation, regarding a software development contract. The contract contained an arbitration clause. Tech Solutions filed an application with the arbitral tribunal for an interim measure to freeze XYZ Corporation's assets, which was granted. XYZ Corporation appealed this order to the Commercial Court, which dismissed the appeal. Tech Solutions now seeks to enforce the arbitral tribunal's order.  What is the legal basis for enforcing the arbitral tribunal's order?",
+    "Legal Principles": "Enforcement of arbitral awards, the finality of judgments, the power of courts to enforce arbitral orders, and the self-contained nature of the Arbitration Act.",
+    "Relevant Sections": "Section 37 of the Arbitration Act, Section 2(1)(e)(i) of the Arbitration Act, Section 10(3) of the Commercial Courts Act, 2015",
+    "Context": "Enforcement of an interim measure order granted by an arbitral tribunal, under the Arbitration and Conciliation Act, 1996 and the Commercial Courts Act, 2015."
+  },
+  {
+    "Query": "Two parties, Alpha Enterprises and Beta Industries, entered into a contract for the supply of raw materials.  The contract included an arbitration clause. A dispute arose concerning the quality of the materials supplied.  Alpha Enterprises filed an application with the arbitral tribunal for a preliminary injunction to prevent Beta Industries from supplying the materials to any other party. The arbitral tribunal denied the application.  Alpha Enterprises appealed this decision to the Commercial Court, which upheld the arbitral tribunal's decision. Can Alpha Enterprises appeal this decision further?",
+    "Legal Principles": "The principle of finality of judgments, the self-contained nature of the Arbitration Act, and the exclusivity of the appeal process under Section 37 of the Arbitration Act.",
+    "Relevant Sections": "Section 37 of the Arbitration Act, Section 2(1)(e)(i) of the Arbitration Act, Section 10(3) of the Commercial Courts Act, 2015",
+    "Context": "Appeal against an order of the Commercial Court upholding an arbitral tribunal's decision on an application for interim measures, under the Arbitration and Conciliation Act, 1996 and the Commercial Courts Act, 2015."
+  },
+  {
+    "Query": "A real estate developer, Prime Properties, entered into a contract to purchase a large parcel of land from a private owner. The contract contained an arbitration clause.  Prime Properties failed to make the agreed-upon payments, and the private owner initiated arbitration proceedings. The arbitral tribunal issued a ruling in favor of the private owner, ordering Prime Properties to pay the outstanding amount. Prime Properties appealed the arbitral tribunal's decision to the Commercial Court.  Can the Commercial Court set aside the arbitral award?",
+    "Legal Principles": "Grounds for setting aside an arbitral award, the principle of finality of judgments, and the powers of the Commercial Court under the Arbitration and Conciliation Act, 1996.",
+    "Relevant Sections": "Section 34 of the Arbitration Act, Section 37 of the Arbitration Act, Section 2(1)(e)(i) of the Arbitration Act, Section 10(3) of the Commercial Courts Act, 2015",
+    "Context": "Appeal against an order of the Commercial Court concerning an arbitral tribunal's decision on a final award, under the Arbitration and Conciliation Act, 1996 and the Commercial Courts Act, 2015."
+  },
+  {
+    "Query": "A dispute arose between a manufacturing company, Steelworks Inc., and its supplier, Raw Materials Co., regarding a contract for the supply of steel.  The contract contained an arbitration clause.  Steelworks Inc. filed a claim with the arbitral tribunal, alleging breach of contract. Raw Materials Co. filed a counterclaim.  The arbitral tribunal issued an order granting Steelworks Inc. interim relief.  Raw Materials Co. appealed this order to the Commercial Court.  What is the correct forum for appealing the arbitral tribunal's order?",
+    "Legal Principles": "The principle of finality of judgments, the self-contained nature of the Arbitration Act, and the exclusivity of the appeal process under Section 37 of the Arbitration Act.",
+    "Relevant Sections": "Section 37 of the Arbitration Act, Section 2(1)(e)(i) of the Arbitration Act, Section 10(3) of the Commercial Courts Act, 2015",
+    "Context": "Appeal against an order of the Commercial Court concerning an arbitral tribunal's decision on an application for interim measures, under the Arbitration and Conciliation Act, 1996 and the Commercial Courts Act, 2015."
+  },
+  {
+    "Query": "A software developer, Code Solutions, and a technology company, Tech Innovations, entered into a contract for the development of a new software application. The contract contained an arbitration clause.  A dispute arose regarding the scope of the work and the payment terms.  Code Solutions filed an application with the arbitral tribunal to compel Tech Innovations to participate in arbitration. Tech Innovations argued that the arbitration clause was invalid. The arbitral tribunal dismissed Code Solutions' application.  Can Code Solutions appeal the arbitral tribunal's decision?",
+    "Legal Principles": "The principle of finality of judgments, the self-contained nature of the Arbitration Act, and the exclusivity of the appeal process under Section 37 of the Arbitration Act.",
+    "Relevant Sections": "Section 8 of the Arbitration Act, Section 37 of the Arbitration Act, Section 2(1)(e)(i) of the Arbitration Act, Section 10(3) of the Commercial Courts Act, 2015",
+    "Context": "Appeal against an order of the Commercial Court concerning an arbitral tribunal's decision on an application to compel arbitration, under the Arbitration and Conciliation Act, 1996 and the Commercial Courts Act, 2015."
+  },
+  {
+    "Query": "A construction company, Build Right, was awarded a contract to construct a new bridge for the state government. The contract contained an arbitration clause. Build Right encountered delays and additional costs due to unforeseen geological conditions.  Build Right filed a claim with the arbitral tribunal seeking compensation.  The arbitral tribunal issued an award in favor of Build Right.  The government appealed the arbitral award to the Commercial Court.  What are the grounds on which the Commercial Court can set aside the arbitral award?",
+    "Legal Principles": "Grounds for setting aside an arbitral award, the principle of finality of judgments, and the powers of the Commercial Court under the Arbitration and Conciliation Act, 1996.",
+    "Relevant Sections": "Section 34 of the Arbitration Act, Section 37 of the Arbitration Act, Section 2(1)(e)(i) of the Arbitration Act, Section 10(3) of the Commercial Courts Act, 2015",
+    "Context": "Appeal against an order of the Commercial Court concerning an arbitral tribunal's decision on a final award, under the Arbitration and Conciliation Act, 1996 and the Commercial Courts Act, 2015."
+  },
+  {
+    "Query": "A retail company, Fashion Outlet, and a clothing manufacturer, Apparel Inc., entered into a contract for the supply of clothing items. The contract contained an arbitration clause.  Fashion Outlet filed an application with the arbitral tribunal for a preliminary injunction to prevent Apparel Inc. from supplying the clothing to any other retailer. The arbitral tribunal granted the injunction.  Apparel Inc. appealed this decision to the Commercial Court. Can the Commercial Court review the arbitral tribunal's decision on the injunction?",
+    "Legal Principles": "The principle of finality of judgments, the self-contained nature of the Arbitration Act, and the exclusivity of the appeal process under Section 37 of the Arbitration Act.",
+    "Relevant Sections": "Section 17 of the Arbitration Act, Section 37 of the Arbitration Act, Section 2(1)(e)(i) of the Arbitration Act, Section 10(3) of the Commercial Courts Act, 2015",
+    "Context": "Appeal against an order of the Commercial Court concerning an arbitral tribunal's decision on an application for interim measures, under the Arbitration and Conciliation Act, 1996 and the Commercial Courts Act, 2015."
+  },
+  {
+    "Query": "A pharmaceutical company, MedTech, and a medical device manufacturer, BioDevices, entered into a contract for the supply of medical devices. The contract contained an arbitration clause.  A dispute arose regarding the quality of the devices supplied.  MedTech filed a claim with the arbitral tribunal seeking damages.  BioDevices filed a counterclaim.  The arbitral tribunal issued an order requiring BioDevices to provide certain documents.  BioDevices appealed this order to the Commercial Court.  What is the correct forum for appealing the arbitral tribunal's order?",
+    "Legal Principles": "The principle of finality of judgments, the self-contained nature of the Arbitration Act, and the exclusivity of the appeal process under Section 37 of the Arbitration Act.",
+    "Relevant Sections": "Section 37 of the Arbitration Act, Section 2(1)(e)(i) of the Arbitration Act, Section 10(3) of the Commercial Courts Act, 2015",
+    "Context": "Appeal against an order of the Commercial Court concerning an arbitral tribunal's decision on an application for interim measures, under the Arbitration and Conciliation Act, 1996 and the Commercial Courts Act, 2015."
+  },
+  {
+    "Query": "A technology company, Tech Solutions, and a software developer, Code Experts, entered into a contract for the development of a new software application. The contract contained an arbitration clause. A dispute arose regarding the intellectual property rights to the software. Tech Solutions filed an application with the arbitral tribunal to stay the proceedings pending the resolution of a related lawsuit in a regular court. The arbitral tribunal denied the application.  Tech Solutions appealed this decision to the Commercial Court.  Can the Commercial Court review the arbitral tribunal's decision on the stay of proceedings?",
+    "Legal Principles": "The principle of finality of judgments, the self-contained nature of the Arbitration Act, and the exclusivity of the appeal process under Section 37 of the Arbitration Act.",
+    "Relevant Sections": "Section 9 of the Arbitration Act, Section 37 of the Arbitration Act, Section 2(1)(e)(i) of the Arbitration Act, Section 10(3) of the Commercial Courts Act, 2015",
+    "Context": "Appeal against an order of the Commercial Court concerning an arbitral tribunal's decision on an application for interim measures, under the Arbitration and Conciliation Act, 1996 and the Commercial Courts Act, 2015."
+  }
+]
+```

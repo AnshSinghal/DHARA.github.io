@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A plaintiff in a commercial suit has been given multiple opportunities to adduce evidence but has failed to do so. The trial court closed the plaintiff's right to adduce evidence. Can the plaintiff challenge this order under Article 227 of the Constitution?",
+    "Legal Principles": "Supervisory jurisdiction under Article 227 of the Constitution, Commercial Courts Act, 2015, Expeditious disposal of commercial disputes, Time-bound procedures, Interference with trial court orders.",
+    "Relevant Sections": "Article 227 of the Constitution of India, Section 8, Section 12(3), Section 12A, Section 14, Section 16, Section 21 of the Commercial Courts Act, 2015.",
+    "Context": "The query concerns a plaintiff's attempt to challenge an interlocutory order of a Commercial Court under Article 227 of the Constitution. The case deals with the scope of supervisory jurisdiction and the balance between expeditious disposal of commercial disputes and the plaintiff's right to adduce evidence."
+  },
+  {
+    "Query": "A defendant in a commercial suit amended their written statement just before the trial court was about to close the plaintiff's right to adduce evidence. The trial court allowed the amendment and closed the plaintiff's right to adduce evidence. Can the plaintiff challenge this order?",
+    "Legal Principles": "Amendment of pleadings, Right to rebut amendments, Prejudice to the plaintiff, Time-bound procedures, Supervisory jurisdiction under Article 227 of the Constitution.",
+    "Relevant Sections": "Order 6 Rule 17 CPC, Article 227 of the Constitution of India.",
+    "Context": "The query involves a situation where a defendant's amendment to their written statement led to the closing of the plaintiff's right to adduce evidence. The judge is considering whether the plaintiff has a valid claim for judicial review under Article 227 of the Constitution."
+  },
+  {
+    "Query": "A commercial suit is pending for over 10 years. The plaintiff has repeatedly missed deadlines for adducing evidence despite being granted multiple opportunities. The trial court finally closed the plaintiff's right to adduce evidence. Is this a valid exercise of the trial court's power?",
+    "Legal Principles": "Expeditious disposal of commercial disputes, Time-bound procedures, Consequence of repeated defaults, Abuse of process, Supervisory jurisdiction under Article 227 of the Constitution.",
+    "Relevant Sections": "Commercial Courts Act, 2015, Article 227 of the Constitution of India.",
+    "Context": "The query focuses on the trial court's decision to close the plaintiff's right to adduce evidence after years of delays and missed deadlines. The judge is considering whether the trial court's action is justifiable in light of the principles of expeditious justice and the need to prevent abuse of process."
+  },
+  {
+    "Query": "A defendant in a commercial suit filed an application for appointment of a receiver. The trial court rejected the application. The defendant then amended their written statement to include additional arguments related to the receiver application. Can the plaintiff challenge this amendment?",
+    "Legal Principles": "Amendment of pleadings, Relevance of amendments, Prejudice to the plaintiff, Time-bound procedures, Supervisory jurisdiction under Article 227 of the Constitution.",
+    "Relevant Sections": "Order 6 Rule 17 CPC, Article 227 of the Constitution of India.",
+    "Context": "The query centers on whether the defendant's amendment to their written statement, which seemingly includes arguments related to a previously rejected application, is permissible and whether it prejudices the plaintiff. The judge is assessing the scope of judicial review under Article 227 of the Constitution."
+  },
+  {
+    "Query": "A plaintiff in a commercial suit failed to adduce evidence after the trial court allowed a defendant to amend their written statement. The trial court closed the plaintiff's right to adduce evidence. Can the plaintiff argue that they were unfairly prejudiced by the amendment?",
+    "Legal Principles": "Amendment of pleadings, Right to rebut amendments, Prejudice to the plaintiff, Time-bound procedures, Supervisory jurisdiction under Article 227 of the Constitution.",
+    "Relevant Sections": "Order 6 Rule 17 CPC, Article 227 of the Constitution of India.",
+    "Context": "The query examines whether the plaintiff can successfully argue that they were unfairly prejudiced by the defendant's amendment to their written statement, leading to the closure of their right to adduce evidence. The judge is exploring the concept of prejudice in the context of procedural fairness and judicial review."
+  },
+  {
+    "Query": "A trial court, while deciding a commercial suit, passed an order that could have been decided differently. Can the High Court, under Article 227 of the Constitution, interfere with the order merely because another view is possible?",
+    "Legal Principles": "Supervisory jurisdiction under Article 227 of the Constitution, Scope of interference, Error of law versus error of judgment, Judicial discretion.",
+    "Relevant Sections": "Article 227 of the Constitution of India.",
+    "Context": "The query delves into the limits of supervisory jurisdiction under Article 227 of the Constitution. The judge is considering whether the High Court can interfere with a trial court order simply because a different decision could have been reached, or whether there must be a demonstrable error of law."
+  },
+  {
+    "Query": "A commercial suit is pending for several years, and the plaintiff has repeatedly missed deadlines for adducing evidence. The trial court, following the provisions of the Commercial Courts Act, 2015, closed the plaintiff's right to adduce evidence. Can the plaintiff argue that this action violates the principles of natural justice?",
+    "Legal Principles": "Natural justice, Right to a fair hearing, Time-bound procedures, Expeditious disposal of commercial disputes, Supervisory jurisdiction under Article 227 of the Constitution.",
+    "Relevant Sections": "Commercial Courts Act, 2015, Article 227 of the Constitution of India.",
+    "Context": "The query explores whether the trial court's action, taken under the Commercial Courts Act, 2015, to close the plaintiff's right to adduce evidence after repeated delays, constitutes a violation of the principles of natural justice. The judge is examining the balance between procedural fairness and the need for expeditious disposal of commercial cases."
+  },
+  {
+    "Query": "A trial court allowed a defendant to amend their written statement but did not give the plaintiff an opportunity to rebut the amendment. Can the plaintiff argue that this denial of opportunity constitutes a jurisdictional error?",
+    "Legal Principles": "Amendment of pleadings, Right to rebut amendments, Procedural fairness, Jurisdictional error, Supervisory jurisdiction under Article 227 of the Constitution.",
+    "Relevant Sections": "Order 6 Rule 17 CPC, Article 227 of the Constitution of India.",
+    "Context": "The query focuses on whether the trial court's failure to provide the plaintiff an opportunity to rebut the defendant's amended written statement constitutes a jurisdictional error. The judge is considering whether this procedural flaw is severe enough to warrant judicial review under Article 227 of the Constitution."
+  },
+  {
+    "Query": "A trial court, in a commercial suit, granted multiple opportunities to the plaintiff to adduce evidence but ultimately closed the plaintiff's right to adduce evidence due to repeated defaults. Can the plaintiff argue that the trial court's decision was arbitrary and capricious?",
+    "Legal Principles": "Arbitrary and capricious decision, Procedural fairness, Time-bound procedures, Expeditious disposal of commercial disputes, Supervisory jurisdiction under Article 227 of the Constitution.",
+    "Relevant Sections": "Article 227 of the Constitution of India.",
+    "Context": "The query examines whether the trial court's decision to close the plaintiff's right to adduce evidence after repeated defaults can be considered arbitrary and capricious. The judge is exploring the limits of judicial discretion in the context of procedural fairness and the need for efficient case management."
+  },
+  {
+    "Query": "A commercial suit is pending for over a decade. The plaintiff, despite multiple opportunities, has failed to adduce evidence. The trial court closed the plaintiff's right to adduce evidence, effectively ending the plaintiff's case. Can the plaintiff challenge this order under Article 227 of the Constitution, arguing that it was a miscarriage of justice?",
+    "Legal Principles": "Miscarriage of justice, Procedural fairness, Time-bound procedures, Expeditious disposal of commercial disputes, Supervisory jurisdiction under Article 227 of the Constitution.",
+    "Relevant Sections": "Article 227 of the Constitution of India.",
+    "Context": "The query focuses on whether the trial court's decision to close the plaintiff's right to adduce evidence after prolonged delays, effectively ending the case, constitutes a miscarriage of justice. The judge is considering whether the plaintiff's claim of a miscarriage of justice warrants judicial review under Article 227 of the Constitution."
+  }
+]
+```

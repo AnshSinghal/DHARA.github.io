@@ -1,0 +1,136 @@
+## 1. Case Title
+
+* **Case Name:** Electrosteel Steels Limited vs. The State of Jharkhand
+* **Court:** Jharkhand High Court
+* **Date of Judgment:** 5th March, 2020
+* **Citation:** W.P.C. No. 1159 of 2017 and analogous matters
+
+## 2. Background and Context
+
+* **Brief Overview:** Electrosteel Steels Limited (ESL) challenged the validity of awards and notices issued by the Jharkhand Micro, Small & Medium Enterprises Facilitation Council (JHMSEFC). ESL argued that the JHMSEFC was illegally constituted as it violated the provisions of the Micro, Small & Medium Enterprises Development Act, 2006 (MSMED Act).
+* **Key Issues:** 
+    * Whether the JHMSEFC was legally constituted under the MSMED Act.
+    * Whether the impugned award and notices issued by the JHMSEFC were void ab initio.
+    * Whether the availability of an alternative remedy under the Arbitration and Conciliation Act, 1996 (Arbitration Act), barred ESL from challenging the award and notices through a writ petition.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * Micro, Small & Medium Enterprises Development Act, 2006 (MSMED Act)
+        * Section 21: Composition of Micro and Small Enterprises Facilitation Council
+    * Jharkhand Micro, Small & Medium Enterprises Facilitation Council Rules, 2007 (2007 Rules)
+        * Rule 4: Composition of JHMSEFC 
+    * Jharkhand Micro, Small & Medium Enterprises Facilitation Council Rules, 2017 (2017 Rules)
+        * Rule 4: Composition of JHMSEFC 
+    * Arbitration and Conciliation Act, 1996 (Arbitration Act)
+        * Section 18 (3): Reference to Micro and Small Enterprises Facilitation Council
+        * Section 34: Setting aside Arbitral Awards
+        * Section 37: Appeal against Arbitral Awards
+        * Section 5: Extent of judicial intervention
+
+* **Precedents Cited:**
+    * Power Machines India Ltd. Vs. State of Madhya Pradesh & Ors., (2017) 7 SCC 323
+    * M/s. G.P.T. Infraprojects Limited & Ors. Vs. State of Jharkhand & Ors., (W.P.(C). No. 06 of 2014, decided on 03.03.2016)
+    * SBP & Co. Vs. Patel Engineering Ltd. & Anr., (2005) 8 SCC 618
+    * M/s Sterling Industries Vs. Jayprakash Associates Ltd. & Ors., (Civil Appeal Nos. 7117-7118 of 2017, decided on 10th July 2019)
+    * Whirlpool Corporation Vs. Registrar of Trade Marks, Mumbai & Ors., (1998) 8 SCC 1
+    * State of Tripura Vs. Manoranjan Chakraborty & Ors., (2001) 10 SCC 740
+    * Calcutta Discount Co. Ltd. v. ITO, Companies Distt. I, reported in AIR 1961 SC 372
+    * Sumukan Ltd. Vs. Commonwealth Secretariat, reported in (2008) Bus LR 858
+
+* **Legal Doctrines:**
+    * De Facto Doctrine
+    * Ultra Vires Doctrine
+    * Doctrine of Exhaustion of Alternative Remedies
+    * Doctrine of Public Interest
+
+## 4. Arguments Presented
+
+* **Petitioner’s Argument (ESL):**
+    * The JHMSEFC was constituted in violation of Section 21 of the MSMED Act, which specifies a minimum of three and a maximum of five members.
+    * The 2007 Rules, which formed the basis of the Council's constitution, were ultra vires the MSMED Act, as they allowed for a larger number of members.
+    * The impugned award and notices issued by the JHMSEFC were therefore void ab initio.
+    * The de facto doctrine did not apply in this case, as there was an express provision in the Arbitration Act for setting aside awards where the arbitral tribunal was improperly constituted.
+    * The alternative remedy under Section 34 of the Arbitration Act was not effective and efficacious, as the Commercial Court would be bound by the 2007 Rules and unable to address the vires issue.
+    * Challenging the award and notices through a writ petition was the only effective remedy available.
+
+* **Respondent’s Argument (State of Jharkhand):**
+    * The writ petitions were not maintainable because an alternative remedy under the Arbitration Act existed.
+    * The 2007 Rules had been repealed and replaced by the 2017 Rules, which were in accordance with the MSMED Act.
+    * The de facto doctrine applied, and the JHMSEFC was considered validly constituted despite exceeding the membership limit, as the minimum requirement was fulfilled.
+    * The impugned award and notices were not void ab initio and could be challenged under Section 34 of the Arbitration Act.
+    * The High Court should not interfere with the arbitral tribunal's decisions during the arbitration process.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * Section 21 of the MSMED Act clearly specifies the maximum number of members for the Micro and Small Enterprises Facilitation Council as five.
+    * The 2007 Rules were ultra vires the MSMED Act as they allowed for a larger number of members.
+    * The JHMSEFC, constituted under the 2007 Rules, was therefore illegally formed.
+    * The de facto doctrine did not apply in this case, as it was a matter of substantive jurisdiction.
+    * The alternative remedy under Section 34 of the Arbitration Act was not effective in this case, as the Commercial Court would be unable to address the vires issue.
+
+* **Interpretation of Law:**
+    * The court strictly interpreted Section 21 of the MSMED Act and held that the maximum membership limit of five was mandatory.
+    * The court considered the de facto doctrine, but found it inapplicable to cases involving a lack of substantive jurisdiction.
+    * The court recognized that the alternative remedy under the Arbitration Act could not be considered effective if it failed to address the core issue of the JHMSEFC's illegal constitution.
+
+* **Application of Law:**
+    * The court applied the ultra vires doctrine to invalidate the 2007 Rules, thereby rendering the JHMSEFC's constitution illegal.
+    * The court accepted that the impugned award and notices issued by the illegally constituted JHMSEFC were void ab initio.
+    * The court exercised its jurisdiction under Article 226 of the Constitution to address the issue of lack of jurisdiction, despite the availability of an alternative remedy under the Arbitration Act.
+
+## 6. Judgment
+
+* **Final Decision:**
+    * The writ petitions were allowed.
+* **Relief Granted:**
+    * The impugned award communicated to the petitioner under Memo No. 1954 dated 20.07.2015 and the notices dated 31.01.2017 and 15.03.2017 were quashed.
+* **Orders:**
+    * The Council, constituted under the 2017 Rules, was allowed to issue fresh notices to the petitioner and adjudicate the matter afresh by passing a fresh award in accordance with law.
+
+## 7. Implications
+
+* **Impact on Law:**
+    * This judgment strengthens the principle that strict adherence to statutory provisions, including membership limits, is crucial for the validity of administrative bodies.
+    * It underscores the limitations of the de facto doctrine in cases where there is a fundamental lack of jurisdiction.
+    * It emphasizes the High Court's power to intervene through writ petitions when alternative remedies are not effective or efficacious.
+
+* **Future Relevance:**
+    * This case sets a precedent for future challenges to the constitutionality of administrative bodies, particularly where statutory provisions regarding membership are violated.
+    * It provides guidance on the application of the de facto doctrine in arbitration proceedings.
+    * It emphasizes the importance of considering the effectiveness of alternative remedies when deciding on the maintainability of writ petitions.
+
+* **Broader Context:**
+    * The case highlights the potential for administrative bodies to operate outside the bounds of law, potentially leading to injustice and undermining public confidence in the legal system.
+    * It underscores the importance of ensuring that administrative bodies are constituted and operate in accordance with relevant statutes and regulations.
+
+## 8. Summary Points
+
+* **Key Takeaways:**
+    * The court strictly interpreted the MSMED Act and held that the JHMSEFC was illegally constituted.
+    * The de facto doctrine did not apply to the case.
+    * The court accepted the writ petitions despite the availability of an alternative remedy under the Arbitration Act, as it was not effective in addressing the vires issue.
+    * The impugned award and notices were quashed.
+    * The JHMSEFC was allowed to issue fresh notices and adjudicate the matter afresh.
+
+## 9. References
+
+* **Citations:**
+    * Micro, Small & Medium Enterprises Development Act, 2006
+    * Jharkhand Micro, Small & Medium Enterprises Facilitation Council Rules, 2007
+    * Jharkhand Micro, Small & Medium Enterprises Facilitation Council Rules, 2017
+    * Arbitration and Conciliation Act, 1996
+    * Power Machines India Ltd. Vs. State of Madhya Pradesh & Ors., (2017) 7 SCC 323
+    * M/s. G.P.T. Infraprojects Limited & Ors. Vs. State of Jharkhand & Ors., (W.P.(C). No. 06 of 2014, decided on 03.03.2016)
+    * SBP & Co. Vs. Patel Engineering Ltd. & Anr., (2005) 8 SCC 618
+    * M/s Sterling Industries Vs. Jayprakash Associates Ltd. & Ors., (Civil Appeal Nos. 7117-7118 of 2017, decided on 10th July 2019)
+    * Whirlpool Corporation Vs. Registrar of Trade Marks, Mumbai & Ors., (1998) 8 SCC 1
+    * State of Tripura Vs. Manoranjan Chakraborty & Ors., (2001) 10 SCC 740
+    * Calcutta Discount Co. Ltd. v. ITO, Companies Distt. I, reported in AIR 1961 SC 372
+    * Sumukan Ltd. Vs. Commonwealth Secretariat, reported in (2008) Bus LR 858
+
+* **Further Reading:**
+    * The Micro, Small & Medium Enterprises Development Act, 2006
+    * The Arbitration and Conciliation Act, 1996
+    * Cases related to the de facto doctrine and ultra vires doctrine.

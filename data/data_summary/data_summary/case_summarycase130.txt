@@ -1,0 +1,106 @@
+##  Vimal Electric Company & vs Vimal Agro Products Pvt Ltd 
+
+**1. Case Title**
+
+* **Case Name:** Vimal Electric Company & vs Vimal Agro Products Pvt Ltd
+* **Court:** Gujarat High Court
+* **Date of Judgment:** 25th April 2017
+* **Citation:** C/AO/422/2016
+
+**2. Background and Context**
+
+* **Brief Overview:** Vimal Electric Company & (Appellants) filed a suit against Vimal Agro Products Pvt Ltd (Respondent) alleging passing off. The Appellants claimed that the Respondent was using a similar trade name "Vimal" for their ready-to-eat products, which was deceptively similar to the Appellants' established "Vimal" brand. The Appellants sought permanent injunction restraining the Respondent from using the "Vimal" name, damages, and the destruction of packaging materials bearing the contested name. 
+* **Key Issues:** 
+    * Whether the City Civil Court, Ahmedabad (later transferred to Commercial Court, Ahmedabad) had territorial jurisdiction to hear the case.
+    * Whether the Appellants successfully established a cause of action within the jurisdiction of the Court.
+    * Whether Section 134 of the Trade Marks Act, 1999, was applicable to the suit.
+
+**3. Legal Principles Involved**
+
+* **Relevant Statutes and Provisions:**
+    * Code of Civil Procedure, 1908 (Sections 151, 20)
+    * Trade Marks Act, 1999 (Sections 34, 134)
+* **Precedents Cited:**
+    * Pam Pharmaceuticals vs. Richardson Vicks Inc & Ors (2001(1) GLR 125)
+    * Unilever PLC & Anr vs. Vesco Laboratories (AIR 2010 Gujarat 8)
+    * Saleembhai and others vs. State of Maharashtra and others (AIR 2003 SC 759)
+    * Heinz India Pvt Ltd vs. Shrejee Remedies (2013(55) PTC 542 (Delhi))
+    * Austin Reed Limited vs. Suntex Garments Others (2007 (35) PTC 774 (Mad))
+    * Premier Distilleries Pvt Ltd vs. Sushi Distilleries (2001 (21) PTC 907 (Mad))
+    * M/s. Lakhan Pal Shyam Kumar vs. Ram Prasad Gupta & Anr (2012(51) PTC 141 (Del))
+    * Dhodha House & Patel Field Marshal Industries vs. S.K. Maingi & P.M Diesel Limited (AIR 2006 SC 730)
+    * Oil and Natural Gas Commission vs. Utpal Kumar Basu and ors (1994) 4 SCC 711)
+    * Banyan Tree Holding (P) Limited vs. A. Murali Krishna Reddy and Anr (2010(42) PTC 361 (Del))
+    * Hydac Fluidtechnik Gmbh and Anr vs. Flutec Industries (2013(56) PTC 344 (Del))
+    * Ruston & Hornsby Ltd vs. Zamindara Engineering Co (1969) 2 SCC 727)
+    * Firm Bhagwan Das Ramji Lal and another vs. Watkins Mayar and Co (AIR 1947 Lah 289)
+    * Himachal Pradesh Horticulture Produce Marketing and Processing Corporation Limited vs. Mohan Meaki Breweries Limited (1981(1) PTC 74 ( P & H))
+    * Gold Seal Engineering Products Pvt Ltd and Ors vs. Hindustan Manufacturers and Ors (1992(12) PTC 1 (Bom))
+    * Archie Comic Publications, Inc vs. Purple Creations Pvt Ltd & ors (2008(37) PTC 279 (Del))
+    * A.V.R. Engineers vs. Sharma Molding Works and Ors (2008 (38) PTC 243 (Del))
+    * F. Hoffmann-La Roche Ltd vs. Intas Biopharmaceuticals Limited (2013(56) PTC 129 (Mad) (DB))
+    * Shaw Wallace and Co Ltd vs. M.P.Beer Product Pvt Ltd (2009(39) PTC 157 (Del))
+    * SS Products of India vs. Star Plast (2001(21) PTC 835 (Del))
+    * T.Arivandandam vs. T.V. Satypaal and Another (1997) 4 SCC 467)
+    * LTC Limited vs. Debts Recovery Appellate Tribunal And others (1998) 2 SCC 70)
+    * Church of Christ Charitable Trust and Educational Charitable Society vs. Ponniamman Educational Trust (2012) 8 SCC 707)
+    * Piccadily and Industries Ltd vs. Ashok Narwal (2016(66) PTC 209 (Del))
+    * Neon Laboratories Limited vs. Medical Technologies Ltd & Anr (2016) 2 SCC 672)
+* **Legal Doctrines:**
+    * Territorial Jurisdiction: Determining the appropriate court based on the location of the defendant, their business operations, or the place where the cause of action arises.
+    * Passing Off: A tort where a person uses a trade name or mark that is deceptively similar to another's established trade name, leading to confusion and damage to the reputation of the original owner.
+    * Cause of Action: The set of facts that give rise to a legal claim.
+
+**4. Arguments Presented**
+
+* **Plaintiff's Argument:**
+    * The Respondent's use of the "Vimal" name was deceptively similar to the Appellants' established brand, leading to passing off.
+    * The Court at Ahmedabad had jurisdiction because the Respondent's goods were being sold within its jurisdiction, as evidenced by the invoices produced.
+    * Section 134 of the Trade Marks Act could apply, even though the "Vimal" mark was not registered, as it was the subject of a passing off claim.
+* **Defendant's Argument:**
+    * The Appellants failed to establish a genuine cause of action within the jurisdiction of the Court.
+    * The invoices produced by the Appellants were forged and fabricated; they did not prove the Respondent was selling goods in Ahmedabad.
+    * Section 134 of the Trade Marks Act was not applicable as the suit was solely based on passing off, which is governed by common law.
+    * The Appellant's suit should be filed in Bardoli, where the Respondent had its registered office and main business operations.
+
+**5. Court's Analysis and Reasoning**
+
+* **Key Findings:**
+    * The Court found that the invoices relied upon by the Appellants were not genuine, lacking credible evidence to support their claim of the Respondent's goods being sold in Ahmedabad.
+    * The Court held that the Appellants failed to implead the alleged vendors (Alka Stores and Shree Krushna Dudh Ghar) as defendants, despite being given ample opportunity.
+    * While the Appellants argued for jurisdiction based on passing off, the Court determined that Section 134 of the Trade Marks Act was not applicable as the "Vimal" mark was not registered.
+    * The Court emphasized that mere averments in the plaint, without supporting evidence, were insufficient to establish territorial jurisdiction.
+* **Interpretation of Law:**
+    * The Court meticulously examined Section 20 of the Code of Civil Procedure, which dictates that a suit must be filed in the Court where the defendant resides or carries on business.
+    * The Court analyzed the requirements of Section 134 of the Trade Marks Act, which deals with suits for infringement and passing off related to registered trade marks.
+    * The Court relied on various precedents to determine the relevant legal principles regarding territorial jurisdiction, passing off, and cause of action.
+* **Application of Law:**
+    * The Court applied the established principles of territorial jurisdiction to the facts of the case, considering the location of the Respondent's business and registered office, and the evidence provided regarding the sale of goods.
+    * The Court concluded that the Appellants failed to prove a genuine cause of action within the jurisdiction of the Court at Ahmedabad.
+
+**6. Judgment**
+
+* **Final Decision:** The Appeal From Order filed by the Appellants was dismissed.
+* **Relief Granted:** No relief was granted to the Appellants.
+* **Orders:** The Court ordered the return of the plaint to the Appellants to be presented before the appropriate court with jurisdiction.
+
+**7. Implications**
+
+* **Impact on Law:** This judgment reinforces the importance of establishing a genuine cause of action and providing substantial evidence to support the claim of territorial jurisdiction. It highlights the careful scrutiny courts apply to invoices or other documents used to assert jurisdiction.
+* **Future Relevance:** This case serves as a precedent for future cases involving passing off and territorial jurisdiction, particularly where the relevant trade mark is not registered.
+* **Broader Context:** The case underscores the significance of proper pleading and supporting evidence in litigation, emphasizing the need for a robust and clear legal framework to determine territorial jurisdiction in commercial disputes.
+
+**8. Summary Points**
+
+* The Appellants failed to establish a genuine cause of action within the jurisdiction of the Commercial Court, Ahmedabad, despite claiming passing off.
+* The Court found that the invoices presented as evidence of the Respondent's goods being sold in Ahmedabad were not credible.
+* The Appellants' reliance on Section 134 of the Trade Marks Act was deemed inapplicable as the "Vimal" mark was not registered.
+* The Court highlighted the importance of supporting averments in a plaint with substantial evidence and impleading necessary parties.
+
+**9. References**
+
+* **Citations:**  All the statutes and case citations mentioned above.
+
+**Further Reading:**
+
+*  [Please add links to relevant legal resources, articles, or additional case citations for further research on topics like territorial jurisdiction, passing off, and the Trade Marks Act] 

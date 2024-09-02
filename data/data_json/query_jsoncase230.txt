@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A construction company entered into a contract with the state government for the construction of a road. The company claims that it incurred additional expenses due to delays caused by the government. The government argues that the delays were caused by the company's own negligence. The arbitrator ruled in favor of the company, but the government has challenged the award, arguing that the arbitrator's decision is patently illegal. How does the court determine if an arbitral award is patently illegal and can it partially set aside an award?",
+    "Legal Principles": "The court's power to set aside an arbitral award is limited to the grounds specified in Section 34 of the Arbitration and Conciliation Act, 1996.  The court can set aside an award if it is patently illegal, which refers to an illegality that goes to the root of the matter. The court can also partially set aside an award, if the problematic portion is severable and doesn't impact the rest of the award.",
+    "Relevant Sections": "Section 34(2-A) of the Arbitration and Conciliation Act, 1996 (as amended in 2015), provides for the setting aside of an arbitral award on the ground of patent illegality. The court can set aside an award in part, if the problematic portion is severable, as per Section 34(2)(a)(iii) of the Act. ",
+    "Context": "This query is related to a construction contract dispute and the court's power to set aside an arbitral award on the grounds of patent illegality or severability."
+  },
+  {
+    "Query": "A company claims that it is entitled to compensation for idle establishment due to delays caused by the government. The arbitrator rejected the claim, but the company has challenged the award, arguing that the arbitrator's decision is unreasonable and not supported by evidence. What are the grounds on which the court can set aside an arbitral award and what is the standard of review?",
+    "Legal Principles": "The court's power to set aside an arbitral award is limited to the grounds specified in Section 34 of the Arbitration and Conciliation Act, 1996.  The court cannot re-appreciate evidence or substitute its own judgment for that of the arbitrator.  The court can only interfere if the award is patently illegal, in conflict with public policy, or if the arbitrator acted beyond their jurisdiction.",
+    "Relevant Sections": "Section 34(2) of the Arbitration and Conciliation Act, 1996, lays down the grounds for setting aside an arbitral award.  This includes situations where the award is in conflict with public policy or is patently illegal.",
+    "Context": "This query involves a commercial dispute where the court is being asked to review an arbitral award on the grounds of unreasonableness and lack of evidence. "
+  },
+  {
+    "Query": "Two parties entered into a contract for the supply of goods. A dispute arose regarding the quality of the goods. The arbitrator issued an award in favor of the supplier, but the buyer has challenged the award, arguing that the arbitrator misinterpreted the contract and applied the wrong legal principles. What are the legal principles governing the interpretation of contracts and the application of law by arbitrators?",
+    "Legal Principles": "Arbitrators are bound to interpret contracts fairly and reasonably. While they have some latitude in interpreting the terms, their interpretation cannot be arbitrary or unreasonable.  If the arbitrator misinterprets the contract or applies the wrong legal principles, the court may set aside the award if the error is so serious as to constitute a patent illegality.",
+    "Relevant Sections": "Section 34(2)(a)(iv) of the Arbitration and Conciliation Act, 1996, allows the court to set aside an award if the subject matter of the dispute was not capable of settlement by arbitration.  This could be relevant if the arbitrator exceeded their authority by ruling on issues not covered by the arbitration agreement.",
+    "Context": "This query is related to a contract dispute where the court is being asked to review an arbitral award based on allegations of misinterpretation of contract and misapplication of law."
+  },
+  {
+    "Query": "A company claims that it is entitled to price escalation based on a specific clause in the contract. The arbitrator partially awarded the claim, but the company has challenged the award, arguing that the arbitrator erred in its calculation of the price escalation. Can the court review the arbitrator's calculation of the price escalation and on what grounds?",
+    "Legal Principles": "Courts have a limited role in reviewing arbitral awards. They cannot re-evaluate the evidence or substitute their own judgment for that of the arbitrator.  The court can only interfere if the award is patently illegal, in conflict with public policy, or if the arbitrator acted beyond their jurisdiction.",
+    "Relevant Sections": "Section 34 of the Arbitration and Conciliation Act, 1996, outlines the grounds for setting aside an arbitral award.  These include situations where the award is patently illegal or in conflict with public policy.",
+    "Context": "This query involves a commercial dispute where the court is being asked to review an arbitral award based on the arbitrator's calculation of price escalation. "
+  },
+  {
+    "Query": "A contractor claims that the government breached the contract by terminating it prematurely. The arbitrator ruled in favor of the government, but the contractor has challenged the award, arguing that the arbitrator failed to consider relevant evidence and acted unfairly. Can the court review the arbitrator's decision on the basis of alleged procedural unfairness?",
+    "Legal Principles": "The court has a limited role in reviewing arbitral awards.  The court cannot simply substitute its own judgment for that of the arbitrator. However, the court can set aside an award if the arbitrator acted in a way that is demonstrably unfair or procedurally flawed.",
+    "Relevant Sections": "Section 34 of the Arbitration and Conciliation Act, 1996, provides for the setting aside of an arbitral award on the ground of patent illegality, public policy violation, or procedural unfairness. ",
+    "Context": "This query involves a construction contract dispute where the court is being asked to review an arbitral award based on allegations of procedural unfairness and failure to consider relevant evidence. "
+  },
+  {
+    "Query": "A company claims that it is entitled to interest on the amount awarded by the arbitrator. The arbitrator denied the interest claim, but the company has challenged the award, arguing that the arbitrator failed to apply the correct legal principles regarding interest. Can the court review the arbitrator's decision on the interest claim?",
+    "Legal Principles": "The court can only interfere with an arbitral award if it is patently illegal, in conflict with public policy, or if the arbitrator acted beyond their jurisdiction.  The court cannot re-evaluate the arbitrator's decision on the application of law, unless the error is so serious as to constitute a patent illegality.",
+    "Relevant Sections": "Section 34 of the Arbitration and Conciliation Act, 1996, provides for the setting aside of an arbitral award on the ground of patent illegality, public policy violation, or procedural unfairness.",
+    "Context": "This query is related to a commercial dispute where the court is being asked to review an arbitral award regarding the payment of interest on the awarded amount. "
+  },
+  {
+    "Query": "A company claims that the government breached the contract by failing to make timely payments. The arbitrator ruled in favor of the company, but the government has challenged the award, arguing that the arbitrator failed to consider the government's financial constraints. Can the court review the arbitrator's decision considering the government's financial constraints?",
+    "Legal Principles": "The court can only interfere with an arbitral award if it is patently illegal, in conflict with public policy, or if the arbitrator acted beyond their jurisdiction. The court cannot simply substitute its own judgment for that of the arbitrator. However, the court may consider the government's financial constraints if it's relevant to the determination of public policy.",
+    "Relevant Sections": "Section 34 of the Arbitration and Conciliation Act, 1996, provides for the setting aside of an arbitral award on the ground of patent illegality, public policy violation, or procedural unfairness.  The court can only consider the government's financial constraints if it's relevant to the determination of public policy.",
+    "Context": "This query involves a dispute between a company and the government. The court is being asked to review an arbitral award regarding the government's obligation to make timely payments, taking into account the government's financial constraints. "
+  },
+  {
+    "Query": "A contractor claims that the government breached the contract by failing to provide necessary approvals on time, leading to project delays. The arbitrator ruled in favor of the contractor, but the government has challenged the award, arguing that the arbitrator misapplied the relevant legal principles regarding contract breach. Can the court review the arbitrator's application of law related to contract breach?",
+    "Legal Principles": "The court can only interfere with an arbitral award if it is patently illegal, in conflict with public policy, or if the arbitrator acted beyond their jurisdiction.  The court cannot re-evaluate the arbitrator's decision on the application of law, unless the error is so serious as to constitute a patent illegality.",
+    "Relevant Sections": "Section 34 of the Arbitration and Conciliation Act, 1996, provides for the setting aside of an arbitral award on the ground of patent illegality, public policy violation, or procedural unfairness.",
+    "Context": "This query involves a construction contract dispute where the court is being asked to review an arbitral award regarding a breach of contract claim based on the government's failure to provide timely approvals. "
+  },
+  {
+    "Query": "A company claims that it is entitled to damages for breach of contract. The arbitrator awarded damages but did not provide any reasons for the calculation. The company has challenged the award, arguing that the arbitrator's decision is unreasonable and lacks transparency.  Can the court set aside an arbitral award simply because the arbitrator failed to provide reasons for its decision?",
+    "Legal Principles": "Arbitrators are generally required to provide reasons for their decisions, especially if the award is challenged.  However, the lack of reasons alone may not be sufficient to set aside the award, unless it amounts to a patent illegality. The court needs to consider whether the lack of reasons makes the award arbitrary or unreasonable.",
+    "Relevant Sections": "Section 31(3) of the Arbitration and Conciliation Act, 1996, requires arbitrators to provide reasons for their awards. Section 34 provides for setting aside the award if it is patently illegal, in conflict with public policy, or if the arbitrator acted beyond their jurisdiction.",
+    "Context": "This query involves a commercial dispute where the court is being asked to review an arbitral award regarding damages based on the lack of reasons provided by the arbitrator. "
+  },
+  {
+    "Query": "A company claims that the government wrongfully terminated the contract. The arbitrator ruled in favor of the government, but the company has challenged the award, arguing that the arbitrator failed to properly consider the company's performance record and the government's own contributions to the termination. Can the court review the arbitrator's evaluation of the evidence related to the termination?",
+    "Legal Principles": "The court cannot re-appreciate evidence or substitute its own judgment for that of the arbitrator. However, the court can set aside an award if the arbitrator acted in a way that is demonstrably unfair or procedurally flawed. The court can also consider if the arbitrator's decision is patently illegal or against public policy.",
+    "Relevant Sections": "Section 34 of the Arbitration and Conciliation Act, 1996, provides for the setting aside of an arbitral award on the ground of patent illegality, public policy violation, or procedural unfairness.",
+    "Context": "This query involves a dispute between a company and the government where the court is being asked to review an arbitral award regarding wrongful termination of a contract, considering the evidence related to the termination. "
+  }
+]
+```

@@ -1,0 +1,101 @@
+## 1. Case Title
+
+* **Case Name:** Kandla Container Terminal Pvt. Ltd. (formerly known as ABG Kandla Container Terminal Private Ltd) vs. Doosan Heavy Industries And Construction Company Limited
+* **Court:** Gujarat High Court
+* **Date of Judgment:** 18 July, 2018
+* **Citation:** AIRONLINE 2018 GUJ 89
+
+## 2. Background and Context
+
+* **Brief Overview:** Kandla Container Terminal Pvt. Ltd. (KCTL) appealed an order from the Commercial Court, Rajkot, which allowed Doosan Heavy Industries and Construction Company Limited (Doosan) to execute an arbitral award against KCTL in Rajkot. KCTL argued that the execution petition should only be heard by the Commercial Division of the Gujarat High Court, citing a previous High Court decision in a similar case. The issue centered on whether the execution of an international arbitral award should be handled by the Commercial Division of the High Court or the Commercial Court.
+* **Key Issues:** 
+    * Whether the execution of an international arbitral award falls within the jurisdiction of the Commercial Court or the Commercial Division of the High Court under the Commercial Courts Act, 2015.
+    * Whether the decision in M/s.OCI Corporation (I) (supra) regarding jurisdiction in international arbitral awards applied to this case. 
+    * Whether the appeal against the Commercial Court's order was maintainable under Section 13 of the Commercial Courts Act, 2015.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:** 
+    * Commercial Courts, Commercial Division and Commercial Appellate Division of the High Courts Act, 2015 (Commercial Courts Act, 2015)
+    * Section 13 of the Commercial Courts Act, 2015
+    * Arbitration and Conciliation Act, 1996
+    * Order XLIII of the Code of Civil Procedure, 1908 (as amended by Commercial Courts Act, 2015)
+    * Section 37 of the Arbitration and Conciliation Act, 1996
+    * Article 227 of the Constitution of India
+* **Precedents Cited:**
+    * M/s.OCI Corporation v. Kandla Export Corporation & Ors. - Misc. Civil Application (For Transfer) No.2969/2016 dated 11.11.2016 [M/s.OCI Corporation (I)]
+    * Kandla Export Corporation & Anr. v. OCI Corporation & Anr. dated 28.09.2017 in First Appeal No.3096/2017 [M/s.OCI Corporation - II]
+    * Board of Control for Cricket in India v. Kochi Cricket Pvt. Ltd. and etc. dated 15.03.2015 in Civil Appeal Nos.2879-2880/2018
+    * Smt.Sushila Singhania & Ors v. Bharat Hari Singhania & Ors. dated 29.03.2017 in Commercial Appeal No.4/2016
+* **Legal Doctrines:**
+    * Jurisdiction
+    * Binding Precedent
+    * Statutory Interpretation
+    * Retrospective application of legislation
+
+## 4. Arguments Presented
+
+* **Appellant’s Argument (KCTL):**
+    * The Commercial Court, Rajkot, lacked jurisdiction to entertain the execution petition. 
+    * The Division Bench's decision in M/s.OCI Corporation (I) (supra) established that the Commercial Division of the High Court was the proper venue for executing international arbitral awards, regardless of whether the award was domestic or foreign.
+    * The learned Judge erred in distinguishing between domestic and foreign awards, as even a domestic award arising from international arbitration should be handled by the Commercial Division.
+    * The appeal under Section 13 of the Commercial Courts Act, 2015, was maintainable.
+* **Respondent’s Argument (Doosan):**
+    * The appeal against the Commercial Court's order was not maintainable under Section 13 of the Commercial Courts Act, 2015, as the impugned order was not specifically enumerated under Order XLIII of the Code or Section 37 of the Arbitration and Conciliation Act, 1996. 
+    * The decision in M/s.OCI Corporation (I) (supra) was inapplicable because the award in that case was a foreign award, while the present case involved a domestic award.
+    * The Arbitration and Conciliation (Amendment) Act, 2015, should not be applied retrospectively to arbitration proceedings commenced prior to its enactment.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The court recognized that the decision in M/s.OCI Corporation (I) (supra) was binding precedent on the issue of jurisdiction in international arbitral awards.
+    * The court found that the Commercial Court, Rajkot, had erred in distinguishing between domestic and foreign awards, as the key consideration was the international nature of the arbitration.
+    * The court agreed that the appeal under Section 13 of the Commercial Courts Act, 2015, was not maintainable.
+* **Interpretation of Law:**
+    * The court interpreted Section 13 of the Commercial Courts Act, 2015, to confirm that appeals were generally allowed from final judgments of the Commercial Court or Commercial Division of the High Court.
+    * The court clarified that the proviso to Section 13(1) did not restrict appeals to only those specifically enumerated under Order XLIII of the Code or Section 37 of the Arbitration Act.
+    * The court confirmed that execution petitions arising from international commercial arbitration, regardless of the award's origin, must be filed in the Commercial Division of the High Court.
+* **Application of Law:**
+    * The court applied the binding precedent established in M/s.OCI Corporation (I) (supra) to the present case, concluding that the Commercial Court, Rajkot, lacked jurisdiction to handle the execution petition.
+    * The court emphasized that the primary consideration was the international nature of the arbitration, not the origin of the award (domestic or foreign).
+
+## 6. Judgment
+
+* **Final Decision:** The appeal was deemed not maintainable under Section 13 of the Commercial Courts Act, 2015. The appeal was converted into a Writ Petition under Article 227 of the Constitution of India.
+* **Relief Granted:** The court quashed and set aside the impugned order passed by the Commercial Court, Rajkot. 
+* **Orders:**
+    * The Commercial Court was directed to return the execution petition to Doosan to be filed in the Commercial Division of the High Court.
+    * Doosan was given four weeks to file the execution petition in the Commercial Division of the High Court.
+
+## 7. Implications
+
+* **Impact on Law:** The judgment reaffirms the principle that execution petitions arising from international commercial arbitration, even with a domestic award, must be filed in the Commercial Division of the High Court.
+* **Future Relevance:** The case serves as a binding precedent for future cases involving the execution of international arbitral awards in Gujarat. 
+* **Broader Context:** The judgment underscores the importance of consistent legal interpretations and the application of binding precedents in judicial decision-making.
+
+## 8. Summary Points
+
+* The execution of international arbitral awards falls within the jurisdiction of the Commercial Division of the High Court, not the Commercial Court, even if the award is domestic. 
+* Appeals against Commercial Court orders are generally maintainable under Section 13 of the Commercial Courts Act, 2015, even if not specifically enumerated in Order XLIII or Section 37 of the Arbitration Act.
+* Binding precedents must be followed by lower courts, even if the facts of the current case appear slightly different.
+
+## 9. References
+
+* **Citations:** 
+    * Commercial Courts, Commercial Division and Commercial Appellate Division of the High Courts Act, 2015
+    * Section 13 of the Commercial Courts Act, 2015
+    * Arbitration and Conciliation Act, 1996
+    * Order XLIII of the Code of Civil Procedure, 1908
+    * Section 37 of the Arbitration and Conciliation Act, 1996
+    * Article 227 of the Constitution of India
+    * M/s.OCI Corporation v. Kandla Export Corporation & Ors. - Misc. Civil Application (For Transfer) No.2969/2016 dated 11.11.2016
+    * Kandla Export Corporation & Anr. v. OCI Corporation & Anr. dated 28.09.2017 in First Appeal No.3096/2017
+    * Board of Control for Cricket in India v. Kochi Cricket Pvt. Ltd. and etc. dated 15.03.2015 in Civil Appeal Nos.2879-2880/2018
+    * Smt.Sushila Singhania & Ors v. Bharat Hari Singhania & Ors. dated 29.03.2017 in Commercial Appeal No.4/2016 
+* **Further Reading:** 
+    * The Commercial Courts Act, 2015
+    * The Arbitration and Conciliation Act, 1996
+    * The Code of Civil Procedure, 1908
+    * The Constitution of India
+
+This summary provides a detailed overview of the case, incorporating the facts, arguments, legal principles, and implications. It aims to provide a comprehensive understanding of the case and its significance within the legal framework of international arbitration and execution proceedings in India.

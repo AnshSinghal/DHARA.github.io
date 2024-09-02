@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A landlord leased a commercial property to a tenant for a period of five years. The lease agreement contained a clause stating that the tenant was responsible for maintaining the property and ensuring its insurance. The tenant failed to maintain the property, leading to a fire that damaged the property. The landlord claims the tenant is responsible for the cost of repairs, but the tenant argues that the fire was a force majeure event and they are not liable. Can the landlord hold the tenant responsible for the repairs?",
+    "Legal Principles": "Lease agreement provisions, tenant's obligations to maintain and insure property, force majeure events, allocation of liability for damages.",
+    "Relevant Sections": "Clause 5(j) of the Lease Deed, Section 73 of the Indian Contract Act, 1872",
+    "Context": "Commercial lease dispute in India, tenant's liability for fire damage, force majeure defense."
+  },
+  {
+    "Query": "A business owner entered into a contract with a contractor to build a new office building. The contract specified a completion date, but the contractor failed to meet the deadline due to unforeseen delays. The business owner claims the contractor breached the contract and seeks damages. The contractor argues that the delays were caused by unforeseen circumstances beyond their control, which qualify as a force majeure event. Is the contractor liable for breach of contract despite the force majeure event?",
+    "Legal Principles": "Contractual obligations, breach of contract, force majeure clauses, allocation of liability for delays.",
+    "Relevant Sections": "Section 32 of the Indian Contract Act, 1872 (Force Majeure)",
+    "Context": "Construction contract dispute in India, contractor's liability for delays, force majeure defense."
+  },
+  {
+    "Query": "A company entered into a contract with a supplier for the supply of raw materials. The contract included a price escalation clause that allowed for adjustments to the price based on market fluctuations. The market price for the raw materials increased significantly after the contract was signed. The company refuses to pay the increased price, arguing that the price escalation clause is unfair. Is the company obliged to pay the increased price based on the price escalation clause?",
+    "Legal Principles": "Contractual provisions, price escalation clauses, market fluctuations, fairness and enforceability of contracts.",
+    "Relevant Sections": "Section 23 of the Indian Contract Act, 1872 (Unlawful Agreements)",
+    "Context": "Commercial contract dispute in India, price escalation clause, enforceability and fairness."
+  },
+  {
+    "Query": "A homeowner hired a contractor to renovate their kitchen. The contractor completed the work, but the homeowner is dissatisfied with the quality of the work and claims it falls short of the agreed-upon specifications. The homeowner refuses to pay the remaining balance and demands the contractor rectify the defects. The contractor denies any wrongdoing and insists on full payment. Can the homeowner withhold payment pending rectification of the defects?",
+    "Legal Principles": "Contractual obligations, quality of workmanship, defects in performance, remedies for breach of contract.",
+    "Relevant Sections": "Section 12 of the Sale of Goods Act, 1930 (Implied Conditions as to Quality)",
+    "Context": "Construction contract dispute in India, homeowner's right to withhold payment, rectification of defects."
+  },
+  {
+    "Query": "A company issued a tender for a construction project. Several contractors submitted bids, and the company selected the lowest bidder. The winning contractor later refused to enter into a contract, alleging that the bid was based on a mistake. Can the company force the contractor to enter into a contract despite the alleged mistake?",
+    "Legal Principles": "Tendering process, bids and offers, acceptance of bids, mistake in bids, enforceability of contracts.",
+    "Relevant Sections": "Section 13 of the Indian Contract Act, 1872 (Mistake as to Matter of Fact)",
+    "Context": "Construction project tendering dispute in India, mistake in bids, enforceability of contract."
+  },
+  {
+    "Query": "A bank granted a loan to a borrower. The loan agreement included a clause stating that the bank could accelerate the loan maturity if the borrower failed to make payments on time. The borrower missed a few payments due to financial difficulties. The bank demanded immediate repayment of the entire loan, citing the acceleration clause. Is the bank entitled to accelerate the loan maturity despite the borrower's financial hardship?",
+    "Legal Principles": "Loan agreements, acceleration clauses, default in payments, bank's right to accelerate, fairness and equity.",
+    "Relevant Sections": "Section 53A of the Transfer of Property Act, 1882 (Acceleration Clause)",
+    "Context": "Loan agreement dispute in India, acceleration clause, borrower's financial hardship, bank's right to accelerate."
+  },
+  {
+    "Query": "An employee was terminated from their job without notice. The employee claims that the termination was unfair and seeks compensation. The employer argues that the termination was justified due to the employee's poor performance. Can the employee claim compensation for wrongful termination?",
+    "Legal Principles": "Employment contracts, termination of employment, unfair dismissal, wrongful termination, compensation.",
+    "Relevant Sections": "Section 25-F of the Industrial Disputes Act, 1947 (Compensation for Wrongful Termination)",
+    "Context": "Employment termination dispute in India, wrongful termination, compensation for unfair dismissal."
+  },
+  {
+    "Query": "A company issued shares to its shareholders. The share certificate contained a clause stating that the company could redeem the shares at a specific price at its discretion. The company later decided to redeem the shares at a price lower than the market value. The shareholders claim that the redemption clause is unfair and that the company should pay the market price. Is the company obliged to redeem the shares at the market price?",
+    "Legal Principles": "Share certificates, redemption clauses, shareholder rights, fairness and equity in corporate transactions.",
+    "Relevant Sections": "Section 64 of the Companies Act, 2013 (Redemption of Shares)",
+    "Context": "Corporate dispute in India, redemption of shares, shareholder rights, fairness and equity."
+  },
+  {
+    "Query": "A partnership agreement between two partners stated that the partnership would be dissolved if one partner withdrew from the partnership. One partner decided to leave the partnership and informed the other partner about their decision. However, the remaining partner refused to dissolve the partnership, claiming that the partnership agreement was not valid. Can the withdrawing partner force the dissolution of the partnership?",
+    "Legal Principles": "Partnership agreements, dissolution of partnership, withdrawal of partners, enforceability of agreements.",
+    "Relevant Sections": "Section 39 of the Indian Partnership Act, 1932 (Dissolution of Partnership)",
+    "Context": "Partnership dispute in India, dissolution of partnership, withdrawal of partner, enforceability of agreement."
+  },
+  {
+    "Query": "A company registered a trademark for its product. A competitor started using a similar trademark for its product, which caused confusion among consumers. The company sued the competitor for trademark infringement. The competitor argues that the trademark is not distinctive enough and that there is no likelihood of confusion. Can the company successfully claim trademark infringement?",
+    "Legal Principles": "Trademark registration, trademark infringement, likelihood of confusion, distinctiveness of trademark.",
+    "Relevant Sections": "Section 29 of the Trade Marks Act, 1999 (Infringement of Registered Trademarks)",
+    "Context": "Trademark infringement dispute in India, likelihood of confusion, distinctiveness of trademark."
+  }
+]
+```

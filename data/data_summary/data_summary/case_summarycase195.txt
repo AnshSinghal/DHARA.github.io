@@ -1,0 +1,104 @@
+##  Case Summary: Hindustan Zinc Limited vs. Glencore International A.G. 
+
+**1. Case Title**
+
+* **Case Name:** Hindustan Zinc Limited vs. Glencore International A.G.
+* **Court:** Rajasthan High Court, Jodhpur Bench
+* **Date of Judgment:** 23rd March 2020
+* **Citation:** D.B. Civil Special Appeal (Arbitration) No. 3/2019 & 2/2019
+
+**2. Background and Context**
+
+* **Brief Overview:** Hindustan Zinc Limited (HZL) and Glencore International A.G. (GIAG) had entered into an agreement containing an arbitration clause. This clause stipulated that English law would govern the agreement and all disputes would be settled by arbitration in London, UK, under the rules of the London Court of International Arbitration (LCIA). HZL initiated arbitration proceedings against GIAG, with London as the seat of arbitration. An arbitral award was passed against HZL on 17.08.2017. 
+* **Key Issues:** The main legal questions presented in the case were: 
+    * Whether HZL could appeal the arbitral award under Section 37 of the Arbitration and Conciliation Act, 1996 (the Act of 1996) given that the seat of arbitration was London, UK.
+    * Whether the choice of London as the seat of arbitration impliedly excluded the application of Part I of the Act of 1996, rendering Indian courts without jurisdiction to entertain applications under Section 34 of the Act of 1996.
+
+**3. Legal Principles Involved**
+
+* **Relevant Statutes and Provisions:**
+    * Arbitration and Conciliation Act, 1996 (the Act of 1996):
+        * Section 2(2): Defines "place of arbitration" and limits the applicability of Part I to cases where the place of arbitration is in India.
+        * Section 34: Allows for the setting aside of an arbitral award on specific grounds.
+        * Section 37:  Defines appealable orders.
+    * Commercial Courts Act, 2015:
+        * Section 13:  Defines the forum for appeals from judgments, orders, and decrees of the Commercial Division of the High Court.
+    * English Arbitration Act, 1996:
+        * Section 4(2) & 4(3):  Allows parties to agree on the application of institutional rules.
+        * Section 81:  Relates to public policy considerations.
+    * LCIA Rules:
+        * Rule 26.8:  States that parties waive their right to appeal, review, or recourse to legal authority.
+* **Precedents Cited:**
+    * BGS SGS Soma JV Vs. NHPC Ltd., 2019 SCC Online SC 1585
+    * Kandla Export Corporation v. OCI Corporation, (2018) 14 SCC 715
+    * South Delhi Municipal Corporation Vs. Tech Mahindra, 2019 SCC OnLine Del 11863
+    * Harmanprit Singh Sidhu Vs. Arcadia Shares & Stock Brokers Pvt. Ltd., 2016 SCC OnLine Del 5383
+    * Bhatia International Vs. Bulk Trading S.A. & Ors., AIR 2002 SC 1432
+    * Bharat Aluminium Company Vs. Kaiser Aluminium Technical Services Inc., (2012) 9 SCC 552
+    * Union of India Vs. Reliance Industries Limited & Ors, (2015) 10 SCC 213
+    * Roger Shashoua & Ors. Vs. Mukesh Sharma & Ors., (2017) 14 SCC 722
+    * Eitzen Bulk A/s Vs. Ashapura Minechem Limited & Anr., (2016) 11 SCC 508
+    * Venture Global Engineering Vs. Satyam Computer Services Ltd. & Ors., AIR 2008 SC 1061
+    * Vijay Karia & Ors. Vs. Prysmian Cavi E Sistemi SRL & Ors. (Civil Appeal No.1544 of 2020 decided on 13.02.2020)
+    * R.K. Industries Vs. Maximus International General Trading & Anr., 2019(1) RLW 347 (Raj.)
+    * Union of India Vs. Hardy Exploration and Production (India) INC (Civil Appeal No.4628 of 2018 decided on 25.09.2018)
+    * Venture Global Engineering Vs. Satyam Computer Services Ltd. & Anr., (2010) 8 SCC 660
+* **Legal Doctrines:**
+    * *Forum non conveniens:*  The doctrine of forum non conveniens allows courts to decline jurisdiction when it is more appropriate for the case to be heard in a different forum.
+    * *Harmonious construction:*  The principle of harmonious construction requires statutes to be interpreted in a way that reconciles them with one another.
+    * *Res judicata:*  The doctrine of res judicata prevents the same parties from litigating the same issue in a different case.
+    * *Public policy:*  The concept of public policy refers to the underlying principles of law that guide judicial decisions.
+
+**4. Arguments Presented**
+
+* **Appellant's Argument (HZL):**
+    * Argued that the choice of London as the seat of arbitration did not necessarily exclude the applicability of Part I of the Act of 1996.
+    * Cited the Supreme Court judgment in Bhatia International (supra) to support the argument that Part I would apply unless parties expressly or impliedly excluded it.
+    * Highlighted that the English Arbitration Act, 1996 allows for the application of institutional rules like LCIA, and many provisions were non-mandatory.
+    * Emphasized that the LCIA Rules barred appeals, rendering HZL remediless under Indian law.
+    * Distinguished BGS SGS Soma JV (supra) by arguing it focused on technicalities and not the merits of applying Section 34.
+    * Relied on various Supreme Court judgments, including Venture Global Engineering (supra), Bharat Aluminium Company (supra), and Roger Shashoua (supra), to support their position.
+* **Respondent’s Argument (GIAG):**
+    * Argued that the appeals were not maintainable under Section 37 of the Act of 1996 because the seat of arbitration was London.
+    * Cited the Supreme Court judgment in BGS SGS Soma JV (supra) to support their argument.
+    * Emphasized that the choice of London as the seat of arbitration and the application of English law impliedly excluded the applicability of Part I of the Act of 1996.
+    * Relied on various Supreme Court judgments, including Kandla Export Corporation (supra), Eitzen Bulk (supra), Union of India Vs. Reliance Industries Limited (supra), and Roger Shashoua (supra), to support their position.
+
+**5. Court’s Analysis and Reasoning**
+
+* **Key Findings:**
+    * The court found that the choice of London as the seat of arbitration and the application of English law clearly indicated an intention to exclude the application of Part I of the Act of 1996.
+    * The court held that the Bhatia International (supra) judgment, while relevant, was not applicable to this case given the clear choice of London as the seat of arbitration.
+    * The court determined that the BGS SGS Soma JV (supra) judgment was directly applicable to the present case.
+* **Interpretation of Law:**
+    * The court interpreted Section 2(2) of the Act of 1996 to mean that Part I only applies to cases where the place of arbitration is in India.
+    * The court interpreted the choice of London as the seat of arbitration to mean that the parties intended to exclude the applicability of Part I of the Act of 1996.
+* **Application of Law:**
+    * The court applied the principle of forum non conveniens to determine that Indian courts were not the appropriate forum to hear HZL's challenge to the arbitral award.
+    * The court applied the judgment in BGS SGS Soma JV (supra) to hold that HZL could not appeal the arbitral award under Section 37 of the Act of 1996.
+
+**6. Judgment**
+
+* **Final Decision:** The court dismissed the appeals filed by HZL.
+* **Relief Granted:**  No relief was granted to HZL.
+* **Orders:**  The court dismissed all pending applications related to the case.
+
+**7. Implications**
+
+* **Impact on Law:**  The judgment reaffirms the principle that the choice of a foreign jurisdiction as the seat of arbitration generally implies an exclusion of the applicability of Part I of the Act of 1996.
+* **Future Relevance:** The judgment is likely to be cited in future cases involving international commercial arbitration and the application of the Act of 1996.
+* **Broader Context:** The case highlights the increasing importance of international commercial arbitration and the need for parties to clearly define the governing law and seat of arbitration in their agreements.
+
+**8. Summary Points**
+
+* The court held that the appeals were not maintainable because HZL chose London as the seat of arbitration.
+* The court determined that the parties' choice of London and English law impliedly excluded the applicability of Part I of the Act of 1996, which would have given HZL the right to challenge the award in Indian courts.
+* The judgment highlights the significance of carefully considering the implications of choosing a foreign jurisdiction as the seat of arbitration.
+
+**9. References**
+
+* **Citations:** All citations for statutes, cases, and rules are mentioned within the body of the summary.
+* **Further Reading:**
+    * *Redfern and Hunter on International Arbitration*
+    * *Dicey, Morris and Collins on The Conflict of Laws* 
+    * Other judgments cited within the summary. 

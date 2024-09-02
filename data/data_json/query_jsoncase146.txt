@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A contractor, XYZ Construction, is claiming damages from a government agency, ABC Authority, for the suspension of a construction project. XYZ Construction claims the suspension was unjustified and resulted in significant financial losses. ABC Authority argues that the suspension was necessary due to unforeseen circumstances and that XYZ Construction agreed to waive its right to damages in a supplementary agreement. How does the court determine whether a party's consent to a contract was vitiated by duress?",
+    "Legal Principles": "Economic duress, coercion, undue influence, unequal bargaining power, consent, contract vitiation, commercial pressure, illegitimate pressure, practical choice, protest, independent advice, mitigation of damages, unjust enrichment, severability of award",
+    "Relevant Sections": "Section 34 of the Arbitration and Conciliation Act, 1996 (as amended); Section 10, 13, 14, 15, 16, 17, 18 of the Contract Act, 1872; Section 23 of the Contract Act, 1872; Section 32 of the Arbitration and Conciliation Act, 1996",
+    "Context": "Jurisdiction: India; Case type: Arbitration appeal; Contractual dispute; Claim for damages due to suspension of construction project"
+  },
+  {
+    "Query": "A company, DEF Technologies, is claiming compensation from a government agency, GHI Ministry, for the delay caused in the execution of a technology contract. DEF Technologies alleges that GHI Ministry's bureaucratic delays and changes in requirements led to the delay. GHI Ministry argues that the delays were justified and that DEF Technologies had agreed to accept the revised contract terms, including the possibility of delays.  Can the court partially set aside an arbitral award that contains both valid and invalid claims?",
+    "Legal Principles": "Severability of award, partial setting aside of award, arbitral award, judicial review, independent claims, composite award, modification of award, remission of award",
+    "Relevant Sections": "Section 34 of the Arbitration and Conciliation Act, 1996 (as amended); Section 32 of the Arbitration and Conciliation Act, 1996",
+    "Context": "Jurisdiction: India; Case type: Arbitration appeal; Contractual dispute; Claim for compensation due to delay in execution of technology contract"
+  },
+  {
+    "Query": "Two companies, JKL Enterprises and LMN Corporation, entered into a joint venture agreement to develop a new product.  JKL Enterprises alleges that LMN Corporation breached the agreement by withdrawing from the project after JKL Enterprises had invested significant resources. LMN Corporation argues that unforeseen circumstances forced them to withdraw and that JKL Enterprises agreed to release LMN Corporation from its obligations in a settlement agreement.  How does the court assess the legitimacy of pressure exerted in a commercial transaction to determine whether it constitutes duress?",
+    "Legal Principles": "Economic duress, coercion, illegitimate pressure, commercial pressure, practical choice, protest, independent advice, settlement agreement, joint venture agreement, breach of contract",
+    "Relevant Sections": "Section 34 of the Arbitration and Conciliation Act, 1996 (as amended); Section 10, 13, 14, 15, 16, 17, 18 of the Contract Act, 1872",
+    "Context": "Jurisdiction: India; Case type: Arbitration appeal; Contractual dispute; Joint venture agreement; Allegation of breach of contract and duress"
+  },
+  {
+    "Query": "A software developer, NOPQ Solutions, is suing a government agency, RST Department, for unpaid fees related to a software development project.  NOPQ Solutions claims that RST Department delayed payments and then attempted to renegotiate the contract terms to reduce the agreed-upon fees.  RST Department argues that the delays were due to unforeseen budgetary constraints and that NOPQ Solutions agreed to the revised terms under duress. Can the court consider the unequal bargaining power of the parties when evaluating a claim of duress?",
+    "Legal Principles": "Economic duress, unequal bargaining power, coercion, undue influence, consent, contract vitiation, commercial pressure, illegitimate pressure, practical choice, protest, independent advice",
+    "Relevant Sections": "Section 34 of the Arbitration and Conciliation Act, 1996 (as amended); Section 10, 13, 14, 15, 16, 17, 18 of the Contract Act, 1872",
+    "Context": "Jurisdiction: India; Case type: Arbitration appeal; Contractual dispute; Claim for unpaid fees for software development project; Allegation of duress and unequal bargaining power"
+  },
+  {
+    "Query": "A construction company, UVW Builders, is seeking to recover damages from a government agency, XYZ Authority, for the termination of a construction contract. UVW Builders claims that the termination was without just cause and that XYZ Authority failed to follow the proper procedures. XYZ Authority argues that the termination was justified due to UVW Builders' failure to meet contract specifications and that UVW Builders agreed to waive its right to damages in a settlement agreement.  How does the court determine whether the parties had reached a consensus ad idem (meeting of the minds) when evaluating a claim of duress?",
+    "Legal Principles": "Economic duress, coercion, undue influence, consent, contract vitiation, commercial pressure, illegitimate pressure, practical choice, protest, independent advice, consensus ad idem, settlement agreement, termination of contract",
+    "Relevant Sections": "Section 34 of the Arbitration and Conciliation Act, 1996 (as amended); Section 10, 13, 14, 15, 16, 17, 18 of the Contract Act, 1872",
+    "Context": "Jurisdiction: India; Case type: Arbitration appeal; Contractual dispute; Claim for damages due to termination of construction contract; Allegation of duress and lack of consensus ad idem"
+  },
+  {
+    "Query": "A supplier, WXY Supplies, is claiming payment from a government agency, ZAB Agency, for goods supplied under a contract. WXY Supplies alleges that ZAB Agency failed to make timely payments and then attempted to reduce the agreed-upon price. ZAB Agency argues that the delays were due to unforeseen budgetary constraints and that WXY Supplies agreed to the revised terms under duress. Can a party who has benefited from a contract later claim that its consent was vitiated by duress?",
+    "Legal Principles": "Economic duress, coercion, undue influence, consent, contract vitiation, commercial pressure, illegitimate pressure, practical choice, protest, independent advice, unjust enrichment",
+    "Relevant Sections": "Section 34 of the Arbitration and Conciliation Act, 1996 (as amended); Section 10, 13, 14, 15, 16, 17, 18 of the Contract Act, 1872",
+    "Context": "Jurisdiction: India; Case type: Arbitration appeal; Contractual dispute; Claim for payment for goods supplied; Allegation of duress and unjust enrichment"
+  },
+  {
+    "Query": "Two companies,  ABC Inc. and DEF Ltd., are disputing the terms of a long-term supply agreement.  ABC Inc. alleges that DEF Ltd. breached the agreement by failing to deliver goods as agreed.  DEF Ltd. argues that unforeseen circumstances, including a global pandemic, prevented them from fulfilling their obligations and that ABC Inc. agreed to accept the delayed delivery in a supplementary agreement.  ABC Inc. claims that they agreed to the supplementary agreement under duress due to their urgent need for the supplies.  How does the court determine whether a party had a reasonable alternative course of action when assessing a claim of duress?",
+    "Legal Principles": "Economic duress, coercion, undue influence, consent, contract vitiation, commercial pressure, illegitimate pressure, practical choice, protest, independent advice, reasonable alternative",
+    "Relevant Sections": "Section 34 of the Arbitration and Conciliation Act, 1996 (as amended); Section 10, 13, 14, 15, 16, 17, 18 of the Contract Act, 1872",
+    "Context": "Jurisdiction: India; Case type: Arbitration appeal; Contractual dispute; Long-term supply agreement; Allegation of breach of contract and duress"
+  },
+  {
+    "Query": "A technology company, GHI Technologies, is claiming damages from a government agency, JKL Ministry, for the termination of a software development contract.  GHI Technologies claims that the termination was without just cause and that JKL Ministry breached the contract by failing to follow the proper procedures.  JKL Ministry argues that the termination was justified due to GHI Technologies' failure to deliver the software on time. GHI Technologies claims that the delays were caused by JKL Ministry's changes in requirements and that they were forced to agree to a termination clause under duress.  What are the key factors the court considers when evaluating a claim of economic duress?",
+    "Legal Principles": "Economic duress, coercion, undue influence, consent, contract vitiation, commercial pressure, illegitimate pressure, practical choice, protest, independent advice, termination of contract",
+    "Relevant Sections": "Section 34 of the Arbitration and Conciliation Act, 1996 (as amended); Section 10, 13, 14, 15, 16, 17, 18 of the Contract Act, 1872",
+    "Context": "Jurisdiction: India; Case type: Arbitration appeal; Contractual dispute; Software development contract; Allegation of breach of contract and duress"
+  },
+  {
+    "Query": "A construction company,  LMN Builders, is seeking to recover damages from a government agency,  OPQ Authority, for the delay in the completion of a construction project.  LMN Builders claims that OPQ Authority's changes in specifications and delays in approving plans led to the delay. OPQ Authority argues that the delays were caused by LMN Builders' failure to meet contract deadlines and that LMN Builders agreed to accept the revised contract terms, including the possibility of delays, under duress.  Can the court set aside part of an arbitral award while upholding the remainder?",
+    "Legal Principles": "Economic duress, coercion, undue influence, consent, contract vitiation, commercial pressure, illegitimate pressure, practical choice, protest, independent advice, severability of award, partial setting aside of award",
+    "Relevant Sections": "Section 34 of the Arbitration and Conciliation Act, 1996 (as amended); Section 32 of the Arbitration and Conciliation Act, 1996",
+    "Context": "Jurisdiction: India; Case type: Arbitration appeal; Contractual dispute; Construction project; Claim for damages due to delay in project completion; Allegation of duress and severability of award"
+  },
+  {
+    "Query": "A supplier, RST Supplies, is claiming payment from a government agency,  UVW Department, for materials supplied under a construction contract.  RST Supplies alleges that UVW Department failed to make timely payments and then attempted to reduce the agreed-upon price.  UVW Department argues that the delays were due to unforeseen budgetary constraints and that RST Supplies agreed to the revised terms under duress. Can the court uphold an arbitral award that contains multiple claims, even if some of the claims are found to be invalid?",
+    "Legal Principles": "Economic duress, coercion, undue influence, consent, contract vitiation, commercial pressure, illegitimate pressure, practical choice, protest, independent advice, severability of award, multiple claims",
+    "Relevant Sections": "Section 34 of the Arbitration and Conciliation Act, 1996 (as amended); Section 32 of the Arbitration and Conciliation Act, 1996",
+    "Context": "Jurisdiction: India; Case type: Arbitration appeal; Contractual dispute; Materials supplied for construction project; Claim for payment; Allegation of duress and severability of award"
+  }
+]
+```

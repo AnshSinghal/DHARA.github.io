@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A family business partnership is embroiled in a dispute over the distribution of assets and management of the company. The partners had previously attempted mediation but failed, ultimately resorting to arbitration. The resulting arbitration award has been challenged by one partner, who is now seeking to transfer the case to the Commercial Court.  Should the case be transferred to the Commercial Court?",
+    "Legal Principles": "Jurisdiction of Commercial Courts, Interpretation of Commercial Courts Act, Transfer of Proceedings under Section 24 of the Civil Procedure Code, Arbitration and Conciliation Act, Definition of 'commercial dispute' and 'specified value'",
+    "Relevant Sections": "Section 2(c), Section 2(i), Section 10(3), Section 12, Section 24 of the Commercial Courts Act, 2015, Section 34 of the Arbitration and Conciliation Act, 1996",
+    "Context": "A writ petition challenging the order of a Principal District Judge rejecting the application for transfer of arbitration proceedings under Section 24 of the Civil Procedure Code to the Commercial Court"
+  },
+  {
+    "Query": "A company is challenging an arbitration award related to a commercial real estate transaction.  The dispute involves a significant amount of money and concerns the ownership and use of the property.  The company argues that the case should be heard in the Commercial Court because it falls under the definition of a 'commercial dispute' under the Commercial Courts Act.  Is the company's argument valid?",
+    "Legal Principles": "Jurisdiction of Commercial Courts, Definition of 'commercial dispute' under the Commercial Courts Act, Arbitration and Conciliation Act, Interpretation of 'specified value'",
+    "Relevant Sections": "Section 2(c), Section 10(3), Section 12 of the Commercial Courts Act, 2015, Section 34 of the Arbitration and Conciliation Act, 1996",
+    "Context": "A writ petition challenging the order of a District Judge regarding the jurisdiction to hear an application challenging an arbitration award under Section 34 of the Arbitration and Conciliation Act"
+  },
+  {
+    "Query": "A partnership agreement between two businesses is being challenged in court. The dispute involves a significant amount of money and concerns the interpretation of the agreement.  One party argues that the case should be transferred to the Commercial Court because it falls under the definition of a 'commercial dispute'. How should the court decide on the transfer?",
+    "Legal Principles": "Jurisdiction of Commercial Courts, Definition of 'commercial dispute' under the Commercial Courts Act, Transfer of Proceedings under Section 24 of the Civil Procedure Code",
+    "Relevant Sections": "Section 2(c), Section 24 of the Commercial Courts Act, 2015",
+    "Context": "An application for transfer of a case involving a partnership agreement from the District Court to the Commercial Court under Section 24 of the Civil Procedure Code"
+  },
+  {
+    "Query": "A dispute arose between two parties over a construction contract. The dispute involves a significant amount of money and concerns the quality of the work performed.  One party wants to transfer the case to the Commercial Court under the Commercial Courts Act. What factors should the court consider when deciding whether to transfer the case?",
+    "Legal Principles": "Jurisdiction of Commercial Courts, Definition of 'commercial dispute' under the Commercial Courts Act, Transfer of Proceedings under Section 24 of the Civil Procedure Code",
+    "Relevant Sections": "Section 2(c), Section 10(3), Section 12, Section 24 of the Commercial Courts Act, 2015",
+    "Context": "A writ petition challenging the order of a Principal District Judge rejecting the application for transfer of a construction contract case from the District Court to the Commercial Court"
+  },
+  {
+    "Query": "Two companies are involved in a dispute over a franchise agreement. The dispute involves a significant amount of money and concerns the interpretation of the agreement. One company wants to transfer the case to the Commercial Court. Does the Commercial Courts Act apply to this case, and should the case be transferred?",
+    "Legal Principles": "Jurisdiction of Commercial Courts, Definition of 'commercial dispute' under the Commercial Courts Act, Transfer of Proceedings under Section 24 of the Civil Procedure Code",
+    "Relevant Sections": "Section 2(c), Section 10(3), Section 24 of the Commercial Courts Act, 2015",
+    "Context": "An application for transfer of a case involving a franchise agreement from the District Court to the Commercial Court under Section 24 of the Civil Procedure Code"
+  },
+  {
+    "Query": "A company is seeking to recover unpaid invoices from a client. The amount involved is significant, and the company believes the case should be heard in the Commercial Court because it qualifies as a 'commercial dispute'.  Is the company's argument valid?",
+    "Legal Principles": "Jurisdiction of Commercial Courts, Definition of 'commercial dispute' under the Commercial Courts Act",
+    "Relevant Sections": "Section 2(c), Section 10(3) of the Commercial Courts Act, 2015",
+    "Context": "A writ petition challenging the order of a District Judge regarding the jurisdiction to hear a case for recovery of unpaid invoices"
+  },
+  {
+    "Query": "A dispute has arisen between two parties over a contract for the sale of goods. The dispute involves a significant amount of money and concerns the quality of the goods delivered. One party wants to transfer the case to the Commercial Court.  Should the case be transferred?",
+    "Legal Principles": "Jurisdiction of Commercial Courts, Definition of 'commercial dispute' under the Commercial Courts Act, Transfer of Proceedings under Section 24 of the Civil Procedure Code",
+    "Relevant Sections": "Section 2(c), Section 10(3), Section 24 of the Commercial Courts Act, 2015",
+    "Context": "A writ petition challenging the order of a Principal District Judge rejecting the application for transfer of a case involving a contract for the sale of goods from the District Court to the Commercial Court"
+  },
+  {
+    "Query": "Two companies have entered into a joint venture agreement.  A dispute has arisen over the terms of the agreement, involving a significant amount of money. One company wants to transfer the case to the Commercial Court because it believes the dispute falls under the definition of a 'commercial dispute'.  Is the company's argument valid?",
+    "Legal Principles": "Jurisdiction of Commercial Courts, Definition of 'commercial dispute' under the Commercial Courts Act",
+    "Relevant Sections": "Section 2(c), Section 10(3) of the Commercial Courts Act, 2015",
+    "Context": "A writ petition challenging the order of a District Judge regarding the jurisdiction to hear a case involving a joint venture agreement"
+  },
+  {
+    "Query": "A company is challenging a decision made by a regulatory body. The company believes the decision is unreasonable and wants to have it reviewed by the court. The company argues that the case should be heard in the Commercial Court because it concerns a commercial matter.  Does the Commercial Courts Act apply to this case?",
+    "Legal Principles": "Jurisdiction of Commercial Courts, Definition of 'commercial dispute' under the Commercial Courts Act, Judicial Review",
+    "Relevant Sections": "Section 2(c), Section 10(3) of the Commercial Courts Act, 2015",
+    "Context": "A writ petition challenging the order of a District Judge regarding the jurisdiction to hear a case challenging a regulatory body's decision"
+  },
+  {
+    "Query": "A company is suing another company for breach of contract.  The dispute involves a significant amount of money and concerns the interpretation of the contract.  The company wants to have the case heard in the Commercial Court because it believes the case falls under the definition of a 'commercial dispute'.  Should the case be transferred?",
+    "Legal Principles": "Jurisdiction of Commercial Courts, Definition of 'commercial dispute' under the Commercial Courts Act, Transfer of Proceedings under Section 24 of the Civil Procedure Code",
+    "Relevant Sections": "Section 2(c), Section 10(3), Section 24 of the Commercial Courts Act, 2015",
+    "Context": "An application for transfer of a case involving a breach of contract from the District Court to the Commercial Court under Section 24 of the Civil Procedure Code"
+  }
+]
+```

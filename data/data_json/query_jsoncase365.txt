@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A construction company has filed an arbitration claim against a municipality for unpaid work. The municipality is seeking to stay the arbitration proceedings and argues that the Commercial Courts Act, 2015, bars appeals against interlocutory orders in such cases. What are the legal principles and relevant sections of the Act that apply to this situation?",
+    "Legal Principles": "The Commercial Courts Act, 2015, aims to streamline commercial dispute resolution. Section 8 bars interlocutory appeals, except those specifically enumerated in Order XLIII of the Code of Civil Procedure (CPC) or Section 37 of the Arbitration and Conciliation Act, 1996.  This Act has an overriding effect over other laws (Section 21).",
+    "Relevant Sections": "Section 8, Section 11, Section 13, Section 21 of the Commercial Courts Act, 2015, Order XLIII Rule 1 of the CPC, Section 37 of the Arbitration and Conciliation Act, 1996.",
+    "Context": "Jurisdiction: India. Case Type: Arbitration, Interlocutory Order Appeal, Commercial Dispute."
+  },
+  {
+    "Query": "A company is challenging a decision of the Commercial Division of a High Court in a commercial dispute. The company argues that the decision was incorrect and that the Commercial Appellate Division has jurisdiction to hear the appeal. However, the other party claims that the appeal is barred by the Commercial Courts Act, 2015. How does the Act define the appellate jurisdiction of the Commercial Appellate Division?",
+    "Legal Principles": "The Commercial Courts Act, 2015, limits the appealable orders from Commercial Courts and Divisions to those specifically enumerated in Order XLIII of the Code of Civil Procedure (CPC) or those permitted under Section 37 of the Arbitration and Conciliation Act, 1996.",
+    "Relevant Sections": "Section 13 of the Commercial Courts Act, 2015, Order XLIII of the CPC, Section 37 of the Arbitration and Conciliation Act, 1996.",
+    "Context": "Jurisdiction: India. Case Type: Commercial Dispute, Appeal, Commercial Appellate Division, Jurisdiction."
+  },
+  {
+    "Query": "A foreign company has obtained an arbitral award against an Indian company. The Indian company is seeking to enforce the award in India and has filed an enforcement application in a Commercial Court. The Commercial Court has made an order directing the Indian company to deposit a certain amount as security. The Indian company is appealing this order. Is this appeal maintainable under the Commercial Courts Act, 2015?",
+    "Legal Principles": "The Commercial Courts Act, 2015, generally restricts appeals from interlocutory orders of Commercial Courts. However, appeals against orders that are specifically enumerated in Order XLIII of the CPC or under Section 37 of the Arbitration and Conciliation Act, 1996, are allowed.",
+    "Relevant Sections": "Section 13, Section 36 of the Commercial Courts Act, 2015, Order XLIII of the CPC, Section 37 of the Arbitration and Conciliation Act, 1996.",
+    "Context": "Jurisdiction: India. Case Type: Enforcement of Foreign Award, Interlocutory Order Appeal, Commercial Dispute."
+  },
+  {
+    "Query": "A company has filed a claim in a Commercial Court against another company for breach of contract. The Commercial Court has made an order directing the defendant company to deposit a certain amount as security for the potential award. The defendant company argues that this order is akin to an attachment before judgment and is therefore appealable. Does the Commercial Courts Act, 2015, allow for such an appeal?",
+    "Legal Principles": "The Commercial Courts Act, 2015, generally restricts appeals from interlocutory orders of Commercial Courts.  While Order XXXVIII of the CPC deals with attachment before judgment in suits, the Act's scope and intention are to limit appeals to specific orders enumerated in Order XLIII of the CPC.",
+    "Relevant Sections": "Section 13 of the Commercial Courts Act, 2015, Order XXXVIII, Order XLIII of the CPC.",
+    "Context": "Jurisdiction: India. Case Type: Breach of Contract, Interlocutory Order Appeal, Commercial Dispute, Attachment before Judgment."
+  },
+  {
+    "Query": "Two companies are in a commercial dispute involving a large sum of money. One company has filed a suit in a Commercial Court and is seeking an injunction against the other company. The Commercial Court grants the injunction. Can the other company appeal this interlocutory order under the Commercial Courts Act, 2015?",
+    "Legal Principles": "The Commercial Courts Act, 2015, generally restricts appeals from interlocutory orders of Commercial Courts, except for those specifically enumerated in Order XLIII of the CPC. Appeals against injunction orders are likely to be covered under this exception.",
+    "Relevant Sections": "Section 13 of the Commercial Courts Act, 2015, Order XLIII of the CPC.",
+    "Context": "Jurisdiction: India. Case Type: Commercial Dispute, Interlocutory Order Appeal, Injunction, Commercial Court."
+  },
+  {
+    "Query": "A dispute between a supplier and a buyer of goods arises, and the supplier seeks to enforce an arbitration award in a Commercial Court. The court issues an order directing the buyer to deposit a specific amount as security pending the final decision on the enforcement application. Is the buyer's appeal against this order maintainable under the Commercial Courts Act, 2015?",
+    "Legal Principles": "The Commercial Courts Act, 2015, restricts appeals from interlocutory orders of Commercial Courts.  The Act's scheme emphasizes limited appealability, mainly for specific orders enumerated in Order XLIII of the CPC or those relating to enforcement under Section 37 of the Arbitration and Conciliation Act, 1996.",
+    "Relevant Sections": "Section 13, Section 36 of the Commercial Courts Act, 2015, Order XLIII of the CPC, Section 37 of the Arbitration and Conciliation Act, 1996.",
+    "Context": "Jurisdiction: India. Case Type: Enforcement of Arbitral Award, Interlocutory Order Appeal, Security Deposit, Commercial Court."
+  },
+  {
+    "Query": "A company has filed a suit against another company for copyright infringement in a Commercial Court. The court issues an order directing the defendant company to preserve certain evidence. The defendant company seeks to appeal this order. Can the defendant company appeal this interlocutory order under the Commercial Courts Act, 2015?",
+    "Legal Principles": "The Commercial Courts Act, 2015, generally restricts appeals from interlocutory orders of Commercial Courts.  Appeals against orders concerning the preservation of evidence are likely to be covered under the exception provided for in Order XLIII of the CPC.",
+    "Relevant Sections": "Section 13 of the Commercial Courts Act, 2015, Order XLIII of the CPC.",
+    "Context": "Jurisdiction: India. Case Type: Copyright Infringement, Interlocutory Order Appeal, Preservation of Evidence, Commercial Court."
+  },
+  {
+    "Query": "A company is seeking to recover a large sum of money from another company based on a contract. The Commercial Court orders the defendant company to provide security for the potential award. The defendant company appeals this order, arguing that it is an unwarranted interference with their financial freedom. Does the Commercial Courts Act, 2015, permit this type of appeal?",
+    "Legal Principles": "The Commercial Courts Act, 2015, restricts appeals from interlocutory orders of Commercial Courts.  While the Act's focus is on limiting appeals, the specific order concerning security provision might fall under the exception for orders listed in Order XLIII of the CPC.",
+    "Relevant Sections": "Section 13 of the Commercial Courts Act, 2015, Order XLIII of the CPC.",
+    "Context": "Jurisdiction: India. Case Type: Contract Dispute, Interlocutory Order Appeal, Security Provision, Commercial Court."
+  },
+  {
+    "Query": "A company is challenging an arbitration award in a Commercial Court, arguing that the arbitrator exceeded their jurisdiction. The court orders the company to deposit a certain amount as security pending the final decision on the challenge. Can the company appeal this interlocutory order under the Commercial Courts Act, 2015?",
+    "Legal Principles": "The Commercial Courts Act, 2015, restricts appeals from interlocutory orders of Commercial Courts.  The Act's focus is on limited appealability, mainly for specific orders enumerated in Order XLIII of the CPC or those relating to enforcement under Section 37 of the Arbitration and Conciliation Act, 1996.",
+    "Relevant Sections": "Section 13, Section 36 of the Commercial Courts Act, 2015, Order XLIII of the CPC, Section 37 of the Arbitration and Conciliation Act, 1996.",
+    "Context": "Jurisdiction: India. Case Type: Challenge to Arbitration Award, Interlocutory Order Appeal, Security Deposit, Commercial Court."
+  },
+  {
+    "Query": "A company has filed a claim in a Commercial Court for a breach of contract. The court issues an order directing the defendant company to provide security for the potential award. The defendant company argues that this order is a form of attachment before judgment and seeks to appeal it. Is this appeal allowed under the Commercial Courts Act, 2015?",
+    "Legal Principles": "The Commercial Courts Act, 2015, restricts appeals from interlocutory orders of Commercial Courts. While Order XXXVIII of the CPC deals with attachment before judgment in suits, the Act's scope and intention are to limit appeals to specific orders enumerated in Order XLIII of the CPC.",
+    "Relevant Sections": "Section 13 of the Commercial Courts Act, 2015, Order XXXVIII, Order XLIII of the CPC.",
+    "Context": "Jurisdiction: India. Case Type: Breach of Contract, Interlocutory Order Appeal, Security Provision, Commercial Court, Attachment before Judgment."
+  }
+]
+```

@@ -1,0 +1,79 @@
+## Case Title
+
+• **Case Name:** Harmanprit Singh Sidhu vs. Arcadia Shares & Stock Brokers Pvt. Ltd.
+• **Court:** Delhi High Court
+• **Date of Judgment:** 30th September 2016
+• **Citation:** FAO (OS) 136/2016 
+
+## Background and Context
+
+• **Brief Overview:** Harmanprit Singh Sidhu (appellant) appealed against an order passed by a single judge of the Delhi High Court which condoned a delay of 55 days in re-filing a petition under Section 34 of the Arbitration and Conciliation Act, 1996 (A&C Act). The petition sought to set aside an arbitral award in favor of Sidhu.
+• **Key Issues:** The main issue was whether the appeal was maintainable against the order condoning the delay. The appellant argued that the appeal was maintainable under Section 13 of the Commercial Courts, Commercial Division and Commercial Appellate Division of the High Courts Act, 2015 (Commercial Courts Act), while the respondent contended that the appeal was not maintainable under Section 37 of the A&C Act.
+
+## Legal Principles Involved
+
+• **Relevant Statutes and Provisions:**
+    - Section 34, 37 of the Arbitration and Conciliation Act, 1996 (A&C Act)
+    - Section 8, 13 of the Commercial Courts, Commercial Division and Commercial Appellate Division of the High Courts Act, 2015 (Commercial Courts Act)
+    - Order 43 of the Code of Civil Procedure, 1908 (CPC)
+• **Precedents Cited:**
+    - National Highways Authority of India v. Oriental Structure Engineers Limited-Gammon India Limited (JV): 2012 (132) DRJ 769 (FB)
+• **Legal Doctrines:**
+    - Interpretation of statutory provisions
+    - Condonation of delay
+    - Maintainability of appeals
+
+## Arguments Presented
+
+• **Appellant’s Argument:**
+    - The appeal is maintainable under Section 13 of the Commercial Courts Act, as it deals with appeals from judgments or orders.
+    - The appellant's rights were affected by the condonation of delay, as the petition under Section 34 of the A&C Act should have been rejected on the grounds of limitation.
+    - The Full Bench decision in National Highways Authority (supra) allowed for multiple appeals in arbitration proceedings.
+• **Respondent’s Argument:**
+    - The appeal is not maintainable under Section 37 of the A&C Act as the impugned order does not fall within the specified appealable orders.
+    - Section 37(1) expressly states that only the orders mentioned therein are appealable ("and from no others").
+
+## Court’s Analysis and Reasoning
+
+• **Key Findings:**
+    - Section 8 of the Commercial Courts Act is inapplicable as it refers to interlocutory orders of "commercial courts" at the district level, not the Commercial Division of the High Court.
+    - Section 13 of the Commercial Courts Act does not expand the scope of appealable orders under Section 37 of the A&C Act.
+    - The impugned order did not set aside or refuse to set aside the arbitral award, but merely condoned the delay in re-filing the petition.
+• **Interpretation of Law:**
+    - The court interpreted Section 37(1) of the A&C Act to mean that appeals are only permitted for specific orders enumerated therein.
+    - The court analyzed Section 13 of the Commercial Courts Act and found that it reinforces the limitation on appealable orders under Section 37 of the A&C Act.
+    - The court distinguished the Full Bench decision in National Highways Authority (supra), stating that it dealt with limited notice impacting the arbitral award, unlike the present case where the condoned delay did not affect the award.
+• **Application of Law:**
+    - The court applied the specific provisions of Section 37(1) of the A&C Act and found that the impugned order did not fall within the appealable orders.
+    - The court concluded that the appeal was not maintainable under the relevant legislation.
+
+## Judgment
+
+• **Final Decision:** The appeal was dismissed as not maintainable.
+• **Relief Granted:** No relief was granted.
+• **Orders:** The appeal was dismissed.
+
+## Implications
+
+• **Impact on Law:** The judgment clarifies the scope of appealable orders under Section 37 of the A&C Act and emphasizes that the Commercial Courts Act does not expand this scope.
+• **Future Relevance:** The judgment serves as a precedent for future cases dealing with the maintainability of appeals against orders condoning delay in arbitration proceedings.
+• **Broader Context:** The judgment highlights the importance of complying with the specific provisions of the A&C Act and the limited avenues for appealing interlocutory orders in arbitration.
+
+## Summary Points
+
+• The appeal against an order condoning delay in filing a petition under Section 34 of the A&C Act was dismissed as not maintainable.
+• The court held that the appeal was not covered by the appealable orders specified in Section 37(1) of the A&C Act.
+• The court interpreted Section 13 of the Commercial Courts Act to reinforce, not expand, the limitations on appealable orders under the A&C Act.
+• The appellant could raise the issue of condoning delay in the final decision on the petition under Section 34 of the A&C Act, if the arbitral award was set aside.
+
+## References
+
+• **Citations:**
+    - Arbitration and Conciliation Act, 1996 (A&C Act)
+    - Commercial Courts, Commercial Division and Commercial Appellate Division of the High Courts Act, 2015 (Commercial Courts Act)
+    - Code of Civil Procedure, 1908 (CPC)
+    - National Highways Authority of India v. Oriental Structure Engineers Limited-Gammon India Limited (JV): 2012 (132) DRJ 769 (FB)
+• **Further Reading:**
+    - Arbitration and Conciliation Act, 1996
+    - Commercial Courts, Commercial Division and Commercial Appellate Division of the High Courts Act, 2015
+    - Cases dealing with Section 37 of the A&C Act and Section 13 of the Commercial Courts Act. 

@@ -1,0 +1,103 @@
+## 1. Case Title
+
+* **Case Name:** V.R. Holdings vs. Hero Investocorp Limited & Anr.
+* **Court:** Delhi High Court
+* **Date of Judgment:** 4th August 2023
+* **Citation:** LPA 397/2023 
+
+## 2. Background and Context
+
+* **Brief Overview:**  This case involved a dispute over the ownership and use of the "Hero Group" trademark.  The dispute stemmed from a family settlement agreement (FSA) and a trade mark and name agreement (TMNA) executed in 2010, which divided the businesses of the Munjal Group amongst four family groups (F1, F2, F3, and F4). 
+* **Key Issues:**
+    * Maintainability of the Letters Patent Appeal (LPA) against a judgment on a Section 57 petition under the Trade Marks Act, 1999 in light of the Commercial Courts Act, 2015.
+    * Interpretation of the FSA and TMNA to determine the ownership and usage rights of the "Hero Group" trademark between the F1 and F3 family groups.
+    * Whether the F3 family group was entitled to register the "Hero Group" trademark in relation to medical products and services.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * Trade Marks Act, 1999 (TMA): Sections 57 (Power to cancel or vary registration and to rectify the register), 91 (Appeals to High Court), 134 (Suit for infringement, etc., to be instituted before District Court), 135 (Relief in suits for infringement or for passing off).
+    * Commercial Courts Act, 2015: Sections 2 (Definitions), 3 (Constitution of Commercial Courts), 4 (Constitution of Commercial Division of High Court), 5 (Constitution of Commercial Appellate Division), 7 (Jurisdiction of Commercial Divisions of High Courts), 8 (Bar against revision application or petition against an interlocutory order), 13 (Appeals from decrees of Commercial Courts and Commercial Divisions).
+    * Arbitration and Conciliation Act, 1996: Section 37 (Appeal against an Award).
+    * Code of Civil Procedure, 1908: Order XLIII (Appeals from Original Decrees and Orders).
+    * Tribunal Reforms Act, 2021.
+* **Precedents Cited:**
+    * Resilient Innovations Pvt. Ltd. v. Phonepe Private Limited & Anr. (Relevant to maintainability of LPA)
+    * C.S. Aggarwal v State & Ors. (Relevant to intra-court appeals)
+    * Jaswinder Singh (Relevant to intra-court appeals)
+    * National Sewing Thread (Relevant to application of CPC in appeals)
+    * Grieshim GMBH Vs. Goyal MG Gases Private Limited (Relevant to ordinary original civil jurisdiction of the High Court)
+    * Raja Soap Factory Vs. S.P. Shantaraj & others (Relevant to the exercise of original jurisdiction by High Courts)
+* **Legal Doctrines:**
+    * Statutory Interpretation: The court examined the language of the relevant statutes and considered their purpose and legislative intent.
+    * Contract Interpretation: The court analyzed the terms of the FSA and TMNA to determine the parties' intentions.
+    * Estoppel: This doctrine was considered in relation to the respondent's argument regarding the appellant's delay in challenging the trademark registration. 
+
+## 4. Arguments Presented
+
+* **Appellant’s Argument:** 
+    * The appellant (F1 family group) argued that the TMNA granted them exclusive ownership and use of the F1 Family Group Trade Marks, including the right to use the "Hero" trademark in relation to medical products and lifestyle care equipment.
+    * They contended that the F3 family group was prohibited from using the trademark in question for these products based on the TMNA's definitions of "Other Products and Services" and "Future Products and Services."
+    * The appellant argued that the learned Single Judge misconstrued the FSA and TMNA by incorrectly interpreting the phrase "currently manufactured."
+    * The appellant highlighted that the BRA acknowledged the manufacturing of medical products by the F1 family group.
+* **Respondent’s Argument:**
+    * The respondent (F3 family group) countered that the appellant's exclusivity only extended to specific trademarks and not the "Hero Group" trademark in general.
+    * They argued that the TMNA granted them the right to use the "Hero" trademark with or without suffixes in connection with all Future Products and Services, including medical products.
+    * The respondent pointed out that the trademark was registered without any opposition from the appellant.
+    * They argued that the appellant's claim was belated and that they were estopped from challenging the registration.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The court recognized the distinction between the jurisdiction exercised by a court in its ordinary original civil jurisdiction and the specific statutory authority conferred upon it. 
+    * The court found that the High Court, while acting through its Commercial Division in a Section 57 petition, was not exercising its inherent jurisdiction but a power specifically vested by the TMA.
+    * The court held that the LPA remedy was not ousted by Section 13 of the Commercial Courts Act, 2015, as the Act primarily regulates judgments rendered in exercise of ordinary original civil jurisdiction.
+    * The court found merit in the appellant's argument that the impugned judgment incorrectly interpreted the FSA and TMNA and failed to properly consider the BRA. 
+* **Interpretation of Law:**
+    * The court emphasized the importance of adhering to the plain language of the relevant statutes and agreements.
+    * It considered the legislative intent behind the Commercial Courts Act, 2015, and its purpose of creating a specialized judicial framework for commercial disputes.
+    * The court highlighted the distinct nature of the power conferred upon the High Court by Section 57 of the TMA, separate from its ordinary original civil jurisdiction.
+* **Application of Law:** 
+    * The court applied the principles of statutory interpretation to examine the provisions of the TMA and the Commercial Courts Act, 2015.
+    * It applied principles of contract interpretation to analyze the terms of the FSA and TMNA, considering their context and the parties' intentions.
+    * The court considered the doctrine of estoppel but ultimately found that the appellant's delay in challenging the trademark registration did not necessarily preclude them from seeking interim protection.
+
+## 6. Judgment
+
+* **Final Decision:** The court dismissed the respondent's preliminary objection to the maintainability of the appeal. It found that the LPA remedy was available in the case.
+* **Relief Granted:** The court granted an interim stay of the impugned judgment, pending a more detailed examination of the case. 
+* **Orders:**
+    * Notice to be issued on the appeal.
+    * The respondents to file a reply within three weeks.
+    * The appellant to file a rejoinder affidavit within a week.
+    * The matter to be listed again on 05.09.2023 for further hearing.
+
+## 7. Implications
+
+* **Impact on Law:** The judgment reaffirms the distinction between the exercise of ordinary original civil jurisdiction by a court and the specific statutory authority conferred upon it. It clarifies that the Commercial Courts Act, 2015, does not necessarily preclude the availability of Letters Patent Appeals in cases involving Section 57 petitions under the TMA.
+* **Future Relevance:** This case provides a precedent for future cases involving similar issues related to the interpretation of the Commercial Courts Act, 2015, in conjunction with other special legislation that grants jurisdiction to courts.
+* **Broader Context:** This case highlights the challenges of resolving complex family business disputes, particularly when they involve trademark ownership and usage rights. It also demonstrates the potential for conflicting interpretations of agreements in such cases, which can lead to protracted litigation.
+
+## 8. Summary Points
+
+* The Delhi High Court upheld the maintainability of a Letters Patent Appeal (LPA) against a judgment rendered by a Single Judge on a Section 57 petition under the Trade Marks Act, 1999, despite the provisions of the Commercial Courts Act, 2015.
+* The court found that the High Court, while acting through its Commercial Division on a Section 57 petition, was exercising a power specifically conferred by the TMA and not its inherent jurisdiction.
+* The court granted an interim stay of the impugned judgment, pending further examination of the arguments regarding the ownership and usage rights of the "Hero Group" trademark under the FSA and TMNA. 
+
+## 9. References
+
+* **Citations:**
+    * Trade Marks Act, 1999
+    * Commercial Courts Act, 2015
+    * Arbitration and Conciliation Act, 1996
+    * Code of Civil Procedure, 1908
+    * Tribunal Reforms Act, 2021
+    * Resilient Innovations Pvt. Ltd. v. Phonepe Private Limited & Anr.
+    * C.S. Aggarwal v State & Ors.
+    * Jaswinder Singh
+    * National Sewing Thread
+    * Grieshim GMBH Vs. Goyal MG Gases Private Limited
+    * Raja Soap Factory Vs. S.P. Shantaraj & others
+* **Further Reading:**
+    * Other judgments on the interpretation of the Commercial Courts Act, 2015
+    * Cases dealing with the ownership and usage of trademarks in family business disputes 

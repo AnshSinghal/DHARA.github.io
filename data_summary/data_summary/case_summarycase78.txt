@@ -1,0 +1,95 @@
+##  Mas Financial Services Ltd vs Margdarshak Financial Services Pvt. Ltd. 
+
+**1. Case Title**
+
+* **Case Name:** Mas Financial Services Ltd. vs. Margdarshak Financial Services Pvt. Ltd.
+* **Court:** Gujarat High Court
+* **Date of Judgment:** 23rd November 2022
+* **Citation:**  C/FA/1925/2021  (Gujarat High Court)
+
+**2. Background and Context**
+
+* **Brief Overview:**  Mas Financial Services Ltd. (MAS), a non-banking financial service company, had entered into four separate agreements with Margdarshak Financial Services Pvt. Ltd. (Margdarshak) to act as a service partner and/or business associate.  Under these agreements, Margdarshak was responsible for collecting loan repayments from borrowers on behalf of MAS. MAS alleged that Margdarshak failed to remit collected payments, leading to a dispute. 
+* **Key Issues:** 
+    * Whether Margdarshak breached the agreements by failing to remit collected payments. 
+    * Whether MAS had the right to terminate the agreements due to Margdarshak's alleged breach. 
+    * Whether MAS was entitled to interim relief under Section 9 of the Arbitration and Conciliation Act, 1996, while the arbitration process was pending.
+
+**3. Legal Principles Involved**
+
+* **Relevant Statutes and Provisions:**
+    * Arbitration and Conciliation Act, 1996 (specifically Section 9)
+    * Commercial Trial Courts Act, 2015 
+    * Code of Civil Procedure, 1908 (specifically Order 39 Rule 1 & 2)
+* **Precedents Cited:**
+    * Sundaram Finance Ltd vs Nepc India Ltd. [(1999) 2 SCC 479] 
+    * Deccan Chronicle Holdings ... vs L & T Finance Limited [(2013) SCC Online Bombay 1005] 
+    * Nimbus Communications Ltd vs Board Of Control For Cricket [(2013) 1 Mh. LJ) 
+    * Rajesh D. Darbar & Ors vs Narasingrao Krishnaji Kulkarni[(2007) 3 SCC 219]
+    * U.P. State Brassware Corpn. Ltd. & Ors.vs Udai Narain Pandey[(2006) 1 SCC 479]
+    * Tata Capital Financial Services vs Unity Infraprojects Ltd.[(2015) SCC Online Bom. 3597] 
+    * Adhunik Steels Limited v. Orissa Manganese and Minerals Private Limited [(2007) 7 SCC 125]
+* **Legal Doctrines:**
+    * Prima facie case
+    * Irreparable injury
+    * Balance of convenience
+    * Termination of contract
+    * Equitable relief
+    * Interim relief under Section 9 of the Arbitration Act
+
+**4. Arguments Presented**
+
+* **MAS's Argument:** 
+    * Margdarshak had committed repeated breaches of the agreements by failing to remit collected payments. 
+    * MAS had terminated the agreements due to Margdarshak's breach.
+    * MAS was entitled to interim relief under Section 9 of the Arbitration Act to protect its rights, including restraining Margdarshak from collecting further payments from borrowers.
+* **Margdarshak's Argument:**
+    * They had been complying with their obligations under the agreements, and any delay in payments was due to unprecedented circumstances like the COVID-19 pandemic.
+    * MAS had not shown any genuine attempt at amicable settlement before initiating legal action, violating the agreement's dispute resolution clause.
+    * The interim relief sought by MAS was essentially a request for the court to enforce the contract, which was not appropriate in the context of a pending arbitration.
+
+**5. Court's Analysis and Reasoning**
+
+* **Key Findings:**
+    * The court found that the agreements between the parties were still in operation and had not been legally terminated by MAS. 
+    * While the court acknowledged the possibility of Margdarshak's liability for unpaid amounts, MAS had failed to provide clear and specific evidence regarding the collected amounts due.
+    * The court emphasized that the relief sought by MAS under Section 9 was essentially a claim for the enforcement of the contract, which should be decided by the arbitrator.
+* **Interpretation of Law:** 
+    * The court interpreted Section 9 of the Arbitration Act, stating that interim relief should only be granted when there is a prima facie case, a threat of irreparable injury, and a balance of convenience favoring the applicant.
+    * The court applied principles analogous to Order 39 Rule 1 & 2 of the Code of Civil Procedure, which requires a showing of these three elements for interim injunctions.
+    * The court clarified that the purpose of Section 9 was not to convert arbitration proceedings into recovery proceedings.
+* **Application of Law:**
+    * The court concluded that MAS had not established a prima facie case for irreparable injury. 
+    * The court found that MAS had alternative legal avenues available under the agreement, such as charging penal interest and pursuing independent recovery from borrowers. 
+    * The court deemed the balance of convenience to be in favor of Margdarshak, as they were obligated to collect payments under the agreements, and prohibiting them from doing so could disrupt the ongoing business relationships.
+
+**6. Judgment**
+
+* **Final Decision:** All four appeals were dismissed.
+* **Relief Granted:** None.
+* **Orders:** 
+    * The existing interim order from August 17, 2021, requiring Margdarshak to deposit collected amounts in the court registry, was maintained for all four cases. 
+    * Margdarshak was ordered to maintain detailed accounts of the collected amounts for future review by the arbitrator.
+    * The observations made by the Commercial Court in the original order concerning the rights of MAS under the agreements were upheld.
+
+**7. Implications**
+
+* **Impact on Law:** The judgment reinforces the principle that interim relief under Section 9 of the Arbitration Act should be exercised cautiously and only when the applicant demonstrates a genuine threat of irreparable harm. 
+* **Future Relevance:** This case provides guidance on the interpretation of Section 9 and the application of principles analogous to Order 39 Rule 1 & 2 of the Code of Civil Procedure in arbitration matters. 
+* **Broader Context:** The judgment highlights the importance of clear and specific evidence in support of claims for interim relief and the need for parties to exhaust available dispute resolution mechanisms before seeking court intervention.
+
+**8. Summary Points**
+
+* MAS sought interim relief to prevent Margdarshak from collecting payments from borrowers while arbitration was pending. 
+* The court found that the agreements were in operation and MAS had not terminated them. 
+* MAS failed to provide evidence of a specific amount due or demonstrate irreparable harm.
+* The court held that the relief sought by MAS was essentially a request for enforcement of the contract, which was not appropriate at the interim stage.
+* The court upheld the existing interim order requiring Margdarshak to deposit collected funds in the registry and ordered them to maintain detailed accounts for future arbitration proceedings.
+
+**9. References**
+
+* **Citations:** All the case citations listed in the "Precedents Cited" section above.
+* **Further Reading:** 
+    *  Section 9 of the Arbitration and Conciliation Act, 1996
+    *  Order 39 Rule 1 & 2 of the Code of Civil Procedure, 1908
+    *  Relevant provisions of the service partner/business associate agreements mentioned in the judgment. 

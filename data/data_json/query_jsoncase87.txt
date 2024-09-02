@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A music production company claims copyright infringement by a political party for using their song in a promotional video for a political campaign. The party argues that the use was non-commercial and part of their political expression. Can the production company obtain a mandatory injunction to remove the video from social media platforms?",
+    "Legal Principles": "Copyright Infringement, Fair Use, Right to Freedom of Expression, Mandatory Injunction, Balance of Convenience, Irreparable Harm, Order 39 of the CPC",
+    "Relevant Sections": "The judgment extensively discusses Order 39 of the CPC, specifically Rule 3 and its proviso, which deal with the grant of injunctions without notice. The judgment also analyzes the principles of irreparable harm, balance of convenience, and the application of the legal principles to cases involving copyright infringement and the right to freedom of expression.",
+    "Context": "This case involves a dispute between a music production company and a political party, with the production company alleging copyright infringement by the party. The case focuses on the grant of an ex-parte mandatory injunction, examining the circumstances under which such an injunction can be issued and the legal principles that govern its application."
+  },
+  {
+    "Query": "A software company claims that a competitor is using their trade secret in their product. They seek an injunction to prevent the competitor from using the trade secret and to preserve the status quo.  The competitor denies the allegations and argues that the injunction is too broad and would cause significant harm to their business.",
+    "Legal Principles": "Trade Secret Misappropriation, Injunction, Status Quo, Balance of Convenience, Irreparable Harm, Order 39 of the CPC",
+    "Relevant Sections": "The judgment extensively discusses Order 39 of the CPC, specifically Rule 3 and its proviso, which deal with the grant of injunctions without notice. The judgment also analyzes the principles of irreparable harm, balance of convenience, and the application of the legal principles to cases involving trade secret misappropriation.",
+    "Context": "This case involves a dispute between two software companies, with one company alleging trade secret misappropriation by the other. The case focuses on the grant of an ex-parte injunction, examining the circumstances under which such an injunction can be issued and the legal principles that govern its application."
+  },
+  {
+    "Query": "A land developer seeks an injunction to stop the construction of a neighboring building that they claim violates zoning regulations. The neighboring developer argues that their project complies with all applicable regulations and that the injunction would cause significant financial harm.",
+    "Legal Principles": "Zoning Regulations, Injunction, Balance of Convenience, Irreparable Harm, Order 39 of the CPC",
+    "Relevant Sections": "The judgment extensively discusses Order 39 of the CPC, specifically Rule 3 and its proviso, which deal with the grant of injunctions without notice. The judgment also analyzes the principles of irreparable harm, balance of convenience, and the application of the legal principles to cases involving zoning disputes.",
+    "Context": "This case involves a dispute between two land developers, with one developer alleging that the other is violating zoning regulations. The case focuses on the grant of an ex-parte injunction, examining the circumstances under which such an injunction can be issued and the legal principles that govern its application."
+  },
+  {
+    "Query": "A fashion designer claims that a competitor is copying their designs and selling them under a similar brand name. The designer seeks an injunction to prevent the competitor from using the similar brand name and to stop the sale of the copied designs.",
+    "Legal Principles": "Copyright Infringement, Trademark Infringement, Injunction, Balance of Convenience, Irreparable Harm, Order 39 of the CPC",
+    "Relevant Sections": "The judgment extensively discusses Order 39 of the CPC, specifically Rule 3 and its proviso, which deal with the grant of injunctions without notice. The judgment also analyzes the principles of irreparable harm, balance of convenience, and the application of the legal principles to cases involving design and brand name infringement.",
+    "Context": "This case involves a dispute between two fashion designers, with one designer alleging copyright and trademark infringement by the other. The case focuses on the grant of an ex-parte injunction, examining the circumstances under which such an injunction can be issued and the legal principles that govern its application."
+  },
+  {
+    "Query": "A company claims that a former employee is breaching a non-compete agreement by starting a competing business. The company seeks an injunction to enforce the non-compete agreement and prevent the former employee from operating the competing business.",
+    "Legal Principles": "Non-Compete Agreement, Injunction, Balance of Convenience, Irreparable Harm, Order 39 of the CPC",
+    "Relevant Sections": "The judgment extensively discusses Order 39 of the CPC, specifically Rule 3 and its proviso, which deal with the grant of injunctions without notice. The judgment also analyzes the principles of irreparable harm, balance of convenience, and the application of the legal principles to cases involving the enforcement of non-compete agreements.",
+    "Context": "This case involves a dispute between a company and a former employee, with the company alleging that the former employee is breaching a non-compete agreement. The case focuses on the grant of an ex-parte injunction, examining the circumstances under which such an injunction can be issued and the legal principles that govern its application."
+  },
+  {
+    "Query": "A homeowner claims that a neighboring property owner is encroaching on their land by building a fence that extends onto their property. The homeowner seeks an injunction to force the removal of the encroaching fence.",
+    "Legal Principles": "Property Rights, Trespass, Injunction, Balance of Convenience, Irreparable Harm, Order 39 of the CPC",
+    "Relevant Sections": "The judgment extensively discusses Order 39 of the CPC, specifically Rule 3 and its proviso, which deal with the grant of injunctions without notice. The judgment also analyzes the principles of irreparable harm, balance of convenience, and the application of the legal principles to cases involving property disputes.",
+    "Context": "This case involves a dispute between two neighboring property owners, with one homeowner alleging that the other is encroaching on their property. The case focuses on the grant of an ex-parte injunction, examining the circumstances under which such an injunction can be issued and the legal principles that govern its application."
+  },
+  {
+    "Query": "A restaurant owner claims that a competitor is using a similar name and logo that is likely to confuse customers. The restaurant owner seeks an injunction to prevent the competitor from using the similar name and logo.",
+    "Legal Principles": "Trademark Infringement, Injunction, Balance of Convenience, Irreparable Harm, Order 39 of the CPC",
+    "Relevant Sections": "The judgment extensively discusses Order 39 of the CPC, specifically Rule 3 and its proviso, which deal with the grant of injunctions without notice. The judgment also analyzes the principles of irreparable harm, balance of convenience, and the application of the legal principles to cases involving trademark infringement.",
+    "Context": "This case involves a dispute between two restaurant owners, with one owner alleging trademark infringement by the other. The case focuses on the grant of an ex-parte injunction, examining the circumstances under which such an injunction can be issued and the legal principles that govern its application."
+  },
+  {
+    "Query": "A publisher claims that a book author is breaching their contract by publishing the book with a different publisher. The publisher seeks an injunction to prevent the author from publishing the book with the other publisher.",
+    "Legal Principles": "Contract Breach, Injunction, Balance of Convenience, Irreparable Harm, Order 39 of the CPC",
+    "Relevant Sections": "The judgment extensively discusses Order 39 of the CPC, specifically Rule 3 and its proviso, which deal with the grant of injunctions without notice. The judgment also analyzes the principles of irreparable harm, balance of convenience, and the application of the legal principles to cases involving breach of contract.",
+    "Context": "This case involves a dispute between a publisher and a book author, with the publisher alleging that the author is breaching their contract. The case focuses on the grant of an ex-parte injunction, examining the circumstances under which such an injunction can be issued and the legal principles that govern its application."
+  },
+  {
+    "Query": "A construction company claims that a subcontractor is failing to perform their work according to the terms of their contract. The construction company seeks an injunction to force the subcontractor to complete the work or to terminate the contract.",
+    "Legal Principles": "Contract Breach, Injunction, Balance of Convenience, Irreparable Harm, Order 39 of the CPC",
+    "Relevant Sections": "The judgment extensively discusses Order 39 of the CPC, specifically Rule 3 and its proviso, which deal with the grant of injunctions without notice. The judgment also analyzes the principles of irreparable harm, balance of convenience, and the application of the legal principles to cases involving breach of contract.",
+    "Context": "This case involves a dispute between a construction company and a subcontractor, with the construction company alleging that the subcontractor is breaching their contract. The case focuses on the grant of an ex-parte injunction, examining the circumstances under which such an injunction can be issued and the legal principles that govern its application."
+  },
+  {
+    "Query": "A technology company claims that a competitor is infringing on their patent by using a similar technology in their product. The technology company seeks an injunction to prevent the competitor from manufacturing and selling the product.",
+    "Legal Principles": "Patent Infringement, Injunction, Balance of Convenience, Irreparable Harm, Order 39 of the CPC",
+    "Relevant Sections": "The judgment extensively discusses Order 39 of the CPC, specifically Rule 3 and its proviso, which deal with the grant of injunctions without notice. The judgment also analyzes the principles of irreparable harm, balance of convenience, and the application of the legal principles to cases involving patent infringement.",
+    "Context": "This case involves a dispute between two technology companies, with one company alleging patent infringement by the other. The case focuses on the grant of an ex-parte injunction, examining the circumstances under which such an injunction can be issued and the legal principles that govern its application."
+  }
+]
+```

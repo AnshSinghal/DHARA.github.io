@@ -1,0 +1,79 @@
+## Case Summary: Apollo Real Estate LLP vs. Dr. Arun Waghmare
+
+**1. Case Title**
+
+* **Case Name:** Apollo Real Estate LLP (through its partner Shashibhushan Khandelwal) vs. Dr. Arun Waghmare & others
+* **Court:** Madhya Pradesh High Court
+* **Date of Judgment:** 14th June, 2022
+* **Citation:** A.A. Nos. 33 & 34 of 2020
+
+**2. Background and Context**
+
+* **Brief Overview:** This case arose from an agreement to sell land dated 5th July 2004 between Apollo Real Estate LLP (Appellant) and Dr. Arun Waghmare (Respondent) and others. The dispute concerned the sale of 2.72 acres of agricultural land, a joint family property. The sale consideration was Rs. 9.5 Crores.
+* **Key Issues:**
+    * Whether the dispute is a "commercial dispute" under the Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015 ("Act of 2015").
+    * Whether an appeal arising out of an order passed under Section 34 of the Arbitration and Conciliation Act, 1996 ("Arbitration Act") passed by a Commercial Court should be treated as an Arbitration Appeal and heard by the Single Bench or the Division Bench.
+    * Whether the High Court Rules and Orders need clarification on the listing of appeals arising from arbitration awards passed by the Commercial Court.
+
+**3. Legal Principles Involved**
+
+* **Relevant Statutes and Provisions:**
+    * Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015 ("Act of 2015")
+    * Arbitration and Conciliation Act, 1996 ("Arbitration Act")
+    * Code of Civil Procedure, 1908 ("C.P.C.")
+* **Precedents Cited:**
+    * Kandla Export Corpn. V/s. OCT Corpn.: (2018) 14 SCC 715
+    * BGS SGS SOMA JV V/s. NHPC Limited: (2020) 4 SCC 234
+    * Ambalal Sarabhai Enterprises Ltd. V/s. K.S. Infraspace LLP and another: (2020) 15 SCC 585
+* **Legal Doctrines:**
+    * Interpretation of "commercial dispute" under the Act of 2015
+    * Application of the "used exclusively in trade or commerce" criterion for immovable property
+    * Determining the scope of appeals under Section 37 of the Arbitration Act
+    *  Jurisdiction of the Commercial Court and Division Bench of the High Court.
+
+**4. Arguments Presented**
+
+* **Appellant's Argument:** The Appellant argued that the dispute should be considered a commercial dispute under the Act of 2015 because the value of the subject matter was over Rs. 1 Crore. They also argued that the appeal should be heard by the Division Bench as it was an appeal against an order passed by the Commercial Court.
+* **Respondent's Argument:** The Respondents argued that the dispute was not a commercial dispute because the land in question was an agricultural property and not used exclusively in trade or commerce. They also argued that the appeal should be heard by the Single Bench as it was an appeal under Section 37 of the Arbitration Act.
+
+**5. Court's Analysis and Reasoning**
+
+* **Key Findings:**
+    * The High Court determined that the agreement to sell agricultural land did not fall under the definition of "commercial dispute" as per the Act of 2015, as the land was not used exclusively in trade or commerce.
+    * The Court relied on the Supreme Court's judgment in Ambalal Sarabha Enterprises Ltd. (supra), where it was held that the word "used" in the Act of 2015 denotes "actually used" and not "ready for use" or "likely to be used."
+    * The Court also observed that the High Court Rules & Orders were silent on the registration and listing of appeals filed under Section 37 of the Arbitration Act or Section 13 of the Act of 2015.
+    * The Court further noted that the Supreme Court in BGS SGS SOMA JV (supra) held that there is no independent right of appeal under Section 13(1) of the Act of 2015, and the scope of appealability should be determined by Section 37 of the Arbitration Act.
+* **Interpretation of Law:** The Court interpreted the definition of "commercial dispute" in the Act of 2015 and the scope of appeal under Section 37 of the Arbitration Act. It also analyzed the relevant Supreme Court precedents to reach its conclusions.
+* **Application of Law:** The Court applied the legal principles to the facts of the case, concluding that the dispute was not a "commercial dispute" and the appeal was maintainable under Section 37 of the Arbitration Act. 
+
+**6. Judgment**
+
+* **Final Decision:** The Court held that the appeal was not maintainable under Section 13 of the Act of 2015, as the dispute was not a "commercial dispute."  The appeal was, however, maintainable under Section 37 of the Arbitration Act.
+* **Relief Granted:** The Court directed that the appeal be treated as an appeal under Section 37 of the Arbitration Act and be heard by the Single Bench.
+* **Orders:** The Court also recommended that the Hon'ble Chief Justice consider amending the High Court Rules & Orders and Roster provisions to address the ambiguity in listing appeals arising from arbitration awards passed by Commercial Courts.
+
+**7. Implications**
+
+* **Impact on Law:** This judgment provides clarification on the definition of "commercial dispute" under the Act of 2015, specifically with respect to agreements related to immovable property. It also emphasizes that the scope of appealability under Section 37 of the Arbitration Act should be applied in determining whether appeals from orders passed by Commercial Courts are maintainable.
+* **Future Relevance:** This judgment will be relevant for future cases involving disputes related to immovable property and the applicability of the Act of 2015. It will also guide the High Court in addressing the ambiguity in its Rules & Orders concerning the listing of appeals arising from arbitration awards passed by Commercial Courts.
+* **Broader Context:** The case highlights the need for clarity and consistency in the interpretation of the Act of 2015 and the Arbitration Act, as well as the importance of addressing procedural issues related to appeals arising from arbitration matters.
+
+**8. Summary Points**
+
+* This was an appeal against an order passed by a Commercial Court under Section 34 of the Arbitration Act.
+* The dispute involved an agreement to sell agricultural land, which was held not to be a "commercial dispute" under the Act of 2015.
+* The High Court determined that the appeal was maintainable under Section 37 of the Arbitration Act and should be heard by the Single Bench.
+* The Court recommended amending the High Court Rules & Orders and Roster provisions to provide clarity on the listing of appeals from arbitration awards passed by Commercial Courts.
+
+**9. References**
+
+* **Citations:**
+    * Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015
+    * Arbitration and Conciliation Act, 1996
+    * Code of Civil Procedure, 1908
+    * Kandla Export Corpn. V/s. OCT Corpn.: (2018) 14 SCC 715
+    * BGS SGS SOMA JV V/s. NHPC Limited: (2020) 4 SCC 234
+    * Ambalal Sarabhai Enterprises Ltd. V/s. K.S. Infraspace LLP and another: (2020) 15 SCC 585
+* **Further Reading:**
+    * "Commercial Courts Act, 2015: A Commentary" by Dr. R.K. Bag
+    * "The Arbitration and Conciliation Act, 1996: A Critical Analysis" by Dr. S.K. Ghose

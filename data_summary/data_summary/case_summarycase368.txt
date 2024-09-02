@@ -1,0 +1,100 @@
+## 1. Case Title
+
+* **Case Name:** Super Cassettes Industries Pvt. Ltd. vs. M/S Goldy Dish Antenna & Others
+* **Court:** Delhi High Court
+* **Date of Judgment:** 17th August 2016
+* **Citation:** CS(COMM) Nos.775, 777, 779, 783, 785, 787 & 789 of 2016
+
+## 2. Background and Context
+
+* **Brief Overview:** Super Cassettes Industries Pvt. Ltd. (the plaintiff) filed seven suits against various cable operators (the defendants) in the Delhi High Court, seeking to restrain them from broadcasting copyrighted cinematograph films, sound recordings, literary works, and musical works owned by the plaintiff. Each suit valued the relief sought at Rs. 25,01,000/- (approximately $34,000 USD).
+* **Key Issues:** The primary issue was whether the Delhi High Court's Commercial Division had jurisdiction to hear these suits, as the total value of the reliefs sought (Rs. 25,01,000/-) was below the specified value of Rs. 1 crore (approximately $135,000 USD) mandated by the Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015 (Commercial Courts Act). The plaintiff argued that the first proviso to Section 7 of the Commercial Courts Act gave the High Court jurisdiction to entertain these suits because they were related to intellectual property rights and stipulated by law to lie in a court not inferior to a District Court.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * **The Commercial Courts Act, 2015:** Section 2(1)(c)(xvii), Section 7, Section 12(1), Section 15.
+    * **The Copyright Act, 1957:** Section 62(1).
+    * **The Delhi High Court Act, 1966:** Section 5.
+    * **The Patents Act, 1970:** Section 104.
+    * **The Trade Marks Act, 1999:** Section 134.
+    * **The Designs Act, 2000:** Section 22(2).
+    * **The Code of Civil Procedure, 1908 (CPC):** Section 24(5).
+* **Precedents Cited:**
+    * Guiness World Records Limited Vs. Sababbi Mangal 230 (2016) DLT 377.
+    * Dental Council of India Vs. Hari Prakash (2001) 8 SCC 61.
+    * C.L. Devgun Vs. New Delhi Municipal Council 2008 (155) DLT 180.
+    * The Tata Oil Mills Co. Ltd. Vs. Hansa Chemical Pharmacy MANU/DE/0153/1978 Delhi 236.
+    * Rahisuddin Vs. Gambit Leasing & Finance Pvt. Ltd. 2011 (176) DLT 696.
+    * Kamal Sharma Vs. Blue Coast Infrastructure Development Pvt. Ltd. 229 (2016) DLT 438.
+    * Sanofi Aventis Vs. Intas Pharmaceuticals Ltd. 227 (2016) DLT 296.
+    * Delhi High Court Bar Association Vs. Government of National Capital Territory of Delhi (2013) 203 DLT 129.
+* **Legal Doctrines:**
+    * **Literal Interpretation:** The court considered the plain meaning of the words used in the relevant statute.
+    * **Intention of the Legislature:** The court attempted to ascertain the intent of the legislature when drafting the law.
+    * **Interpretation of Statutes:** The court applied general principles of statutory interpretation, such as avoiding interpretations that would render other provisions of the statute nugatory.
+    * **Jurisdiction:** The court analyzed the legal basis for its jurisdiction to hear the case.
+
+## 4. Arguments Presented
+
+* **Plaintiff’s Argument:** 
+    * The plaintiff argued that the first proviso to Section 7 of the Commercial Courts Act applied to suits already pending or filed after the enactment of the act. 
+    * They argued that the use of the conjunction "or" between "filed" and "pending" indicated that the provision covered both categories of suits.
+    * They also cited the Press Note released by the Press Information Bureau which they argued clarified that the Commercial Courts Act applies to pending matters. 
+    * They emphasized the interpretation of "District Court" to include the local limits of a High Court's ordinary original civil jurisdiction.
+* **Defendant’s Argument:** The defendants did not present arguments as they were not represented in court.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The court found that the phrase "filed or pending" in the first proviso to Section 7 of the Commercial Courts Act referred only to suits pending on the date of the Act's enactment.
+    * The court relied on the Press Note issued by the Press Information Bureau and the 78th Report of the Department-Related Parliamentary Standing Committee on Personnel, Public Grievances, Law and Justice to support this interpretation.
+    * The court found that the interpretation advocated by the plaintiff would create inconsistencies with other provisions of the Commercial Courts Act, particularly Section 2(1)(i), Section 12, and Section 15.
+    * The court also noted that accepting the plaintiff's interpretation would overburden the Commercial Division of the High Court with suits below the specified value.
+* **Interpretation of Law:** The court interpreted the first proviso to Section 7 of the Commercial Courts Act to only apply to pending suits at the time of its enactment. The court also interpreted the phrase "District Court" in the context of the Copyright Act to mean the Court of the District Judge, not the High Court.
+* **Application of Law:**  The court applied its interpretation of the Commercial Courts Act to the facts of the case, finding that the suits, as filed, were below the minimum pecuniary jurisdiction of the Delhi High Court and below the specified value in accordance with the Act.
+
+## 6. Judgment
+
+* **Final Decision:** The court ruled against the plaintiff, finding that the Commercial Division of the Delhi High Court did not have jurisdiction to hear the suits.
+* **Relief Granted:** No relief was granted as the court dismissed the suits.
+* **Orders:** The court ordered the transfer of all seven suits to the Court of the District Judge (Central), Tis Hazari Courts, Delhi.
+
+## 7. Implications
+
+* **Impact on Law:** This judgment clarifies the interpretation of the first proviso to Section 7 of the Commercial Courts Act, limiting its applicability to suits pending on the date of the Act's enactment. 
+* **Future Relevance:** This case provides a valuable precedent for future cases concerning the jurisdiction of Commercial Divisions of High Courts in relation to suits involving intellectual property rights. 
+* **Broader Context:** The case highlights the need for careful consideration of jurisdictional issues and the impact of new legislation on existing court proceedings.
+
+## 8. Summary Points
+
+* **Key Takeaways:**
+    * The Commercial Division of the Delhi High Court only has jurisdiction over suits relating to commercial disputes that meet the specified value requirement of Rs. 1 crore.
+    * The first proviso to Section 7 of the Commercial Courts Act only applies to suits pending on the date of the Act's enactment, not to suits filed thereafter.
+    * The court prioritized consistency in statutory interpretation and avoided interpretations that would overburden the Commercial Division.
+    * Suits related to intellectual property rights, if below the specified value, should be filed in the appropriate District Court.
+
+## 9. References
+
+* **Citations:** 
+    * **Commercial Courts Act, 2015.**
+    * **Copyright Act, 1957.**
+    * **Delhi High Court Act, 1966.**
+    * **Patents Act, 1970.**
+    * **Trade Marks Act, 1999.**
+    * **Designs Act, 2000.**
+    * **Code of Civil Procedure, 1908 (CPC).**
+    * **Guiness World Records Limited Vs. Sababbi Mangal 230 (2016) DLT 377.**
+    * **Dental Council of India Vs. Hari Prakash (2001) 8 SCC 61.**
+    * **C.L. Devgun Vs. New Delhi Municipal Council 2008 (155) DLT 180.**
+    * **The Tata Oil Mills Co. Ltd. Vs. Hansa Chemical Pharmacy MANU/DE/0153/1978 Delhi 236.**
+    * **Rahisuddin Vs. Gambit Leasing & Finance Pvt. Ltd. 2011 (176) DLT 696.**
+    * **Kamal Sharma Vs. Blue Coast Infrastructure Development Pvt. Ltd. 229 (2016) DLT 438.**
+    * **Sanofi Aventis Vs. Intas Pharmaceuticals Ltd. 227 (2016) DLT 296.**
+    * **Delhi High Court Bar Association Vs. Government of National Capital Territory of Delhi (2013) 203 DLT 129.**
+* **Further Reading:** 
+    * **The Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015.**
+    * **The Copyright Act, 1957.**
+    * **Articles and legal commentaries on the Commercial Courts Act, 2015.**
+
+This summary provides a comprehensive overview of the case, covering all the relevant facts, arguments, legal principles, and the court's reasoning. It also discusses the implications of the judgment for future legal decisions and practice. 

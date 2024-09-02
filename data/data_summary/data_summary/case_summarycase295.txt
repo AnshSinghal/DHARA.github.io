@@ -1,0 +1,90 @@
+## 1. Case Title
+
+* **Case Name:** The Director, Esd Mee Seva, vs Ccs Infotec Limited
+* **Court:** Telangana High Court
+* **Date of Judgment:** 26 August 2022
+* **Citation:**  COMMERCIAL COURT APPEAL NOs.33, 34, 40, 41, 42, 48, 49, 51 and 52 of 2018 and 4, 17, 18, 19, 20 OF 2019
+
+## 2. Background and Context
+
+* **Brief Overview:** This case involves a dispute arising from agreements between the Mee Seva organization (government entity) and several software companies, including CCS Infotech Limited, United Telecoms Ltd., and CMS Computers Limited.  These agreements, signed in 2003, were for the companies to build, operate, and maintain Mee Seva centers (e-governance centers) in different zones of the state.  Disputes arose regarding the effective date of the agreements, the downward revision of rates, and the fixation of transaction slabs.
+* **Key Issues:**
+    * Whether the Arbitrator could pass both a preliminary award and a final award in the same arbitration proceedings.
+    * Whether the Commercial Court could modify the awards passed by the Arbitrator in a Section 34 application under the Arbitration and Conciliation Act, 1996.
+    * Whether the Arbitrator's findings and conclusions on the revision of rates and the determination of transaction slabs were legally valid.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * Arbitration and Conciliation Act, 1996 (Sections 2, 17, 32, 33, 34)
+    * Code of Civil Procedure, 1908
+* **Precedents Cited:**
+    * *The Project Director, National Highways Nos.45E and 220, National Highways Authority of India vs. M.Hakeem and others* (2021) 9 SCC 1 
+    * *Ragya Bee and others vs. P.S.R. Constructions and others* 2022 (3) ALD 151
+    * *Delhi Airport Metro Express Pvt. Ltd. Vs. Delhi Metro Rail Corporation Ltd.* (2006) 11 SCC 181
+    * *McDermott International Inc. v. Burn Standard Co. Ltd.* (2006) 11 SCC 181
+* **Legal Doctrines:**
+    * *Functus Officio*:  The principle that once an arbitrator has passed an award, they lose jurisdiction over the matter.
+    * *Public Policy*:  The principle that arbitral awards must not conflict with the fundamental policy of Indian law or with the most basic notions of morality and justice.
+
+## 4. Arguments Presented
+
+* **Appellant's (CCS Infotech Limited) Argument:** 
+    *  The Commercial Court erred in modifying the Arbitrator's award under Section 34.  Section 34 only allows for setting aside or remanding an award, not modifying it.
+    * The Court incorrectly interpreted the government order regarding the revision of rates, applying it retrospectively instead of prospectively.
+    * The reduction of interest from 12% to 6% was also unjustified.
+    * The Arbitrator's award should be upheld in its entirety.
+* **Respondent's (Mee Seva) Argument:** 
+    * The Arbitrator acted beyond his jurisdiction by passing two separate awards (preliminary and final) in the same arbitration. 
+    * The Arbitrator erred in finding that the government order on electricity bills applied to existing contractors.
+    * The Arbitrator extended the contract period beyond the original terms, acting in excess of his jurisdiction. 
+    * The entire arbitration process was vitiated due to the illegal dual awards and other errors.
+    * The case should be remanded for a fresh arbitration before a new Arbitrator.
+
+## 5. Court's Analysis and Reasoning
+
+* **Key Findings:**
+    * The Court found that the Arbitrator was not legally permitted to pass both a preliminary award and a final award in the same arbitration proceedings.
+    * The Court affirmed that the Commercial Court erred in modifying the Arbitrator's award under Section 34. Section 34 only allows for setting aside or remanding an award, not altering it.
+    * The Court agreed that the Arbitrator's decision to pass a final award after a Section 34 application challenging the preliminary award was a violation of the statutory mandate. 
+* **Interpretation of Law:** 
+    * The Court analyzed the relevant provisions of the Arbitration and Conciliation Act, 1996, emphasizing that it only allows for a single final award in an arbitration, except for minor corrections or interpretations under Section 33.
+    * The Court referenced several Supreme Court judgments establishing that courts cannot modify arbitral awards under Section 34 but can only set aside or remand them.
+* **Application of Law:** 
+    * The Court applied the *functus officio* principle to the case, concluding that the Arbitrator had no authority to pass a final award after the Section 34 application was filed.
+    * The Court ruled that the dual awards and the Commercial Court's modification of the awards were vitiated by procedural errors.
+
+## 6. Judgment
+
+* **Final Decision:** The Court allowed the appeals filed by all parties. 
+* **Relief Granted:** The Court remanded the case for fresh arbitration before a new Arbitrator, Justice Vilas V. Afzulpurkar.
+* **Orders:** 
+    * The parties were ordered to submit all relevant documents to the new Arbitrator within four weeks.
+    * The new Arbitrator was requested to conclude the arbitration proceedings expeditiously, preferably within 16 weeks.
+
+## 7. Implications
+
+* **Impact on Law:**  The judgment further clarifies the limits of the court's power under Section 34 of the Arbitration and Conciliation Act, 1996. It reinforces the principle that courts can only set aside or remand arbitral awards, not modify them.
+* **Future Relevance:**  This judgment will likely be cited in future cases involving challenges to arbitral awards, particularly in instances where there are allegations of procedural irregularities or exceeding the Arbitrator's jurisdiction.
+* **Broader Context:**  The case highlights the importance of procedural correctness in arbitration proceedings. It also underscores the need for clarity in arbitration agreements to avoid potential disputes regarding the scope of the Arbitrator's authority.
+
+## 8. Summary Points
+
+* The Arbitrator cannot pass both preliminary and final awards in the same arbitration.
+* The Commercial Court cannot modify arbitral awards under Section 34; it can only set aside or remand them.
+* An arbitrator becomes *functus officio* after passing an award, and cannot act further except as permitted under Section 33.
+* The case was remanded for a fresh arbitration due to procedural errors and violations of the statutory mandate.
+
+## 9. References
+
+* **Citations:**
+    * Arbitration and Conciliation Act, 1996 (Sections 2, 17, 32, 33, 34)
+    * Code of Civil Procedure, 1908
+    * *The Project Director, National Highways Nos.45E and 220, National Highways Authority of India vs. M.Hakeem and others* (2021) 9 SCC 1 
+    * *Ragya Bee and others vs. P.S.R. Constructions and others* 2022 (3) ALD 151
+    * *Delhi Airport Metro Express Pvt. Ltd. Vs. Delhi Metro Rail Corporation Ltd.* (2006) 11 SCC 181
+    * *McDermott International Inc. v. Burn Standard Co. Ltd.* (2006) 11 SCC 181
+* **Further Reading:**
+    *  "Arbitration and Conciliation Act, 1996" by Avtar Singh
+    *  "The Law Relating to Arbitration and Conciliation" by P.C. Rao
+

@@ -1,0 +1,104 @@
+## Case Summary: M/s Triveni Brokers vs. M/s Hira Ram Hansa Ram
+
+**1. Case Title**
+
+* **Case Name:** M/s Triveni Brokers vs. M/s Hira Ram Hansa Ram
+* **Court:** Rajasthan High Court, Jodhpur
+* **Date of Judgment:** 19th March 2024
+* **Citation:** [2024:RJ-JD:12253] 
+
+**2. Background and Context**
+
+* **Brief Overview:** This case involves a commercial dispute between a broker firm, M/s Triveni Brokers (Petitioner), and a grocery goods supplier, M/s Hira Ram Hansa Ram (Respondent). The Respondent filed a suit against the Petitioner for recovering an amount of Rs. 17,86,774/- allegedly due to them for the sale of goods facilitated by the Petitioner. The dispute stemmed from the Petitioner's alleged failure to pay the Respondent after selling goods to various traders on their behalf.
+* **Key Issues:** The main legal issues were:
+    * Whether the Respondent's plaint disclosed a cause of action against the Petitioner.
+    * Whether the Respondent was entitled to produce photostat copies of payment receipts as secondary evidence under Section 65 of the Indian Evidence Act, 1872.
+
+**3. Legal Principles Involved**
+
+* **Relevant Statutes and Provisions:**
+    * **Constitution of India:** Articles 226 & 227
+    * **Code of Civil Procedure, 1908:** Order VII Rule 11, Order XI Rule 12 & 14
+    * **Indian Evidence Act, 1872:** Sections 63, 65, 66 
+    * **Commercial Courts Act, 2015:** Section 8 
+* **Precedents Cited:**
+    * **Arun Kumar v. Special Judge, NDPS [S.B.C.W.P. No. 3322 of 2018 decided on 13.03.2018]** - Interpreted the scope of Section 65 of the Evidence Act.
+    * **Mahboob Hussan v. Smt. Vidya Sharma and Anr. [C.R. No. 74 of 2014 decided on 14.03.2017]** - Explained the connection between Order XI Rule 12 & 14 CPC and Section 66 of the Evidence Act.
+    * **Rajeev Khanna urf Raju s/o (late) Shri Azad Khanna v. Smt. Anita Tripathi D/0 (late) Shri Suraj Prakash Tripathi [S.B.C.W.P No. 22718 of 2017 decided on 03.01.2018]** - Held that secondary evidence can be admitted even after dismissal of an application under Order XI Rule 12 & 14 CPC.
+    * **Ashok Dulichand v. Madahavlal Dube : (1975) 4 SCC 664** - Explained the conditions for admissibility of secondary evidence under Section 65 of the Evidence Act.
+    * **Virendra Kumar v. Neeraj Garg : S.B. Civil Writ Petition No.10391/2023 decided on 01.03.2024** - Emphasized the need to fulfill pre-requisites of Section 65 of the Evidence Act before leading secondary evidence.
+    * **Rakesh Mohindra v. Anita Beri and Ors. : (2016) 16 SCC 483** - Outlined pre-conditions for leading secondary evidence. 
+    * **Mukesh Kumar v. Prithvi Raj : S.B. Civil Writ Petition No.12845/2019 decided on 28.07.2023** - Explained the purpose of notice under Section 66 of the Evidence Act.
+    * **Sardar Khan Khokhar versus Shri Devji Patel and Ors reported in 2011(3)DNJ (Raj) 1563** - Emphasized that the plaint should be read as a whole while deciding an application for rejection under Order VII Rule 11 CPC.
+    * **Late Dhanpat Kanwar and Anr versus Smt Shanti and Ors (SBCWP No. 9794/2017)** - Reinforced the principle of reading the plaint as a whole for deciding an application for rejection.
+    * **Azhar Hussain v. Rajiv Gandhi : 1996 Supp SCC 315** - Explained the purpose of Order VII Rule 11 CPC.
+    * **Liverpool & London S.P. & I Assn. Ltd. v. M.V. Sea Success I : (2004) 9 SCC 512** - Held that the plaint should be read in its entirety for determining whether it discloses a cause of action.
+    * **Church of Christ Charitable Trust & Educational Charitable Society v. Ponniamman Educational Trust : (2012) 8 SCC 706** - Defined cause of action as a bundle of facts giving the plaintiff the right to relief.
+    * **ABC Laminart (P) Ltd. v. A.P. Agencies : (1989) 2 SCC 163** - Elaborated on the meaning of "cause of action" as a bundle of facts.
+    * **ITC Ltd. vs. Debts Recovery Appellate Tribunal : (1998) 2 SCC 70** - Highlighted the objective of Order VII Rule 11 CPC.
+    * **Madanuri Sri Rama Chandra Murthy v. Syed Jalal : (2017) 13 SCC 174** - Explained the conditions for rejecting a plaint under Order VII Rule 11 CPC.
+    * **Rajendra Bijoria & Ors. v. Hemant Kumar Jalan & Anr. : (2022) 12 SCC 641** - Elucidated the objective of Order VII Rule 11 CPC.
+    * **Rajasthan State Mines and Minerals Ltd. v. Ankur Minmine Product Pvt. Ltd. decided on 07.03.2019** - Held that writ petition under Article 227 is maintainable against an interlocutory order of a commercial court.
+* **Legal Doctrines:**
+    * **Cause of Action:** This refers to the set of facts that give rise to a right to legal action.
+    * **Secondary Evidence:** This is evidence admitted when the original evidence is unavailable, lost, or in the possession of the opponent.
+    * **Maintainability of Suit:** This refers to whether a suit is filed in the appropriate court, with proper parties, and with a valid cause of action.
+
+**4. Arguments Presented**
+
+* **Plaintiff’s Argument:** 
+    * The Petitioner, as a broker, had sold goods on their behalf to various traders and collected the payment.
+    * Despite collecting payments, the Petitioner failed to pay the due amount to the Respondent.
+    * This constituted a breach of their agreement and fraudulent conduct, giving rise to a cause of action for the suit.
+    * The Respondent was entitled to produce photostat copies of payment receipts as secondary evidence because the original receipts were in the possession of the Petitioner.
+    * The Respondent had taken sufficient steps to call for the original documents by filing an application under Order XI Rule 12 & 14 CPC.
+    * Notice under Section 66 of the Evidence Act was not required because the Petitioner was aware of the Respondent's intention to produce photostat copies.
+* **Defendant’s Argument:**
+    * The Respondent's plaint did not disclose a cause of action because it failed to mention the purchasers who bought the goods.
+    * The Petitioner was not a sole proprietorship but a partnership firm, and therefore, the proper parties were not included in the suit.
+    * The Respondent was not entitled to produce secondary evidence because they had not fulfilled the requirements of Section 65 of the Evidence Act.
+    * The Respondent had not served proper notice under Section 66 of the Evidence Act before seeking to produce secondary evidence.
+    * The Respondent's application under Section 65 was not maintainable because their previous application under Order XI Rule 12 & 14 CPC had been rejected.
+
+**5. Court’s Analysis and Reasoning**
+
+* **Key Findings:**
+    * The Court found that the Respondent's plaint adequately disclosed a cause of action.
+    * The Court held that the Respondent was entitled to produce secondary evidence of the payment receipts as the original documents were in the possession of the Petitioner.
+    * The Court ruled that the Respondent had taken sufficient steps to call for the original documents by filing an application under Order XI Rule 12 & 14 CPC.
+    * The Court observed that the Petitioner was aware of the Respondent's intention to produce secondary evidence, making formal notice under Section 66 of the Evidence Act unnecessary.
+* **Interpretation of Law:**
+    * The Court interpreted the provisions of Order VII Rule 11 CPC and Section 65 of the Evidence Act in light of several precedents.
+    * The Court emphasized that the plaint must be read in its entirety to determine if it discloses a cause of action.
+    * The Court reiterated that secondary evidence is admissible when the original document is in the possession of the opponent.
+* **Application of Law:**
+    * The Court applied the principles of law to the facts of the case, concluding that the Respondent had a valid cause of action and was entitled to produce photostat copies of payment receipts as secondary evidence.
+
+**6. Judgment**
+
+* **Final Decision:** The High Court dismissed both the writ petitions filed by the Petitioner.
+* **Relief Granted:** No relief was granted to the Petitioner.
+* **Orders:** The Court upheld the orders passed by the Commercial Court, rejecting the Petitioner's applications under Order VII Rule 11 CPC and Section 65 of the Indian Evidence Act.
+
+**7. Implications**
+
+* **Impact on Law:** The judgment reinforces the principles of cause of action and secondary evidence, especially in commercial disputes. It emphasizes the importance of scrutinizing the entire plaint to determine cause of action and the conditions for admitting secondary evidence.
+* **Future Relevance:** This case will be a useful precedent in future cases involving similar legal issues related to pleading a cause of action and admissibility of secondary evidence. 
+* **Broader Context:** The judgment highlights the importance of clear and detailed pleadings in civil litigation and the limitations on technical objections to suit maintainability. It underscores the Court's role in ensuring a fair and just outcome by focusing on the substance of the dispute rather than procedural technicalities.
+
+**8. Summary Points**
+
+* The Petitioner's arguments about the Respondent's plaint not disclosing a cause of action and the non-maintainability of the suit were dismissed.
+* The Court upheld the Respondent's right to produce photostat copies of payment receipts as secondary evidence.
+* The judgment underscores the importance of scrutinizing pleadings in their entirety and the Court's role in balancing procedural technicalities with the need for a fair outcome.
+
+**9. References**
+
+* **Citations:** All statutes, cases, and legal texts referenced in the summary.
+* **Further Reading:**  
+    * **The Code of Civil Procedure, 1908**
+    * **The Indian Evidence Act, 1872**
+    * **The Commercial Courts Act, 2015**
+    * **Leading cases on cause of action, secondary evidence, and maintainability of suit.**
+
+**Disclaimer:** This summary is provided for informational purposes only and should not be considered legal advice. Please consult with an attorney for legal advice related to your specific situation. 

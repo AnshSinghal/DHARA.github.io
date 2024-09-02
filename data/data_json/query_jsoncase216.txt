@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A company entered into a contract with the state government for the development of a public infrastructure project on a PPP basis. The contract was later declared void ab initio by the High Court. The company then filed an arbitration claim against the state government seeking compensation for its investment. The state government wants to know if it is legally obligated to pay interest on the company's investment during the period when the contract was declared void ab initio.",
+    "Legal Principles": "The legal principle of unjust enrichment dictates that a party should not be allowed to benefit unfairly at the expense of another party. This principle is particularly relevant in cases involving the voiding of contracts, where one party may have incurred expenses or made investments in reliance on the validity of the contract.",
+    "Relevant Sections": "Section 5 of the Arbitration and Conciliation Act, 1996, which restricts judicial intervention in matters governed by the Act, except as provided therein. Section 36(3) of the Act, which deals with the stay of execution of an arbitral award.",
+    "Context": "Jurisdiction: India. Case Type: Writ Petition challenging an order passed by a Commercial Court under the Arbitration and Conciliation Act, 1996, regarding the deposit of an arbitral award amount."
+  },
+  {
+    "Query": "A construction company entered into a contract with a government agency for the construction of a bridge. The contract was terminated due to unforeseen circumstances beyond the control of the construction company. The construction company filed an arbitration claim against the government agency seeking compensation for its losses. The government agency argues that the construction company is not entitled to compensation because the contract was terminated due to force majeure. The arbitration tribunal ruled in favor of the construction company. The government agency wants to know if it can challenge the tribunal's award in court.",
+    "Legal Principles": "Force majeure clauses in contracts generally excuse parties from performance due to events beyond their reasonable control. However, the interpretation of force majeure clauses can be complex, and courts may consider factors such as the specific wording of the clause, the nature of the event, and the parties' intentions.",
+    "Relevant Sections": "Section 34 of the Arbitration and Conciliation Act, 1996, which allows a party to challenge an arbitral award on various grounds, including that the award is against the public policy of India.",
+    "Context": "Jurisdiction: India. Case Type: Application under Section 34 of the Arbitration and Conciliation Act, 1996, to challenge an arbitral award."
+  },
+  {
+    "Query": "A company filed an arbitration claim against its former employee seeking damages for breach of contract. The arbitration tribunal ruled in favor of the company. The former employee wants to know if he can challenge the tribunal's award in court.",
+    "Legal Principles": "An arbitration award is generally final and binding on the parties. However, a party can challenge an arbitral award in court if it can show that the award is contrary to law, public policy, or the terms of the arbitration agreement.",
+    "Relevant Sections": "Section 34 of the Arbitration and Conciliation Act, 1996, which allows a party to challenge an arbitral award on various grounds, including that the award is against the public policy of India.",
+    "Context": "Jurisdiction: India. Case Type: Application under Section 34 of the Arbitration and Conciliation Act, 1996, to challenge an arbitral award."
+  },
+  {
+    "Query": "Two parties entered into a contract for the sale of goods. The contract contained an arbitration clause. A dispute arose between the parties regarding the quality of the goods. The seller filed an arbitration claim against the buyer. The buyer wants to know if he can file a lawsuit in court against the seller while the arbitration proceedings are ongoing.",
+    "Legal Principles": "The principle of Kompetenz-Kompetenz, which grants an arbitral tribunal the power to determine its own jurisdiction. This principle generally prohibits courts from interfering with arbitration proceedings.",
+    "Relevant Sections": "Section 5 of the Arbitration and Conciliation Act, 1996, which restricts judicial intervention in matters governed by the Act, except as provided therein.",
+    "Context": "Jurisdiction: India. Case Type: Dispute arising under a contract containing an arbitration clause."
+  },
+  {
+    "Query": "A company entered into a contract with a government agency for the supply of goods. The contract was terminated by the government agency due to alleged non-performance by the company. The company filed an arbitration claim against the government agency seeking compensation for its losses. The arbitration tribunal ruled in favor of the company. The government agency wants to know if it can appeal the tribunal's award in court.",
+    "Legal Principles": "The scope of judicial review of arbitral awards is limited. Courts generally will not overturn an arbitral award unless there are compelling reasons, such as a finding that the award is contrary to law, public policy, or the terms of the arbitration agreement.",
+    "Relevant Sections": "Section 37 of the Arbitration and Conciliation Act, 1996, which provides for a limited right of appeal against certain judgments and orders passed by courts in arbitration matters.",
+    "Context": "Jurisdiction: India. Case Type: Appeal against an arbitral award."
+  },
+  {
+    "Query": "Two parties entered into a contract for the construction of a building. The contract contained an arbitration clause. A dispute arose between the parties regarding the payment terms. The contractor filed an arbitration claim against the owner. The owner wants to know if he can file a counterclaim in the arbitration proceedings.",
+    "Legal Principles": "Parties to an arbitration agreement are generally allowed to file counterclaims in the arbitration proceedings, as long as the counterclaim is related to the subject matter of the original claim.",
+    "Relevant Sections": "Section 21 of the Arbitration and Conciliation Act, 1996, which allows a party to file a counterclaim in arbitration proceedings.",
+    "Context": "Jurisdiction: India. Case Type: Arbitration proceedings involving a construction contract."
+  },
+  {
+    "Query": "A company filed an arbitration claim against its former supplier seeking damages for defective goods. The arbitration tribunal ruled in favor of the company and awarded damages. The former supplier wants to know if it can seek a stay of execution of the award while it is appealing the award in court.",
+    "Legal Principles": "Courts have the discretion to grant a stay of execution of an arbitral award pending appeal, but this discretion is exercised cautiously to avoid prejudice to the prevailing party.",
+    "Relevant Sections": "Section 36(3) of the Arbitration and Conciliation Act, 1996, which allows a court to stay the execution of an arbitral award pending appeal.",
+    "Context": "Jurisdiction: India. Case Type: Application for a stay of execution of an arbitral award pending appeal."
+  },
+  {
+    "Query": "A company entered into a contract with a government agency for the provision of services. The contract contained an arbitration clause. A dispute arose between the parties regarding the scope of the services. The company filed an arbitration claim against the government agency. The government agency wants to know if it can seek to have the arbitration proceedings dismissed on the grounds that the dispute is not subject to arbitration.",
+    "Legal Principles": "The principle of Kompetenz-Kompetenz, which grants an arbitral tribunal the power to determine its own jurisdiction. This principle generally prohibits courts from interfering with arbitration proceedings.",
+    "Relevant Sections": "Section 11 of the Arbitration and Conciliation Act, 1996, which deals with the appointment of arbitrators and the determination of the tribunal's jurisdiction.",
+    "Context": "Jurisdiction: India. Case Type: Application to dismiss arbitration proceedings on the grounds of lack of jurisdiction."
+  },
+  {
+    "Query": "A company entered into a contract with a foreign company for the supply of goods. The contract contained an arbitration clause specifying that any disputes arising under the contract would be settled by arbitration in a foreign country. A dispute arose between the parties regarding the payment terms. The foreign company wants to know if it can enforce the arbitration clause in India.",
+    "Legal Principles": "The principle of international comity, which requires courts to respect the laws and judicial decisions of other countries. The principle of enforcement of foreign arbitral awards, which allows for the recognition and enforcement of arbitral awards made in foreign countries.",
+    "Relevant Sections": "Section 44 of the Arbitration and Conciliation Act, 1996, which deals with the recognition and enforcement of foreign arbitral awards.",
+    "Context": "Jurisdiction: India. Case Type: Dispute arising under an international contract containing an arbitration clause."
+  },
+  {
+    "Query": "A company filed an arbitration claim against its former business partner seeking damages for breach of contract. The arbitration tribunal ruled in favor of the company. The former business partner wants to know if he can file a lawsuit in court against the company seeking to set aside the arbitral award on the grounds that the tribunal lacked jurisdiction.",
+    "Legal Principles": "The principle of Kompetenz-Kompetenz, which grants an arbitral tribunal the power to determine its own jurisdiction. However, a party can challenge an arbitral award in court if it can show that the award is contrary to law, public policy, or the terms of the arbitration agreement.",
+    "Relevant Sections": "Section 34 of the Arbitration and Conciliation Act, 1996, which allows a party to challenge an arbitral award on various grounds, including that the award is against the public policy of India.",
+    "Context": "Jurisdiction: India. Case Type: Application under Section 34 of the Arbitration and Conciliation Act, 1996, to challenge an arbitral award."
+  }
+]
+```

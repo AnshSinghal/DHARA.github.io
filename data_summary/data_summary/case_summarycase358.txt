@@ -1,0 +1,94 @@
+## Case Title
+
+* **Case Name:** South Eastern Coalfields Limited vs M/S Sri Balaji Metals And Minerals Pvt. Ltd.
+* **Court:** Chhattisgarh High Court
+* **Date of Judgment:** 17 November, 2021
+* **Citation:**  Not provided in the text, but likely to be available through legal databases using the case name and court.
+
+## Background and Context
+
+* **Brief Overview:** This case stems from a contract dispute between South Eastern Coalfields Limited (SECL), a state-owned coal mining company, and M/s Sri Balaji Metals & Minerals Pvt. Ltd. (Balaji Metals), a private company awarded a work order for a project by SECL. The project was not completed within the stipulated timeframe, leading to contract termination by SECL and subsequent legal proceedings.
+* **Key Issues:** The central legal issue is the determination of the court with jurisdiction to adjudicate the dispute arising from the arbitration award. This revolves around the concepts of "seat of arbitration" and "venue of arbitration" and their impact on the jurisdiction of courts.
+
+## Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * Article 227 of the Constitution of India:  Permits the High Court to issue writs, including certiorari (to quash an order) in cases of jurisdictional errors.
+    * The Arbitration and Conciliation Act, 1996 (Act, 1996): Governs arbitration proceedings in India, specifically:
+        * Section 20(1):  Provides for parties to agree on the "seat" of arbitration.
+        * Section 34:  Allows a party to challenge an arbitration award in court.
+* **Precedents Cited:**
+    * B.G.S. S.G.S. Soma J.V. Vs. N.H.P.C. Limited (2020) 4 Supreme Court Cases 234: Discusses the distinction between "venue" and "seat" of arbitration.
+    * Swastik Gases Private Limited Vs. Indian Oil Corporation Limited (2013) 9 Supreme Court Cases 32: Addresses the effect of jurisdiction clauses in contracts and the application of the maxim "expressio unius est exclusio alterius." 
+    * Hindustan Construction Company Limited Vs. N.H.P.C. Limited & Anr. (2020) 4 Supreme Court Cases 310: Reinforces the principle of exclusive jurisdiction where a "seat" of arbitration is designated in a contract.
+    * Brahmani River Pellets Limited Vs. Kamachi Industries Limited (2020) 5 SCC 462: Further reinforces the concept of implied exclusive jurisdiction through contractual clauses.
+    * Indus Mobile Distribution Pvt. Ltd. Vs. Datawind Innovations Pvt. Ltd. & Ors. (2017) 7 Supreme Court Cases 678:  Provides a clear distinction between "seat" and "venue" in the context of arbitration.
+    * Emkay Global Financial Services Ltd. Vs. Girdhar Sondhi (2018) 9 Supreme Court Cases 49: Not directly cited in the judgment but relevant to the broader principle of exclusive jurisdiction clauses in contracts.
+* **Legal Doctrines:**
+    * **Jurisdiction:** The legal power of a court to hear and decide a case.
+    * **Forum non conveniens:**  A doctrine allowing courts to decline jurisdiction if another court is more convenient or appropriate to hear the case.
+    * **Expressio unius est exclusio alterius:** A legal maxim suggesting that the expression of one thing implies the exclusion of another. 
+
+## Arguments Presented
+
+* **SECL's (Plaintiff) Argument:**
+    * The Supreme Court, in appointing the sole arbitrator, chose Delhi as the venue for the arbitrator's convenience, not as the "seat" of arbitration.
+    * The original contract stipulated Bilaspur as the "seat" of arbitration, making the Commercial Court at Raipur the only court with jurisdiction, as there is no such court in Bilaspur. 
+    * The Commercial Court at Raipur was previously involved in the dispute and possesses relevant experience and familiarity with the case.
+    * The Supreme Court's order in the SLP cannot be interpreted as overriding the contractual agreement.
+* **Balaji Metals' (Defendant) Argument:**
+    * Both parties agreed to Delhi as the "seat" of arbitration under Section 20(1) of the Act, 1996.
+    * The Commercial Court at Raipur misinterpreted the Supreme Court's order regarding venue as the "seat" of arbitration.
+    * The Supreme Court's decision to appoint a sole arbitrator in Delhi demonstrates the parties' intention to have the arbitration in Delhi.
+    * Relying on the precedent in Swastik Gases (2013), Balaji Metals argues that a contractual jurisdiction clause implicitly excludes other courts.
+    * Delhi courts have jurisdiction because the "seat" of arbitration is now Delhi, not Bilaspur as initially agreed.
+
+## Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The court recognizes a clear distinction between "seat" and "venue" of arbitration.
+    * It relies on the Supreme Court's judgments in B.G.S. Soma J.V. (2020) and Indus Mobile Distribution (2017) to emphasize the significance of the "seat" of arbitration in determining jurisdiction.
+    * The court finds that the Supreme Court's order in the SLP was specifically for the convenience of the arbitrator and did not alter the pre-existing contractual agreement designating Bilaspur as the "seat" of arbitration. 
+    * Applying the principle from Swastik Gases (2013), the court concludes that the contractual jurisdiction clause implicitly excludes other courts from hearing the dispute. 
+* **Interpretation of Law:**
+    * The court carefully analyzes the precedents cited by both parties, particularly the B.G.S. Soma J.V. (2020) and Indus Mobile Distribution (2017) cases to understand the legal significance of "seat" and "venue" in arbitration.
+    * It interprets the Supreme Court's order in the SLP as a decision made for practical convenience rather than a change in the contractual "seat" of arbitration. 
+* **Application of Law:**
+    * The court applies the legal principles established in the cited precedents to the specific facts of the case. 
+    * It concludes that, based on the contract clause and the distinction between "seat" and "venue," the Commercial Court at Raipur has jurisdiction to hear the dispute as Bilaspur is the "seat" of arbitration as per the agreement, and there is no functioning court in Bilaspur.
+
+## Judgment
+
+* **Final Decision:** The High Court grants relief to SECL and quashes the impugned order of the Commercial Court, ruling that the Commercial Court in Raipur has jurisdiction to hear the dispute.
+* **Relief Granted:** SECL's petitions are allowed, and the impugned orders in both cases are set aside.
+* **Orders:** The Commercial Court at Naya Raipur is directed to hear the applications filed by both parties under Section 34 of the Act, 1996, in accordance with law, and dispose of the case promptly.
+
+## Implications
+
+* **Impact on Law:** This judgment reinforces the legal significance of the "seat" of arbitration as determined in the contract agreement, particularly when there is a contractual jurisdiction clause.
+* **Future Relevance:** This case provides valuable guidance for interpreting the distinction between "seat" and "venue" in arbitration disputes.
+* **Broader Context:** The judgment underscores the importance of clear contractual terms and the need to differentiate between the location chosen for the arbitrator's convenience and the "seat" of arbitration agreed upon by the parties.
+
+## Summary Points
+
+* The "seat" of arbitration, as defined in the contract, determines the jurisdiction of the court.
+* The "venue" of arbitration can be different from the "seat" and does not alter the court's jurisdiction.
+* Contractual jurisdiction clauses can imply exclusivity, excluding other courts from hearing the dispute.
+* The High Court upheld the contractual "seat" of arbitration despite a subsequent order by the Supreme Court setting a different venue for the arbitrator's convenience.
+
+## References
+
+* **Citations:**
+    * Article 227 of the Constitution of India
+    * The Arbitration and Conciliation Act, 1996
+    * B.G.S. S.G.S. Soma J.V. Vs. N.H.P.C. Limited (2020) 4 Supreme Court Cases 234
+    * Swastik Gases Private Limited Vs. Indian Oil Corporation Limited (2013) 9 Supreme Court Cases 32
+    * Hindustan Construction Company Limited Vs. N.H.P.C. Limited & Anr. (2020) 4 Supreme Court Cases 310
+    * Brahmani River Pellets Limited Vs. Kamachi Industries Limited (2020) 5 SCC 462
+    * Indus Mobile Distribution Pvt. Ltd. Vs. Datawind Innovations Pvt. Ltd. & Ors. (2017) 7 Supreme Court Cases 678
+    * Emkay Global Financial Services Ltd. Vs. Girdhar Sondhi (2018) 9 Supreme Court Cases 49 
+* **Further Reading:**
+    * For more in-depth understanding of the legal principles of "seat" and "venue" in arbitration, further research can be conducted on the Arbitration and Conciliation Act, 1996, and the precedents cited in the judgment. 
+    * It is recommended to consult legal databases for complete citations of the cases referenced in the judgment.
+
+This summary aims to provide a comprehensive understanding of the South Eastern Coalfields Limited vs. M/S Sri Balaji Metals And Minerals Pvt. Ltd. case.  The legal principles and arguments are explained in detail, along with the court's reasoning and judgment. It also explores the potential implications of this case for future legal decisions and practices.

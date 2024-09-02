@@ -1,0 +1,104 @@
+## 1. Case Title
+
+* **Case Name:** M/S Scholastic India Pvt. Ltd. & Anr. vs Kanta Batra
+* **Court:** Delhi High Court
+* **Date of Judgment:** 4 August 2022
+* **Citation:** FAO (COMM) 112/2022 & FAO (COMM) 71/2021 
+
+## 2. Background and Context
+
+* **Brief Overview:** This case arose from a dispute between Scholastic India Pvt. Ltd. (Scholastic) and Kanta Batra (Lessor) regarding a lease agreement for a property in Gurgaon, Haryana. The lease was for three years, commencing on 01.03.2013. A fire occurred on 18.08.2014, causing damage to the premises. Scholastic claimed the fire was a force majeure event that terminated the lease, while the Lessor argued that the lease remained valid and sought rental payments, compensation for repairs, and other damages. 
+* **Key Issues:**
+    * Whether the fire constituted a force majeure event that terminated the lease.
+    * Whether Scholastic was liable for rent after the Lessor took possession of the premises for repairs.
+    * Whether Scholastic was responsible for the fire and liable to pay compensation for repairs.
+    * Whether the Lessor's claim for repairs was sufficiently supported by evidence.
+    * Whether Scholastic was entitled to a refund of the security deposit.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * Arbitration and Conciliation Act, 1996 (A&C Act): Sections 34 and 37(1)(c)
+    * Indian Contract Act, 1872: Section 73
+    * Indian Evidence Act, 1872: Section 65B
+    * Bankers' Books Evidence Act, 1891: Section 4 
+* **Precedents Cited:**
+    * Associate Builders v. Delhi Development Authority: (2015) 3 SCC 49
+    * Ssangyong Engineering and Construction Company Ltd. v. National Highways Authority of India: (2019) 15 SCC 131
+    * J.K. Synthetics Ltd. v. Dynamic Cements Traders: (2012) SCC OnLine Del 4817
+    * Sheetal Fabrics v. Coir Cushions Ltd.: (2005) SCC OnLine Del 247
+    * M/s Kashmiri Lal Surinder Kumar v. M/s Veer Bhan Ramesh Kumar & Ors: (2015) SCC OnLine Del 10344
+    * J.K. Aggarwal v. Bank of India: (2008) SCC OnLine Del 1219
+    * Chandradhar Goswami & Ors. v. Gauhati Bank Ltd: (1967) 1 SCR 898
+* **Legal Doctrines:**
+    * **Force Majeure:**  A legal doctrine that excuses a party from performing contractual obligations due to unforeseen circumstances beyond their control.
+    * **Waiver:**  The voluntary relinquishment of a known right.
+    * **Public Policy:**  Legal principles that guide the court in determining what is considered to be morally and socially acceptable. 
+    * **Patent Illegality:**  A defect in an arbitral award so fundamental that it renders the award invalid and unenforceable.
+
+## 4. Arguments Presented
+
+* **Scholastic's Argument:**
+    * The fire was a force majeure event, terminating the lease.
+    * Scholastic was not liable for rent after the Lessor took possession for repairs.
+    * Scholastic was not responsible for the fire and should not be liable for repairs.
+    * The Lessor's claim for repairs was unsubstantiated and the Arbitral Tribunal erred in relying on unsupported evidence.
+    * Scholastic was entitled to a refund of the security deposit.
+* **Lessor's Argument:**
+    * The fire was not a force majeure event that terminated the lease.
+    * Scholastic remained liable for rent.
+    * Scholastic was negligent and responsible for the fire.
+    * The Lessor's claim for repairs was properly supported by evidence, including income tax returns and bank statements.
+    * The security deposit should be adjusted against the amount due for repairs.
+
+## 5. Court's Analysis and Reasoning
+
+* **Key Findings:**
+    * The Arbitral Tribunal correctly found that Scholastic had not terminated the lease in accordance with the terms of the Lease Deed.
+    * The Arbitral Tribunal correctly found that Scholastic was not liable for rent after the Lessor took possession for repairs.
+    * The Arbitral Tribunal correctly found that Scholastic was responsible for the fire due to negligence in maintaining electrical equipment.
+    * The Arbitral Tribunal's reliance on the Lessor's income tax return and bank statements to determine the cost of repairs was flawed, as these documents lacked a certificate under Section 65B of the Indian Evidence Act.
+    * The court accepted that the Arbitral Tribunal had correctly concluded that Scholastic had waived its right to object to the Lessor's failure to obtain insurance coverage.
+    * The court determined that the Lessor was entitled to compensation for the damage to the premises under Section 73 of the Indian Contract Act.
+* **Interpretation of Law:**
+    * The court emphasized the limited scope of judicial review of arbitral awards under Section 34 of the A&C Act.
+    * The court highlighted that an arbitral tribunal is not bound by the Code of Civil Procedure or the Indian Evidence Act.
+    * The court stated that an award can be set aside only on grounds of public policy or patent illegality, not for insufficiency of evidence.
+    * The court found that the Arbitral Tribunal had erred in relying on the Lessor's income tax return and bank statements without the required certification under Section 65B of the Indian Evidence Act.
+* **Application of Law:**
+    * The court held that the Lessor's claim for repairs could not be considered entirely unsubstantiated, as the Arbitral Tribunal had acknowledged relevant evidence, including the income tax return and bank statements.
+    * The court determined that the Lessor's claim for repairs was not inherently illegal or against public policy.
+
+## 6. Judgment
+
+* **Final Decision:** The Delhi High Court reversed the decision of the Commercial Court. The Lessor's appeal (FAO(COMM) 71/2021) was allowed, and Scholastic's appeal (FAO (COMM) 112/2022) was dismissed.
+* **Relief Granted:** The Arbitral Tribunal's award was reinstated, including the compensation awarded to the Lessor for repairs. Scholastic's claim for a refund of the security deposit was dismissed.
+* **Orders:**  The parties were left to bear their own costs.
+
+## 7. Implications
+
+* **Impact on Law:** This judgment reaffirms the limited scope of judicial review of arbitral awards under Section 34 of the A&C Act. The court emphasized that courts should avoid re-evaluating evidence and should not set aside awards solely based on concerns about the sufficiency of evidence presented to the arbitral tribunal.
+* **Future Relevance:** This case provides guidance on the application of the force majeure doctrine in lease agreements and on the burden of proof for demonstrating damages in arbitration proceedings.
+* **Broader Context:** This case highlights the importance of maintaining proper documentation and supporting evidence in contractual disputes, particularly in arbitration proceedings.
+
+## 8. Summary Points
+
+* **Key Takeaways:**
+    * Courts should exercise caution in reviewing arbitral awards and avoid re-evaluating evidence. 
+    *  Insufficient evidence, alone, is not a sufficient ground for setting aside an arbitral award. 
+    *  The Indian Evidence Act and CPC do not apply in arbitration proceedings, but arbitral awards can still be challenged based on public policy or patent illegality.
+    *  Income tax returns and bank statements can be relevant evidence in arbitration proceedings, but they may require additional certification or corroboration to establish liability.
+
+## 9. References
+
+* **Citations:** 
+    * Arbitration and Conciliation Act, 1996 (A&C Act)
+    * Indian Contract Act, 1872
+    * Indian Evidence Act, 1872 
+    * Bankers' Books Evidence Act, 1891 
+    * Associate Builders v. Delhi Development Authority: (2015) 3 SCC 49
+    * Ssangyong Engineering and Construction Company Ltd. v. National Highways Authority of India: (2019) 15 SCC 131
+* **Further Reading:**
+    * Ssangyong Engineering and Construction Company Ltd. v. National Highways Authority of India: (2019) 15 SCC 131 (for a discussion on the scope of judicial review of arbitral awards under Section 34 of the A&C Act)
+    * J.K. Synthetics Ltd. v. Dynamic Cements Traders: (2012) SCC OnLine Del 4817 (for a discussion on the evidentiary value of books of accounts)
+    * Chandradhar Goswami & Ors. v. Gauhati Bank Ltd: (1967) 1 SCR 898 (for a discussion on the use of bank books as evidence)

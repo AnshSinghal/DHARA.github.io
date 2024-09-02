@@ -1,0 +1,79 @@
+##  S K S Power Generation (Chhattisgarh) Ltd. vs. M/S I S C Projects Pvt. Ltd.
+
+**1. Case Title**
+
+* **Case Name:** S K S Power Generation (Chhattisgarh) Ltd. vs. M/S I S C Projects Pvt. Ltd.
+* **Court:** Chhattisgarh High Court, Bilaspur
+* **Date of Judgment:** 5th October, 2021
+* **Citation:** ARBA No. 47 of 2021
+
+**2. Background and Context**
+
+* **Brief Overview:** This case involved a dispute between S K S Power Generation (Chhattisgarh) Ltd. (Appellant) and M/S I S C Projects Pvt. Ltd. (Respondent) arising from an arbitration award. The dispute was referred to arbitration, and an award was passed in favor of the Respondent on 11.6.2018. The Appellant challenged the award in the Delhi High Court under Section 34 of the Arbitration and Conciliation Act, 1996, but the application was dismissed on grounds of limitation. Subsequently, the Respondent filed an execution application for the award before the Commercial Court, Naya Raipur, leading to the attachment of a significant amount from the Appellant's bank account. The Appellant then filed applications under Order 21 Rule 46-A read with Section 151 CPC and Section 47 r/w Order 21 Rule 58 CPC seeking relief against the attachment. These applications were rejected by the Commercial Court, prompting the present appeal.
+* **Key Issues:** The key issue was the maintainability of the appeal before the Chhattisgarh High Court, specifically whether the orders passed by the Commercial Court, Naya Raipur, were appealable under Section 13 of the Commercial Courts Act, 2015, read with Section 37 of the Arbitration Act, 1996.
+
+**3. Legal Principles Involved**
+
+* **Relevant Statutes and Provisions:**
+    * Section 34 of the Arbitration and Conciliation Act, 1996
+    * Section 37 of the Arbitration and Conciliation Act, 1996
+    * Section 13 of the Commercial Courts Act, 2015
+    * Order 21 Rule 46-A of the Code of Civil Procedure, 1908
+    * Section 151 of the Code of Civil Procedure, 1908
+    * Section 47 r/w Order 21 Rule 58 of the Code of Civil Procedure, 1908
+* **Precedents Cited:**
+    * Kandla Export Corporation & Another (2018) 14 SCC 715
+    * BGS SGS Soma JV Vs. NHPC Ltd. (2020) 4 SCC 234
+    * Hubtown Limited Vs. IDBI Trusteeship Service 2016 SCC On-line Bombay 9019
+    * Delhi Chemical and Pharmaceutical Works Pvt. Ltd. & Anr. (order dated 5th July 2021, Delhi High Court)
+    * D & H India Ltd. Vs. Superon Schweisstechnik India Ltd. (order dated 16.3.2020, Delhi High Court)
+* **Legal Doctrines:**
+    * Interpretation of statutes
+    * Principle of harmonious construction
+    * Scope and ambit of proviso
+    * Right of appeal
+
+**4. Arguments Presented**
+
+* **Appellant's Argument:** The Appellant argued that the impugned orders were appealable under Section 13 of the Commercial Courts Act, 2015, citing the proviso to sub-Section (1A) of the Act and relying on various judgments. They argued for a liberal and wide interpretation of the proviso to include orders passed by the Commercial Court within its scope.
+* **Respondent's Argument:** The Respondent argued that the appeal was not maintainable as the orders did not fall within the categories exhaustively enumerated in Section 37 of the Arbitration Act read with Section 13 of the Commercial Courts Act. They relied on the Supreme Court judgments in Kandla Export Corporation and BGS SGS Soma JV.
+
+**5. Court’s Analysis and Reasoning**
+
+* **Key Findings:**
+    * The Court recognized the Supreme Court's pronouncements in Kandla Export Corporation and BGS SGS Soma JV as authoritative on the issue of appealability under Section 13 of the Commercial Courts Act.
+    * The Court concluded that the proviso to sub-Section (1-A) of Section 13 of the Commercial Courts Act restricted appeals to only those orders specifically enumerated in the Act and Section 37 of the Arbitration Act.
+    * The impugned orders did not fall within the scope of appealable orders as per the Supreme Court decisions.
+* **Interpretation of Law:** The Court meticulously analyzed the provisions of the Commercial Courts Act, 2015, and the Arbitration Act, 1996, focusing on the scope of Section 13 and the proviso to sub-Section (1-A). The Court also relied on the interpretation of "proviso" provided by various judgments, emphasizing its function as an exception to the main enactment.
+* **Application of Law:** The Court applied the legal principles derived from the cited precedents to the facts of the case, finding that the orders passed by the Commercial Court were not specifically enumerated within the appealable orders under the relevant Acts.
+
+**6. Judgment**
+
+* **Final Decision:** The Court upheld the Respondent's objection to the maintainability of the appeal. The appeal was dismissed as not maintainable.
+* **Relief Granted:** No relief was granted to the Appellant.
+* **Orders:** The Court dismissed the appeal and left the Appellant to pursue any other remedy available under the law.
+
+**7. Implications**
+
+* **Impact on Law:** The judgment reaffirms the strict interpretation of Section 13 of the Commercial Courts Act and its reliance on Section 37 of the Arbitration Act for determining appealability. This sets a precedent for cases involving disputes arising from arbitral awards.
+* **Future Relevance:** The judgment serves as a guiding principle for future cases involving similar issues. It clarifies the scope of appealability under the Commercial Courts Act and the Arbitration Act, restricting it to orders specifically mentioned therein.
+* **Broader Context:** The judgment highlights the importance of judicial precedent in interpreting legal provisions, emphasizing the authority of the Supreme Court judgments in shaping the legal landscape. It also reflects the evolving jurisprudence regarding arbitration and dispute resolution in commercial matters.
+
+**8. Summary Points**
+
+* The appeal against orders passed by the Commercial Court, Naya Raipur, regarding the execution of an arbitral award was dismissed as not maintainable.
+* The Court relied on Supreme Court judgments in Kandla Export Corporation and BGS SGS Soma JV to uphold the Respondent's objection.
+* The judgment confirms that appeals under Section 13 of the Commercial Courts Act are restricted to orders specifically enumerated in the Act and Section 37 of the Arbitration Act.
+
+**9. References**
+
+* **Citations:**
+    * Kandla Export Corporation & Another (2018) 14 SCC 715
+    * BGS SGS Soma JV Vs. NHPC Ltd. (2020) 4 SCC 234
+    * Section 34 of the Arbitration and Conciliation Act, 1996
+    * Section 37 of the Arbitration and Conciliation Act, 1996
+    * Section 13 of the Commercial Courts Act, 2015
+* **Further Reading:**
+    * The Arbitration and Conciliation Act, 1996
+    * The Commercial Courts Act, 2015
+    * Relevant judgments cited in the summary. 

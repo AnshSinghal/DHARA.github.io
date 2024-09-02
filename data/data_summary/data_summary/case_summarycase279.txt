@@ -1,0 +1,100 @@
+## 1. Case Title
+
+* **Case Name:** Dhee Educational And Cultural Trust vs. M/S Hartana Projects LLP 
+* **Court:** Karnataka High Court
+* **Date of Judgment:** 30th January, 2023
+* **Citation:** WP No. 18093 of 2022 (GM-CPC)
+
+## 2. Background and Context
+
+* **Brief Overview:** This case involved a dispute between Dhee Educational And Cultural Trust (the Petitioner) and M/S Hartana Projects LLP (the Respondent) regarding a lease agreement for a commercial property used as a school. The Respondent, owner of the property, sued the Petitioner for eviction and recovery of rent arrears, claiming a breach of the lease agreement. The Petitioner, arguing that the dispute wasn't a "commercial dispute" under the Commercial Courts Act, 2015, filed an application to have the suit dismissed for lack of jurisdiction.
+* **Key Issues:**
+    * Whether the dispute between the Petitioner and Respondent constituted a "commercial dispute" under the Commercial Courts Act, 2015.
+    * Whether the Commercial Court had jurisdiction to entertain the Respondent's suit for eviction and recovery of rent arrears.
+    * Whether the Petitioner was genuinely tendering rent at a lower rate than agreed upon in the lease agreement, or was attempting to avoid payment of rent arrears.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * **Commercial Courts Act, 2015:**
+        * Section 2(1)(c)(vii): Defines "commercial dispute" as including disputes arising from agreements relating to immovable property used exclusively in trade or commerce.
+        * Section 6: Specifies a threshold value of Rs. 1 crore for suits to be entertained under the Act.
+    * **Code of Civil Procedure (CPC), 1908:**
+        * Order VII Rule 10: Permits the dismissal of a suit for lack of jurisdiction.
+        * Order VII Rule 10A: Provides a procedure for the return of the plaint for filing in a competent court.
+    * **Transfer of Property Act, 1882:**
+        * Section 106: Deals with the termination of leases.
+* **Precedents Cited:**
+    * Ambalal Sarabhai Enterprises Ltd. v. K S Infra Space LLP and another (2020) 15 Supreme Court Cases 585
+    * Unnikrishnan J P and others v. State of Andhra Pradesh and others (1993) 1 Supreme Court Cases 645
+    * Nitte Education Trust, Nitte, Karkala Taluk, Dakshina Kannada and another v. Union of India and Another (1997)5 Kant. LJ 280
+    * M P Electricity Board and others v. Shiv Narayan and another (2005) 7 Supreme Court Cases 283
+    * B Premanand and others v. Mohan Koikal and others (2011) 4 Supreme Court Cases 266
+    * Divisional Controller, KSRTC v. Mahadeva Shetty (2003) 7 Supreme Court Cases 197
+    * Major V.P. Singh v. State of UP (1991 Supp (2) Supreme Court Cases 346
+    * U.Suvetha v. State and another (2009) 6 Supreme Court Cases 757
+    * Abdul Waheed Khan v. Bhavani AIR 1966 SC 1718
+* **Legal Doctrines:**
+    * **Strict interpretation of statutes:**  Statutes ousting the jurisdiction of civil courts should be strictly interpreted.
+    * **Purposive interpretation:** Statutory provisions should be interpreted to achieve the intended purpose of the legislation.
+    * **Common parlance meaning:** In the absence of a definition, words in a statute should be understood according to their common meaning. 
+
+## 4. Arguments Presented
+
+* **Plaintiff’s Argument (Respondent):**
+    * The dispute was a "commercial dispute" as defined under Section 2(1)(c)(vii) of the Commercial Courts Act because the property was used for educational purposes, which falls under the category of "other institutions" as defined by BBMP Bye-laws. 
+    * The transaction between the parties was a commercial one, exceeding Rs. 1 crore in value.
+    * The Petitioner's default in paying full rent at the agreed rate constituted a breach of the lease agreement, justifying eviction and recovery of rent arrears.
+* **Defendant’s Argument (Petitioner):**
+    * The dispute did not constitute a "commercial dispute" because the property was used exclusively for educational purposes, not for trade or commerce. 
+    * The Petitioner was running a school as a charitable activity, not for profit.
+    * The expression "used exclusively in trade or commerce" should be interpreted strictly, excluding educational institutions. 
+    * The Petitioner was genuinely tendering rent at a lower rate based on the actual usable area of the property, and the dispute stemmed from a disagreement over the rental amount.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The court acknowledged that the Commercial Courts Act should be interpreted strictly to ensure only genuine "commercial disputes" are entertained.
+    * The court found that the property was used exclusively for educational purposes. 
+    * The court rejected the argument that running a school constitutes trade or commerce. 
+    * The court held that the dispute did not fall within the definition of "commercial dispute" under the Act.
+* **Interpretation of Law:**
+    * The court interpreted Section 2(1)(c)(vii) of the Commercial Courts Act to require a strict interpretation of the expression "used exclusively in trade or commerce."
+    * The court relied on precedents holding that running educational institutions is not considered trade or commerce.
+    * The court emphasized the purposive interpretation of statutory provisions to ensure the Act's objectives are achieved.
+* **Application of Law:**
+    * The court applied the principles of strict interpretation and purposive interpretation to conclude that the dispute was not a "commercial dispute" as defined by the Commercial Courts Act.
+    * The court determined that the Commercial Court lacked jurisdiction to entertain the Respondent's suit.
+
+## 6. Judgment
+
+* **Final Decision:** The petition was allowed, and the Commercial Court's order rejecting the Petitioner's application under Order VII Rule 10 CPC was quashed.
+* **Relief Granted:** The Petitioner's application under Order VII Rule 10 CPC was allowed, directing the Commercial Court to return the plaint to the Respondent for filing before a competent court of jurisdiction.
+* **Orders:** 
+    * The Commercial Court was ordered to inform the Respondent about the order to return the plaint and to allow the Respondent to file a new application within a reasonable timeframe.
+    * The Registry was ordered to return the Rs. 50 lakhs deposited by the Petitioner, subject to compliance with any further requirements.
+
+## 7. Implications
+
+* **Impact on Law:** The judgment reaffirms the need for strict interpretation of statutes ousting the jurisdiction of civil courts, particularly in the context of the Commercial Courts Act. 
+* **Future Relevance:** This case serves as a precedent for future cases concerning the definition of "commercial dispute" under the Act, particularly in the context of disputes involving properties used for educational purposes.
+* **Broader Context:** The judgment reflects the importance of applying legal principles in a manner that respects the spirit and purpose of legislation, while ensuring fairness and justice.
+
+## 8. Summary Points
+
+* The dispute between the Petitioner and Respondent did not constitute a "commercial dispute" under the Commercial Courts Act, 2015.
+* The Commercial Court lacked jurisdiction to entertain the Respondent's suit.
+* The court emphasized the need for strict interpretation of the Act to ensure only genuine "commercial disputes" are entertained.
+* Running an educational institution was not considered trade or commerce for the purposes of the Act.
+* The court granted relief to the Petitioner, directing the return of the plaint to the Respondent for filing in a competent court.
+
+## 9. References
+
+* **Citations:**
+    * Commercial Courts Act, 2015
+    * Code of Civil Procedure (CPC), 1908
+    * Transfer of Property Act, 1882
+    * All cases cited in the judgment. 
+* **Further Reading:**
+    * Other cases involving the interpretation of the Commercial Courts Act, 2015.
+    * Legal commentary on the Act and its impact on the Indian legal system. 

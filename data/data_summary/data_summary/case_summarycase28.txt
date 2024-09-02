@@ -1,0 +1,76 @@
+## 1. Case Title
+
+* **Case Name:** Bela Creation Pvt Ltd vs Anuj Textiles
+* **Court:** Delhi High Court
+* **Date of Judgment:** 2nd May 2022
+* **Citation:** Not explicitly provided in the judgment.
+
+## 2. Background and Context
+
+* **Brief Overview:** Anuj Textiles (respondent) filed a suit against Bela Creation Pvt Ltd (petitioner) in the Commercial Court, claiming ₹56.64,846/- was due from Bela for fabric supplied between August 2017 and June 2018. Bela filed a written statement and counterclaim, along with affidavits of witnesses. Bela also filed an application under Order VII Rule 14(3) of the CPC to introduce additional documents, specifically invoices. This application was rejected by the Commercial Court, prompting Bela to appeal to the Delhi High Court. 
+* **Key Issues:** The main legal issue revolves around whether Bela could introduce additional documents (invoices) at a later stage in the suit, after the initial filing of the written statement and counterclaim. The court had to determine if Bela had established "reasonable cause" for not including these documents initially, as required under Order XI Rule 1(10) of the CPC (as amended by the Commercial Courts Act).
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * Code of Civil Procedure, 1908 (CPC)
+        * Order VII Rule 14(3) - Production of document on which plaintiff sues or relies.
+        * Order XI Rule 1 - Disclosure and discovery of documents. 
+        * Order XI Rule 7 - Certain provisions of the Code of Civil Procedure, 1908 not to apply.
+* **Precedents Cited:**
+    * **Sudhir Kumar @ S. Baliyan v. Vinay Kumar G.B.:** A Supreme Court case dealing with a similar situation, where the plaintiff sought to introduce additional documents after filing the suit. This case is pivotal in the Delhi High Court's reasoning.
+    * **Vijaya Bank v. Shyamal Kumar Lodh, N. Mani v. Sangeetha Theatre, Pruthviraj Sinh v. Jayesh Kumar:** These cases are cited by the High Court to support the principle that using the wrong provision in an application does not necessarily invalidate it if the power to make the application exists under another provision.
+* **Legal Doctrines:**
+    * **Reasonable Cause:**  The concept of "reasonable cause" is central to the case, determining whether a party can introduce new evidence after the initial disclosure.
+    * **Jurisdictional Review:** The High Court's jurisdiction under Article 227 of the Constitution of India, which allows it to supervise lower courts but not act as an appellate court.
+
+## 4. Arguments Presented
+
+* **Appellant's Argument (Bela Creation Pvt Ltd):** Bela claimed that the invoices were not originally filed due to the departure of an associate lawyer from their firm during the COVID-19 pandemic. They also argued that the invoices were referenced in their GST returns and the respondent's ledger account, indicating they were not new documents. 
+* **Respondent's Argument (Anuj Textiles):** The respondent did not actively participate in the hearing before the High Court, as no representation was noted. Therefore, their arguments are not directly presented in the judgment.
+
+## 5. Court's Analysis and Reasoning
+
+* **Key Findings:** The High Court found that:
+    * Bela's application was technically filed under the wrong provision (Order VII Rule 14) but could be treated as an application under Order XI Rule 1(10) following the Supreme Court's approach in *Sudhir Kumar*.
+    * Bela's claim of "reasonable cause" for not including the invoices initially was not convincing. The High Court stated that "reasonable cause" does not extend to negligence or oversight by the legal team.
+    * Bela had specifically declared in their statement of truth that all relevant documents were disclosed, further undermining their argument for introducing new documents later.
+* **Interpretation of Law:** The High Court interpreted the relevant provisions of the CPC, particularly Order XI Rule 1(10), emphasizing the need for parties to disclose all relevant documents at the initial stage. It highlighted that "reasonable cause" must be established for introducing new documents later and that this concept does not encompass negligence.
+* **Application of Law:**  The Court applied the legal principles derived from *Sudhir Kumar* and other precedents to the facts of the Bela Creation case. It deemed Bela's justification for not including the invoices initially as insufficient to constitute "reasonable cause."
+
+## 6. Judgment
+
+* **Final Decision:** The Delhi High Court rejected Bela Creation's petition in limine (at the outset) and dismissed the pending applications. This means the Commercial Court's decision to reject Bela's application for introducing additional documents was upheld.
+* **Relief Granted:** No relief was granted to the petitioner (Bela Creation). 
+* **Orders:** The petition was dismissed, and the pending applications were dismissed as well. The High Court did not make any orders as to costs.
+
+## 7. Implications
+
+* **Impact on Law:** This case reinforces the importance of parties disclosing all relevant documents at the initial stage of a lawsuit. It reaffirms the strict interpretation of "reasonable cause" for introducing new documents later, requiring compelling circumstances beyond negligence or oversight.
+* **Future Relevance:**  The case serves as a precedent for future litigation in commercial courts, particularly regarding the application of Order XI Rule 1 and the need for thorough initial disclosure of documents. It sets a high bar for establishing "reasonable cause" to introduce new documents after the initial filing. 
+* **Broader Context:** The judgment highlights the significance of due diligence in legal practice, emphasizing the responsibility of counsel to ensure complete disclosure of relevant documents at the outset. It also underscores the need for clarity and precision in legal pleadings.
+
+## 8. Summary Points
+
+* Bela Creation filed a suit in a Commercial Court, but failed to include key documents (invoices) with their initial filing.
+* Bela's application to introduce these documents later was rejected by the Commercial Court.
+* The High Court upheld the Commercial Court's decision, citing that Bela failed to establish "reasonable cause" for their oversight.
+* The case stresses the importance of full document disclosure at the initial stages of litigation.
+* Negligence or oversight by legal teams does not constitute "reasonable cause" for introducing new documents later.
+
+## 9. References
+
+* **Code of Civil Procedure, 1908 (CPC)**
+* **Sudhir Kumar @ S. Baliyan v. Vinay Kumar G.B.** (2021 SCC OnLine SC 734)
+* **Vijaya Bank v. Shyamal Kumar Lodh** (2010) 7 SCC 635
+* **N. Mani v. Sangeetha Theatre** (2004) 12 SCC 78
+* **Pruthviraj Sinh v. Jayesh Kumar** (2019) 9 SCC 533
+* **Estralla Rubber v. Dass Estate (P) Ltd.** (2001) 8 SCC 97
+* **Garment Craft v. Prakash Chand Goel** (2022 SCC OnLine SC 29)
+* **Puri Investments v. Young Friends & Co.** (2022 SCC OnLine SC 283)
+* **Lucina Land Development Ltd. v. Union of India** (2022 SCC OnLine Del 1274)
+
+**Further Reading:**
+
+* Articles and commentaries on Order XI Rule 1 of the CPC and the application of "reasonable cause" in document disclosure. 
+* Case law on the powers of High Courts under Article 227 of the Constitution of India. 

@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A defendant in a commercial suit failed to file a written statement within the 120-day time limit prescribed by the Commercial Courts Act. They now seek condonation of the delay. Can the court condone the delay and accept the late written statement?",
+    "Legal Principles": "The Commercial Courts Act mandates a 120-day time limit for filing a written statement in commercial suits. This time limit is mandatory, and the court has no discretion to extend it beyond 120 days. The court's power to condone delay is limited to the period within the 120-day time limit.",
+    "Relevant Sections": "Order VIII Rule 1 (as amended by the Commercial Courts Act):\n\n\"Provided that where the defendant fails to file the written statement within the said period of thirty days, he shall be allowed to file the written statement on such other day, as may be specified by the Court, for reasons to be recorded in writing and on payment of such costs as the Court deems fit, but which shall not be later than one hundred twenty days from the date of service of summons and on expiry of one hundred twenty days from the date of service of summons, the defendant shall forfeit the right to file the written statement and the Court shall not allow the written statement to be taken on record.\"",
+    "Context": "Jurisdiction: Bombay High Court. Case Type: Commercial Suit.  This is a common question arising from the implementation of the Commercial Courts Act, where defendants seek to avoid the strict timelines for filing written statements."
+  },
+  {
+    "Query": "A Plaintiff in a commercial suit filed before the Bombay High Court failed to remove office objections and get the plaint numbered within a prescribed time limit. Should the Commercial Division dismiss the suit for such delay?",
+    "Legal Principles": "The Commercial Courts Act aims for expeditious disposal of commercial cases. The court should impose strict timeframes on Plaintiffs to remove office objections and have their plaints numbered, similar to the timelines imposed on defendants for filing written statements. Failure to adhere to these timelines could lead to suit dismissal.",
+    "Relevant Sections": "Commercial Courts Act:  The judge suggests imposing strict timelines on Plaintiffs in the judgement, but no specific section directly supports this.",
+    "Context": "Jurisdiction: Bombay High Court. Case Type: Commercial Suit. The judge proposes a change in practice to expedite commercial suits, addressing the issue of delays caused by Plaintiffs."
+  },
+  {
+    "Query": "A plaintiff in a commercial suit before the Bombay High Court failed to disclose all documents in its possession, control, or custody as required by Order XI Rule 1 of the CPC, as amended by the Commercial Courts Act. Can the court reject the plaint under Order VII Rule 11(d)?",
+    "Legal Principles": "The CPC, as amended by the Commercial Courts Act, mandates disclosure of documents by plaintiffs. The consequences of non-disclosure are outlined in Order XI, not Order VII Rule 11(d).  The court can impose penalties, such as barring the plaintiff from relying on undisclosed documents.",
+    "Relevant Sections": "Order XI Rule 1 (as amended by the Commercial Courts Act): \n\n\"(5) The plaintiff shall not be allowed to rely on documents, which were in the plaintiff's power, possession, control or custody and not disclosed along with plaint or within the extended period set out above, save and except by leave of Court and such leave shall be granted only upon the plaintiff establishing reasonable cause for non-disclosure along with the plaint.\"",
+    "Context": "Jurisdiction: Bombay High Court. Case Type: Commercial Suit. The judge clarifies the consequences of a plaintiff's failure to comply with document disclosure requirements under the Commercial Courts Act."
+  },
+  {
+    "Query": "In a commercial suit before the Bombay High Court, a defendant entered an appearance before receiving the Writ of Summons. Should the 120-day time limit for filing a written statement begin from the date of appearance or the date of service of the Summons?",
+    "Legal Principles": "The 120-day time limit for filing a written statement in commercial suits begins from the date of service of the Writ of Summons, even if the defendant enters an appearance earlier. The judge clarifies this in the judgement.",
+    "Relevant Sections": "Order VIII Rule 1 (as amended by the Commercial Courts Act): \n\n\"...but which shall not be later than one hundred twenty days from the date of service of summons...\"",
+    "Context": "Jurisdiction: Bombay High Court. Case Type: Commercial Suit. The judge clarifies the starting point of the 120-day time limit for filing a written statement, addressing a potential interpretation issue regarding early appearance."
+  },
+  {
+    "Query": "A commercial suit was initially filed as a non-commercial suit but was later transferred to the Commercial Division of the Bombay High Court. Should the Commercial Division apply the Commercial Courts Act's timelines to this transferred suit?",
+    "Legal Principles": "The Commercial Courts Act applies to commercial suits, even those transferred from non-commercial categories.  The judge states that a separate order will be issued on this specific matter.",
+    "Relevant Sections": "The judge states that a separate order will be issued on this specific matter, but no specific sections are directly cited.",
+    "Context": "Jurisdiction: Bombay High Court. Case Type: Commercial Suit. The judge recognizes a particular scenario of suits transferred to the Commercial Division and indicates that a separate order will address this specific situation."
+  },
+  {
+    "Query": "A commercial suit was filed in the Commercial Division of the Bombay High Court, but the defendant argues that they are entitled to a 150-day period to file a written statement, applying both Order VIII Rule 1 and Order VIII Rule 9. Is this argument valid?",
+    "Legal Principles": "The 120-day time limit under Order VIII Rule 1 for filing a written statement is mandatory, and the court has no discretion to extend it further.  Order VIII Rule 9 does not grant the court additional powers to extend the time beyond the 120 days."
+    "Relevant Sections": "Order VIII Rule 1 (as amended by the Commercial Courts Act): \n\n\"Provided that where the defendant fails to file the written statement within the said period of thirty days, he shall be allowed to file the written statement on such other day, as may be specified by the Court, for reasons to be recorded in writing and on payment of such costs as the Court deems fit, but which shall not be later than one hundred twenty days from the date of service of summons and on expiry of one hundred twenty days from the date of service of summons, the defendant shall forfeit the right to file the written statement and the Court shall not allow the written statement to be taken on record.\"",
+    "Context": "Jurisdiction: Bombay High Court. Case Type: Commercial Suit. This query addresses the defendants' attempt to combine different rules to circumvent the 120-day limit for filing a written statement."
+  },
+  {
+    "Query": "A defendant in a commercial suit before the Bombay High Court argues that the court should exercise its inherent powers under Section 151 of the CPC to condone delay in filing a written statement beyond the 120-day limit. Can the court rely on Section 151 to override the mandatory provisions of the Commercial Courts Act?",
+    "Legal Principles": "The court's inherent powers under Section 151 cannot be used to circumvent clear and mandatory statutory provisions, such as the 120-day time limit for filing a written statement in commercial suits."
+    "Relevant Sections": "Section 151 of the CPC: The judge cites the Apex Court's decision in M/s SCG Contracts India Pvt. Ltd. Vs. K.S. Chamankar Infrastructure Pvt. Ltd. & Ors. (supra) to support this principle."
+    "Context": "Jurisdiction: Bombay High Court. Case Type: Commercial Suit. The query addresses the defendant's attempt to use the court's inherent powers to avoid the 120-day time limit for filing a written statement."
+  },
+  {
+    "Query": "In a commercial suit before the Bombay High Court, the defendant claims that the Bombay High Court (Original Side) Rules should take precedence over the Commercial Courts Act's provisions regarding timelines for filing written statements. Is this argument valid?",
+    "Legal Principles": "The Commercial Courts Act is a special law that overrides other laws, including the Bombay High Court (Original Side) Rules, in cases of conflict. The judge clarifies this in the judgement.",
+    "Relevant Sections": "The judge analyzes the Commercial Courts Act, especially Sections 16 and 21, to support the principle that the Commercial Courts Act overrides the Bombay High Court (Original Side) Rules."
+    "Context": "Jurisdiction: Bombay High Court. Case Type: Commercial Suit. The query focuses on the conflict between the Bombay High Court (Original Side) Rules and the Commercial Courts Act, specifically addressing the issue of precedence."
+  },
+  {
+    "Query": "A defendant in a commercial suit before the Bombay High Court argues that the court should apply the principles of equity and fairness to allow for a late written statement beyond the 120-day limit. Can the court consider equity to override the statutory mandate of the Commercial Courts Act?",
+    "Legal Principles": "While courts strive for fairness, considerations of equity cannot override clear and mandatory statutory provisions. The judge cites the Apex Court's decision in Raghunath Rai Bareja & Anr vs Punjab National Bank & Ors,[(2007) 2 SCC 230] to support this principle."
+    "Relevant Sections": "The judge cites the Apex Court's decision in Raghunath Rai Bareja & Anr vs Punjab National Bank & Ors,[(2007) 2 SCC 230] to support this principle."
+    "Context": "Jurisdiction: Bombay High Court. Case Type: Commercial Suit. The query addresses the defendant's attempt to use principles of equity to avoid the 120-day time limit for filing a written statement."
+  },
+  {
+    "Query": "A defendant in a commercial suit before the Bombay High Court argues that the court can still exercise its discretion under Order VIII Rule 9 to take on record a written statement after the 120-day limit, even though the defendant has forfeited their right to file the written statement under Order VIII Rule 1. Is this argument valid?",
+    "Legal Principles": "The court's discretion under Order VIII Rule 9 cannot be used to circumvent the mandatory 120-day limit imposed by the Commercial Courts Act. Order VIII Rule 9 does not provide a loophole for defendants to avoid the strict timelines for filing written statements."
+    "Relevant Sections": "Order VIII Rule 1 (as amended by the Commercial Courts Act): \n\n\"Provided that where the defendant fails to file the written statement within the said period of thirty days, he shall be allowed to file the written statement on such other day, as may be specified by the Court, for reasons to be recorded in writing and on payment of such costs as the Court deems fit, but which shall not be later than one hundred twenty days from the date of service of summons and on expiry of one hundred twenty days from the date of service of summons, the defendant shall forfeit the right to file the written statement and the Court shall not allow the written statement to be taken on record.\"",
+    "Context": "Jurisdiction: Bombay High Court. Case Type: Commercial Suit. The query addresses the defendants' attempt to use Order VIII Rule 9 to circumvent the 120-day limit for filing a written statement."
+  }
+]
+```

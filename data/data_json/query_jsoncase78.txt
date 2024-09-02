@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A non-banking financial service company (NBFC) entered into a service partner agreement with a financial services firm, the agreement stipulated that the service partner would collect loan repayments from borrowers on behalf of the NBFC. However, the service partner failed to remit the collected funds, alleging financial difficulties due to the COVID-19 pandemic. The NBFC issued a notice terminating the agreement and sought interim measures to prevent the service partner from further collecting payments from borrowers. The service partner contested the termination and argued that the NBFC had not followed the amicable settlement process stipulated in the agreement. Can the NBFC be granted interim measures to restrain the service partner from collecting payments from borrowers while the dispute is under arbitration?",
+    "Legal Principles": "Interim measures in arbitration proceedings, termination of contracts,  amicable settlement clause,  balance of convenience, irreparable injury, prima facie case, Section 9 of the Arbitration and Conciliation Act, 1996, Order 39 Rule 1, 2 of the Code of Civil Procedure, 1908.",
+    "Relevant Sections": "Section 9 of the Arbitration and Conciliation Act, 1996",
+    "Context": "Jurisdiction: India, Case Type: Commercial Law, Arbitration"
+  },
+  {
+    "Query": "A construction company entered into a contract with a developer to build a residential complex. The developer failed to make timely payments to the construction company, alleging financial constraints. The construction company issued a notice terminating the contract and initiated arbitration proceedings. The developer sought interim measures to prevent the construction company from stopping work on the project while the dispute is under arbitration. The construction company argued that the developer had breached the contract and that it was entitled to terminate the agreement. Can the developer be granted interim measures to allow them to continue with the project?",
+    "Legal Principles": "Interim measures in arbitration proceedings, breach of contract, termination of contracts, balance of convenience, irreparable injury, prima facie case, Section 9 of the Arbitration and Conciliation Act, 1996, Order 39 Rule 1, 2 of the Code of Civil Procedure, 1908.",
+    "Relevant Sections": "Section 9 of the Arbitration and Conciliation Act, 1996",
+    "Context": "Jurisdiction: India, Case Type: Commercial Law, Construction Law, Arbitration"
+  },
+  {
+    "Query": "A software company entered into a contract with a technology firm to develop a software application. The technology firm failed to deliver the software on time and within the specified budget, citing technical difficulties. The software company issued a notice terminating the contract and initiated arbitration proceedings. The technology firm sought interim measures to prevent the software company from engaging another developer to complete the project while the dispute is under arbitration. The software company argued that the technology firm had breached the contract and that it was entitled to terminate the agreement. Can the technology firm be granted interim measures to allow them to complete the project?",
+    "Legal Principles": "Interim measures in arbitration proceedings, breach of contract, termination of contracts, balance of convenience, irreparable injury, prima facie case, Section 9 of the Arbitration and Conciliation Act, 1996, Order 39 Rule 1, 2 of the Code of Civil Procedure, 1908.",
+    "Relevant Sections": "Section 9 of the Arbitration and Conciliation Act, 1996",
+    "Context": "Jurisdiction: India, Case Type: Commercial Law, Technology Law, Arbitration"
+  },
+  {
+    "Query": "A distributor entered into a distribution agreement with a manufacturer of consumer goods. The distributor failed to meet the agreed sales targets, citing economic downturn and market competition. The manufacturer issued a notice terminating the agreement and initiated arbitration proceedings. The distributor sought interim measures to prevent the manufacturer from appointing a new distributor while the dispute is under arbitration. The manufacturer argued that the distributor had breached the agreement and that it was entitled to terminate the agreement. Can the distributor be granted interim measures to continue with the distribution?",
+    "Legal Principles": "Interim measures in arbitration proceedings, breach of contract, termination of contracts, balance of convenience, irreparable injury, prima facie case, Section 9 of the Arbitration and Conciliation Act, 1996, Order 39 Rule 1, 2 of the Code of Civil Procedure, 1908.",
+    "Relevant Sections": "Section 9 of the Arbitration and Conciliation Act, 1996",
+    "Context": "Jurisdiction: India, Case Type: Commercial Law, Distribution Law, Arbitration"
+  },
+  {
+    "Query": "A supplier of raw materials entered into a contract with a manufacturing company. The supplier failed to deliver the raw materials on time and within the specified quality standards, citing production delays and logistical challenges. The manufacturing company issued a notice terminating the contract and initiated arbitration proceedings. The supplier sought interim measures to prevent the manufacturing company from engaging another supplier while the dispute is under arbitration. The manufacturing company argued that the supplier had breached the contract and that it was entitled to terminate the agreement. Can the supplier be granted interim measures to continue supplying materials?",
+    "Legal Principles": "Interim measures in arbitration proceedings, breach of contract, termination of contracts, balance of convenience, irreparable injury, prima facie case, Section 9 of the Arbitration and Conciliation Act, 1996, Order 39 Rule 1, 2 of the Code of Civil Procedure, 1908.",
+    "Relevant Sections": "Section 9 of the Arbitration and Conciliation Act, 1996",
+    "Context": "Jurisdiction: India, Case Type: Commercial Law, Supply Chain Law, Arbitration"
+  },
+  {
+    "Query": "A franchisor granted a franchise to a business owner to operate a restaurant. The franchisee failed to maintain the required standards of operation and service, citing financial difficulties and staff shortages. The franchisor issued a notice terminating the franchise agreement and initiated arbitration proceedings. The franchisee sought interim measures to prevent the franchisor from terminating the franchise while the dispute is under arbitration. The franchisor argued that the franchisee had breached the agreement and that it was entitled to terminate the agreement. Can the franchisee be granted interim measures to continue operating the franchise?",
+    "Legal Principles": "Interim measures in arbitration proceedings, breach of contract, termination of contracts, balance of convenience, irreparable injury, prima facie case, Section 9 of the Arbitration and Conciliation Act, 1996, Order 39 Rule 1, 2 of the Code of Civil Procedure, 1908.",
+    "Relevant Sections": "Section 9 of the Arbitration and Conciliation Act, 1996",
+    "Context": "Jurisdiction: India, Case Type: Commercial Law, Franchising Law, Arbitration"
+  },
+  {
+    "Query": "A technology company licensed its software to a customer. The customer failed to pay the license fees, citing budget constraints and financial difficulties. The technology company initiated arbitration proceedings to recover the unpaid fees. The customer sought interim measures to prevent the technology company from disabling access to the software while the dispute is under arbitration. The technology company argued that the customer had breached the license agreement and that it was entitled to disable access. Can the customer be granted interim measures to continue using the software?",
+    "Legal Principles": "Interim measures in arbitration proceedings, breach of contract, termination of contracts, balance of convenience, irreparable injury, prima facie case, Section 9 of the Arbitration and Conciliation Act, 1996, Order 39 Rule 1, 2 of the Code of Civil Procedure, 1908.",
+    "Relevant Sections": "Section 9 of the Arbitration and Conciliation Act, 1996",
+    "Context": "Jurisdiction: India, Case Type: Commercial Law, Intellectual Property Law, Arbitration"
+  },
+  {
+    "Query": "A real estate developer entered into a contract with a buyer to sell a property. The buyer failed to pay the agreed purchase price, citing financial difficulties and market fluctuations. The developer initiated arbitration proceedings to recover the unpaid purchase price. The buyer sought interim measures to prevent the developer from selling the property to another buyer while the dispute is under arbitration. The developer argued that the buyer had breached the sales contract and that it was entitled to sell the property. Can the buyer be granted interim measures to prevent the sale of the property?",
+    "Legal Principles": "Interim measures in arbitration proceedings, breach of contract, termination of contracts, balance of convenience, irreparable injury, prima facie case, Section 9 of the Arbitration and Conciliation Act, 1996, Order 39 Rule 1, 2 of the Code of Civil Procedure, 1908.",
+    "Relevant Sections": "Section 9 of the Arbitration and Conciliation Act, 1996",
+    "Context": "Jurisdiction: India, Case Type: Commercial Law, Real Estate Law, Arbitration"
+  },
+  {
+    "Query": "A publishing company entered into a contract with an author to publish a book. The author failed to deliver the completed manuscript on time, citing writer's block and personal difficulties. The publishing company initiated arbitration proceedings to recover the advance payment made to the author. The author sought interim measures to prevent the publishing company from terminating the contract and seeking another author while the dispute is under arbitration. The publishing company argued that the author had breached the contract and that it was entitled to terminate the agreement. Can the author be granted interim measures to continue with the book project?",
+    "Legal Principles": "Interim measures in arbitration proceedings, breach of contract, termination of contracts, balance of convenience, irreparable injury, prima facie case, Section 9 of the Arbitration and Conciliation Act, 1996, Order 39 Rule 1, 2 of the Code of Civil Procedure, 1908.",
+    "Relevant Sections": "Section 9 of the Arbitration and Conciliation Act, 1996",
+    "Context": "Jurisdiction: India, Case Type: Commercial Law, Intellectual Property Law, Arbitration"
+  },
+  {
+    "Query": "A music label entered into a recording contract with a musician. The musician failed to deliver the agreed number of songs on time, citing creative differences and production delays. The music label initiated arbitration proceedings to recover the advance payment made to the musician. The musician sought interim measures to prevent the music label from terminating the contract and signing another artist while the dispute is under arbitration. The music label argued that the musician had breached the contract and that it was entitled to terminate the agreement. Can the musician be granted interim measures to continue with the recording project?",
+    "Legal Principles": "Interim measures in arbitration proceedings, breach of contract, termination of contracts, balance of convenience, irreparable injury, prima facie case, Section 9 of the Arbitration and Conciliation Act, 1996, Order 39 Rule 1, 2 of the Code of Civil Procedure, 1908.",
+    "Relevant Sections": "Section 9 of the Arbitration and Conciliation Act, 1996",
+    "Context": "Jurisdiction: India, Case Type: Commercial Law, Entertainment Law, Arbitration"
+  }
+]
+```

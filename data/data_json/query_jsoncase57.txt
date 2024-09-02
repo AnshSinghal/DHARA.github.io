@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A landlord filed a suit for mandatory injunction against a tenant who is using the property for commercial purposes. The tenant argued that the dispute is a commercial dispute under the Commercial Courts Act and should be transferred to the Commercial Court. The landlord argued that the dispute is not a commercial dispute and the value of the suit is below the specified value. Should the suit be transferred to the Commercial Court?",
+    "Legal Principles": "The Commercial Courts Act, 2015 defines 'commercial dispute' and 'specified value' and outlines the jurisdiction of Commercial Courts. The Act should be interpreted in harmony with other relevant Acts, such as the Court Fees Act. The determination of whether a dispute is a 'commercial dispute' depends on the specific facts of the case and the nature of the agreement involved.",
+    "Relevant Sections": "Section 2(1)(c) of the Commercial Courts Act defines 'commercial dispute'. Section 2(1)(i) defines 'specified value'. Section 12 of the Act prescribes the methodology for determining specified value. Section 15 of the Act deals with the transfer of suits to Commercial Courts.",
+    "Context": "Jurisdiction: India, Case Type: Civil Revision Petition"
+  },
+  {
+    "Query": "A company entered into a contract for the construction of a commercial building. The contract was breached and the company filed a suit for damages. The value of the claim is above Rs. 3 lakhs. The defendant argued that the dispute is a commercial dispute and should be transferred to the Commercial Court. The plaintiff argued that the dispute is not a commercial dispute. Can the suit be transferred to the Commercial Court?",
+    "Legal Principles": "The Commercial Courts Act, 2015 defines 'commercial dispute' and outlines the jurisdiction of Commercial Courts. Construction contracts are considered 'commercial disputes' under the Act. The value of the claim is a key factor in determining the jurisdiction of the Commercial Court.",
+    "Relevant Sections": "Section 2(1)(c)(vi) of the Commercial Courts Act defines 'commercial dispute' as including construction and infrastructure contracts. Section 2(1)(i) defines 'specified value'. Section 15 of the Act deals with the transfer of suits to Commercial Courts.",
+    "Context": "Jurisdiction: India, Case Type: Suit for Damages"
+  },
+  {
+    "Query": "A partnership agreement between two individuals involved a dispute over the distribution of profits. The dispute involved a claim for a substantial amount of money. One partner sought to have the dispute transferred to the Commercial Court. The other partner argued that the dispute was not a 'commercial dispute' as defined under the Commercial Courts Act. Should the dispute be transferred?",
+    "Legal Principles": "The Commercial Courts Act, 2015 defines 'commercial dispute' and outlines the jurisdiction of Commercial Courts. Partnership agreements are considered 'commercial disputes' under the Act. The value of the claim is a key factor in determining the jurisdiction of the Commercial Court.",
+    "Relevant Sections": "Section 2(1)(c)(xv) of the Commercial Courts Act defines 'commercial dispute' as including partnership agreements. Section 2(1)(i) defines 'specified value'. Section 15 of the Act deals with the transfer of suits to Commercial Courts.",
+    "Context": "Jurisdiction: India, Case Type: Partnership Dispute"
+  },
+  {
+    "Query": "A company filed a suit for recovery of money from a debtor. The debtor claimed that the debt arose from a 'commercial dispute' and should be transferred to the Commercial Court. The company argued that the dispute was not a 'commercial dispute' as defined under the Act. The value of the debt was above Rs. 3 lakhs. Should the suit be transferred to the Commercial Court?",
+    "Legal Principles": "The Commercial Courts Act, 2015 defines 'commercial dispute' and outlines the jurisdiction of Commercial Courts. The Act should be interpreted in harmony with other relevant Acts, such as the Court Fees Act. The determination of whether a dispute is a 'commercial dispute' depends on the specific facts of the case and the nature of the transaction involved.",
+    "Relevant Sections": "Section 2(1)(c) of the Commercial Courts Act defines 'commercial dispute'. Section 2(1)(i) defines 'specified value'. Section 12 of the Act prescribes the methodology for determining specified value. Section 15 of the Act deals with the transfer of suits to Commercial Courts.",
+    "Context": "Jurisdiction: India, Case Type: Suit for Recovery of Money"
+  },
+  {
+    "Query": "A company filed a suit against a supplier for breach of contract for the supply of goods. The supplier argued that the dispute was a 'commercial dispute' and should be transferred to the Commercial Court. The company argued that the dispute was not a 'commercial dispute' as defined under the Act. The value of the claim was above Rs. 3 lakhs. Should the suit be transferred to the Commercial Court?",
+    "Legal Principles": "The Commercial Courts Act, 2015 defines 'commercial dispute' and outlines the jurisdiction of Commercial Courts. The Act should be interpreted in harmony with other relevant Acts, such as the Court Fees Act. The determination of whether a dispute is a 'commercial dispute' depends on the specific facts of the case and the nature of the agreement involved.",
+    "Relevant Sections": "Section 2(1)(c) of the Commercial Courts Act defines 'commercial dispute'. Section 2(1)(i) defines 'specified value'. Section 12 of the Act prescribes the methodology for determining specified value. Section 15 of the Act deals with the transfer of suits to Commercial Courts.",
+    "Context": "Jurisdiction: India, Case Type: Suit for Breach of Contract"
+  },
+  {
+    "Query": "Two companies entered into a joint venture agreement for the development of a new product. A dispute arose regarding the distribution of profits and one company sought to have the dispute transferred to the Commercial Court. The other company argued that the dispute was not a 'commercial dispute' as defined under the Act. The value of the claim was above Rs. 3 lakhs. Should the dispute be transferred to the Commercial Court?",
+    "Legal Principles": "The Commercial Courts Act, 2015 defines 'commercial dispute' and outlines the jurisdiction of Commercial Courts. Joint venture agreements are considered 'commercial disputes' under the Act. The value of the claim is a key factor in determining the jurisdiction of the Commercial Court.",
+    "Relevant Sections": "Section 2(1)(c)(xi) of the Commercial Courts Act defines 'commercial dispute' as including joint venture agreements. Section 2(1)(i) defines 'specified value'. Section 15 of the Act deals with the transfer of suits to Commercial Courts.",
+    "Context": "Jurisdiction: India, Case Type: Joint Venture Dispute"
+  },
+  {
+    "Query": "A company filed a suit for infringement of its trademark against another company. The defendant argued that the dispute was a 'commercial dispute' and should be transferred to the Commercial Court. The plaintiff argued that the dispute was not a 'commercial dispute' as defined under the Act. The value of the claim was above Rs. 3 lakhs. Should the suit be transferred to the Commercial Court?",
+    "Legal Principles": "The Commercial Courts Act, 2015 defines 'commercial dispute' and outlines the jurisdiction of Commercial Courts. Disputes relating to intellectual property rights, including trademarks, are considered 'commercial disputes' under the Act. The value of the claim is a key factor in determining the jurisdiction of the Commercial Court.",
+    "Relevant Sections": "Section 2(1)(c)(xvii) of the Commercial Courts Act defines 'commercial dispute' as including disputes relating to intellectual property rights. Section 2(1)(i) defines 'specified value'. Section 15 of the Act deals with the transfer of suits to Commercial Courts.",
+    "Context": "Jurisdiction: India, Case Type: Trademark Infringement Suit"
+  },
+  {
+    "Query": "A company filed a suit for recovery of money from a customer who had defaulted on a contract for the provision of services. The customer argued that the dispute was a 'commercial dispute' and should be transferred to the Commercial Court. The company argued that the dispute was not a 'commercial dispute' as defined under the Act. The value of the claim was above Rs. 3 lakhs. Should the suit be transferred to the Commercial Court?",
+    "Legal Principles": "The Commercial Courts Act, 2015 defines 'commercial dispute' and outlines the jurisdiction of Commercial Courts. The Act should be interpreted in harmony with other relevant Acts, such as the Court Fees Act. The determination of whether a dispute is a 'commercial dispute' depends on the specific facts of the case and the nature of the agreement involved.",
+    "Relevant Sections": "Section 2(1)(c) of the Commercial Courts Act defines 'commercial dispute'. Section 2(1)(i) defines 'specified value'. Section 12 of the Act prescribes the methodology for determining specified value. Section 15 of the Act deals with the transfer of suits to Commercial Courts.",
+    "Context": "Jurisdiction: India, Case Type: Suit for Recovery of Money"
+  },
+  {
+    "Query": "A company filed a suit against a competitor for unfair competition. The competitor argued that the dispute was a 'commercial dispute' and should be transferred to the Commercial Court. The company argued that the dispute was not a 'commercial dispute' as defined under the Act. The value of the claim was above Rs. 3 lakhs. Should the suit be transferred to the Commercial Court?",
+    "Legal Principles": "The Commercial Courts Act, 2015 defines 'commercial dispute' and outlines the jurisdiction of Commercial Courts. The Act should be interpreted in harmony with other relevant Acts, such as the Court Fees Act. The determination of whether a dispute is a 'commercial dispute' depends on the specific facts of the case and the nature of the claim involved.",
+    "Relevant Sections": "Section 2(1)(c) of the Commercial Courts Act defines 'commercial dispute'. Section 2(1)(i) defines 'specified value'. Section 12 of the Act prescribes the methodology for determining specified value. Section 15 of the Act deals with the transfer of suits to Commercial Courts.",
+    "Context": "Jurisdiction: India, Case Type: Suit for Unfair Competition"
+  },
+  {
+    "Query": "A company filed a suit against an employee for breach of a non-compete agreement. The employee argued that the dispute was a 'commercial dispute' and should be transferred to the Commercial Court. The company argued that the dispute was not a 'commercial dispute' as defined under the Act. The value of the claim was above Rs. 3 lakhs. Should the suit be transferred to the Commercial Court?",
+    "Legal Principles": "The Commercial Courts Act, 2015 defines 'commercial dispute' and outlines the jurisdiction of Commercial Courts. The Act should be interpreted in harmony with other relevant Acts, such as the Court Fees Act. The determination of whether a dispute is a 'commercial dispute' depends on the specific facts of the case and the nature of the agreement involved.",
+    "Relevant Sections": "Section 2(1)(c) of the Commercial Courts Act defines 'commercial dispute'. Section 2(1)(i) defines 'specified value'. Section 12 of the Act prescribes the methodology for determining specified value. Section 15 of the Act deals with the transfer of suits to Commercial Courts.",
+    "Context": "Jurisdiction: India, Case Type: Suit for Breach of Contract"
+  }
+]
+```

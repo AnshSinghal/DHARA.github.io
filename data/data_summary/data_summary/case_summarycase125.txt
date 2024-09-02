@@ -1,0 +1,119 @@
+## 1. Case Title
+
+* **Case Name:** Leitz Tooling Systems India Pvt. Ltd. vs. Bharat Bhogilal Patel
+* **Court:** Bombay High Court, Commercial Division
+* **Date of Judgment:** 1st June, 2019
+* **Citation:** 2019 SCC Online Bom 358
+
+## 2. Background and Context
+
+* **Brief Overview:** This case arose from a commercial dispute filed by Bharat Bhogilal Patel (Plaintiff) against Leitz Tooling Systems India Pvt. Ltd. (Defendant). The Plaintiff claimed a Specified Value of ₹20,000 for the suit, which was below the threshold set by the Commercial Courts Act, 2015. The dispute revolved around the applicability of the amendments introduced to the Code of Civil Procedure, 1908 (CPC) by the Commercial Courts Act.
+* **Key Issues:** 
+    * Whether the amendments introduced to the CPC by the Commercial Courts Act apply to commercial disputes of any value, including those below the Specified Value.
+    * Whether the 120-day period for filing a Written Statement mandated by the Commercial Courts Act applies to commercial suits not exceeding the Specified Value.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015 (4 of 2016)
+        * Section 2(i): Definition of "Specified Value"
+        * Section 4: Constitution of Commercial Division
+        * Section 7: Jurisdiction of Commercial Divisions (including the first proviso)
+        * Section 16: Amendments to the CPC in its application to commercial disputes
+    * Code of Civil Procedure, 1908 (CPC)
+        * Order VIII, Rule 1: Filing of Written Statement 
+    * Trade Marks Act, 1999
+        * Section 134: Jurisdiction for suits under the Act
+    * Copyright Act, 1957
+        * Section 62: Jurisdiction for suits under the Act
+* **Precedents Cited:**
+    * M/s SCG Contracts India Pvt. Ltd. vs. K.S. Chamankar Infrastructure Pvt. Ltd. & Ors. (2019 SCC Online SC 226)
+    * Axis Bank Limited vs. Mira Gehani & Ors. (2019 SCC Online Bom 358)
+    * Indian Overseas Bank vs. Jason Deckor P. Ltd. (MANU/GJ/1383/2018)
+    * Nagarjuna Fertilizers & Chemicals Limited vs. Tecnimont SpA & Ors. (MANU/HY/0448/2018)
+    * Invoke Medical System Pvt. Ltd. vs. Kunal Structure (India) Pvt. Ltd. (MANU/GJ/0227/2019)
+    * Samsung Leasing Ltd. & Ors. vs. Samsung Electronic Co. Ltd. & Anr. (2018 (167) DRJ 654)
+    * OCI Corporation vs. Kandla Export Corporation & Ors (2016 SCC Online Guj 5981)
+    * Prakash Nath Khanna & Anr. vs. Commissioner of Income Tax & Anr. (2004) 9 SCC 686
+    * Union of India vs. National Federation of Blind (2013) 10 SCC 772
+    * Tata Power Company Ltd. & Ors. vs. Maharashtra Electricity Regulatory Commission & Ors. (MANU/SC/0932/2009)
+    * Ajay Enterprises (P) Ltd. & Anr. vs. Municipal Corporation of Delhi (ILR (1972) 2 Del 629)
+    * Karnataka Rare Earth vs. Deptt. of Mines & Geology (2004) 2 SCC 783
+    * K.P. Varghese vs. Income Tax Officer & Anr. (1981) 4 SCC 173
+    * Union of India vs Filip Tiago De Gama of Vedem Vasco De Gama (1990 (1) SCC 277)
+    * Rajbir Singh Dalal (Dr.) vs Chaudhari Devilal University, Sirsa (2008 (9) SCC 284)
+    * Commissioner of Income Tax, Central Calcutta vs National Taj Traders (1980 (1) SCC 370)
+    * Shailesh Dhairyawan vs Mohan Balkrishna Lulla (2016 (3) SCC 619)
+    * Indian Performing Rights Society vs Sanjay Dalia (2015 (10) SCC 161)
+    * Sansar Chand Atri vs. State of Punjab (2002) 4 SCC 154
+    * B. Premanand vs. Mohan Koikal (2011) 4 SCC 266
+    * Kanai Lal Sur vs. Paramnidhi Sadhukhan (AIR 1957 SC 907)
+    * Commr. of Customs v. Dilip Kumar & Co. (2018) 9 SCC 1 
+    * Aphali Pharmaceuticals Ltd. v. State of Maharashtra (1989) 4 SCC
+    * Ajay Enterprises (P) Ltd. and Anr. vs Municipal Corporation Of Delhi (ILR (1972) 2 Del 629)
+* **Legal Doctrines:**
+    * Literal Rule of Interpretation
+    * Purposive Interpretation
+    * Mischief Rule
+    * Interpretation of Statutes
+    * Judicial Restraint
+    * Constitutional Validity
+
+## 4. Arguments Presented
+
+* **Plaintiff’s Argument:**
+    * The Plaintiff, Bharat Bhogilal Patel, argued that the amendments to the CPC introduced by the Commercial Courts Act only apply to commercial disputes of a Specified Value.
+    * The Plaintiff emphasized that the Specified Value of the suit was ₹20,000, which falls below the threshold set by the Act.
+    * The Plaintiff claimed that the 120-day time limit for filing a Written Statement should not be applicable in this case as the suit was below the Specified Value.
+    * The Plaintiff argued that the plain and unambiguous language of Section 16 of the Commercial Courts Act makes it clear that the amendments only apply to cases exceeding the Specified Value.
+* **Defendant’s Argument:**
+    * The Defendant, Leitz Tooling Systems India Pvt. Ltd., argued that the amendments to the CPC introduced by the Commercial Courts Act apply to all commercial disputes, regardless of value.
+    * The Defendant emphasized that the Commercial Courts Act was intended to expedite all commercial disputes, including those falling under the first proviso of Section 7, which covered Intellectual Property Rights matters.
+    * The Defendant contended that applying different procedural rules based on the value of the dispute would create a chaotic and inefficient system, defeating the purpose of the Act.
+    * The Defendant argued that interpreting Section 16 literally would lead to an absurd situation where matters heard by the Commercial Division would be governed by different rules depending on their value, even though they were being adjudicated by the same forum under the same Act.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The court acknowledged that the language of Section 16, in its literal interpretation, seemed to limit the application of the amendments to commercial disputes of a Specified Value.
+    * The court recognized that the marginal note/heading to Section 16 and the Schedule to the Act referred to "commercial disputes" generally, which could be interpreted to include all commercial disputes, not just those above the Specified Value. 
+    * The court also considered the potential for an absurd outcome if the amendments were not applied to all commercial disputes, even those below the Specified Value.
+* **Interpretation of Law:**
+    * The court relied heavily on the literal rule of interpretation, stating that where the words of a statute are clear and unambiguous, courts should adhere to that meaning.
+    * The court found that the language of Section 16 was sufficiently clear to warrant a literal interpretation.
+* **Application of Law:**
+    * The court applied the literal rule of interpretation to Section 16 and concluded that the amendments introduced to the CPC by the Commercial Courts Act only apply to commercial disputes of a Specified Value.
+    * The court determined that the 120-day period for filing a Written Statement mandated by the Commercial Courts Act would not apply to commercial disputes not exceeding the Specified Value.
+
+## 6. Judgment
+
+* **Final Decision:** The court ruled in favor of the Defendant, Leitz Tooling Systems India Pvt. Ltd., finding that the amendments introduced to the CPC by the Commercial Courts Act do not apply to commercial disputes below the Specified Value.
+* **Relief Granted:** The court condoned the delay of two days in filing the Written Statement in the suit and disposed of the Notice of Motion.
+* **Orders:** The court concluded that the question of law had been decided, and the delay in filing the Written Statement in the suit was condoned.
+
+## 7. Implications
+
+* **Impact on Law:** The judgment clarifies the applicability of the Commercial Courts Act amendments to commercial disputes below the Specified Value. It affirms the importance of the literal rule of interpretation when the language of a statute is clear.
+* **Future Relevance:** This case serves as a precedent for future cases involving similar issues regarding the application of the Commercial Courts Act to commercial disputes of varying values. The judgment may lead to further debate and litigation on the interpretation of Section 16 and its impact on the efficient disposal of commercial disputes.
+* **Broader Context:** The judgment highlights the ongoing debate surrounding the implementation and interpretation of the Commercial Courts Act, particularly its impact on the procedural landscape for commercial disputes in India. The case underscores the need for clarity and consistency in applying the Act's provisions to ensure its intended objectives are met.
+
+## 8. Summary Points
+
+* The court adopted a literal interpretation of Section 16 of the Commercial Courts Act, finding that the amendments introduced to the CPC apply only to commercial disputes of a Specified Value.
+* The court declined to adopt a purposive interpretation, even though it recognized the potential for an absurd outcome if the amendments were not applied to all commercial disputes.
+* The judgment emphasizes the importance of the literal rule of interpretation in cases where the language of a statute is clear and unambiguous.
+* The case sheds light on the continuing debate surrounding the implementation and interpretation of the Commercial Courts Act in India.
+
+## 9. References
+
+* **Citations:** 
+    * Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015 (4 of 2016)
+    * Code of Civil Procedure, 1908 (CPC)
+    * Trade Marks Act, 1999
+    * Copyright Act, 1957
+    *  All cited cases.
+* **Further Reading:** 
+    * Principles of Statutory Interpretation by Justice G.P. Singh
+    * Bennion on Statutory Interpretation
+    * Law Commission of India Reports 188 and 253
+    * Other relevant judgments on the interpretation of the Commercial Courts Act.

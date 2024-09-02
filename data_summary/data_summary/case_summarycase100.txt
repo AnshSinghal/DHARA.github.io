@@ -1,0 +1,82 @@
+## 1. Case Title
+
+* **Case Name:** Smt. Tulsarani And Another vs Union Of India And 3 Others
+* **Court:** Allahabad High Court
+* **Date of Judgment:** 26th September 2022
+* **Citation:** Not available in the provided text. 
+
+## 2. Background and Context
+
+* **Brief Overview:** This case concerns a dispute over compensation for land acquired by the Central Government for widening a national highway. The petitioners, Smt. Tulsarani and another, claim that their land, part of Arazi No. 73 in Village Raimalpura, was wrongly classified as agricultural land and should have been compensated at residential rates. They challenged the award of the Statutory Arbitrator, appointed under the National Highways Act, 1956 (Act of 1956).
+* **Key Issues:** 
+    * Whether the award of the Statutory Arbitrator under Section 3G(5) of the Act of 1956 can be challenged through an application under Section 34 of the Arbitration and Conciliation Act, 1996 (Act of 1996).
+    * If so, before which Court or Tribunal should the application be filed.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * **National Highways Act, 1956 (Act of 1956):**  Section 3G (determination of compensation), Section 3G(5) (appointment of Statutory Arbitrator).
+    * **Arbitration and Conciliation Act, 1996 (Act of 1996):** Section 34 (challenging arbitral awards), Section 67 (reference to Land Acquisition and Rehabilitation and Resettlement Authority).
+    * **Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act, 2013 (Act of 2013):** Section 51 (constitution of Land Acquisition and Rehabilitation and Resettlement Authority).
+    * **Commercial Courts Act, 2015:** Section 2(1)(c) (definition of "commercial disputes").
+* **Precedents Cited:**
+    * **Union of India and another v. Tarsem Singh and others, (2019) 9 SCC 304** (regarding application of the Act of 2013 to acquisitions under the Act of 1956).
+    * **Richa Bisht v. Union of India, AIROnline 2020 UTR 478** (regarding applicability of commercial courts to land acquisition disputes).
+* **Legal Doctrines:**
+    * **Statutory Interpretation:** The court analyzed the provisions of the relevant acts to determine their scope and application.
+    * **Jurisdiction:** The court examined the jurisdiction of the Commercial Court and determined the proper forum for challenging the Statutory Arbitrator's award.
+    * **Land Acquisition Law:** The court applied principles of land acquisition law, specifically the rights of landholders and the process of determining compensation.
+
+## 4. Arguments Presented
+
+* **Petitioner's Argument:**
+    * The award of the Statutory Arbitrator was incorrect in classifying their land as agricultural and failing to compensate them at residential rates.
+    * The petitioners argued that they had a valid claim to compensation under the Act of 1956 and that the Commercial Court had jurisdiction to hear their application under Section 34 of the Act of 1996.
+* **Respondent's Argument:**
+    * The Statutory Arbitrator's award was final and binding, and the petitioners' remedy lay with the Land Acquisition and Rehabilitation and Resettlement Authority under the Act of 2013.
+    * They argued that the petitioners' application under Section 34 of the Act of 1996 was not maintainable before the Commercial Court.
+
+## 5. Court's Analysis and Reasoning
+
+* **Key Findings:**
+    * The court found that the Commercial Court was mistaken in dismissing the application under Section 34 of the Act of 1996 on the grounds that the Statutory Arbitrator's award could not be challenged.
+    * The court clarified that the application of the Act of 2013 to acquisitions under the Act of 1956 was limited to compensation and did not subsume the entire legal framework of the Act of 1956.
+    * The court held that the dispute did not constitute a "commercial dispute" under the Commercial Courts Act, 2015, and the application under Section 34 should not have been filed before the Commercial Court.
+* **Interpretation of Law:**
+    * The court interpreted Section 3G(6) of the Act of 1956 to conclude that the provisions of the Act of 1996 were applicable to arbitration proceedings under the Act of 1956, including the right to challenge awards under Section 34.
+    * The court interpreted the provisions of the Act of 2013 and the precedents, specifically *Tarsem Singh*, to establish that the application of the Act of 2013 to acquisitions under the Act of 1956 was limited to specific areas of compensation and resettlement.
+* **Application of Law:**
+    * The court applied the principles of statutory interpretation and land acquisition law to determine that the petitioners had a right to challenge the Statutory Arbitrator's award under Section 34 of the Act of 1996.
+    * The court applied the definition of "commercial dispute" in the Commercial Courts Act, 2015, to conclude that the land acquisition dispute did not meet the criteria for being classified as a commercial dispute.
+
+## 6. Judgment
+
+* **Final Decision:** The petition was dismissed.
+* **Relief Granted:** None, as the court did not have jurisdiction to hear the application under Section 34 of the Act of 1996.
+* **Orders:** The court clarified that upon return of the application, the petitioners could, subject to the law of limitation, file proceedings before the court of competent jurisdiction to hear an application under Section 34 of the Act of 1996.
+
+## 7. Implications
+
+* **Impact on Law:** This judgment clarifies the scope of Section 34 of the Act of 1996 in relation to awards under the Act of 1956, reaffirming the right to challenge such awards in a court of law. 
+* **Future Relevance:** This case provides valuable guidance for future cases involving land acquisition under the Act of 1956, especially regarding the proper forum for challenging arbitration awards.
+* **Broader Context:** This case highlights the ongoing tension between the Act of 1956 and the Act of 2013, particularly regarding the application of the latter to acquisitions made under the former.
+
+## 8. Summary Points
+
+* The court upheld the right to challenge an award passed by the Statutory Arbitrator under the Act of 1956 using Section 34 of the Act of 1996.
+* The court clarified that the application of the Act of 2013 to acquisitions under the Act of 1956 is limited and does not supersede the legal framework of the Act of 1956.
+* The dispute was not a "commercial dispute" under the Commercial Courts Act, 2015, and the Commercial Court lacked jurisdiction to hear the case. 
+* The petitioners have the right to file a Section 34 application before the appropriate court, subject to the law of limitation.
+
+## 9. References
+
+* **National Highways Act, 1956**
+* **Arbitration and Conciliation Act, 1996**
+* **Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act, 2013**
+* **Commercial Courts Act, 2015**
+* **Union of India and another v. Tarsem Singh and others, (2019) 9 SCC 304**
+* **Richa Bisht v. Union of India, AIROnline 2020 UTR 478**
+
+**Further Reading:** 
+* **The Land Acquisition Act, 1894** (for historical context)
+* **Other cases regarding the application of the Act of 2013 to acquisitions under the Act of 1956**

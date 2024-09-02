@@ -1,0 +1,78 @@
+## Case Title
+
+* **Case Name:** Trinetramilan Product Protection Solutions Private Limited vs. Tara Narayanan
+* **Court:** Karnataka High Court
+* **Date of Judgment:** 7th June 2023
+* **Citation:** NC: 2023:KHC:19391
+
+## Background and Context
+
+* **Brief Overview:** This case involves two suits filed by Tara Narayanan and her husband A.S. Narayanan (collectively, the respondents) against Trinetramilan Product Protection Solutions Private Limited and its directors (collectively, the petitioners) for eviction from a property and recovery of rent. The dispute arises from a lease agreement signed in 2017 for the use of the property for a printing business.
+* **Key Issues:** 
+    * Whether the dispute falls under the definition of a "commercial dispute" as defined by the Commercial Courts Act, 2015, thereby making it eligible for transfer to a dedicated Commercial Court.
+    * Whether the requirement of mandatory pre-litigation mediation under Section 12A of the Commercial Courts Act was applicable to the suits, which were filed before the Supreme Court's ruling on the mandatory nature of Section 12A.
+
+## Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * Commercial Courts Act, 2015 (particularly Section 2(1)(c)(vii), Section 12A, and Section 15)
+    * Code of Civil Procedure (Order VII Rule 11)
+    * Arbitration and Conciliation Act, 1996
+    * Limitation Act, 1963
+* **Precedents Cited:** 
+    * Patil Automation Pvt. Ltd. & Others Vs Rakheja Engineers Pvt. Ltd., 2022 SCC Online SC 1028
+    * C.K. Surendran Vs. Kunhimoosa, 2021 SCC Online Kunhimoosa 9808
+    * Mrs. Soni Dave Vs. M/s. Trans Asian Industries Expositions Pvt Ltd., 2016 SCC Online Del 4282
+    * Havells India Limited Vs. The Advertising Standards Council of India, 2016 SCC Online Delhi 760
+* **Legal Doctrines:**
+    * Interpretation of statutes
+    * Prospective vs. retrospective operation of laws
+    * Applicability of legal provisions to pending cases
+    * Dismissal of suits for failure to comply with procedural requirements
+
+## Arguments Presented
+
+* **Plaintiff’s Argument (Respondents):**
+    * The dispute qualifies as a "commercial dispute" under the Commercial Courts Act, 2015, because the property was leased for commercial use (printing business).
+    * The suits were filed before the Supreme Court's ruling on Section 12A and were therefore not subject to its mandatory pre-litigation mediation requirement.
+* **Defendant’s Argument (Petitioners):**
+    * The dispute does not fall under the definition of a "commercial dispute" as the property is not exclusively used for trade or commerce.
+    * Section 12A of the Commercial Courts Act is mandatory and its pre-litigation mediation requirement should apply to the suits, even though they were filed before the Supreme Court's ruling.
+    * The respondents did not comply with the mandatory pre-litigation mediation process, making the suits premature and liable to be rejected.
+
+## Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The court found that the property was being used for a printing business, thus satisfying the definition of "immovable properties used exclusively in trade or commerce" under the Commercial Courts Act.
+    * The court held that the Supreme Court's ruling on Section 12A is prospective in nature and does not apply to suits filed before its pronouncement.
+* **Interpretation of Law:** The court meticulously interpreted the provisions of the Commercial Courts Act, 2015, including Section 2(1)(c)(vii), Section 12A, and Section 15, to determine the applicability of the Act to the case. The court also analyzed the Supreme Court's judgment in Patil Automation Pvt. Ltd. to assess its impact on the present case.
+* **Application of Law:** The court applied the law to the specific facts of the case, concluding that the dispute fell under the definition of "commercial dispute" and that the requirement of pre-litigation mediation was not applicable.
+
+## Judgment
+
+* **Final Decision:** The Karnataka High Court dismissed the petitions filed by the petitioners.
+* **Relief Granted:** The court upheld the decisions of the lower courts, allowing the transfer of the suits to the designated Commercial Court and rejecting the petitioners' application for rejection of the plaint.
+* **Orders:** No specific orders were issued beyond dismissing the petitions.
+
+## Implications
+
+* **Impact on Law:** The judgment reaffirms the prospective operation of the Supreme Court's ruling on Section 12A of the Commercial Courts Act and its inapplicability to pending suits.
+* **Future Relevance:** The judgment provides guidance on the interpretation of the Commercial Courts Act, particularly on the definition of "commercial dispute" and the applicability of pre-litigation mediation requirements to pending cases.
+* **Broader Context:** The case highlights the complexities of applying new legislation to ongoing legal disputes and emphasizes the importance of clear judicial interpretations regarding the scope and applicability of statutory provisions.
+
+## Summary Points
+
+* The dispute involves a lease agreement for a property used for a printing business and falls under the definition of a "commercial dispute."
+* The mandatory pre-litigation mediation requirement under Section 12A of the Commercial Courts Act was not applicable as the suits were filed before the Supreme Court's ruling.
+* The Karnataka High Court upheld the lower court's decisions, allowing the transfer of the suits to the designated Commercial Court and rejecting the application for rejection of the plaint.
+
+## References
+
+* **Citations:**
+    * Commercial Courts Act, 2015
+    * Code of Civil Procedure (Order VII Rule 11)
+    * Patil Automation Pvt. Ltd. & Others Vs Rakheja Engineers Pvt. Ltd., 2022 SCC Online SC 1028
+* **Further Reading:**
+    * "Commercial Courts Act, 2015: A Commentary" by A.K. Rastogi
+    * "The Code of Civil Procedure, 1908" by Mulla & Vakil
+    * Other judgments related to the Commercial Courts Act, 2015 and pre-litigation mediation. 

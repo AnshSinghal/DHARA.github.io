@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A developer and a property owner have a dispute regarding a development agreement. The owner claims the developer failed to complete the project on time, resulting in rent losses. The owner seeks attachment of flats and completion of pending works.  Is the dispute a commercial dispute under the Commercial Courts Act, 2015, and does the Civil Court have jurisdiction?",
+    "Legal Principles": "The Commercial Courts Act, 2015 defines 'commercial dispute' as a dispute arising out of agreements relating to immovable property used exclusively in trade or commerce.  The Act grants jurisdiction to Commercial Courts for such disputes exceeding a 'specified value'.",
+    "Relevant Sections": "Section 2(1)(c)(vii) defines 'commercial dispute' in relation to immovable property used for trade or commerce. Section 10(3) grants jurisdiction to Commercial Courts for commercial disputes exceeding the 'specified value'.",
+    "Context": "Jurisdictional dispute in a case involving a development agreement and allegations of breach of contract, leading to a request for attachment of property and completion of pending works. The dispute arises under the Arbitration and Conciliation Act, 1996, with the owner invoking Section 9 to secure relief."
+  },
+  {
+    "Query": "Two parties entered into a contract for the sale of a commercial building. The buyer claims the seller breached the agreement by failing to deliver the property on time, causing financial losses. The buyer seeks damages and specific performance.  Does the Commercial Courts Act, 2015, apply to this case, and which court has jurisdiction?",
+    "Legal Principles": "A contract for the sale of a commercial building falls under the definition of 'commercial dispute' in the Commercial Courts Act, 2015, if the building is used exclusively for trade or commerce. The jurisdiction depends on the 'specified value' of the dispute.",
+    "Relevant Sections": "Section 2(1)(c)(vii) defines 'commercial dispute' in relation to immovable property used for trade or commerce. Section 10(3) grants jurisdiction to Commercial Courts for commercial disputes exceeding the 'specified value'.",
+    "Context": "Dispute over a sale contract for a commercial building, with the buyer alleging breach of contract and seeking damages and specific performance. The case raises the issue of jurisdiction under the Commercial Courts Act, 2015."
+  },
+  {
+    "Query": "A company leased commercial premises for its business operations. The landlord alleges the company failed to pay rent and vacate the premises as per the lease agreement. The landlord seeks eviction and recovery of arrears.  Is this a 'commercial dispute' under the Commercial Courts Act, 2015, and where should the case be filed?",
+    "Legal Principles": "A dispute arising from a lease agreement for commercial premises constitutes a 'commercial dispute' under the Commercial Courts Act, 2015, provided the premises are exclusively used for trade or commerce. The jurisdiction depends on the value of the dispute.",
+    "Relevant Sections": "Section 2(1)(c)(vii) defines 'commercial dispute' in relation to immovable property used for trade or commerce. Section 10(3) grants jurisdiction to Commercial Courts for commercial disputes exceeding the 'specified value'.",
+    "Context": "Dispute between a landlord and tenant concerning a commercial lease agreement. The landlord seeks eviction and recovery of unpaid rent, raising the issue of jurisdiction under the Commercial Courts Act, 2015."
+  },
+  {
+    "Query": "A partnership firm entered into a joint venture agreement with another firm to develop a commercial property. The partnership firm claims the other firm failed to contribute its share of funds and breached the agreement. The partnership firm seeks dissolution of the joint venture and damages. Is this a 'commercial dispute' under the Commercial Courts Act, 2015?",
+    "Legal Principles": "A dispute arising from a joint venture agreement related to the development of a commercial property constitutes a 'commercial dispute' under the Commercial Courts Act, 2015, as the property is used exclusively for trade or commerce.",
+    "Relevant Sections": "Section 2(1)(c)(vii) defines 'commercial dispute' in relation to immovable property used for trade or commerce. Section 10(3) grants jurisdiction to Commercial Courts for commercial disputes exceeding the 'specified value'.",
+    "Context": "Dispute between two partners in a joint venture for developing a commercial property. The partnership firm alleges breach of agreement and seeks dissolution and damages, raising the issue of jurisdiction under the Commercial Courts Act, 2015."
+  },
+  {
+    "Query": "A company entered into a contract with a contractor for the construction of a commercial building. The company claims the contractor failed to complete the project according to specifications and on time. The company seeks damages and termination of the contract. Is this a 'commercial dispute' under the Commercial Courts Act, 2015, and which court has jurisdiction?",
+    "Legal Principles": "A dispute arising from a contract for the construction of a commercial building falls under the definition of 'commercial dispute' in the Commercial Courts Act, 2015, as the building is used exclusively for trade or commerce. The jurisdiction depends on the 'specified value' of the dispute.",
+    "Relevant Sections": "Section 2(1)(c)(vii) defines 'commercial dispute' in relation to immovable property used for trade or commerce. Section 10(3) grants jurisdiction to Commercial Courts for commercial disputes exceeding the 'specified value'.",
+    "Context": "Dispute concerning a construction contract for a commercial building. The company alleges breach of contract and seeks damages and termination, raising the issue of jurisdiction under the Commercial Courts Act, 2015."
+  },
+  {
+    "Query": "Two parties entered into a partnership agreement for a business venture involving the sale of goods. One partner alleges the other breached the agreement by diverting profits and failing to contribute to the business. The partner seeks dissolution of the partnership and an accounting of profits.  Does this dispute fall under the Commercial Courts Act, 2015, and where should the case be filed?",
+    "Legal Principles": "A dispute arising from a partnership agreement for a business venture involving the sale of goods falls under the definition of 'commercial dispute' in the Commercial Courts Act, 2015. The jurisdiction depends on the 'specified value' of the dispute.",
+    "Relevant Sections": "Section 2(1)(c)(vii) defines 'commercial dispute' in relation to immovable property used for trade or commerce. Section 10(3) grants jurisdiction to Commercial Courts for commercial disputes exceeding the 'specified value'.",
+    "Context": "Dispute between two partners in a business venture involving the sale of goods. One partner alleges breach of partnership agreement and seeks dissolution and accounting of profits, raising the issue of jurisdiction under the Commercial Courts Act, 2015."
+  },
+  {
+    "Query": "A company entered into a franchise agreement with another company to operate a retail store. The franchisor alleges the franchisee failed to comply with the terms of the agreement, including payment of royalties. The franchisor seeks termination of the franchise agreement and damages. Does this dispute fall under the Commercial Courts Act, 2015, and which court has jurisdiction?",
+    "Legal Principles": "A dispute arising from a franchise agreement for operating a retail store falls under the definition of 'commercial dispute' in the Commercial Courts Act, 2015. The jurisdiction depends on the 'specified value' of the dispute.",
+    "Relevant Sections": "Section 2(1)(c)(vii) defines 'commercial dispute' in relation to immovable property used for trade or commerce. Section 10(3) grants jurisdiction to Commercial Courts for commercial disputes exceeding the 'specified value'.",
+    "Context": "Dispute between a franchisor and franchisee concerning a retail store franchise agreement. The franchisor alleges breach of agreement and seeks termination and damages, raising the issue of jurisdiction under the Commercial Courts Act, 2015."
+  },
+  {
+    "Query": "A company issued a promissory note to another company for a loan. The lender company alleges the borrower company failed to repay the loan as per the terms of the note. The lender company seeks recovery of the loan amount.  Is this dispute governed by the Commercial Courts Act, 2015, and which court has jurisdiction?",
+    "Legal Principles": "A dispute arising from a promissory note issued for a loan falls under the definition of 'commercial dispute' in the Commercial Courts Act, 2015. The jurisdiction depends on the 'specified value' of the dispute.",
+    "Relevant Sections": "Section 2(1)(c)(vii) defines 'commercial dispute' in relation to immovable property used for trade or commerce. Section 10(3) grants jurisdiction to Commercial Courts for commercial disputes exceeding the 'specified value'.",
+    "Context": "Dispute concerning a promissory note issued for a loan. The lender company alleges non-payment and seeks recovery, raising the issue of jurisdiction under the Commercial Courts Act, 2015."
+  },
+  {
+    "Query": "Two companies entered into a contract for the supply of goods. The buyer company alleges the seller company failed to deliver the goods as per the contract. The buyer company seeks damages and specific performance.  Does this dispute fall under the Commercial Courts Act, 2015, and which court has jurisdiction?",
+    "Legal Principles": "A dispute arising from a contract for the supply of goods falls under the definition of 'commercial dispute' in the Commercial Courts Act, 2015. The jurisdiction depends on the 'specified value' of the dispute.",
+    "Relevant Sections": "Section 2(1)(c)(vii) defines 'commercial dispute' in relation to immovable property used for trade or commerce. Section 10(3) grants jurisdiction to Commercial Courts for commercial disputes exceeding the 'specified value'.",
+    "Context": "Dispute concerning a contract for the supply of goods. The buyer company alleges breach of contract and seeks damages and specific performance, raising the issue of jurisdiction under the Commercial Courts Act, 2015."
+  },
+  {
+    "Query": "A company entered into a joint venture agreement with another company to develop and operate a hotel. The joint venture agreement includes provisions for sharing profits and losses. One company alleges the other breached the agreement by diverting profits. The company seeks dissolution of the joint venture and an accounting of profits. Is this a 'commercial dispute' under the Commercial Courts Act, 2015, and which court has jurisdiction?",
+    "Legal Principles": "A dispute arising from a joint venture agreement for developing and operating a hotel falls under the definition of 'commercial dispute' in the Commercial Courts Act, 2015. The jurisdiction depends on the 'specified value' of the dispute.",
+    "Relevant Sections": "Section 2(1)(c)(vii) defines 'commercial dispute' in relation to immovable property used for trade or commerce. Section 10(3) grants jurisdiction to Commercial Courts for commercial disputes exceeding the 'specified value'.",
+    "Context": "Dispute concerning a joint venture agreement for developing and operating a hotel. One company alleges breach of agreement and seeks dissolution and accounting of profits, raising the issue of jurisdiction under the Commercial Courts Act, 2015."
+  }
+]
+```

@@ -1,0 +1,128 @@
+## 1. Case Title
+
+* **Case Name:** M/S Christy Friedgram Industry vs. Department of Women and Child Development
+* **Court:** Karnataka High Court
+* **Date of Judgment:** 22nd March 2022
+* **Citation:** Not provided in the text.
+
+## 2. Background and Context
+
+* **Brief Overview:** M/S Christy Friedgram Industry (appellant) filed a claim petition against the Department of Women and Child Development (respondent) for various monetary claims arising from allegedly illegal termination of contracts and interference with their business. The appellant claimed a total of Rs. 560,86,85,717/- in losses, interest, and other reliefs. The matter was referred to arbitration, and the Arbitral Tribunal (sole arbitrator) partially allowed the appellant's claims. Dissatisfied with the partial allowance, the appellant filed a suit under Section 34 of the Arbitration and Conciliation Act, 1996, seeking to set aside the arbitral award. The Commercial Court dismissed the appellant's suit, confirming the award. This appeal challenges both the award and the Commercial Court's decision.
+* **Key Issues:** 
+    * Whether the Commercial Court erred in confirming the Arbitral Tribunal's award, which partially allowed the appellant's claims.
+    * Whether the appellant's claims were valid in their entirety, or whether the Tribunal correctly assessed the evidence and awarded only a portion of the claimed amount.
+    * The scope of judicial review under Sections 34 and 37 of the Arbitration and Conciliation Act, 1996, and whether the Court can re-evaluate evidence or substitute its own judgment for the Tribunal's.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * **Arbitration and Conciliation Act, 1996:** Sections 13(1A), 34, 37
+    * **Commercial Courts Act, 2015:** Section 13(1A)
+    * **Transparency in Public Procurements Act:** Not explicitly mentioned, but referred to as relevant to the nature of the contracts in dispute.
+* **Precedents Cited:**
+    * **South East Asia Marine Engineering Constructions Limited Vs. Oil India Limited** (2020) 5 SCC 164
+    * **Dyna Technologies (P) Ltd. v. Crompton Greaves Ltd.** (2019) 20 SCC 1
+    * **Project Director Vs. M. Hakeem and another** (2021) 9 SCC 1
+    * **MMTC Ltd. v. Vedanta Ltd.** (2019) 4 SCC 163
+    * **Ssangyong Engg. & Construction Co. Ltd. v. NHAI** (2019) 15 SCC 131
+    * **Maharashtra State Electricity Distribution Co. Ltd. v. Datar Switchgear Ltd.** (2018) 3 SCC 133
+    * **McDermott International Inc. v. Burn Standard Co. Ltd.** (2006) 11 SCC 181
+    * **Kinnari Mullick v. Ghanshyam Das Damani** (2018) 11 SCC 328
+    * **Cybernetics Network (P) Ltd. v. Bisquare Technologies (P) Ltd.** 2012 SCC OnLine Del 1155
+    * **Union of India v. Arctic India** 2007 SCC OnLine Bom 409
+    * **Krishna Bhagya Jala Nigam Ltd. v. Harischandra Reddy** (2007) 2 SCC 720
+    * **Union of India v. Modern Laminators Ltd.** 2008 SCC OnLine Del 956
+    * **U.P. State Handloom Corpn. Ltd. v. Asha Lata Talwar** 2009 SCC OnLine All 624
+    * **Nussli Switzerland Ltd. v. Organizing Committee, Commonwealth Games, 2010** 2014 SCC OnLine Del 4834
+    * **Puri Construction (P) Ltd. v. Larsen & Toubro Ltd.** 2015 SCC OnLine Del 9126
+    * **Bhasin Associates v. N.B.C.C.** 2005 SCC OnLine Del 689
+    * **IFFCO-Tokio General Insurance Co. Ltd. v. Indo-Rama Synthetics Ltd.** 2015 SCC OnLine Del 6669
+    * **Canara Bank v. BSNL** 2015 SCC OnLine Del 8379
+    * **Gayatri Balaswamy v. ISG Novasoft Technologies Ltd.** 2014 SCC OnLine Mad 6568
+    * **Axios Navigation Co. Ltd. v. Indian Oil Corpn. Ltd.** 2012 SCC OnLine Bom 4
+    * **Angerlehner Structurals & Civil Engg. Co. v. Municipal Corpn. of Greater Mumbai** 2012 SCC OnLine Bom 1454
+    * **W.B. Electronics Industries Development Corpn. Ltd. v. Snehasis Bhowmick** 2012 SCC OnLine Cal 10262
+    * **Central Warehousing Corpn. v. A.S.A. Transport** 2007 SCC OnLine Mad 972
+    * **DDA v. Bhardwaj Bros.** 2014 SCC OnLine Del 1581
+    * **State Trading Corpn. of India Ltd. v. Toepfer International Asia PTE Ltd.** 2014 SCC OnLine Del 3426
+    * **Bharti Cellular Ltd. v. Deptt. of Telecommunications** 2012 SCC OnLine Del 4846
+    * **R.S. Jiwani v. Ircon International Ltd.** 2009 SCC OnLine Bom 2021
+    * **Delhi Airport Metro Express Private Limited Vs. Delhi Metro Rail Corporation Limited** (2022) 1 SCC 131
+    * **Wellspun Speciality Solutions Limited Vs. Oil and Natural Gas Corporation Limited** (2022) 2 SCC 382
+    * **ONGC v. Saw Pipes Ltd.** (2003) 5 SCC 705
+    * **ONGC v. Western Geco International Ltd.** (2014) 9 SCC 263
+    * **U.H.L. Power Company Limited Vs. State of Himachal Pradesh** (2022) SCC ONLINE SC 19
+    * **K. Sugumar v. Hindustan Petroleum Corporation Ltd.**
+    * **Parsa Kente Collieries Limited v. Rajasthan Rajya Vidyut Utpadan Nigam Limited**
+    * **NHAI v. ITD Cementation (India) Ltd.** (2015) 14 SCC 21
+    * **SAIL v. Gupta Brother Steel Tubes Ltd.** (2009) 10 SCC 63
+    * **South East Asia Marine Engg. & Constructions Ltd. [SEAMAC Limited] v. Oil India Ltd.**
+    * **Mc. Dermott International INC Vs. Burn Standard Co. Ltd., & others** (2006) 11 SCC 181
+    * **Smt. Padma Mahadev and others Vs. M/s. Sierra Constructions** COMAP No.2/2021 dated 22.03.2021
+* **Legal Doctrines:**
+    * **Scope of Judicial Review:** The court emphasizes the narrow and restricted scope of judicial interference in arbitral awards, particularly under Section 34 of the Arbitration and Conciliation Act, 1996.
+    * **Public Policy:** The court reiterates the established definition of "public policy" as it relates to arbitral awards, encompassing fundamental policy of Indian law, interests of India, justice, morality, and patent illegality.
+    * **Patent Illegality:** The court clarifies the meaning of "patent illegality," emphasizing that it must be an illegality that goes to the root of the matter and not just a trivial error of law.
+    * **Party Autonomy:** The court highlights the importance of respecting party autonomy in choosing arbitration as a dispute resolution mechanism.
+    * **Principles of Natural Justice:** The court references the importance of upholding principles of natural justice in the context of the contract termination. 
+    * **Limited Scope of Court's Powers:** The court repeatedly clarifies that the court dealing with an application under Section 34 cannot re-evaluate evidence, substitute its own judgment for the Arbitral Tribunal's, or enhance or increase the amount awarded by the Tribunal.
+
+## 4. Arguments Presented
+
+* **Appellant's Argument:**
+    * The appellant contends that the Arbitral Tribunal erred in partially allowing their claims, and that they were entitled to the full amount claimed under various heads.
+    * The appellant argues that the Tribunal's reasoning and findings are patently illegal and erroneous, and that the award contains several patent illegalities.
+    * The appellant asserts that the award violates fundamental policy of Indian law, principles of morality and justice, and is against public policy.
+* **Respondent's Argument:**
+    * The respondent argues that there is no merit in the appeal, and that the Court should not interfere with the Tribunal's award given the limited scope of review under Sections 34 and 37 of the Arbitration and Conciliation Act, 1996.
+    * The respondent submits that the Arbitral Tribunal carefully considered the evidence and arrived at a plausible interpretation of the contracts, which should not be disturbed.
+    * The respondent contends that the appellant's arguments are essentially a request for the court to re-evaluate evidence, which is beyond the court's jurisdiction.
+
+## 5. Court's Analysis and Reasoning
+
+* **Key Findings:**
+    * The court reiterates the established principle that a court dealing with an application under Section 34 does not sit in appeal over the arbitral award and cannot re-appreciate evidence. 
+    * The court highlights numerous precedents clarifying the limited scope of judicial interference with arbitral awards.
+    * The court acknowledges the Arbitral Tribunal's careful consideration of the evidence and its finding that the respondent's termination of the agreements was illegal and against principles of natural justice.
+* **Interpretation of Law:** 
+    * The court carefully analyzes the relevant provisions of the Arbitration and Conciliation Act, 1996, and relevant precedents, emphasizing the narrow grounds for challenging arbitral awards under Section 34.
+    * The court reaffirms the established definition of "public policy" and the meaning of "patent illegality" as grounds for setting aside an award. 
+* **Application of Law:**
+    * The court finds that the appellant's arguments essentially seek a re-appreciation of evidence, which is beyond the scope of the court's powers under Section 34.
+    * The court finds no evidence that the arbitral award is against public policy, contains patent illegalities, or was arrived at through a process that violated principles of natural justice.
+    * The court concludes that the Arbitral Tribunal's award is based on evidence and does not warrant interference by the Court under Section 34.
+
+## 6. Judgment
+
+* **Final Decision:** The appeal is dismissed. 
+* **Relief Granted:** No relief is granted to the appellant.
+* **Orders:** The court upholds the Arbitral Tribunal's award and the Commercial Court's judgment confirming the award.
+
+## 7. Implications
+
+* **Impact on Law:** The judgment reaffirms the narrow scope of judicial review in relation to arbitral awards under the Arbitration and Conciliation Act, 1996. This decision provides further guidance on the limits of the court's powers to interfere with the findings of the Arbitral Tribunal.
+* **Future Relevance:** This case provides a useful precedent for future cases challenging arbitral awards, particularly in situations where the appellant seeks a reassessment of evidence or the full allowance of claims that were partially granted by the Tribunal.
+* **Broader Context:** This case highlights the importance of maintaining the integrity of arbitration as a chosen method of dispute resolution, and the need to respect the decisions of arbitral tribunals unless they demonstrably violate the law or public policy.
+
+## 8. Summary Points
+
+* The appellant challenged an arbitral award that partially allowed their claims for losses arising from illegal contract termination.
+* The Karnataka High Court dismissed the appeal, upholding the award and the Commercial Court's decision confirming it.
+* The court emphasized the limited scope of judicial review under Sections 34 and 37 of the Arbitration and Conciliation Act, 1996, stating that courts cannot re-evaluate evidence or substitute their judgment for the Tribunal's.
+* The court found no grounds to set aside the award based on public policy, patent illegality, or violations of natural justice.
+* The judgment reaffirms the importance of respecting party autonomy and the integrity of arbitration as a dispute resolution mechanism.
+
+## 9. References
+
+* **Arbitration and Conciliation Act, 1996**
+* **Commercial Courts Act, 2015**
+* **South East Asia Marine Engineering Constructions Limited Vs. Oil India Limited** (2020) 5 SCC 164
+* **Dyna Technologies (P) Ltd. v. Crompton Greaves Ltd.** (2019) 20 SCC 1
+* **Project Director Vs. M. Hakeem and another** (2021) 9 SCC 1
+* **McDermott International Inc. v. Burn Standard Co. Ltd.** (2006) 11 SCC 181
+* **Smt. Padma Mahadev and others Vs. M/s. Sierra Constructions** COMAP No.2/2021 dated 22.03.2021
+
+**Further Reading:**
+
+* **Renusagar Power Co. Ltd. v. General Electric Co.** (1994 Supp (1) SCC 644) for further understanding of the concept of public policy in the context of arbitral awards.
+* **ONGC v. Saw Pipes Ltd.** (2003) 5 SCC 705) for further explanation of the grounds for challenging awards based on patent illegality.

@@ -1,0 +1,176 @@
+## 1. Case Title
+
+* **Case Name:** Hindustan Unilever Limited vs S.Shanthi
+* **Court:** Madras High Court
+* **Date of Judgment:** 23rd September 2021
+* **Citation:** OSA No.230 of 2019 etc.
+
+## 2. Background and Context
+
+* **Brief Overview:** The case involved 13 appeals arising from various disputes before the Madras High Court's Commercial Division. These disputes covered trademark infringement, passing-off, damages for investment losses, and application for condoning delays in filing written statements. The appeals challenged a range of orders, including those dismissing applications for rejection of plaints, granting or modifying injunctions, and revoking leave to institute suits under Clause 12 of the Letters Patent. The key issue was the interpretation of the appellability provisions under the Commercial Courts Act, 2015 (hereinafter referred to as "the said Act").
+* **Key Issues:**
+    * Whether and to what extent the scope of intra-court appeals in a Chartered High Court (Madras High Court) has been curtailed by the Commercial Courts Act, 2015.
+    * Whether the appellability provisions of the said Act govern suits instituted prior to the establishment of the Commercial Division in the Madras High Court.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * The Commercial Courts Act, 2015, particularly Section 13 dealing with appeals from decrees of Commercial Courts and Commercial Divisions.
+    * The Code of Civil Procedure, 1908 (hereinafter referred to as "the Code"), including its definition of "decree", "judgment", and "order", and Order XLIII Rule 1 pertaining to appellable orders.
+    * The Arbitration and Conciliation Act, 1996, specifically Section 37 on appeals from orders of Commercial Courts and Commercial Divisions in arbitration matters.
+    * The Companies Act, 2013, particularly Section 35 on civil liability for mis-statements in a prospectus.
+    * The Insolvency and Bankruptcy Code, 2016, specifically Section 14 on moratoriums against suits and proceedings against a corporate debtor.
+    * The Trade Marks Act, 1999, specifically Section 134 on the jurisdiction to institute trademark infringement actions.
+    * The Letters Patent, 1865, particularly Clause 12 on leave to institute suits in the Madras High Court when a part of the cause of action arises within its jurisdiction.
+* **Precedents Cited:** Numerous judgments were cited, including:
+    * **Shah Babulal Khimji (1981) 4 SCC 8:** A key treatise on appellability in the Supreme Court.
+    * **P.S.Sathappan (2004) 11 SCC 672:** A Supreme Court judgment on the interpretation of "judgment" in the Letters Patent.
+    * **Kandla Export Corporation (2018) 14 SCC 715:** A Supreme Court judgment on the scope of appeals under the Commercial Courts Act.
+    * **BGS SGS Soma JV v. NHPC Limited (2020) 4 SCC 234:** A Supreme Court judgment on the priority of the Arbitration and Conciliation Act over the Commercial Courts Act.
+    * **Mohindra Supply Co. (AIR 1962 SC 256):** A Supreme Court judgment on the interpretation of appeals under the Letters Patent.
+    * **Fuerst Day Lawson Ltd (2011) 8 SCC 333:** A Supreme Court judgment on the non-appellability of certain orders in arbitration matters.
+    * **Colonial Sugar Refining Co. Ltd (1905 AC 369):** A judgment establishing the principle that statutory rights existing prior to enactment are preserved unless expressly excluded.
+    * **Hoosein Kasam Dada (India) Ltd (AIR 1953 SC 221):** An Indian judgment following the principle established in Colonial Sugar Refining Co. Ltd.
+    * **Garikapati Veeraya (AIR 1957 SC 540):** Another Indian judgment following the principle established in Colonial Sugar Refining Co. Ltd.
+    * **Indian Performing Rights Society Limited v. Sanjay Dalia (2015) 10 SCC 161:** A Supreme Court judgment on the interpretation of Section 134 of the Trade Marks Act.
+    * **Church of Christ Charitable Trust and Educational Charitable Society v. Ponniamman Educational Trust (2012) 8 SCC 706:** A Supreme Court judgment on the concept of cause of action.
+    * **R.P. O'Connor v. P.G.Sampath Kumar (AIR 1953 Mad 897):** A Madras High Court judgment on the authority of Chartered High Courts to return plaints.
+    * **Sambhu Prasad Agarwal v. ICDS Ltd (1994) 2 CHN 472:** A Calcutta High Court judgment on the practice of returning plaints.
+    * **Arun Dev Upadhyaya v. Integrated Sales Service Limited (2016) 9 SCC 524:** A Supreme Court judgment on the scope of appeals under the Commercial Courts Act.
+    * **Laxmi Narayan Udyog Limited v. Omendra Kumar Chowdhury (2017 Cri LJ 4775):** A Calcutta High Court judgment on the scope of appeals under the Letters Patent.
+    * **Sigmarq Technologies Pvt. Ltd v. Manugrah India Limited (2017 SCC OnLine Bom 9191):** A Bombay High Court judgment on the scope of appeals under the Commercial Courts Act.
+    * **Hubtown Limited v. IDBI Trusteeship Service Limited (2016 SCC OnLine Bom 9019):** A Bombay High Court judgment on the scope of appeals under the Commercial Courts Act.
+    * **Magic Frames v. Radiance Media P. Ltd (2019) 5 MLJ 479:** A Madras High Court judgment on the scope of appeals under the Commercial Courts Act.
+    * **Kapoor Imaging Private Limited v. Kodak (India) Private Limited (unreported judgment, February 5, 2020):** A Madras High Court judgment on the scope of appeals under the Commercial Courts Act.
+    * **Reliance General Insurance Company Ltd v. Colonial Life Insurance Company (Trinidad) Limited (2019 SCC OnLine Bom 848):** A Bombay High Court judgment on the extension of time for filing written statements in suits filed before the Commercial Courts Act came into effect.
+    * **Delhi Chemical and Pharmaceutical Works Pvt. Ltd v. Himgiri Realtors Pvt. Ltd (2021 SCC OnLine Del 3603):** A Delhi High Court judgment on the scope of appeals under the Commercial Courts Act.
+    * **Kailash v. Nanhku (2005) 4 SCC 480:** A Supreme Court judgment on the interpretation of negative provisions.
+    * **Sri Narasu's Coffee Company Pvt. Ltd v. Narasu's Saarathy Enterprises Pvt. Ltd (2020 (3) CTC 461):** A Madras High Court judgment on the scope of appeals under the Commercial Courts Act.
+    * **Keshardeo Chamria v. Radha Kissen Chamria (AIR 1953 SC 23):** A Supreme Court judgment on the appellability of orders under Section 151 of the Code.
+    * **Sambandh Finserve Pvt. Ltd v. Vivriti Capital Private Limited (AIR 2021 Mad 209):** A Madras High Court judgment on the scope of appeals under the Commercial Courts Act.
+    * **V.Ramamirtham v. Rama Film Service (AIR 1951 Mad 93):** A Madras High Court judgment on the jurisdiction of the Madras High Court to receive suits under the Letters Patent.
+    * **The Uttar Pradesh Cricket Association v. The Board of Control of Cricket in India (2011-5-L.W. 838):** A Madras High Court judgment on the interpretation of "defendant" in the Letters Patent.
+    * **Duro Flex Pvt. Limited v. Duroflex Sittings System (2014-5-L.W. 673):** A Madras High Court judgment on the exercise of forum non conveniens.
+    * **Ahmed Abdulla Ahmed Al Ghurair v. Star Health and Allied Insurance Company (2019) 13 SCC 259:** A Supreme Court judgment on the principle of forum non conveniens.
+    * **Shiv Shakti Coop. Housing Society v. Swaraj Developers and others (2003) 6 SCC 659:** A Supreme Court judgment on the statutory nature of appeals.
+    * **Parameswari Veluchamy v. T.R.Jayaraman (2002 (1) CTC 134):** A Madras High Court judgment on the forum non conveniens.
+    * **Manju Bhatia v. New Delhi Municipal Council (1997) 6 SCC 370:** A Supreme Court judgment on the distinction between claims in contract and tort.
+    * **Chainrup Sampatram v. Punjab & Sind Bank (2009 1 Cal LJ 199):** A Calcutta High Court judgment on the application of Clause 12 of the Letters Patent.
+    * **V.Selladurai v. N.Nethaji (2006-4-L.W.343):** A Madras High Court judgment on the applicability of Section 19 of the Code to the Madras High Court.
+    * **Kailash Nath Agarwal v. Pradeshiya Industrial and Investment Corporation of U.P. Ltd (2003) 4 SCC 305:** A Supreme Court judgment on the interpretation of "suit or proceeding".
+    * **South Indian Bank Ltd v. M.M.T.C. Ltd (2007) 5 MLJ 303):** A Madras High Court judgment on the interpretation of Clause 12 of the Letters Patent.
+    * **Sri Raja Sobhanadri Appa Rao Bahadur v. Sri Raja Parthasarathi Appa Rao Savai Aswa Rao Bahadur (1932 LW (7) 279):** A Madras High Court judgment on the distinction between contract and tort.
+    * **Sahara India Real Estate Corporation Ltd v. Securities and Exchange Board of India (2013) 1 SCC 1):** A Supreme Court judgment on the exclusive jurisdiction of SEBI.
+    * **Kimsuk Krishna Sinha v. Securities & Exchange Board of India (2010) 169 DLT 197):** A Delhi High Court judgment on the exclusive jurisdiction of SEBI.
+    * **Secretary, Department of Atomic Energy, Government of India v The Controller General of Patents, Designs and Trademarks (113 CWN 379):** A Calcutta High Court judgment on the principle of forum non conveniens.
+    * **P.Mohanraj v. Shah Brothers Ispat Pvt. Ltd (2021 SCC OnLine SC 152):** A Supreme Court judgment on the application of the moratorium provision in the Insolvency and Bankruptcy Code.
+    * **Gokaldas Melaram v. Baldevdas T. Chabria (AIR 1961 Mys 188):** A Mysore High Court judgment on the interpretation of Section 19 of the Code.
+* **Legal Doctrines:**
+    * **Statutory Interpretation:** The court extensively analyzed the language and structure of the Commercial Courts Act, 2015, and its relationship with other relevant statutes and provisions.
+    * **Forum Non Conveniens:** The court considered the principle of forum non conveniens to determine whether the Madras High Court was the appropriate forum for the suits.
+    * **Stare Decisis:** The court considered past judgments (precedents) in interpreting the meaning of "judgment" in the Letters Patent.
+    * **Overriding Effect:** The court considered Section 21 of the Commercial Courts Act, which gives it overriding effect over any inconsistent provision in other laws.
+    * **Joint and Several Liability:** The court interpreted Section 35 of the Companies Act, 2013, to establish joint and several liability of the defendants.
+    * **Moratorium:** The court analyzed the impact of the moratorium provision in Section 14 of the Insolvency and Bankruptcy Code, 2016, on the ability to sue a corporate debtor.
+
+## 4. Arguments Presented
+
+* **Plaintiff’s Argument:**
+    * The plaintiffs in the various appeals argued that the appellability provisions of the Commercial Courts Act, 2015, did not restrict their rights to appeal under the Letters Patent or the Code. They contended that the Act only clarified certain appellable orders and did not exclude any other appellable orders traditionally entertained by the Madras High Court. 
+    * They argued that the phrase "judgment or order" in Section 13 of the Act encompassed both decrees and orders, and the proviso to the section only specified certain additional appellable orders.
+    * They argued that the Act did not apply retrospectively to suits filed before the Commercial Division was established.
+    * They contested the orders returning their plaints, arguing that the Madras High Court had jurisdiction based on the location of their registered office, the sale of goods within the jurisdiction, or the principle of forum non conveniens.
+    * They argued that the orders modifying or refusing to vacate injunctions were not justified.
+    * They argued that the orders revoking leave to institute suits under Clause 12 of the Letters Patent were flawed because:
+        * The Madras High Court had jurisdiction as a part of the cause of action arose within its jurisdiction.
+        * The suits were well-founded on the statutory tort recognized in Section 35 of the Companies Act, 2013.
+        * The defendants were jointly and severally liable for their actions.
+        * The insolvency proceedings against DHFL did not preclude the plaintiff from suing the other defendants under Section 35.
+        * The Madras High Court was the appropriate forum as the plaintiff's registered office was located there, and witnesses and documents might be readily available.
+* **Defendant’s Argument:**
+    * The defendants in the various appeals argued that the Commercial Courts Act, 2015, curtailed the scope of appellability in the Madras High Court, and only those orders specified in Section 13 or Order XLIII of the Code were appellable.
+    * They argued that the phrase "judgment or order" in Section 13 excluded orders traditionally considered appellable under the Letters Patent, and the proviso to the section was restrictive.
+    * They argued that the Act applied retrospectively to all suits filed after the Act came into effect, even if the Commercial Division was established later.
+    * They argued that the Madras High Court lacked jurisdiction based on the principle of forum non conveniens.
+    * They argued that the orders returning plaints were justified as the entirety of the cause of action arose in Mumbai.
+    * They argued that the orders modifying or refusing to vacate injunctions were justified as the plaintiffs had failed to establish a strong case for injunction.
+    * They argued that the orders revoking leave to institute suits under Clause 12 of the Letters Patent were justified because:
+        * The Madras High Court lacked jurisdiction because the entirety of the cause of action arose in Mumbai.
+        * The plaintiff had failed to demonstrate a proper cause of action under Section 35 of the Companies Act, 2013.
+        * The insolvency proceedings against DHFL rendered it impossible to sue the company and the other defendants jointly and severally.
+        * The plaintiff's choice of forum was not justified considering the overwhelming inconvenience of having witnesses and documents in Mumbai.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The court found that the Commercial Courts Act, 2015, significantly curtailed the scope of appellability in the Madras High Court.
+    * The court held that the phrase "judgment or order" in Section 13 of the Act did not encompass all orders traditionally considered appellable under the Letters Patent and only included those orders specified in the section or Order XLIII of the Code.
+    * The court interpreted the proviso to Section 13 as restrictive and found that no appeal would lie against any order other than those specified in Order XLIII of the Code and those provided for in Section 37 of the Arbitration and Conciliation Act, 1996.
+    * The court held that the Commercial Courts Act applied retrospectively to all suits filed after the Act came into effect, regardless of when the Commercial Division was established.
+    * The court held that the principle of forum non conveniens could be applied by the Madras High Court to return plaints even though Order VII Rule 10 of the Code did not apply to Chartered High Courts.
+    * The court concluded that the Madras High Court lacked jurisdiction in the suits for damages arising from the DHFL debenture issue as the entirety of the cause of action arose in Mumbai.
+* **Interpretation of Law:**
+    * The court interpreted Section 13 of the Commercial Courts Act, 2015, as restricting the scope of appellability to only those orders specifically enumerated in Order XLIII of the Code and Section 37 of the Arbitration and Conciliation Act, 1996.
+    * The court interpreted the phrase "judgment or order" in Section 13 to exclude orders traditionally considered appellable under the Letters Patent.
+    * The court interpreted the proviso to Section 13 as restrictive and not merely clarificatory.
+    * The court interpreted the "otherwise than in accordance with the provisions of this Act" clause in Section 13(2) as eliminating the applicability of the Letters Patent in respect of appellability.
+    * The court interpreted Section 14 of the Insolvency and Bankruptcy Code, 2016, as preventing the plaintiff from suing DHFL, the corporate debtor, in the present suit.
+    * The court interpreted Section 35 of the Companies Act, 2013, as imposing joint and several liability on the defendants, even though DHFL was not a party to the suit.
+    * The court considered several precedents on the principles of forum non conveniens, appellability under the Letters Patent, and the jurisdiction of Chartered High Courts.
+* **Application of Law:**
+    * The court applied the interpretation of Section 13 to dismiss all appeals challenging orders that were not specifically provided for in Order XLIII of the Code or Section 37 of the Arbitration and Conciliation Act, 1996.
+    * The court applied the principle of forum non conveniens to return the plaints in the suits for damages arising from the DHFL debenture issue, finding that Mumbai was the more appropriate forum.
+    * The court applied Section 14 of the Insolvency and Bankruptcy Code, 2016, to hold that DHFL could not be sued in the present suit because of the moratorium.
+    * The court applied Section 35 of the Companies Act, 2013, to find that the defendants were jointly and severally liable even though DHFL was not a party.
+
+## 6. Judgment
+
+* **Final Decision:** 
+    *  The appeals challenging orders dismissing applications for rejection of plaints, granting or modifying injunctions, and revoking leave to institute suits under Clause 12 of the Letters Patent were dismissed as not maintainable.
+    * The appeals challenging orders returning the plaints were dismissed except for the appeals arising from the suit for damages arising from the DHFL debenture issue.
+    * The appeals challenging orders modifying or refusing to vacate injunctions were dismissed, but the injunction was modified to last for six weeks or until an earlier order by the receiving court.
+    * The appeals challenging orders revoking leave to institute suits under Clause 12 of the Letters Patent in the DHFL debenture issue case were allowed, and the orders were set aside.
+* **Relief Granted:** The court allowed the appeals challenging the orders revoking leave to institute suits in the DHFL debenture issue case, allowing the plaintiff to proceed with the suit in the Madras High Court.
+* **Orders:**
+    * The court dismissed the appeals deemed not maintainable.
+    * The court modified the injunction in the trademark infringement case to last for six weeks.
+    * The court set aside the orders revoking leave to institute suits in the DHFL debenture issue case.
+    * The court directed the parties to bear their respective costs.
+
+## 7. Implications
+
+* **Impact on Law:** The judgment clarifies the scope of appellability under the Commercial Courts Act, 2015, and restricts the right of appeal in the Madras High Court to those orders specifically enumerated in the Act or Order XLIII of the Code. This decision may influence similar interpretations of the Act in other High Courts.
+* **Future Relevance:** The judgment will likely be a key precedent for determining the appellability of orders in the Madras High Court's Commercial Division and for interpreting the scope of the Commercial Courts Act, 2015.
+* **Broader Context:** The judgment emphasizes the purpose of the Commercial Courts Act, 2015, to expedite the resolution of commercial disputes and reduce procedural delays. It highlights the importance of striking a balance between providing access to justice and ensuring efficient case management in the commercial courts.
+
+## 8. Summary Points
+
+* The Madras High Court significantly curtailed the scope of appellability under the Commercial Courts Act, 2015.
+* The Act applies retrospectively to all suits filed after the Act came into effect.
+* The court interpreted the phrase "judgment or order" in Section 13 of the Act restrictively, excluding traditional appellable orders under the Letters Patent.
+* The court applied the principle of forum non conveniens to return the plaints in the DHFL debenture issue case, finding that Mumbai was the more appropriate forum.
+* The court emphasized the joint and several liability of the defendants under Section 35 of the Companies Act, 2013, even though DHFL was not a party to the suit.
+* The judgment reinforces the objective of the Commercial Courts Act, 2015, to expedite commercial dispute resolution.
+
+## 9. References
+
+* **Citations:**
+    * The Commercial Courts Act, 2015
+    * The Code of Civil Procedure, 1908
+    * The Arbitration and Conciliation Act, 1996
+    * The Companies Act, 2013
+    * The Insolvency and Bankruptcy Code, 2016
+    * The Trade Marks Act, 1999
+    * The Letters Patent, 1865
+    * Numerous judgments as listed in section 3. 
+* **Further Reading:**
+    * The Commercial Courts Act, 2015
+    * The Code of Civil Procedure, 1908
+    * The Arbitration and Conciliation Act, 1996
+    * The Companies Act, 2013
+    * The Insolvency and Bankruptcy Code, 2016
+    * The Trade Marks Act, 1999
+    * The Letters Patent, 1865
+    * Cases on appellability, forum non conveniens, and the jurisdiction of Chartered High Courts.
+
+This summary provides a detailed analysis of the case, focusing on the facts, legal principles, arguments, analysis, and the final judgment. It also outlines the potential impact and future relevance of the case. 

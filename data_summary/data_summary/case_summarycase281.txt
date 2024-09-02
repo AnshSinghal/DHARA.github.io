@@ -1,0 +1,117 @@
+## Case Title
+
+* **Case Name:** Puma SE vs. D.K. Arora
+* **Court:** Delhi High Court
+* **Date of Judgment:** 29 November, 2022
+* **Citation:** 2022/DHC/005203
+
+## Background and Context
+
+**Brief Overview:** Puma SE, a German company, filed a lawsuit against D.K. Arora, alleging the latter was manufacturing and selling counterfeit products under Puma's well-known label. The plaintiff sought a permanent injunction against the defendant, preventing them from infringing the "PUMA" trademark. 
+
+**Key Issues:**
+
+* **Territorial Jurisdiction:** Whether the Delhi High Court had jurisdiction to hear the case, given that neither Puma nor D.K. Arora had their primary place of business in Delhi.
+* **Order VII Rule 10 CPC:**  Whether the defendant's application to return the plaint for lack of jurisdiction was rightly accepted by the Commercial Court, considering the principles of Order VII Rule 10 CPC.
+* **Review of Order:** Whether the Commercial Court was justified in reviewing its own order, which had previously decided that jurisdictional issues would be addressed during the trial.
+
+## Legal Principles Involved
+
+**Relevant Statutes and Provisions:**
+
+* **Trade Marks Act, 1999:** Specifically Section 134, which deals with territorial jurisdiction in trademark infringement cases.
+* **Code of Civil Procedure, 1908:** Sections 114, 151, Order VII Rules 10 & 11.
+* **Commercial Courts Act, 2015:** Section 13, enabling appeals from Commercial Courts.
+
+**Precedents Cited:**
+
+* **Ultra Home Construction Pvt. Ltd vs. Purushottam Kumar Chaubey & Ors. (2016 SCC Online Del 376):** On determining territorial jurisdiction under the Trade Marks Act.
+* **M/s. RSPL Limited v. Mukesh Sharma & Anr. (2016 SCC OnLine Del 4285):** On the application of Order VII Rule 10 CPC, where the court must accept the averments in the plaint as true.
+* **Exphar Sa v. Eupharma Laboratories Ltd. (2004) 3 SCC 688:** On the principle of accepting the plaint's factual allegations as true when dealing with jurisdiction objections.
+* **Allied Blenders & Distillers Pvt. Ltd. v. Prag Distillery Pvt. Ltd.&Anr. (2017 SCC OnLine Del 7225):** On the principles of a "quia timet" suit, where apprehension of future harm is the basis of the claim.
+* **World Wrestling Entertainment, Inc. v. Reshma Collection (2014 SCC OnLine Del 2031):** On determining if online presence constitutes carrying on business in a particular jurisdiction.
+
+**Legal Doctrines:**
+
+* **Qui Timet Suit:** A legal action based on the apprehension of future harm.
+* **Demurrer:** A legal pleading challenging the legal sufficiency of the other party's claim or defense.
+
+## Arguments Presented
+
+**Plaintiff's Argument:**
+
+* The Commercial Court's order dated 28.10.2021, agreeing to address jurisdictional issues during the trial, was final and could not be reviewed.
+* The defendant's fresh applications under Order VII Rule 10 and Order VII Rule 11 CPC were not maintainable, as they raised the same jurisdictional arguments previously decided upon.
+*  The plaint sufficiently established a cause of action within Delhi, as Puma operates stores in the city and sells products through online marketplaces accessible in Delhi.
+* The defendant's online presence, through websites like Justdial and Tradeindia, demonstrated their activities targeting consumers in Delhi.
+* Puma's apprehension of D.K. Arora starting manufacturing in Delhi constituted a "quia timet" cause of action.
+
+**Defendant's Argument:**
+
+* The plaint lacked sufficient proof to establish a cause of action in Delhi, as Puma's stores were not considered primary places of business and online sales did not constitute business activity within Delhi.
+*  The defendant's online presence was not interactive and did not allow for product purchases in Delhi, negating the claim of business activity in the city.
+* The defendant did not sell products in Delhi, and the plaintiff provided no evidence for their claim of imminent manufacturing in the city.
+* The order dated 28.10.2021 was a consent order and was appropriately reviewed due to a change in legal representation and the need to present a more thorough argument.
+
+## Court's Analysis and Reasoning
+
+**Key Findings:**
+
+*  The court emphasized that the Order VII Rule 10 CPC application must be decided on a "demurrer," meaning the court must accept the facts in the plaint as true.
+* The court found that the Commercial Court erred in reviewing its prior order, as the change in legal representation did not justify reopening an issue decided with the parties' consent.
+* The court found that the Commercial Court had impermissibly gone beyond the scope of Order VII Rule 10 CPC by conducting a detailed examination of the plaint's allegations, instead of simply accepting their truth for the purpose of jurisdiction.
+* The court noted that the plaint contained multiple arguments for territorial jurisdiction, including Puma's presence in Delhi, online sales accessible in Delhi, and the defendant's online presence targeting Delhi consumers.
+
+**Interpretation of Law:**
+
+* The court interpreted Order VII Rule 10 CPC to require the court to assume the truth of the plaintiff's allegations in the plaint, limiting the inquiry to whether a cause of action is disclosed within the court's jurisdiction.
+* The court emphasized that a "quia timet" suit could be validly based solely on the plaintiff's apprehension of future harm, even without concrete evidence at the initial stage.
+
+**Application of Law:**
+
+* The court applied the "demurrer" principle to the case, finding that the plaint sufficiently alleged a cause of action within the jurisdiction of the Delhi High Court, based on the plaintiff's presence in Delhi, online sales accessible in Delhi, and the defendant's online presence targeting Delhi consumers.
+* The court considered the "quia timet" suit doctrine, concluding that the plaintiff's apprehension of the defendant starting manufacturing in Delhi constituted a potential cause of action within the court's jurisdiction.
+
+## Judgment
+
+**Final Decision:** The Delhi High Court set aside the Commercial Court's order returning the plaint. The court held that the Delhi High Court did have territorial jurisdiction to hear the case.
+
+**Relief Granted:** The plaintiff was allowed to proceed with the lawsuit.
+
+**Orders:** The court directed the Commercial Court to proceed with the suit, while leaving the defendant free to raise jurisdictional arguments during the trial.
+
+## Implications
+
+**Impact on Law:**
+
+* The judgment reaffirms the principle of "demurrer" in Order VII Rule 10 CPC applications, requiring courts to accept the plaintiff's allegations as true for jurisdictional purposes.
+* The judgment clarifies that a "quia timet" suit can be brought based solely on apprehension of future harm, without requiring concrete evidence at the initial stage.
+
+**Future Relevance:** This case is likely to be cited in future cases involving jurisdictional challenges in trademark infringement lawsuits, particularly those based on online activity and potential future harm.
+
+**Broader Context:** The judgment emphasizes the court's role in protecting intellectual property rights and preventing trademark infringement.
+
+## Summary Points
+
+* The Delhi High Court reversed the Commercial Court's decision to return the plaint, finding that it had jurisdiction to hear the case.
+* The court applied the "demurrer" principle, accepting the plaintiff's allegations in the plaint as true for jurisdictional purposes.
+* The court emphasized that a "quia timet" suit can be based solely on apprehension of future harm.
+* The judgment reinforces the importance of protecting intellectual property rights and preventing trademark infringement.
+
+## References
+
+**Citations:**
+
+* **Trade Marks Act, 1999:** Section 134
+* **Code of Civil Procedure, 1908:** Sections 114, 151, Order VII Rules 10 & 11
+* **Commercial Courts Act, 2015:** Section 13
+* **Ultra Home Construction Pvt. Ltd vs. Purushottam Kumar Chaubey & Ors. (2016 SCC Online Del 376)**
+* **M/s. RSPL Limited v. Mukesh Sharma & Anr. (2016 SCC OnLine Del 4285)**
+* **Exphar Sa v. Eupharma Laboratories Ltd. (2004) 3 SCC 688**
+* **Allied Blenders & Distillers Pvt. Ltd. v. Prag Distillery Pvt. Ltd.&Anr. (2017 SCC OnLine Del 7225)**
+* **World Wrestling Entertainment, Inc. v. Reshma Collection (2014 SCC OnLine Del 2031)**
+
+**Further Reading:**
+
+* Articles on "demurrer" and Order VII Rule 10 CPC.
+* Case law on "quia timet" suits and territorial jurisdiction in trademark infringement cases. 

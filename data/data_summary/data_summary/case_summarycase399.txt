@@ -1,0 +1,87 @@
+## 1. Case Title
+
+* **Case Name:** Rahee Infratech Limited vs. Union of India And Anr.
+* **Court:** Calcutta High Court
+* **Date of Judgment:** 1st May 2024
+* **Citation:** Not available in the provided text.
+
+## 2. Background and Context
+
+* **Brief Overview:** The Plaintiff, Rahee Infratech Limited, filed a suit in 2007 against the Defendant No. 1 (Union of India) and Defendant No. 2 (unidentified) regarding a bank guarantee issued by Defendant No. 2. The suit was treated as undefended against Defendant No. 2, but Defendant No. 1 failed to file a written statement for 16 years. The suit was transferred to the Commercial Division in 2023, and the Plaintiff sought to treat the suit as undefended against Defendant No. 1 as well.
+* **Key Issues:**
+    * Whether the time frame for filing a written statement under the Code of Civil Procedure, 1908 applies to the Original Side of the Calcutta High Court, even after the Commercial Courts Act, 2015 came into effect.
+    * Whether the pendency of an arbitration proceeding in Jabalpur regarding a different issue related to the same contract should be a ground for dismissing the suit.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * Code of Civil Procedure, 1908
+    * Commercial Courts Act, 2015, particularly Sections 15 and 16
+    * Order XV-A of the Code of Civil Procedure, 1908
+    * Order V, sub-rule 1 of Rule 1 of the Code of Civil Procedure, 1908
+* **Precedents Cited:**
+    * Iridium India Telecom Ltd. vs. Motorola Inc. [(2005) 2 SCC 145]
+    * Firdous Omer (Dead) by L.Rs and Others vs Bankim Chandra Daw (Dead) by L.Rs & Ors. [(2006) 6 SCC 569]
+    * Dilip Choudhury vs Pratishruti Projects Limited and Others [2019 SCC OnLine Cal 2346]
+    * Reliance General Insurance Company Ltd. Vs Colonial Life Insurance Company (Trinidad) Limited. (2019 SCC OnLine Bom 848)
+* **Legal Doctrines:**
+    *  Interpretation of statutes and amendments
+    *  Application of procedural rules in commercial suits
+    *  Principles of justice and fairness in legal proceedings
+
+## 4. Arguments Presented
+
+* **Plaintiff’s Argument:**
+    * Defendant No. 1 failed to file a written statement despite ample time, including after the transfer to the Commercial Division. 
+    * The 120-day time frame for filing written statements under the Code of Civil Procedure is applicable to the Commercial Division, even for cases transferred from the Original Side.
+    * The arbitration proceeding in Jabalpur does not affect the present suit, which deals with a bank guarantee issued by a different party.
+* **Defendant’s Argument:**
+    * The arbitration proceeding in Jabalpur covers the same contract and should be considered for dismissing the suit.
+    * The Plaintiff company does not exist according to the records of the Registrar of Companies, making the suit not maintainable.
+    * The 120-day time frame under the Code of Civil Procedure is not applicable to the Original Side of the Calcutta High Court.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    *  The Commercial Courts Act, 2015, with its emphasis on speedy disposal of commercial disputes, introduced a new procedural regime for commercial suits.
+    *  Section 16(2) of the Act mandates the Commercial Division to follow the amended provisions of the Code of Civil Procedure, 1908.
+    *  Section 15(4) of the Act allows the Commercial Division to prescribe new timelines for suits transferred from the Original Side, overriding the 120-day time frame.
+    *  The arbitration proceeding in Jabalpur deals with a different subject matter than the present suit and therefore cannot be used to dismiss the case.
+* **Interpretation of Law:**
+    *  The court interpreted the relevant provisions of the Commercial Courts Act, 2015, and the Code of Civil Procedure, 1908, emphasizing the intent of the Act to provide speedy justice in commercial cases.
+    *  The court distinguished the case from Iridium India Telecom Ltd. vs. Motorola Inc., noting that the Supreme Court decision predated the Commercial Courts Act, 2015.
+    *  The court cited precedents like Dilip Choudhury vs Pratishruti Projects and Reliance General Insurance Company Ltd. vs Colonial Life Insurance, which supported the application of the new procedural regime even for transferred suits.
+* **Application of Law:**
+    *  The court applied the principle that a new timeline for filing written statements could be prescribed by the Commercial Division even after a transfer, regardless of the time elapsed before the transfer.
+    *  The court considered the delay in filing the written statement by the Defendant No. 1, concluding that it was not a sufficient ground to close the doors of justice.
+
+## 6. Judgment
+
+* **Final Decision:** The court dismissed the Plaintiff's application to treat the suit as undefended against Defendant No. 1.
+* **Relief Granted:** None
+* **Orders:**  The Defendant No. 1 was ordered to file a written statement within a new timeframe, extending until 19th June 2024.
+
+## 7. Implications
+
+* **Impact on Law:** This judgment clarifies that the procedural framework introduced by the Commercial Courts Act, 2015, applies even to cases transferred to the Commercial Division from the Original Side. The court's interpretation of Section 15(4) grants flexibility for setting new timelines for filing written statements in such cases.
+* **Future Relevance:** This judgment serves as a precedent for similar cases involving transferred suits in Commercial Divisions. It reaffirms the intent of the Commercial Courts Act to prioritize speedy disposal of commercial disputes.
+* **Broader Context:** This case highlights the importance of balancing procedural fairness with the need for efficient dispute resolution, particularly in commercial matters. The court's approach emphasizes the crucial role of timely responses and legal representation in ensuring a fair hearing for all parties.
+
+## 8. Summary Points
+
+*  The Commercial Courts Act, 2015, introduced a new procedural framework for commercial suits, including a time frame for filing written statements.
+*  The Calcutta High Court's judgment clarifies that the new procedural regime applies even to cases transferred from the Original Side to the Commercial Division.
+*  The court granted the Defendant No. 1 a new timeline to file a written statement, prioritizing the right to a fair hearing while also promoting speedy disposal of the case.
+
+## 9. References
+
+*  **Code of Civil Procedure, 1908**
+*  **Commercial Courts Act, 2015**
+*  **Iridium India Telecom Ltd. vs. Motorola Inc. [(2005) 2 SCC 145]**
+*  **Firdous Omer (Dead) by L.Rs and Others vs Bankim Chandra Daw (Dead) by L.Rs & Ors. [(2006) 6 SCC 569]**
+*  **Dilip Choudhury vs Pratishruti Projects Limited and Others [2019 SCC OnLine Cal 2346]**
+*  **Reliance General Insurance Company Ltd. Vs Colonial Life Insurance Company (Trinidad) Limited. (2019 SCC OnLine Bom 848)**
+
+* **Further Reading:**
+    *  Other judgments dealing with the application of the Commercial Courts Act, 2015, in commercial suits.
+    *  Articles and commentaries on the Act and its impact on legal practice. 

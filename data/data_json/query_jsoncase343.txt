@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A company, 'XYZ Ltd.', filed a suit against 'ABC Inc.' in the Ordinary Original Civil Jurisdiction of the Calcutta High Court on 15th September, 2017. The suit involves a commercial dispute valued at Rs. 15 crores.  'ABC Inc.' argues that the suit should be transferred to the Commercial Division of the High Court under the Commercial Courts Act, 2015. The question is whether the suit is eligible for transfer to the Commercial Division considering it was filed after the establishment of the Commercial Division but before the notification of the Specified Value for West Bengal.",
+    "Legal Principles": "The Commercial Courts Act, 2015 outlines the jurisdiction of Commercial Courts and Commercial Divisions of High Courts. It specifies the conditions for transfer of suits related to commercial disputes to these specialized courts. The interpretation of 'pending suit' in the context of Section 15 of the Act is crucial in this case.",
+    "Relevant Sections": "Section 2 (1) (i), Section 3 (1A), Section 15 of the Commercial Courts Act, 2015; Order VII Rule 10 of the Code of Civil Procedure, 1908",
+    "Context": "Jurisdiction: Calcutta High Court; Case Type: Commercial Dispute, Transfer of Suit, Interpretation of Statute"
+  },
+  {
+    "Query": "Two parties, 'Alpha Corp.' and 'Beta Enterprises', are involved in a contract dispute valued at Rs. 5 lakhs. The dispute arose in June 2023 and 'Alpha Corp.' filed a suit in a District Court in West Bengal. 'Beta Enterprises' argues that the suit should be heard in a Commercial Court as it falls under the specified value notified by the State Government. The question is whether the District Court or a Commercial Court has jurisdiction over this case.",
+    "Legal Principles": "The Commercial Courts Act, 2015 grants jurisdiction to Commercial Courts over commercial disputes exceeding the specified value. The Act also specifies the procedure for transfer of suits to Commercial Courts. The court's jurisdiction is determined based on the value of the dispute and the date of notification of the specified value.",
+    "Relevant Sections": "Section 2 (1) (i), Section 3 (1A), Section 6, Section 15 of the Commercial Courts Act, 2015",
+    "Context": "Jurisdiction: West Bengal District Court, Commercial Court; Case Type: Contract Dispute, Jurisdiction of Courts"
+  },
+  {
+    "Query": "'Delta Technologies' filed a suit against 'Gamma Solutions' in the Ordinary Original Civil Jurisdiction of the Calcutta High Court on 1st April, 2022. The suit involves a commercial dispute related to the supply of software and is valued at Rs. 2 crores.  'Gamma Solutions' argued that the suit should be dismissed as it was filed after the notification of the Specified Value for West Bengal and therefore, should be filed in the Commercial Division. The question is whether the suit is maintainable in the Ordinary Original Civil Jurisdiction or should be transferred to the Commercial Division.",
+    "Legal Principles": "The Commercial Courts Act, 2015 aims to expedite the resolution of commercial disputes by providing specialized courts. The Act requires commercial disputes exceeding the specified value to be filed in Commercial Courts or Commercial Divisions. The principles of 'lis pendens' and transfer of suits are relevant to this case.",
+    "Relevant Sections": "Section 2 (1) (i), Section 3 (1A), Section 7, Section 15 of the Commercial Courts Act, 2015; Order VII Rule 10 of the Code of Civil Procedure, 1908",
+    "Context": "Jurisdiction: Calcutta High Court, Commercial Division; Case Type: Commercial Dispute, Maintainability of Suit, Transfer of Suit"
+  },
+  {
+    "Query": "A dispute arises between 'Epsilon Pvt. Ltd.' and 'Zeta Inc.' over a trade agreement. The agreement was signed in January 2022 and involved a value of Rs. 8 lakhs. The dispute is currently being addressed in a conciliation proceeding. 'Epsilon Pvt. Ltd.' now seeks to file a suit in the Commercial Court of Kolkata. The question is whether the suit can be filed in the Commercial Court considering the ongoing conciliation proceedings and the value of the dispute.",
+    "Legal Principles": "The Commercial Courts Act, 2015 aims to expedite the resolution of commercial disputes. The Act provides for jurisdiction of Commercial Courts over commercial disputes exceeding the specified value. The principles of 'res judicata', 'lis pendens', and the impact of conciliation proceedings on subsequent court actions are relevant in this context.",
+    "Relevant Sections": "Section 2 (1) (i), Section 3 (1A), Section 6 of the Commercial Courts Act, 2015",
+    "Context": "Jurisdiction: Kolkata Commercial Court; Case Type: Trade Agreement Dispute, Conciliation Proceedings, Filing of Suit"
+  },
+  {
+    "Query": "'Eta Group' and 'Theta Limited' entered into a contract for the supply of construction materials in November 2021. The contract value was Rs. 12 lakhs.  A dispute arose in May 2023 and 'Eta Group' filed a suit against 'Theta Limited' in the District Court of Kolkata. 'Theta Limited' argues that the suit should be transferred to the Commercial Court as it falls under the specified value. The question is whether the suit can be transferred to the Commercial Court, considering the date of the contract and the date of the dispute.",
+    "Legal Principles": "The Commercial Courts Act, 2015 grants jurisdiction to Commercial Courts over commercial disputes exceeding the specified value. The jurisdiction is determined based on the value of the dispute at the time of filing the suit, not the date of the underlying contract.",
+    "Relevant Sections": "Section 2 (1) (i), Section 3 (1A), Section 6, Section 15 of the Commercial Courts Act, 2015",
+    "Context": "Jurisdiction: Kolkata District Court, Commercial Court; Case Type: Contract Dispute, Transfer of Suit"
+  },
+  {
+    "Query": "A company, 'Iota Holdings', filed a suit in the Ordinary Original Civil Jurisdiction of the Calcutta High Court against 'Kappa Industries' on 20th December, 2020, seeking a declaration that a particular agreement between the parties was null and void. The dispute involves a commercial transaction worth Rs. 1 crore. The question is whether this suit can be transferred to the Commercial Division of the High Court under the provisions of the Commercial Courts Act, 2015.",
+    "Legal Principles": "The Commercial Courts Act, 2015 outlines the jurisdiction of Commercial Divisions of High Courts for commercial disputes. The interpretation of 'commercial dispute' and the value of the subject matter are key factors in determining the applicability of the Act.",
+    "Relevant Sections": "Section 2 (1) (i), Section 3 (1A), Section 7, Section 15 of the Commercial Courts Act, 2015",
+    "Context": "Jurisdiction: Calcutta High Court, Commercial Division; Case Type: Commercial Dispute, Transfer of Suit, Interpretation of Statute"
+  },
+  {
+    "Query": "A dispute arises between 'Lambda Ventures' and 'Mu Sigma Corp.' regarding a technology licensing agreement signed in March 2021. The agreement involved the transfer of intellectual property rights valued at Rs. 25 lakhs. 'Lambda Ventures' filed a suit in the District Court of Kolkata seeking specific performance of the agreement. 'Mu Sigma Corp.' argues that the dispute should be heard by a Commercial Court as it involves a commercial transaction exceeding the specified value. The question is whether the District Court or a Commercial Court has jurisdiction over this case.",
+    "Legal Principles": "The Commercial Courts Act, 2015 grants jurisdiction to Commercial Courts over commercial disputes exceeding the specified value. The Act also specifies the procedure for transfer of suits to Commercial Courts. The court's jurisdiction is determined based on the value of the dispute and the date of notification of the specified value.",
+    "Relevant Sections": "Section 2 (1) (i), Section 3 (1A), Section 6, Section 15 of the Commercial Courts Act, 2015",
+    "Context": "Jurisdiction: Kolkata District Court, Commercial Court; Case Type: Technology Licensing Agreement Dispute, Jurisdiction of Courts"
+  },
+  {
+    "Query": "A company, 'NuTech Solutions', filed a suit against 'Omicron Systems' in the Ordinary Original Civil Jurisdiction of the Calcutta High Court on 10th July, 2021. The suit involves a commercial dispute regarding a software development contract worth Rs. 3 crores. The suit was filed after the notification of the Specified Value for West Bengal. The question is whether the suit can be transferred to the Commercial Division of the High Court, considering the date of filing and the notification of the Specified Value.",
+    "Legal Principles": "The Commercial Courts Act, 2015 outlines the jurisdiction of Commercial Divisions of High Courts for commercial disputes. The date of filing of the suit and the notification of the Specified Value are crucial in determining the applicability of the Act's transfer provisions.",
+    "Relevant Sections": "Section 2 (1) (i), Section 3 (1A), Section 7, Section 15 of the Commercial Courts Act, 2015",
+    "Context": "Jurisdiction: Calcutta High Court, Commercial Division; Case Type: Commercial Dispute, Transfer of Suit, Interpretation of Statute"
+  },
+  {
+    "Query": "Two parties, 'Pi Sigma' and 'Rho Technologies', are engaged in a commercial dispute related to the supply of electronic components. The dispute arose in February 2022 and involved a value of Rs. 10 lakhs. 'Pi Sigma' initially filed a suit in a District Court in West Bengal. However, they later discovered that the dispute falls under the specified value and sought to transfer the suit to a Commercial Court. The question is whether the suit can be transferred to a Commercial Court considering the initial filing in the District Court.",
+    "Legal Principles": "The Commercial Courts Act, 2015 grants jurisdiction to Commercial Courts over commercial disputes exceeding the specified value. The Act also specifies the procedure for transfer of suits to Commercial Courts. The principles of 'lis pendens', 'res judicata', and the impact of initial filing in a different court are relevant to this case.",
+    "Relevant Sections": "Section 2 (1) (i), Section 3 (1A), Section 6, Section 15 of the Commercial Courts Act, 2015",
+    "Context": "Jurisdiction: West Bengal District Court, Commercial Court; Case Type: Commercial Dispute, Transfer of Suit, Jurisdiction of Courts"
+  },
+  {
+    "Query": "A company, 'Sigma Enterprises', filed a suit against 'Tau Alpha Inc.' in the Ordinary Original Civil Jurisdiction of the Calcutta High Court on 1st January, 2022. The suit involves a commercial dispute related to a breach of contract for the supply of raw materials, valued at Rs. 4 crores. 'Tau Alpha Inc.' argues that the suit should be dismissed as it was filed after the notification of the Specified Value for West Bengal and therefore, should be filed in the Commercial Division. The question is whether the suit is maintainable in the Ordinary Original Civil Jurisdiction or should be transferred to the Commercial Division.",
+    "Legal Principles": "The Commercial Courts Act, 2015 aims to expedite the resolution of commercial disputes by providing specialized courts. The Act requires commercial disputes exceeding the specified value to be filed in Commercial Courts or Commercial Divisions. The principles of 'lis pendens' and transfer of suits are relevant to this case.",
+    "Relevant Sections": "Section 2 (1) (i), Section 3 (1A), Section 7, Section 15 of the Commercial Courts Act, 2015; Order VII Rule 10 of the Code of Civil Procedure, 1908",
+    "Context": "Jurisdiction: Calcutta High Court, Commercial Division; Case Type: Commercial Dispute, Maintainability of Suit, Transfer of Suit"
+  }
+]
+```

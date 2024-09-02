@@ -1,0 +1,105 @@
+## 1. Case Title
+
+* **Case Name:** Antrix Corporation Ltd. vs. Devas Multimedia Pvt. Ltd.
+* **Court:** Delhi High Court
+* **Date of Judgment:** 30th May 2018
+* **Citation:** FAO(OS)(COMM) 67/2017, C.M. APPL.11214 & 17730/2017
+
+## 2. Background and Context
+
+* **Brief Overview:**  This case involved a dispute arising from a 2005 agreement between Antrix Corporation Ltd. (Antrix), a Union Government of India undertaking, and Devas Multimedia Pvt. Ltd. (Devas) for the lease of space segment capacity on an ISRO spacecraft. In 2011, the Indian government revoked the agreement citing security concerns. Devas invoked the arbitration clause in the agreement, leading to an ICC arbitration proceeding. Antrix challenged the validity of the arbitration proceedings and sought to have them conducted under the terms of the original agreement.
+* **Key Issues:** 
+    * Whether Antrix's appeal against a single judge order is maintainable under the Commercial Courts Act, 2015.
+    * Whether the Delhi High Court has exclusive jurisdiction over the dispute, given the designation of New Delhi as the seat of arbitration.
+    * Whether the doctrine of lis pendens (Section 42 of the Arbitration and Conciliation Act, 1996) bars Devas' Section 9 petition in the Delhi High Court, given Antrix's prior Section 9 petition in the Bangalore City Civil Court.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015 (CC Act) - Section 13 (Appeals from decrees of Commercial Courts and Commercial Divisions)
+    * Arbitration and Conciliation Act, 1996 (Arbitration Act) - Section 2 (Definitions), Section 9 (Interim measures etc. by Court), Section 34 (Setting aside arbitral award), Section 37 (Appealable Orders), Section 42 (Jurisdiction).
+* **Precedents Cited:**
+    * State of West Bengal v. Associated Contractors, (2015) 1 SCC 32
+    * Bhatia International v. Bulk Trading S.A., AIR 2002 SC 1432
+    * Bharat Aluminium Company v. Kaiser Aluminium Technical Service, (2012) 9 SCC 552 (BALCO)
+    * Indus Mobile Distribution Pvt. Ltd. v. Datawind Innovations Pvt. Ltd., (2017) 7 SCC 678 
+    * Swastik Gases Pvt. Ltd. v. Indian Oil Corporation Ltd., (2013) 9 SCC 32
+    * G.E. Countrywide Consumer Financial Services Ltd. v Surjit Singh Bhatia, (2006) 129 DLT 393
+    * Food Corporation of India v. Evdomen Corporation, (1999) 2 SCC 446
+    * Shah Babulal Khimji v. Jayaben D. Kania, AIR 1981 SC 1786
+    * Nivaran Solutions v. Aura Thia Spa Services Pvt. Ltd., (2016) 5 MhLJ 234
+    * Samson Maritime Limited v. Hardy Exploration, 2016 SCC Online Mad 9122
+    * Priya Hiranandani Vandervala v. Niranjan Hiranandani, 2016 (4) ArbLR 18 (Del)
+    * Harmanprit Singh Sidhu v. Arcadia Shares & Stock Brokers Pvt. Ltd., 2016 (159) DRJ 514
+    * HPL (India) Limited v. QRG Enterprises, 2017 (166) DRJ 671
+    * Hope Plantations Ltd. v. Taluk Land Board Peermade, (1999) 5 SCC 590
+    * Union of India v. Cipla Ltd., (2017) 5 SCC 262
+    * K.K. Modi v. K.N. Modi, (1998) 3 SCC 573
+    * Indian Farmers Fertilizer Co-Operative Limited vs. Bhadra Products, 2018 (2) SCC 534 
+    * Official Trustee v. Sachindra Nath Chatterjee, (1969) 3 SCR 92
+    * Ittavira Mathai v. Varkey Varkey, (1964) 1 SCR 495
+    * NTPC (supra) at 460-461
+    * Pandurang Dhoni Chougule v. Maruti Hari Jadhav AIR 1996 SC 153: (1996) 1 SCR 102
+    * SBP & Co. v. Patel Engg. Ltd. (2005) 8 SCC 618 
+    * Hinduja Leyland Finance Ltd. v. Debdas Routh, 2017 SCC Online 16379 
+    * Konkola Copper Mines v. Stewarts and Lloyds of India Limited, 2013 (4) ArbLR 19 (Bom)
+    * Bhargavi Constructions v. Kothakapu Muthyam Reddy, 2017 SCC Online SC 1053
+    * Surya Pharmaceuticals Ltd. v. First Leasing Co. of India Ltd., (2014) 2 CTC 545
+    * Hriday Nath Roy v. Ramachandra Barna Sarma ILR 68 Cal 138
+* **Legal Doctrines:**
+    * **Lis Pendens (Section 42 of the Arbitration Act):**  The doctrine of lis pendens prevents multiple proceedings on the same subject matter in different courts. 
+    * **Forum Selection Clause:**  An agreement by the parties to a contract to submit any disputes to a specific court or jurisdiction. 
+    * **Party Autonomy:**  The principle allowing parties to a contract to freely agree to the terms, including dispute resolution mechanisms.
+    * **Comity of Courts:**  The principle that courts should respect and defer to the decisions of other courts, especially in cases involving concurrent jurisdiction.
+    * **Issue Estoppel:**  A legal principle preventing parties from relitigating issues already decided in a prior proceeding. 
+    * **Abuse of Process of Law:**  When a party uses legal proceedings for improper or vexatious purposes.
+    * **Forum Shopping:**  When a party strategically chooses a court for litigation based on perceived advantages, rather than the proper venue.
+
+## 4. Arguments Presented
+
+* **Antrix’s Argument:**
+    * **Maintainability of Appeal:** Antrix argued that the Single Judge's order directing them to file financial records was tantamount to a Section 9 order under the Arbitration Act, making it appealable. They also argued that a decision on jurisdiction is an appealable order under Section 37 of the Arbitration Act. 
+    * **Exclusive Jurisdiction:**  Antrix claimed that the Bangalore City Civil Court had concurrent jurisdiction because the cause of action arose in Bangalore and Devas' registered office was there. They argued that the designation of the seat of arbitration in New Delhi did not confer exclusive jurisdiction on the Delhi High Court. 
+    * **Lis Pendens:** Antrix argued that their prior Section 9 petition in Bangalore, even if found to be not maintainable, still triggered the application of Section 42, barring Devas from filing a Section 9 petition in the Delhi High Court.  
+* **Devas’s Argument:**
+    * **Maintainability of Appeal:** Devas argued that the Single Judge's order was not a Section 9 order and that Antrix could appeal only after a final decision on the merits. They claimed that the proviso to Section 13 of the CC Act limited appealable orders in arbitration cases to those specified in Section 37 of the Arbitration Act.
+    * **Exclusive Jurisdiction:** Devas argued that the designation of the seat of arbitration in New Delhi constituted an exclusive forum selection clause, vesting the Delhi High Court with sole jurisdiction.
+    * **Lis Pendens:**  Devas argued that Antrix's Section 9 petition in Bangalore was not maintainable because it sought reliefs barred by law (Bhatia International case). They claimed that Antrix's prior Section 11 petition in the Supreme Court, which was dismissed, created issue estoppel. 
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * **Maintainability of Appeal:** The Court found that the Single Judge's order directing Antrix to file financial records was in effect a Section 9 order and that such an order is appealable under Section 37 of the Arbitration Act, even though the decision on the merits of the Section 9 petition was yet to be made. The court also held that the decision on jurisdiction is an appealable order under Section 37 of the Arbitration Act.  
+    * **Exclusive Jurisdiction:** The court held that the designation of New Delhi as the seat of arbitration does not automatically confer exclusive jurisdiction on the Delhi High Court. The court noted that BALCO had held that the courts at the seat of arbitration do not have exclusive jurisdiction, but that both the court where the cause of action arises and the court at the seat have concurrent jurisdiction.  The court distinguished Datawind, finding that it applied only to situations where the parties had specifically chosen a court as the exclusive forum. 
+    * **Lis Pendens:** The court found that Antrix's Section 9 petition in Bangalore, despite the fact that it may have sought barred reliefs, was still an application made to a court within the meaning of Section 2(1)(e) of the Arbitration Act.  Therefore, Section 42 applied, meaning that Devas could not file a Section 9 petition in the Delhi High Court because Antrix's petition in Bangalore was filed first. 
+
+* **Interpretation of Law:** The court interpreted Section 13 of the CC Act to mean that while appeals are generally allowed in commercial disputes, in the context of arbitration, appeals are only allowed for orders specified in Section 37 of the Arbitration Act. The court also interpreted Section 2(1)(e) of the Arbitration Act to confirm that the courts where the cause of action arises have concurrent jurisdiction with the courts at the seat of arbitration. The court interpreted Datawind to be limited to cases where parties specifically agreed on an exclusive forum selection clause.  
+* **Application of Law:** The court applied the principle of lis pendens to bar Devas' Section 9 petition in the Delhi High Court, finding that Antrix's Section 9 petition in Bangalore, despite potential maintainability issues, was still a valid application made under Part I of the Arbitration Act. 
+
+## 6. Judgment
+
+* **Final Decision:** The appeal was allowed. 
+* **Relief Granted:** The Delhi High Court's judgment and order holding that it alone had jurisdiction over the award was set aside.
+* **Orders:**  The court remanded the matter to the Bangalore City Civil Court to decide on the maintainability of Antrix's Section 9 petition. 
+
+## 7. Implications
+
+* **Impact on Law:** The judgment clarifies that while the designation of the seat of arbitration in New Delhi does not automatically grant exclusive jurisdiction to the Delhi High Court, the court where the cause of action arises does have concurrent jurisdiction. The case also emphasizes the importance of the lis pendens doctrine, even in cases where the maintainability of an earlier application is in dispute.
+* **Future Relevance:**  The case is likely to be cited as precedent for future cases involving disputes in the context of arbitration, particularly those dealing with the interpretation of Section 2(1)(e), Section 42, and Section 37 of the Arbitration Act.
+* **Broader Context:** The case highlights the ongoing debate around the balance between party autonomy and judicial efficiency in arbitration proceedings. It also showcases the complexity of jurisdiction issues in domestic arbitration cases with multiple potential forums. 
+
+## 8. Summary Points
+
+* Antrix successfully appealed the Single Judge's order, claiming that it was tantamount to a Section 9 order.
+* The court found that the designation of the seat of arbitration did not confer exclusive jurisdiction on the Delhi High Court. 
+* The court held that the principle of lis pendens barred Devas from filing a Section 9 petition in the Delhi High Court, as Antrix's prior Section 9 petition in Bangalore was still considered a valid application.
+* The case emphasizes that the court where the cause of action arises has concurrent jurisdiction with the court at the seat of arbitration. 
+
+## 9. References
+
+* **Citations:**  See the "Relevant Statutes and Provisions" and "Precedents Cited" sections above. 
+* **Further Reading:** 
+    * Law Commission of India, 253rd Report on the Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015. 
+    *  The Arbitration and Conciliation Act, 1996 (India).
+    *  The Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015 (India). 
+

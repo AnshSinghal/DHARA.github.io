@@ -1,0 +1,78 @@
+## Case Title:
+
+* **Case Name:** M/s Thomas Enterprises & Anr. vs. M/s Yuksom Breweries Ltd.
+* **Court:** Sikkim High Court
+* **Date of Judgment:** 1 November 2021
+* **Citation:** RFA No. 04 of 2018
+
+## Background and Context
+
+* **Brief Overview:** M/s Thomas Enterprises (Appellant) filed a Regular First Appeal (RFA) challenging a judgment and decree passed by the District Judge, South Sikkim, in a money suit filed by M/s Yuksom Breweries Limited (Respondent). The dispute arose from an agency agreement between the parties, where the Appellant acted as the Respondent's sole agent for marketing and distribution in North Bengal. The Respondent sought a decree against the Appellant for unpaid dues.
+* **Key Issues:**
+    * Whether the dispute constituted a 'commercial dispute' as defined in the Commercial Courts Act, 2015.
+    * Whether the District Judge, who had jurisdiction over the case, should have transferred the case to the Commercial Court in accordance with the Act.
+
+## Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * The Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015 (Commercial Act)
+        * Section 2(1)(c): Defines 'commercial dispute.'
+        * Section 5(1): Grants the Chief Justice power to constitute the Commercial Appellate Division.
+        * Section 6: Specifies the jurisdiction of Commercial Courts.
+        * Section 12: Determines the specified value for a commercial dispute.
+        * Section 12-A: Mandates pre-institution mediation and settlement.
+        * Section 15(2): Requires the transfer of pending commercial disputes to Commercial Courts.
+        * Section 16:  Amends the Code of Civil Procedure (CPC) to address commercial disputes.
+    * The Legal Services Authorities Act, 1987 (LSA Act)
+    * The Arbitration and Conciliation Act, 1996 (Arbitration Act)
+    * The Code of Civil Procedure, 1908 (CPC)
+        * Order XLI, Rule 1 and 2: Provisions for Regular First Appeals.
+
+* **Precedents Cited:** None specifically cited in the judgment.
+* **Legal Doctrines:** None specifically mentioned. 
+
+## Arguments Presented
+
+* **Appellant's Argument:**  The Appellant contended that the District Judge should have recognized the dispute as a commercial dispute and transferred the case to the Commercial Court. 
+* **Respondent's Argument:** The Respondent also agreed that the dispute was a commercial dispute and advocated for the case to be transferred to the Commercial Court.
+
+## Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The court found that the dispute between the parties clearly constituted a 'commercial dispute' as defined under Section 2(1)(c) of the Commercial Act. 
+    * The court held that the Money Suit, which was initiated before the constitution of the Commercial Courts in Sikkim, should have been transferred to the Commercial Court after their establishment as per Section 15(2) of the Act.
+    * The court acknowledged that the failure to transfer the suit to the Commercial Court resulted in a procedural error and hampered the objective of the Act to ensure speedy resolution of commercial disputes.
+
+* **Interpretation of Law:** The court meticulously analyzed the provisions of the Commercial Act, particularly those relating to the definition of 'commercial dispute', jurisdiction of Commercial Courts, and the transfer of pending cases. 
+* **Application of Law:** The court applied the provisions of the Act to the specific facts of the case, concluding that the District Judge had a legal obligation to transfer the case to the Commercial Court after their establishment.
+
+## Judgment
+
+* **Final Decision:** The court set aside the impugned judgment and decree passed by the District Judge and ordered the transfer of the Money Suit to the Commercial Court.
+* **Relief Granted:** The court effectively granted relief to both parties by ordering the case to be retried in a forum specifically designed to handle commercial disputes.
+* **Orders:** The court issued an order to transfer the Money Suit to the Commercial Court for trial as per the provisions of the Commercial Act.
+
+## Implications
+
+* **Impact on Law:** The judgment reaffirms the importance of adhering to the provisions of the Commercial Act in dealing with commercial disputes. It emphasizes the mandatory nature of transferring pending commercial disputes to the designated Commercial Courts.
+* **Future Relevance:** The judgment will serve as a precedent for future cases involving similar scenarios, ensuring that commercial disputes are dealt with appropriately in accordance with the Act.
+* **Broader Context:** The judgment reflects the intent of the Commercial Act to streamline and expedite the resolution of high-value commercial disputes through specialized courts with designated procedures.
+
+## Summary Points
+
+* The dispute between the parties constituted a 'commercial dispute' under the Commercial Act.
+* The Money Suit should have been transferred to the Commercial Court after their establishment.
+* The court set aside the previous judgment and ordered the transfer of the case to the Commercial Court for retrial.
+* The judgment underscores the importance of following the provisions of the Commercial Act in commercial dispute cases.
+
+## References
+
+* The Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015.
+* The Legal Services Authorities Act, 1987.
+* The Arbitration and Conciliation Act, 1996.
+* The Code of Civil Procedure, 1908.
+
+## Further Reading:
+
+* The Commercial Courts Act, 2015:  [Link to relevant website/document]
+* Case Law on Commercial Disputes in India: [Link to relevant website/document]

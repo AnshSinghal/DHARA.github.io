@@ -1,0 +1,99 @@
+## Case Title
+
+* **Case Name:** Dinesh Chandra vs. Eadred Finance Private Limited and 3 Others
+* **Court:** Allahabad High Court
+* **Date of Judgment:** 13th August 2024
+* **Citation:** 2024:AHC:131236-DB
+
+## Background and Context
+
+* **Brief Overview:** Dinesh Chandra (appellant) borrowed Rs. 70,00,000/- from Eadred Finance Private Limited (respondent) in 2018, agreeing to repay the loan in monthly installments. A dispute arose regarding the repayment, leading Eadred Finance to initiate arbitration proceedings seeking a sum of Rs. 1,41,54,573/-. 
+* **Key Issues:** 
+    * **Validity of Unilateral Appointment of Arbitrator:** Whether the respondent's unilateral appointment of an arbitrator, as permitted by the loan agreement, was valid under the Arbitration and Conciliation Act, 1996 (the Act).
+    * **Effect of Unilateral Appointment:** If the appointment was invalid, what was the consequence for the arbitral award passed by the unilaterally appointed arbitrator.
+
+## Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * Arbitration and Conciliation Act, 1996 (the Act)
+        * Section 11(2): Parties can agree on a procedure for appointing an arbitrator.
+        * Section 12(5): Notwithstanding any prior agreement, a person whose relationship falls under the Seventh Schedule of the Act is ineligible to be an arbitrator.
+        * Section 13(2): Time limit for filing objections to the appointment of an arbitrator.
+        * Section 14(1)(a): Termination of arbitrator's mandate if they become ineligible.
+        * Section 30: Provisions for amicable settlement.
+        * Section 34: Application for setting aside arbitral awards.
+        * Section 37: Appeal against an order under Section 34.
+    * Code of Civil Procedure (CPC)
+        * Order VIII Rule 10: Proceeding against a defendant when they don't appear.
+* **Precedents Cited:**
+    * Perkins Eastman Architects DPC and another Vs. HSCC (India) Limited : (2020) 20 SCC 760
+    * Ahluwalia Contracts (India) Limited Vs. Housing and Urban Development Corporation and another : (2007) 4 ArbLR 539
+    * Bharat Broadband Network Limited Vs. United Telecoms Limited : (2019) 6 SCR 97
+    * TRF Limited Vs. Energo Engg. Projects Ltd., (2017) 8 SCC 377
+    * Ram Kumar Vs. Shriram Transport Finance Co. Limited : 2022 OnLine Del 4268
+    * Lombardi Engineering Limited Vs. Uttarakhand Jal Vidyut Nigam Limited : Arbitration Petition No. 43 of 2022 decided on 06.11.2023.
+* **Legal Doctrines:** 
+    * Natural Justice: The principle of fairness and impartiality in legal proceedings.
+    * Bias: The potential for prejudice or partiality in decision-making.
+    * Waiver: The voluntary relinquishment of a known right.
+
+## Arguments Presented
+
+* **Appellant’s Argument:**
+    * The unilateral appointment of the arbitrator by the respondent violated the principles of natural justice as the appellant was not consulted or given notice prior to the appointment.
+    * The arbitration clause granting the lender the sole right to appoint the arbitrator was against the principles laid down in the Supreme Court judgments in *Perkins Eastman Architects* and *Bharat Broadband Network*.
+    * The appellant's objections to the arbitrator's appointment were rejected on baseless grounds.
+    * The arbitrator's relationship with the Director of the respondent company raised concerns about his impartiality.
+* **Respondent’s Argument:**
+    * The appellant had received notices of the arbitration proceedings and had participated in them.
+    * The appellant's objections to the arbitrator's appointment were filed beyond the statutory time limit.
+    * The appellant's application under Section 30 of the Act, seeking an amicable settlement under the guidance of the arbitrator, demonstrated their acceptance of the arbitrator's appointment.
+    * The allegations of bias against the arbitrator were unsubstantiated, and the relevant judgments cited by the appellant were not applicable to this case as they dealt with a different scenario under Section 11(6) of the Act.
+    * The parties had the right to agree on a procedure for appointing an arbitrator under Section 12(5) of the Act.
+    * The judgment in *Lombardi Engineering Limited* confirmed the law as laid down in *Perkins Eastman Architects* and did not support the appellant's claim.
+
+## Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The arbitration clause granting the respondent the sole right to appoint the arbitrator was deemed to be in conflict with the principles laid down by the Supreme Court in *Perkins Eastman Architects* and *Bharat Broadband Network*.
+    * The appointment of the arbitrator was held to be invalid and illegal due to the respondent's unilateral action.
+    * The appellant's application under Section 30 of the Act, seeking amicable settlement, was not considered to be a waiver of the appellant's right to challenge the arbitrator's appointment.
+    * The judgment in *Lombardi Engineering Limited* was found to be in line with the legal principles established in *Perkins Eastman Architects*.
+* **Interpretation of Law:**
+    * The court interpreted Section 12(5) of the Act to mean that even if parties agree on a unilateral appointment procedure, the arbitrator's eligibility is still subject to the provisions of the Act.
+    * The court interpreted the Supreme Court's judgments in *Perkins Eastman Architects* and *Bharat Broadband Network* to highlight the inherent bias risk associated with a unilateral appointment of an arbitrator by a party with an interest in the outcome.
+* **Application of Law:**
+    * The court applied the principles of natural justice, the requirements of Section 12(5) of the Act, and the legal precedents cited in the case to reach the conclusion that the arbitrator was ineligible to act due to his unilateral appointment.
+
+## Judgment
+
+* **Final Decision:** The appeal was allowed.
+* **Relief Granted:** The judgment dated 06.11.2023 of the Commercial Court was set aside. The appellant's application under Section 34 of the Act was allowed, and the arbitral award dated 06.09.2022 was set aside.
+* **Orders:** The parties were not precluded from re-agitating their claims before a new, independently appointed arbitral tribunal.
+
+## Implications
+
+* **Impact on Law:** This judgment reaffirms the importance of fair and impartial arbitration procedures under the Act. It clarifies that even with a prior agreement, a unilaterally appointed arbitrator may be ineligible under certain circumstances, particularly when the appointing party has a vested interest in the outcome. 
+* **Future Relevance:** This case serves as a significant precedent for future cases involving disputes regarding the validity of arbitrator appointments. It reinforces the need for parties to carefully consider the provisions of Section 12(5) of the Act and ensure that the appointment process is transparent and independent.
+* **Broader Context:** The case highlights the critical role of arbitration in resolving commercial disputes. However, it also underscores the need to ensure that the arbitral process is free from any bias or impropriety to maintain its integrity and ensure fairness for all parties involved.
+
+## Summary Points
+
+* Unilateral appointment of an arbitrator by a party with an interest in the outcome is invalid under the Act, as per the Supreme Court judgments in *Perkins Eastman Architects* and *Bharat Broadband Network*.
+* The court found that the appellant's participation in the arbitration proceedings did not constitute a waiver of their right to challenge the arbitrator's appointment.
+* The award passed by a unilaterally appointed arbitrator was set aside, but the parties are not precluded from pursuing their claims before a new arbitral tribunal.
+
+## References
+
+* **Citations:**
+    * Arbitration and Conciliation Act, 1996 (the Act)
+    * Code of Civil Procedure (CPC)
+    * *Perkins Eastman Architects DPC and another Vs. HSCC (India) Limited : (2020) 20 SCC 760*
+    * *Ahluwalia Contracts (India) Limited Vs. Housing and Urban Development Corporation and another : (2007) 4 ArbLR 539*
+    * *Bharat Broadband Network Limited Vs. United Telecoms Limited : (2019) 6 SCR 97*
+    * *TRF Limited Vs. Energo Engg. Projects Ltd., (2017) 8 SCC 377*
+    * *Ram Kumar Vs. Shriram Transport Finance Co. Limited : 2022 OnLine Del 4268*
+    * *Lombardi Engineering Limited Vs. Uttarakhand Jal Vidyut Nigam Limited : Arbitration Petition No. 43 of 2022 decided on 06.11.2023.*
+* **Further Reading:**
+    * For a deeper understanding of the application of Section 12(5) of the Act, research related cases and legal commentary.
+    * Explore the implications of the Supreme Court's judgments in *Perkins Eastman Architects* and *Bharat Broadband Network* on the appointment of arbitrators.

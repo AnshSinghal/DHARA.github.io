@@ -1,0 +1,104 @@
+## 1. Case Title
+
+* **Case Name:** Sanjay Suganchand Kasliwal Prop. ... vs M/S Golden Dreams Buildcon Pvt Ltd And ...
+* **Court:** Bombay High Court, Bench at Aurangabad
+* **Date of Judgment:** 10th November 2023
+* **Citation:** 2023:BHC-AUG:24780 
+
+## 2. Background and Context
+
+* **Brief Overview:** The case revolves around a dispute stemming from a Memorandum of Understanding (MoU) dated 26.12.2009,  executed between the plaintiff (Sanjay Suganchand Kasliwal, who is also the appellant in this appeal) and several defendants, including M/S Golden Dreams Buildcon Pvt Ltd. The MoU pertained to a plot of land at MIDC Chikalthana, Aurangabad. The plaintiff sought to develop the property for residential use, and the defendants were to receive a portion of the proceeds. However, when the defendants failed to fulfil their obligations under the MoU, the plaintiff filed a suit for specific performance and an injunction against the defendants.
+* **Key Issues:** 
+    * **Jurisdiction:** Whether the suit for specific performance of the MoU falls under the jurisdiction of a Commercial Court as per the Commercial Courts Act, 2015, or if it should be heard by an ordinary Civil Court.
+    * **Nature of the Dispute:** Whether the dispute is exclusively "commercial" in nature, as defined under the Commercial Courts Act, 2015, or if it encompasses other non-commercial aspects. 
+    * **Classification of the MoU:** Whether the MoU can be classified as a "construction contract" (as per Section 2(1)(c)(vi) of the Act), a "development agreement" (as per Section 2(1)(c)(vii) of the Act), or a combination of both. 
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * **Commercial Courts Act, 2015:**
+        * Section 2(1)(c): Definition of "commercial dispute", including various sub-clauses relevant to the case, particularly (vi) - construction and infrastructure contracts and (vii) - agreements relating to immovable property used exclusively in trade or commerce.
+        * Section 6: Jurisdiction of Commercial Courts.
+        * Section 15: Transfer of pending suits.
+    * **Code of Civil Procedure, 1908:**
+        * Order VII Rule 10 and 11: Provisions for returning/rejecting plaints.
+* **Precedents Cited:**
+    * **Ambalal Sarabhai Enterprises Ltd. Vs. K.S. Infraspace LLP and another, 2020 (15) SCC 585:** Interpretation of "used exclusively in trade or commerce" in Section 2(1)(c)(vii) of the Act, emphasizing that the property must be actually used and not merely "likely to be used".
+    * **Vasu Health Care Pvt. Ltd. Vs. Gujarat Akruti TCG Biotech Ltd., AIR 2017 SC 153:**  Similar case involving a Memorandum of Understanding for development, with the Gujarat High Court holding that Commercial Courts lack jurisdiction in such cases.
+    * **Dhulabhai Vs. State of M.P., AIR 1969 SC 78:**  Civil Courts have jurisdiction to try all suits except those barred by specific laws.
+    * **Sushil Kumar Agarwal Vs. Meenakshi Sadhu & ors., MANU/SC/1144/2018 [equivalent : [2019] 2 SCC 241]:** Explanations on the various types of development agreements and when a development agreement can be classified as a "construction contract".
+    * **Kanchanganga Realtors Pvt. Ltd. V/s Monarch Infrastructure, AIR 2019 Bom 102:**  This judgment of the Bombay High Court was considered by the appellant, although it was decided based on Section 15 of the Act and not on Section 6 as applicable in the current case.
+    * **Vaijinath Kale Vs. Nerkar Property LLP, 2021 (3) Mh.L.J. 202:** The appellant cited this case to highlight that the Court should consider the plaint's contents when deciding on the application for return of the plaint and not delve into the defense. 
+* **Legal Doctrines:**
+    * **Strict Construction:** The Appellant argued that provisions of the Commercial Courts Act, 2015, should be strictly construed as they are designed for specific scenarios and should not be applied broadly. 
+    * **Jurisdiction:** The court examined the concept of jurisdiction and how it applies to commercial disputes, emphasizing the exclusivity of Commercial Courts in certain circumstances. 
+    * **Interpretation of Statutes:**  The court reviewed and interpreted the relevant sections of the Commercial Courts Act, 2015, considering the legislative intent and existing precedents.
+
+## 4. Arguments Presented
+
+* **Plaintiff’s (Appellant’s) Argument:**
+    * The plaintiff argued that the dispute is not exclusively commercial in nature and encompasses other aspects, making it unsuitable for a Commercial Court.
+    * The plaintiff asserted that the property is not currently used for trade or commerce and therefore doesn't meet the criteria for a commercial dispute as defined in Section 2(1)(c)(vii) of the Act. 
+    * The plaintiff emphasized that the MoU cannot be considered a simple "construction contract" as it involves more than just construction. The plaintiff has acquired rights in the property through partial payment and the MoU cannot be categorized as a simple contract for construction work. 
+    * The plaintiff claimed that the State Authorities (SICOM and MIDC) are involved in their capacity as regulatory authorities, not as contracting parties, further supporting the argument against the exclusivity of a commercial dispute.
+    * The plaintiff argued that the jurisdiction of the Civil Court is not barred, citing precedents like Dhulabhai Vs. State of M.P., and that the Civil Court should retain jurisdiction unless specifically barred by law. 
+    * The plaintiff also highlighted the absence of a specific provision in the Act that explicitly mandates transfer of such suits (in contrast to Section 15 which deals with pending suits), implying that the legislature intended for suits like this to be heard by Civil Courts.
+
+* **Defendant’s (Respondent’s) Argument:**
+    * The defendants countered that the transaction involved in the MoU is indeed commercial in nature, involving financial institutions like SICOM and the MIDC, with the ultimate objective being the development of the property for profit.
+    * The defendants stated that the development agreement is a joint venture for commercial benefits and that the plaintiff's claim for specific performance arises from a breach of this commercial contract. 
+    * The defendants argued that the dispute falls under the definition of "commercial dispute" as per Section 2(c) of the Act, particularly due to the involvement of construction and immovable property used for trade or commerce.
+    * They asserted that the MoU clearly indicates a development agreement for residential development, fulfilling the criteria of Section 2(1)(c)(vii). 
+    * The defendants highlighted the significant financial consideration involved (Rs.35 crores) and the construction aspect of the MoU, which they argued falls under Section 2(1)(c)(vi) of the Act. 
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The court recognized that the MoU involves more than just construction and that the plaintiff's acquired rights in the property through partial payment are a significant factor. 
+    * The court considered the nature of the agreement and determined that it's primarily a development agreement rather than a simple construction contract. 
+    * The court acknowledged that the presence of financial institutions like SICOM and the MIDC does not automatically classify the dispute as exclusively commercial.
+    * The court found that the property's future use for commercial purposes is not the deciding factor; what matters is its current use and the intention of the parties under the MoU.
+    * The court noted that the trial court had incorrectly analyzed the plaint based on Section 2(1)(c)(vi) of the Act, instead of Section 2(1)(c)(vii). 
+* **Interpretation of Law:**
+    * The court emphasized the strict construction of the Commercial Courts Act, 2015, and the need to focus on the actual use of the property as per the definition of "commercial dispute."
+    * The court reiterated the principle from the Ambalal Sarabhai judgment that the property must be "actually used" for trade or commerce, not merely "likely to be used."
+    * The court acknowledged that a "development agreement" can have various forms, and the Sushil Kumar Agarwal case provides helpful guidance on classifying development agreements.
+    * The court clarified that the presence of State Authorities does not automatically create a commercial dispute.
+* **Application of Law:**
+    * The court, drawing from precedents, concluded that the MoU cannot be classified as a "construction contract" because the plaintiff acquires rights in the property and doesn't simply act as a contractor.
+    * The court determined that the dispute needs to be assessed under Section 2(1)(c)(vii) of the Act, focusing on whether the property is used exclusively for trade or commerce. 
+    * Based on the analysis of the facts and the relevant provisions of the Act, the court determined that the suit for specific performance does not fall under the exclusive jurisdiction of the Commercial Court.
+
+## 6. Judgment
+
+* **Final Decision:**  The Bombay High Court quashed and set aside the trial court's order that had directed the plaintiff to present the plaint to the Commercial Court.
+* **Relief Granted:** The matter was remanded back to the trial court to decide the application under Order VII Rule 10 and 11 of the Civil Procedure Code read with Section 3 of the Commercial Courts Act, 2015,  to determine the appropriate forum. 
+* **Orders:**  The court ordered the parties to appear before the trial court on 30.11.2023 to enable the court to proceed with the matter. The suit was restored, and any pending Civil Applications were dismissed.
+
+## 7. Implications
+
+* **Impact on Law:** The judgment reinforces the principle of strict construction of the Commercial Courts Act, 2015. It clarifies that the mere involvement of construction or financial institutions does not automatically make a dispute commercial. It also clarifies that development agreements are not always equivalent to construction contracts. 
+* **Future Relevance:** The case provides valuable guidance for future cases involving development agreements and specific performance claims, particularly when determining jurisdiction. It encourages a nuanced analysis of the agreement's terms, the property's current use, and the intentions of the parties involved.
+* **Broader Context:** The case highlights the increasing complexity of development agreements and the need for courts to carefully examine the specific circumstances of each case. It also underscores the importance of a clear understanding of the legal definitions and classifications under the Commercial Courts Act, 2015.
+
+## 8. Summary Points
+
+* The Bombay High Court ruled that the dispute over the development agreement did not fall under the exclusive jurisdiction of the Commercial Court.
+* The court emphasized the strict construction of the Commercial Courts Act and the importance of the property's actual use for trade or commerce.
+* The MoU was classified as a development agreement, not a simple construction contract.
+* The court stressed the need for a nuanced analysis of each case's unique circumstances when classifying disputes and determining jurisdiction.
+
+## 9. References
+
+* **Commercial Courts Act, 2015.**
+* **Code of Civil Procedure, 1908.**
+* **Ambalal Sarabhai Enterprises Ltd. Vs. K.S. Infraspace LLP and another, 2020 (15) SCC 585.**
+* **Vasu Health Care Pvt. Ltd. Vs. Gujarat Akruti TCG Biotech Ltd., AIR 2017 SC 153.**
+* **Dhulabhai Vs. State of M.P., AIR 1969 SC 78.**
+* **Sushil Kumar Agarwal Vs. Meenakshi Sadhu & ors., MANU/SC/1144/2018 [equivalent : [2019] 2 SCC 241].**
+* **Kanchanganga Realtors Pvt. Ltd. V/s Monarch Infrastructure, AIR 2019 Bom 102.**
+* **Vaijinath Kale Vs. Nerkar Property LLP, 2021 (3) Mh.L.J. 202.**
+
+**Further Reading:** 
+* For a deeper understanding of development agreements, consult legal texts on real estate law and property development. 
+* For more on the Commercial Courts Act, 2015, refer to commentaries and legal journals focusing on commercial law. 

@@ -1,0 +1,148 @@
+## Case Title
+
+* **Case Name:** Exe. Director, Godawari M.Wada ... vs Y.R. Reddy Engineers And Builders 843, ...
+* **Court:** Bombay High Court, Appellate Side, Bench at Aurangabad
+* **Date of Judgment:** 17th April 2017
+* **Citation:** Arb.Appeal Nos.6 & 5/16
+
+## Background and Context
+
+**Brief Overview:** This case involves a dispute between the Godawari Marathawada Irrigation Development Corporation (GMIDC), a state government corporation, and Y.R. Reddy Engineers and Builders (the Contractor), regarding a contract for the construction of the Majalgaon Right Bank Canal, part of the Jaikwaid Project. The project involved construction of a dam and several canals. The Contractor had initially abandoned the work before completion. Disputes arose regarding claims for additional payments and interest. This case concerns the second arbitration proceeding initiated by the Contractor regarding claims not addressed in the first arbitration.
+
+**Key Issues:**
+
+1. Jurisdiction of the Bombay High Court vs. Commercial Appellate Division due to the Commercial Courts, Commercial Division and Commercial Appellate Division of High Court Act, 2015.
+2. Competency of the appointed Arbitrator (retired High Court Judge) in light of the contract's provisions.
+3. Whether the claims in question could be considered by the Arbitrator, considering the terms of the contract.
+4. Applicability of the principle of res-judicata to the claims.
+5. Time-barred nature of the claims.
+6. Whether the Contractor substantiated his claims.
+7. Whether the Arbitrator's award and the District Judge's decision should be interfered with.
+
+## Legal Principles Involved
+
+**Relevant Statutes and Provisions:**
+
+* Arbitration and Conciliation Act, 1996 (Sections 11, 16, 34, 37)
+* Commercial Courts, Commercial Division and Commercial Appellate Division of High Court Act, 2015 (Sections 2(c), 3, 13, 15)
+* Indian Contract Act, 1872 (Section 28)
+* Indian Arbitration Act, 1940
+
+**Precedents Cited:**
+
+* **M/s. S.B.P & Co. Vs. M/s. Patel Engineering Ltd. and Anr. [AIR 2006 SUPREME COURT 450]**
+* **M/s. Konkan Railway Corporation Ltd. and Anr. Vs. M/s. Rani Construction P. Ltd. [AIR 2002 SUPREME COURT 778]**
+* **Huawei Technologies Company Ltd. Vs. Sterlite Technologies Ltd. [2016 (4) Mh.L.J. 101]**
+* **North Eastern Railway & Ors. Vs. Tripple Engineering Works [Civil Appeal No. 6275/2014]**
+* **M/s. Deep Trading Company Vs. M/s. Indian Oil Corporation and Ors. [2013 (2) Arb.L.R. 105 (SC)]**
+* **Union of India and Anr. Vs. Indusind Bank Ltd. and Anr. [2016 (8) SCALE 779]**
+* **Union of India Vs. Bright Power Projects (India) Pvt. Ltd. [2016 (3) Mh.L.J. 1]**
+* **Hyderabad Municipal Corporation Vs. M. Krishnaswami Mudaliar [AIR 1985 SC 607]**
+* **Associate Builders Vs. Delhi Development Authority [2014 (4) Arb.LR 307 (SC)]**
+* **Swan Gold Mining Ltd. Vs. Hindustan Copper Ltd. [2014 (4) Arb.LR 1 (SC)]**
+
+**Legal Doctrines:**
+
+* **Res-judicata:**  The principle that a matter already decided by a competent court cannot be re-litigated.
+* **Constructive Res-judicata:** A matter that could have been raised in a previous proceeding but was not, cannot be raised later.
+* **Limitation:** The principle that legal claims must be filed within a specified time period.
+
+## Arguments Presented
+
+**GMIDC's Argument (Appellant):**
+
+* The Arbitrator was not competent, as he was appointed contrary to the contract's provisions for appointing Arbitrators.
+* The claims made by the Contractor were barred by the principle of res-judicata, as they could have been raised in the first arbitration.
+* The claims were time-barred, as the Contractor failed to raise them within the stipulated time period.
+* The Contractor failed to substantiate his claims with sufficient evidence.
+* The Arbitrator's award and the District Judge's decision should be set aside.
+
+**Contractor's Argument (Respondent):**
+
+* The Bombay High Court had jurisdiction to hear the case, not the Commercial Appellate Division.
+* The Arbitrator's appointment was valid under Section 11 of the Arbitration and Conciliation Act, 1996.
+* The claims in question were not barred by res-judicata or limitations, as they involved new disputes not previously addressed.
+* The claims were substantiated with sufficient evidence.
+* The Arbitrator's award should be upheld.
+
+## Court’s Analysis and Reasoning
+
+**Key Findings:**
+
+* The Bombay High Court retains jurisdiction over the case, despite the existence of the Commercial Appellate Division, as the case was filed before the Division's establishment.
+* The Arbitrator's appointment was flawed, as the contract provided a specific procedure for appointing Arbitrators, which was not followed. The Contractor's actions in requesting the Chairman of CWC to appoint an Arbitrator but subsequently pursuing a High Court appointment under Section 11 rendered the latter appointment invalid.
+* The Contractor's claims were barred by the principles of res-judicata and constructive res-judicata, as they could have been raised in the first arbitration.
+* The Contractor failed to demonstrate that the claims were not time-barred, and his attempt to argue that the limitation period started after the final bill was signed failed due to the earlier abandonment of the work and lack of a completion certificate.
+* The Contractor failed to provide sufficient evidence to substantiate his claims, leading the Court to conclude that the Arbitrator had not properly considered the evidence and terms of the contract while awarding the claims.
+
+**Interpretation of Law:**
+
+* The Court interpreted Section 11 of the Arbitration and Conciliation Act, 1996, to support the need for parties to adhere to the procedures outlined in their contract for appointing Arbitrators, even if alternative appointment mechanisms are available.
+* The Court interpreted the relevant provisions of the contract (particularly Clause 56 and 57 of the General Conditions of Contract) to determine the timeframe for raising claims and the proper procedures for referring disputes to arbitration.
+* The Court applied the principles of res-judicata and limitation to analyze the Contractor's claims.
+
+**Application of Law:**
+
+* The Court applied the legal principles to the facts of the case and found that the Contractor's claims were barred due to procedural flaws in the Arbitrator's appointment, the principles of res-judicata and limitation, and lack of sufficient evidence.
+
+## Judgment
+
+**Final Decision:**
+
+* The Bombay High Court dismissed the Contractor's appeal (Arbitration Appeal No. 5/2016) and allowed the GMIDC's appeal (Arbitration Appeal No. 6/2016).
+
+**Relief Granted:**
+
+* The Court set aside the entire award given by the Arbitrator and rejected all the claims made by the Contractor.
+* The Court also set aside the District Judge's decision confirming the award in respect of certain claims.
+
+**Orders:**
+
+* The Court directed the parties to bear their own costs.
+
+## Implications
+
+**Impact on Law:**
+
+* The judgment emphasizes the importance of adhering to the contractual terms and conditions for appointing Arbitrators, even if statutory mechanisms exist.
+* It highlights the strict application of the principles of res-judicata and limitations in arbitration proceedings.
+* It underscores the need for Arbitrators to carefully review and consider the evidence presented before awarding claims.
+
+**Future Relevance:**
+
+* The case provides valuable guidance for future arbitration proceedings, particularly those involving complex contracts and multiple arbitration stages.
+* It reinforces the judicial scrutiny of Arbitrator appointments and the potential consequences of procedural irregularities.
+
+**Broader Context:**
+
+* The case illustrates the complexities involved in resolving disputes arising from large-scale infrastructure projects and the potential challenges of managing contractual relationships between government agencies and private contractors.
+
+## Summary Points
+
+* The Contractor's claims were barred due to procedural flaws in the Arbitrator's appointment.
+* The Contractor's claims were barred by the principles of res-judicata and limitations.
+* The Contractor failed to provide sufficient evidence to substantiate his claims.
+* The Bombay High Court set aside the Arbitrator's award and the District Judge's decision.
+
+## References
+
+* **Arbitration and Conciliation Act, 1996 (26 of 1996)**
+* **Commercial Courts, Commercial Division and Commercial Appellate Division of High Court Act, 2015**
+* **Indian Contract Act, 1872**
+* **Indian Arbitration Act, 1940**
+* **M/s. S.B.P & Co. Vs. M/s. Patel Engineering Ltd. and Anr. [AIR 2006 SUPREME COURT 450]**
+* **M/s. Konkan Railway Corporation Ltd. and Anr. Vs. M/s. Rani Construction P. Ltd. [AIR 2002 SUPREME COURT 778]**
+* **Huawei Technologies Company Ltd. Vs. Sterlite Technologies Ltd. [2016 (4) Mh.L.J. 101]**
+* **North Eastern Railway & Ors. Vs. Tripple Engineering Works [Civil Appeal No. 6275/2014]**
+* **M/s. Deep Trading Company Vs. M/s. Indian Oil Corporation and Ors. [2013 (2) Arb.L.R. 105 (SC)]**
+* **Union of India and Anr. Vs. Indusind Bank Ltd. and Anr. [2016 (8) SCALE 779]**
+* **Union of India Vs. Bright Power Projects (India) Pvt. Ltd. [2016 (3) Mh.L.J. 1]**
+* **Hyderabad Municipal Corporation Vs. M. Krishnaswami Mudaliar [AIR 1985 SC 607]**
+* **Associate Builders Vs. Delhi Development Authority [2014 (4) Arb.LR 307 (SC)]**
+* **Swan Gold Mining Ltd. Vs. Hindustan Copper Ltd. [2014 (4) Arb.LR 1 (SC)]**
+
+## Further Reading
+
+* **The Arbitration and Conciliation Act, 1996**
+* **The Commercial Courts, Commercial Division and Commercial Appellate Division of High Court Act, 2015**
+* **Relevant case law on res-judicata, limitations, and arbitration procedures in India.** 

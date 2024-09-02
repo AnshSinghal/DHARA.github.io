@@ -1,0 +1,95 @@
+## Case Title
+
+• Case Name: International Trade Expo Centre Limited vs. Mukesh Sharma & Ors.
+• Court: Delhi High Court
+• Date of Judgment: November 30, 2015
+• Citation: OMP (Comm.) 1/2015, OMP (Comm.) 2/2015 & WP (C) 10954/2015
+
+## Background and Context
+
+• **Brief Overview:** This case involves three interconnected legal proceedings: 
+    - OMP (Comm.) 1/2015 (originally OMP 255/2010):  Petition seeking enforcement of a foreign arbitration award dated January 05, 2010.
+    - OMP (Comm.) 2/2015 (originally OMP 914/2011):  Petition challenging an arbitration award dated August 01, 2011 by filing objections under Section 34 of the Arbitration and Conciliation Act, 1996.
+    - WP (C) 10954/2015: A writ petition challenging an order dated July 06, 2011, passed by the Court of District Judge, Gautam Budha Nagar, which returned objections filed under Section 34 to be filed in the Court of proper jurisdiction. This writ petition was transferred from the Allahabad High Court to the Delhi High Court by the Supreme Court.
+
+• **Key Issues:**
+    -  The proper forum for hearing these cases: Should they be heard by a single judge or by the Commercial Appellate Division, as per the Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Ordinance, 2015 (the "Ordinance").
+    - The applicability of the Ordinance to pending cases.
+    - The preservation of the right to appeal under Section 37 of the Arbitration and Conciliation Act, 1996, in light of the Ordinance.
+
+## Legal Principles Involved
+
+• **Relevant Statutes and Provisions:**
+    - Arbitration and Conciliation Act, 1996, Sections 9, 34, and 37
+    - Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Ordinance, 2015, Sections 10, 13, and 15
+    - Code of Civil Procedure, 1908, Order XIV-A, Order V Rule 1
+
+• **Precedents Cited:**
+    - Gari Kapati Veeraya Vs. N.Subbiah Choudhry (AIR 1957 SC 540)
+
+• **Legal Doctrines:**
+    - Rule of Harmonious Interpretation
+    - Right to Appeal as a Vested Right
+
+## Arguments Presented
+
+• **Petitioner’s Argument:**
+    - The Ordinance mandates that all applications or appeals arising out of arbitration, including those filed before its promulgation, be heard by the Commercial Appellate Division.
+    - The petitioners argued for the transfer of all three cases to the Commercial Appellate Division, citing the Supreme Court’s directive for their disposal by the end of November 2015.
+
+• **Respondent’s Argument:**
+    -  Section 15 of the Ordinance mandates the transfer of all suits and applications, including arbitration applications, pending in the High Court to the Commercial Division.
+    - The respondents argued for the transfer of the cases to the Commercial Division, not the Commercial Appellate Division, and pointed out that the right to appeal is a vested right that should not be taken away retrospectively.
+
+## Court’s Analysis and Reasoning
+
+• **Key Findings:**
+    - The court interpreted the language of Section 10 of the Ordinance to apply only to cases filed after its promulgation, not to pending cases.
+    - It found that interpreting Section 10 to include pending cases would render Section 15 of the Ordinance otiose.
+    - The court recognized the principle of harmonious interpretation, stating that the intent of the Ordinance was to ensure speedy disposal of commercial disputes and that applying Section 10 to pending cases would create unnecessary delays.
+
+• **Interpretation of Law:**
+    - The court emphasized that the phrase "that have been filed" in Section 10 of the Ordinance should be interpreted to include only cases filed after the Ordinance was promulgated.
+    - The court reconciled the conflicting provisions of Section 10 and 15 of the Ordinance by applying the rule of harmonious interpretation, giving precedence to Section 15 for pending cases.
+
+• **Application of Law:**
+    - The court concluded that the pending cases should be transferred to the Commercial Division, not the Commercial Appellate Division, as per Section 15 of the Ordinance.
+    - The court recognized the right to appeal as a vested right and held that applying Section 10 to pending cases would effectively take away this right.
+
+## Judgment
+
+• **Final Decision:** The court directed that the three cases be placed before the learned single judge as per the roster on December 03, 2015, after re-registering OMP (Comm.) 1/2015 as OMP 225/2010 and OMP (Comm.) 2/2015 as OMP 914/2011.
+
+• **Relief Granted:** No specific relief was granted to any party. The court ordered the transfer of the cases to the Commercial Division for further proceedings.
+
+• **Orders:**
+    - The cases were to be placed before the learned single judge on December 03, 2015.
+    - The cases were to be re-registered as OMP 225/2010 and OMP 914/2011.
+
+## Implications
+
+• **Impact on Law:** This judgment clarifies the applicability of the Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Ordinance, 2015, to pending cases. It confirms that the Ordinance does not apply retrospectively to pending cases and that Section 15, dealing with the transfer of cases to the Commercial Division, takes precedence over Section 10.
+
+• **Future Relevance:** This case serves as a precedent for future cases involving the application of the Ordinance to pending cases and reaffirms the protection of vested rights, including the right to appeal.
+
+• **Broader Context:** The judgment highlights the ongoing debate concerning the balance between the need for speedy disposal of commercial disputes and the preservation of vested rights.
+
+## Summary Points
+
+• The Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Ordinance, 2015, does not apply retrospectively to pending cases.
+• Section 15 of the Ordinance, dealing with the transfer of cases to the Commercial Division, takes precedence over Section 10 in the case of pending cases.
+• The right to appeal is a vested right that cannot be taken away retrospectively.
+
+## References
+
+• Arbitration and Conciliation Act, 1996
+• Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Ordinance, 2015
+• Code of Civil Procedure, 1908
+• Gari Kapati Veeraya Vs. N.Subbiah Choudhry (AIR 1957 SC 540)
+
+## Further Reading
+
+• **Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Ordinance, 2015**
+• **Case Law on the interpretation of the Ordinance**
+
+This case provides a clear interpretation of the Ordinance's application to pending cases, ensuring that vested rights are protected and that the Ordinance's objective of swift dispute resolution is effectively achieved. 

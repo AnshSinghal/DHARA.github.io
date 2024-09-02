@@ -1,0 +1,102 @@
+## 1. Case Title
+
+* **Case Name:** HPL (India) Limited & Ors vs QRG Enterprises And Another
+* **Court:** Delhi High Court
+* **Date of Judgment:** 14th February 2017
+* **Citation:** FAO (OS) (COMM) No.12/2017 & CM No.1002/2017
+
+## 2. Background and Context
+
+* **Brief Overview:**  This case involves an appeal against an order passed by a Single Judge of the Delhi High Court's Commercial Division in a commercial dispute. The appellants, HPL (India) Limited & Ors, challenged the order allowing new documents to be taken on record by the respondents, QRG Enterprises and Another. The respondents objected to the maintainability of the appeal, arguing that it was not an appealable order under the relevant legislation.
+* **Key Issues:** The main issue in the appeal was whether an order allowing new documents to be taken on record in a commercial dispute was appealable under the provisions of the Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015 (hereafter, the "said Act").
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * **Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015 (the "said Act")** -  Specifically, Sections 8, 13 (including the proviso to Section 13(1) and Section 13(2)), 16, and 21.
+    * **Code of Civil Procedure, 1908 (CPC)** - Sections 2 (definitions of "decree," "judgment," and "order"), 104, Order XLIII, and the Schedule to the Limitation Act, 1963 (Articles 116 and 117).
+    * **Arbitration and Conciliation Act, 1996** - Section 37.
+    * **Delhi High Court Act, 1966** - Section 10.
+* **Precedents Cited:**
+    * **Harmanprit Singh Sidhu v. Arcadia Shares & Stock Brokers Pvt. Ltd: FAO(OS) 136/2016** - A Division Bench decision of the Delhi High Court that held an appeal under Section 37 of the Arbitration & Conciliation Act, 1996 could only be filed against orders specifically enumerated in that section.
+    * **Shah Babulal Khimji v. Jayaben D. Kania & Another: 1981 (4) SCC 8** - A Supreme Court decision interpreting the meaning of "judgment" in the context of Letters Patent of the Bombay High Court.
+    * **Arun Dev Upadhyaya v. Integrated Sales Service Limited and Another: 2016 SCC Online SC 1053 [=2016 (9) SCC 524]** - A Supreme Court decision concerning an appeal under Section 50 of the Arbitration and Conciliation Act, 1996.
+    * **Iridium India Telecom Ltd v. Motorola Inc.: 2005 (2) SCC 145** - A Supreme Court decision emphasizing the principle of harmonious construction.
+    * **Hubtown Limited v. IDBI Trusteeship Services Limited: 2016 SCC OnLine Bom 9019** - A Bombay High Court decision analyzing the provisions of Section 13 of the said Act.
+* **Legal Doctrines:**
+    * **Statutory Interpretation** -  The court focused on the interpretation of the relevant legislation to determine the scope of appealability.
+    * **Harmonious Construction** - The court examined whether the different provisions of the said Act could be read harmoniously.
+    * **Non-obstante Clause** - The court analyzed the impact of the non-obstante clause in Section 13(2) of the said Act on the application of other laws.
+    * **Proviso** - The court interpreted the proviso to Section 13(1) to determine its effect on the general provision.
+
+## 4. Arguments Presented
+
+* **Appellant's Argument:**
+    * The impugned order allowing new documents was a "judgment" in the broader sense, as defined by the Supreme Court in Shah Babulal Khimji v. Jayaben D. Kania & Another, and therefore appealable under Section 13(1) of the said Act.
+    * The proviso to Section 13(1) was merely clarificatory and not intended to restrict the meaning of "judgment."
+    * The non-obstante clause in Section 13(2) did not entirely eliminate the right of appeal under the Delhi High Court Act, 1966, and the appeal was maintainable under Section 10 of that Act.
+    *  The "decision" in Section 13(1) was broad enough to encompass decrees, judgments, and orders.
+    * The decision of the Bombay High Court in Hubtown Limited v. IDBI Trusteeship Services Limited supported their argument for a broader interpretation of Section 13.
+* **Respondent's Argument:**
+    * The impugned order was not an appealable order under Order XLIII of the CPC, as specifically stipulated by the proviso to Section 13(1) of the said Act.
+    * Section 13(2) excluded the applicability of any other law, including the Delhi High Court Act, 1966, and the Letters Patent of the High Court.
+    * The decision of the Delhi High Court in Harmanprit Singh Sidhu v. Arcadia Shares & Stock Brokers Pvt. Ltd supported their contention that appeals were limited to specifically enumerated orders.
+    * The Statement of Objects and Reasons of the said Act indicated an intention to reduce the number of appeals from interlocutory orders in commercial disputes.
+    * Section 21 of the said Act gave overriding effect to its provisions over conflicting provisions in other laws.
+    * The Bombay High Court's decision in Hubtown Limited v. IDBI Trusteeship Services Limited did not lay down the correct law.
+
+## 5. Court's Analysis and Reasoning
+
+* **Key Findings:**
+    * The court recognized that the "said Act" was a special legislation aimed at streamlining the resolution of high-value commercial disputes, with an objective of promoting expeditious disposal and a positive image for the Indian legal system.
+    * The court noted that the right of appeal is a statutory right and must be clearly established in the relevant legislation.
+    * The court found that Section 16 of the "said Act" required the Commercial Division to apply the provisions of the CPC as amended by the Act.
+    * The court emphasized the distinct nature of "decrees" and "orders" as defined in the CPC.
+    * The court interpreted the proviso to Section 13(1) as limiting appealable orders to those specifically enumerated under Order XLIII of the CPC.
+    * The court acknowledged the expansive nature of the non-obstante clause in Section 13(2) and its impact on the applicability of other laws, including the Delhi High Court Act, 1966.
+* **Interpretation of Law:**
+    * The court interpreted the "judgment" in Section 13(1) as referring to a decree, as the CPC only provided for appeals from decrees or orders.
+    * The court strictly construed the proviso to Section 13(1), holding that it carved out an exception for appeals from orders not specifically enumerated in Order XLIII of the CPC.
+    * The court held that the non-obstante clause in Section 13(2) effectively excluded the application of the Delhi High Court Act, 1966, and the Letters Patent of the High Court.
+    * The court applied the principle of harmonious construction, finding that the interpretation given to the provisions of the "said Act" did not create any conflict between Sections 13 and 16.
+* **Application of Law:**
+    * The court applied the definitions of "decree," "judgment," and "order" under the CPC to interpret the provisions of Section 13.
+    * The court applied the principle of statutory interpretation to determine the scope and effect of the proviso to Section 13(1) and the non-obstante clause in Section 13(2).
+    * The court applied the principle of harmonious construction to resolve the apparent conflict between different provisions of the "said Act."
+
+## 6. Judgment
+
+* **Final Decision:** The appeal was dismissed as not maintainable.
+* **Relief Granted:** No relief was granted.
+* **Orders:**  No orders as to costs.
+
+## 7. Implications
+
+* **Impact on Law:** The judgment emphasizes the importance of the Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015, in governing appeals from commercial disputes. It clarifies that the appealability of orders is restricted to those specifically enumerated under Order XLIII of the CPC and the act effectively excludes the application of other laws such as the Delhi High Court Act, 1966, in relation to such appeals.
+* **Future Relevance:** The judgment provides a clear framework for interpreting the scope of appeals under the "said Act" and its relationship to other legal provisions. This will likely influence future decisions on the appealability of orders in commercial disputes.
+* **Broader Context:** The judgment demonstrates the legislative intent to promote expeditious and efficient resolution of high-value commercial disputes within the framework of the "said Act" while minimizing the potential for unnecessary delays through appeals.
+
+## 8. Summary Points
+
+* The "said Act" establishes a special legal framework for commercial disputes.
+* Appeals from commercial disputes are governed by the "said Act."
+* Only orders specifically enumerated under Order XLIII of the CPC are appealable under the "said Act."
+* The "said Act" excludes the applicability of other laws, including the Delhi High Court Act, 1966, in relation to appeals from commercial disputes.
+* The court applied principles of statutory interpretation, harmonious construction, and non-obstante clauses to reach its decision.
+* The judgment emphasizes the intention to minimize delays in the resolution of commercial disputes.
+
+## 9. References
+
+* **Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015**
+* **Code of Civil Procedure, 1908 (CPC)**
+* **Arbitration and Conciliation Act, 1996**
+* **Delhi High Court Act, 1966**
+* **Shah Babulal Khimji v. Jayaben D. Kania & Another: 1981 (4) SCC 8**
+* **Harmanprit Singh Sidhu v. Arcadia Shares & Stock Brokers Pvt. Ltd: FAO(OS) 136/2016**
+* **Arun Dev Upadhyaya v. Integrated Sales Service Limited and Another: 2016 SCC Online SC 1053 [=2016 (9) SCC 524]**
+* **Hubtown Limited v. IDBI Trusteeship Services Limited: 2016 SCC OnLine Bom 9019**
+* **Iridium India Telecom Ltd v. Motorola Inc.: 2005 (2) SCC 145**
+
+**Further Reading:** 
+* **Other judgments interpreting the Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015**
+* **Articles and commentary on the "said Act" and its impact on commercial litigation** 

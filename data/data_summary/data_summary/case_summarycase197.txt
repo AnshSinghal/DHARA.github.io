@@ -1,0 +1,112 @@
+## 1. Case Title
+
+* **Case Name:** Ajmer Vidyut Vitaran Nigam Limited (AVVNL) vs. Hindustan Zinc Limited (HZL)
+* **Court:** Rajasthan High Court
+* **Date of Judgment:** April 5, 2018
+* **Citation:** D.B. Civil Miscellaneous Appeal No.2803/2017
+
+## 2. Background and Context
+
+* **Brief Overview:** This case concerns a dispute between AVVNL, an electricity distribution company, and HZL, an industrial company operating a captive power plant (CPP) in Rajasthan. HZL entered into agreements with AVVNL for open access to AVVNL's distribution system to wheel power from its CPP to its other industrial units. The dispute arose when AVVNL billed HZL for unscheduled interchange (UI) charges, which are levied when there is a mismatch between scheduled and actual drawl of power. HZL challenged these charges before the Rajasthan Electricity Regulatory Commission (RERC) and eventually obtained an arbitration award in its favor. AVVNL then filed objections against the award in the Commercial Court, which were dismissed. This appeal challenges the Commercial Court's judgment upholding the arbitration award.
+* **Key Issues:**
+    * Whether the dispute regarding UI charges was arbitrable under the provisions of the Electricity Act, 2003, and the Rajasthan Electricity Regulatory Commission (Terms and Conditions for Open Access) Regulations, 2004 (Regulations of 2004).
+    * Whether the arbitrator exceeded his jurisdiction by addressing issues beyond the scope of the reference made by the RERC.
+    * Whether the arbitrator was justified in holding certain clauses of the open access agreements as being contrary to the Regulations of 2004 and the Electricity Act, 2003.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * Electricity Act, 2003 (Act of 2003), particularly Sections 4, 42, 86, 94, 158, and 181.
+    * Arbitration & Conciliation Act, 1996 (Act of 1996), particularly Sections 4, 16, 34, and 37.
+    * Rajasthan Electricity Regulatory Commission (Terms and Conditions for Open Access) Regulations, 2004 (Regulations of 2004), particularly clauses 20, 29, and 30.
+    * The Contract Act, 1872 (Act of 1872), particularly Sections 21 and 23.
+* **Precedents Cited:**
+    * **Gujarat Urja Vikas Nigam Limited Vs. Essar Power Limited (2008(4) SCC 755)**
+    * **Booz Allen and Hamilton Inc. Vs. SBI Home Finance Limited (2011)5 SCC 532)**
+    * **MSP Infrastructure Limited Vs. Madhyapradesh Road Development Corporation Limited (2015)13 SCC 713)**
+    * **A. Ayyasamy v. A. Paramasivam (2016)10 SCC 386)**
+    * **Dhanyalakshmi Rice Mills Vs. the Commissioner of Civil Supplies (1976)4 SCC 723)**
+    * **Shin Satellite Public Co. Ltd. Vs. Jain Studios Ltd. (2006)2 SCC 628)**
+    * **Transmission Corporation of Andhra Pradesh Limited vs. Sai Renewable Power Private Limited (2011)11 SCC 34)**
+    * **Rajasthan State Industrial Development and Investment Corporation vs. Diamond and Gem Development Corporation Limited (2013)5 SCC 470)**
+    * **Associate Builders Vs. Delhi Development Authority (2015)3 SCC 49)**
+* **Legal Doctrines:**
+    * **Arbitrability:** The court examined whether the dispute was a subject matter that could be settled by arbitration under the law.
+    * **Waiver:** The court considered whether HZL had waived its right to object to the arbitrator's jurisdiction by participating in the arbitration process without raising objections.
+    * **Severability:** The court analyzed whether certain clauses of the open access agreements could be severed from the rest of the agreement and held invalid while the remaining clauses remained enforceable.
+    * **Estoppel:** The court examined whether HZL was estopped from challenging the validity of the agreements after receiving benefits under them.
+    * **Perversity:** The court assessed whether the arbitrator's findings were perverse and unsupported by the evidence or legal principles.
+
+## 4. Arguments Presented
+
+* **AVVNL's Argument:**
+    * The dispute regarding UI charges was not arbitrable because the Regulations of 2004 established an exclusive redressal mechanism under clause 29 for open access disputes.
+    * The arbitrator exceeded his jurisdiction by addressing issues beyond the scope of the reference, which was limited to the billing of UI charges.
+    * The arbitrator's findings that certain clauses of the open access agreements were unlawful were perverse and contrary to the Regulations of 2004, the Act of 2003, and the Commission's previous orders.
+    * HZL was estopped from challenging the validity of the agreements after receiving benefits under them.
+* **HZL's Argument:**
+    * The dispute was arbitrable because the Act of 2003 empowers the Commission to refer disputes between a licensee and a generating company to arbitration.
+    * The reference to the arbitrator was open-ended and permitted him to address all issues related to AVVNL's arbitrary billing of UI charges.
+    * The arbitrator was justified in holding certain clauses of the open access agreements as being contrary to the Act of 2003 and the Commission's orders.
+    * The arbitrator's findings were supported by the evidence and the law.
+
+## 5. Court's Analysis and Reasoning
+
+* **Key Findings:**
+    * The court found that the dispute regarding UI charges was not arbitrable because the Regulations of 2004 established an exclusive redressal mechanism under clause 29, precluding arbitration.
+    * The court held that the arbitrator exceeded his jurisdiction by addressing issues beyond the scope of the reference, which was limited to the billing of UI charges.
+    * The court concluded that the arbitrator's findings regarding the invalidity of certain clauses in the open access agreements were perverse and unsupported by the evidence or legal principles.
+    * The court upheld the principle of estoppel, stating that HZL was estopped from challenging the validity of the agreements after receiving benefits under them.
+* **Interpretation of Law:**
+    * The court interpreted the Regulations of 2004 as establishing an exclusive redressal mechanism for open access disputes, which barred arbitration.
+    * The court interpreted the Act of 2003 as not overriding the specific provisions of the Regulations of 2004 regarding dispute resolution.
+    * The court interpreted the scope of the arbitrator's reference as being limited to the billing of UI charges, not the validity of the open access agreements.
+    * The court relied on case law to support the principle of estoppel and the doctrine of severability.
+* **Application of Law:**
+    * The court applied the principles of arbitrability and waiver to determine that the dispute was not arbitrable and that HZL had not waived its right to object to the arbitrator's jurisdiction.
+    * The court applied the principle of severability to uphold the agreements' remaining clauses while holding certain clauses invalid.
+    * The court applied the principle of estoppel to prevent HZL from challenging the agreements' validity after receiving benefits under them.
+
+## 6. Judgment
+
+* **Final Decision:** The court allowed the appeal and quashed both the arbitration award and the Commercial Court's judgment.
+* **Relief Granted:** The court set aside the arbitration award and the Commercial Court's judgment, effectively nullifying the arbitrator's decision and restoring AVVNL's right to pursue UI charges.
+* **Orders:** The court directed that the dispute regarding UI charges be resolved through the exclusive redressal mechanism provided under clause 29 of the Regulations of 2004, starting with the State Load Dispatch Center (SLDC).
+
+## 7. Implications
+
+* **Impact on Law:** This case strengthens the principle that when a specific statutory dispute resolution mechanism is established, it overrides the general provisions for arbitration. It reinforces the importance of adhering to the prescribed dispute resolution processes within the specific statutory framework. 
+* **Future Relevance:** This case serves as a precedent for future disputes involving open access agreements and the application of statutory dispute resolution mechanisms in the electricity sector. It highlights the importance of clearly defining the scope of arbitration references and upholding the principle of estoppel in contractual disputes.
+* **Broader Context:** The judgment emphasizes the need for clarity and consistency in applying statutory regulations and dispute resolution processes. It underscores the importance of following prescribed procedures and avoiding arbitrary actions, especially in the electricity sector, which directly impacts public interest.
+
+## 8. Summary Points
+
+* The dispute regarding UI charges was not arbitrable because the Regulations of 2004 established an exclusive redressal mechanism.
+* The arbitrator exceeded his jurisdiction by addressing issues beyond the scope of the reference.
+* The arbitrator's findings regarding the invalidity of certain clauses in the open access agreements were perverse.
+* HZL was estopped from challenging the validity of the agreements after receiving benefits under them.
+* The court upheld the exclusive statutory dispute resolution mechanism and clarified its application.
+* The case reinforces the importance of adhering to prescribed procedures and upholding the principle of estoppel in contractual disputes.
+
+## 9. References
+
+* **Electricity Act, 2003 (Act of 2003)**
+* **Arbitration & Conciliation Act, 1996 (Act of 1996)**
+* **Rajasthan Electricity Regulatory Commission (Terms and Conditions for Open Access) Regulations, 2004 (Regulations of 2004)**
+* **The Contract Act, 1872 (Act of 1872)**
+* **Gujarat Urja Vikas Nigam Limited Vs. Essar Power Limited (2008(4) SCC 755)**
+* **Booz Allen and Hamilton Inc. Vs. SBI Home Finance Limited (2011)5 SCC 532)**
+* **MSP Infrastructure Limited Vs. Madhyapradesh Road Development Corporation Limited (2015)13 SCC 713)**
+* **A. Ayyasamy v. A. Paramasivam (2016)10 SCC 386)**
+* **Dhanyalakshmi Rice Mills Vs. the Commissioner of Civil Supplies (1976)4 SCC 723)**
+* **Shin Satellite Public Co. Ltd. Vs. Jain Studios Ltd. (2006)2 SCC 628)**
+* **Transmission Corporation of Andhra Pradesh Limited vs. Sai Renewable Power Private Limited (2011)11 SCC 34)**
+* **Rajasthan State Industrial Development and Investment Corporation vs. Diamond and Gem Development Corporation Limited (2013)5 SCC 470)**
+* **Associate Builders Vs. Delhi Development Authority (2015)3 SCC 49)**
+
+## Further Reading
+
+* **Electricity Act, 2003**
+* **Arbitration & Conciliation Act, 1996**
+* **Cases related to arbitrability, waiver, estoppel, and severability in contract law**
+* **Scholarly articles on open access in the electricity sector** 

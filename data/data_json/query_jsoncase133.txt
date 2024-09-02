@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A property buyer, Mr. Kumar, filed an application under Section 34 of the Arbitration and Conciliation Act, 1996, challenging an arbitral award that ordered specific performance of a sale agreement. He argued that the agreement was not properly stamped and therefore invalid. The seller, Ms. Sharma, countered that the stamping issue was raised for the first time before the court and the agreement was valid. Can the court set aside the arbitral award based on the alleged stamping defect?",
+    "Legal Principles": "Section 34 of the Arbitration and Conciliation Act, 1996, deals with applications to set aside arbitral awards. The court can set aside an award if it is satisfied that the award was made in contravention of the provisions of the Act, or that the award was against public policy. The court can also consider the issue of the validity of the underlying agreement, including the issue of proper stamping. However, the court cannot consider issues that were not raised before the arbitrator.",
+    "Relevant Sections": "Section 34 of the Arbitration and Conciliation Act, 1996; Section 17 of the Indian Registration Act, 1908",
+    "Context": "Jurisdiction: India; Case Type: Application to set aside an arbitral award under Section 34 of the Arbitration and Conciliation Act, 1996"
+  },
+  {
+    "Query": "A construction company, ABC Construction, filed an application under Section 34 of the Arbitration and Conciliation Act, 1996, challenging an arbitral award that ordered it to pay damages to a property owner, Mr. Patel, for delays in construction. ABC Construction argued that the arbitrator had not considered all relevant evidence and that the award was excessive. Mr. Patel countered that the arbitrator had carefully considered all evidence and that the award was justified. Should the court set aside the arbitral award?",
+    "Legal Principles": "Section 34 of the Arbitration and Conciliation Act, 1996, provides grounds for setting aside arbitral awards, including when the award is based on a fundamental error of law or when the arbitrator has exceeded his/her powers. The court will only interfere with the arbitral award if there is a demonstrable error of law or procedure.",
+    "Relevant Sections": "Section 34 of the Arbitration and Conciliation Act, 1996",
+    "Context": "Jurisdiction: India; Case Type: Application to set aside an arbitral award under Section 34 of the Arbitration and Conciliation Act, 1996"
+  },
+  {
+    "Query": "A business partnership, XYZ Enterprises, filed an application under Section 34 of the Arbitration and Conciliation Act, 1996, challenging an arbitral award that dissolved the partnership and ordered the distribution of assets. One partner, Mr. Singh, argued that the arbitrator had not properly considered the partnership agreement and that the distribution of assets was unfair. The other partner, Ms. Rao, countered that the arbitrator had properly interpreted the agreement and that the distribution was fair. Can the court intervene in this dispute?",
+    "Legal Principles": "The court has limited power to review an arbitrator's interpretation of a contract, particularly when the interpretation is reasonable. The court will only intervene if the arbitrator's interpretation is demonstrably wrong or if the arbitrator acted beyond his/her authority.",
+    "Relevant Sections": "Section 34 of the Arbitration and Conciliation Act, 1996",
+    "Context": "Jurisdiction: India; Case Type: Application to set aside an arbitral award under Section 34 of the Arbitration and Conciliation Act, 1996"
+  },
+  {
+    "Query": "A company, DEF Limited, filed an application under Section 34 of the Arbitration and Conciliation Act, 1996, challenging an arbitral award that ordered it to pay a sum of money to a supplier, GHI Supplies. DEF Limited argued that the arbitrator had failed to properly consider the terms of the contract and that the award was not supported by the evidence. GHI Supplies argued that the arbitrator had correctly interpreted the contract and that the award was supported by the evidence. Should the court intervene?",
+    "Legal Principles": "When considering an application to set aside an arbitral award, the court must balance its respect for the arbitrator's decision with its duty to ensure that the award is fair and just. The court will only interfere with the award if it is satisfied that the award is clearly wrong or if the arbitrator has acted in a way that is demonstrably unfair.",
+    "Relevant Sections": "Section 34 of the Arbitration and Conciliation Act, 1996",
+    "Context": "Jurisdiction: India; Case Type: Application to set aside an arbitral award under Section 34 of the Arbitration and Conciliation Act, 1996"
+  },
+  {
+    "Query": "A landlord, Mr. Joshi, filed an application under Section 34 of the Arbitration and Conciliation Act, 1996, challenging an arbitral award that dismissed his claim for rent arrears against a tenant, Ms. Kapoor. Mr. Joshi argued that the arbitrator had failed to properly consider the lease agreement and that the award was unjust. Ms. Kapoor countered that the arbitrator had correctly interpreted the agreement and that the award was fair. Can the court set aside the arbitral award?",
+    "Legal Principles": "The court will only interfere with an arbitral award if it is satisfied that the award is clearly wrong or if the arbitrator has acted in a way that is demonstrably unfair. The court must balance its respect for the arbitrator's decision with its duty to ensure that the award is fair and just.",
+    "Relevant Sections": "Section 34 of the Arbitration and Conciliation Act, 1996",
+    "Context": "Jurisdiction: India; Case Type: Application to set aside an arbitral award under Section 34 of the Arbitration and Conciliation Act, 1996"
+  },
+  {
+    "Query": "Two companies, JKL Inc. and LMN Ltd., entered into a contract for the supply of goods. A dispute arose regarding the quality of the goods, and the parties agreed to arbitration. The arbitrator ruled in favor of JKL Inc., finding that LMN Ltd. had breached the contract. LMN Ltd. is challenging the award, arguing that the arbitrator failed to properly consider expert evidence presented by LMN Ltd. Should the court set aside the arbitral award?",
+    "Legal Principles": "The court will not readily interfere with an arbitrator's decision regarding the weight to be given to expert evidence. The court will only intervene if the arbitrator's decision is demonstrably wrong or if the arbitrator failed to consider relevant evidence.",
+    "Relevant Sections": "Section 34 of the Arbitration and Conciliation Act, 1996",
+    "Context": "Jurisdiction: India; Case Type: Application to set aside an arbitral award under Section 34 of the Arbitration and Conciliation Act, 1996"
+  },
+  {
+    "Query": "A software company, PQR Solutions, filed an application under Section 34 of the Arbitration and Conciliation Act, 1996, challenging an arbitral award that ordered it to pay damages to a client, STU Enterprises, for software defects. PQR Solutions argued that the arbitrator had misconstrued the terms of the software license agreement and that the award was excessive. STU Enterprises countered that the arbitrator had correctly interpreted the agreement and that the award was fair. Can the court intervene in this case?",
+    "Legal Principles": "The court will only interfere with an arbitrator's interpretation of a contract if it is demonstrably wrong or if the arbitrator has acted beyond his/her authority. The court must balance its respect for the arbitrator's decision with its duty to ensure that the award is fair and just.",
+    "Relevant Sections": "Section 34 of the Arbitration and Conciliation Act, 1996",
+    "Context": "Jurisdiction: India; Case Type: Application to set aside an arbitral award under Section 34 of the Arbitration and Conciliation Act, 1996"
+  },
+  {
+    "Query": "A construction company, XYZ Construction, is challenging an arbitral award that ordered it to pay damages to a property owner, Mr. Sharma, for delays in construction. XYZ Construction argued that the arbitrator failed to consider a force majeure event that caused the delays. Mr. Sharma countered that the event was not a valid force majeure event under the contract. Should the court set aside the arbitral award?",
+    "Legal Principles": "The court will only intervene with an arbitrator's decision regarding force majeure if it is demonstrably wrong or if the arbitrator has acted beyond his/her authority. The court will consider the specific terms of the contract and the nature of the force majeure event.",
+    "Relevant Sections": "Section 34 of the Arbitration and Conciliation Act, 1996",
+    "Context": "Jurisdiction: India; Case Type: Application to set aside an arbitral award under Section 34 of the Arbitration and Conciliation Act, 1996"
+  },
+  {
+    "Query": "A company, ABC Limited, is challenging an arbitral award that ordered it to pay damages to a supplier, DEF Supplies, for breach of contract. ABC Limited argued that the arbitrator did not give sufficient weight to the evidence presented by ABC Limited. DEF Supplies countered that the arbitrator had properly considered the evidence and that the award was fair. Should the court set aside the arbitral award?",
+    "Legal Principles": "The court will only interfere with an arbitrator's decision regarding the weight to be given to evidence if it is demonstrably wrong or if the arbitrator failed to consider relevant evidence. The court will not readily second-guess the arbitrator's judgment regarding the weight of the evidence.",
+    "Relevant Sections": "Section 34 of the Arbitration and Conciliation Act, 1996",
+    "Context": "Jurisdiction: India; Case Type: Application to set aside an arbitral award under Section 34 of the Arbitration and Conciliation Act, 1996"
+  },
+  {
+    "Query": "A bank, XYZ Bank, filed an application under Section 34 of the Arbitration and Conciliation Act, 1996, challenging an arbitral award that ordered it to pay damages to a borrower, Mr. Gupta, for wrongful foreclosure of a mortgage. XYZ Bank argued that the arbitrator had incorrectly interpreted the mortgage agreement and that the award was excessive. Mr. Gupta countered that the arbitrator had correctly interpreted the agreement and that the award was fair. Should the court set aside the arbitral award?",
+    "Legal Principles": "The court will only interfere with an arbitrator's interpretation of a contract if it is demonstrably wrong or if the arbitrator has acted beyond his/her authority. The court must balance its respect for the arbitrator's decision with its duty to ensure that the award is fair and just.",
+    "Relevant Sections": "Section 34 of the Arbitration and Conciliation Act, 1996",
+    "Context": "Jurisdiction: India; Case Type: Application to set aside an arbitral award under Section 34 of the Arbitration and Conciliation Act, 1996"
+  }
+]
+```

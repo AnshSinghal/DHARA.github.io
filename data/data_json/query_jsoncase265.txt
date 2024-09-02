@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A buyer and seller entered into a contract for the sale and purchase of iron ore. The buyer alleged that the iron ore delivered was of inferior quality and refused to pay the full contract price. The seller claimed that the quality was certified by an independent inspector appointed by the buyer and sought payment of the full contract price.  I need to determine whether the buyer is bound by the inspector's certificate and if the seller is entitled to the full contract price.",
+    "Legal Principles": "Binding effect of inspection certificates, interpretation of contracts, validity of arbitral awards, judicial review of arbitral awards, grounds for setting aside an award under Section 34 of the Arbitration and Conciliation Act, 1996.",
+    "Relevant Sections": "Section 34 of the Arbitration and Conciliation Act, 1996, Section 37 of the Arbitration and Conciliation Act, 1996",
+    "Context": "Commercial dispute, contract for sale and purchase of goods, arbitration proceedings, judicial review of arbitral award, India"
+  },
+  {
+    "Query": "A construction company entered into a contract with a government agency for the construction of a public building. The company claimed that the agency breached the contract by failing to make timely payments and by making unreasonable changes to the project specifications.  I need to determine whether the agency breached the contract and the extent of the company's damages.",
+    "Legal Principles": "Breach of contract, contractual interpretation, damages for breach of contract, quantum meruit, construction contracts, government contracts.",
+    "Relevant Sections": "Indian Contract Act, 1872, Specific Relief Act, 1963",
+    "Context": "Contract dispute, construction contract, breach of contract, damages, India"
+  },
+  {
+    "Query": "A software company developed a custom software application for a client.  The client alleged that the software was not performing as expected and refused to pay the full contract price. The software company claimed that the software met the specifications agreed upon in the contract and sought payment of the full contract price. I need to determine whether the software company is entitled to the full contract price or whether the client is entitled to a refund.",
+    "Legal Principles": "Contract for services, software development agreements, breach of contract, warranty of fitness for purpose, implied terms, defective goods, consumer protection.",
+    "Relevant Sections": "Indian Contract Act, 1872, Information Technology Act, 2000, Consumer Protection Act, 1986",
+    "Context": "Contract dispute, software development, breach of contract, consumer protection, India"
+  },
+  {
+    "Query": "A landlord and tenant entered into a lease agreement. The tenant failed to pay rent for several months. The landlord filed an eviction suit against the tenant. I need to determine whether the landlord is entitled to evict the tenant.",
+    "Legal Principles": "Lease agreement, breach of contract, landlord-tenant law, eviction, rent arrears, remedies for breach of contract.",
+    "Relevant Sections": "Transfer of Property Act, 1882, Rent Control Act (applicable to the jurisdiction)",
+    "Context": "Landlord-tenant dispute, eviction, breach of lease agreement, India"
+  },
+  {
+    "Query": "A company issued shares to its employees under an employee stock option plan. The company later made a public offering of its shares and the value of the shares increased significantly.  The employees claimed that they were entitled to purchase the shares at the original price offered under the stock option plan.  I need to determine whether the employees are entitled to purchase the shares at the original price.",
+    "Legal Principles": "Employee stock option plans, contractual interpretation, rights of employees, shareholder rights, securities law.",
+    "Relevant Sections": "Companies Act, 2013, Securities and Exchange Board of India (SEBI) Act, 1992, Indian Contract Act, 1872",
+    "Context": "Corporate law, employee stock option plan, shareholder rights, contract interpretation, India"
+  },
+  {
+    "Query": "A couple entered into a prenuptial agreement before getting married.  The marriage subsequently ended in divorce.  One spouse is challenging the validity of the prenuptial agreement.  I need to determine whether the prenuptial agreement is valid and enforceable.",
+    "Legal Principles": "Prenuptial agreements, family law, validity of contracts, capacity to contract, undue influence, fairness of agreements, enforceability of agreements.",
+    "Relevant Sections": "Indian Contract Act, 1872, Hindu Marriage Act, 1955, Special Marriage Act, 1954 (depending on applicable law)",
+    "Context": "Family law, prenuptial agreement, validity of agreement, enforceability, India"
+  },
+  {
+    "Query": "A bank granted a loan to a borrower. The borrower defaulted on the loan payments. The bank filed a suit to recover the outstanding loan amount.  I need to determine whether the bank is entitled to recover the outstanding loan amount and what remedies are available to the bank.",
+    "Legal Principles": "Loan agreements, breach of contract, remedies for breach of contract, foreclosure, recovery of debt, banking law.",
+    "Relevant Sections": "Indian Contract Act, 1872, The Recovery of Debts Due to Banks and Financial Institutions Act, 1993, The Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002 (SARFAESI Act)",
+    "Context": "Banking law, loan recovery, breach of loan agreement, remedies, India"
+  },
+  {
+    "Query": "A company filed a trademark application for its product. A competitor filed an opposition to the trademark application.  I need to determine whether the company's trademark application should be granted or whether the opposition should be sustained.",
+    "Legal Principles": "Trademark law, trademark registration, opposition to trademark application, distinctiveness, likelihood of confusion, prior rights.",
+    "Relevant Sections": "The Trade Marks Act, 1999",
+    "Context": "Intellectual property law, trademark, opposition, India"
+  },
+  {
+    "Query": "A driver was involved in a car accident. The driver claims that the accident was caused by another driver's negligence.  I need to determine whether the other driver is liable for damages arising from the accident.",
+    "Legal Principles": "Negligence, motor vehicle accidents, causation, damages, contributory negligence, liability.",
+    "Relevant Sections": "The Motor Vehicles Act, 1988, Indian Contract Act, 1872, The Indian Evidence Act, 1872",
+    "Context": "Torts, motor vehicle accident, negligence, liability, India"
+  },
+  {
+    "Query": "A company filed a patent application for its invention. Another company alleged that the invention was not novel and that the patent application should be rejected.  I need to determine whether the patent application should be granted or whether it should be rejected.",
+    "Legal Principles": "Patent law, patentability, novelty, inventive step, prior art, infringement.",
+    "Relevant Sections": "The Patents Act, 1970",
+    "Context": "Intellectual property law, patent, novelty, India"
+  }
+]
+```

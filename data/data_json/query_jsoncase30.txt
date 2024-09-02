@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A dispute has arisen between two parties, ABC Corporation and XYZ Enterprises, over a commercial contract. XYZ Enterprises is seeking to enforce the contract, while ABC Corporation is arguing that the contract was invalid due to a material breach. The contract value is above INR 3 lakhs. Can you tell me what court has jurisdiction over this case?",
+    "Legal Principles": "Jurisdiction in commercial disputes exceeding INR 3 lakhs falls under the purview of Commercial Courts, established under the Commercial Courts Act, 2015.",
+    "Relevant Sections": "Section 15 of the Commercial Courts Act, 2015 outlines the transfer of pending cases relating to commercial disputes valued above INR 3 lakhs to the Commercial Division of the High Court or the Commercial Court, depending on the location.",
+    "Context": "This is a commercial dispute case exceeding INR 3 lakhs. The case involves the enforceability of a contract and potential breach of contract, falling under the jurisdiction of Commercial Courts."
+  },
+  {
+    "Query": "A company, DEF Limited, is facing a legal challenge from a former employee, GHI, who claims unfair dismissal. GHI is seeking reinstatement and compensation for loss of earnings. The matter arose from a dispute over an employment contract worth less than INR 3 lakhs. Which court should handle this case?",
+    "Legal Principles": "Cases involving employment contracts with a value less than INR 3 lakhs generally fall under the jurisdiction of regular civil courts. However, if the employment contract involves specific commercial aspects, it could be considered a commercial dispute.",
+    "Relevant Sections": "The Commercial Courts Act, 2015, primarily applies to commercial disputes exceeding INR 3 lakhs. Cases involving employment contracts valued less than this threshold would likely be handled by regular civil courts unless specific commercial aspects are involved.",
+    "Context": "This is an employment dispute case involving a contract value less than INR 3 lakhs. The case involves unfair dismissal and compensation for loss of earnings, primarily falling under the jurisdiction of regular civil courts."
+  },
+  {
+    "Query": "Two parties, JKL and MNO, entered into a partnership agreement for a joint venture. They have now fallen into disagreement over the distribution of profits. The partnership agreement has a clause stating that any disputes should be settled through arbitration. Can you explain the process for resolving this dispute?",
+    "Legal Principles": "Disputes arising from arbitration agreements are governed by the Arbitration and Conciliation Act, 1996. Under this Act, parties can choose to resolve their disputes through arbitration rather than litigation.",
+    "Relevant Sections": "The Arbitration and Conciliation Act, 1996, provides the framework for arbitration proceedings. Section 34 of the Act deals with challenging arbitration awards.",
+    "Context": "This is a commercial dispute case involving a partnership agreement with an arbitration clause. The parties are seeking to resolve their dispute through arbitration, which is governed by the Arbitration and Conciliation Act, 1996."
+  },
+  {
+    "Query": "A landlord, PQR, is suing a tenant, STU, for non-payment of rent. The lease agreement includes a clause for payment of a late fee for overdue rent. The total amount in dispute, including rent and late fees, is less than INR 3 lakhs. What court would have jurisdiction in this matter?",
+    "Legal Principles": "Disputes involving landlord-tenant agreements typically fall under the jurisdiction of regular civil courts unless the case involves specific commercial elements and the value exceeds INR 3 lakhs.",
+    "Relevant Sections": "The Commercial Courts Act, 2015, focuses on commercial disputes exceeding INR 3 lakhs. Cases involving landlord-tenant agreements with values below this threshold would usually be handled by regular civil courts."
+    "Context": "This is a landlord-tenant dispute involving a lease agreement with a late fee clause. The dispute amount is less than INR 3 lakhs, making it a case for regular civil courts."
+  },
+  {
+    "Query": "A company, VWX, is planning to sue another company, YZA, for breach of a supply contract. VWX is claiming damages for non-delivery of goods and loss of profits. The contract value is significant, exceeding INR 3 lakhs. Can you provide information on the applicable laws and procedures for this case?",
+    "Legal Principles": "Cases involving breach of contract, particularly those with contract values exceeding INR 3 lakhs, are typically governed by the Commercial Courts Act, 2015. This Act outlines the jurisdiction, procedures, and timelines for handling such disputes.",
+    "Relevant Sections": "Section 15 of the Commercial Courts Act, 2015, mandates the transfer of cases involving commercial disputes exceeding INR 3 lakhs to the Commercial Division of the High Court or the Commercial Court, depending on the location.",
+    "Context": "This is a commercial dispute case involving a breach of supply contract with a value exceeding INR 3 lakhs. The case involves claims for damages and loss of profits, falling under the jurisdiction of Commercial Courts."
+  },
+  {
+    "Query": "A consumer, ABC, is filing a complaint against a company, DEF, for selling a defective product. The product cost was INR 20,000. Can you clarify the relevant laws and procedures for this consumer dispute?",
+    "Legal Principles": "Consumer disputes are governed by the Consumer Protection Act, 1986. This Act aims to protect consumers' rights and provide remedies for unfair trade practices and defective products.",
+    "Relevant Sections": "The Consumer Protection Act, 1986, defines consumer rights and provides procedures for redressal of consumer grievances. It outlines the jurisdiction of consumer forums and the processes for filing complaints.",
+    "Context": "This is a consumer dispute case involving a defective product. The case falls under the Consumer Protection Act, 1986, and the consumer has the right to seek redress for the defective product."
+  },
+  {
+    "Query": "Two parties, GHI and JKL, entered into a loan agreement, with GHI as the lender and JKL as the borrower. JKL has defaulted on the loan repayment. GHI is now seeking to recover the outstanding loan amount, which exceeds INR 3 lakhs. What legal steps can GHI take?",
+    "Legal Principles": "Cases involving loan agreements with amounts exceeding INR 3 lakhs are generally considered commercial disputes and fall under the jurisdiction of Commercial Courts. The Recovery of Debts and Bankruptcy Act, 1993, also plays a role in debt recovery.",
+    "Relevant Sections": "Section 15 of the Commercial Courts Act, 2015, mandates the transfer of cases involving commercial disputes exceeding INR 3 lakhs to the Commercial Division of the High Court or the Commercial Court. The Recovery of Debts and Bankruptcy Act, 1993, provides procedures for debt recovery."
+    "Context": "This is a commercial dispute case involving a loan agreement with an outstanding amount exceeding INR 3 lakhs. The case falls under the jurisdiction of Commercial Courts and involves debt recovery, potentially governed by the Recovery of Debts and Bankruptcy Act, 1993."
+  },
+  {
+    "Query": "A company, MNO, is facing a legal challenge from a competitor, PQR, for alleged infringement of intellectual property rights. PQR claims that MNO is using a trade secret that belongs to PQR. The matter involves a significant financial impact. Which court would have jurisdiction over this case?",
+    "Legal Principles": "Intellectual property disputes are handled by specialized courts, often within the High Court, or by dedicated intellectual property tribunals. The specific jurisdiction would depend on the type of intellectual property right involved and the relevant legislation.",
+    "Relevant Sections": "The Trademarks Act, 1999, the Copyright Act, 1957, and the Patents Act, 1970, govern different aspects of intellectual property rights. The jurisdiction for infringement disputes would be determined based on the specific legislation and the nature of the right infringed."
+    "Context": "This is an intellectual property dispute involving alleged infringement of trade secrets. The case falls under the jurisdiction of intellectual property courts or tribunals, with the specific jurisdiction depending on the nature of the intellectual property right involved."
+  },
+  {
+    "Query": "A company, STU, is being sued by a customer, VWX, for alleged negligence leading to a product defect. VWX claims that the defect caused them financial loss. The value of the claim exceeds INR 3 lakhs. Can you explain the relevant legal framework and potential defenses for STU?",
+    "Legal Principles": "Cases involving negligence and product defects are governed by the law of torts and product liability laws. The specific legal framework and potential defenses would depend on the nature of the defect, the cause of the harm, and applicable legislation.",
+    "Relevant Sections": "The Indian Contract Act, 1872, the Consumer Protection Act, 1986, and the law of torts all play a role in negligence and product liability cases. Specific legal provisions and defenses would vary depending on the circumstances of the case."
+    "Context": "This is a negligence and product liability case involving a product defect. The case involves a claim for financial loss, with the value exceeding INR 3 lakhs. The case would be governed by the law of torts and product liability laws."
+  },
+  {
+    "Query": "A company, XYZ, is facing a claim for breach of contract from another company, ABC. The breach is related to a delay in the delivery of goods. The contract value is significant, exceeding INR 3 lakhs. Can you provide guidance on the legal principles and remedies available to ABC?",
+    "Legal Principles": "Breach of contract cases are governed by the Indian Contract Act, 1872. The aggrieved party has various remedies available, including damages for loss suffered, specific performance of the contract, or injunctions to prevent further breaches.",
+    "Relevant Sections": "Section 73 of the Indian Contract Act, 1872, deals with damages for breach of contract. The Act also outlines provisions for specific performance and injunctions, which may be available depending on the nature of the breach."
+    "Context": "This is a breach of contract case involving a delay in the delivery of goods. The contract value exceeds INR 3 lakhs, and the aggrieved party is seeking remedies for the breach, potentially including damages, specific performance, or injunctions."
+  }
+]
+```

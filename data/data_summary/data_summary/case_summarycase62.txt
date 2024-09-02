@@ -1,0 +1,86 @@
+##  Extreme Coating Private Ltd. vs Jotun India Private Ltd.
+
+**1. Case Title**
+
+* **Case Name:** Extreme Coating Private Ltd. vs Jotun India Private Ltd.
+* **Court:** Delhi High Court
+* **Date of Judgment:** 3rd August 2022
+* **Citation:**  [Citation not provided in the text]
+
+**2. Background and Context**
+
+* **Brief Overview:** Jotun India Private Ltd. (respondent) filed a commercial suit (CS DJ 1070/2018) against Extreme Coating Private Ltd. (petitioner) in the Commercial Courts of Delhi. The petitioner, as the defendant in the suit, objected to the suit's maintainability under Order VII Rule 11 of the CPC, arguing that the respondent had failed to comply with Section 12-A1 of the Commercial Courts Act, which mandates pre-institution mediation before filing a suit.
+* **Key Issues:** The main issue was whether the respondent was required to have exhausted pre-institution mediation under Section 12-A1 of the Commercial Courts Act before filing the suit, given that the necessary mechanism for mediation was not in place at the time.
+
+**3. Legal Principles Involved**
+
+* **Relevant Statutes and Provisions:** 
+    * **Code of Civil Procedure, 1908 (CPC):**
+        * Order VII Rule 10 (grounds for returning a plaint)
+        * Order VII Rule 11 (rejection of plaint)
+        * Section 153 (institution of a suit)
+    * **Commercial Courts Act, 2015:**
+        * Section 12-A (Pre-institution Mediation and Settlement)
+        * Section 12-A(1) (mandatory pre-institution mediation)
+        * Section 12-A(2) (notification of authorities for mediation)
+    * **Legal Services Authorities Act, 1987**
+* **Precedents Cited:**
+    * **Ambalal Sarabhai Enterprises v. K. S. Infraspace** (2019 SCC OnLine SC 1311):  Held that provisions of the Commercial Courts Act were mandatory and required compliance.
+    * **B. Bannerjee v. Anita Pan** (1975) 1 SCC 166: Held that "institution of the suit" refers to filing a fresh pleading. 
+* **Legal Doctrines:** 
+    * **Lex non cogit ad impossibilia:**  "The law does not compel a person to do the impossible."
+
+**4. Arguments Presented**
+
+* **Petitioner’s Argument:**
+    * Argued that the respondent had violated Section 12-A1 of the Commercial Courts Act by not engaging in pre-institution mediation before filing the suit.
+    * Claimed that the suit should have been returned to the respondent for re-presentation after the mediation protocol was established.
+* **Respondent’s Argument:**
+    *  Argued that it was impossible for them to comply with Section 12-A1 at the time of filing the suit as the mediation mechanism was not yet in place. 
+    * Contended that the law cannot compel them to do the impossible.
+
+**5. Court’s Analysis and Reasoning**
+
+* **Key Findings:**
+    * The court acknowledged that the DLSA was notified as the authority for pre-institution mediation under Section 12-A(2) on July 3rd, 2018. However, the operational mechanism for mediation was not put in place until November 27th, 2018.
+    * The court held that the respondent filed the suit on September 20th, 2018, before the mediation mechanism was operational.
+    * The court interpreted Section 12-A(1) as applying only at the stage of "institution" of the suit, which occurs when the suit is filed.
+    * The court held that it was impossible for the respondent to comply with Section 12-A(1) when they filed the suit.
+    * The court applied the principle of "lex non cogit ad impossibilia," stating that the law cannot require a person to do the impossible.
+* **Interpretation of Law:**
+    * The court interpreted Section 12-A(1) to be a procedural requirement that must be met at the time of filing the suit, not at any point after.
+* **Application of Law:**
+    * The court applied the legal principle of "lex non cogit ad impossibilia" to dismiss the petitioner's argument that the suit should have been returned for re-presentation. The court reasoned that it was unreasonable to expect the respondent to comply with a provision that was not operational at the time.
+
+**6. Judgment**
+
+* **Final Decision:** The Delhi High Court upheld the lower court's orders dismissing the petitioner's application under Order VII Rule 11 and the subsequent review petition. The petition was dismissed with costs.
+* **Relief Granted:** None, except for the dismissal of the petition and the award of costs.
+* **Orders:** The petitioner was ordered to pay ₹ 11,000/- in costs to the respondent.
+
+**7. Implications**
+
+* **Impact on Law:** This case clarifies the interpretation of Section 12-A of the Commercial Courts Act, emphasizing that the requirement of pre-institution mediation applies only at the time of filing the suit. It also reaffirms the principle of "lex non cogit ad impossibilia," highlighting the impossibility of compliance as a valid defense against procedural requirements.
+* **Future Relevance:** This judgment serves as a precedent for future cases involving pre-institution mediation under the Commercial Courts Act, especially in situations where the mandated mechanism is not yet operational.
+* **Broader Context:** This case highlights the importance of ensuring that legal provisions are properly implemented and that procedural requirements are not enforced in a manner that is unreasonable or impossible to comply with.
+
+**8. Summary Points**
+
+* The petitioner challenged the respondent's suit, claiming that it was filed without complying with the mandatory pre-institution mediation requirement under Section 12-A1 of the Commercial Courts Act.
+* The court ruled that the respondent was not required to comply with Section 12-A1 at the time of filing the suit as the necessary mediation mechanism was not in place.
+* The court relied on the principle of "lex non cogit ad impossibilia" to uphold the lower court's decision and dismissed the petition with costs.
+
+**9. References**
+
+* **Commercial Courts Act, 2015**
+* **Code of Civil Procedure, 1908 (CPC)**
+* **Legal Services Authorities Act, 1987**
+* **Ambalal Sarabhai Enterprises v. K. S. Infraspace** (2019 SCC OnLine SC 1311)
+* **B. Bannerjee v. Anita Pan** (1975) 1 SCC 166 
+
+**Further Reading:**
+
+*  **Section 12-A of the Commercial Courts Act, 2015**
+* **Cases on pre-institution mediation under the Commercial Courts Act**
+
+**Note:** This summary is based on the provided judgment text. Additional information may be needed to provide a more complete analysis. 

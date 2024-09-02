@@ -1,0 +1,156 @@
+## 1. Case Title
+
+* **Case Name:** National Thermal Power Corporation vs. Meghalaya Power Distribution Corporation Ltd. & Ors.
+* **Court:** High Court of Meghalaya
+* **Date of Judgment:** 6th July 2021
+* **Citation:** AIRONLINE 2021 MEG 60
+
+## 2. Background and Context
+
+* **Brief Overview:** NTPC (National Thermal Power Corporation), a generating company, filed an appeal against an order of the Commercial Court in Meghalaya. The Commercial Court had refused to vacate an interim order that restrained Meghalaya Power Distribution Corporation Ltd. (MPDCL), a licensee, from encashing a Letter of Credit issued in favor of NTPC. The dispute arose from a Power Purchase Agreement (PPA) between NTPC and MPDCL.
+* **Key Issues:**
+    * **Maintainability of the appeal:** Whether the appeal against the order refusing to vacate the interim order was maintainable under the Arbitration & Conciliation Act, 1996 and the Commercial Courts Act, 2015.
+    * **Maintainability of the Section 9 application:** Whether MPDCL's application for interim protection under Section 9 of the Arbitration & Conciliation Act was maintainable before the Commercial Court, considering the dispute was governed by the Electricity Act, 2003.
+    * **Merits of the impugned order:** Whether the Commercial Court erred in dismissing NTPC's application under Order 39 Rule 4 CPC for vacating the interim order.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * **The Arbitration and Conciliation Act, 1996:** Sections 9 (Interim measures), 37 (Appealable orders)
+    * **The Commercial Courts Act, 2015:** Sections 8 (Bar against revision application), 13 (Appeals from decrees of Commercial Courts)
+    * **The Electricity Act, 2003:** Sections 2 (Definitions), 79 (Functions of Central Commission), 94 (Powers of Central Commission), 158 (Arbitration)
+    * **The Code of Civil Procedure, 1908:** Order 39 Rule 4 (Vacation of interim orders), Order 43 (Appeal from orders)
+
+* **Precedents Cited:**
+    * BGS SGS Soma JV vs. NHPC Limited (2020) 2 SCC 234
+    * Gujarat Urja Vikas Nigam Limited vs. Essar Power Limited (2008) 4 SCC 755
+    * Kandla Export Corporation vs. OCI Corporation (2018) 14 SCC 715
+    * Fuerst Day Lawson Ltd v. Jindal Exports Ltd. (2011) 8 SCC 333
+    * Bharat Aluminum Co. (BALCO) vs. Kaizer Aluminum (2012) 9 SCC 522
+    * T.N. Generation and Distribution Corporation vs. PPN Power Generating Company (2014) 11 SCC 53
+    * Adani Power vs. Gujarat Electricity Regulatory Commission (2019) 19 SCC 9
+    * Pranathmaka Ayurvedics Pvt. Ltd. & Ors. vs. Cocosath Health Products (2020 SCC Online Ker 5476: (2021) 1 KLJ 293)
+    * Sigmarq Technologies Pvt. Ltd. &Ors. vs. Manugrah India Limited & Ors. 2017 SCC Online Bom9191: (2018) 1 Bom CR 202
+    * Antrix Corporation vs. Devas Multimedia (2018 (6) RAJ 235)
+    * Amar Nath & Ors. vs. State of Haryana, AIR 1977 SC 2185
+    * Central Bank of India vs. Shri Gokal Chand, AIR 1967 SC 799
+    * Shah Babulal Khimji vs. Jayaben D, AIR 1981 SC 1786
+    * Hubtown Limited vs. IDBI Trusteeship Service Limited and Ors. 2016 SCC Online Bom 9019
+    * ICCI Bank Limited vs. IVRCL Ltd. & Ors. AIR 2015 AP 179
+    * Perin Hoshang Davierwalla vs. Kobad Dorabji Davierwalla, decided on 7th May 2014 (MANU/AP/0078/2011)
+    * Sati Oil Udyog Ltd vs. Avanti Projects & Infrastructure; 2010 (1) GLT 141
+    * Arvind constructions Co. vs. Kalinga Mining Corporation, 2007 (6) SCC 798
+    * Sri Krishen & Anr. vs. Radha Kishen, AIR 1952 All 652 (DB)
+    * The East India Hotels Ltd. vs. Jyoti (P) Ltd, 1996 (38) DRJ 73 (DB)
+    * Judgment of the Delhi High Court dated 13 July, 2020, in EFA(OS)(COMM) 4/2020, Prasar Bharati vs. M/s Stracon India Limited
+    * J. KumarDasan Nair vs. IricSohan (2009) 12 SCC 175
+    * P.K. Palanisami vs, N. Arumugham (2009) 9 SCC 173
+    * Challamane Huchha vs. M.R. Tirumala, (2004) 1 SCC 453
+    * PTC India Limited vs. Jaypee Karchan Hydro Corporation Limited
+    * Haldiram Manufacturing vs M/S DLF Commercial Complexes, 2012 SCC Online Del 2139
+    * Symphony Services Corporation Pvt. Ltd. vs. Sudip Bhattacharjee 2007 SCC Online Kar 368
+    * Benaulim Cable TV Network v. Blits Global Technologies Pvt. Ltd. in SLP (C) No. 2586 of 2019 order dated 14.02.2020.
+
+* **Legal Doctrines:**
+    * **Jurisdictional challenge:** Whether the court had the authority to hear the case.
+    * **Interplay of statutes:** How different laws (Electricity Act, Arbitration Act, Commercial Courts Act) interact and apply to the specific situation.
+    * **Interlocutory orders:** Whether the order appealed against was an interim or final order.
+    * **Statutory arbitration:** Arbitration conducted under a specific law, like the Electricity Act.
+    * **Suppression of facts:** Whether a party intentionally concealed relevant information.
+    * **Exhaustion of remedies:** Whether the appropriate legal procedures have been followed before seeking court intervention.
+
+## 4. Arguments Presented
+
+* **Appellant's Argument (NTPC):**
+    * **Maintainability of the appeal:** 
+        * The appeal against the order refusing to vacate the interim order was maintainable under Section 37(1)(b) of the Arbitration Act as it dealt with the grant of interim measures. 
+        * The appeal was not a civil revision application barred by Section 8 of the Commercial Courts Act. 
+        * The impugned order was not interlocutory, but substantially affected NTPC's rights. 
+        * The Commercial Courts Act only provided the forum for the appeal, not the substantive right, as per BGS SGS Soma JV judgment.
+    * **Maintainability of the Section 9 application:** 
+        * The dispute between NTPC and MPDCL should have been adjudicated by the Central Electricity Regulatory Commission (CERC) under the Electricity Act.
+        * The Section 9 application was premature as the CERC could either adjudicate the dispute itself or refer it to arbitration.
+        * The respondents should have sought interim relief under Section 94(2) of the Electricity Act.
+    * **Merits of the impugned order:**
+        * The Commercial Court misinterpreted the Power Purchase Agreement (PPA) and did not properly apply the judgment in Gujarat Urja Vikas Nigam Limited.
+        * The Commercial Court did not properly consider the arguments for vacating the interim order, ignoring the substantive portion of Order 39 Rule 4 CPC.
+        * The respondents had not sought arbitration or expressed a clear intention to do so, which was a pre-condition for invoking Section 9 of the Arbitration Act.
+
+* **Respondent's Argument (MPDCL):**
+    * **Maintainability of the appeal:**
+        * The appeal was not maintainable under Section 37(1)(b) of the Arbitration Act as the impugned order was an interlocutory order, not a final order granting or refusing interim measures.
+        * Section 8 of the Commercial Courts Act barred any petition against an interlocutory order.
+        * The appeal was barred under Section 13(1A) of the Commercial Courts Act, which was subject to the provisions of Section 37 of the Arbitration Act.
+    * **Maintainability of the Section 9 application:**
+        * The dispute was governed by the Electricity Act, which allowed for statutory arbitration.
+        * Clause 7.2.1 of the PPA provided for arbitration in terms of the Electricity Act, making Section 9 of the Arbitration Act applicable.
+        * Section 9 was a special provision applicable to disputes governed by the Electricity Act, and no such provision existed in the Electricity Act for interim relief.
+    * **Merits of the impugned order:**
+        * There was no suppression of facts, as MPDCL had disclosed the arbitration provision in the Electricity Act.
+        * The Commercial Court rightly refused to vacate the interim order, as MPDCL had a prima facie case on merits and was entitled to interim protection.
+
+## 5. Court's Analysis and Reasoning
+
+* **Key Findings:**
+    * The appeal against the order refusing to vacate the interim order was not maintainable under the Arbitration Act and the Commercial Courts Act.
+    * The order refusing to vacate the interim order was interlocutory and did not amount to a final order granting or refusing interim measures under Section 9 of the Arbitration Act.
+    * There was no independent right of appeal under Section 13(1A) of the Commercial Courts Act, as the appeal was barred by Section 37 of the Arbitration Act.
+    * Section 9 of the Arbitration Act was applicable to disputes governed by the Electricity Act, and therefore, the Section 9 application was maintainable before the Commercial Court.
+
+* **Interpretation of Law:**
+    * The court interpreted the relevant provisions of the Arbitration Act, Commercial Courts Act, and Electricity Act to determine the scope of appeal and the applicability of Section 9 of the Arbitration Act.
+    * The court relied on the BGS SGS Soma JV judgment, which clarified that the Commercial Courts Act only provided the forum for appeals, while the substantive right to appeal was governed by the Arbitration Act.
+    * The court analyzed the interplay of these statutes to determine the proper legal framework for the dispute.
+    * The court emphasized that the Arbitration Act was a complete code by itself, and appeals not specifically allowed under Section 37 of the Act were not permissible.
+    * The court further emphasized that the Electricity Act allowed for statutory arbitration, which encompassed the provisions of Section 9 of the Arbitration Act.
+
+* **Application of Law:**
+    * The court applied the legal principles to the facts of the case, finding that the order appealed against was an interlocutory order, and therefore, the appeal was not maintainable.
+    * The court concluded that the Commercial Court had jurisdiction to entertain MPDCL's application under Section 9 of the Arbitration Act, as the dispute was governed by the Electricity Act.
+    * The court dismissed the appeal on the grounds of maintainability without considering the merits of the case.
+
+## 6. Judgment
+
+* **Final Decision:** The appeal was dismissed.
+* **Relief Granted:** No relief was granted to the appellant.
+* **Orders:**
+    * The appeal was dismissed.
+    * The Commercial Court was directed to hear the Section 9 application in its entirety as expeditiously as possible.
+
+## 7. Implications
+
+* **Impact on Law:**
+    * The judgment reaffirms the importance of the BGS SGS Soma JV judgment, emphasizing that the Commercial Courts Act does not provide an independent right of appeal. 
+    * It clarifies that appeals in arbitration matters are governed by the Arbitration Act, specifically Section 37, and only those orders explicitly listed in Section 37 are appealable.
+    * It further clarifies that the Electricity Act allows for statutory arbitration, and therefore, Section 9 of the Arbitration Act applies to disputes arising under the Electricity Act.
+
+* **Future Relevance:**
+    * The case sets a precedent for determining the maintainability of appeals in arbitration matters governed by the Electricity Act.
+    * It provides guidance on the interpretation of the Commercial Courts Act and the Arbitration Act in relation to interlocutory orders and the scope of appeals.
+
+* **Broader Context:**
+    * The case highlights the importance of clarity in the legal framework governing disputes in the power sector. 
+    * It emphasizes the need for careful consideration of the applicable laws and procedures before seeking court intervention in such disputes.
+
+## 8. Summary Points
+
+* The appeal against the order refusing to vacate the interim order was dismissed as it was not maintainable under the Arbitration Act and the Commercial Courts Act.
+* The court found that the order appealed against was interlocutory, not a final order granting or refusing interim measures.
+* The Electricity Act allows for statutory arbitration, making Section 9 of the Arbitration Act applicable to disputes governed by the Electricity Act.
+* The Commercial Court had jurisdiction to entertain the Section 9 application.
+* The appeal was dismissed on the grounds of maintainability, without reaching the merits of the case.
+
+## 9. References
+
+* **Citations:**
+    * The Arbitration and Conciliation Act, 1996
+    * The Commercial Courts Act, 2015
+    * The Electricity Act, 2003
+    * The Code of Civil Procedure, 1908
+    * All cited judgments mentioned in the "Precedents Cited" section.
+
+* **Further Reading:**
+    * BGS SGS Soma JV vs. NHPC Limited (2020) 2 SCC 234
+    * Kandla Export Corporation vs. OCI Corporation (2018) 14 SCC 715
+    * Gujarat Urja Vikas Nigam Limited vs. Essar Power Limited (2008) 4 SCC 755
+

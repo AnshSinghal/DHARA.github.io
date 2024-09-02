@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A company is suing another company for breach of contract. The defendant argues that the court lacks jurisdiction because the cause of action arose in a different state. The plaintiff claims that it has a branch office in the defendant's state, which gives the court jurisdiction. What are the relevant legal principles and sections to determine if the court has jurisdiction?",
+    "Legal Principles": "The court's jurisdiction depends on whether the cause of action arises within the court's territory.  The presence of a branch office may establish jurisdiction, but this must be determined on a case-by-case basis.",
+    "Relevant Sections": "Section 9-A of the Code of Civil Procedure, 1908, allows courts to rule on jurisdictional issues at a preliminary stage. The presence of a branch office is considered in determining if a cause of action arises within the court's jurisdiction.",
+    "Context": "This query addresses a common jurisdictional issue in contract disputes, especially when parties operate in multiple states. The legal principles and sections are applicable to determining the proper venue for litigation."
+  },
+  {
+    "Query": "A company is appealing an order granting a preliminary injunction. The defendant argues that the order is not appealable under the Commercial Courts Act, 2015. The plaintiff claims that the order is appealable because it has the effect of a judgment. What are the relevant legal principles and sections to determine if the order is appealable?",
+    "Legal Principles": "The Commercial Courts Act, 2015, governs appeals in commercial disputes. Appeals are generally limited to decrees and certain specified orders. Whether an order has the effect of a judgment is a crucial factor in determining appealability.",
+    "Relevant Sections": "Section 13 of the Commercial Courts Act, 2015, outlines the appealable orders. The proviso to Section 13(1) lists certain orders that are specifically appealable. Section 13(2) emphasizes that appeals must comply with the provisions of the Act.",
+    "Context": "This query addresses a common issue in commercial litigation regarding appealability of interlocutory orders. The legal principles and sections are applicable to understanding the limitations and exceptions to the right of appeal."
+  },
+  {
+    "Query": "Two partners in a business are disputing the terms of their partnership agreement. One partner files a suit for dissolution of the partnership and seeks an interim injunction to prevent the other partner from accessing business assets. The defendant argues that the court lacks jurisdiction because the partnership agreement specifies arbitration as the dispute resolution mechanism.  What are the relevant legal principles and sections to determine if the court has jurisdiction?",
+    "Legal Principles": "Courts may have jurisdiction to hear a partnership dispute even if the partnership agreement provides for arbitration. The court may need to determine if the arbitration clause is binding and if the parties have waived their right to arbitration. ",
+    "Relevant Sections": "Section 10 of the Commercial Courts Act, 2015, addresses jurisdiction in arbitration matters. The Arbitration and Conciliation Act, 1996, governs arbitration agreements and proceedings. The court may need to consider the specific provisions of the partnership agreement and applicable arbitration laws.",
+    "Context": "This query explores the interplay of partnership law and arbitration. The legal principles and sections are applicable to understanding when a court can intervene in a dispute governed by an arbitration agreement."
+  },
+  {
+    "Query": "A company files a suit for specific performance of a contract. The defendant raises a preliminary objection arguing that the contract is void for lack of consideration. The court overrules the objection and allows the suit to proceed. The defendant appeals this order. Is the order appealable under the Commercial Courts Act, 2015?",
+    "Legal Principles": "Appeals under the Commercial Courts Act, 2015, are generally limited to decisions that have the effect of a judgment, i.e., conclusively determining the rights of the parties. An order overruling a preliminary objection may be appealable if it has a significant impact on the case.",
+    "Relevant Sections": "Section 13 of the Commercial Courts Act, 2015, outlines the appealable orders.  While the Act does not specifically mention preliminary objections, the courts may interpret the 'decision' to include orders that have a final effect on the litigation.",
+    "Context": "This query examines the appealability of orders on preliminary objections in commercial litigation. The legal principles and sections are applicable to understanding the scope of appealable decisions under the Act."
+  },
+  {
+    "Query": "A company seeks to enforce an arbitration award in a Commercial Court. The defendant argues that the award is unenforceable because the arbitrator exceeded his authority. The court issues an order upholding the award. The defendant seeks to appeal this order. Is the order appealable under the Commercial Courts Act, 2015?",
+    "Legal Principles": "Appeals under the Commercial Courts Act, 2015, are generally limited to decisions that have the effect of a judgment, i.e., conclusively determining the rights of the parties. Orders upholding an arbitration award may be appealable if they involve significant legal issues.",
+    "Relevant Sections": "Section 13 of the Commercial Courts Act, 2015, outlines the appealable orders.  Section 37 of the Arbitration and Conciliation Act, 1996, provides for appeals against decisions on arbitration awards. The court may need to consider both the Commercial Courts Act and the Arbitration Act to determine appealability.",
+    "Context": "This query focuses on the appealability of orders related to enforcing arbitration awards. The legal principles and sections are applicable to understanding the procedures and limitations on challenging arbitration awards."
+  },
+  {
+    "Query": "Two companies are involved in a dispute over a construction contract. One company files a suit for breach of contract, seeking damages. The defendant argues that the court lacks jurisdiction because the contract contains a forum selection clause specifying that disputes must be resolved in a different jurisdiction. The plaintiff argues that the forum selection clause is unenforceable.  What are the relevant legal principles and sections to determine if the court has jurisdiction?",
+    "Legal Principles": "Forum selection clauses in contracts are generally enforced unless there are compelling reasons to set them aside.  Courts may consider factors such as the parties' intent, the fairness of the chosen forum, and the public interest.",
+    "Relevant Sections": "Section 16 of the Commercial Courts Act, 2015, provides for the application of the Code of Civil Procedure, 1908, to commercial disputes. The Code of Civil Procedure contains provisions on forum selection clauses. The court may also need to consider the specific provisions of the construction contract.",
+    "Context": "This query deals with forum selection clauses in commercial contracts, particularly in the context of construction disputes. The legal principles and sections are applicable to understanding the enforceability of forum selection clauses."
+  },
+  {
+    "Query": "A company files a suit for trademark infringement against another company. The defendant claims that the plaintiff's trademark is invalid and seeks a declaration of invalidity. The court issues an order dismissing the defendant's counterclaim for invalidity. The defendant appeals this order.  Is the order appealable under the Commercial Courts Act, 2015?",
+    "Legal Principles": "Appeals under the Commercial Courts Act, 2015, are generally limited to decisions that have the effect of a judgment, i.e., conclusively determining the rights of the parties. An order dismissing a counterclaim may be appealable if it has a significant impact on the case.",
+    "Relevant Sections": "Section 13 of the Commercial Courts Act, 2015, outlines the appealable orders. The court may need to consider the nature of the counterclaim and the effect of the dismissal on the defendant's rights to determine if the order is appealable.",
+    "Context": "This query involves a trademark infringement dispute and the appealability of an order dismissing a counterclaim. The legal principles and sections are applicable to understanding the scope of appealable decisions in intellectual property litigation."
+  },
+  {
+    "Query": "A company is sued for breach of contract in a Commercial Court. The defendant seeks to raise a defense of duress. The court issues an order striking the defense of duress from the defendant's pleadings. The defendant appeals this order. Is the order appealable under the Commercial Courts Act, 2015?",
+    "Legal Principles": "Appeals under the Commercial Courts Act, 2015, are generally limited to decisions that have the effect of a judgment, i.e., conclusively determining the rights of the parties. An order striking a defense may be appealable if it significantly impacts the defendant's ability to present its case.",
+    "Relevant Sections": "Section 13 of the Commercial Courts Act, 2015, outlines the appealable orders. The court may need to consider the nature of the defense and the effect of the striking order on the defendant's ability to defend the suit to determine if the order is appealable.",
+    "Context": "This query deals with a breach of contract dispute and the appealability of an order striking a defense from the defendant's pleadings. The legal principles and sections are applicable to understanding the scope of appealable decisions in contract litigation."
+  },
+  {
+    "Query": "A company seeks to enforce a foreign arbitration award in a Commercial Court in India. The defendant argues that the award is unenforceable because it violates Indian public policy. The court issues an order refusing to enforce the award. The plaintiff seeks to appeal this order. Is the order appealable under the Commercial Courts Act, 2015?",
+    "Legal Principles": "Appeals under the Commercial Courts Act, 2015, are generally limited to decisions that have the effect of a judgment, i.e., conclusively determining the rights of the parties. Orders refusing to enforce foreign arbitration awards may be appealable if they involve significant legal issues.",
+    "Relevant Sections": "Section 13 of the Commercial Courts Act, 2015, outlines the appealable orders.  The court may also need to consider the provisions of the New York Convention on the Recognition and Enforcement of Foreign Arbitral Awards, which governs the enforcement of foreign arbitration awards in India.",
+    "Context": "This query explores the appealability of orders related to the enforcement of foreign arbitration awards in India. The legal principles and sections are applicable to understanding the procedures and limitations on challenging foreign arbitration awards."
+  },
+  {
+    "Query": "A company is involved in a dispute with a government agency over a procurement contract. The company files a suit in a Commercial Court seeking to challenge the agency's decision to award the contract to another company. The defendant argues that the court lacks jurisdiction because the dispute involves a public contract. What are the relevant legal principles and sections to determine if the court has jurisdiction?",
+    "Legal Principles": "Commercial Courts have jurisdiction over commercial disputes, including those involving government agencies, unless there are specific statutory exclusions. The court may need to consider the nature of the contract and any applicable public procurement laws.",
+    "Relevant Sections": "Section 6 of the Commercial Courts Act, 2015, defines the jurisdiction of Commercial Courts. The court may also need to consider the provisions of the Public Procurement Act, 2004, or other relevant public procurement regulations.",
+    "Context": "This query addresses the jurisdictional issue in disputes involving public procurement contracts. The legal principles and sections are applicable to understanding when a Commercial Court can hear disputes involving government agencies."
+  }
+]
+```

@@ -1,0 +1,82 @@
+##  1. Case Title
+
+* **Case Name:** M/S. D. M. Corporation Pvt. Ltd. vs. The State of Maharashtra
+* **Court:** Bombay High Court
+* **Date of Judgment:** 5th April, 2018
+* **Citation:**  2018 (4) Mh.L.J. 544
+
+##  2. Background and Context
+
+* **Brief Overview:** M/S. D. M. Corporation Pvt. Ltd. (Petitioner), a successful bidder for the 'Tarali Hydro Electric Project', entered into a Hydro Project Development Agreement (HPD Agreement) with the State of Maharashtra (Respondent) in 2011. The Respondent alleged that the Petitioner failed to fulfill its obligations under the Agreement and issued a notice of termination. The Petitioner filed an application for interim injunction under Section 9 of the Arbitration and Conciliation Act, 1996, before the Principal District Judge, Satara, to prevent the termination of the Agreement. The Respondent then applied to transfer the Arbitration Application to the Commercial Court constituted under the Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015 (Commercial Courts Act). The Principal District Judge granted the transfer application, which the Petitioner challenged through this Writ Petition.
+* **Key Issues:**
+    * Whether the dispute between the parties fell under the ambit of a 'commercial dispute' as defined by the Commercial Courts Act.
+    * Whether the subject matter of the arbitration exceeded the 'specified value' as per the Commercial Courts Act.
+    * Whether the application for interim injunction under Section 9 of the Arbitration Act fell under the exclusive jurisdiction of the Commercial Court.
+
+##  3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    *  Arbitration and Conciliation Act, 1996 (Arbitration Act)
+    *  Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015 (Commercial Courts Act)
+* **Precedents Cited:** No specific case precedents were cited in the judgment.
+* **Legal Doctrines:**
+    * **Jurisdiction of Courts:** The court's power to hear and decide a case based on the subject matter, value, and nature of the dispute.
+    * **Interpretation of Statutes:** The process of understanding and applying the meaning of legal provisions.
+    * **Overriding Effect of Legislation:**  The principle that certain laws take precedence over others in case of conflict.
+
+##  4. Arguments Presented
+
+* **Petitioner's Argument:** 
+    * The Petitioner contended that the relief sought in the Arbitration Application was simply an interim injunction and not a specific claim for monetary relief. 
+    *  The Petitioner argued that the dispute did not meet the criteria of a 'commercial dispute' of a 'specified value' as per the Commercial Courts Act.
+    *  Therefore, the Petitioner argued that the District Court had jurisdiction to hear the Arbitration Application and the transfer to the Commercial Court was unwarranted.
+* **Respondent's Argument:**
+    * The Respondents argued that the dispute arose from the HPD Agreement, which was a commercial transaction worth more than Rs. 1 crore.
+    * The Respondents contended that the dispute fell under the definition of a 'commercial dispute' as per the Commercial Courts Act.
+    *  Therefore, the Respondents argued that the Commercial Court had exclusive jurisdiction over the Arbitration Application under Section 10(3) of the Commercial Courts Act.
+
+##  5. Court's Analysis and Reasoning
+
+* **Key Findings:**
+    * The Court recognized that the dispute involved an arbitration agreement and the subject matter of the arbitration was valued above Rs. 1 crore.
+    * The Court found that the subject matter of the dispute constituted a 'commercial dispute' as defined by the Commercial Courts Act.
+    * The Court emphasized that the definition of 'specified value' in the Act included any type of relief sought, including interim injunctions.
+* **Interpretation of Law:**
+    * The Court carefully interpreted Sections 2(i), 10, 12, and 15 of the Commercial Courts Act. 
+    * The Court highlighted the overriding effect of the Commercial Courts Act as per Section 21.
+    * The Court concluded that the wording of Section 10(3) of the Commercial Courts Act encompassed all applications and appeals arising out of arbitration under the Arbitration Act, including interim injunctions.
+* **Application of Law:**
+    * The Court applied the law to the facts of the case, concluding that the dispute involved a commercial dispute exceeding the specified value of Rs. 1 crore. 
+    * Based on the statutory interpretation, the Court found that the Commercial Court had exclusive jurisdiction to hear the Arbitration Application.
+
+##  6. Judgment
+
+* **Final Decision:** The Bombay High Court dismissed the Writ Petition filed by the Petitioner.
+* **Relief Granted:** No relief was granted to the Petitioner.
+* **Orders:** The Court upheld the order of the Principal District Judge, Satara, transferring the Arbitration Application to the Commercial Court. 
+
+##  7. Implications
+
+* **Impact on Law:** The judgment clarifies the scope and application of the Commercial Courts Act, particularly regarding the jurisdiction of Commercial Courts in arbitration matters involving 'specified value' commercial disputes. It emphasized that the Act includes applications for interim injunctions under Section 9 of the Arbitration Act within its purview.
+* **Future Relevance:** The judgment provides a significant precedent for future cases involving arbitration disputes in commercial transactions exceeding the specified value. It reiterates that Commercial Courts have exclusive jurisdiction in such matters.
+* **Broader Context:** The judgment contributes to the efficient and specialized handling of commercial disputes in India. The Commercial Courts Act aims to streamline dispute resolution processes and ensure a more efficient and effective judicial system for commercial matters.
+
+##  8. Summary Points
+
+* The dispute involved an arbitration agreement for a commercial project valued above Rs. 1 crore.
+* The Court found that the dispute constituted a 'commercial dispute' under the Commercial Courts Act.
+* The Court upheld the transfer of the Arbitration Application to the Commercial Court, emphasizing the Act's exclusive jurisdiction in such cases.
+
+##  9. References
+
+* **Citations:**
+    * **Arbitration and Conciliation Act, 1996**
+    * **Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015**
+
+* **Further Reading:**
+    * **Commercial Courts Act, 2015**
+    * **Arbitration and Conciliation Act, 1996**
+    * **Indian Contract Act, 1872** (for understanding contract law principles)
+    * **Cases related to jurisdiction of Commercial Courts**
+
+This detailed summary provides a comprehensive understanding of the case, highlighting the facts, arguments, legal principles, court's reasoning, judgment, and potential implications. 

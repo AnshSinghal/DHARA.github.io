@@ -1,0 +1,125 @@
+## 1. Case Title
+
+* **Case Name:** M/s Fedora Sea Foods Pvt. Ltd vs Apple Bio Technologies And Another
+* **Court:** Andhra Pradesh High Court - Amravati
+* **Date of Judgment:** 12 August, 2024
+* **Citation:** Not available in the provided text.
+
+## 2. Background and Context
+
+* **Brief Overview:** M/s Fedora Sea Foods Pvt. Ltd. (Fedora) filed a suit seeking recovery of Rs. 9,55,74,429/- from Apple Bio Technologies (Apple) for the purchase of Aqua feed on credit. Fedora obtained an ex parte order of conditional attachment before judgment. Apple challenged the jurisdiction of the Civil Court, claiming the dispute was commercial and should be tried by the Commercial Court at Vijayawada. Fedora then filed a transfer petition seeking to transfer the case to the Commercial Court at Vijayawada, while Apple also filed a revision petition seeking to reject the plaint.
+* **Key Issues:**
+    1. Whether Fedora's suit, filed in a Civil Court after the establishment of a Commercial Court, could be transferred to the Commercial Court under Section 24(5) of the Code of Civil Procedure (CPC).
+    2. Whether the suit was maintainable without complying with the pre-institution mediation requirement under Section 12-A of the Commercial Courts Act.
+    3. Whether the suit was liable to be rejected even without a formal application for rejection of the plaint, considering the Civil Court's lack of inherent jurisdiction over the commercial dispute.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * **Code of Civil Procedure (CPC):** Section 24 (5)
+    * **Commercial Courts Act:** Section 12-A, Section 15, Section 16, Section 21
+    * **Constitution of India:** Article 227
+    * **Order VII Rule 11:** Rejection of plaint
+* **Precedents Cited:**
+    * Thirmala Reddy Mahalakshmamma v. Mulkluri Murlidhar Rao
+    * Madhusudan Das Agarwal v. Banaras Hindu University
+    * Jalagam Sitarama Rao v. The State of A.P.
+    * Krishna Kumar Damani v. Ramnarain Agarwal & Other
+    * C.K.Surendran v. Kunhimoosa
+    * Virudhunagar Hindu Nadargal Dharma Paribalana Sabai & Others v. Tuticorin Educational Society
+    * Namita Gupta v. Suraj Holdings Limited
+    * V.Rajeshwar Rao(Dr.) v. M.Yadhagiri Reddy
+    * Bank of India CBD Belapur Branch v. U.A.N.Raju
+    * M.Narayana Chowdary v. Meharbaba Plots Owners Welfare Association
+    * Patil Automation Private Limited & Others v. Rakheja Engineers Private Limited
+    * Muthulakshmi v. Vijitha
+    * Harshad Chiman Lal Modi v. D.L.F. Universal Limited
+    * Bhojraj Srinivas v. Bhojraj Divya
+    * A.P.Industrial Infrastructure Corporation (APIIC) Vijayawada v. Meghavaram Power Pvt.Ltd., Hyderabad
+    * Bank of Rajashthan Ltd., v. VCK Shares & Stock Broking Services Ltd.
+    * Vidya Shanker Tiwari v. Surya Kant Tiwari
+    * Raja Soap Factory & Others v. S.P.Shantharaj & Others
+    * Ambalal Sarabhai Enterprises Limited v. K.S.Infraspace LLP
+    * Neha Arun Jugadar v. Kumari Palak Diwanji
+    * Gulam IsmaIl v. Mirza Ibrahim Ali Baig
+    * Life Insurance Corporation of India v. Nandini J. Shah & Ors.
+    * United Bank of India, Calcutta v. Abhijith Tea Company (P) Limited
+    * Indian Bank v. ABS Marine Products (P) Limited
+    * State Bank of India v. Ranjan Chemicals Ltd.
+    * Kamadhenu Enterprises, Secunderabad v. Mrs.Zara Ahmad
+* **Legal Doctrines:**
+    * Jurisdiction of Courts
+    * Transfer of Suits
+    * Rejection of Plaint
+    * Special Enactments
+    * Interpretation of Statutes
+    * Application of Law to Facts
+
+## 4. Arguments Presented
+
+* **Plaintiff’s Argument (Fedora):**
+    * The suit involved a commercial dispute, but Fedora was unaware of the establishment of the Commercial Court at Vijayawada during the Covid period.
+    * Section 24(5) of CPC empowers the High Court to transfer suits from a Court lacking jurisdiction to a Court having jurisdiction.
+    * The Commercial Court is a Court subordinate to the High Court, making the invocation of Section 24(5) valid.
+    * The specific provisions of the Commercial Courts Act regarding transfer of pending cases (Section 15) did not apply to suits instituted after the Act's commencement.
+    * The pre-institution mediation requirement (Section 12-A) was not applicable as urgent orders were required.
+    * The respondents had already filed a rejection of plaint application under Order VII, Rule 11, which they later withdrew, making the current revision petition under Article 227 of the Constitution unsustainable.
+    * The analogy drawn by the respondents between Special Courts under the Land Grabbing Act and the Commercial Court was not appropriate.
+    * The jurisdiction of the Civil Court was not entirely ousted, and it could entertain cases of a specified value, making the argument of inherent lack of jurisdiction invalid.
+* **Defendant’s Argument (Apple):**
+    * The suit was filed in the Civil Court after the Commercial Court was established, clearly demonstrating a lack of jurisdiction.
+    * The specific procedure laid out in Section 15 of the Commercial Courts Act for transferring pending cases should be followed, making the transfer petition under Section 24 of CPC invalid.
+    * The Commercial Court, being a Special Court, could not be considered a Civil Court and was not amenable to the provisions of Section 24 of CPC.
+    * The pre-institution mediation requirement under Section 12-A of the Commercial Courts Act was mandatory and the suit should be rejected for non-compliance.
+    * The Civil Court lacked inherent jurisdiction to entertain the suit, making it liable to be rejected even without a formal application under Order VII Rule 11 or suo-motu under Article 227.
+    * The petitioner's plea of ignorance regarding the establishment of the Commercial Court was not acceptable, as ignorance of law is not an excuse.
+    * The plaint lacked specific pleading regarding the commercial nature of the transactions, suggesting an attempt to circumvent jurisdiction.
+    * The decision of the Supreme Court in Patil Automation Private Limited supported the rejection of the plaint based on lack of jurisdiction.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The Commercial Court at Vijayawada was established before the suit was instituted.
+    * The petitioner's claim of unawareness regarding the Commercial Court during the Covid period was considered but not deemed sufficient to excuse the error.
+    * The District Court at Nellore, despite the commercial nature of the dispute, had not rejected the plaint but had proceeded with the case, including granting an order of attachment before judgment.
+* **Interpretation of Law:**
+    * Section 24 (5) of CPC was interpreted to allow the High Court to transfer suits from a Court lacking jurisdiction to a Court having jurisdiction, even if the case involves a commercial dispute governed by the Commercial Courts Act.
+    * Section 15 of the Commercial Courts Act was interpreted as specifically addressing the transfer of pending cases and not applicable to suits instituted after the Act's commencement.
+    * Section 12-A of the Commercial Courts Act, regarding pre-institution mediation, was interpreted as not being mandatory for suits instituted before the effective date declared by the Supreme Court (20.08.2022).
+    * The powers under Article 227 of the Constitution were recognized as a sparingly exercised supervisory jurisdiction, particularly when specific remedies under the CPC were available.
+* **Application of Law:**
+    * The court applied Section 24(5) of CPC to transfer the suit from the Civil Court to the Commercial Court, considering the inherent lack of jurisdiction of the former.
+    * The court considered the specific provisions of the Commercial Courts Act, but ultimately held that they did not bar the application of Section 24(5) of CPC in this case.
+    * The court rejected the respondents' arguments regarding the mandatory nature of pre-institution mediation, based on the Supreme Court's declaration on the effective date of the requirement.
+    * The court declined to exercise its powers under Article 227 of the Constitution to reject the plaint, considering the availability of specific remedies under the CPC and the lack of exceptional circumstances.
+
+## 6. Judgment
+
+* **Final Decision:** The Transfer Petition was allowed, and the Civil Revision Petition was dismissed.
+* **Relief Granted:** The suit was transferred from the Court of the VIII Additional District Judge, Nellore, to the Special Court for Trial of Commercial Disputes, Ibrahimpatnam, Vijayawada.
+* **Orders:** The petitioner was ordered to comply with the requirements of the Commercial Courts Act with respect to the plaint. The respondents were given the right to move an appropriate application for rejection of the plaint if necessary.
+
+## 7. Implications
+
+* **Impact on Law:** The judgment reaffirms the applicability of Section 24(5) of CPC for transferring suits from a Court lacking jurisdiction to a Court having jurisdiction, even in cases involving commercial disputes governed by the Commercial Courts Act.
+* **Future Relevance:** This case provides guidance on the transfer of suits involving commercial disputes, particularly when a Commercial Court is established after the suit is instituted in a Civil Court.
+* **Broader Context:** The judgment emphasizes the importance of adhering to the provisions of special enactments like the Commercial Courts Act but acknowledges the procedural flexibility provided by the CPC. 
+
+## 8. Summary Points
+
+* Fedora's suit seeking recovery of Rs. 9,55,74,429/- from Apple was initially filed in the Civil Court at Nellore, despite the commercial nature of the dispute.
+* The High Court, relying on Section 24(5) of CPC, transferred the case to the Special Court for Trial of Commercial Disputes, Vijayawada, finding that the Civil Court lacked jurisdiction.
+* The court rejected Apple's arguments regarding the mandatory nature of pre-institution mediation and the inherent lack of jurisdiction of the Civil Court.
+* The judgment clarifies the applicability of Section 24(5) of CPC in cases involving commercial disputes, despite the existence of specific provisions in the Commercial Courts Act.
+
+## 9. References
+
+* **Citations:** Refer to the "Precedents Cited" section for a complete list of citations.
+* **Further Reading:**
+    * Commercial Courts Act, 2015
+    * Code of Civil Procedure, 1908
+    * Constitution of India
+    * Law Commission of India Reports
+    * Relevant case law on jurisdiction of Courts, transfer of suits, and rejection of plaints.
+
+This summary provides a detailed overview of the case "M/s Fedora Sea Foods Pvt. Ltd vs Apple Bio Technologies And Another", including the background, legal principles, arguments, court's analysis, judgment, and implications. It follows the requested template and incorporates relevant legal information from the provided text. 

@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A company has been awarded an arbitration award of Rs. 100 crore against the government. The government agency responsible for the project has filed an application to set aside the award but has missed the 3-month limitation period by 15 days. They argue that internal bureaucratic delays and administrative procedures were the reasons for the delay. Can the court condone the delay, and what factors should be considered?",
+    "Legal Principles": "Condonation of delay under Section 34(3) of the Arbitration and Conciliation Act, 1996; Sufficient Cause; Explanation vs. Excuse; Stricter Standards for State Instrumentalities; Balancing Public Interest and Meritorious Claims; Judicial Discretion; Day-to-day Explanation",
+    "Relevant Sections": "Section 34(3) of the Arbitration and Conciliation Act, 1996: \"The Court may entertain the application within a further period of 30 days, but not thereafter, if it is satisfied that the applicant was prevented by sufficient cause from making the application within the period prescribed in sub-section (1).\"",
+    "Context": "Jurisdiction: India; Case Type: Arbitration Appeal; Issue: Condonation of Delay in Setting Aside Arbitral Award"
+  },
+  {
+    "Query": "A government agency is appealing a decision by a lower court that dismissed their application to set aside an arbitral award. The agency argues that the lower court erred in finding that the delay in filing the application was not sufficiently explained. The delay was caused by internal procedures and obtaining necessary approvals. How does the court determine if the agency provided sufficient cause for the delay?",
+    "Legal Principles": "Sufficient Cause; Explanation vs. Excuse; Bureaucratic Delays; Administrative Procedures; Condonation of Delay; Judicial Discretion; Balancing Public Interest and Technical Considerations; Day-to-day Explanation",
+    "Relevant Sections": "Section 34(3) of the Arbitration and Conciliation Act, 1996: \"The Court may entertain the application within a further period of 30 days, but not thereafter, if it is satisfied that the applicant was prevented by sufficient cause from making the application within the period prescribed in sub-section (1).\"",
+    "Context": "Jurisdiction: India; Case Type: Arbitration Appeal; Issue: Condonation of Delay in Setting Aside Arbitral Award"
+  },
+  {
+    "Query": "A government agency missed the deadline to file an application to set aside an arbitration award by a few days. They attribute the delay to administrative bottlenecks and the need for internal approvals. The other party argues that this is not a sufficient cause for condonation. What are the key considerations for the court in deciding whether to condone the delay?",
+    "Legal Principles": "Condonation of Delay; Sufficient Cause; Explanation vs. Excuse; Administrative Delays; Internal Procedures; Judicial Discretion; Public Interest; Meritorious Claims; Stricter Standards for State Instrumentalities",
+    "Relevant Sections": "Section 34(3) of the Arbitration and Conciliation Act, 1996: \"The Court may entertain the application within a further period of 30 days, but not thereafter, if it is satisfied that the applicant was prevented by sufficient cause from making the application within the period prescribed in sub-section (1).\"",
+    "Context": "Jurisdiction: India; Case Type: Arbitration Appeal; Issue: Condonation of Delay in Setting Aside Arbitral Award"
+  },
+  {
+    "Query": "A government agency is seeking to set aside an arbitration award but has missed the statutory limitation period by a few weeks. They claim that the delay was due to internal communication issues and obtaining approvals from various departments. The other party argues that this is not a sufficient cause to condone the delay. How does the court balance the need for procedural fairness with the principle of finality in arbitration?",
+    "Legal Principles": "Condonation of Delay; Sufficient Cause; Explanation vs. Excuse; Administrative Delays; Internal Procedures; Judicial Discretion; Public Interest; Meritorious Claims; Finality of Arbitration; Procedural Fairness",
+    "Relevant Sections": "Section 34(3) of the Arbitration and Conciliation Act, 1996: \"The Court may entertain the application within a further period of 30 days, but not thereafter, if it is satisfied that the applicant was prevented by sufficient cause from making the application within the period prescribed in sub-section (1).\"",
+    "Context": "Jurisdiction: India; Case Type: Arbitration Appeal; Issue: Condonation of Delay in Setting Aside Arbitral Award"
+  },
+  {
+    "Query": "A government agency has missed the deadline to challenge an arbitral award. They argue that the delay was caused by internal procedures and obtaining approvals from various departments. The other party argues that the agency should not be given special treatment and that the delay is not sufficiently explained. What are the legal principles governing the condonation of delay for government agencies?",
+    "Legal Principles": "Condonation of Delay; Sufficient Cause; Explanation vs. Excuse; Administrative Delays; Internal Procedures; Judicial Discretion; Public Interest; Meritorious Claims; Stricter Standards for State Instrumentalities; Equality Before Law",
+    "Relevant Sections": "Section 34(3) of the Arbitration and Conciliation Act, 1996: \"The Court may entertain the application within a further period of 30 days, but not thereafter, if it is satisfied that the applicant was prevented by sufficient cause from making the application within the period prescribed in sub-section (1).\"",
+    "Context": "Jurisdiction: India; Case Type: Arbitration Appeal; Issue: Condonation of Delay in Setting Aside Arbitral Award"
+  },
+  {
+    "Query": "A government agency missed the deadline to challenge an arbitration award by a few days. Their explanation for the delay is that they were waiting for internal approvals from various departments. The other party argues that the delay is inexcusable and that the agency should not be granted special treatment. How does the court determine if the agency's explanation constitutes a sufficient cause for condonation of delay?",
+    "Legal Principles": "Condonation of Delay; Sufficient Cause; Explanation vs. Excuse; Administrative Delays; Internal Procedures; Judicial Discretion; Public Interest; Meritorious Claims; Stricter Standards for State Instrumentalities; Equality Before Law",
+    "Relevant Sections": "Section 34(3) of the Arbitration and Conciliation Act, 1996: \"The Court may entertain the application within a further period of 30 days, but not thereafter, if it is satisfied that the applicant was prevented by sufficient cause from making the application within the period prescribed in sub-section (1).\"",
+    "Context": "Jurisdiction: India; Case Type: Arbitration Appeal; Issue: Condonation of Delay in Setting Aside Arbitral Award"
+  },
+  {
+    "Query": "A government agency has missed the deadline to file an application to set aside an arbitration award. They attribute the delay to internal administrative procedures and obtaining approvals from various departments. The other party argues that these are not valid reasons for condonation and that the delay is inexcusable. What are the legal principles that guide the court in determining whether to condone the delay?",
+    "Legal Principles": "Condonation of Delay; Sufficient Cause; Explanation vs. Excuse; Administrative Delays; Internal Procedures; Judicial Discretion; Public Interest; Meritorious Claims; Stricter Standards for State Instrumentalities; Equality Before Law",
+    "Relevant Sections": "Section 34(3) of the Arbitration and Conciliation Act, 1996: \"The Court may entertain the application within a further period of 30 days, but not thereafter, if it is satisfied that the applicant was prevented by sufficient cause from making the application within the period prescribed in sub-section (1).\"",
+    "Context": "Jurisdiction: India; Case Type: Arbitration Appeal; Issue: Condonation of Delay in Setting Aside Arbitral Award"
+  },
+  {
+    "Query": "A government agency has been ordered to pay a substantial sum in an arbitration award. They are seeking to set aside the award but have missed the deadline for filing the application. They argue that internal bureaucratic processes and obtaining approvals from various departments caused the delay. What are the factors the court should consider when deciding whether to condone the delay?",
+    "Legal Principles": "Condonation of Delay; Sufficient Cause; Explanation vs. Excuse; Administrative Delays; Internal Procedures; Judicial Discretion; Public Interest; Meritorious Claims; Stricter Standards for State Instrumentalities; Equality Before Law",
+    "Relevant Sections": "Section 34(3) of the Arbitration and Conciliation Act, 1996: \"The Court may entertain the application within a further period of 30 days, but not thereafter, if it is satisfied that the applicant was prevented by sufficient cause from making the application within the period prescribed in sub-section (1).\"",
+    "Context": "Jurisdiction: India; Case Type: Arbitration Appeal; Issue: Condonation of Delay in Setting Aside Arbitral Award"
+  },
+  {
+    "Query": "A government agency has missed the deadline to file an application to set aside an arbitration award. They claim that the delay was due to internal communication problems and the need for multiple approvals from different departments. The other party argues that the agency should not be given special treatment due to its status. How does the court determine if the agency's explanation is sufficient to condone the delay?",
+    "Legal Principles": "Condonation of Delay; Sufficient Cause; Explanation vs. Excuse; Administrative Delays; Internal Procedures; Judicial Discretion; Public Interest; Meritorious Claims; Stricter Standards for State Instrumentalities; Equality Before Law",
+    "Relevant Sections": "Section 34(3) of the Arbitration and Conciliation Act, 1996: \"The Court may entertain the application within a further period of 30 days, but not thereafter, if it is satisfied that the applicant was prevented by sufficient cause from making the application within the period prescribed in sub-section (1).\"",
+    "Context": "Jurisdiction: India; Case Type: Arbitration Appeal; Issue: Condonation of Delay in Setting Aside Arbitral Award"
+  },
+  {
+    "Query": "A government agency has been ordered to pay a substantial sum in an arbitration award. They are seeking to set aside the award but have missed the deadline. The agency claims that the delay was caused by internal administrative procedures and obtaining approvals from different departments. The other party argues that the agency has not provided sufficient justification for the delay. What legal principles should guide the court in determining whether to condone the delay?",
+    "Legal Principles": "Condonation of Delay; Sufficient Cause; Explanation vs. Excuse; Administrative Delays; Internal Procedures; Judicial Discretion; Public Interest; Meritorious Claims; Stricter Standards for State Instrumentalities; Equality Before Law",
+    "Relevant Sections": "Section 34(3) of the Arbitration and Conciliation Act, 1996: \"The Court may entertain the application within a further period of 30 days, but not thereafter, if it is satisfied that the applicant was prevented by sufficient cause from making the application within the period prescribed in sub-section (1).\"",
+    "Context": "Jurisdiction: India; Case Type: Arbitration Appeal; Issue: Condonation of Delay in Setting Aside Arbitral Award"
+  }
+]
+``` 

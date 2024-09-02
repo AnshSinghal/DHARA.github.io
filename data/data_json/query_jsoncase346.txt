@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A company, 'GreenTech Solutions,' entered into a contract with a municipality to provide waste management services for 20 years. The contract explicitly prohibited assignment without the municipality's consent. GreenTech then assigned its rights and obligations under the contract to a subsidiary, 'WasteWise Inc.,' without prior approval from the municipality. The municipality now seeks to challenge the assignment and the validity of any subsequent contracts between WasteWise and GreenTech.",
+    "Legal Principles": "Assignment of contracts, contractual provisions prohibiting assignment, enforceability of contractual terms, third-party beneficiaries, privity of contract.",
+    "Relevant Sections": "5. It was a specific condition in the Agreement that the concessionaire shall not assign in favour of any person the Agreement or rights, benefits and obligations thereunder, save and except with prior consent of U.L.B. (Urban Local Body), i.e. Municipal Corporation, Moradabad. However, the concessionaire entered into a memorandum of understanding dated 02.07.2013 with M/s Accord Hydroair Pvt. Ltd. and in violation of the conditions of the Tripartite Agreement dated 28.04.2010, it assigned its obligations under the Agreement dated 28.04.2010 to M/s Accord Hydroair Pvt. Ltd.",
+    "Context": "Contract law, assignment of contractual rights and obligations, specific performance, breach of contract, jurisdiction: India"
+  },
+  {
+    "Query": "A construction company, 'BuildRight,' entered into a contract with a developer to build a residential complex. The contract contained an arbitration clause. Disputes arose regarding the quality of construction work. BuildRight initiated arbitration proceedings. However, the developer argued that the disputes should be resolved in court, not through arbitration. The developer pointed to a clause in a separate agreement between BuildRight and a materials supplier that did not include an arbitration clause.",
+    "Legal Principles": "Arbitration agreements, enforceability of arbitration clauses, scope of arbitration agreements, contract interpretation, severability of contracts",
+    "Relevant Sections": "7. Certain disputes arose between the parties in execution of the Agreement dated 28.04.2010 also, regarding which separate Arbitration proceedings were initiated by the respondent no. 1, which culminated into an award dated 03.09.2019 by the Arbitrator.",
+    "Context": "Contract law, arbitration law, jurisdiction: India"
+  },
+  {
+    "Query": "A technology firm, 'InnoTech,' developed software for a client, 'GlobalCorp.' The contract included an arbitration clause. Disputes arose over the software's functionality. InnoTech initiated arbitration proceedings. However, GlobalCorp argued that InnoTech should not be allowed to introduce additional evidence in the arbitration proceedings that was not presented during the initial development stage.",
+    "Legal Principles": "Arbitration proceedings, admissibility of evidence, procedural fairness, due process, burden of proof",
+    "Relevant Sections": "19. The documents sought to be placed in additional evidence are copies of Arbitration Awards in five Arbitration cases between the respondent no. 1 and respondent no. 2, both of whom are already parties to the proceedings. Since the petitioner was not a party to those Arbitration proceedings, it claims that the Awards were not in its knowledge.",
+    "Context": "Arbitration law, evidence law, jurisdiction: India"
+  },
+  {
+    "Query": "A company, 'PowerSource,' contracted with a local government to provide electricity to a new residential development. The contract specified that any disputes would be resolved through binding arbitration. However, when disputes arose concerning billing and service delivery, PowerSource attempted to file a lawsuit in court. The local government sought to compel PowerSource to proceed with arbitration.",
+    "Legal Principles": "Arbitration agreements, binding arbitration clauses, enforceability of arbitration agreements, waiver of arbitration, judicial estoppel",
+    "Relevant Sections": "3. By means of the instant petition filed under Article 227 of the Constitution of India the petitioner has challenged the validity of the order dated 23.05.2023 passed by the Commercial Court No. 2, Lucknow, in Arbitration Case No. 923 of 2019, whereby an application for impleadment of M/s Accord Hydroair Pvt. Ltd. as a respondent to the case, filed by the petitioner-applicant before the Commercial Court, has been rejected.",
+    "Context": "Contract law, arbitration law, jurisdiction: India"
+  },
+  {
+    "Query": "A software company, 'CodeLabs,' contracted with a client, 'CorpTech,' to develop a custom software application. The contract contained an arbitration clause. After the software was delivered, CorpTech alleged that the software contained defects and filed a lawsuit in court instead of initiating arbitration. CodeLabs argued that CorpTech should be compelled to proceed with arbitration.",
+    "Legal Principles": "Arbitration agreements, waiver of arbitration, judicial estoppel, enforceability of arbitration clauses, contract interpretation",
+    "Relevant Sections": "10. The aforesaid S.L.P. was dismissed by means of an order dated 25.04.2023 passed by the Hon'ble Supreme Court and while dismissing the S.L.P., the pending applications also stood disposed of. Thus, the application for impleadment of M/s Accord Hydroair Pvt. Ltd. filed in the S.L.P. was not allowed by the Hon'ble Supreme Court.",
+    "Context": "Contract law, arbitration law, jurisdiction: India"
+  },
+  {
+    "Query": "A construction company, 'BuildSmart,' contracted with a homeowner to build a new house. The contract contained an arbitration clause. Disputes arose regarding delays and cost overruns. BuildSmart attempted to initiate arbitration proceedings, but the homeowner argued that the arbitration clause was unenforceable because it was buried in a lengthy and complex contract.",
+    "Legal Principles": "Arbitration agreements, enforceability of arbitration clauses, unconscionability, contract interpretation, procedural fairness",
+    "Relevant Sections": "6. It appears that the Memorandum of Understanding dated 02.07.2013 has been issued in execution of works, which were to be performed under the Tripartite Agreement dated 28.04.2010. It is one of the conditions of the Agreement dated 02.07.2013 that M/s Accord Hydroair Pvt. Ltd. shall be entitled to receive payments from the respondent no. 2 against the works done by respondent no. 1 under the Tripartite Agreement dated 28.04.2010.",
+    "Context": "Contract law, arbitration law, jurisdiction: India"
+  },
+  {
+    "Query": "A company, 'SolarTech,' entered into a contract with a city to install solar panels on city-owned buildings. The contract included an arbitration clause. Disputes arose concerning the performance of the solar panels. SolarTech initiated arbitration proceedings, but the city argued that the disputes should be resolved in court because the contract also contained a provision for mediation.",
+    "Legal Principles": "Arbitration agreements, mediation agreements, contract interpretation, waiver of arbitration, choice of forum",
+    "Relevant Sections": "12. Sri Pankaj Srivastava, the learned Counsel for the petitioner, has relied on a judgment of the Hon'ble Supreme Court in the case of Chloro Controls (I) P. Ltd. v. Severn Trent Water Purification Inc. and others, AIR 2012 SC (Supp.) 1017.",
+    "Context": "Contract law, arbitration law, jurisdiction: India"
+  },
+  {
+    "Query": "A software company, 'TechPro,' contracted with a client, 'Business Solutions,' to develop a custom website. The contract contained an arbitration clause. Disputes arose concerning the functionality of the website. TechPro initiated arbitration proceedings, but Business Solutions argued that the arbitration clause was unenforceable because it was only signed by TechPro's representative and not by Business Solutions' representative.",
+    "Legal Principles": "Arbitration agreements, enforceability of arbitration clauses, contract formation, mutual assent, signature requirements",
+    "Relevant Sections": "14. It is not the case of the parties that M/s A 2 Z Waste Management Moradabad and M/s Accord Hydroair Pvt. Ltd. constitute a group of companies and it is not that the Agreement dated 26.04.2010 was executed as the Mother Agreement.",
+    "Context": "Contract law, arbitration law, jurisdiction: India"
+  },
+  {
+    "Query": "A company, 'BioTech,' contracted with a research institute to conduct clinical trials for a new drug. The contract included an arbitration clause. Disputes arose concerning the research protocol and data analysis. BioTech initiated arbitration proceedings, but the research institute argued that the disputes should be resolved through a scientific review board, not arbitration.",
+    "Legal Principles": "Arbitration agreements, choice of forum, contract interpretation, scientific expertise, procedural fairness",
+    "Relevant Sections": "25. The petitioner is seeking to file copies of the arbitration awards passed in Arbitration proceedings between the respondent no. 1 and the respondent no. 2. The petitioner was not a party to the arbitration proceedings or the aforesaid awards passed therein and the petitioner claims that the awards were not within its knowledge and, therefore, the same could not be produced by it before the Arbitrator.",
+    "Context": "Contract law, arbitration law, jurisdiction: India"
+  },
+  {
+    "Query": "A construction company, 'BuildRight,' contracted with a developer to construct a commercial building. The contract contained an arbitration clause. Disputes arose regarding the cost of materials and labor. BuildRight initiated arbitration proceedings, but the developer argued that the arbitration clause was unenforceable because it was subject to a condition precedent that was never met.",
+    "Legal Principles": "Arbitration agreements, enforceability of arbitration clauses, condition precedent, contract interpretation, waiver of conditions",
+    "Relevant Sections": "21. Although the application under Section 34 of Arbitration and Conciliation Act, 1996 is not an "Appeal" in the strict sense of the term, in effect the proceedings under the aforesaid provision are in the nature of and are akin to an Appeal.",
+    "Context": "Contract law, arbitration law, jurisdiction: India"
+  }
+]
+```

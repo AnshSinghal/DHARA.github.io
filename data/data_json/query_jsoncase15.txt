@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A plaintiff in a commercial dispute in the Commercial Division of the Delhi High Court has filed an affidavit with new documents and witnesses. The defendant objects to these new documents being taken on record. What are the grounds for appealing an order allowing the new documents to be taken on record?",
+    "Legal Principles": "The right of appeal is a statutory right, meaning it must be expressly provided for in the statute. The Commercial Courts Act, 2015 (CCA) specifically limits appeals from orders passed by the Commercial Division to those enumerated in Order XLIII of the CPC. The decision in Harmanprit Singh Sidhu v. Arcadia Shares & Stock Brokers Pvt. Ltd (FAO(OS) 136/2016) reinforces this limitation, stating that appeals under Section 13 of the CCA are restricted to orders specified in Order XLIII or Section 37 of the Arbitration and Conciliation Act, 1996.",
+    "Relevant Sections": "Section 13 of the Commercial Courts Act, 2015\nOrder XLIII of the Code of Civil Procedure, 1908",
+    "Context": "This query focuses on the appealability of an order allowing new documents to be taken on record in a commercial dispute under the jurisdiction of the Commercial Division of the Delhi High Court. It specifically explores the limitations imposed by the Commercial Courts Act, 2015 on such appeals, drawing on relevant case law and statutory provisions."
+  },
+  {
+    "Query": "A commercial dispute involving a specified value is being heard in the Commercial Division of the Delhi High Court. The plaintiff seeks to amend their pleadings to include new claims. The defendant objects to the amendment, arguing that it would prejudice their case. Can the defendant appeal an order allowing the amendment?",
+    "Legal Principles": "The right of appeal from orders passed by the Commercial Division is limited by the Commercial Courts Act, 2015 (CCA) to those specifically enumerated in Order XLIII of the Code of Civil Procedure, 1908 (CPC). The CCA gives overriding effect to its provisions over any other conflicting laws, including the Letters Patent of the High Court or the Delhi High Court Act, 1966.",
+    "Relevant Sections": "Section 13 of the Commercial Courts Act, 2015\nOrder XLIII of the Code of Civil Procedure, 1908\nSection 10 of the Delhi High Court Act, 1966",
+    "Context": "This query addresses the appealability of an order allowing amendment of pleadings in a commercial dispute within the Commercial Division of the Delhi High Court. The query highlights the limited scope of appeal under the CCA and the exclusion of alternative appeal routes through the Letters Patent or other laws."
+  },
+  {
+    "Query": "A defendant in a commercial dispute before the Commercial Division of the Delhi High Court has been served with a summons but alleges they were not properly served. They file an application challenging service. The court denies the application. Can the defendant appeal this decision?",
+    "Legal Principles": "The Commercial Courts Act, 2015 (CCA) restricts appeals from orders passed by the Commercial Division to those specifically listed in Order XLIII of the Code of Civil Procedure, 1908 (CPC). Appeals are only available from decrees and orders as defined by the CPC, with orders being formal expressions of a Civil Court decision that are not decrees. The term 'judgment' in Section 13(1) of the CCA refers to a decree and not an order, as the CPC only recognizes appeals from decrees or orders.",
+    "Relevant Sections": "Section 13 of the Commercial Courts Act, 2015\nOrder XLIII of the Code of Civil Procedure, 1908\nSection 2 of the Code of Civil Procedure, 1908 (defining 'decree' and 'order')",
+    "Context": "The query focuses on the appealability of an order denying an application challenging service in a commercial dispute within the Commercial Division of the Delhi High Court. The analysis emphasizes the strict limitations imposed by the CCA on appeals from orders, clarifying the distinct meanings of 'decree', 'order', and 'judgment' within the context of the CPC."
+  },
+  {
+    "Query": "A party to a commercial dispute before the Commercial Division of the Delhi High Court files an application for interim relief. The court grants the relief, but the other party believes the court erred in its decision. Can they appeal this interim order?",
+    "Legal Principles": "The Commercial Courts Act, 2015 (CCA) restricts appeals from orders passed by the Commercial Division to those specifically enumerated in Order XLIII of the Code of Civil Procedure, 1908 (CPC). While the CCA seeks to expedite commercial disputes, the proviso to Section 13(1) limits appeals to certain orders, effectively reducing the number of appeals against interlocutory orders. The CCA has overriding effect over any inconsistent provisions in other laws.",
+    "Relevant Sections": "Section 13 of the Commercial Courts Act, 2015\nOrder XLIII of the Code of Civil Procedure, 1908\nSection 21 of the Commercial Courts Act, 2015",
+    "Context": "This query examines the appealability of an order granting interim relief in a commercial dispute under the Commercial Division of the Delhi High Court. The focus is on the CCA's limitations on appeals from interlocutory orders, highlighting the Act's goal of expedited dispute resolution and its overriding effect over other laws."
+  },
+  {
+    "Query": "A defendant in a commercial dispute before the Commercial Division of the Delhi High Court seeks to file a counterclaim. The plaintiff objects, arguing it is not related to the main claim. The court denies the counterclaim. Is this order appealable?",
+    "Legal Principles": "Appeals from orders passed by the Commercial Division of the Delhi High Court are limited by the Commercial Courts Act, 2015 (CCA) to those specifically enumerated in Order XLIII of the Code of Civil Procedure, 1908 (CPC). The CCA has overriding effect over any conflicting provisions in other laws, including the Delhi High Court Act, 1966. The CCA does not provide for a remedy of appeal unless the order falls within the categories specified in Order XLIII of the CPC.",
+    "Relevant Sections": "Section 13 of the Commercial Courts Act, 2015\nOrder XLIII of the Code of Civil Procedure, 1908\nSection 10 of the Delhi High Court Act, 1966",
+    "Context": "The query addresses the appealability of an order denying a counterclaim in a commercial dispute within the Commercial Division of the Delhi High Court. It highlights the restricted scope of appeal under the CCA and the exclusion of alternative appeal routes through the Letters Patent or other laws."
+  },
+  {
+    "Query": "A plaintiff in a commercial dispute before the Commercial Division of the Delhi High Court seeks to produce a document that the defendant claims is privileged. The court rules that the document is not privileged and orders its production. Can the defendant appeal this order?",
+    "Legal Principles": "Appeals from orders passed by the Commercial Division of the Delhi High Court are limited by the Commercial Courts Act, 2015 (CCA) to those specifically enumerated in Order XLIII of the Code of Civil Procedure, 1908 (CPC).  The term 'judgment' in Section 13(1) of the CCA refers to a decree and not an order, as the CPC only recognizes appeals from decrees or orders.",
+    "Relevant Sections": "Section 13 of the Commercial Courts Act, 2015\nOrder XLIII of the Code of Civil Procedure, 1908\nSection 2 of the Code of Civil Procedure, 1908 (defining 'decree' and 'order')",
+    "Context": "The query focuses on the appealability of an order compelling the production of a document claimed to be privileged in a commercial dispute within the Commercial Division of the Delhi High Court. The analysis emphasizes the strict limitations imposed by the CCA on appeals from orders, clarifying the distinct meanings of 'decree', 'order', and 'judgment' within the context of the CPC."
+  },
+  {
+    "Query": "A defendant in a commercial dispute before the Commercial Division of the Delhi High Court seeks to have the case transferred to another court. The court denies the transfer application. Can the defendant appeal this decision?",
+    "Legal Principles": "The Commercial Courts Act, 2015 (CCA) restricts appeals from orders passed by the Commercial Division to those specifically listed in Order XLIII of the Code of Civil Procedure, 1908 (CPC). The CCA gives overriding effect to its provisions over any other conflicting laws, including the Letters Patent of the High Court or the Delhi High Court Act, 1966.",
+    "Relevant Sections": "Section 13 of the Commercial Courts Act, 2015\nOrder XLIII of the Code of Civil Procedure, 1908\nSection 10 of the Delhi High Court Act, 1966",
+    "Context": "This query addresses the appealability of an order denying a transfer application in a commercial dispute within the Commercial Division of the Delhi High Court. The query highlights the limited scope of appeal under the CCA and the exclusion of alternative appeal routes through the Letters Patent or other laws."
+  },
+  {
+    "Query": "A party to a commercial dispute before the Commercial Division of the Delhi High Court fails to appear at a hearing. The court dismisses the case for non-appearance. Can the party appeal this order?",
+    "Legal Principles": "Appeals from orders passed by the Commercial Division of the Delhi High Court are limited by the Commercial Courts Act, 2015 (CCA) to those specifically enumerated in Order XLIII of the Code of Civil Procedure, 1908 (CPC). Appeals are only available from decrees and orders as defined by the CPC, with orders being formal expressions of a Civil Court decision that are not decrees.",
+    "Relevant Sections": "Section 13 of the Commercial Courts Act, 2015\nOrder XLIII of the Code of Civil Procedure, 1908\nSection 2 of the Code of Civil Procedure, 1908 (defining 'decree' and 'order')",
+    "Context": "The query focuses on the appealability of an order dismissing a case for non-appearance in a commercial dispute within the Commercial Division of the Delhi High Court. The analysis emphasizes the strict limitations imposed by the CCA on appeals from orders, clarifying the distinct meanings of 'decree', 'order', and 'judgment' within the context of the CPC."
+  },
+  {
+    "Query": "A party to a commercial dispute before the Commercial Division of the Delhi High Court seeks to have the other party's pleadings struck out for failure to comply with court orders. The court grants the application. Can the other party appeal this order?",
+    "Legal Principles": "The Commercial Courts Act, 2015 (CCA) restricts appeals from orders passed by the Commercial Division to those specifically listed in Order XLIII of the Code of Civil Procedure, 1908 (CPC). The CCA gives overriding effect to its provisions over any other conflicting laws, including the Letters Patent of the High Court or the Delhi High Court Act, 1966.",
+    "Relevant Sections": "Section 13 of the Commercial Courts Act, 2015\nOrder XLIII of the Code of Civil Procedure, 1908\nSection 10 of the Delhi High Court Act, 1966",
+    "Context": "This query addresses the appealability of an order striking out pleadings in a commercial dispute within the Commercial Division of the Delhi High Court. The query highlights the limited scope of appeal under the CCA and the exclusion of alternative appeal routes through the Letters Patent or other laws."
+  },
+  {
+    "Query": "A party to a commercial dispute before the Commercial Division of the Delhi High Court seeks to file an application for a stay of proceedings. The court denies the application. Can the party appeal this order?",
+    "Legal Principles": "The Commercial Courts Act, 2015 (CCA) restricts appeals from orders passed by the Commercial Division to those specifically listed in Order XLIII of the Code of Civil Procedure, 1908 (CPC).  The term 'judgment' in Section 13(1) of the CCA refers to a decree and not an order, as the CPC only recognizes appeals from decrees or orders.",
+    "Relevant Sections": "Section 13 of the Commercial Courts Act, 2015\nOrder XLIII of the Code of Civil Procedure, 1908\nSection 2 of the Code of Civil Procedure, 1908 (defining 'decree' and 'order')",
+    "Context": "The query focuses on the appealability of an order denying an application for a stay of proceedings in a commercial dispute within the Commercial Division of the Delhi High Court. The analysis emphasizes the strict limitations imposed by the CCA on appeals from orders, clarifying the distinct meanings of 'decree', 'order', and 'judgment' within the context of the CPC."
+  }
+]
+```

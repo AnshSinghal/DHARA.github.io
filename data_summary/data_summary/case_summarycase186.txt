@@ -1,0 +1,104 @@
+## 1. Case Title
+
+* **Case Name:** The State of Jharkhand vs. M/S Alternative For India Development
+* **Court:** Jharkhand High Court
+* **Date of Judgment:** 21st July 2023
+* **Citation:**  Commercial Appeal No. 07 of 2018
+
+## 2. Background and Context
+
+* **Brief Overview:** The State of Jharkhand (Appellant) entered into a Master Service Agreement (MSA) with M/S Alternative For India Development (Respondent) for the establishment of 600 Common Service Centers (CSCs) in the Palamau Division. The Respondent was obligated to establish these centers within 12 months and was to receive revenue support from the State. Despite an extension of time, the Respondent failed to establish all 600 centers.  The State terminated the MSA and filed a claim for damages. The Respondent counterclaimed for the revenue support they believed they were owed. The dispute was referred to arbitration.
+* **Key Issues:**
+    * Whether the Respondent was entitled to revenue support despite not meeting the contractual requirement of establishing 100% of the CSCs.
+    * Whether the State's claim for damages was valid.
+    * Whether the Arbitrator's award was justified and upheld the principles of public policy.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * Section 13 of the Commercial Courts Act, 2015 
+    * Section 34 of the Arbitration and Conciliation Act, 1996
+    * Section 11(6) of the Arbitration and Conciliation Act, 1996
+    * Section 33(1)(a) of the Arbitration and Conciliation Act, 1996
+    * Section 33(4) of the Arbitration and Conciliation Act, 1996
+* **Precedents Cited:**
+    * Ssangyong Engineering and Construction Company Limited v. National Highways Authority of India (NHAI) (2019) 15 SCC 131
+    * Associate Builders v. Delhi Development Authority (2015) 3 SCC 49
+    * McDermott International Inc. v. Burn Standard Co. Ltd., (2006) 11 SCC 181
+    * Renusagar Power Co. Ltd. v. General Electric Co. (1994) Supp (1) SCC 644
+    * ONGC Ltd. v. Saw Pipes Ltd. (2003) 5 SCC 705
+    * Central Inland Water Transport Corpn. Ltd. v. Brojo Nath Ganguly (1986) 3 SCC 156
+    * PSA SICAL Terminals Pvt. Ltd. Vs Board of Trustees of V.O. Chidambranar Port Trust Tuticorin and Others (2021 SCC OnLine SC 508)
+    * Reliance Infrastructure Ltd. Vs State of Goa (2023 SCC OnLine SC 604)
+    * MMTC Limited (supra)
+    * Mrutunjay Pani v. Narmada Bala Sasmal (AIR 1961 SC 1353)
+    * Kusheshwar Prasad Singh vs. State of Bihar and Ors., (2007) 11 SCC 447
+    * P.R. Shah, Shares & Stock Brokers (P) Ltd. v. B.H.H. Securities (P) Ltd. (2012) 1 SCC 594
+    * MSK Projects (I) (JV) Ltd. v. State of Rajasthan (2011) 10 SCC 573
+    * Rashtriya Ispat Nigam Ltd. v. Dewan Chand Ram Saran (2012) 5 SCC 306
+    * SAIL v. Gupta Brother Steel Tubes Ltd. (2009) 10 SCC 63
+    * Sumitomo Heavy Industries Ltd. v. ONGC Ltd. (2010) 11 SCC 296
+    * Kwality Mfg. Corpn. v. Central Warehousing Corpn. (2009) 5 SCC 142
+    * ONGC Ltd. v. Western Geco International Ltd. (2014) 9 SCC 263
+    * Associated Provincial Picture Houses Ltd. v. Wednesbury Corpn., (1948) 1 KB 223
+* **Legal Doctrines:**
+    * Public Policy: The court examined whether the Arbitrator's award violated the fundamental policy of Indian law, particularly in relation to contract law and the principles of natural justice.
+    * Patent Illegality: The court assessed if the award was patently illegal, meaning if it went to the root of the matter and was not merely a trivial error in the application of the law.
+    * Perversity: The court scrutinized if the Arbitrator's decision was perverse, meaning if it was based on no evidence or ignored vital evidence.
+    * Estoppel: The court considered the principle of estoppel, which prevents a party from taking advantage of their own wrong.
+
+## 4. Arguments Presented
+
+* **Plaintiff’s Argument (State of Jharkhand):** 
+    * The Respondent failed to comply with the MSA by not establishing all 600 CSCs.
+    * The Respondent was not entitled to revenue support because they did not fulfill the condition of 100% operational CSCs as stipulated in the agreement.
+    * The State suffered significant losses due to the Respondent's non-performance.
+    * The Arbitrator erred in awarding the Respondent revenue support and failed to consider the State's counterclaim for damages adequately.
+* **Defendant’s Argument (M/S Alternative For India Development):**
+    * The Respondent established 99% of the CSCs (594 out of 600), which was substantial performance.
+    * The State was responsible for issuing the operational certificate, which they failed to do due to a faulty software system.
+    * The Respondent was not liable for any penalty because the penalty clause was deleted from the MSA by a subsequent agreement.
+    * The Arbitrator's award was justified as it considered the circumstances and the State's failure to provide the operational certificate.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The court emphasized the importance of adhering to contractual obligations and the principle of estoppel.
+    * The court noted that the State failed to provide the operational certificate due to technical glitches, which could be considered a breach of their own obligations under the agreement.
+    * The court found that the Arbitrator considered all relevant factors, including the substantial performance by the Respondent, the State's failure to provide the operational certificate, and the State's counterclaim for damages.
+* **Interpretation of Law:**
+    * The court cited various precedents, particularly those related to the scope of judicial review in arbitral awards and the application of public policy principles.
+    * The court emphasized that judicial intervention in arbitral awards should be limited to cases of patent illegality, perversity, or violation of public policy.
+* **Application of Law:**
+    * The court determined that the Arbitrator's decision did not violate public policy or fall into the category of patent illegality or perversity.
+    * The court ruled that the State, by failing to provide the operational certificate, contributed to the situation and could not use their own breach to deny the Respondent revenue support.
+
+## 6. Judgment
+
+* **Final Decision:** The appeal filed by the State of Jharkhand was dismissed.
+* **Relief Granted:** The court upheld the Arbitrator's award, which awarded revenue support to the Respondent and awarded a lesser amount to the State for their counterclaim.
+* **Orders:** The court ordered the parties to comply with the Arbitrator's award and dismissed all pending interlocutory applications.
+
+## 7. Implications
+
+* **Impact on Law:** This judgment reinforces the principles of limited judicial review of arbitral awards and the importance of adhering to contractual obligations.
+* **Future Relevance:** The case provides guidance on how courts should approach disputes arising from contracts involving substantial performance and the role of estoppel.
+* **Broader Context:** The case highlights the need for clear contractual terms and a mechanism for resolving disputes fairly when parties fail to fully comply with their obligations.
+
+## 8. Summary Points
+
+* The State entered into a contract with a company to establish CSCs but the company failed to meet the 100% target.
+* The State terminated the contract and filed a claim for damages, while the company counterclaimed for revenue support.
+* The Arbitrator awarded revenue support to the company despite the incomplete project, as the State failed to provide the operational certificate due to a faulty system.
+* The High Court upheld the Arbitrator's decision, finding no violation of public policy or patent illegality.
+
+## 9. References
+
+* **Citations:** Refer to the "Legal Principles Involved" section for full citations of statutes and cases.
+* **Further Reading:**
+    * The Arbitration and Conciliation Act, 1996
+    * The Commercial Courts Act, 2015
+    * Supreme Court of India Judgments on Arbitration and Public Policy
+    * Legal Texts on Contract Law
+
+This summary provides a comprehensive overview of the case, encompassing the relevant facts, legal principles, arguments, and the court's reasoning and final decision. It also highlights the potential implications of the judgment for future legal decisions. 

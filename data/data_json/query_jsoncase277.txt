@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A construction company from Gujarat entered into a sub-contract agreement with a company from Madhya Pradesh. The work was to be carried out in Madhya Pradesh. The Gujarat company claims that the Madhya Pradesh company breached the contract and seeks to recover its dues. The Madhya Pradesh company filed a suit in a Commercial Court in Patan, Gujarat, claiming that the Gujarat company owes it money. The Gujarat company argues that the Patan court lacks jurisdiction to hear the case. Is the Patan Court's decision to exercise jurisdiction over the case valid?",
+    "Legal Principles": "The legal principle of 'cause of action' is crucial in determining jurisdiction. Section 20 of the Code of Civil Procedure (CPC) deals with jurisdiction in cases where the defendant resides, carries on business, or where the cause of action arises. The court's jurisdiction can be determined based on the place where the contract was formed, the place where the work was performed, the place where the breach occurred, and the place where payment was made.",
+    "Relevant Sections": "Section 20 of the Code of Civil Procedure (CPC), Section 12A of the Commercial Courts Act, 2015, Section 13 of the Commercial Courts Act, 2015",
+    "Context": "This is a case involving a dispute arising from a sub-contract agreement. The case was filed in a Commercial Court in Patan, Gujarat. The petitioner is challenging the court's jurisdiction."
+  },
+  {
+    "Query": "A company from Mumbai entered into a contract with a company from Delhi for the supply of goods. The contract was silent on the jurisdiction clause. The Delhi company claims that the Mumbai company failed to deliver the goods as per the contract and filed a suit in a Commercial Court in Delhi. The Mumbai company argues that the Delhi court lacks jurisdiction to hear the case. Is the Delhi Court's decision to exercise jurisdiction over the case valid?",
+    "Legal Principles": "In the absence of a specific jurisdiction clause in the contract, the doctrine of 'the debtor must seek the creditor' applies. This doctrine states that the court where the creditor resides or carries on business has jurisdiction to hear the case.",
+    "Relevant Sections": "Section 20 of the Code of Civil Procedure (CPC), Section 12A of the Commercial Courts Act, 2015, Section 13 of the Commercial Courts Act, 2015",
+    "Context": "This is a case involving a dispute arising from a contract for the supply of goods. The case was filed in a Commercial Court in Delhi. The petitioner is challenging the court's jurisdiction."
+  },
+  {
+    "Query": "Two companies entered into a contract for the supply of services. The contract was executed in Bangalore and stipulated that any disputes arising from the contract would be settled in a court in Bangalore. However, one of the companies filed a suit in a Commercial Court in Hyderabad. Can the Hyderabad court exercise jurisdiction over the case despite the agreement to settle disputes in Bangalore?",
+    "Legal Principles": "Parties are free to agree on a jurisdiction clause in their contract. The courts generally uphold the jurisdiction clause agreed upon by the parties, unless it is unreasonable or against public policy.",
+    "Relevant Sections": "Section 20 of the Code of Civil Procedure (CPC), Section 12A of the Commercial Courts Act, 2015, Section 13 of the Commercial Courts Act, 2015",
+    "Context": "This is a case involving a dispute arising from a contract for the supply of services. The contract contained a specific jurisdiction clause. One of the parties filed a suit in a different court."
+  },
+  {
+    "Query": "A company from Chennai filed a suit in a Commercial Court in Chennai against another company from Mumbai for breach of contract. The Mumbai company argued that the Chennai court lacked jurisdiction because the contract was executed in Mumbai and the breach occurred in Mumbai. Is the Chennai court's decision to exercise jurisdiction over the case valid?",
+    "Legal Principles": "The court where the cause of action arises has jurisdiction to hear the case. The cause of action may arise where the contract was executed, where the breach occurred, or where the payment was due.",
+    "Relevant Sections": "Section 20 of the Code of Civil Procedure (CPC), Section 12A of the Commercial Courts Act, 2015, Section 13 of the Commercial Courts Act, 2015",
+    "Context": "This is a case involving a dispute arising from a contract. The defendant is challenging the court's jurisdiction on the grounds that the contract was executed and the breach occurred in a different location."
+  },
+  {
+    "Query": "A company from Kolkata filed a suit in a Commercial Court in Kolkata against another company from Kolkata for breach of contract. The contract contained a jurisdiction clause specifying that any disputes would be settled in a court in Delhi. The Kolkata company argued that the Kolkata court lacked jurisdiction because of the jurisdiction clause. Is the Kolkata court's decision to exercise jurisdiction over the case valid?",
+    "Legal Principles": "The court where the cause of action arises has jurisdiction to hear the case. The cause of action may arise where the contract was executed, where the breach occurred, or where the payment was due.",
+    "Relevant Sections": "Section 20 of the Code of Civil Procedure (CPC), Section 12A of the Commercial Courts Act, 2015, Section 13 of the Commercial Courts Act, 2015",
+    "Context": "This is a case involving a dispute arising from a contract. The defendant is challenging the court's jurisdiction on the grounds that the contract contained a specific jurisdiction clause."
+  },
+  {
+    "Query": "Two companies entered into a contract for the supply of goods. The contract was silent on the jurisdiction clause. The supplier company filed a suit in a Commercial Court in the city where the buyer company's head office is located. The buyer company argued that the court lacked jurisdiction because the goods were delivered in a different city. Is the court's decision to exercise jurisdiction over the case valid?",
+    "Legal Principles": "In the absence of a specific jurisdiction clause in the contract, the doctrine of 'the debtor must seek the creditor' applies. This doctrine states that the court where the creditor resides or carries on business has jurisdiction to hear the case.",
+    "Relevant Sections": "Section 20 of the Code of Civil Procedure (CPC), Section 12A of the Commercial Courts Act, 2015, Section 13 of the Commercial Courts Act, 2015",
+    "Context": "This is a case involving a dispute arising from a contract for the supply of goods. The defendant is challenging the court's jurisdiction on the grounds that the goods were delivered in a different location."
+  },
+  {
+    "Query": "A company from Bangalore filed a suit in a Commercial Court in Bangalore against another company from Bangalore for breach of contract. The contract was executed in Bangalore and the breach occurred in Bangalore. The defendant company argued that the court lacked jurisdiction because the plaintiff company had its principal place of business in a different city. Is the court's decision to exercise jurisdiction over the case valid?",
+    "Legal Principles": "The court where the cause of action arises has jurisdiction to hear the case. The cause of action may arise where the contract was executed, where the breach occurred, or where the payment was due.",
+    "Relevant Sections": "Section 20 of the Code of Civil Procedure (CPC), Section 12A of the Commercial Courts Act, 2015, Section 13 of the Commercial Courts Act, 2015",
+    "Context": "This is a case involving a dispute arising from a contract. The defendant is challenging the court's jurisdiction on the grounds that the plaintiff company had its principal place of business in a different city."
+  },
+  {
+    "Query": "Two companies entered into a contract for the supply of services. The contract was executed in Mumbai and stipulated that any disputes arising from the contract would be settled in a court in Mumbai. However, one of the companies filed a suit in a Commercial Court in Chennai. Can the Chennai court exercise jurisdiction over the case despite the agreement to settle disputes in Mumbai?",
+    "Legal Principles": "Parties are free to agree on a jurisdiction clause in their contract. The courts generally uphold the jurisdiction clause agreed upon by the parties, unless it is unreasonable or against public policy.",
+    "Relevant Sections": "Section 20 of the Code of Civil Procedure (CPC), Section 12A of the Commercial Courts Act, 2015, Section 13 of the Commercial Courts Act, 2015",
+    "Context": "This is a case involving a dispute arising from a contract for the supply of services. The contract contained a specific jurisdiction clause. One of the parties filed a suit in a different court."
+  },
+  {
+    "Query": "A company from Hyderabad filed a suit in a Commercial Court in Hyderabad against another company from Hyderabad for breach of contract. The contract was executed in Hyderabad and the breach occurred in Hyderabad. The defendant company argued that the court lacked jurisdiction because the plaintiff company had its registered office in a different city. Is the court's decision to exercise jurisdiction over the case valid?",
+    "Legal Principles": "The court where the cause of action arises has jurisdiction to hear the case. The cause of action may arise where the contract was executed, where the breach occurred, or where the payment was due.",
+    "Relevant Sections": "Section 20 of the Code of Civil Procedure (CPC), Section 12A of the Commercial Courts Act, 2015, Section 13 of the Commercial Courts Act, 2015",
+    "Context": "This is a case involving a dispute arising from a contract. The defendant is challenging the court's jurisdiction on the grounds that the plaintiff company had its registered office in a different city."
+  },
+  {
+    "Query": "A company from Pune filed a suit in a Commercial Court in Pune against another company from Pune for breach of contract. The contract contained a jurisdiction clause specifying that any disputes would be settled in a court in Bangalore. The Pune company argued that the Pune court lacked jurisdiction because of the jurisdiction clause. Is the Pune court's decision to exercise jurisdiction over the case valid?",
+    "Legal Principles": "The court where the cause of action arises has jurisdiction to hear the case. The cause of action may arise where the contract was executed, where the breach occurred, or where the payment was due.",
+    "Relevant Sections": "Section 20 of the Code of Civil Procedure (CPC), Section 12A of the Commercial Courts Act, 2015, Section 13 of the Commercial Courts Act, 2015",
+    "Context": "This is a case involving a dispute arising from a contract. The defendant is challenging the court's jurisdiction on the grounds that the contract contained a specific jurisdiction clause."
+  }
+]
+```

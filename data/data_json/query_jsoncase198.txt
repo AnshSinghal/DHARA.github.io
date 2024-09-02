@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A power generation company entered into a contract with a coal mining company for the supply of coal. The contract included a price adjustment clause that was to be applied after 12 months from the commencement date. Due to force majeure events, the commencement date was extended by mutual agreement. The coal mining company claims that the price adjustment should be applied based on the original commencement date, despite the extension. How does the court determine the relevant commencement date for applying the price adjustment clause?",
+    "Legal Principles": "Contract interpretation, force majeure, price adjustment clauses, commencement date, essence of the contract, estoppel, approbate and reprobate.",
+    "Relevant Sections": "Clause 4.5.1, Clause 4.5.2, Clause 4.5.3, Clause 5.1.1, Clause 5.4.1, Clause 7.3, Clause 8.2 (iii), Section 28(3) of the Arbitration and Conciliation Act, 1996, Section 31(3) of the Arbitration and Conciliation Act, 1996, Section 73 of the Indian Contract Act, 1872",
+    "Context": "Jurisdiction: Rajasthan High Court, Case Type: Arbitration and Conciliation"
+  },
+  {
+    "Query": "A contractor was awarded a contract to carry out construction work. The contract stipulated a fixed rate for specific tasks. The contractor claims that due to unforeseen circumstances, he had to incur additional costs for a particular task. Can the contractor claim extra payment for this task, despite the fixed rate specified in the contract?",
+    "Legal Principles": "Contract interpretation, fixed rate, unforeseen circumstances, additional costs, breach of contract.",
+    "Relevant Sections": "Clause 3.2.1, Clause 5.1.2, Clause 5.4.3, Section 73 of the Indian Contract Act, 1872",
+    "Context": "Jurisdiction: Supreme Court of India, Case Type: Contract Dispute"
+  },
+  {
+    "Query": "A company entered into an agreement with a supplier for the purchase of goods. The agreement included a clause stating that the supplier was responsible for obtaining all necessary licenses and permits. However, the supplier failed to obtain a crucial permit, leading to delays and additional costs for the company. Can the company terminate the agreement and claim damages for the supplier's failure to obtain the necessary permit?",
+    "Legal Principles": "Contract interpretation, breach of contract, termination of contract, damages, implied terms, duty to obtain permits.",
+    "Relevant Sections": "Clause 3.2.1, Clause 3.3 (b), Clause 4.1.3, Clause 4.1.4, Clause 7.1, Clause 7.3, Clause 8.1, Clause 8.2, Section 34 of the Arbitration and Conciliation Act, 1996",
+    "Context": "Jurisdiction: Delhi High Court, Case Type: Commercial Dispute"
+  },
+  {
+    "Query": "A property owner entered into an agreement with a construction company for the development of a property. The agreement included a clause requiring the construction company to open an escrow account for certain funds. However, the construction company failed to do so, leading to potential financial risks. Can the property owner terminate the agreement and claim damages for the construction company's failure to comply with the escrow account requirement?",
+    "Legal Principles": "Contract interpretation, breach of contract, termination of contract, damages, escrow account, fiduciary duty.",
+    "Relevant Sections": "Clause 3.2.1, Clause 3.3 (d), Clause 5.1.1, Clause 5.2.1, Clause 5.3.5, Section 34 of the Arbitration and Conciliation Act, 1996, Section 115 of the Evidence Act",
+    "Context": "Jurisdiction: Bombay High Court, Case Type: Real Estate Dispute"
+  },
+  {
+    "Query": "A company entered into a joint venture agreement with another company for the development of a project. The agreement included a clause for the payment of fixed costs to the joint venture partner. However, due to unforeseen circumstances, the project was delayed, leading to a reduction in the project's output. The joint venture partner claims fixed costs for the entire duration of the delay, despite the reduced output. Can the company challenge this claim and argue that the fixed costs should be proportionate to the actual output achieved?",
+    "Legal Principles": "Contract interpretation, joint venture agreements, fixed costs, unforeseen circumstances, delay, proportionality, damages.",
+    "Relevant Sections": "Clause 3.2.4, Clause 4.5.4, Clause 5.1.2, Clause 5.2.2, Clause 5.4.3, Section 73 of the Indian Contract Act, 1872",
+    "Context": "Jurisdiction: Calcutta High Court, Case Type: Joint Venture Dispute"
+  },
+  {
+    "Query": "A company was required to open an escrow account for environmental remediation costs related to a mining operation. The company argued that the escrow account was not necessary because the remediation work had not yet commenced. How does the court determine whether the company's argument is valid, considering the applicable environmental regulations and the terms of the agreement?",
+    "Legal Principles": "Environmental law, escrow accounts, mine closure plans, remediation costs, contractual obligations, public policy.",
+    "Relevant Sections": "Clause 3.2, Clause 3.3 (d), Clause 4.5.4, Clause 5.1.1, Clause 5.2.1, Clause 5.3.5, Clause 6 of the Guidelines for Preparation of a Mine Closure Plan, Section 34 of the Arbitration and Conciliation Act, 1996",
+    "Context": "Jurisdiction: Madras High Court, Case Type: Environmental Dispute"
+  },
+  {
+    "Query": "A construction company claimed damages for delay in a project due to the client's failure to provide necessary materials on time. The client argued that the delay was caused by unforeseen circumstances beyond their control. How does the court determine whether the client's argument is valid, considering the applicable force majeure provisions in the agreement?",
+    "Legal Principles": "Contract interpretation, force majeure, delay, damages, unforeseen circumstances, burden of proof.",
+    "Relevant Sections": "Clause 4.5.2, Clause 7.1, Clause 7.3, Clause 8.2 (iii), Section 34 of the Arbitration and Conciliation Act, 1996, Section 73 of the Indian Contract Act, 1872",
+    "Context": "Jurisdiction: Punjab and Haryana High Court, Case Type: Construction Dispute"
+  },
+  {
+    "Query": "A company was awarded a contract to supply goods to a government agency. The contract included a price adjustment clause based on the wholesale price index. The company claimed that the price adjustment was not properly calculated by the government agency. How does the court determine whether the price adjustment was calculated correctly, considering the applicable price adjustment formula and the relevant market indices?",
+    "Legal Principles": "Contract interpretation, price adjustment clauses, wholesale price index, market indices, calculation errors.",
+    "Relevant Sections": "Clause 5.1.1, Clause 5.4.3, Section 34 of the Arbitration and Conciliation Act, 1996",
+    "Context": "Jurisdiction: Gujarat High Court, Case Type: Government Contract Dispute"
+  },
+  {
+    "Query": "A company was accused of breaching a contract by failing to deliver goods on time. The company argued that the delay was caused by a force majeure event, which was a natural disaster. How does the court determine whether the company's argument is valid, considering the applicable force majeure provisions and the evidence presented?",
+    "Legal Principles": "Contract interpretation, force majeure, natural disasters, breach of contract, burden of proof.",
+    "Relevant Sections": "Clause 7.1, Clause 7.3, Clause 8.2 (iii), Section 34 of the Arbitration and Conciliation Act, 1996",
+    "Context": "Jurisdiction: Kerala High Court, Case Type: Commercial Dispute"
+  },
+  {
+    "Query": "A company entered into a contract with a supplier for the purchase of raw materials. The contract included a clause requiring the supplier to provide a certificate of origin for the materials. The supplier failed to provide the certificate, and the company incurred additional costs to obtain it. Can the company claim reimbursement from the supplier for the additional costs incurred?",
+    "Legal Principles": "Contract interpretation, breach of contract, certificate of origin, additional costs, reimbursement.",
+    "Relevant Sections": "Clause 3.2.1, Clause 5.1.1, Clause 5.2.1, Clause 5.3.5, Section 34 of the Arbitration and Conciliation Act, 1996, Section 115 of the Evidence Act",
+    "Context": "Jurisdiction: Karnataka High Court, Case Type: Commercial Dispute"
+  }
+]
+``` 

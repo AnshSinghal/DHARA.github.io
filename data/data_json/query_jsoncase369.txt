@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A contractor is seeking an injunction to prevent a property owner from terminating their contract. The contractor claims that the owner is trying to terminate the contract without proper justification and that this would cause them irreparable harm. The owner argues that the contractor has breached the contract and that they are entitled to terminate it. What are the legal principles that govern the issuance of injunctions in contract termination cases? Is the High Court justified in interfering with a decision made by the Commercial Court under Section 9 of the Arbitration and Conciliation Act?",
+    "Legal Principles": "The issuance of injunctions in contract termination cases is governed by the principles of equity and the need to prevent irreparable harm. The court will consider factors such as the likelihood of success on the merits, the balance of convenience, and the possibility of irreparable harm if the injunction is not granted. The High Court's power under Article 227 of the Constitution is limited, and it will generally not interfere with decisions made by lower courts unless there is a jurisdictional error or a clear violation of legal principles.",
+    "Relevant Sections": "Article 227 of the Constitution of India, Section 9 of the Arbitration and Conciliation Act, Section 37(1)(b) of the Arbitration and Conciliation Act, Section 13 of the Commercial Courts Act",
+    "Context": "Jurisdiction: Allahabad High Court. Case Type: Application under Article 227 of the Constitution of India challenging an order of the Commercial Court under Section 9 of the Arbitration and Conciliation Act."
+  },
+  {
+    "Query": "A company has filed an arbitration petition against its former employee, alleging that the employee breached their confidentiality agreement. The employee filed an application under Section 9 of the Arbitration and Conciliation Act seeking interim relief to prevent the company from disclosing confidential information. The Commercial Court dismissed the application. Can the employee challenge the Commercial Court's decision by filing an application under Article 227 of the Constitution of India?",
+    "Legal Principles": "The High Court's power under Article 227 of the Constitution is limited and generally not used to interfere with decisions of lower courts. However, the High Court can intervene if there is a jurisdictional error or a clear violation of legal principles. The decision in Deep Industries Limited v. Oil and Natural Gas Corporation Limited (2020) 15 SCC 706 provides guidance on when the High Court can intervene in arbitration cases.",
+    "Relevant Sections": "Article 227 of the Constitution of India, Section 9 of the Arbitration and Conciliation Act, Section 37(1)(b) of the Arbitration and Conciliation Act",
+    "Context": "Jurisdiction: Allahabad High Court. Case Type: Application under Article 227 of the Constitution of India challenging an order of the Commercial Court under Section 9 of the Arbitration and Conciliation Act."
+  },
+  {
+    "Query": "A company is seeking to enforce an arbitration award against its former partner. The partner claims that the arbitration award was obtained through fraud and that the arbitrator exceeded his jurisdiction. The company filed an application under Section 36 of the Arbitration and Conciliation Act to enforce the award. The Commercial Court granted the enforcement application. Can the partner challenge the Commercial Court's decision by filing an application under Article 227 of the Constitution of India?",
+    "Legal Principles": "The High Court's power under Article 227 of the Constitution is limited and generally not used to interfere with decisions of lower courts. However, the High Court can intervene if there is a jurisdictional error or a clear violation of legal principles. The decision in Deep Industries Limited v. Oil and Natural Gas Corporation Limited (2020) 15 SCC 706 provides guidance on when the High Court can intervene in arbitration cases.",
+    "Relevant Sections": "Article 227 of the Constitution of India, Section 36 of the Arbitration and Conciliation Act",
+    "Context": "Jurisdiction: Allahabad High Court. Case Type: Application under Article 227 of the Constitution of India challenging an order of the Commercial Court under Section 36 of the Arbitration and Conciliation Act."
+  },
+  {
+    "Query": "A construction company filed an arbitration petition against a property developer alleging a breach of contract. The developer filed an application under Section 9 of the Arbitration and Conciliation Act seeking an interim injunction to prevent the construction company from carrying out further construction work. The Commercial Court granted the injunction. Can the construction company challenge the Commercial Court's decision by filing an application under Article 227 of the Constitution of India?",
+    "Legal Principles": "The High Court's power under Article 227 of the Constitution is limited and generally not used to interfere with decisions of lower courts. However, the High Court can intervene if there is a jurisdictional error or a clear violation of legal principles. The decision in Deep Industries Limited v. Oil and Natural Gas Corporation Limited (2020) 15 SCC 706 provides guidance on when the High Court can intervene in arbitration cases.",
+    "Relevant Sections": "Article 227 of the Constitution of India, Section 9 of the Arbitration and Conciliation Act",
+    "Context": "Jurisdiction: Allahabad High Court. Case Type: Application under Article 227 of the Constitution of India challenging an order of the Commercial Court under Section 9 of the Arbitration and Conciliation Act."
+  },
+  {
+    "Query": "A software company filed an arbitration petition against a client alleging non-payment of services. The client filed an application under Section 9 of the Arbitration and Conciliation Act seeking an interim injunction to prevent the software company from accessing its data and systems. The Commercial Court dismissed the application. Can the client challenge the Commercial Court's decision by filing an application under Article 227 of the Constitution of India?",
+    "Legal Principles": "The High Court's power under Article 227 of the Constitution is limited and generally not used to interfere with decisions of lower courts. However, the High Court can intervene if there is a jurisdictional error or a clear violation of legal principles. The decision in Deep Industries Limited v. Oil and Natural Gas Corporation Limited (2020) 15 SCC 706 provides guidance on when the High Court can intervene in arbitration cases.",
+    "Relevant Sections": "Article 227 of the Constitution of India, Section 9 of the Arbitration and Conciliation Act",
+    "Context": "Jurisdiction: Allahabad High Court. Case Type: Application under Article 227 of the Constitution of India challenging an order of the Commercial Court under Section 9 of the Arbitration and Conciliation Act."
+  },
+  {
+    "Query": "Two companies entered into a joint venture agreement.  One company alleges that the other company breached the agreement and filed an arbitration petition. The other company seeks an injunction to prevent the first company from terminating the joint venture agreement pending arbitration. Can the Commercial Court grant the injunction under Section 9 of the Arbitration and Conciliation Act?",
+    "Legal Principles": "The Commercial Court can grant interim injunctions under Section 9 of the Arbitration and Conciliation Act if the applicant demonstrates a prima facie case, a balance of convenience in their favour, and the possibility of irreparable harm if the injunction is not granted. The Court will consider the nature of the dispute and the potential impact of the injunction on both parties.",
+    "Relevant Sections": "Section 9 of the Arbitration and Conciliation Act",
+    "Context": "Jurisdiction: Commercial Court. Case Type: Application for interim injunction under Section 9 of the Arbitration and Conciliation Act."
+  },
+  {
+    "Query": "A business owner filed an arbitration petition against a supplier claiming defective goods. The supplier seeks an injunction to prevent the business owner from disposing of the goods pending arbitration. Can the Commercial Court grant the injunction under Section 9 of the Arbitration and Conciliation Act?",
+    "Legal Principles": "The Commercial Court can grant interim injunctions under Section 9 of the Arbitration and Conciliation Act if the applicant demonstrates a prima facie case, a balance of convenience in their favour, and the possibility of irreparable harm if the injunction is not granted. The Court will consider the nature of the dispute and the potential impact of the injunction on both parties.",
+    "Relevant Sections": "Section 9 of the Arbitration and Conciliation Act",
+    "Context": "Jurisdiction: Commercial Court. Case Type: Application for interim injunction under Section 9 of the Arbitration and Conciliation Act."
+  },
+  {
+    "Query": "Two companies entered into a franchise agreement.  One company alleges that the other company violated the terms of the agreement and filed an arbitration petition. The other company seeks an injunction to prevent the first company from terminating the franchise agreement pending arbitration. Can the Commercial Court grant the injunction under Section 9 of the Arbitration and Conciliation Act?",
+    "Legal Principles": "The Commercial Court can grant interim injunctions under Section 9 of the Arbitration and Conciliation Act if the applicant demonstrates a prima facie case, a balance of convenience in their favour, and the possibility of irreparable harm if the injunction is not granted. The Court will consider the nature of the dispute and the potential impact of the injunction on both parties.",
+    "Relevant Sections": "Section 9 of the Arbitration and Conciliation Act",
+    "Context": "Jurisdiction: Commercial Court. Case Type: Application for interim injunction under Section 9 of the Arbitration and Conciliation Act."
+  },
+  {
+    "Query": "A software developer filed an arbitration petition against a client claiming non-payment for services. The client seeks an injunction to prevent the software developer from accessing its data and systems pending arbitration. Can the Commercial Court grant the injunction under Section 9 of the Arbitration and Conciliation Act?",
+    "Legal Principles": "The Commercial Court can grant interim injunctions under Section 9 of the Arbitration and Conciliation Act if the applicant demonstrates a prima facie case, a balance of convenience in their favour, and the possibility of irreparable harm if the injunction is not granted. The Court will consider the nature of the dispute and the potential impact of the injunction on both parties.",
+    "Relevant Sections": "Section 9 of the Arbitration and Conciliation Act",
+    "Context": "Jurisdiction: Commercial Court. Case Type: Application for interim injunction under Section 9 of the Arbitration and Conciliation Act."
+  },
+  {
+    "Query": "A construction company filed an arbitration petition against a property owner alleging a breach of contract. The property owner seeks an injunction to prevent the construction company from carrying out further construction work pending arbitration. Can the Commercial Court grant the injunction under Section 9 of the Arbitration and Conciliation Act?",
+    "Legal Principles": "The Commercial Court can grant interim injunctions under Section 9 of the Arbitration and Conciliation Act if the applicant demonstrates a prima facie case, a balance of convenience in their favour, and the possibility of irreparable harm if the injunction is not granted. The Court will consider the nature of the dispute and the potential impact of the injunction on both parties.",
+    "Relevant Sections": "Section 9 of the Arbitration and Conciliation Act",
+    "Context": "Jurisdiction: Commercial Court. Case Type: Application for interim injunction under Section 9 of the Arbitration and Conciliation Act."
+  }
+]
+```

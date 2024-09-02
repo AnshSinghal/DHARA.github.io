@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A company terminated a service provider agreement due to alleged breaches of anti-corruption clauses. The service provider claims the termination was unjustified and seeks damages for lost revenue and outstanding invoices. What are the legal principles and precedents regarding the termination of contracts based on alleged anti-corruption breaches, and what are the requirements for proving such breaches?",
+    "Legal Principles": "The termination of a contract must be justified by a breach of the agreement's terms.  A party terminating a contract due to an alleged anti-corruption breach must prove that the breach occurred and that they had knowledge of the breach at the time of termination.  The burden of proof rests on the party seeking to terminate the contract.",
+    "Relevant Sections": "Section 34 of the Arbitration and Conciliation Act, 1996 (relating to setting aside arbitral awards)  and Section 73 of the Indian Contract Act, 1872 (relating to compensation for breach of contract)",
+    "Context": "Commercial arbitration case in India concerning the termination of a service provider agreement based on alleged anti-corruption breaches."
+  },
+  {
+    "Query": "A construction company seeks to amend its claim in an arbitration proceeding, adding a claim for damages arising from the delay caused by the other party's breach of contract. Can an amendment be made after a year from the initial notice of dispute, and under what circumstances can such amendments be allowed?",
+    "Legal Principles": "Parties can amend their claims in arbitration proceedings under Section 23(3) of the Arbitration and Conciliation Act, 1996. However, the arbitral tribunal has the discretion to disallow amendments if they are deemed inappropriate, particularly in cases of undue delay or prejudice to the other party.  The court will consider factors such as the stage of the proceedings, the nature of the amendment, and the potential for prejudice.",
+    "Relevant Sections": "Section 23(3) of the Arbitration and Conciliation Act, 1996, Rule 41 of the Rules of Domestic Commercial Arbitration framed by the Indian Council of Arbitration.",
+    "Context": "Commercial arbitration case in India involving a construction company seeking to amend its claim to include damages for delay."
+  },
+  {
+    "Query": "A software licensing agreement contains a clause allowing termination for material breach. One party alleges the other has materially breached the agreement by failing to meet performance standards. Can the agreement be terminated solely on the basis of non-performance, or must there be evidence of intentional breach or bad faith?",
+    "Legal Principles": "The interpretation of a material breach clause depends on the specific wording of the agreement and the nature of the breach.  A material breach generally refers to a significant violation of the contract's terms that substantially affects the agreement's purpose. However, the mere failure to meet performance standards may not always constitute a material breach unless it demonstrates a clear intent to disregard the contract's obligations.",
+    "Relevant Sections": "Section 73 of the Indian Contract Act, 1872, provisions relating to the interpretation of contracts and the determination of material breaches.",
+    "Context": "Commercial arbitration case in India concerning the termination of a software licensing agreement due to alleged non-performance."
+  },
+  {
+    "Query": "Two companies entered into a joint venture agreement. One party alleges the other breached the agreement by diverting profits to a separate entity. The breaching party claims the profits were legitimate and denies any wrongdoing. How can the court determine whether the profits were improperly diverted and what remedies are available to the aggrieved party?",
+    "Legal Principles": "The court will examine the joint venture agreement's provisions regarding profit sharing and distribution, the intent behind the actions of the alleged breaching party, and any evidence of improper financial transactions.  Remedies for breach of a joint venture agreement may include specific performance, injunctive relief, or financial compensation for losses.",
+    "Relevant Sections": "Sections 73 and 74 of the Indian Contract Act, 1872, provisions related to joint venture agreements and the interpretation of contractual obligations.",
+    "Context": "Commercial litigation case in India involving a dispute over profits and alleged breach of a joint venture agreement."
+  },
+  {
+    "Query": "A buyer refused to accept delivery of goods due to alleged defects. The seller claims the goods meet the contract specifications. The buyer seeks damages for breach of contract. What are the legal principles for determining whether goods meet the contract specifications, and how can the court assess damages for breach of contract in such cases?",
+    "Legal Principles": "The court will examine the contract's specifications, the nature of the alleged defects, and evidence regarding the goods' quality. The burden of proof lies on the buyer to demonstrate that the goods do not meet the contract's requirements. Damages for breach of contract in such cases can include compensation for direct losses, consequential damages, and costs associated with finding alternative goods.",
+    "Relevant Sections": "Sections 12 and 13 of the Sale of Goods Act, 1930, provisions related to the implied conditions of fitness for purpose and merchantable quality.",
+    "Context": "Commercial litigation case in India involving a dispute over the quality of goods and breach of a sales contract."
+  },
+  {
+    "Query": "A company issued a termination notice to a supplier, claiming the supplier's performance was inadequate. The supplier argues the termination was wrongful and seeks damages for lost profits and reputational harm. How can the court determine whether the termination was justified, and what factors are considered in assessing damages for wrongful termination?",
+    "Legal Principles": "The court will consider the terms of the agreement, the supplier's performance, and whether the company had a legitimate reason for termination. The burden of proof lies on the company seeking to terminate the agreement. Damages for wrongful termination can include lost profits, consequential damages, and reputational harm.",
+    "Relevant Sections": "Sections 73 and 74 of the Indian Contract Act, 1872, provisions relating to the termination of contracts and the assessment of damages."
+    "Context": "Commercial litigation case in India involving a dispute over the termination of a supply agreement."
+  },
+  {
+    "Query": "Two parties entered into a franchise agreement. One party alleges the other breached the agreement by failing to comply with marketing guidelines. The breaching party claims the marketing efforts were successful and denies any wrongdoing.  How can the court determine whether the marketing efforts violated the franchise agreement and what remedies are available to the aggrieved party?",
+    "Legal Principles": "The court will examine the franchise agreement's terms regarding marketing, the breaching party's marketing practices, and the impact of those practices on the franchise system. Remedies for breach of a franchise agreement can include specific performance, injunctive relief, or monetary damages for lost profits or reputational harm.",
+    "Relevant Sections": "Sections 73 and 74 of the Indian Contract Act, 1872, provisions relating to franchise agreements and the interpretation of contractual obligations."
+    "Context": "Commercial litigation case in India involving a dispute over marketing practices and breach of a franchise agreement."
+  },
+  {
+    "Query": "A technology company licensed its software to another company. The licensee claims the software was defective and failed to perform as promised. The licensor denies any defects and argues the software operates as intended. What are the legal principles for determining software defects, and what remedies are available to the licensee?",
+    "Legal Principles": "The court will examine the software license agreement, the software's performance specifications, and evidence of defects. The burden of proof lies on the licensee to demonstrate the software's failure to meet the contract's requirements.  Remedies for breach of a software license agreement can include repair or replacement of the software, termination of the agreement, or financial compensation for losses."
+    "Relevant Sections": "Sections 12 and 13 of the Sale of Goods Act, 1930, provisions relating to the implied conditions of fitness for purpose and merchantable quality.",
+    "Context": "Commercial litigation case in India involving a dispute over the quality of software and breach of a software license agreement."
+  },
+  {
+    "Query": "A real estate developer entered into a construction contract with a builder. The builder failed to complete the project on time and within budget. The developer alleges the builder breached the contract and seeks damages for delay and cost overruns.  What are the legal principles for assessing damages for breach of a construction contract, and what factors are considered in determining whether the delay and cost overruns were justified?",
+    "Legal Principles": "The court will examine the construction contract's terms regarding deadlines and budgets, the reasons for the delay and cost overruns, and evidence of the builder's performance. The burden of proof lies on the developer to demonstrate that the builder's actions constituted a breach of contract. Damages for breach of a construction contract can include compensation for direct losses, consequential damages, and costs associated with finding alternative contractors.",
+    "Relevant Sections": "Sections 73 and 74 of the Indian Contract Act, 1872, provisions relating to construction contracts, the assessment of damages, and the interpretation of contractual obligations."
+    "Context": "Commercial litigation case in India involving a dispute over the completion of a construction project and breach of a construction contract."
+  },
+  {
+    "Query": "A company entered into a distribution agreement with another company. The distributor failed to meet sales targets and was terminated by the company. The distributor claims the termination was wrongful and seeks damages for lost profits and reputational harm. How can the court determine whether the termination was justified, and what factors are considered in assessing damages for wrongful termination?",
+    "Legal Principles": "The court will examine the distribution agreement's terms, the distributor's sales performance, and whether the company had a legitimate reason for termination. The burden of proof lies on the company seeking to terminate the agreement. Damages for wrongful termination can include lost profits, consequential damages, and reputational harm.",
+    "Relevant Sections": "Sections 73 and 74 of the Indian Contract Act, 1872, provisions relating to the termination of contracts and the assessment of damages."
+    "Context": "Commercial litigation case in India involving a dispute over the termination of a distribution agreement."
+  }
+]
+```

@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A power generating company is seeking to terminate a power purchase agreement (PPA) with a licensee due to alleged breaches of the agreement. The licensee has filed a Section 9 application under the Arbitration and Conciliation Act, 1996, seeking interim relief to prevent the termination of the PPA. The generating company has filed an appeal against the order of the Commercial Court granting the interim relief, arguing that the Court lacked jurisdiction to entertain the Section 9 application.",
+    "Legal Principles": "Jurisdiction of the Commercial Court to entertain Section 9 applications under the Arbitration and Conciliation Act, 1996, in disputes governed by the Electricity Act, 2003. The interplay between the Arbitration Act, the Electricity Act, and the Commercial Courts Act. The scope of appealable orders under Section 37 of the Arbitration Act, 1996. The concept of interlocutory orders and their appealability.",
+    "Relevant Sections": "Section 37 of the Arbitration and Conciliation Act, 1996\nSection 8, 13, 13(1A) of the Commercial Courts Act, 2015\nSection 79 (1) (f) of the Electricity Act, 2003\nOrder 39 Rule 4 CPC\nOrder 43 CPC",
+    "Context": "Commercial Appeal in the High Court of Meghalaya, challenging an interlocutory order of the Commercial Court, East Khasi Hills District, Shillong."
+  },
+  {
+    "Query": "A construction company has filed a Section 9 application under the Arbitration and Conciliation Act, 1996, seeking an interim injunction to restrain the owner from terminating the construction contract. The owner has filed a counter-application under Order 39 Rule 4 CPC, seeking vacation of the interim injunction. The Court has dismissed the owner's application and upheld the interim injunction. The owner is now appealing the order, arguing that the Court erred in dismissing its application.",
+    "Legal Principles": "The scope of Order 39 Rule 4 CPC in relation to vacation of interim injunctions. The grounds for vacating an interim order, including suppression of facts or change in circumstances. The role of the Court in reviewing interlocutory orders and the principles of judicial review.",
+    "Relevant Sections": "Order 39 Rule 4 CPC\nSection 9 of the Arbitration and Conciliation Act, 1996",
+    "Context": "Appeal in the High Court of Meghalaya against an order of the Commercial Court dismissing an application under Order 39 Rule 4 CPC to vacate an interim injunction granted under Section 9 of the Arbitration Act."
+  },
+  {
+    "Query": "A company is seeking to enforce an arbitral award against another company. The defendant company has filed an application under Section 34 of the Arbitration and Conciliation Act, 1996, seeking to set aside the award. The Court has rejected the application and upheld the award. The defendant company is now appealing the order, arguing that the Court erred in rejecting its application to set aside the award.",
+    "Legal Principles": "The grounds for setting aside an arbitral award under Section 34 of the Arbitration and Conciliation Act, 1996. The scope of judicial review of arbitral awards. The role of the Court in determining the validity of an award.",
+    "Relevant Sections": "Section 34 of the Arbitration and Conciliation Act, 1996",
+    "Context": "Appeal in the High Court of Meghalaya challenging an order of the Commercial Court rejecting an application under Section 34 of the Arbitration Act to set aside an arbitral award."
+  },
+  {
+    "Query": "A landlord is seeking to evict a tenant from a commercial property. The tenant has filed a Section 9 application under the Arbitration and Conciliation Act, 1996, seeking an interim injunction to restrain the landlord from evicting them. The Court has granted the interim injunction. The landlord is now appealing the order, arguing that the Court erred in granting the interim injunction.",
+    "Legal Principles": "The scope of Section 9 of the Arbitration and Conciliation Act, 1996 in relation to interim measures to protect property. The principles of balancing the interests of the parties in granting interim injunctions. The role of the Court in assessing the merits of the case in granting interim relief.",
+    "Relevant Sections": "Section 9 of the Arbitration and Conciliation Act, 1996",
+    "Context": "Appeal in the High Court of Meghalaya against an order of the Commercial Court granting an interim injunction under Section 9 of the Arbitration Act."
+  },
+  {
+    "Query": "A company is seeking to recover a debt from a debtor. The debtor has filed a Section 9 application under the Arbitration and Conciliation Act, 1996, seeking an interim injunction to restrain the company from pursuing its debt recovery proceedings. The Court has dismissed the application. The debtor is now appealing the order, arguing that the Court erred in dismissing its application.",
+    "Legal Principles": "The scope of Section 9 of the Arbitration and Conciliation Act, 1996 in relation to interim measures to protect assets. The principles of balancing the interests of the parties in granting interim injunctions. The role of the Court in assessing the merits of the case in granting interim relief.",
+    "Relevant Sections": "Section 9 of the Arbitration and Conciliation Act, 1996",
+    "Context": "Appeal in the High Court of Meghalaya against an order of the Commercial Court dismissing an application under Section 9 of the Arbitration Act."
+  },
+  {
+    "Query": "A party to an arbitration agreement is seeking to compel the other party to participate in arbitration. The other party has filed a Section 8 application under the Arbitration and Conciliation Act, 1996, seeking to stay the arbitration proceedings. The Court has dismissed the application and ordered the parties to proceed with arbitration. The party seeking to stay the arbitration is now appealing the order, arguing that the Court erred in dismissing its application.",
+    "Legal Principles": "The scope of Section 8 of the Arbitration and Conciliation Act, 1996 in relation to staying arbitration proceedings. The grounds for staying arbitration proceedings, including lack of a valid arbitration agreement or the existence of a dispute not covered by the agreement. The role of the Court in determining the validity of an arbitration agreement and the scope of the agreement.",
+    "Relevant Sections": "Section 8 of the Arbitration and Conciliation Act, 1996",
+    "Context": "Appeal in the High Court of Meghalaya challenging an order of the Commercial Court dismissing an application under Section 8 of the Arbitration Act to stay arbitration proceedings."
+  },
+  {
+    "Query": "A company is seeking to enforce a foreign arbitral award against a defendant company in India. The defendant company has filed an application under Section 48 of the Arbitration and Conciliation Act, 1996, seeking to set aside the award. The Court has dismissed the application and upheld the award. The defendant company is now appealing the order, arguing that the Court erred in dismissing its application.",
+    "Legal Principles": "The scope of Section 48 of the Arbitration and Conciliation Act, 1996 in relation to setting aside foreign arbitral awards. The grounds for setting aside a foreign award, including lack of jurisdiction, public policy considerations, or violation of due process. The role of the Court in determining the validity of a foreign award and the principles of international comity.",
+    "Relevant Sections": "Section 48 of the Arbitration and Conciliation Act, 1996",
+    "Context": "Appeal in the High Court of Meghalaya challenging an order of the Commercial Court rejecting an application under Section 48 of the Arbitration Act to set aside a foreign arbitral award."
+  },
+  {
+    "Query": "Two parties have entered into a contract with an arbitration clause. A dispute arises between them, and one party files a Section 9 application under the Arbitration and Conciliation Act, 1996, seeking an interim injunction to prevent the other party from taking certain actions. The Court grants the interim injunction. The other party appeals the order, arguing that the Court lacked jurisdiction to grant the injunction because the dispute is subject to arbitration.",
+    "Legal Principles": "The interplay between Section 9 of the Arbitration and Conciliation Act, 1996, and the arbitration clause in a contract. The Court's jurisdiction to grant interim relief in cases where the dispute is subject to arbitration. The principles of balancing the interests of the parties in granting interim relief.",
+    "Relevant Sections": "Section 9 of the Arbitration and Conciliation Act, 1996",
+    "Context": "Appeal in the High Court of Meghalaya challenging an order of the Commercial Court granting an interim injunction under Section 9 of the Arbitration Act."
+  },
+  {
+    "Query": "A company is seeking to enforce a domestic arbitral award against a defendant company. The defendant company has filed an application under Section 34 of the Arbitration and Conciliation Act, 1996, seeking to set aside the award on the grounds of fraud and corruption. The Court dismisses the application, finding that the defendant company failed to establish sufficient evidence of fraud or corruption. The defendant company appeals the order, arguing that the Court erred in dismissing its application.",
+    "Legal Principles": "The grounds for setting aside an arbitral award under Section 34 of the Arbitration and Conciliation Act, 1996. The standard of proof required to establish fraud or corruption in an arbitral award. The role of the Court in reviewing arbitral awards and the principles of judicial review.",
+    "Relevant Sections": "Section 34 of the Arbitration and Conciliation Act, 1996",
+    "Context": "Appeal in the High Court of Meghalaya challenging an order of the Commercial Court rejecting an application under Section 34 of the Arbitration Act to set aside a domestic arbitral award."
+  },
+  {
+    "Query": "A party to an arbitration agreement has filed an application under Section 11 of the Arbitration and Conciliation Act, 1996, seeking the appointment of an arbitrator. The other party opposes the application, arguing that the arbitration agreement is invalid. The Court dismisses the application, finding that the arbitration agreement is invalid. The party seeking the appointment of an arbitrator appeals the order, arguing that the Court erred in finding that the agreement is invalid.",
+    "Legal Principles": "The scope of Section 11 of the Arbitration and Conciliation Act, 1996 in relation to appointing an arbitrator. The principles for determining the validity of an arbitration agreement. The role of the Court in reviewing the validity of an agreement and the principles of judicial review.",
+    "Relevant Sections": "Section 11 of the Arbitration and Conciliation Act, 1996",
+    "Context": "Appeal in the High Court of Meghalaya challenging an order of the Commercial Court dismissing an application under Section 11 of the Arbitration Act to appoint an arbitrator."
+  }
+]
+```

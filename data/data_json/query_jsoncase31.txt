@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A defendant in a commercial dispute filed a written statement beyond the 120-day statutory period. The Commercial Court dismissed the application for condonation of delay. The defendant argues that the court had the power to grant an extension and that the statutory period should be counted from the date of transfer to the Commercial Court. Can the Commercial Court extend the time for filing a written statement beyond 120 days in a case transferred from a regular civil court?",
+    "Legal Principles": "The Commercial Courts Act, 2015, amended the Code of Civil Procedure (CPC) to expedite commercial disputes. The Act established a mandatory time limit of 120 days for filing written statements in commercial disputes. However, cases transferred from regular civil courts are subject to specific provisions that allow the Commercial Court to prescribe a new time period for filing written statements.",
+    "Relevant Sections": "Section 15(2), 15(4), 16 of the Commercial Courts Act, 2015; Order VIII Rule 1, 10 of the Code of Civil Procedure",
+    "Context": "Commercial Dispute, Condonation of Delay, Transfer of Pending Cases, Statutory Interpretation, Commercial Courts Act, 2015, Code of Civil Procedure"
+  },
+  {
+    "Query": "A company filed a suit for recovery of money against a partnership firm. The firm failed to file a written statement within the stipulated time. The firm later filed an application for extension of time, but it was dismissed due to the expiration of the 120-day time limit. Can the Commercial Court extend the time for filing a written statement beyond 120 days?",
+    "Legal Principles": "The Commercial Courts Act, 2015 introduced a mandatory 120-day time limit for filing written statements in commercial disputes. This time limit is generally not extendable. However, exceptions exist for cases transferred from regular civil courts.",
+    "Relevant Sections": "Section 16 of the Commercial Courts Act, 2015; Order VIII Rule 1 of the Code of Civil Procedure",
+    "Context": "Commercial Dispute, Time Limit, Written Statement, Commercial Courts Act, 2015, Code of Civil Procedure"
+  },
+  {
+    "Query": "A plaintiff filed a suit against a defendant for breach of contract. The defendant failed to file a written statement within the 120-day time limit. The defendant claims that the statutory period should be counted from the date of service of the summons and not the date of transfer to the Commercial Court. Is this argument valid?",
+    "Legal Principles": "The statutory 120-day time limit for filing written statements in commercial disputes starts from the date of service of the summons. The transfer of a case from a regular civil court to a Commercial Court does not change this principle.  ",
+    "Relevant Sections": "Order V Rule 1, Order VIII Rule 1 of the Code of Civil Procedure",
+    "Context": "Commercial Dispute, Time Limit, Written Statement, Summons, Commercial Courts Act, 2015, Code of Civil Procedure"
+  },
+  {
+    "Query": "A construction company filed a suit against a developer for non-payment of dues. The developer filed a written statement beyond the statutory 120-day period. The developer claimed that the delay was due to unforeseen circumstances. Should the court condone the delay in filing the written statement?",
+    "Legal Principles": "Courts have the discretion to condone delays in filing documents. However, the defendant must demonstrate sufficient cause for the delay. The court considers factors like the nature of the delay, the prejudice caused to the plaintiff, and the defendant's diligence in pursuing the case.",
+    "Relevant Sections": "Section 5 of the Limitation Act, 1963; Order VIII Rule 1 of the Code of Civil Procedure",
+    "Context": "Commercial Dispute, Condonation of Delay, Written Statement, Limitation Act, Code of Civil Procedure"
+  },
+  {
+    "Query": "A software firm filed a suit for recovery of unpaid fees against a client. The client failed to file a written statement within the 120-day period. The client argued that the delay was due to technical difficulties in accessing the court's website. Can the court consider these technical difficulties as sufficient cause for condoning the delay?",
+    "Legal Principles": "Technical difficulties may be considered as sufficient cause for condoning delay, but the defendant must provide evidence of the difficulties and their impact on their ability to file the written statement.",
+    "Relevant Sections": "Section 5 of the Limitation Act, 1963; Order VIII Rule 1 of the Code of Civil Procedure",
+    "Context": "Commercial Dispute, Condonation of Delay, Written Statement, Technical Difficulties, Limitation Act, Code of Civil Procedure"
+  },
+  {
+    "Query": "A supplier filed a suit against a retailer for breach of contract. The retailer filed a written statement beyond the 120-day period and sought condonation of delay. The retailer argued that the delay was due to a misunderstanding about the statutory time limit. Should the court consider this argument as sufficient cause for condoning the delay?",
+    "Legal Principles": "A misunderstanding about the statutory time limit may not be considered a sufficient cause for condoning delay. Ignorance of the law is generally not an excuse. However, the court may consider the circumstances of the case and the defendant's diligence in seeking legal advice.",
+    "Relevant Sections": "Section 5 of the Limitation Act, 1963; Order VIII Rule 1 of the Code of Civil Procedure",
+    "Context": "Commercial Dispute, Condonation of Delay, Written Statement, Misunderstanding of Law, Limitation Act, Code of Civil Procedure"
+  },
+  {
+    "Query": "A contractor filed a suit against a property owner for non-payment of construction work. The property owner filed a written statement beyond the 120-day period, claiming that the delay was due to illness. Can the court condone the delay based on the property owner's illness?",
+    "Legal Principles": "Illness can be considered as sufficient cause for condoning delay, provided the defendant provides medical evidence and demonstrates that the illness prevented them from filing the written statement within the statutory period.",
+    "Relevant Sections": "Section 5 of the Limitation Act, 1963; Order VIII Rule 1 of the Code of Civil Procedure",
+    "Context": "Commercial Dispute, Condonation of Delay, Written Statement, Illness, Limitation Act, Code of Civil Procedure"
+  },
+  {
+    "Query": "A manufacturer filed a suit against a distributor for failure to meet sales targets. The distributor filed a written statement beyond the 120-day period, citing financial difficulties as the reason. Should the court condone the delay based on financial difficulties?",
+    "Legal Principles": "Financial difficulties can be considered as a valid reason for condoning delay, but the defendant must demonstrate the severity of the difficulties and their impact on their ability to file the written statement. The court will also assess the defendant's diligence in seeking financial assistance or restructuring their finances.",
+    "Relevant Sections": "Section 5 of the Limitation Act, 1963; Order VIII Rule 1 of the Code of Civil Procedure",
+    "Context": "Commercial Dispute, Condonation of Delay, Written Statement, Financial Difficulties, Limitation Act, Code of Civil Procedure"
+  },
+  {
+    "Query": "A service provider filed a suit against a customer for non-payment of services. The customer failed to file a written statement within the 120-day period. The customer argued that the delay was due to the absence of their legal counsel. Should the court condone the delay based on the absence of the customer's legal counsel?",
+    "Legal Principles": "The absence of legal counsel can be considered as a valid reason for condoning delay, but the defendant must demonstrate that the absence was unavoidable and that they took reasonable steps to find alternative legal representation. The court will also consider the defendant's diligence in pursuing the case despite the absence of counsel.",
+    "Relevant Sections": "Section 5 of the Limitation Act, 1963; Order VIII Rule 1 of the Code of Civil Procedure",
+    "Context": "Commercial Dispute, Condonation of Delay, Written Statement, Absence of Legal Counsel, Limitation Act, Code of Civil Procedure"
+  },
+  {
+    "Query": "A company filed a suit against a supplier for defective goods. The supplier filed a written statement beyond the 120-day period, claiming that the delay was due to a natural disaster that impacted their operations. Should the court condone the delay based on the natural disaster?",
+    "Legal Principles": "Natural disasters can be considered as a valid reason for condoning delay, but the defendant must provide evidence of the disaster and its impact on their operations. The court will also consider the defendant's diligence in resuming their business operations and pursuing the case after the disaster.",
+    "Relevant Sections": "Section 5 of the Limitation Act, 1963; Order VIII Rule 1 of the Code of Civil Procedure",
+    "Context": "Commercial Dispute, Condonation of Delay, Written Statement, Natural Disaster, Limitation Act, Code of Civil Procedure"
+  }
+]
+```

@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A company, 'Tech Solutions Inc.', claims trademark infringement by 'NewTech Corp.', who is using a similar trademark 'TechSol'. Tech Solutions Inc. seeks an injunction against NewTech Corp., claiming prior user rights and deceptive similarity between the trademarks. NewTech Corp. argues that 'TechSol' is a distinct trademark and their usage predates Tech Solutions Inc.'s incorporation. The court needs to determine whether Tech Solutions Inc. can claim prior user rights through its predecessor company, 'TechStart', which was using 'TechSol' before Tech Solutions Inc. was incorporated. ",
+    "Legal Principles": "Prior user rights, trademark infringement, deceptive similarity, assignment of trademark rights, predecessor companies, corporate veil piercing.",
+    "Relevant Sections": "Section 34 of the Trade Marks Act, Order VI Rule 17 of the CPC,  Section 13 of the Commercial Courts Act,  Section 10 of the Delhi High Court Act,  Rule 3 and Rule 5 of Chapter II of the 2018 Original Side Rules.",
+    "Context": "Trademark infringement case in a Commercial Court in Delhi High Court, involving a dispute over prior user rights, assignment of trademark rights, and deceptive similarity between two trademarks."
+  },
+  {
+    "Query": "A developer, 'Green Homes Ltd.', filed a suit against a construction company, 'BuildRight', claiming breach of contract for the construction of a residential complex. BuildRight seeks to amend their written statement to introduce a new defense based on a force majeure event - a sudden earthquake that caused significant delays and disruptions to the project. Green Homes Ltd. argues that the amendment is mala fide and seeks to defeat their claim. The court needs to decide whether to allow the amendment and assess the merit of the force majeure defense.",
+    "Legal Principles": "Amendment of pleadings, Order VI Rule 17 of the CPC, force majeure, breach of contract,  'real controversy test',  'prejudice test' ",
+    "Relevant Sections": "Order VI Rule 17 of the CPC,  Section 13 of the Commercial Courts Act.",
+    "Context": "Contract dispute case in a Commercial Court in Delhi High Court, involving a motion to amend pleadings and the application of a force majeure clause."
+  },
+  {
+    "Query": "A technology company, 'InnoTech', filed a suit against its former employee, 'Mr. Sharma', alleging misappropriation of confidential information and breach of a non-disclosure agreement. Mr. Sharma seeks to amend his written statement to raise a new defense claiming that the information he used was not confidential and was already in the public domain. InnoTech argues that the amendment is an attempt to delay the proceedings. The court needs to decide whether to allow the amendment and assess the validity of the new defense.",
+    "Legal Principles": "Amendment of pleadings, Order VI Rule 17 of the CPC, confidentiality, breach of contract, trade secrets,  'real controversy test',  'prejudice test'",
+    "Relevant Sections": "Order VI Rule 17 of the CPC,  Section 13 of the Commercial Courts Act.",
+    "Context": "Contract and intellectual property dispute case in a Commercial Court in Delhi High Court, involving a motion to amend pleadings and the application of a non-disclosure agreement."
+  },
+  {
+    "Query": "A partnership, 'Creative Solutions', is dissolving and disputes arise over the division of assets and liabilities. One partner, 'Ms. Gupta', claims that the other partner, 'Mr. Singh', misappropriated funds from the partnership. Mr. Singh seeks to amend his written statement to introduce a new defense alleging that the funds were used for legitimate business expenses. Ms. Gupta argues that the amendment is a fabrication and seeks to delay the proceedings. The court needs to decide whether to allow the amendment and assess the merit of the new defense.",
+    "Legal Principles": "Amendment of pleadings, Order VI Rule 17 of the CPC, partnership dissolution, fiduciary duty, misappropriation of funds,  'real controversy test',  'prejudice test'",
+    "Relevant Sections": "Order VI Rule 17 of the CPC,  Section 13 of the Commercial Courts Act.",
+    "Context": "Partnership dissolution case in a Commercial Court in Delhi High Court, involving a motion to amend pleadings and the allegation of misappropriation of funds."
+  },
+  {
+    "Query": "A company, 'Global Exports', is facing a claim for unpaid debts from a foreign supplier, 'Overseas Supplies'. Global Exports seeks to amend their written statement to introduce a new defense claiming that the goods supplied were defective and caused significant losses. Overseas Supplies argues that the amendment is a belated attempt to avoid their liability. The court needs to decide whether to allow the amendment and assess the validity of the new defense.",
+    "Legal Principles": "Amendment of pleadings, Order VI Rule 17 of the CPC, breach of contract, defective goods,  'real controversy test',  'prejudice test'",
+    "Relevant Sections": "Order VI Rule 17 of the CPC,  Section 13 of the Commercial Courts Act.",
+    "Context": "International trade dispute case in a Commercial Court in Delhi High Court, involving a motion to amend pleadings and the allegation of defective goods."
+  },
+  {
+    "Query": "A real estate company, 'Property Ventures', filed a suit against a buyer, 'Mr. Sharma', for breach of contract after Mr. Sharma failed to complete the purchase of a property. Mr. Sharma seeks to amend his written statement to introduce a new defense claiming that Property Ventures misrepresented the property's condition. Property Ventures argues that the amendment is an attempt to avoid their rightful claim. The court needs to decide whether to allow the amendment and assess the validity of the new defense.",
+    "Legal Principles": "Amendment of pleadings, Order VI Rule 17 of the CPC, breach of contract, misrepresentation,  'real controversy test',  'prejudice test'",
+    "Relevant Sections": "Order VI Rule 17 of the CPC,  Section 13 of the Commercial Courts Act.",
+    "Context": "Real estate dispute case in a Commercial Court in Delhi High Court, involving a motion to amend pleadings and the allegation of misrepresentation."
+  },
+  {
+    "Query": "A publishing company, 'Literary Press', is sued by an author, 'Ms. Kapoor', for copyright infringement.  Literary Press wants to amend its written statement to argue that Ms. Kapoor's work is not original and is based on public domain materials. Ms. Kapoor argues that the amendment is an attempt to delay the proceedings and lacks merit. The court needs to decide whether to allow the amendment and assess the validity of the new defense.",
+    "Legal Principles": "Amendment of pleadings, Order VI Rule 17 of the CPC, copyright infringement, originality,  'real controversy test',  'prejudice test'",
+    "Relevant Sections": "Order VI Rule 17 of the CPC,  Section 13 of the Commercial Courts Act.",
+    "Context": "Copyright infringement case in a Commercial Court in Delhi High Court, involving a motion to amend pleadings and the defense of lack of originality."
+  },
+  {
+    "Query": "A software company, 'Tech Solutions', is sued by a client, 'ABC Corporation', for breach of contract. Tech Solutions seeks to amend its written statement to argue that ABC Corporation failed to meet its contractual obligations by not providing timely access to its systems, causing delays in the software development process. ABC Corporation argues that the amendment is an attempt to shift blame and lacks merit. The court needs to decide whether to allow the amendment and assess the validity of the new defense.",
+    "Legal Principles": "Amendment of pleadings, Order VI Rule 17 of the CPC, breach of contract, material breach,  'real controversy test',  'prejudice test'",
+    "Relevant Sections": "Order VI Rule 17 of the CPC,  Section 13 of the Commercial Courts Act.",
+    "Context": "Contract dispute case in a Commercial Court in Delhi High Court, involving a motion to amend pleadings and the defense of material breach."
+  },
+  {
+    "Query": "A manufacturing company, 'Industrial Supplies', is sued by a supplier, 'Raw Materials Inc.', for non-payment of invoices. Industrial Supplies seeks to amend its written statement to argue that the goods supplied by Raw Materials Inc. were defective and did not meet the agreed specifications, justifying their refusal to pay. Raw Materials Inc. argues that the amendment is an afterthought and lacks merit. The court needs to decide whether to allow the amendment and assess the validity of the new defense.",
+    "Legal Principles": "Amendment of pleadings, Order VI Rule 17 of the CPC, breach of contract, defective goods,  'real controversy test',  'prejudice test'",
+    "Relevant Sections": "Order VI Rule 17 of the CPC,  Section 13 of the Commercial Courts Act.",
+    "Context": "Contract dispute case in a Commercial Court in Delhi High Court, involving a motion to amend pleadings and the defense of defective goods."
+  },
+  {
+    "Query": "A transportation company, 'Speedy Logistics', is sued by a client, 'RetailMart', for damages resulting from the late delivery of a shipment. Speedy Logistics seeks to amend its written statement to argue that the delay was caused by unforeseen road closures due to a natural disaster. RetailMart argues that the amendment is an attempt to avoid liability and lacks merit. The court needs to decide whether to allow the amendment and assess the validity of the new defense.",
+    "Legal Principles": "Amendment of pleadings, Order VI Rule 17 of the CPC, breach of contract, force majeure,  'real controversy test',  'prejudice test'",
+    "Relevant Sections": "Order VI Rule 17 of the CPC,  Section 13 of the Commercial Courts Act.",
+    "Context": "Contract dispute case in a Commercial Court in Delhi High Court, involving a motion to amend pleadings and the defense of force majeure."
+  }
+]
+```

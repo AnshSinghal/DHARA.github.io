@@ -1,0 +1,98 @@
+## 1. Case Title
+
+* **Case Name:** D & H India Ltd vs Superon Schweisstechnik India Ltd
+* **Court:** Delhi High Court
+* **Date of Judgment:** 16th March, 2020
+* **Citation:** AIRONLINE 2020 DEL 463
+
+## 2. Background and Context
+
+* **Brief Overview:**  Superon Schweisstechnik India Ltd. (Respondent) filed a suit against D & H India Ltd. (Appellant) seeking a permanent injunction to prevent the Appellant from using the trademark "SUPERCROME" for welding electrodes. The Respondent claimed "SUPERCROME" was deceptively similar to its own trademark "SUPERON," leading to potential confusion and passing off. The Appellant, in turn, argued it was the prior user of "SUPERCROME" and had been using similar trademarks since 1992, while the Respondent was incorporated only in 2004.
+* **Key Issues:**
+    *  Whether the Respondent was entitled to claim prior user of "SUPERON" from 1994 through its sister concern, Stanvac Chemicals India Ltd., despite its own incorporation in 2004. 
+    *  Whether the proposed amendment by the Respondent, changing the date of user for "SUPERON," substantially altered the nature of the suit.
+    *  Whether the learned Joint Registrar acted within his jurisdiction in adjudicating the Respondent's application for amendment.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * Trade Marks Act, 1999 (Sections 2, 11, 34)
+    * Commercial Courts Act, 2015 (Sections 13, 21)
+    * Code of Civil Procedure, 1908 (Order VI Rule 17, Order XLIII, Section 100A, Section 104, Section 151)
+    * Delhi High Court Act, 1966 (Sections 7, 10)
+    * Delhi High Court Rules (Original Side), 2018 (Chapter II Rules 3, 5)
+    * Delhi High Court (Original Side) Rules, 1967 (Chapter II Rules 3, 4)
+* **Precedents Cited:**
+    * Rajesh Kumar Aggarwal & Ors. v. K. K. Modi & Ors, AIR 2006 SC 1647
+    * Lakha Ram Sharma vs. Balar Marketing Private limited, (2008) 17 SCC 671
+    * Revajeetu Builders and Developers v. Narayanaswamy & Sons & Ors, MANU/SC/1724/2009
+    * HPL (India) Ltd v. QRG Enterprises, 206 (2014) DLT 188
+    * Samsung Leasing Ltd v. Samsung Electronics Co. Ltd, MANU/DE/2107/2017
+    * Rahul Gupta v. Pratap Singh, MANU/DE/0347/2017
+    * Akash Gupta v. Frankfinn Institute of Air Hostess Training, AIR 2006 Delhi 325: 127 (2006) DLT 188
+    * Print Pak Machinery Ltd. v. Jay Kay Papers Converters, AIR 1979 Delhi 217
+* **Legal Doctrines:**
+    * Prior User Defense in Trademark Infringement
+    * Passing Off
+    * Amendment of Pleadings (Order VI Rule 17 CPC)
+    * Jurisdiction of Courts
+    * Interpretation of Statutory Provisions
+
+## 4. Arguments Presented
+
+* **Plaintiff’s Argument (Respondent):**
+    *  The Respondent claimed to be the prior user of "SUPERON" since 1994 through its sister concern, Stanvac Chemicals India Ltd., and sought to amend its plaint to incorporate this claim.
+    *  The Respondent argued that "SUPERCROME" was deceptively similar to "SUPERON," leading to potential confusion and passing off.
+    *  The Respondent contended that the Appellant was infringing its trademark rights and sought a permanent injunction.
+* **Defendant’s Argument (Appellant):**
+    *  The Appellant denied infringing the Respondent's trademark and argued it was the prior user of "SUPERCROME" since 2001.
+    *  The Appellant pointed to its use of similar trademarks with the "Super" prefix since 1992, before the Respondent's incorporation in 2004.
+    *  The Appellant argued that the proposed amendment by the Respondent was an attempt to circumvent its defenses and cause grave prejudice.
+    *  The Appellant challenged the jurisdiction of the learned Joint Registrar in adjudicating the amendment application.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The Court found that the Respondent's proposed amendment was not "formal" in nature but substantially altered the nature of the suit by changing the date of user for "SUPERON."
+    * The Court held that the learned Joint Registrar exceeded his jurisdiction in adjudicating the amendment application as it was not "formal" under the Delhi High Court Rules (Original Side), 2018.
+    *  Despite the Joint Registrar exceeding his jurisdiction, the Court upheld the learned Single Judge's decision to allow the amendment, reasoning that the Single Judge had independently examined the merits of the amendment and the trial had not yet begun.
+    * The Court reiterated that the "real controversy" test was the cardinal principle for allowing amendments and that the purpose was to determine the real questions in dispute. 
+* **Interpretation of Law:**
+    * The Court interpreted the relevant statutory provisions and precedents to determine the scope and application of the right to amend pleadings under Order VI Rule 17 of the CPC.
+    * The Court analyzed the provisions of the Commercial Courts Act, 2015, and determined the appellate jurisdiction of the Division Bench.
+    *  The Court interpreted the Delhi High Court Rules (Original Side), 2018, to define the "formal" nature of amendments that the Registrar could decide.
+* **Application of Law:**
+    * The Court applied the legal principles to the facts of the case, finding that the Respondent's proposed amendment was not "formal" and significantly changed the nature of the suit.
+    *  The Court applied the "prejudice" test and determined that the Appellant would not suffer irreparable prejudice from allowing the amendment.
+    * The Court applied the "real controversy" test to uphold the learned Single Judge's decision, as the amendment was relevant to determining the real questions in dispute.
+
+## 6. Judgment
+
+* **Final Decision:** The appeal was dismissed.
+* **Relief Granted:** No relief was granted to the Appellant.
+* **Orders:** The impugned order of the learned Single Judge was upheld, and the Respondent was allowed to amend its plaint.
+
+## 7. Implications
+
+* **Impact on Law:**  The case emphasizes the importance of the "real controversy" test when considering applications for amendments under Order VI Rule 17 of the CPC. It also clarifies the jurisdiction of the Registrar under the Delhi High Court Rules (Original Side), 2018, in dealing with amendment applications. 
+* **Future Relevance:** The judgment provides guidance on the maintainability of appeals against orders passed by the learned Single Judge exercising commercial jurisdiction under the Delhi High Court Rules (Original Side), 2018.
+* **Broader Context:** The case highlights the complexities involved in trademark infringement cases, particularly the issue of prior user rights and the need for clear and consistent trademark registration practices. 
+
+## 8. Summary Points
+
+* The Delhi High Court dismissed the Appellant's appeal against the learned Single Judge's order allowing the Respondent to amend its plaint.
+* The Court found that the Respondent's proposed amendment was not "formal" but significantly changed the nature of the suit.
+*  The Court upheld the Single Judge's decision, despite the learned Joint Registrar exceeding his jurisdiction, as the Single Judge had independently examined the merits of the amendment and the trial had not yet begun.
+* The judgment emphasizes the importance of the "real controversy" test in amendment applications and reiterates that the purpose of amendment is to determine the real questions in dispute.
+
+## 9. References
+
+* **Citations:** See "Legal Principles Involved" section for citations of relevant statutes, provisions, and precedents.
+* **Further Reading:**  
+    * Trade Marks Act, 1999
+    * Commercial Courts Act, 2015
+    * Code of Civil Procedure, 1908 
+    * Delhi High Court Act, 1966
+    * Delhi High Court Rules (Original Side), 2018
+    * Delhi High Court (Original Side) Rules, 1967
+    * Relevant case law on amendment of pleadings, prior user, passing off, and trademark infringement. 

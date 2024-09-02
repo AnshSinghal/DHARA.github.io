@@ -1,0 +1,125 @@
+## 1. Case Title
+
+* **Case Name:** Prime Cottex Pvt. Ltd. vs. Bank of Baroda
+* **Court:** Gujarat High Court
+* **Date of Judgment:** 18th December 2019
+* **Citation:** C/FA/5349/2019
+
+## 2. Background and Context
+
+**Brief Overview:** Prime Cottex Pvt. Ltd. (Appellant), a company engaged in cotton ginning and pressing, acted as a corporate guarantor for M/s. ABC Cotspin Pvt. Ltd. (Borrower) for loans sanctioned by Bank of Baroda (Respondent). The Bank agreed to release Prime Cottex's guarantee upon the Borrower providing new collateral and Prime Cottex releasing its existing collateral. Prime Cottex fulfilled its obligations, but the Bank did not release the guarantee. Despite this, the Bank filed a recovery application before the Debts Recovery Tribunal (DRT) against both the Borrower and Prime Cottex. The DRT ruled in favor of the Bank, holding Prime Cottex liable as a guarantor. 
+
+**Key Issues:**
+
+* Whether the Commercial Court had jurisdiction to entertain Prime Cottex's suit against the Bank, seeking a declaration that it was discharged from the guarantee.
+* Whether the Commercial Court's decision to reject the plaint on grounds of *res judicata* and the bar of jurisdiction under the Recovery of Debts and Bankruptcy Act, 1993 (the Act, 1993) was justified.
+
+## 3. Legal Principles Involved
+
+**Relevant Statutes and Provisions:**
+
+* **Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015:** Section 13 (basis for filing the First Appeal)
+* **Code of Civil Procedure, 1908:** Order VII Rule 11 (dealing with rejection of plaints), Section 9 (jurisdiction of civil courts), Section 11 (res judicata), Section 12 (bar of suits)
+* **Recovery of Debts and Bankruptcy Act, 1993 (The Act, 1993):** Section 17 (jurisdiction of DRT), Section 18 (bar of jurisdiction), Section 19 (6-11) (dealing with set-off and counterclaim)
+* **Banking Regulation Act, 1949:** Relevant for the Bank's status and activities.
+* **Indian Companies Act, 1956:** Relevant for Prime Cottex's status as a company.
+
+**Precedents Cited:**
+
+* **Nahar Industrial Enterprises Ltd. Vs. Hong Kong & Shanghai Banking Corporation (2009) 8 SCC 646:** Discusses the scope of the DRT's jurisdiction and the limitations of Section 34 of the SARFAESI Act.
+* **Indian Bank Vs. ABS Marine Products (P) Ltd (2006) 5 SCC 72:** Addresses the enabling nature of Sections 19(6-11) of the Act, 1993 and the continued jurisdiction of civil courts.
+* **Kamala & Others Vs. K.T. Eshwara Sa and Others (2008) 12 SCC 661:** Defines the limited application of Order VII Rule 11(d) and the process of determining res judicata.
+* **Cofex Exports Ltd. Vs. Canara Bank AIR 1997 Delhi 355:** Interprets the *res judicata* effect of DRT decisions on subsequent civil court proceedings.
+* **Vishal Exports Overseas Limited & Others Vs. State Bank of Indian & Others (First Appeal No.1956 of 2018, decided on 10/07/2018):** Emphasizes the need for specific findings regarding the maintainability of independent suits under the Finance Act, 1993.
+* **M/s. Kaushik Co-op. Building Society Vs. N. Parvathamma (AIR 2017 SC 1962):** Explains the application of *res judicata* and its role in achieving finality in litigation.
+* **Vaish Aggarwal Panchayat Vs. Inder Kumar & Others (Civil Appeal No.2089 of 2015, decided on 25/08/2015):** Reinforces the need for a proper foundation for *res judicata* through pleadings and trial.
+* **Balasaria Construction (P) Ltd. v. Hanuman Seva Trust (2005) 10 SCC 700):** Addresses the question of whether Order VII Rule 11(d) covers suits barred by limitation.
+* **G. Subramani Vs. V. Rajasekaran (2013 (4) CTC 468):** Rules that *res judicata* cannot be a ground for rejecting a plaint; it needs to be raised and decided separately.
+
+**Legal Doctrines:**
+
+* **Res judicata:**  The principle barring courts from trying an issue already conclusively decided in a prior suit between the same parties. 
+* **Jurisdiction:** The power of a court to hear and decide a case.
+* **Contract Law:** Principles governing the formation, performance, and breach of contracts, particularly relevant to the guarantee agreement.
+
+## 4. Arguments Presented
+
+**Plaintiff’s Argument (Prime Cottex):**
+
+* Prime Cottex argued that it had fulfilled its obligations under the sanction letter by providing new collateral and releasing its existing collateral.
+* The Bank's failure to release the guarantee constituted a breach of contract.
+* The suit was an independent claim based on the breach of contract, and not a counterclaim to the Bank's DRT application. 
+* The DRT's decision was not *res judicata* as the issues before the DRT and the civil court were distinct.
+* The Act, 1993 barred the Civil Court's jurisdiction only regarding applications for debt recovery by banks, not independent suits filed by guarantors.
+* The Commercial Court had jurisdiction to entertain Prime Cottex's suit seeking a declaration of its discharge from the guarantee.
+
+**Defendant’s Argument (Bank of Baroda):**
+
+* The Bank argued that Prime Cottex's suit was frivolous and aimed at escaping its obligations as a guarantor.
+* The DRT had already decided the issue of the guarantee and found Prime Cottex liable.
+* Prime Cottex should have filed a counterclaim within the DRT proceedings instead of filing a separate suit.
+* The Commercial Court's jurisdiction was barred under Section 17 of the Act, 1993, as the matter fell within the DRT's purview.
+* The suit was barred by *res judicata* due to the DRT's decision.
+
+## 5. Court’s Analysis and Reasoning
+
+**Key Findings:**
+
+* The Court found that the Commercial Court had erred in rejecting the plaint. 
+* The Commercial Court had not properly considered the averments in the plaint when determining if the suit was barred by law. 
+* The Court determined that the DRT's decision was not *res judicata* in the context of Prime Cottex's independent suit. 
+* The Court clarified that the Act, 1993 barred the Civil Court's jurisdiction only for debt recovery applications by banks, not for independent suits filed by borrowers or guarantors.
+
+**Interpretation of Law:**
+
+* The Court emphasized the limited scope of Order VII Rule 11(d) and the need for specific findings regarding the bar of a suit.
+* The Court carefully analyzed the relevant statutory provisions, particularly Section 17 and Section 18 of the Act, 1993, to ascertain the scope of the DRT's jurisdiction.
+* The Court interpreted the precedents cited, such as *Nahar Industrial Enterprises Ltd.* and *Indian Bank Vs. ABS Marine Products*, to support its conclusion that the Civil Court's jurisdiction was not barred in this case.
+
+**Application of Law:**
+
+* The Court applied the principle of *res judicata* with caution, recognizing that the DRT's decision did not necessarily bar Prime Cottex's independent claim.
+* The Court distinguished the issues in Prime Cottex's suit from those before the DRT, finding no direct and substantial overlap.
+* The Court found no basis for applying the *res judicata* principle to preclude Prime Cottex from seeking a declaration of its discharge.
+
+## 6. Judgment
+
+**Final Decision:** The appeal was allowed. The Gujarat High Court quashed and set aside the Commercial Court's order rejecting the plaint.
+
+**Relief Granted:** The Commercial Suit No. 10 of 2018 was ordered to be restored to the Commercial Court for further proceedings.
+
+**Orders:** The High Court directed the Commercial Court to proceed with the case, allowing Prime Cottex to pursue its claim for a declaration that it was discharged from the guarantee.
+
+## 7. Implications
+
+**Impact on Law:**
+
+* The judgment reinforces the limited scope of the DRT's jurisdiction, clarifying that it does not bar independent suits filed by borrowers or guarantors seeking relief against banks.
+* The judgment clarifies the application of *res judicata* in cases where there are distinct issues and causes of action.
+
+**Future Relevance:**
+
+* The judgment provides guidance to courts in determining the jurisdiction of civil courts in the context of DRT proceedings.
+* It encourages courts to scrutinize the averments in a plaint before rejecting it on the grounds of *res judicata* or the bar of jurisdiction.
+
+**Broader Context:**
+
+* The judgment promotes access to justice for borrowers and guarantors seeking redress for potential breaches of contract by banks.
+* It reinforces the importance of contractual rights and obligations within the financial sector.
+
+## 8. Summary Points
+
+* The Gujarat High Court reversed the Commercial Court's decision to reject Prime Cottex's suit against Bank of Baroda.
+* The High Court found that the suit was not barred by *res judicata* or the jurisdiction of the DRT.
+* The judgment clarifies the scope of the DRT's jurisdiction and the continued jurisdiction of civil courts in certain circumstances.
+* The judgment reaffirms the importance of contractual rights and the right of borrowers and guarantors to pursue independent claims.
+
+## 9. References
+
+* **Statutes:** Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015; Code of Civil Procedure, 1908; Recovery of Debts and Bankruptcy Act, 1993; Banking Regulation Act, 1949; Indian Companies Act, 1956.
+* **Cases:** Nahar Industrial Enterprises Ltd. Vs. Hong Kong & Shanghai Banking Corporation (2009) 8 SCC 646; Indian Bank Vs. ABS Marine Products (P) Ltd (2006) 5 SCC 72; Kamala & Others Vs. K.T. Eshwara Sa and Others (2008) 12 SCC 661; Cofex Exports Ltd. Vs. Canara Bank AIR 1997 Delhi 355; Vishal Exports Overseas Limited & Others Vs. State Bank of Indian & Others (First Appeal No.1956 of 2018, decided on 10/07/2018); M/s. Kaushik Co-op. Building Society Vs. N. Parvathamma (AIR 2017 SC 1962); Vaish Aggarwal Panchayat Vs. Inder Kumar & Others (Civil Appeal No.2089 of 2015, decided on 25/08/2015); Balasaria Construction (P) Ltd. v. Hanuman Seva Trust (2005) 10 SCC 700; G. Subramani Vs. V. Rajasekaran (2013 (4) CTC 468).
+
+**Further Reading:**
+
+* **SARFAESI Act, 2002:** For a comprehensive understanding of the legal framework for recovery of debts by banks.
+* **Case Law Databases:** Legal databases such as Manupatra, SCC Online, and Westlaw India for access to further judgments on debt recovery, guarantee, and *res judicata*. 

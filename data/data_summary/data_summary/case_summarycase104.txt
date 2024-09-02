@@ -1,0 +1,100 @@
+## Case Title
+
+* **Case Name:** M/s Dalip Singh Adhikari vs. State of Uttarakhand and Another
+* **Court:** Uttarakhand High Court
+* **Date of Judgment:** 23 September 2019
+* **Citation:** 2019 (2) UHC 542 (This citation is based on a typical format, it might vary based on official court publications)
+
+## Background and Context
+
+* **Brief Overview:** M/s Dalip Singh Adhikari (Appellant) was awarded a contract to construct the Tanakpur-Jauljibi Motor Road by the State of Uttarakhand (Respondent). The contract contained an arbitration clause. The contract was subsequently terminated by the Respondents, leading to a dispute. The Appellant initiated arbitration proceedings, and an interim order was passed by the arbitral tribunal on 08 July 2019, granting a status quo order. The Respondents challenged this order before the Commercial Court, Dehradun, under Section 37 of the Arbitration and Conciliation Act, 1996 (Arbitration Act). The Commercial Court set aside the interim order. The Appellant then filed this appeal before the Uttarakhand High Court.
+
+* **Key Issues:** 
+    * Whether the appeal before the Commercial Court against the interim order of the arbitral tribunal was maintainable.
+    * Whether the Commercial Court was the correct forum for hearing the appeal under Section 37 of the Arbitration Act.
+    * Whether the Appellant could file a second appeal before the Uttarakhand High Court against the order of the Commercial Court under Section 37 of the Arbitration Act.
+
+## Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * Arbitration and Conciliation Act, 1996 (Arbitration Act):
+        * Section 2(1)(e)(i): Defines "Court" for arbitration proceedings.
+        * Section 17:  Relates to interim measures in arbitration proceedings.
+        * Section 37: Deals with appealable orders in arbitration proceedings.
+    * Commercial Courts Act, 2015:
+        * Section 3: Provisions for the constitution of Commercial Courts.
+        * Section 10(3): Specifies that appeals arising from arbitration under the Arbitration Act, which would ordinarily lie before a Principal Civil Court of original jurisdiction, shall be filed with the Commercial Court.
+
+* **Precedents Cited:**
+    * Kandla Export Corporation and another vs. M/s OCI Corporation and another (2018) 14 SCC 715
+    * Fuerst Day Lawson Limited vs. Jindal Exports Limited (2011) 8 Supreme Court Cases 333
+    * Sumitomo Corporation vs. CDC Financial Services (Mauritius) Ltd. and Ors., (2008) 4 SCC 91 
+
+* **Legal Doctrines:**
+    * **Self-Contained Code:** This doctrine holds that certain statutes are exhaustive on their subject matter, implying that other general laws may not apply.
+    * **Special vs. General Statute:**  In cases of inconsistency between a specific statute and a general statute, the specific statute prevails.
+
+## Arguments Presented
+
+* **Appellant's Argument:**
+    * The appeal before the Commercial Court was not maintainable because the arbitral tribunal had not made a final decision on the application filed under Section 17 of the Arbitration Act. 
+    * Appeals against the arbitral tribunal's orders under Section 17 should be filed before the Principal Civil Court of original jurisdiction as per Section 2(1)(e)(i) of the Arbitration Act, not the Commercial Court.
+    * The Commercial Court's admission of the appeal was an interlocutory order, and therefore, not appealable under Section 8 of the Commercial Courts Act.
+    *  The appellant relied on the principles laid down in the Kandla Export Corporation case, arguing that the instant appeal is maintainable under Section 13 of the Commercial Courts Act, 2015.
+
+* **Respondent's Argument:**
+    * The Commercial Court was a competent court to hear appeals under Section 37 of the Arbitration Act, as per the definition of "court" in Section 2(1)(e)(i) of the Arbitration Act, read with Section 10(3) of the Commercial Courts Act, 2015.
+    * The appeal before the Commercial Court was a valid appeal under Section 37(2) of the Arbitration Act.
+    *  The Appellant cannot file a second appeal as per Section 37(3) of the Arbitration Act.
+
+## Court's Analysis and Reasoning
+
+* **Key Findings:**
+    * The Uttarakhand High Court recognized that the Commercial Court was indeed a competent "court" under the Arbitration Act, due to the provisions of Section 10(3) of the Commercial Courts Act, 2015.
+    * The Court agreed that the appeal before the Commercial Court was a valid appeal under Section 37(2) of the Arbitration Act.
+    * The Court emphasized that the Arbitration Act is a self-contained code and takes precedence over the Commercial Courts Act in case of any inconsistencies.
+
+* **Interpretation of Law:** 
+    * The Court interpreted Section 37(2) of the Arbitration Act as allowing appeals against interim orders passed under Section 17 to be filed before a "court" as defined in Section 2(1)(e)(i).
+    * The Court held that Section 10(3) of the Commercial Courts Act brings Commercial Courts within the definition of "court" under Section 2(1)(e)(i) of the Arbitration Act.
+    * The Court interpreted Section 37(3) of the Arbitration Act to prohibit second appeals against orders passed under Section 37, except for appeals to the Supreme Court.
+
+* **Application of Law:** 
+    * The Court applied the principles of the self-contained code doctrine, finding that the Arbitration Act governs the appeal process in arbitration matters, including the forum for appeals.
+    *  The Court applied the principles of precedence, specifically citing the Kandla Export Corporation case to support its interpretation of Section 13 of the Commercial Courts Act.
+
+## Judgment
+
+* **Final Decision:** The Uttarakhand High Court dismissed the appeal as not maintainable.
+
+* **Relief Granted:** No relief was granted as the appeal was dismissed.
+
+* **Orders:** The appeal was dismissed as not maintainable.
+
+## Implications
+
+* **Impact on Law:** The judgment reaffirms the supremacy of the Arbitration Act in matters of arbitration proceedings. It clarifies the role of Commercial Courts as a designated forum for hearing appeals under Section 37 of the Arbitration Act. It also reaffirms the bar on second appeals against orders passed under Section 37 of the Arbitration Act.
+
+* **Future Relevance:** The judgment sets a precedent for future cases involving appeals against interim orders passed by arbitral tribunals under Section 17 of the Arbitration Act, affirming the Commercial Court as the proper forum for such appeals. 
+
+* **Broader Context:** The case highlights the increasing importance of specialized courts, like Commercial Courts, for resolving complex commercial disputes, including arbitration matters. It also underscores the significance of understanding the specific provisions of the Arbitration Act and its interplay with other relevant statutes.
+
+## Summary Points
+
+* The appeal challenging an interim order passed by an arbitral tribunal under Section 17 of the Arbitration Act was filed before the Commercial Court, which was determined to be the appropriate forum.
+* The Appellant's attempt to file a second appeal against the Commercial Court's order was dismissed, as Section 37(3) of the Arbitration Act bars second appeals.
+* The Arbitration Act is a self-contained code, taking precedence over the Commercial Courts Act in matters of arbitration proceedings.
+
+## References
+
+* **Citations:**
+    * Arbitration and Conciliation Act, 1996
+    * Commercial Courts Act, 2015
+    * Kandla Export Corporation and another vs. M/s OCI Corporation and another (2018) 14 SCC 715
+    * Fuerst Day Lawson Limited vs. Jindal Exports Limited (2011) 8 Supreme Court Cases 333
+    * Sumitomo Corporation vs. CDC Financial Services (Mauritius) Ltd. and Ors., (2008) 4 SCC 91
+
+* **Further Reading:** 
+    * **Arbitration and Conciliation Act, 1996**
+    * **Commercial Courts Act, 2015**
+    * Other case judgments dealing with Section 37 of the Arbitration Act and the jurisdiction of Commercial Courts.

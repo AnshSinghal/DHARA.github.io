@@ -1,0 +1,88 @@
+##  M/S. Real Link Engineering India (P) Ltd vs M/S. Aquatex Engineering
+
+**1. Case Title**
+
+* **Case Name:** M/S. Real Link Engineering India (P) Ltd vs M/S. Aquatex Engineering
+* **Court:** Madras High Court
+* **Date of Judgment:** 9th November, 2023
+* **Citation:** CRP. No.3276 of 2023
+
+**2. Background and Context**
+
+* **Brief Overview:** M/S. Aquatex Engineering (Respondent/Plaintiff) filed a suit for specific performance against M/S. Real Link Engineering India (P) Ltd (Petitioner/Defendant) regarding a Memorandum of Understanding (MOU) dated 20.07.2022 for the sale of certain immovable property. The Respondent alleged that the Petitioner breached the agreement by not fulfilling their obligations, including settling dues with various institutions and failing to deliver vacant possession. 
+* **Key Issues:**
+    * Whether the dispute falls under the purview of the Commercial Courts Act, 2015, specifically Section 2(1)(c)(vii) which relates to agreements involving immovable property used exclusively in trade or commerce.
+    * Whether the Respondent violated Section 12A of the Commercial Courts Act, 2015 by not pursuing pre-institution mediation before filing the suit.
+    * Whether the Respondent's claim for urgent interim relief was justified.
+
+**3. Legal Principles Involved**
+
+* **Relevant Statutes and Provisions:**
+    * Commercial Courts Act, 2015, particularly Section 2(1)(c)(vii) and Section 12A.
+    * The Code of Civil Procedure, 1908 (CPC).
+    * State Financial Corporation Act.
+    * Securitisation & Reconstruction of Financial Assets and Enforcement of security Interest Act, 2002.
+    * The DRT Act (Debt Recovery Tribunal Act).
+* **Precedents Cited:**
+    * Ambalal Sarabhai Enterprises Limited Vs K.S Infraspace LLP (2020 15 SCC 585) 
+    * M/s Patil Automation Private Ltd and others Vs Rakheja Engineers Private Ltd (MANU SC 1004 (2022) )
+* **Legal Doctrines:**
+    * Jurisdiction of Commercial Courts.
+    * Interpretation of Statutory Provisions.
+    * Urgent Interim Relief.
+    * Pre-Institution Mediation.
+
+**4. Arguments Presented**
+
+* **Plaintiff’s Argument:**
+    * The property was used for commercial purposes previously, and despite ceasing active industrial operations, the presence of machinery and past commercial activity brought it within the ambit of Section 2(1)(c)(vii) of the Commercial Courts Act.
+    * The suit was filed for urgent interim relief to prevent the Petitioner from creating encumbrances on the property, satisfying the criteria for an exception to the pre-institution mediation requirement under Section 12A.
+* **Defendant’s Argument:**
+    * The property was not used for commercial purposes at the time of entering the MOU, and thus the dispute did not qualify for commercial court jurisdiction.
+    * The Respondent failed to adhere to Section 12A by not seeking pre-institution mediation before filing the suit.
+    * The Respondent's claim for urgent interim relief was not genuine, and the court should have rejected the plaint.
+
+**5. Court’s Analysis and Reasoning**
+
+* **Key Findings:**
+    * The court accepted the Respondent's argument that the property had previously been used for commercial purposes and that the presence of machinery and past commercial activity was sufficient to qualify the dispute as a commercial dispute under Section 2(1)(c)(vii).
+    * The court found that the Respondent's claim for urgent interim relief, specifically to prevent encumbrances on the property, was valid and warranted the exception to the pre-institution mediation requirement under Section 12A.
+* **Interpretation of Law:** 
+    * The court interpreted Section 2(1)(c)(vii) to mean that the property's past use, even if not currently active, could still qualify it for commercial dispute jurisdiction if there was evidence of commercial use in the past and the dispute was directly related to that use.
+    * The court interpreted Section 12A to mean that a genuine claim for urgent interim relief could justify the exception to pre-institution mediation.
+* **Application of Law:**
+    * The court applied the law by concluding that the dispute qualified as a commercial dispute due to the property's past use for commercial purposes.
+    * The court applied the law by concluding that the Respondent's claim for urgent interim relief was genuine and justified the exception to pre-institution mediation under Section 12A.
+
+**6. Judgment**
+
+* **Final Decision:** The petition filed by the Petitioner was dismissed.
+* **Relief Granted:** No specific relief was granted beyond dismissing the petition.
+* **Orders:** The court directed the lower court to proceed with the case.
+
+**7. Implications**
+
+* **Impact on Law:** This case reinforces the interpretation of Section 2(1)(c)(vii) of the Commercial Courts Act, suggesting that past commercial use of immovable property can still qualify a dispute as commercial, even if the property is not currently being used for that purpose. 
+* **Future Relevance:** The case provides guidance on applying the exception to pre-institution mediation under Section 12A, suggesting that genuine claims for urgent interim relief can justify bypassing this requirement.
+* **Broader Context:** This case demonstrates the increasing importance of understanding the specific requirements of commercial court jurisdiction and pre-institution mediation in commercial disputes involving immovable property. 
+
+**8. Summary Points**
+
+* The Madras High Court upheld the commercial court's jurisdiction in a dispute involving immovable property previously used for commercial purposes, despite the current inactivity.
+* The court recognized the exception to pre-institution mediation for genuine claims of urgent interim relief.
+* The case highlights the importance of careful consideration of commercial court jurisdiction and pre-institution mediation requirements in commercial property disputes.
+
+**9. References**
+
+* **Citations:**
+    * Commercial Courts Act, 2015, Sections 2(1)(c)(vii) and 12A.
+    * The Code of Civil Procedure, 1908 (CPC).
+    * Ambalal Sarabhai Enterprises Limited Vs K.S Infraspace LLP (2020 15 SCC 585)
+    * M/s Patil Automation Private Ltd and others Vs Rakheja Engineers Private Ltd (MANU SC 1004 (2022) )
+
+* **Further Reading:**
+    * Relevant sections of the Commercial Courts Act, 2015.
+    * Legal commentaries on commercial dispute jurisdiction.
+    * Case law on pre-institution mediation and urgent interim relief.
+
+This summary provides a detailed breakdown of the case, including all the facts, legal principles, arguments, and the court's reasoning. It follows the provided template and offers insights into the legal implications and future relevance of the case. 

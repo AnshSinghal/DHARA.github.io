@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A company, 'ABC Corp', claims to have been using the trademark 'SmartTech' for its software products since 2010. Another company, 'XYZ Inc', registered the trademark 'SmartTech' for its hardware products in 2015. 'ABC Corp' is now suing 'XYZ Inc' for trademark infringement. What are the legal arguments that 'ABC Corp' can use to support its claim?",
+    "Legal Principles": "Prior use of a trademark can be a valid defense against trademark infringement. The law recognizes the right of a prior user to continue using its trademark even if another party has registered the same or similar trademark for different goods or services.",
+    "Relevant Sections": "Section 34 of the Trade Marks Act, 1999: \"Nothing in this Act shall entitle the proprietor or a registered user of registered trade mark to interfere with or restrain the use by any person of a trade mark identical with or nearly resembling it in relation to goods or services in relation to which that person or a predecessor in title of his has continuously used that trade mark from a date prior...\".",
+    "Context": "Trademark infringement case in India, involving prior use vs. registered trademark."
+  },
+  {
+    "Query": "A musician, 'John Doe', claims copyright infringement against a record label, 'MusicCo', for using a musical composition that 'John Doe' claims to have written and recorded in 2018. 'MusicCo' claims they purchased the composition from a third party and have no knowledge of 'John Doe's' claim. How does the court determine who has the valid copyright?",
+    "Legal Principles": "Copyright ownership is established through proof of creation and fixation of the work. The court may require evidence of the date of creation and proof of originality to determine who holds the valid copyright.",
+    "Relevant Sections": "Copyright Act, 1957: Section 13 (Original work), Section 17 (Copyright in original literary, dramatic, musical and artistic works), Section 52 (Exceptions to infringement)",
+    "Context": "Copyright infringement case in India, involving disputed authorship of a musical composition."
+  },
+  {
+    "Query": "A restaurant, 'The Spice Hut', is facing a lawsuit from a rival restaurant, 'Spice World', alleging trademark infringement. 'Spice World' claims 'The Spice Hut' is using a similar logo and name, leading to consumer confusion. 'The Spice Hut' argues its logo and name are distinct and unlikely to cause confusion. How does the court assess the likelihood of confusion?",
+    "Legal Principles": "Likelihood of confusion is a key factor in trademark infringement cases. Courts consider various factors, such as the similarity of the marks, the similarity of the goods or services, the marketing channels, and the sophistication of consumers.",
+    "Relevant Sections": "Trade Marks Act, 1999: Section 29 (Infringement of registered trade mark), Section 105 (Factors to consider in determining likelihood of confusion)",
+    "Context": "Trademark infringement case in India, involving two restaurants with similar names and logos."
+  },
+  {
+    "Query": "A software developer, 'Tech Solutions', claims its software code was copied by a competitor, 'Code Inc'. 'Tech Solutions' is seeking an injunction to prevent 'Code Inc' from using the allegedly copied code. 'Code Inc' argues its code is original and developed independently. What evidence is needed to prove or disprove software code copying?",
+    "Legal Principles": "Copyright protection extends to software code. To prove copying, the plaintiff must show that the defendant had access to the plaintiff's code and that the defendant's code is substantially similar to the plaintiff's code.",
+    "Relevant Sections": "Copyright Act, 1957: Section 13 (Original work), Section 17 (Copyright in original literary, dramatic, musical and artistic works), Section 51 (Infringement of copyright)",
+    "Context": "Copyright infringement case in India, involving allegations of software code copying."
+  },
+  {
+    "Query": "A fashion designer, 'Avani Creations', claims a clothing retailer, 'Style Mart', is selling garments that are exact copies of her original designs. 'Style Mart' argues its designs are original and inspired by trends. What factors does the court consider in determining whether a design is an infringement?",
+    "Legal Principles": "Copyright protection extends to original designs. Courts consider the level of originality, the degree of similarity, and the potential for consumer confusion to determine whether a design is an infringement.",
+    "Relevant Sections": "Copyright Act, 1957: Section 13 (Original work), Section 17 (Copyright in original literary, dramatic, musical and artistic works), Section 51 (Infringement of copyright)",
+    "Context": "Copyright infringement case in India, involving allegations of copying fashion designs."
+  },
+  {
+    "Query": "A company, 'GreenTech', claims it holds a patent for a new solar panel technology. Another company, 'SolarPower', is producing and selling solar panels with a similar technology. 'GreenTech' is suing 'SolarPower' for patent infringement. What are the legal arguments 'SolarPower' can use to defend against the infringement claim?",
+    "Legal Principles": "Patent infringement requires proof that the accused product or process infringes the claims of the patent. The defendant may argue that its product or process is not covered by the patent claims or that the patent is invalid.",
+    "Relevant Sections": "The Patents Act, 1970: Section 104 (Infringement of patent), Section 73 (Grant of patent)",
+    "Context": "Patent infringement case in India, involving allegations of copying solar panel technology."
+  },
+  {
+    "Query": "A landlord, 'Mr. Singh', is suing a tenant, 'Ms. Sharma', for non-payment of rent. 'Ms. Sharma' argues that the apartment she rented is not habitable due to a leak in the roof and other maintenance issues. 'Mr. Singh' claims the leak was a recent incident and that he is working to fix it. How does the court assess the tenant's defense of non-habitability?",
+    "Legal Principles": "A tenant may be excused from paying rent if the landlord fails to provide a habitable dwelling. The court will assess the severity of the condition, the duration of the problem, and the landlord's efforts to fix it.",
+    "Relevant Sections": "The Transfer of Property Act, 1882: Section 106 (Implied covenant for quiet enjoyment), The Consumer Protection Act, 2019: Section 12 (Defects in goods and services)",
+    "Context": "Landlord-tenant dispute in India, involving allegations of non-payment of rent due to uninhabitable conditions."
+  },
+  {
+    "Query": "A construction company, 'BuildWell', is suing a homeowner, 'Mr. Gupta', for breach of contract. 'BuildWell' claims 'Mr. Gupta' terminated the contract without justification and refused to pay for work already completed. 'Mr. Gupta' argues he terminated the contract because 'BuildWell' was using substandard materials and delaying the project. How does the court determine whether 'Mr. Gupta' had a right to terminate the contract?",
+    "Legal Principles": "A party may be entitled to terminate a contract if the other party breaches the contract terms. The court will examine the specific contract terms and determine whether the breach was material and justified termination.",
+    "Relevant Sections": "Indian Contract Act, 1872: Section 39 (Termination of contract by breach), Section 53 (Termination of contract by agreement)",
+    "Context": "Contract dispute in India, involving allegations of breach of contract and termination."
+  },
+  {
+    "Query": "A company, 'Tech Solutions', is facing a lawsuit from a former employee, 'Mr. Khan', for wrongful termination. 'Mr. Khan' claims he was fired without cause and without due process. 'Tech Solutions' argues it had a legitimate reason to terminate 'Mr. Khan' due to performance issues. How does the court assess whether the termination was wrongful?",
+    "Legal Principles": "Wrongful termination occurs when an employee is fired without cause or without following the proper procedures. The court will examine the employment contract, company policies, and the reason for termination to determine whether the termination was justified.",
+    "Relevant Sections": "The Industrial Disputes Act, 1947: Section 25F (Termination of employment), Section 25N (Retrenchment)",
+    "Context": "Employment dispute in India, involving allegations of wrongful termination."
+  },
+  {
+    "Query": "A business owner, 'Ms. Patel', is facing a lawsuit from a customer, 'Mr. Sharma', for negligence. 'Mr. Sharma' was injured in a slip and fall accident at 'Ms. Patel's' store. 'Ms. Patel' argues that she had no knowledge of the hazard and that 'Mr. Sharma' should have been more careful. What factors does the court consider in determining whether 'Ms. Patel' is liable for negligence?",
+    "Legal Principles": "Negligence requires proof of duty of care, breach of duty, causation, and damages. The court will assess the owner's duty to maintain a safe environment for customers, whether the owner breached that duty, and whether the breach caused the customer's injury.",
+    "Relevant Sections": "The Indian Contract Act, 1872: Section 2(11) (Duty), The Law of Torts (Negligence): Section 3 (Negligence)",
+    "Context": "Negligence case in India, involving a slip and fall accident at a store."
+  }
+]
+```

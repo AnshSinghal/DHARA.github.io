@@ -1,0 +1,89 @@
+## 1. Case Title
+
+* **Case Name:** The Director, Esd Mee Seva vs United Telecoms Limited And Another
+* **Court:** Telangana High Court
+* **Date of Judgment:** 26 August, 2022
+* **Citation:** Not provided in the document.
+
+## 2. Background and Context
+
+* **Brief Overview:** This case involves a dispute between the Director of ESD (Mee Seva) (Respondent) and various software companies (Appellants), including CCS Infotech Limited and United Telecoms Limited, who were contracted as Technical Partners to build, operate, and maintain Mee Seva centers. The dispute arose over several issues, including the determination of the effective date of the agreements, the revision of rates, and the fixation of transaction slabs. 
+* **Key Issues:**
+    *  Whether the effective date of the agreements as determined by the Respondent was in accordance with the terms of the contract.
+    * Whether the downward revision of rates was illegal and unsustainable.
+    * Whether the transaction slabs should be proportionately increased with the increase in the number of centers.
+    * Whether the Appellants were entitled to the reliefs claimed.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * The Arbitration and Conciliation Act, 1996 (Act, 1996) 
+        * Section 2(1)(c)4: Defines "arbitral award" and includes "interim award."
+        * Section 17: Vests power in the arbitrator to pass orders as interim measures pending conclusion of arbitral proceedings.
+        * Section 32: Deals with the termination of arbitral proceedings.
+        * Section 33: Deals with the correction and interpretation of awards, and the possibility of additional awards.
+        * Section 34: Deals with applications for setting aside arbitral awards.
+* **Precedents Cited:**
+    * **The Project Director, National Highways Nos.45E and 220, National Highways Authority of India vs. M.Hakeem and others:** This case established that Section 34 of the Act, 1996 does not give the court the power to modify an award. It can only set it aside or remand it back to the arbitrator for fresh consideration.
+    * **Ragya Bee and others vs. P.S.R. Constructions and others:** This case reiterated that the court's power under Section 34 is limited to setting aside awards and does not extend to correcting errors or modifying them.
+    * **Delhi Airport Metro Express Pvt. Ltd. Vs. Delhi Metro Rail Corporation Ltd.:** This case clarified that "patent illegality" for setting aside an award must go to the root of the matter and cannot be based on simple errors of law or reappreciation of evidence. 
+* **Legal Doctrines:**
+    * **Functus Officio:** Once an arbitrator passes an award, they become "functus officio," meaning they lose jurisdiction to further deal with the same matter, except for specific exceptions like correction or interpretation of the award.
+    * **Public Policy:** An award can be set aside if it is in conflict with the public policy of India.
+    * **Contractual Interpretation:** The court interprets the terms of the agreements between the parties to determine their rights and obligations. 
+
+## 4. Arguments Presented
+
+* **Appellant’s Argument:**
+    * The Commercial Court erred in holding the entitlement to levy 5/- per transaction as prospective from the date of issue of G.O.Rt.No.205, dated 30.06.2009. The Appellant argued that the Government Order was applicable retrospectively.
+    * The Commercial Court grossly erred in reducing the rate of interest from 12% to 6% per annum.
+    * The award of the learned Arbitrator should be accepted in toto.
+* **Respondent’s Argument:**
+    * The G.O.Rt.No.205 dt.30.06.2009 does not apply to existing contractors, only to fresh contracts. The conclusions of the Arbitrator regarding electricity bills are contrary to his findings on issue no.2. 
+    * There cannot be two awards in the same arbitral proceedings. The Arbitrator became functus officio after passing the preliminary award and was not competent to pass a final award.
+    * The Arbitrator passed a final award even after the O.Ps. (applications under Section 34) were filed, which is a deemed stay against the award. This is a violation of statutory mandate.
+    * The Arbitrator extended the contract beyond the original period, which was beyond his jurisdiction.
+    * The award is vitiated on several counts and should be remanded to the Arbitrator for a fresh award.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The Court found that the Arbitrator erred in passing two separate awards, a preliminary award and a final award. 
+    * The Court found that the Commercial Court exceeded its jurisdiction by modifying the Arbitrator's award.  The court could only set aside the award or remand it back to the Arbitrator. 
+    * The Court found that the final award passed by the Arbitrator was invalid because it was passed after O.Ps. were filed, which amounted to a deemed stay. 
+* **Interpretation of Law:**
+    * The Court interpreted Section 34 of the Act, 1996 to mean that the court cannot modify an award. It can only set aside the award or remand it back to the Arbitrator. 
+    * The Court interpreted the provisions of the Act, 1996 relating to arbitral awards to conclude that only one award can be passed. The Arbitrator becomes functus officio after passing the award and cannot pass a further award.
+* **Application of Law:** 
+    * The Court applied the principle of functus officio to the case and held that the Arbitrator could not pass a final award after the preliminary award was challenged in the court.
+    * The Court applied the principle of limited judicial interference under Section 34 and found that the Commercial Court was not authorized to modify the Arbitrator's award.
+
+## 6. Judgment
+
+* **Final Decision:** The Court allowed the appeals and set aside both the award of the Arbitrator and the decision of the Commercial Court.
+* **Relief Granted:** The matter was remitted back to arbitration, with a new Arbitrator (Sri Justice Vilas V.Afzulpurkar) appointed to resolve the dispute.
+* **Orders:** The parties were directed to submit all documents to the new Arbitrator within four weeks. The Arbitrator was requested to conclude the arbitral proceedings expeditiously, preferably within 16 weeks.
+
+## 7. Implications
+
+* **Impact on Law:** This judgment reaffirms the limited nature of judicial intervention in arbitral proceedings under Section 34 of the Act, 1996. It emphasizes that courts cannot modify awards; they can only set them aside or remand them back to the Arbitrator.
+* **Future Relevance:** The case sets a precedent for future cases involving similar issues and will guide the courts in understanding the limitations of their power under Section 34. 
+* **Broader Context:** This case highlights the importance of clear and unambiguous contractual agreements in arbitration proceedings to prevent disputes and ensure that the arbitral process is conducted fairly and efficiently. 
+
+## 8. Summary Points
+
+* The Arbitrator's decision to pass a preliminary award followed by a final award was held to be illegal.
+* The Commercial Court's modification of the Arbitrator's award was found to be exceeding its jurisdiction under Section 34.
+* The case reinforces the principle of limited judicial interference in arbitration proceedings. 
+* The dispute was remitted back to arbitration with a new Arbitrator appointed to determine the outstanding issues.
+
+## 9. References
+
+* **The Arbitration and Conciliation Act, 1996 (Act, 1996):** All relevant sections cited above.
+* **The Project Director, National Highways Nos.45E and 220, National Highways Authority of India vs. M.Hakeem and others** (2021) 9 SCC 1 
+* **Ragya Bee and others vs. P.S.R. Constructions and others** (2022) 3 ALD 151
+* **Delhi Airport Metro Express Pvt. Ltd. Vs. Delhi Metro Rail Corporation Ltd.** (2022) 1 SCC 131
+
+**Further Reading:**
+* **Redfern and Hunter on International Arbitration:** For a comprehensive analysis of the principles of international arbitration.
+* **Supreme Court Cases on Arbitration:** For a collection of Supreme Court judgments relating to arbitration and conciliation. 

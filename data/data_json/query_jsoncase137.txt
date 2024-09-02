@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A limited liability partnership (LLP) is seeking to remove a partner who allegedly misappropriated funds. The LLP has filed the necessary forms with the Registrar of Companies (ROC), but the ROC has refused to register them due to a pending lawsuit between the partners. The LLP is seeking judicial review of the ROC's decision. ",
+    "Legal Principles": "The Registrar of Companies (ROC) acts in a ministerial capacity when examining and registering forms related to LLPs. The ROC cannot adjudicate on the merits of disputes between partners, but must register the necessary forms subject to the outcome of proceedings in a competent court.",
+    "Relevant Sections": "Section 23(2), Section 25(2-4), Section 43, Rule 21, Rule 22, Rule 36(5-10) of the Limited Liability Partnerships Act, 2008 and the Limited Liability Partnerships Rules, 2009.",
+    "Context": "Jurisdiction: Gujarat High Court, Case Type: Letters Patent Appeal"
+  },
+  {
+    "Query": "A partner in an LLP has been expelled by the other partners. The expelled partner claims that the expulsion was improper and seeks to challenge it before the ROC. The ROC is considering whether to register the LLP's new agreement reflecting the expulsion. ",
+    "Legal Principles": "The ROC's role is to ensure that the necessary forms are filed by LLPs and that they comply with the relevant legal requirements. The ROC is not empowered to adjudicate on the validity of actions taken by LLP partners, such as expulsion.",
+    "Relevant Sections": "Section 25(2-4), Rule 22 of the Limited Liability Partnerships Act, 2008 and the Limited Liability Partnerships Rules, 2009.",
+    "Context": "Jurisdiction: Gujarat High Court, Case Type: Administrative Law, Company Law"
+  },
+  {
+    "Query": "A dispute arises between partners of an LLP regarding the validity of a new agreement and the expulsion of a partner. The ROC has been asked to register the new agreement, but is hesitant due to the ongoing dispute. ",
+    "Legal Principles": "The ROC acts as a registrar and is primarily responsible for ensuring compliance with statutory requirements. The ROC's role is not to adjudicate disputes between partners, but to register changes in partnership agreements if they meet the statutory requirements.",
+    "Relevant Sections": "Section 23(2), Section 25(2-4), Rule 21, Rule 22 of the Limited Liability Partnerships Act, 2008 and the Limited Liability Partnerships Rules, 2009.",
+    "Context": "Jurisdiction: Gujarat High Court, Case Type: Company Law"
+  },
+  {
+    "Query": "A limited liability partnership is undergoing a restructuring, which includes the expulsion of a partner and the addition of new partners. The ROC is considering the LLP's application to register these changes. ",
+    "Legal Principles": "The ROC is a ministerial authority tasked with examining and registering LLP forms. The ROC cannot delve into the merits of disputes between partners, but must register the forms if they meet the statutory requirements.",
+    "Relevant Sections": "Section 23(2), Section 25(2-4), Rule 21, Rule 22, Rule 36 of the Limited Liability Partnerships Act, 2008 and the Limited Liability Partnerships Rules, 2009.",
+    "Context": "Jurisdiction: Gujarat High Court, Case Type: Company Law, Administrative Law"
+  },
+  {
+    "Query": "An LLP partner claims that the expulsion from the partnership was based on false allegations and seeks to challenge the expulsion with the ROC. The ROC is reviewing the LLP's application to register the expulsion. ",
+    "Legal Principles": "The ROC acts in a ministerial capacity when examining and registering forms related to LLPs. The ROC cannot determine the validity of actions taken by LLP partners, such as expulsion. The ROC's duty is to ensure compliance with statutory requirements.",
+    "Relevant Sections": "Section 23(2), Section 25(2-4), Rule 21, Rule 22, Rule 36 of the Limited Liability Partnerships Act, 2008 and the Limited Liability Partnerships Rules, 2009.",
+    "Context": "Jurisdiction: Gujarat High Court, Case Type: Company Law"
+  },
+  {
+    "Query": "An LLP has filed a new agreement with the ROC, reflecting the expulsion of a partner. The expelled partner is contesting the expulsion in court. The ROC is seeking guidance on whether to register the new agreement while the court case is pending. ",
+    "Legal Principles": "The ROC's function is ministerial, meaning it is obligated to register LLP forms that comply with statutory requirements. The ROC cannot delay registration based on pending litigation between partners. The ROC's decision should be based on the form's compliance with the law, not the merits of the dispute.",
+    "Relevant Sections": "Section 23(2), Section 25(2-4), Rule 21, Rule 22, Rule 36 of the Limited Liability Partnerships Act, 2008 and the Limited Liability Partnerships Rules, 2009.",
+    "Context": "Jurisdiction: Gujarat High Court, Case Type: Company Law, Administrative Law"
+  },
+  {
+    "Query": "An LLP seeks to add a new partner. The existing partners have agreed, and the LLP has filed the necessary forms with the ROC. However, one of the existing partners is now challenging the addition of the new partner in court. The ROC is unsure whether to register the new partner while the court case is ongoing. ",
+    "Legal Principles": "The ROC is a ministerial authority tasked with registering LLP forms that comply with the statutory requirements. The ROC is not a court and cannot decide the merits of disputes between partners. Therefore, the ROC should register the new partner if the forms meet the legal requirements, regardless of the pending court case.",
+    "Relevant Sections": "Section 23(2), Section 25(2-4), Rule 21, Rule 22, Rule 36 of the Limited Liability Partnerships Act, 2008 and the Limited Liability Partnerships Rules, 2009.",
+    "Context": "Jurisdiction: Gujarat High Court, Case Type: Company Law"
+  },
+  {
+    "Query": "A limited liability partnership is undergoing a change in its management structure, including the appointment of new designated partners. The ROC has received the LLP's application for registration of these changes, but is uncertain whether to proceed due to a pending dispute between the partners. ",
+    "Legal Principles": "The ROC's function is ministerial and involves examining LLP forms for compliance with statutory requirements. The ROC cannot delay registration based on disputes between partners. The ROC should register the changes if the forms meet the legal requirements, regardless of the pending dispute.",
+    "Relevant Sections": "Section 23(2), Section 25(2-4), Rule 21, Rule 22, Rule 36 of the Limited Liability Partnerships Act, 2008 and the Limited Liability Partnerships Rules, 2009.",
+    "Context": "Jurisdiction: Gujarat High Court, Case Type: Company Law, Administrative Law"
+  },
+  {
+    "Query": "A partner in an LLP is alleging that the other partners are mismanaging the LLP's finances. The partner has filed a complaint with the ROC and is seeking an investigation into the LLP's affairs. ",
+    "Legal Principles": "The ROC has the power to investigate the affairs of an LLP under certain circumstances, including if there are allegations of fraud, mismanagement, or oppression of partners. However, the ROC is not a court and cannot adjudicate on the merits of the allegations.",
+    "Relevant Sections": "Section 43 of the Limited Liability Partnerships Act, 2008.",
+    "Context": "Jurisdiction: Gujarat High Court, Case Type: Company Law, Administrative Law"
+  },
+  {
+    "Query": "An LLP has filed its annual return with the ROC, but the ROC has rejected it due to alleged discrepancies in the financial statements. The LLP is seeking judicial review of the ROC's decision. ",
+    "Legal Principles": "The ROC has the authority to examine and reject LLP forms that do not comply with the relevant legal requirements, including financial statements. However, the ROC must follow the proper procedure and provide a fair opportunity for the LLP to respond to any concerns.",
+    "Relevant Sections": "Rule 36 of the Limited Liability Partnerships Rules, 2009.",
+    "Context": "Jurisdiction: Gujarat High Court, Case Type: Company Law, Administrative Law"
+  }
+]
+```

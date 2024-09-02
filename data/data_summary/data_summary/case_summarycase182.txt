@@ -1,0 +1,92 @@
+## 1. Case Title
+
+* **Case Name:** Skypower Holdings LLC and Ors vs. Sterling and Wilson International FZE
+* **Court:** Delhi High Court
+* **Date of Judgment:** 10th November 2023
+* **Citation:** FAO(OS) (COMM) 29/2022 & 30/2022
+
+## 2. Background and Context
+
+* **Brief Overview:** This case involved a dispute between Skypower Solar India Private Limited (SIPL) and Sterling and Wilson International FZE (S&W) regarding payment for solar equipment supplied for a 50MW solar power plant in Madhya Pradesh. S&W claimed SIPL had breached their Offshore Supply Agreement (OSA) by failing to pay for the equipment after the project achieved Commercial Operation Date (COD). SIPL argued that SWPL (S&W's parent company) had breached other related contracts, rendering them not liable for the OSA payment.  
+* **Key Issues:** 
+    * Whether the court has jurisdiction to order interim measures in aid of arbitration being conducted overseas.
+    * Whether the court can issue interim measures of protection under Section 9 of the A&C Act against non-signatories to the arbitration agreement.
+    * Whether the order to furnish a Bank Guarantee equivalent to 50% of the amount claimed by S&W meets the conditions stipulated under Order XXXVIII Rule 5 of the CPC.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:** 
+    * Section 9 of the Arbitration and Conciliation Act, 1996 (A&C Act)
+    * Order XXXVIII Rule 5 of the Code of Civil Procedure, 1908 (CPC)
+* **Precedents Cited:** 
+    * Chloro Controls India Private Limited v. Severn Trent Water Purification Inc. & Ors. 
+    * Mahanagar Telephone Nigam Limited v. Canara Bank & Ors. 
+    * Ameet Lalchand Shah & Ors. v. Rishabh Enterprises & Anr. 
+    * Essar House Private Limited v. Arcellor Mittal Nippon Steel India Limited 
+    * Ajay Singh & Ors. v. Kal Airways Private Limited & Ors. 
+    * Jagdish Ahuja & Anr. v. Cupino Limited
+    * Valentine Maritime Ltd. v. Kreuz Subsea Pte Limited & Anr. 
+    * Huawei Technologies Co. Ltd. v. Sterlite Technologies Limited.
+    * Firm Ashok Traders & Anr. v. Gurmukh Das Saluja & Ors.
+    * Adhunik Steels Ltd. v. Orissa Manganese and Minerals (P) Ltd.
+    * Natrip Implementation Society v. IVRCL Limited
+    * Nimbus Communication Ltd. v. Board of Control for Cricket in India & Anr. 
+    * National Highway Authority of India v. Punjab National Bank & Ors. 
+    * Value Source Mercantile Limited v. Span Mechnotronix Limited
+    * Raman Tech. & Process Engineering Co. & Anr. v. Solanki Traders
+    * Sanghi Industries Limited v. Ravin Cables Ltd. & Anr.
+* **Legal Doctrines:** 
+    * Group of Companies Doctrine
+    * Attachment Before Decree
+    * Interim Measures of Protection
+    * Principles of Equity
+
+## 4. Arguments Presented
+
+* **Appellant’s Argument:** 
+    * The OSA was not independent of other agreements and SWPL had breached its obligations under those contracts.
+    * S&W was not entitled to the invoiced amount due to alleged deficiencies in the Project.
+    * The order to furnish a Bank Guarantee was an attachment before decree and did not meet the conditions under Order XXXVIII Rule 5 of the CPC.
+* **Respondent’s Argument:** 
+    * The OSA was independent of other agreements and S&W had fulfilled its obligations under the OSA.
+    * SIPL was in breach of the OSA by not paying the invoiced amount.
+    * The court has wide powers under Section 9 of the A&C Act and the order to furnish a Bank Guarantee was justified considering the strong prima facie case and balance of convenience in favor of S&W.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:** 
+    * The court found that S&W had established a prima facie case regarding its entitlement to payment under the OSA.
+    * The court found that the balance of convenience was in favor of S&W, as they were unsecured for the Offshore Supplies.
+    * The court held that the order to furnish a Bank Guarantee was in the nature of an attachment before decree and required compliance with Order XXXVIII Rule 5 of the CPC.
+* **Interpretation of Law:** 
+    * The court interpreted Section 9 of the A&C Act to provide wide powers for interim measures but emphasized that these powers are not unrestricted and must adhere to the principles of the CPC.
+    * The court cited numerous precedents highlighting the need for a strong prima facie case, balance of convenience, and evidence of the respondent's intent to frustrate enforcement of the award.
+* **Application of Law:** 
+    * The court applied the principle that while interim orders under Section 9 of the A&C Act can be granted, they must be guided by the principles of the CPC, specifically Order XXXVIII Rule 5.
+    * The court found that the order to furnish a Bank Guarantee was not justified in this case because S&W had not proven that the appellants were acting in a manner that would frustrate the enforcement of an arbitral award.
+
+## 6. Judgment
+
+* **Final Decision:** The court allowed the appeals to the limited extent of setting aside the direction for the appellants to provide a Bank Guarantee.
+* **Relief Granted:** The court relieved the appellants from the obligation to furnish a Bank Guarantee.
+* **Orders:** The court clarified that all other interim measures of protection granted in the impugned order remained operative. 
+
+## 7. Implications
+
+* **Impact on Law:** The judgment reaffirms the principle that courts must be guided by the principles of the CPC when granting interim measures of protection under Section 9 of the A&C Act, even if those principles are not explicitly stated in the A&C Act.
+* **Future Relevance:** This case provides guidance for future cases involving applications for interim measures under Section 9 of the A&C Act, emphasizing the need for a clear demonstration of the respondent's intent to frustrate enforcement of the award.
+* **Broader Context:** The judgment highlights the importance of ensuring fairness and protecting the rights of both parties in arbitration proceedings, particularly regarding the application of interim measures.
+
+## 8. Summary Points
+
+* The court recognized the wide powers granted under Section 9 of the A&C Act for issuing interim measures of protection.
+* The court stressed that the principles of Order XXXVIII Rule 5 of the CPC must be followed when granting orders in the nature of attachment before decree under Section 9.
+* The court found that S&W failed to establish that the appellants were acting in a manner that would frustrate enforcement of the arbitral award.
+* The court set aside the order requiring the appellants to furnish a Bank Guarantee, while maintaining the other interim measures of protection.
+
+## 9. References
+
+* **Citations:**  All statutes, cases, and legal texts mentioned in the summary are fully cited in the original judgment document.
+* **Further Reading:** 
+    * Other judgments cited in the present judgment.
+    * Legal commentaries on Section 9 of the A&C Act and Order XXXVIII Rule 5 of the CPC. 

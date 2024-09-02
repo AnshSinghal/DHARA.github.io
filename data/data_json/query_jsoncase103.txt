@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A company is suing another company for trademark infringement. The plaintiff claims the value of the intangible rights to the trademarks is less than one crore rupees, while the defendant argues that the market value of the trademarks as per their agreement is over one crore rupees. Does the commercial court have jurisdiction in this case?",
+    "Legal Principles": "The jurisdiction of a commercial court is determined by the 'specified value' of the subject matter of the dispute. The specified value for intangible rights is the market value as estimated by the plaintiff. The case of Kalla Yadagiri v. Kotha Bal Reddy established that the value of the relief sought, not the value of the subject matter itself, determines jurisdiction.",
+    "Relevant Sections": "Section 12(1)(d) of the Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015 (the Act) defines specified value for intangible rights as the market value estimated by the plaintiff.  Section 2(1)(c)(xvii) of the Act classifies disputes relating to trademarks as commercial disputes.",
+    "Context": "Jurisdiction of a commercial court in a trademark infringement case where the parties disagree on the market value of the trademarks."
+  },
+  {
+    "Query": "A contract dispute arises between two parties, where the plaintiff seeks a declaration regarding their rights under the contract and an injunction to prevent the defendant from violating those rights. The contract value is over one crore rupees, but the plaintiff only seeks a specific amount of damages, which is less than one crore rupees. Does the commercial court have jurisdiction?",
+    "Legal Principles": "The jurisdiction of a commercial court depends on the 'specified value' of the subject matter of the dispute. This value is determined based on the relief sought by the plaintiff. In cases involving contracts, the specified value is the amount of the contract, even if the actual relief sought is less.",
+    "Relevant Sections": "Section 12 of the Commercial Courts Act, 2015, which defines 'specified value' and clarifies how it's determined for various types of commercial disputes.",
+    "Context": "Jurisdiction of a commercial court in a contract dispute where the contract value exceeds one crore rupees but the relief sought is less."
+  },
+  {
+    "Query": "A company seeks to recover a debt from another company. The debt amount is over one crore rupees, but the company only files a suit for a portion of the debt, which is less than one crore rupees. Can the commercial court hear this case?",
+    "Legal Principles": "The jurisdiction of a commercial court is based on the 'specified value' of the subject matter of the dispute. In cases involving debt recovery, the specified value is the total amount of the debt, even if the plaintiff only seeks a part of it.",
+    "Relevant Sections": "Section 12(1) of the Commercial Courts Act, 2015, which outlines the determination of specified value for debt recovery cases.",
+    "Context": "Jurisdiction of a commercial court in a debt recovery case where the total debt amount exceeds one crore rupees but the plaintiff seeks only a portion."
+  },
+  {
+    "Query": "Two parties are in a dispute regarding a property sale agreement. The plaintiff claims the agreement is invalid and seeks a declaration to that effect. The defendant argues that the agreement is valid and counterclaims for specific performance. The market value of the property is over one crore rupees. Which court has jurisdiction?",
+    "Legal Principles": "The jurisdiction of a court is determined by the 'specified value' of the subject matter of the dispute. In property sale agreement disputes, the specified value is the market value of the property. The case of Kalla Yadagiri v. Kotha Bal Reddy highlights the importance of determining the value of the relief sought for jurisdiction purposes.",
+    "Relevant Sections": "Section 12(1)(c) of the Commercial Courts Act, 2015, which defines specified value for disputes related to immovable property.",
+    "Context": "Jurisdiction of a court in a property sale agreement dispute where the market value of the property exceeds one crore rupees and there are counterclaims for specific performance."
+  },
+  {
+    "Query": "A company is suing its supplier for breach of contract. The contract value is less than one crore rupees, but the company claims damages exceeding one crore rupees. Does the commercial court have jurisdiction?",
+    "Legal Principles": "The jurisdiction of a commercial court is based on the 'specified value' of the subject matter of the dispute. In breach of contract cases, the specified value is the value of the contract, not the amount of damages claimed.",
+    "Relevant Sections": "Section 12 of the Commercial Courts Act, 2015, which defines 'specified value' and clarifies how it's determined for various types of commercial disputes.",
+    "Context": "Jurisdiction of a commercial court in a breach of contract case where the contract value is below one crore rupees but the damages claimed exceed it."
+  },
+  {
+    "Query": "A dispute arises between two parties regarding a partnership agreement. The plaintiff seeks a dissolution of the partnership and a share of the partnership assets, which are valued at over one crore rupees. Does the commercial court have jurisdiction?",
+    "Legal Principles": "The jurisdiction of a commercial court is determined by the 'specified value' of the subject matter of the dispute. In partnership agreement disputes, the specified value is the value of the partnership assets, even if the plaintiff only seeks a portion of them.",
+    "Relevant Sections": "Section 12(1) of the Commercial Courts Act, 2015, which defines 'specified value' and clarifies how it's determined for various types of commercial disputes.",
+    "Context": "Jurisdiction of a commercial court in a partnership dispute where the value of partnership assets exceeds one crore rupees."
+  },
+  {
+    "Query": "A company seeks to enforce a guarantee agreement against another company. The amount guaranteed is over one crore rupees. Does the commercial court have jurisdiction to hear this case?",
+    "Legal Principles": "The jurisdiction of a commercial court is based on the 'specified value' of the subject matter of the dispute. In cases involving guarantee agreements, the specified value is the amount guaranteed, even if the plaintiff only seeks a portion of it.",
+    "Relevant Sections": "Section 12(1) of the Commercial Courts Act, 2015, which defines 'specified value' and clarifies how it's determined for various types of commercial disputes.",
+    "Context": "Jurisdiction of a commercial court in a case involving enforcement of a guarantee agreement where the amount guaranteed exceeds one crore rupees."
+  },
+  {
+    "Query": "A company is suing its former employee for breach of a confidentiality agreement. The company claims damages exceeding one crore rupees.  Does the commercial court have jurisdiction?",
+    "Legal Principles": "The jurisdiction of a commercial court is determined by the 'specified value' of the subject matter of the dispute.  The specified value in this case would be the value of the confidential information that was breached, not the amount of damages claimed.",
+    "Relevant Sections": "Section 12(1)(d) of the Commercial Courts Act, 2015, which defines specified value for disputes related to intangible rights like confidential information.  Section 2(1)(c)(xvii) of the Act classifies disputes relating to confidential information as commercial disputes.",
+    "Context": "Jurisdiction of a commercial court in a case involving breach of a confidentiality agreement where the company claims damages exceeding one crore rupees."
+  },
+  {
+    "Query": "A company is suing another company for unfair competition. The plaintiff claims that the defendant is using a similar trade name and causing confusion in the market.  The plaintiff seeks an injunction and damages, but the value of the lost sales due to the unfair competition is estimated to be less than one crore rupees. Does the commercial court have jurisdiction?",
+    "Legal Principles": "The jurisdiction of a commercial court is determined by the 'specified value' of the subject matter of the dispute. The specified value in this case would be the value of the plaintiff's business interest that is being harmed by the unfair competition, not the amount of damages claimed.",
+    "Relevant Sections": "Section 12(1)(d) of the Commercial Courts Act, 2015, which defines specified value for disputes related to intangible rights.  Section 2(1)(c)(xvii) of the Act classifies disputes relating to unfair competition as commercial disputes.",
+    "Context": "Jurisdiction of a commercial court in a case involving unfair competition where the value of lost sales is less than one crore rupees."
+  },
+  {
+    "Query": "A company seeks to recover a debt from a consumer. The debt amount is over one crore rupees, but the company only files a suit for a portion of the debt, which is less than one crore rupees. Can the commercial court hear this case?",
+    "Legal Principles": "The jurisdiction of a commercial court is typically limited to commercial disputes.  Disputes involving consumer debt are generally not considered commercial disputes and would fall under the jurisdiction of regular civil courts.",
+    "Relevant Sections": "Section 2(1)(c) of the Commercial Courts Act, 2015, which defines 'commercial disputes' and excludes consumer-related matters. The Act does not specify a minimum value for consumer disputes.",
+    "Context": "Jurisdiction of a commercial court in a debt recovery case involving a consumer where the total debt amount exceeds one crore rupees but the plaintiff seeks only a portion."
+  }
+]
+```

@@ -1,0 +1,82 @@
+##  M/S. Satyam Process Pvt Ltd vs Purushottam Modani 
+
+**1. Case Title**
+
+* **Case Name:** M/S. Satyam Process Pvt Ltd vs Purushottam Modani
+* **Court:** Telangana High Court
+* **Date of Judgment:** 23rd January 2024
+* **Citation:**  CIVIL REVISION PETITION No.44 of 2023
+
+**2. Background and Context**
+
+* **Brief Overview:**  Satyam Process Pvt Ltd (defendant/petitioner) filed a suit against Purushottam Modani (plaintiff/respondent) in the City Civil Court, Hyderabad, for recovery of Rs. 9,85,990/- for the sale of PVC Flex Material. Satyam Process argued that the dispute was a "commercial dispute" within the meaning of the Commercial Courts Act, 2015 (the Act), and thus, the City Civil Court lacked jurisdiction to hear the case. The City Civil Court dismissed Satyam Process's application to reject the plaint, leading to the present revision petition before the Telangana High Court.
+
+* **Key Issues:** 
+    *  Whether the dispute between the parties constituted a "commercial dispute" as per the Commercial Courts Act, 2015.
+    * Whether the City Civil Court had jurisdiction to hear the case in the absence of a notification by the State Government specifying the "specified value" under the Act.
+
+**3. Legal Principles Involved**
+
+* **Relevant Statutes and Provisions:** 
+    * The Commercial Courts Act, 2015, specifically Sections 2(c), 2(i), 3, 6, 9, 10, 12, and 19. 
+    * The Code of Civil Procedure (CPC), specifically Order VII Rule 11 and Section 151.
+* **Precedents Cited:**
+    * K. Srimanaraya Murthy and another vs. V. Agastya Sagar and others (2022 (2) ALD 717 (TS) (DB))
+    * CMA No.163 of 2022 (Telangana High Court)
+* **Legal Doctrines:**
+    * **Jurisdiction of Courts:** The principle of determining the appropriate court based on the nature of the dispute and the value of the claim.
+    * **Interpretation of Statutes:**  The court's role in interpreting the language and intent of legislative provisions.
+
+**4. Arguments Presented**
+
+* **Plaintiff’s Argument (Purushottam Modani):**
+    * While the dispute involved a commercial transaction, the value of the claim was below Rs. 1,00,00,000/-. 
+    * The State Government had not yet notified the "specified value" for commercial disputes below Rs. 1,00,00,000/-, as mandated by the Act. 
+    * Therefore, the Commercial Court did not have jurisdiction to hear cases with claims below this value, and the City Civil Court was the appropriate forum.
+* **Defendant’s Argument (Satyam Process Pvt Ltd):**
+    * The Central Government had already notified the "specified value" as Rs. 3,00,000/- for commercial disputes.
+    *  The State Government was not required to issue a separate notification, and the courts were bound to follow the Central Government's notification.
+    * The dispute qualified as a "commercial dispute" under the Act and should be heard by a Commercial Court.
+
+**5. Court’s Analysis and Reasoning**
+
+* **Key Findings:**
+    * The State Government had not yet notified the "specified value" for commercial disputes below Rs. 1,00,00,000/- after the amendment to the Act in 2018.
+    * The Central Government had amended the Act in 2018, increasing the "specified value" to Rs. 1,00,00,000/- and delegating the power to the State Government to notify a lower value, but not less than Rs. 3,00,000/-.
+    *  The Telangana Government had not issued any notification regarding the "specified value" after the 2018 amendment.
+* **Interpretation of Law:**
+    * The court interpreted Section 3 of the Act, noting that the State Government had the power to notify a "specified value" within a range, but that this power had not been exercised in Telangana. 
+    * The court examined the 2018 amendment and the precedents cited by both parties, analyzing the specific provisions of the Act and their application in similar cases.
+* **Application of Law:**
+    *  The court applied the principle of statutory interpretation to determine the intent of the legislature regarding the "specified value."
+    * The court found that in the absence of a notification by the State Government, the Commercial Courts in Telangana were bound to follow the "specified value" set by the Central Government, which was Rs. 1,00,00,000/-.
+    * The court considered the precedents cited by both parties but concluded that the cases were distinguishable based on their specific facts and the context of the notifications.
+
+**6. Judgment**
+
+* **Final Decision:** The Telangana High Court dismissed the revision petition, upholding the order of the City Civil Court. 
+* **Relief Granted:** No specific relief was granted.
+* **Orders:** The court confirmed the City Civil Court's order dated 16.12.2022 in I.A.No.1622 of 2022 in O.S.No.4352 of 2022.
+
+**7. Implications**
+
+* **Impact on Law:** This judgment clarifies the legal position regarding the "specified value" for commercial disputes in the absence of a notification by the State Government.
+* **Future Relevance:** This judgment will be relevant in future cases involving similar disputes, especially in the absence of a clear notification from the State Government.
+* **Broader Context:** The judgment highlights the ongoing debate regarding the role and effectiveness of Commercial Courts in India.
+
+**8. Summary Points**
+
+* The Telangana High Court upheld the City Civil Court's decision to dismiss the revision petition, finding that the Commercial Court did not have jurisdiction to hear the dispute due to the absence of a State Government notification on the "specified value."
+* The court interpreted Section 3 of the Commercial Courts Act, 2015, emphasizing the need for a notification by the State Government to specify a lower "specified value" for commercial disputes.
+* The judgment clarifies that in the absence of such a notification, the Commercial Courts are bound to follow the "specified value" set by the Central Government, which is currently Rs. 1,00,00,000/-. 
+
+**9. References**
+
+* **Citations:**
+    *  The Commercial Courts Act, 2015 (All relevant sections as cited in the judgment).
+    *  The Code of Civil Procedure (CPC), specifically Order VII Rule 11 and Section 151.
+    *  K. Srimanaraya Murthy and another vs. V. Agastya Sagar and others (2022 (2) ALD 717 (TS) (DB))
+    *  CMA No.163 of 2022 (Telangana High Court). 
+* **Further Reading:** 
+    *  The Commercial Courts Act, 2015 (Full Text).
+    *  Relevant articles and commentaries on the Commercial Courts Act, 2015, and its implementation. 

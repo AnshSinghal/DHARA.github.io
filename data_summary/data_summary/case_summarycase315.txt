@@ -1,0 +1,100 @@
+## Case Title
+
+* **Case Name:** Vimal Dairy Limited & vs Kaira Dist. Co Operative Milk Producers Union Ltd. & 
+* **Court:** Gujarat High Court
+* **Date of Judgment:** 20th March 2017
+* **Citation:** AIR 2017 GUJARAT 127 
+
+## Background and Context
+
+* **Brief Overview:** The original plaintiffs (Kaira Dist. Co Operative Milk Producers Union Ltd.) initially filed a suit against the original defendants (Vimal Dairy Limited) in the Court of the District Judge at Ahmedabad (Rural), seeking a declaration of infringement of Trademark, Copyright, and passing off, and a permanent injunction against the defendants. The defendants filed an application to reject the plaint, arguing that the Ahmedabad (Rural) court lacked jurisdiction based on Section 134 of the Trade Marks Act and Section 62 of the Copyright Act, which specify jurisdiction where the plaintiff resides, carries on business, or has a principal or subordinate office. The suit was later transferred to the Commercial Court, Ahmedabad, where the defendants renewed their application to reject the plaint. 
+
+* **Key Issues:** 
+    1. Whether the Commercial Court, Ahmedabad, had jurisdiction to hear the suit considering the plaintiffs' registered office was located at Anand, outside the jurisdiction of Ahmedabad (Rural).
+    2. Whether the plaintiffs could file a composite suit for infringement of Trademark, Copyright, and passing off in a single court, considering the specific jurisdictional provisions in the Trade Marks Act and Copyright Act. 
+
+## Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * **Code of Civil Procedure, 1908 (CPC):**
+        * Section 20:  Determines jurisdiction based on the defendant's residence, place of business, or where the cause of action arises.
+    * **Trade Marks Act, 1999:** 
+        * Section 134: Grants additional jurisdiction to the plaintiff to file a suit in a court within whose limits the plaintiff resides, carries on business, or personally works for gain.
+    * **Copyright Act, 1957:**
+        * Section 62: Similar to Section 134 of the Trade Marks Act, provides additional jurisdiction to the plaintiff based on residence, place of business, or personal work for gain.
+* **Precedents Cited:**
+    * **Indian Performing Rights Society Ltd vs. Sanjay Dalia and Anr (AIR 2015 SC 3479):** The Hon'ble Supreme Court held that Section 62 of the Copyright Act and Section 134 of the Trade Marks Act provide an additional forum for the plaintiff but do not override the jurisdiction conferred by Section 20 of the CPC. 
+    * **Exphar SA and Anr vs. Eupharma Laboratories Ltd and Anr (AIR 2004 SC 1682):** This case also affirmed that the additional jurisdictional provisions in the Copyright Act and Trade Marks Act do not oust the general provisions of Section 20 of the CPC.
+    * **Dabur India Ltd vs. K.R. Industries (AIR 2008 SC 3123):** This case dealt with the maintainability of composite suits combining causes of action under the Copyright Act and Trade Marks Act.
+    * **Lark Laboratories Ltd vs. Nabros Pharma Pvt Ltd (2009(2) GLH 761):** This Gujarat High Court case discussed the maintainability of composite suits under the Copyright Act and Trade Marks Act.
+* **Legal Doctrines:**
+    * **Jurisdiction:** The court's power to hear and decide a case.
+    * **Cause of Action:** The legal basis for filing a lawsuit, arising from a specific event or series of events.
+    * **Composite Suit:** A suit combining multiple causes of action, which may be subject to different jurisdictional rules.
+    * **Territorial Jurisdiction:** The court's authority over a particular geographic area.
+    * **Additional Forum:** A provision granting a plaintiff an alternate venue for filing a suit, beyond the general provisions of the Code of Civil Procedure.
+
+## Arguments Presented
+
+* **Appellants' (Defendants) Argument:** 
+    * The plaintiffs' registered office at Anand placed the suit outside the territorial jurisdiction of Ahmedabad (Rural).
+    * Sections 134 of the Trade Marks Act and 62 of the Copyright Act dictated that the suit should be filed in Anand, where the plaintiffs' principal office was located.
+    * A composite suit for infringement of Trademark, Copyright, and passing off was not maintainable.
+    * The decision in Dabur India Ltd vs. K.R. Industries (AIR 2008 SC 3123) supported their argument that a composite suit could not be entertained when one of the causes of action lacked jurisdiction.
+* **Respondents' (Plaintiffs) Argument:** 
+    * Section 20 of the CPC allowed the suit to be filed in Ahmedabad (Rural) because the defendants had their registered office within the court's jurisdiction.
+    * The additional jurisdiction granted under the Trade Marks Act and Copyright Act was not intended to override Section 20 of the CPC.
+    * The decisions in Indian Performing Rights Society Ltd vs. Sanjay Dalia and Anr (AIR 2015 SC 3479) and Exphar SA and Anr vs. Eupharma Laboratories Ltd and Anr (AIR 2004 SC 1682) supported their argument that the additional jurisdiction provisions were intended to be an alternative forum, not a replacement for the general jurisdictional provisions.
+    * The decision in Lark Laboratories Ltd vs. Nabros Pharma Pvt Ltd (2009(2) GLH 761) clarified that a composite suit for infringement of Trademark, Copyright, and passing off was maintainable, as long as jurisdiction existed for at least one of the causes of action.
+
+## Court's Analysis and Reasoning
+
+* **Key Findings:** 
+    * The court acknowledged that Section 62 of the Copyright Act and Section 134 of the Trade Marks Act provide an additional forum for the plaintiff, allowing them to file suit where they reside, carry on business, or personally work for gain.
+    * However, the court also emphasized that these provisions do not override the general jurisdictional provisions of Section 20 of the CPC.
+    * The court found that the case in question fell within the scope of both Section 20 of the CPC and the additional jurisdictional provisions.
+    * The court further noted that the defendants' registered office in Ahmedabad (Rural) established jurisdiction for the suit under Section 20 of the CPC.
+    * The court found no merit in the defendants' argument regarding the maintainability of a composite suit, citing the decision in Lark Laboratories Ltd vs. Nabros Pharma Pvt Ltd (2009(2) GLH 761).
+
+* **Interpretation of Law:** 
+    * The court interpreted the provisions of Section 62 of the Copyright Act and Section 134 of the Trade Marks Act as providing an alternate forum for the plaintiff, but not as an exclusive forum that overrides the general provisions of Section 20 of the CPC.
+    * The court emphasized that the additional jurisdictional provisions were intended to provide convenience to the plaintiffs, but not to disrupt the fundamental principles of jurisdiction established in the Code of Civil Procedure.
+
+* **Application of Law:**
+    * The court applied the law to the specific facts of the case, recognizing that the defendants' registered office in Ahmedabad (Rural) provided a basis for jurisdiction under Section 20 of the CPC.
+    * The court rejected the defendants' argument that the specific jurisdictional provisions in the Trade Marks Act and Copyright Act precluded the suit from being heard in Ahmedabad (Rural).
+    * The court found that the plaintiffs had a valid cause of action and that the suit was properly filed within the jurisdiction of the Commercial Court, Ahmedabad.
+
+## Judgment
+
+* **Final Decision:** The Appeal From Order was dismissed.
+* **Relief Granted:** No specific relief was granted as the defendants' application to reject the plaint was dismissed.
+* **Orders:** The court dismissed both the Appeal From Order and the Civil Application.
+
+## Implications
+
+* **Impact on Law:** The judgment reaffirms the established principle that additional jurisdictional provisions in specific statutes do not automatically override the general provisions of the Code of Civil Procedure. This strengthens the importance of considering both general and specific jurisdictional provisions when determining the proper venue for a suit.
+* **Future Relevance:** The judgment provides valuable guidance on the interplay of general and specific jurisdictional provisions, particularly in cases involving intellectual property rights. It serves as a precedent for future cases involving similar jurisdictional disputes in the context of trademark, copyright, and passing off claims.
+* **Broader Context:** The decision underscores the importance of ensuring that plaintiffs have access to a convenient forum for seeking redress without unnecessarily burdening the defendants.
+
+## Summary Points
+
+* The Gujarat High Court upheld the Commercial Court, Ahmedabad's jurisdiction to hear the suit, despite the plaintiff's registered office being outside the jurisdiction of the Ahmedabad (Rural) court.
+* The court ruled that the additional jurisdictional provisions in the Trade Marks Act and Copyright Act do not override the general provisions of Section 20 of the CPC.
+* The court dismissed the defendants' argument that a composite suit for infringement of Trademark, Copyright, and passing off was not maintainable.
+* The judgment reaffirms the principle of providing convenient forums for plaintiffs while ensuring fairness to defendants. 
+
+## References
+
+* **Citations:**
+    * Code of Civil Procedure, 1908
+    * Trade Marks Act, 1999
+    * Copyright Act, 1957
+    * Indian Performing Rights Society Ltd vs. Sanjay Dalia and Anr (AIR 2015 SC 3479)
+    * Exphar SA and Anr vs. Eupharma Laboratories Ltd and Anr (AIR 2004 SC 1682)
+    * Dabur India Ltd vs. K.R. Industries (AIR 2008 SC 3123)
+    * Lark Laboratories Ltd vs. Nabros Pharma Pvt Ltd (2009(2) GLH 761)
+
+* **Further Reading:** 
+    * Other cases concerning jurisdiction in intellectual property matters.
+    * Legal articles and commentaries on the interplay between general and specific jurisdictional provisions. 

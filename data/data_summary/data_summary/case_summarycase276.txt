@@ -1,0 +1,90 @@
+## Case Title
+
+* **Case Name:** Novateur Electrical & Digital Systems Pvt Ltd vs V-Guard Industries Ltd
+* **Court:** Delhi High Court
+* **Date of Judgment:** 8th February 2023
+* **Citation:** 2023/DHC/000960
+
+## Background and Context
+
+* **Brief Overview:** Novateur Electrical & Digital Systems Pvt Ltd (Plaintiff) filed a suit against V-Guard Industries Ltd (Defendant) alleging that V-Guard infringed upon their registered designs for switch plates (referred to as "suit designs"). The Plaintiff sought an injunction to prevent V-Guard from manufacturing and selling switch plates that allegedly infringed their designs. V-Guard, in their written statement, contested the validity of the Plaintiff's designs, claiming prior publication as a defense against the infringement claim. 
+* **Key Issues:**
+    * **Maintainability of counterclaim:**  The Plaintiff argued that V-Guard's counterclaim seeking the cancellation of the registered designs was not maintainable under the Designs Act 2000.
+    * **Jurisdiction to cancel registered designs:** The Plaintiff asserted that only the Controller of Designs could decide on the cancellation of registered designs, not the High Court.
+    * **Effect of Section 22(3) and Section 19 of the Designs Act 2000:**  The Plaintiff claimed that Section 22(3) allowed challenging the registration of designs only as a defense in a piracy suit, while Section 19 provided the exclusive jurisdiction for cancellation petitions with the Controller.
+
+## Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * **Designs Act 2000:**
+        * **Section 19:**  Deals with cancellation of design registration before the Controller of Designs.
+        * **Section 22(3):** Allows challenging registered designs as a ground of defense in a piracy suit.
+        * **Section 22(4):**  Mandates the transfer of a suit to the High Court when revocation of registration is sought as a defense.
+* **Precedents Cited:**
+    * **Metro Plastic Industries (Regd.) v. Galaxy Footwear New Delhi (1999 SCC OnLine Del 1028):**  Full Bench judgment of the Delhi High Court highlighting the requirement of a separate cancellation petition under the 1911 Designs Act.
+    * **Rotomac Pens Ltd. v. Milap Chand & Co. (1999) 19 PTC 757:** Calcutta High Court ruling on the necessity of a separate cancellation petition under the 1911 Designs Act.
+    * **Godrej Sara Lee Ltd. v. Reckitt Benckiser Australia Pty. Ltd. (2010) 2 SCC 535:** Supreme Court judgment clarifying the exclusive jurisdiction of the Controller for cancellation of designs.
+    * **S.D. Containers Indore v. Mold-Tek Packaging Ltd. (2021) 3 SCC 289:**  Supreme Court judgment addressing the issue of transferring suits involving revocation of registration to the High Court.
+    * **Escorts Construction Equipment Ltd. v. Gautam Engg. Co. (AIR 2010 J&K 13):**  Jammu and Kashmir High Court decision on the exclusive jurisdiction of the High Court in revocation of registration cases.
+    * **Whirlpool of India Ltd. v. Videocon Industries Ltd. (2014 SCC OnLine Bom 565):**  Bombay High Court decision highlighting the independent nature of Section 19 and Section 22 of the Designs Act 2000.
+* **Legal Doctrines:**
+    * **Jurisdiction:**  The court's authority to hear and decide a case based on the subject matter and the parties involved.
+    * **Res judicata:** The principle that a matter already decided by a competent court cannot be raised again.
+    * **Interpretation of Statutes:** How courts interpret the language of statutory provisions to understand their meaning and application.
+    * **Article 141 of the Constitution of India:**  The Constitution's provision stating that the law declared by the Supreme Court is binding on all courts.
+
+## Arguments Presented
+
+* **Plaintiff's Argument:**
+    * The counterclaim seeking cancellation of the registered designs was not maintainable under the Designs Act 2000.
+    * The High Court lacked jurisdiction to entertain a petition for cancellation of registered designs, which was the exclusive domain of the Controller of Designs.
+    * The defendant had already challenged the validity of the designs in their written statement, thus exhausting their recourse under Section 22(3). 
+    * The 2000 Designs Act intentionally separated the procedure for cancellation petitions from piracy suits, and the court should respect this legislative intent.
+* **Defendant's Argument:**
+    * The Supreme Court's decision in **S.D. Containers Indore v. Mold-Tek Packaging Ltd.** established that a counterclaim seeking cancellation of registered designs was permissible and should be transferred to the High Court. 
+    * Section 22(4) of the Designs Act 2000 mandated the transfer of a suit to the High Court when revocation of registration was sought as a defense. 
+    * The Defendant had the right to seek cancellation of the designs both through a separate petition to the Controller and as a defense in a piracy suit.
+
+## Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The facts of the present case were identical to those in **S.D. Containers Indore v. Mold-Tek Packaging Ltd.** 
+    * The Supreme Court's judgment in **S.D. Containers** reversed the High Court's decision, confirming that a counterclaim seeking cancellation of a registered design was permissible and required transfer to the High Court.
+* **Interpretation of Law:**
+    * The court concluded that the Designs Act 2000 allowed two independent avenues for challenging the registration of a design: 
+        * A separate petition to the Controller under Section 19.
+        * A counterclaim filed in a piracy suit under Section 22(4).
+    * The court emphasized that the Supreme Court's decision in **S.D. Containers** resolved the issue of jurisdiction in such cases.
+* **Application of Law:**
+    * The court applied the legal principles established by the Supreme Court in **S.D. Containers** to the current case. 
+    * The court recognized the binding effect of the Supreme Court's decision as per Article 141 of the Constitution of India. 
+
+## Judgment
+
+* **Final Decision:** The Delhi High Court rejected the Plaintiff's objection to the maintainability of the Defendant's counterclaim. 
+* **Relief Granted:** The court ordered that notice be issued to the Plaintiff and the counterclaim proceed. 
+* **Orders:**  The court set a new hearing date for the case. 
+
+## Implications
+
+* **Impact on Law:** The judgment reinforced the Supreme Court's interpretation of the Designs Act 2000, confirming the validity of counterclaims seeking cancellation of registered designs and the jurisdiction of the High Court in such matters.
+* **Future Relevance:**  The case serves as a precedent for future cases involving counterclaims seeking cancellation of registered designs. 
+* **Broader Context:**  The judgment highlights the importance of respecting the law declared by the Supreme Court and the role of the High Court in resolving complex legal disputes.
+
+## Summary Points
+
+* The Delhi High Court upheld the maintainability of a counterclaim seeking cancellation of registered designs in a piracy suit. 
+* The court relied on the Supreme Court's decision in **S.D. Containers Indore v. Mold-Tek Packaging Ltd.**
+* The case clarified that the Designs Act 2000 allows for both a separate petition to the Controller and a counterclaim in a piracy suit for challenging the registration of a design.
+
+## References
+
+* **Designs Act 2000:** Sections 19, 22(3), 22(4)
+* **S.D. Containers Indore v. Mold-Tek Packaging Ltd. (2021) 3 SCC 289:** Supreme Court judgment
+* **Article 141 of the Constitution of India**
+
+## Further Reading
+
+* **Godrej Sara Lee Ltd. v. Reckitt Benckiser Australia Pty. Ltd. (2010) 2 SCC 535:** Supreme Court judgment on exclusive jurisdiction of the Controller.
+* **Escorts Construction Equipment Ltd. v. Gautam Engg. Co. (AIR 2010 J&K 13):** Jammu and Kashmir High Court decision on exclusive jurisdiction of the High Court. 
+* **Whirlpool of India Ltd. v. Videocon Industries Ltd. (2014 SCC OnLine Bom 565):**  Bombay High Court decision on the independent nature of Section 19 and Section 22.

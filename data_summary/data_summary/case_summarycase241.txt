@@ -1,0 +1,93 @@
+## Case Summary: Shree Lalji Impex vs. KP Sanghvi Middle East DMCC
+
+**1. Case Title**
+
+* **Case Name:** Shree Lalji Impex vs. KP Sanghvi Middle East DMCC
+* **Court:** Gujarat High Court
+* **Date of Judgment:** 02/08/2022
+* **Citation:**  C/FA/2371/2021 (Gujarat High Court)
+
+**2. Background and Context**
+
+* **Brief Overview:** Shree Lalji Impex (Appellant), a partnership firm dealing in diamonds, filed a suit against KP Sanghvi Middle East DMCC (Respondent), claiming Rs. 1,50,01,554.24 for unpaid invoices for rough diamonds purchased on credit. 
+* **Key Issues:** The main issue was whether the Trial Court was justified in granting a summary judgment in favor of the respondent under Order XIII-A of the Civil Procedure Code (CPC) without recording oral evidence. 
+
+**3. Legal Principles Involved**
+
+* **Relevant Statutes and Provisions:**
+    * Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015 (Act)
+    * Civil Procedure Code, 1908 (CPC)
+    * Order XIII-A of CPC (Summary Judgment)
+    * Order VII Rule 11 of CPC (Jurisdictional Challenge)
+    * Order VIII Rule 3 of CPC (Statement of Truth)
+    * Order XV-A of CPC (Case Management)
+    * Order XXI Rule 11 of CPC (Execution of Decree)
+    * Section 34 of CPC (Interest)
+    * Contract Act, 1872 
+* **Precedents Cited:** 
+    * *Bright Enterprise Private vs. MJ Bizcraft LLP* (2017) SCC Online Del 6394
+    * *Murlibhai Duhilanomal Chhatwani Vs. Mohanbhai Duhilanomal Chhatwani* (2022) (1) GLH 358
+    * *Syrma Technology Private Limited vs. Powerwave Technologies Sweden AD*, 2020 SCC Online Mad 5737
+    * *Su-Kam Power Systems Ltd vs. Kunwer Sachdev*, 2019 SCC Online Del. 10764
+    * *Rahul S. Shah vs. Jinendra Kumar Gandhi* (CA 1659-1660 of 2021) (SC)
+* **Legal Doctrines:** 
+    * Summary Judgment: A procedure where a court decides a claim without oral evidence if the defendant has no realistic chance of defending the claim.
+    * Jurisdiction: The authority of a court to hear and decide a case.
+    * Admission: An acknowledgment of a fact or liability by a party to the lawsuit.
+
+**4. Arguments Presented**
+
+* **Appellant’s Argument:**
+    * The Trial Court misapplied Order XIII-A by granting summary judgment without proper consideration of their defenses.
+    * The Trial Court ignored their evidence of part payment and security provided in the form of polished diamonds through a third-party agent.
+    * They were not given adequate opportunity to defend the claim.
+    * They submitted that the Trial Court did not follow the provisions of the Act regarding case management hearings and the requirement to file a statement of truth.
+* **Respondent’s Argument:**
+    * The Appellant admitted the transactions and the outstanding amount.
+    * The Appellant's defense was contradictory and lacked merit.
+    * The Appellant filed a jurisdictional challenge under Order VII Rule 11, which was rejected and not challenged.
+    * The Appellant failed to file a timely reply to the summary judgment application and did not provide any evidence to support their defenses.
+
+**5. Court’s Analysis and Reasoning**
+
+* **Key Findings:**
+    * The Court found that the Appellant did not challenge the Trial Court's dismissal of their jurisdictional challenge under Order VII Rule 11.
+    * The Appellant failed to produce the promised affidavit of the third-party agent.
+    * The Appellant did not provide a concrete proposal for paying the decreetal amount, which they had offered previously.
+    * The Court emphasized that summary judgment under Order XIII-A is an exceptional procedure and should only be used in cases where there is no realistic chance of successful defense.
+* **Interpretation of Law:**
+    * The Court clarified that Order XIII-A requires the Court to consider whether the defendant has no real prospect of defending the claim and whether there is no compelling reason to avoid a trial.
+    * The Court emphasized that the defendant must be given a fair opportunity to present their case and challenge the claim.
+    * The Court noted that the defendant can rely on additional documentary evidence at the hearing if they file it and serve copies on other parties 15 days before the hearing.
+* **Application of Law:**
+    * The Court found that the Appellant had not successfully demonstrated that they had no real prospect of successfully defending the claim.
+    * The Court determined that the Appellant did not fulfill the conditions necessary for a summary judgment, as they had not provided concrete evidence supporting their defenses.
+
+**6. Judgment**
+
+* **Final Decision:** The Appeal was dismissed.
+* **Relief Granted:** No relief was granted to the Appellant.
+* **Orders:** The Court dismissed all pending civil applications.
+
+**7. Implications**
+
+* **Impact on Law:**  The judgment reaffirms the principles of summary judgment as an exceptional procedure requiring careful consideration of the defendant's defense.
+* **Future Relevance:** The judgment highlights the importance of timely responses and providing evidence to support claims or defenses in summary judgment applications.
+* **Broader Context:**  The case highlights the importance of balancing expeditious dispute resolution with ensuring fairness for all parties.
+
+**8. Summary Points**
+
+* The Court dismissed the Appellant's appeal against the summary judgment.
+* The Court found that the Appellant failed to challenge the rejection of their jurisdictional challenge.
+* The Appellant did not provide sufficient evidence to support their defenses and lacked a concrete proposal for payment.
+* The Court emphasized that summary judgment is an exceptional procedure and should only be used in appropriate circumstances.
+
+**9. References**
+
+* **Citations:** All relevant citations to statutes, rules, and case law are included within the summary.
+* **Further Reading:** 
+    * *Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015*
+    * *Civil Procedure Code, 1908*
+    * *Bright Enterprise Private vs. MJ Bizcraft LLP* (2017) SCC Online Del 6394
+    * *Syrma Technology Private Limited vs. Powerwave Technologies Sweden AD*, 2020 SCC Online Mad 5737
+    * *Su-Kam Power Systems Ltd vs. Kunwer Sachdev*, 2019 SCC Online Del. 10764

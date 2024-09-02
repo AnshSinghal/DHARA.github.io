@@ -1,0 +1,83 @@
+## The State Highways Authority Of Jharkhand vs. RCM Infrastructure Limited: A Detailed Summary
+
+**1. Case Title**
+
+* **Case Name:** The State Highways Authority of Jharkhand vs. RCM Infrastructure Limited
+* **Court:** Jharkhand High Court
+* **Date of Judgment:** 22nd August 2022
+* **Citation:**  C.M.P. No. 23 of 2022 and C.M.P. No. 24 of 2022
+
+**2. Background and Context**
+
+* **Brief Overview:** This case involved two petitions filed by The State Highways Authority of Jharkhand (SHAJ) seeking to quash two orders passed by the Commercial Court in Ranchi.  The first petition challenged an order dismissing SHAJ's application to terminate the mandate of an Arbitral Tribunal as infructuous due to the publication of the award. The second petition challenged an order requiring SHAJ to pay 75% of the awarded amount to admit a case under Section 34 of the Arbitration and Conciliation Act, 1996.
+* **Key Issues:** The central issue was whether the High Court, specifically a Single Judge, had jurisdiction to hear petitions under Article 227 of the Constitution of India challenging orders passed by the Commercial Court in Ranchi, given the establishment of the Commercial Appellate Division under the Commercial Courts Act, 2015.
+
+**3. Legal Principles Involved**
+
+* **Relevant Statutes and Provisions:**
+    * **Arbitration and Conciliation Act, 1996 (Act, 1996):**  Sections 14(1)(a) (Termination of Arbitral Tribunal) and Section 34 (Setting Aside Arbitral Award).
+    * **Commercial Courts Act, 2015 (Act, 2015):** Sections 3, 4, 5, 8, and 13.  Specifically, Section 5 deals with the constitution of the Commercial Appellate Division.
+    * **Code of Civil Procedure, 1908 (CPC):** Section 115 (Revision Petition).
+    * **Constitution of India:** Article 227 (Superintendence of High Courts).
+* **Precedents Cited:**
+    * **Shalini Shyam Shetty vs. Rajendra Shankar Patil (2010) 8 SCC 329:**  Provides guidelines on the exercise of the High Court's power under Article 227.
+    * **State through Special Cell, New Delhi vs. Navjot Sandhu @ Afshan Guru & Ors. (2003) 6 SCC 641:** Emphasizes the supervisory jurisdiction of High Courts under Article 227.
+    * **Delhi Tourism and Transportation Development Corporation vs. Swadeshi Civil Infrastructure Pvt. Ltd. (FAO No. 232 of 2020):**  Delhi High Court judgment concerning petitions under Article 227 related to Commercial Courts.
+    * **M/s Deepak Printers & Publishers vs. State Project Director, Jharkhand Education Project Council, Ranchi (Civil Revision No. 24 of 2020 with Civil Revision No. 25 of 2020):**  A judgment of the Coordinate Bench of the Jharkhand High Court, forming the basis of the current case.
+* **Legal Doctrines:**
+    * **Jurisdiction:**  The court's legal authority to hear and decide a case.
+    * **Statutory Interpretation:**  The process of determining the meaning and intent of a statute.
+    * **Superintendence:**  The supervisory power of High Courts over lower courts and tribunals under Article 227.
+    * **Appellate Jurisdiction:**  The power of a higher court to review decisions of lower courts.
+
+**4. Arguments Presented**
+
+* **Plaintiff’s Argument (SHAJ):** SHAJ argued that the orders passed by the Commercial Court were incorrect and should be quashed. They contended that the Commercial Appellate Division, as established by the Commercial Courts Act, 2015, was the appropriate forum to hear challenges against the Commercial Court's orders, and not a Single Judge of the High Court.
+* **Defendant’s Argument (RCM Infrastructure Limited):** RCM Infrastructure Limited argued that the petitions filed under Article 227 of the Constitution were maintainable before a Single Judge of the High Court, as the Commercial Appellate Division was only empowered to hear appeals, not petitions under Article 227. They cited the Delhi High Court judgment in "Delhi Tourism and Transportation Development Corporation vs. Swadeshi Civil Infrastructure Pvt. Ltd."  to support their argument.
+
+**5. Court’s Analysis and Reasoning**
+
+* **Key Findings:**
+    * The Court recognized that the Commercial Courts Act, 2015 created a specialized system for resolving commercial disputes, including the establishment of the Commercial Appellate Division.
+    * The Court acknowledged the existence of the Coordinate Bench's judgment in "M/s Deepak Printers & Publishers" (supra) which held that the Commercial Appellate Division should hear all challenges against Commercial Courts, including those under Article 227.
+    * The Court also recognized the Supreme Court's precedents emphasizing the supervisory jurisdiction of High Courts under Article 227, which could not be curtailed by statutes.
+* **Interpretation of Law:** The Court carefully analyzed the provisions of the Commercial Courts Act, 2015, focusing on the establishment and powers of the Commercial Appellate Division.  It also scrutinized Article 227 of the Constitution and its interpretation by the Supreme Court in previous cases.
+* **Application of Law:** The Court applied the legal principles to the specific facts of the case. It considered whether the Commercial Appellate Division, created by statute, could supersede the High Court's inherent power of superintendence under Article 227.
+
+**6. Judgment**
+
+* **Final Decision:** The Court did not reach a final decision on the merits of the case. Instead, it refrained from exercising jurisdiction due to the conflicting interpretation of the law, particularly regarding the interplay between Article 227 and the Commercial Courts Act, 2015.
+* **Relief Granted:** No relief was granted as the Court did not adjudicate the merits of the case.
+* **Orders:** The Court ordered the Registry to place the cases before the Hon'ble Chief Justice for assignment to the Division Bench of the High Court. The Court formulated a specific question for the Division Bench to answer: "Whether or not a petition filed under Article 227 of the Constitution of India will lie in the jurisdiction of the Commercial Appellate Division of this Court which has been constituted to hear appeals under the Commercial Courts Act, 2015?"
+
+**7. Implications**
+
+* **Impact on Law:** The judgment did not directly impact existing law but highlighted the complex legal issues arising from the interaction of different legal provisions, particularly Article 227 and the Commercial Courts Act, 2015.
+* **Future Relevance:** The Division Bench's decision on the question formulated by the Single Judge will have significant implications for future cases involving petitions under Article 227 in the context of the Commercial Courts Act, 2015.
+* **Broader Context:** The case underscores the importance of clear legal frameworks and the need for consistent interpretation of laws to avoid conflicting jurisdictions and potential confusion in legal proceedings.
+
+**8. Summary Points**
+
+* The State Highways Authority of Jharkhand challenged orders passed by the Commercial Court in Ranchi through petitions under Article 227.
+* The main issue was the jurisdictional conflict between the High Court's power of superintendence under Article 227 and the Commercial Appellate Division established under the Commercial Courts Act, 2015.
+* The Single Judge refrained from deciding the case, referring it to the Division Bench for a definitive resolution on the jurisdiction issue.
+
+**9. References**
+
+* **Statutes:**
+    * The Arbitration and Conciliation Act, 1996
+    * The Commercial Courts Act, 2015
+    * The Code of Civil Procedure, 1908
+    * The Constitution of India
+* **Cases:**
+    * Shalini Shyam Shetty vs. Rajendra Shankar Patil (2010) 8 SCC 329
+    * State through Special Cell, New Delhi vs. Navjot Sandhu @ Afshan Guru & Ors. (2003) 6 SCC 641
+    * Delhi Tourism and Transportation Development Corporation vs. Swadeshi Civil Infrastructure Pvt. Ltd. (FAO No. 232 of 2020)
+    * M/s Deepak Printers & Publishers vs. State Project Director, Jharkhand Education Project Council, Ranchi (Civil Revision No. 24 of 2020 with Civil Revision No. 25 of 2020)
+
+**Further Reading:**
+
+* The Commercial Courts Act, 2015
+* The Constitution of India
+* Case law on Article 227 of the Constitution of India
+* Case law on the Commercial Courts Act, 2015

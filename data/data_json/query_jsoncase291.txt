@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A software company contracted with a government agency to provide e-governance services. After the contract period expired, the company claimed unpaid fees and interest. The government agency argued that the company's claims were invalid and challenged the arbitral award in favor of the company. Can the court modify the arbitral award?",
+    "Legal Principles": "The court cannot modify an arbitral award under Section 34 of the Arbitration and Conciliation Act, 1996. The court's power is limited to setting aside the award on specific grounds mentioned in the Act.",
+    "Relevant Sections": "Section 34 of the Arbitration and Conciliation Act, 1996: An arbitral award may be set aside by the Court only if... the Court finds that... the arbitral award is in conflict with the public policy of India.",
+    "Context": "Jurisdiction: India, Case Type: Arbitration and Conciliation"
+  },
+  {
+    "Query": "Two parties entered into a contract for construction services. After a dispute arose, the matter was referred to arbitration. The arbitrator issued a preliminary award and later a final award, both in favor of the contractor. The owner challenged the awards in court. Is it permissible for an arbitrator to pass multiple awards in the same arbitral proceedings?",
+    "Legal Principles": "An arbitrator is generally prohibited from passing multiple awards in the same arbitral proceedings. The Act allows for corrections, interpretations, or additional awards under specific circumstances.",
+    "Relevant Sections": "Section 32(1) of the Arbitration and Conciliation Act, 1996: The arbitral proceedings shall be terminated by the final arbitral award or by an order of the arbitral tribunal under sub-section (2).",
+    "Context": "Jurisdiction: India, Case Type: Arbitration and Conciliation"
+  },
+  {
+    "Query": "A contractor claims that the government agency failed to pay the agreed-upon rate for services rendered under a contract. The agency argues that the rate was revised retrospectively, violating the contract terms. Can the court intervene in the arbitrator's decision on the revision of rates?",
+    "Legal Principles": "The court's intervention in an arbitral award is limited to specific grounds under Section 34 of the Arbitration and Conciliation Act, 1996. The court cannot re-appreciate evidence or correct errors of law.",
+    "Relevant Sections": "Section 34(2A) of the Arbitration and Conciliation Act, 1996: An arbitral award arising out of arbitrations other than international commercial arbitrations, may also be set aside by the Court, if the Court finds that the award is vitiated by patent illegality appearing on the face of the award: Provided that an award shall not be set aside merely on the ground of an erroneous application of the law or by reappreciation of evidence.",
+    "Context": "Jurisdiction: India, Case Type: Arbitration and Conciliation"
+  },
+  {
+    "Query": "A business partnership dissolved after a disagreement. The former partners dispute the division of assets and profits. The arbitrator awarded a specific percentage of profits to one partner but failed to provide a clear calculation of the amount due. Can the court compel the arbitrator to provide a detailed calculation?",
+    "Legal Principles": "The court cannot compel an arbitrator to provide further details or calculations after the award is passed unless the award is vitiated by errors of calculation, clerical mistakes, or other similar errors.",
+    "Relevant Sections": "Section 33(1) of the Arbitration and Conciliation Act, 1996: Within thirty days from the receipt of the arbitral award, unless another period of time has been agreed upon by the parties... a party, with notice to the other party, may request the arbitral tribunal to correct any computation errors, any clerical or typographical errors or any other errors of a similar nature occurring in the award.",
+    "Context": "Jurisdiction: India, Case Type: Partnership Dissolution"
+  },
+  {
+    "Query": "A construction company contracted with a private developer for a large-scale project. The developer alleges that the contractor breached the contract by delaying construction. The arbitrator awarded damages to the developer but did not specify the interest rate to be applied on the awarded amount. Can the court determine the interest rate?",
+    "Legal Principles": "The court cannot interfere with the arbitrator's decision on interest rates unless the award is demonstrably against public policy or the interest rate is patently illegal.",
+    "Relevant Sections": "Section 34(2)(b) of the Arbitration and Conciliation Act, 1996: The Court finds that... the arbitral award is in conflict with the public policy of India.",
+    "Context": "Jurisdiction: India, Case Type: Construction Contract"
+  },
+  {
+    "Query": "A technology company sued a rival company for patent infringement. The case went to arbitration. The arbitrator found in favor of the plaintiff but did not specify the amount of damages. Can the court compel the arbitrator to quantify the damages?",
+    "Legal Principles": "The court cannot compel an arbitrator to quantify damages after the award is passed unless the award is incomplete or contains patent illegality. The court's role is limited to ensuring that the award is fair and not against public policy.",
+    "Relevant Sections": "Section 34(2)(a) of the Arbitration and Conciliation Act, 1996: the party making the application establishes on the basis of the record of the arbitral tribunal that... the arbitral award deals with a dispute not contemplated by or not falling within the terms of the submission to arbitration, or it contains decisions on matters beyond the scope of the submission to arbitration.",
+    "Context": "Jurisdiction: India, Case Type: Patent Infringement"
+  },
+  {
+    "Query": "A landowner claims that a neighboring property owner encroached on his land by constructing a fence. The dispute went to arbitration. The arbitrator ordered the removal of the fence but did not specify a timeframe for removal. Can the court impose a deadline for the removal?",
+    "Legal Principles": "The court cannot impose a deadline for the removal of the fence unless the award is incomplete or contains patent illegality. The court's role is limited to ensuring that the award is fair and not against public policy.",
+    "Relevant Sections": "Section 34(2A) of the Arbitration and Conciliation Act, 1996: An arbitral award arising out of arbitrations other than international commercial arbitrations, may also be set aside by the Court, if the Court finds that the award is vitiated by patent illegality appearing on the face of the award: Provided that an award shall not be set aside merely on the ground of an erroneous application of the law or by reappreciation of evidence.",
+    "Context": "Jurisdiction: India, Case Type: Property Dispute"
+  },
+  {
+    "Query": "A small business owner claims that a major corporation breached a contract by failing to deliver goods on time. The dispute went to arbitration. The arbitrator awarded damages to the small business owner but did not specify the method for calculating the damages. Can the court provide guidance on the calculation method?",
+    "Legal Principles": "The court cannot provide guidance on the calculation method for damages unless the award is incomplete or contains patent illegality. The court's role is limited to ensuring that the award is fair and not against public policy.",
+    "Relevant Sections": "Section 34(2)(a) of the Arbitration and Conciliation Act, 1996: the party making the application establishes on the basis of the record of the arbitral tribunal that... the arbitral award deals with a dispute not contemplated by or not falling within the terms of the submission to arbitration, or it contains decisions on matters beyond the scope of the submission to arbitration.",
+    "Context": "Jurisdiction: India, Case Type: Contract Breach"
+  },
+  {
+    "Query": "Two companies signed a joint venture agreement but later had a dispute over the distribution of profits. The matter was referred to arbitration. The arbitrator awarded a specific percentage of profits to one company but failed to provide a detailed explanation for the decision. Can the court request the arbitrator to provide reasons for the decision?",
+    "Legal Principles": "The court cannot request the arbitrator to provide reasons for the decision unless the award is incomplete or contains patent illegality. The court's role is limited to ensuring that the award is fair and not against public policy.",
+    "Relevant Sections": "Section 34(2A) of the Arbitration and Conciliation Act, 1996: An arbitral award arising out of arbitrations other than international commercial arbitrations, may also be set aside by the Court, if the Court finds that the award is vitiated by patent illegality appearing on the face of the award: Provided that an award shall not be set aside merely on the ground of an erroneous application of the law or by reappreciation of evidence.",
+    "Context": "Jurisdiction: India, Case Type: Joint Venture Dispute"
+  },
+  {
+    "Query": "A bank and a borrower had a dispute over the terms of a loan agreement. The dispute went to arbitration. The arbitrator ruled in favor of the borrower but did not specify the amount of the loan balance. Can the court compel the arbitrator to determine the loan balance?",
+    "Legal Principles": "The court cannot compel the arbitrator to determine the loan balance unless the award is incomplete or contains patent illegality. The court's role is limited to ensuring that the award is fair and not against public policy.",
+    "Relevant Sections": "Section 34(2)(a) of the Arbitration and Conciliation Act, 1996: the party making the application establishes on the basis of the record of the arbitral tribunal that... the arbitral award deals with a dispute not contemplated by or not falling within the terms of the submission to arbitration, or it contains decisions on matters beyond the scope of the submission to arbitration.",
+    "Context": "Jurisdiction: India, Case Type: Loan Agreement Dispute"
+  }
+]
+```

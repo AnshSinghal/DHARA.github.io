@@ -1,0 +1,88 @@
+## 1. Case Title
+
+•	Case Name: Sarine Technologies Ltd. vs. Diyora and Bhanderi Corporation
+•	Court: Gujarat High Court
+•	Date of Judgment: 10th October 2023
+•	Citation: C/MCA/1177/2023
+
+## 2. Background and Context
+
+•	**Brief Overview:** This case involved a dispute over copyright infringement of the "Advisor" software, a rough diamond and gemstone planning software, by the respondents. Sarine Technologies Ltd. (Petitioner) filed a suit against Diyora and Bhanderi Corporation (Respondents) for permanent and mandatory injunction, rendition of accounts, damages, and other relief under the Copyright Act, 1957. 
+•	**Key Issues:** The primary issue was whether the Gujarat High Court should transfer the Commercial Trademark Suit No. 35 of 2021 from Surat to Ahmedabad, where the judge who initially heard the case had been transferred.
+
+## 3. Legal Principles Involved
+
+•	**Relevant Statutes and Provisions:**
+    - Section 24 of the Civil Procedure Code, 1908 (CPC), which deals with the transfer of suits, appeals, and other proceedings.
+    - Copyright Act, 1957, which governs the protection and enforcement of copyright.
+•	**Precedents Cited:**
+    - Advance Magazine Publishers Inc. Vs. Bombay Rayon Fashions Ltd. and others reported in 2021 AIR CC 283
+    - Smt. MV Rekha Vs. Sri Sathya @ Suraj, ILR 2010 KAR
+    - Anil Rai Vs. State of Bihar reported in (2001) 7 SCC 318
+    - Umesh Rai Vs. State of U.P. rendered in Criminal Appeal No.1518 of 2023
+    - Mahabir Prasad Singh Vs. Jacks Aviation Pvt. Ltd. reported in (1999) 1 SCC 37
+    - M/s Fumo Chem Pvt. Ltd. Vs. M/s Raj Process Equipments and Systems Pvt. Ltd. and others rendered in Transfer Petition (Civil) No.755 of 2021
+    - DAV Boys Senior Secondary School and others Vs. DAV College Managing Committee reported in (2010) 8 SCC 401
+•	**Legal Doctrines:**
+    -  The principle of balance of convenience or inconvenience to the parties involved in the lawsuit.
+    -  The principle of ensuring a fair trial.
+    -  The doctrine of "expedient for the ends of justice," as per Section 25 of the CPC, which allows for transfer of cases to ensure a just outcome.
+
+## 4. Arguments Presented
+
+•	**Plaintiff’s Argument:** 
+    - The petitioner argued that the transferred judge, Mr. Vivek N. Mapara, had invested significant time and effort in understanding the technical and complex issues of the case, including examining the source code and object code of the software. 
+    - The petitioner claimed the respondents had previously consented to the transfer of the case to the new location of the judge.
+    - The petitioner argued that it would be inconvenient for the parties to have a new judge take over the case at this stage, as a fresh judge would require time to familiarize themselves with the complex details of the dispute.
+•	**Defendant’s Argument:**
+    - The respondents argued that consent to a transfer does not automatically confer jurisdiction on the court to transfer the case. 
+    - They argued that the petitioner did not demonstrate any reasonable apprehension of denial of justice in the original court at Surat. 
+    - The respondents argued that the petitioner's request for transferring the case to a specific judge, as opposed to another court, is not permissible under Section 24 of the CPC. 
+    - The respondents claimed that the judge in Surat was capable of understanding the technical aspects of the case and had not shown any reluctance or inability to deliver the judgment.
+    - The respondents pointed out that the judge had released the case from being reserved for judgment, indicating his intention to rehear the case, and that it was not necessary to transfer the case. 
+
+## 5. Court’s Analysis and Reasoning
+
+•	**Key Findings:** 
+    - The court found that the petitioner did not establish any apprehension of denial of justice in the original court at Surat.
+    - The court noted that the transferred judge had not indicated an inability to handle the technical issues in the case, and therefore, his transfer was not a significant impediment to the case proceedings.
+    - The court emphasized that the principle of consent is not the determining factor in transferring a case, and the court must be satisfied with the grounds for transfer under Section 24 of the CPC.
+•	**Interpretation of Law:** 
+    - The court interpreted Section 24 of the CPC to emphasize that the transfer of cases is discretionary, but it should be exercised cautiously and only with valid grounds.
+    - The court referred to the precedents established in Kulwinder v Kandi Friends Education and Maneka Sanjoy Gandhi v Rani Jethmalani, stating that a strong case for denial of justice or significant inconvenience must be established for a transfer to be justified. 
+•	**Application of Law:**
+    - The court applied the legal principle of ensuring a fair trial and the doctrine of "expedient for the ends of justice" under Section 25 of the CPC to determine if the transfer was necessary.
+    - The court did not consider the petitioner's argument of the judge's familiarity with the case as a sufficient ground for transfer.
+    - The court held that simply because the parties consent to a transfer does not automatically justify it, as it can potentially undermine the integrity of the judicial process.
+
+## 6. Judgment
+
+•	**Final Decision:** The Gujarat High Court dismissed the petitioner's petition to transfer the case to the court of the transferred judge in Ahmedabad.
+•	**Relief Granted:** No relief was granted to the petitioner.
+•	**Orders:** The court discharged the rule, indicating that the petition was dismissed.
+
+## 7. Implications
+
+•	**Impact on Law:** The judgment reinforces the principle that a mere change of judge is not a sufficient ground for transferring a case under Section 24 of the CPC. The court must be convinced that the transfer is essential to ensure a fair trial and that the original court poses a threat to the petitioner's right to a just outcome.
+•	**Future Relevance:** This case establishes a precedent in Gujarat High Court that consent alone is not a decisive factor in transferring a case. It is likely to impact future cases where parties seek transfer based solely on a judge's familiarity with the case or consent.
+•	**Broader Context:** The case highlights the importance of judicial efficiency and the need for courts to carefully consider the grounds for transferring cases. It also emphasizes the principle of maintaining the integrity of the judicial system and protecting the rights of parties to a fair and impartial trial.
+
+## 8. Summary Points
+
+•	The petitioner sought transfer of the case to a judge who had been transferred to a new court.
+•	The petitioner argued for transfer based on the judge's familiarity with the case and the respondent's prior consent.
+•	The court dismissed the petition, finding no grounds for transfer under Section 24 of the CPC.
+•	The judgment emphasizes the importance of ensuring a fair trial and demonstrates that consent alone is not sufficient to justify transferring a case.
+
+## 9. References
+
+•	**Citations:** 
+    - Section 24 of the Civil Procedure Code, 1908 (CPC)
+    - Copyright Act, 1957
+    - Kulwinder v Kandi Friends Education (2008) 3 SCC 659
+    - Maneka Sanjoy Gandhi v Rani Jethmalani (1979) 4 SCC 167
+    - Mahabir Prasad Singh Vs. Jacks Aviation Pvt. Ltd. (1999) 1 SCC 37
+    - DAV Boys Senior Secondary School and others Vs. DAV College Managing Committee (2010) 8 SCC 401
+•	**Further Reading:**
+    -  Other judgments concerning the transfer of cases under Section 24 of the CPC.
+    -  Legal texts on civil procedure and copyright law. 

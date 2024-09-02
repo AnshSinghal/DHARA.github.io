@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A landlord filed a suit for eviction and rent recovery against a tenant who operates a printing business in a commercial property. The tenant claims the dispute is not commercial, but the landlord insists it is.  The case was initially filed in the civil court but was transferred to the commercial court under Section 15 of the Commercial Courts Act. The tenant now argues that the commercial court cannot handle the case as pre-litigation mediation was not done, citing the Supreme Court judgment in Patil Automation Pvt. Ltd. v. Rakheja Engineers Pvt. Ltd.",
+    "Legal Principles": "The legal principles involved include the definition of a 'commercial dispute' under the Commercial Courts Act, the applicability of mandatory pre-litigation mediation under Section 12-A of the Act, and the retrospective effect of Supreme Court judgments.",
+    "Relevant Sections": "Section 2(1)(7) of the Commercial Courts Act, 2015: Defines 'commercial dispute' to include disputes arising out of agreements relating to immovable properties used exclusively in trade or commerce.\nSection 12-A of the Commercial Courts Act, 2015: Mandates pre-litigation mediation in suits that do not involve urgent interim relief, subject to rules made by the Central Government. The Supreme Court's judgment in Patil Automation Pvt. Ltd. v. Rakheja Engineers Pvt. Ltd. (2022 SCC Online SC 1028) declared Section 12-A mandatory and effective from 20-08-2022.",
+    "Context": "Jurisdiction: India\nCase Type:  Eviction and rent recovery suit involving a commercial property"
+  },
+  {
+    "Query": "A company filed a suit against its former employee seeking to enforce a non-compete clause in their employment contract. The employee argues that the non-compete clause is unreasonable and unenforceable, and that the dispute does not qualify as a 'commercial dispute' under the Commercial Courts Act.",
+    "Legal Principles": "The legal principles involved include the validity and enforceability of non-compete clauses in employment contracts, the definition of 'commercial dispute' under the Commercial Courts Act, and the potential for court intervention in cases of unfair contractual terms.",
+    "Relevant Sections": "Section 2(1)(c)(vii) of the Commercial Courts Act, 2015: Defines 'commercial dispute' as disputes relating to agreements in connection with trade, commerce, or industry. \nSection 27 of the Indian Contract Act, 1872: Deals with agreements in restraint of trade and their enforceability.",
+    "Context": "Jurisdiction: India\nCase Type:  Suit for enforcement of a non-compete clause in an employment contract"
+  },
+  {
+    "Query": "Two parties entered into a contract for the sale of goods, but a dispute arose regarding the quality and delivery of the goods. One party filed a suit in the commercial court, seeking damages for breach of contract. The other party argues that the dispute is not sufficiently commercial in nature to warrant adjudication in the commercial court.",
+    "Legal Principles": "The legal principles involved include the definition of 'commercial dispute' under the Commercial Courts Act, the elements of breach of contract, and the jurisdiction of commercial courts in resolving commercial disputes.",
+    "Relevant Sections": "Section 2(1)(c)(vii) of the Commercial Courts Act, 2015: Defines 'commercial dispute' as disputes relating to agreements in connection with trade, commerce, or industry.\nSection 73 of the Indian Contract Act, 1872:  Deals with remedies for breach of contract, including damages.",
+    "Context": "Jurisdiction: India\nCase Type:  Suit for breach of contract related to the sale of goods"
+  },
+  {
+    "Query": "A company filed a suit seeking to recover a debt owed to it by another company. The defendant company argues that the debt is not a 'commercial dispute' within the meaning of the Commercial Courts Act and that the suit should be transferred to a regular civil court.",
+    "Legal Principles": "The legal principles involved include the definition of 'commercial dispute' under the Commercial Courts Act, the distinction between commercial and non-commercial debts, and the jurisdiction of commercial courts in debt recovery cases.",
+    "Relevant Sections": "Section 2(1)(c)(vii) of the Commercial Courts Act, 2015: Defines 'commercial dispute' as disputes relating to agreements in connection with trade, commerce, or industry.",
+    "Context": "Jurisdiction: India\nCase Type:  Debt recovery suit between two companies"
+  },
+  {
+    "Query": "A construction company filed a suit against a property owner seeking payment for construction work performed. The property owner argues that the construction work was defective and that the company is not entitled to payment. The case is pending in the commercial court, and the company seeks to enforce a contractual clause requiring arbitration in case of disputes.",
+    "Legal Principles": "The legal principles involved include the enforceability of arbitration clauses in contracts, the jurisdiction of commercial courts in resolving disputes subject to arbitration agreements, and the potential for court intervention in cases of defective construction work.",
+    "Relevant Sections": "Section 8 of the Arbitration and Conciliation Act, 1996: Deals with the enforceability of arbitration agreements.\nSection 11 of the Arbitration and Conciliation Act, 1996:  Provides for the jurisdiction of courts to refer disputes to arbitration.",
+    "Context": "Jurisdiction: India\nCase Type:  Suit for payment for construction work, involving an arbitration clause"
+  },
+  {
+    "Query": "A software company filed a suit against a client for non-payment of software development services. The client argues that the software did not meet the agreed specifications and that the company is not entitled to payment. The case is pending in the commercial court, and the company seeks to rely on a 'force majeure' clause in the contract to justify its delay in completing the project.",
+    "Legal Principles": "The legal principles involved include the application of 'force majeure' clauses in contracts, the burden of proof on parties seeking to rely on such clauses, and the potential for court intervention in cases of contractual disputes involving force majeure events.",
+    "Relevant Sections": "Section 32 of the Indian Contract Act, 1872:  Deals with the doctrine of 'force majeure' and its application to contracts.",
+    "Context": "Jurisdiction: India\nCase Type:  Suit for non-payment of software development services, involving a 'force majeure' clause"
+  },
+  {
+    "Query": "A company filed a suit seeking to recover unpaid royalties from another company for the use of its intellectual property. The defendant company argues that the royalty agreement is invalid and unenforceable, and that the dispute is not a 'commercial dispute' under the Commercial Courts Act.",
+    "Legal Principles": "The legal principles involved include the validity and enforceability of royalty agreements, the definition of 'commercial dispute' under the Commercial Courts Act, and the protection of intellectual property rights.",
+    "Relevant Sections": "Section 2(1)(c)(vii) of the Commercial Courts Act, 2015: Defines 'commercial dispute' as disputes relating to agreements in connection with trade, commerce, or industry.\nThe Copyright Act, 1957, The Patents Act, 1970, and the Trademarks Act, 1999: Provide for the protection of intellectual property rights, including the right to receive royalties for the use of intellectual property.",
+    "Context": "Jurisdiction: India\nCase Type:  Suit for recovery of unpaid royalties for intellectual property use"
+  },
+  {
+    "Query": "A company filed a suit against another company for breach of a joint venture agreement. The defendant company argues that the agreement was not properly formed and that it is not liable for any breach. The case is pending in the commercial court, and the plaintiff company seeks to rely on a specific performance clause in the agreement.",
+    "Legal Principles": "The legal principles involved include the elements of a valid joint venture agreement, the remedies available for breach of such agreements, including specific performance, and the jurisdiction of commercial courts in resolving joint venture disputes.",
+    "Relevant Sections": "Section 11 of the Specific Relief Act, 1963:  Provides for the remedy of specific performance in certain contractual disputes.",
+    "Context": "Jurisdiction: India\nCase Type:  Suit for breach of a joint venture agreement"
+  },
+  {
+    "Query": "A company filed a suit against its former supplier for breach of contract. The supplier argues that the contract was terminated due to a 'force majeure' event, and that it is not liable for any breach. The case is pending in the commercial court, and the company seeks to prove that the supplier's reliance on 'force majeure' is not justified.",
+    "Legal Principles": "The legal principles involved include the application of 'force majeure' clauses in contracts, the burden of proof on parties seeking to rely on such clauses, and the potential for court intervention in cases of contractual disputes involving force majeure events.",
+    "Relevant Sections": "Section 32 of the Indian Contract Act, 1872:  Deals with the doctrine of 'force majeure' and its application to contracts.",
+    "Context": "Jurisdiction: India\nCase Type:  Suit for breach of contract between a company and its supplier, involving a 'force majeure' clause"
+  },
+  {
+    "Query": "A distributor filed a suit against a manufacturer for breach of a distribution agreement. The manufacturer argues that the distributor failed to meet its sales targets and that it is entitled to terminate the agreement. The case is pending in the commercial court, and the distributor seeks to argue that the manufacturer's termination was wrongful and that it is entitled to damages.",
+    "Legal Principles": "The legal principles involved include the elements of a valid distribution agreement, the grounds for termination of such agreements, and the remedies available for wrongful termination, including damages.",
+    "Relevant Sections": "Section 27 of the Indian Contract Act, 1872:  Deals with agreements in restraint of trade and their enforceability.",
+    "Context": "Jurisdiction: India\nCase Type:  Suit for breach of a distribution agreement"
+  }
+]
+```

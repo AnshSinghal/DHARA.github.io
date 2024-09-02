@@ -1,0 +1,86 @@
+## 1. Case Title
+
+* **Case Name:** The Commissioner, Esd Mee Seva vs Ccs Infotech Ltd
+* **Court:** Telangana High Court
+* **Date of Judgment:** 26th August 2022
+* **Citation:**  COMMERCIAL COURT APPEAL NOs.33, 34, 40, 41, 42, 48, 49, 51 and 52 of 2018 and 4, 17, 18, 19, 20 OF 2019
+
+## 2. Background and Context
+
+* **Brief Overview:** This case involves disputes arising from agreements between CCS Infotech Ltd., United Telecoms Ltd. and the Mee-Seva organization (formerly known as E-Seva). These agreements were for building, operating, and maintaining e-governance service centers in Hyderabad and Secunderabad. The parties entered into these agreements in 2003 for a period of 5 years. Disputes arose regarding the effective date of the agreements, rate revisions, and transaction slabs. These disputes were referred to arbitration, resulting in preliminary and final awards. Mee-Seva appealed these awards under Section 34 of the Arbitration Act, 1996, leading to the present appeal before the Telangana High Court.
+* **Key Issues:**
+    * Whether the Arbitrator could pass both preliminary and final awards in the same arbitration proceedings.
+    * Whether the Commercial Court could modify the Arbitrator's award in a Section 34 application.
+    * Whether the findings and conclusions of the Arbitrator on the rate revision and transaction slabs were valid and legal.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:** 
+    * The Arbitration and Conciliation Act, 1996, particularly Sections 2(1)(c)4, 17, 32, 33, and 34.
+* **Precedents Cited:**
+    * The Project Director, National Highways Nos.45E and 220, National Highways Authority of India vs. M.Hakeem and others
+    * Ragya Bee and others vs. P.S.R. Constructions and others
+    * Delhi Airport Metro Express Pvt. Ltd. Vs. Delhi Metro Rail Corporation Ltd.
+* **Legal Doctrines:** 
+    * Interpretation of statutory provisions, especially Section 34 of the Arbitration Act, 1996.
+    * The principle of functus officio and its application to arbitral awards.
+    * The limited scope of judicial review in arbitration proceedings.
+
+## 4. Arguments Presented
+
+* **Appellant’s Argument:**
+    * Section 34 only permits the court to set aside or remand an award, not modify it.
+    * The Commercial Court erred in holding the rate revision to be prospective, as the government order was retrospective.
+    * The Commercial Court erred in reducing the rate of interest from 12% to 6%.
+    * The Arbitrator's award should be accepted in its entirety.
+* **Respondent’s Argument:**
+    * The G.O.Rt.No.205 dated 30.06.2009 is not applicable to existing contracts.
+    * Passing two awards in the same arbitral proceedings is illegal, as the Arbitrator becomes functus officio after passing the first award.
+    * The Arbitrator could not have passed the final award after the O.P. under Section 34 was filed.
+    * The Arbitrator exceeded his jurisdiction by extending the contract period beyond its stipulated term.
+    * The entire arbitration process was vitiated due to the errors committed by the Arbitrator.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The court found that the Arbitrator’s decision to split the award into preliminary and final awards was illegal and violated the mandate of Section 32 of the Arbitration Act, 1996.
+    * The court held that the Commercial Court was without jurisdiction to modify the Arbitrator's award under Section 34, as the provision only allows for setting aside or remanding the award.
+    * The court accepted the Respondent's argument that the final award passed by the Arbitrator after the O.P. under Section 34 was filed was illegal.
+* **Interpretation of Law:**
+    * The court interpreted Section 32 of the Act to mean that the Arbitrator can only pass one final award.
+    * The court interpreted Section 34 to indicate that the court's power is limited to setting aside or remanding the award, not modifying it.
+* **Application of Law:**
+    * The court applied the principle of functus officio, holding that the Arbitrator was not competent to pass a final award after the preliminary award was challenged.
+    * The court applied the limited scope of judicial review in arbitration proceedings, emphasizing the court's role in ensuring fairness and not substituting its judgment for that of the Arbitrator.
+
+## 6. Judgment
+
+* **Final Decision:** The Telangana High Court allowed the appeals filed by the claimants (CCS Infotech Ltd. and United Telecoms Ltd.) and Mee-Seva.
+* **Relief Granted:** The court set aside both the Arbitrator's award and the Commercial Court's decision modifying the award.
+* **Orders:** The court remanded the matter back to arbitration, appointing Justice Vilas V. Afzulpurkar, Retired Judge of the High Court, as the sole arbitrator. The parties were directed to submit all relevant documents to the new arbitrator within four weeks.
+
+## 7. Implications
+
+* **Impact on Law:** The judgment clarifies the scope and limitations of judicial review under Section 34 of the Arbitration Act, 1996. It reiterates the principle of functus officio and its application to arbitral awards. 
+* **Future Relevance:** The judgment establishes a precedent that underscores the court's limited role in arbitration proceedings and strengthens the finality of arbitral awards.
+* **Broader Context:** The judgment demonstrates the need for clear understanding of statutory provisions and principles governing arbitration proceedings to ensure fairness and prevent legal complications.
+
+## 8. Summary Points
+
+* The Arbitrator cannot pass multiple awards in one arbitration proceeding.
+* The court cannot modify an arbitral award under Section 34; it can only set it aside or remand it.
+* The final award passed by the Arbitrator after the O.P. under Section 34 was filed was considered illegal.
+* The court emphasizes the limited scope of judicial review in arbitration proceedings.
+* The case highlights the importance of clear understanding of legal principles and procedures in arbitration.
+
+## 9. References
+
+* **Citations:** 
+    * The Arbitration and Conciliation Act, 1996
+    * The Project Director, National Highways Nos.45E and 220, National Highways Authority of India vs. M.Hakeem and others [(2021) 9 SCC 1]
+    * Ragya Bee and others vs. P.S.R. Constructions and others [2022 (3) ALD 151]
+    * Delhi Airport Metro Express Pvt. Ltd. Vs. Delhi Metro Rail Corporation Ltd. [(2022) 1 SCC 131]
+* **Further Reading:** 
+    * McDermott International Inc. v. Burn Standard Co. Ltd., (2006) 11 SCC 181
+    * Kinnari Mullick v. Ghanshyam Das Damani, (2018) 11 SCC 328
+    * Dakshin Haryana Bijli Vitran Nigam Ltd. v. Navigant Technologies (P) Ltd., (2021) 7 SCC 657

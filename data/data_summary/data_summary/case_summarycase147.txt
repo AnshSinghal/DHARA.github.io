@@ -1,0 +1,131 @@
+## 1. Case Title
+
+* **Case Name:** Dholera Industrial City Development Limited vs. M/S SPML Infra Ltd.
+* **Court:** Gujarat High Court
+* **Date of Judgment:** 4th August 2023
+* **Citation:** C/SCA/20116/2022 CAV JUDGMENT DATED: 04/08/2023
+
+## 2. Background and Context
+
+* **Brief Overview:** This case involves a dispute between Dholera Industrial City Development Limited (DICDL), a Special Purpose Vehicle (SPV) formed by the Indian government, and M/S SPML Infra Ltd. (SPML), a private contractor. The dispute arose from a Works Contract for the construction of water infrastructure in the Dholera Special Investment Region (DSIR).  DICDL terminated the contract due to delays by SPML, leading to SPML initiating arbitration proceedings. 
+* **Key Issues:**
+    * **Jurisdiction:** Whether the dispute should be adjudicated by the Arbitral Tribunal under the Arbitration and Conciliation Act, 1996 (Act, 1996), or by the statutory Gujarat Public Works Contracts Disputes Arbitration Tribunal (GPWCDAT) under the Gujarat Pubic Works Contracts Disputes Arbitration Tribunal Act, 1992 (Act, 1992).
+    * **Preliminary Issue:** Whether the issue of jurisdiction should be decided as a preliminary issue before proceeding with the merits of the case. 
+    * **Estoppel:** Whether DICDL is estopped from challenging the jurisdiction of the Arbitral Tribunal after participating in the arbitration proceedings.
+    * **Delay:** Whether DICDL's delay in raising the jurisdiction issue is justified.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * **Arbitration and Conciliation Act, 1996:**
+        * Section 5: Non-obstante clause limiting judicial intervention in arbitration proceedings.
+        * Section 16(2): Requirement to raise jurisdictional objections before submitting the statement of defense.
+        * Section 19: Arbitral tribunal not bound by the Code of Civil Procedure or the Indian Evidence Act.
+        * Section 21: Provisions of the Act, 1996 cease to apply to works contracts, if inconsistent with the Act, 1992.
+        * Section 31(6): Provisions for interim awards.
+        * Section 34: Provisions for setting aside an award.
+        * Section 37: Provisions for appeals. 
+    * **Gujarat Pubic Works Contracts Disputes Arbitration Tribunal Act, 1992:**
+        * Section 2(1)(i): Definition of "public undertaking."
+        * Section 2(1)(j): Definition of "Tribunal" (GPWCDAT).
+        * Section 2(1)(k): Definition of "Works contract."
+        * Section 8: Mandatory reference of disputes to the GPWCDAT.
+        * Section 17: Provisions for condonation of delay. 
+        * Section 21: Provisions for transfer of arbitration proceedings to the GPWCDAT.
+    * **Code of Civil Procedure, 1908:**
+        * Order XIV Rule 2: Provisions for framing preliminary issues.
+* **Precedents Cited:** 
+    * **GTPL Hathway Ltd. v. Strategic Marketing Pvt. Ltd. (2020):** This case held that orders passed by an Arbitral Tribunal during arbitration proceedings cannot be challenged under Articles 226 and 227 of the Constitution of India.
+    * **Deep Industries Limited v. Oil and Natural Gas Corporation Limited (2020):** This case held that while petitions under Articles 226/227 can be filed against judgments in arbitration appeals, High Courts should be circumspect in interfering, especially when the order does not lack inherent jurisdiction.
+    * **Narmada Clean-Tech and another v. Indian Council of Arbitration and Others (2020):** This case reinforced the principle that orders passed during arbitration proceedings cannot be challenged under Articles 226 and 227.
+    * **SMS Infrastructure Limited v. Gujarat State Road Development Corporation (2021):** This case highlighted the applicability of the Act, 1992 to disputes arising from works contracts with public undertakings.
+    * **Jagmittar Sain Bhagat and others v. Director Health Services, Haryana and others (2013):** This case emphasized the importance of jurisdiction as a condition precedent for any court or tribunal to exercise adjudicatory powers.
+    * **V.G. Jagdishan v. Indofos (2003):** This case acknowledged that jurisdictional issues can be decided as preliminary issues.
+    * **MSP Infrastructure Limited v. Madhya Pradesh Road Development Corporation Limited (2015):** This case analyzed the scope of Section 16(2) of the Act, 1996, clarifying that jurisdictional objections must be raised at the statement of defense stage.
+    * **Lion Engineering Consultants v.State of Madhya Pradesh and others (2018):** This case examined the interplay between the Act, 1996 and State laws governing works contracts, holding that public policy of India includes both State and Central law.
+    * **SREI Infrastructure Finance Limited v. Tuff Drilling Private Limited (2018):** This case discussed the power of an Arbitral Tribunal to review its own orders, particularly in procedural matters.
+    * **Madhya Pradesh Rural Road Development Autority and another v. L.G. Chaudhary Engineers and Contractors (2018):** This case addressed the precedence of State laws over the Act, 1996 in the context of works contracts.
+    * **State of Gujarat through Chief Secretary and another v. Amber Builders (2020):** This case provided a comprehensive analysis of the interplay between the Act, 1996 and the Gujarat Public Works Contract Disputes Arbitration Tribunal Act, 1992, reaffirming the precedence of the latter.
+    * **Sardar Sarovar Narmada Nigam Limited and Ors. v. Vijay Construction Co- Consulting Engineers & Contractors and others (2017):** This case explored the void ab-initio nature of orders passed without jurisdiction and the significance of subsequent decisions overruling earlier precedents.
+    * **Harshad Chimanal Modi v. DLF Universal Ltd. and another (2005):** This case differentiated between various types of jurisdiction and the importance of raising objections related to subject matter jurisdiction at any stage.
+    * **Hindustan Zinc Limited (HZL) v. Ajmer Vidyut Vitran Nigam Limited (2019):** This case further emphasized that objections based on inherent lack of jurisdiction can be raised at any stage, even in collateral proceedings.
+    * **Chief General Manager (IPC) MP Power Trading Co. Ltd and another v. Narmada Equipments Pvt. Ltd. (2021):** This case reiterated the principle that a lack of inherent jurisdiction cannot be cured by consent.
+    * **Ghanshyambhai Indravadanbhai Pandya and ors. v. Maharaja Sayajirao University (2017):** This case provided a precedent for recognizing universities as public undertakings under the Act, 1992.
+    * **Fuerst Day Lawson Ltd. v. Jindal Exports Ltd. (2011):** This case held that the Act, 1996 is a complete code and not bound by the Code of Civil Procedure.
+    * **PASL Wind Solutions (P) Ltd. v. GE Power Conversion (India) (P) Ltd. (2021):** This case established the precedence of special laws over general laws, even when the latter contains a non-obstante clause.
+    * **Sangramsinh P. Gaekwad v. Shantadevi P. Gaekwad (2005):** This case established the principle that what cannot be done directly cannot be done indirectly.
+    * **Sweta Construction v. Chhattisgarh State Power Generation Co. Ltd. (2022):** This case established that parties who choose to proceed with arbitration cannot later challenge the jurisdiction on the basis of a different statutory framework.
+    * **M.P. Housing and Infrastructure Development Board v. K.P. Dwivedi (2022):** This case reiterated that parties who submit to arbitration under a specific statutory framework cannot later seek to have the dispute adjudicated under a different framework. 
+* **Legal Doctrines:**
+    * **Estoppel:** The principle that prevents a party from taking a position inconsistent with a previous position that was adopted. 
+    * **Generalia Specialibus Non Derogant:** The principle that specific provisions take precedence over general provisions.
+    * **Res Judicata:** The principle that a matter that has been decided by a court cannot be raised again in subsequent proceedings. 
+
+## 4. Arguments Presented
+
+* **DICDL's Argument:** DICDL argued that the dispute falls under the purview of the Act, 1992, which mandates the adjudication of disputes arising from works contracts with public undertakings by the GPWCDAT. DICDL contended that as a government company, it falls under the definition of a "public undertaking" under the Act, 1992. They argued that the Act, 1992 is a special legislation that overrides the general provisions of the Act, 1996. They further argued that the issue of jurisdiction should be decided as a preliminary issue to avoid unnecessary costs and delays. They sought to invoke Order XIV Rule 2 of the Code to frame the jurisdictional issue as a preliminary question. 
+* **SPML's Argument:** SPML countered that DICDL had submitted to the jurisdiction of the Arbitral Tribunal by participating in the arbitration proceedings, including filing its Statement of Defense and counterclaim. They argued that DICDL's delay in raising the jurisdictional objection was not justified and amounted to a tactical maneuver to delay the proceedings. SPML claimed that DICDL was estopped from challenging the Arbitral Tribunal's jurisdiction at this stage. They argued that the Act, 1996 is a complete code that governs arbitration proceedings and is not bound by procedural rules of the Code. They emphasized that DICDL had not initiated any action under the Act, 1992 to refer the matter to the GPWCDAT, thereby opting for the arbitration proceedings under the Act, 1996. 
+
+## 5. Court's Analysis and Reasoning
+
+* **Key Findings:**
+    * The Arbitral Tribunal had left the issue of jurisdiction open to be decided with the other issues in the case, not as a preliminary issue.
+    * DICDL had attempted to raise the jurisdictional objection under Section 16(2) of the Act, 1996 but failed, leading to the Tribunal rejecting their application.
+    * DICDL's attempt to invoke Order XIV Rule 2 of the Code to revisit the jurisdiction issue was deemed to be an attempt to do indirectly what they could not do directly.
+    * The court recognized the precedence of special legislation (Act, 1992) over general provisions (Act, 1996) in cases of works contracts involving public undertakings.
+    * The court acknowledged that the Arbitral Tribunal had not foreclosed DICDL's right to raise the jurisdictional issue at the final hearing stage.
+* **Interpretation of Law:** The court interpreted the Act, 1992, Act, 1996, and Order XIV Rule 2 of the Code in the context of the specific facts of the case. They emphasized the non-obstante clause in Section 5 of the Act, 1996, limiting judicial intervention in arbitration proceedings, and the specific provisions of Section 16(2) requiring timely raising of jurisdictional objections. The court recognized the precedence of special legislation over general legislation based on the principle of generalia specialibus non derogant. 
+* **Application of Law:**  The court applied the legal principles to the specific facts of the case, finding that DICDL had already attempted to raise the jurisdiction issue under Section 16(2) of the Act, 1996, and failed. They also observed that the Arbitral Tribunal had left the jurisdictional issue open to be decided at the final hearing stage. Based on these findings, the court dismissed the petition, concluding that DICDL's attempt to revisit the jurisdiction issue through a petition under Article 227 of the Constitution of India was not justified.
+
+## 6. Judgment
+
+* **Final Decision:** The petition filed by DICDL was dismissed.
+* **Relief Granted:** No relief was granted to DICDL.
+* **Orders:** The court discharged the rule issued in the petition. 
+
+## 7. Implications
+
+* **Impact on Law:** The judgment reinforces the importance of timely raising jurisdictional objections in arbitration proceedings under the Act, 1996, and the precedence of special legislation like the Act, 1992 in cases of works contracts with public undertakings.
+* **Future Relevance:** The judgment provides a precedent for courts to be cautious in interfering with arbitration proceedings, particularly when the jurisdictional issue has already been addressed or is open to be decided at the final hearing stage.  
+* **Broader Context:** The judgment highlights the challenges faced by public undertakings in navigating legal disputes with private contractors in the context of infrastructure projects. It underscores the importance of carefully drafting contracts and adhering to the specific provisions of applicable legislation.
+
+## 8. Summary Points
+
+* DICDL attempted to challenge the jurisdiction of the Arbitral Tribunal on the grounds that the Act, 1992 should apply, not the Act, 1996.
+* DICDL had previously raised the jurisdictional objection under Section 16(2) of the Act, 1996, but failed.
+* The court found that the Arbitral Tribunal had not foreclosed DICDL's right to raise the jurisdictional issue at the final hearing stage.
+* The court dismissed the petition, concluding that DICDL's attempt to revisit the jurisdiction issue was not justified.
+
+## 9. References
+
+* **Citations:** 
+    * Arbitration and Conciliation Act, 1996.
+    * Gujarat Pubic Works Contracts Disputes Arbitration Tribunal Act, 1992.
+    * Code of Civil Procedure, 1908.
+    * GTPL Hathway Ltd. v. Strategic Marketing Pvt. Ltd. (2020).
+    * Deep Industries Limited v. Oil and Natural Gas Corporation Limited (2020).
+    * Narmada Clean-Tech and another v. Indian Council of Arbitration and Others (2020).
+    * SMS Infrastructure Limited v. Gujarat State Road Development Corporation (2021).
+    * Jagmittar Sain Bhagat and others v. Director Health Services, Haryana and others (2013).
+    * V.G. Jagdishan v. Indofos (2003).
+    * MSP Infrastructure Limited v. Madhya Pradesh Road Development Corporation Limited (2015).
+    * Lion Engineering Consultants v.State of Madhya Pradesh and others (2018).
+    * SREI Infrastructure Finance Limited v. Tuff Drilling Private Limited (2018).
+    * Madhya Pradesh Rural Road Development Autority and another v. L.G. Chaudhary Engineers and Contractors (2018).
+    * State of Gujarat through Chief Secretary and another v. Amber Builders (2020).
+    * Sardar Sarovar Narmada Nigam Limited and Ors. v. Vijay Construction Co- Consulting Engineers & Contractors and others (2017).
+    * Harshad Chimanal Modi v. DLF Universal Ltd. and another (2005).
+    * Hindustan Zinc Limited (HZL) v. Ajmer Vidyut Vitran Nigam Limited (2019).
+    * Chief General Manager (IPC) MP Power Trading Co. Ltd and another v. Narmada Equipments Pvt. Ltd. (2021).
+    * Ghanshyambhai Indravadanbhai Pandya and ors. v. Maharaja Sayajirao University (2017).
+    * Fuerst Day Lawson Ltd. v. Jindal Exports Ltd. (2011).
+    * PASL Wind Solutions (P) Ltd. v. GE Power Conversion (India) (P) Ltd. (2021).
+    * Sangramsinh P. Gaekwad v. Shantadevi P. Gaekwad (2005).
+    * Sweta Construction v. Chhattisgarh State Power Generation Co. Ltd. (2022).
+    * M.P. Housing and Infrastructure Development Board v. K.P. Dwivedi (2022).
+* **Further Reading:** 
+    * Arbitration and Conciliation Act, 1996.
+    * Gujarat Pubic Works Contracts Disputes Arbitration Tribunal Act, 1992.
+    * Code of Civil Procedure, 1908.
+    * Cases related to jurisdiction in arbitration proceedings.
+    * Cases related to the interplay between special legislation and general legislation. 

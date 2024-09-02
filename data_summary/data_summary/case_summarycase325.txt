@@ -1,0 +1,93 @@
+##  1. Case Title
+
+* **Case Name:** Joshy Francis vs James George
+* **Court:** Kerala High Court
+* **Date of Judgment:** 26th June 2024
+* **Citation:** OP(C) No. 794 of 2024
+
+## 2. Background and Context
+
+* **Brief Overview:** The case involves a dispute between partners of a registered partnership firm named "D' Heavenly Mist." The firm was constituted in 2016 and reconstituted in 2022. James George, the 1st respondent, was the managing partner. In June 2023, the majority of the partners decided to remove him from this position, alleging violation of partnership terms and detrimental conduct towards the business. The 7th respondent, Joshy Francis, was appointed as the new managing partner. James George challenged this decision in the Commercial Court, seeking an injunction to restrain the new managing partner from assuming his duties and prevent interference with his continuation as managing partner. The Commercial Court granted the injunction, leading to the current appeal.
+
+* **Key Issues:**
+    * Whether the Additional District Judge had the jurisdiction to act as a Commercial Appellate Court.
+    * Whether the injunction granted by the Commercial Court automatically vacated due to the failure to initiate arbitration proceedings within 90 days as per Section 9(2) of the Arbitration Act.
+    * Whether respondents 1 and 2 had expressed a "manifest intention" to go for arbitration as required under Section 9 of the Arbitration Act. 
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * Arbitration and Conciliation Act, 1996 (Arbitration Act)
+    * Commercial Courts Act, 2015
+    * Kerala Civil Courts Act, 1957
+* **Precedents Cited:**
+    * Paton Constructions Private Ltd. Mumbai (M/s.) v. M/s Lorven Projects Ltd, Hyderabad and Another [2017 KHC 4500]
+    * Sundaram Finance Ltd. v. NEPC India Ltd. [(1999) 2 SCC 479]
+    * Board of Trustees of Port of Cochin v. Jaisu Shipping Company Private Ltd. [2011 (4) KHC 881]
+    * Reshmi Constructions, Builders and Contractors (M/s.) v. NTPC Ltd. and Another [2011 (1) KHC 61]
+    * Kasim V.K v. M.Ashraf (2021 KHC 266)
+* **Legal Doctrines:**
+    * Jurisdiction of Courts: The power of a court to hear and decide a case.
+    * Arbitration: A method of resolving disputes outside of traditional court proceedings.
+    * Interim Measures: Temporary orders of protection granted by a court before or during a legal case.
+    * Manifest Intention: A clear and obvious intention to take a particular action.
+
+## 4. Arguments Presented
+
+* **Plaintiff’s Argument (Petitioners):**
+    * The Additional District Judge who passed the order dismissing the stay application lacked the jurisdiction to act as a Commercial Appellate Court because this role is designated to the Principal District Judge.
+    * The interim injunction granted by the Commercial Court automatically vacated because the respondents failed to initiate arbitration proceedings within 90 days from the order date, as per Section 9(2) of the Arbitration Act.
+    * The Commercial Appellate Court encroached upon the domain of the arbitration by predetermining the issue that should have been decided in the arbitration proceedings.
+
+* **Defendant’s Argument (Respondents):**
+    * The Additional District Judge had the jurisdiction to hear the appeal because the Additional District Court exercises the same powers and functions as the District Court in matters made over to it. 
+    * The arbitration proceedings were commenced within 90 days from the injunction order as per Section 21 of the Arbitration Act, as a request for arbitration was received by the petitioners on December 1st, 2023.
+    *  The respondents expressed a manifest intention to go for arbitration before the injunction order was granted, evident in communications sent to the other partners.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The court found that the Additional District Judge had the jurisdiction to hear the appeal as the Additional District Court is empowered to exercise the same functions and powers of the District Court.
+    * The court determined that the arbitration proceedings commenced within 90 days from the injunction order based on the communication received by the petitioners on December 1st, 2023, fulfilling the requirements of Section 21 of the Arbitration Act.
+    * The court concluded that despite the communication referring to arbitration, there was no clear and definite expression of "manifest intention" to go for arbitration as required by Section 9 of the Arbitration Act.
+* **Interpretation of Law:** 
+    * The court interpreted the provisions of the Kerala Civil Courts Act and the Commercial Courts Act to determine the jurisdiction of the Additional District Judge.
+    * The court interpreted Section 9(2) of the Arbitration Act concerning the time frame for initiating arbitration proceedings and Section 21 of the Arbitration Act defining the commencement of arbitration.
+    * The court interpreted the "manifest intention" requirement in Section 9 of the Arbitration Act and its application in the specific case.
+* **Application of Law:**
+    * The court applied the legal principles concerning jurisdiction, arbitration, and interim measures to the facts of the case, particularly the communications and actions of the parties regarding arbitration.
+
+## 6. Judgment
+
+* **Final Decision:**  The court set aside the order of the Commercial Appellate Court dismissing the application for a stay. The court allowed the application for a stay of the injunction.
+* **Relief Granted:** The injunction order granted by the Commercial Court was stayed pending further proceedings.
+* **Orders:** The original petition was disposed of accordingly.
+
+## 7. Implications
+
+* **Impact on Law:** The case reinforces the requirement of "manifest intention" for seeking interim relief under Section 9 of the Arbitration Act. It clarifies that mere mention of arbitration does not suffice; there should be a clear and definite expression of intention to pursue arbitration proceedings.
+* **Future Relevance:** This judgment will serve as a precedent for future cases involving the application of Section 9 of the Arbitration Act, particularly concerning the requirement of "manifest intention" to go for arbitration.
+* **Broader Context:** The case highlights the complexities and challenges of managing partnerships and resolving disputes between partners. It underscores the importance of clear communication, specific agreements, and adherence to legal provisions in partnership arrangements.
+
+## 8. Summary Points
+
+* The Additional District Judge had the jurisdiction to hear the appeal.
+* The arbitration proceedings were deemed to have commenced within 90 days from the injunction order.
+* The respondents failed to demonstrate a "manifest intention" to go for arbitration.
+* The injunction granted by the Commercial Court was stayed pending further proceedings.
+
+## 9. References
+
+* **Citations:**
+    * Arbitration and Conciliation Act, 1996
+    * Commercial Courts Act, 2015
+    * Kerala Civil Courts Act, 1957
+    * Paton Constructions Private Ltd. Mumbai (M/s.) v. M/s Lorven Projects Ltd, Hyderabad and Another [2017 KHC 4500]
+    * Sundaram Finance Ltd. v. NEPC India Ltd. [(1999) 2 SCC 479]
+    * Board of Trustees of Port of Cochin v. Jaisu Shipping Company Private Ltd. [2011 (4) KHC 881]
+    * Reshmi Constructions, Builders and Contractors (M/s.) v. NTPC Ltd. and Another [2011 (1) KHC 61]
+    * Kasim V.K v. M.Ashraf (2021 KHC 266) 
+* **Further Reading:** 
+    * Other case law on the "manifest intention" requirement under Section 9 of the Arbitration Act.
+    * Legal commentaries on the Arbitration and Conciliation Act, 1996.
+    * Texts on partnership law.

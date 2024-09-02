@@ -1,0 +1,102 @@
+##  1. Case Title
+
+•	Case Name: Equitas Small Finance Bank Ltd vs Nadir S/O Shri Aabid
+•	Court: Rajasthan High Court
+•	Date of Judgment: 22nd August 2019
+•	Citation: D.B. Civil Misc. Appeal No. 12/2019, D.B. Civil Misc. Appeal No. 5890/2018, D.B. Civil Writ Petition No. 4379/2019
+
+## 2. Background and Context
+
+•	**Brief Overview:** This case involved three connected matters, two appeals and a writ petition, all raising the question of which court was competent to execute an arbitral award in "commercial disputes" under the Arbitration and Conciliation Act, 1996. The dispute arose from execution applications filed by decree holders (appellants) against judgment debtors (respondents) in separate cases involving financial transactions and a construction agreement.  
+•	**Key Issues:**
+    * Whether the Commercial Court constituted under the Commercial Courts Act, 2015, or the Principal Civil Court (Court of District and Sessions Judge) is competent to execute arbitral awards in commercial disputes.
+    * The interpretation of Sections 10(3) and 15(2) of the Commercial Courts Act in relation to execution applications under Section 36 of the Arbitration Act.
+
+## 3. Legal Principles Involved
+
+•	**Relevant Statutes and Provisions:**
+    * Arbitration and Conciliation Act, 1996 (especially Sections 2(1)(e), 32, 36, and 42)
+    * Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015 (especially Sections 2(b), 3(1), 10(3), and 15(2))
+    * Code of Civil Procedure, 1908 (Order 21 Rule 27)
+    * Constitution of India (Article 227)
+•	**Precedents Cited:**
+    * Sundaram Finance Limited vs. Abdul Samad (2018) 3 SCC 622
+    * State of West Bengal vs. Associated Contractors (2015) 1 SCC 32
+    * State of Maharashtra vs. Atlanta Limited (2014) 11 SCC 619
+    * M/s. OCI Corporation vs. Kandla Export Corporation (Misc. Civil Application (For Transfer) No. 2969 of 2016)
+    * Jet Airways (India) Limited vs. Subrata Roy Sahara, 113 (6) Bom LR 3835
+    * Vijay Cotton and Fiber Company vs. Agarwal Cotton Spinning Private Limited, R/Appeal No. 216 of 2018 
+    * Sushila Singhania vs. Bharat Hari Singhania, 2017 (3) ABR 357
+    * South Eastern Coal Fields Ltd. vs. Tirupati Construction District Burhar (TPC No. 4 of 2018)
+    * SECL vs. Padam Kumar Singhaniya (TPC No. 59 of 2017)
+    * Kumbha Mawji vs. Dominion of India, AIR 1953 SC 313
+•	**Legal Doctrines:**
+    * Jurisdiction: The court's power to hear and decide a case.
+    * Interpretation of Statutes: Determining the meaning and scope of legal provisions.
+    * Judicial Precedent:  Following previous decisions by higher courts.
+
+## 4. Arguments Presented
+
+•	**Appellants’ Argument:**
+    * The Commercial Court is the competent court to execute awards under Section 36 of the Arbitration Act based on the interpretation of Sections 10(3) and 15(2) of the Commercial Courts Act.
+    * The Commercial Court wrongly relied on the judgment in Sundaram Finance, which was overruled by the State of West Bengal judgment on the application of Section 42 of the Arbitration Act.
+    * The Commercial Court should have followed the Gujarat High Court judgment in M/s. OCI Corporation, which upheld the transfer of execution petitions to Commercial Courts.
+•	**Respondents’ Argument:**
+    * The Principal Civil Court (Court of District and Sessions Judge) is the competent court to execute awards based on the definition of "Court" under Section 2(1)(e) of the Arbitration Act and the Supreme Court judgment in State of Maharashtra vs. Atlanta Limited.
+    * Section 15 of the Commercial Courts Act pertains to transfer of suits and applications pending in Civil Courts, not execution applications.
+    * The Commercial Court incorrectly applied the law and should have transferred the execution application to the District Court.
+
+## 5. Court’s Analysis and Reasoning
+
+•	**Key Findings:**
+    * The court found that the Supreme Court judgment in State of West Bengal & Others vs. Associated Contractors (2015) 1 SCC 32 overruled the decision in Sundaram Finance on the application of Section 42 of the Arbitration Act.
+    * The court highlighted that Section 42 of the Arbitration Act applies to applications filed before, during, or after arbitral proceedings are over.
+    * The court interpreted Section 15(2) of the Commercial Courts Act as encompassing all applications under the Arbitration Act, including execution applications.
+•	**Interpretation of Law:**
+    * The court interpreted Sections 10(3) and 15(2) of the Commercial Courts Act as establishing the Commercial Court as the competent body for handling commercial disputes, including execution of arbitral awards.
+    * The court rejected the narrow interpretation of "applications" under Section 15(2), which was adopted by the Chattisgarh High Court, emphasizing its wider scope to include execution applications.
+•	**Application of Law:**
+    * The court applied the legal principles laid out in State of West Bengal vs. Associated Contractors and the Gujarat High Court judgment in M/s. OCI Corporation to determine the jurisdiction of the Commercial Court.
+    * The court reasoned that the Commercial Court, being the designated forum for commercial disputes, should handle execution applications arising from arbitral awards in such disputes.
+
+## 6. Judgment
+
+•	**Final Decision:**
+    * The Rajasthan High Court allowed the two appeals, setting aside the orders of the Commercial Court, Ajmer.
+    * The court dismissed the writ petition challenging the Commercial Court's order in Writ Petition No. 4379/2019.
+•	**Relief Granted:**
+    * The court directed the Commercial Court to handle the execution applications filed by the appellants in Appeals No. 12/2019 and 5890/2018.
+    * The writ petitioner's challenge to the Commercial Court's jurisdiction was dismissed.
+•	**Orders:**
+    * The court directed the office to place a copy of the judgment on record in each connected matter.
+
+## 7. Implications
+
+•	**Impact on Law:**
+    * The judgment clarifies the jurisdiction of Commercial Courts in executing arbitral awards under the Arbitration Act.
+    * It establishes the Commercial Court as the competent forum for handling execution applications in commercial disputes involving arbitral awards.
+•	**Future Relevance:**
+    * The judgment provides guidance to courts in determining jurisdiction in similar cases involving the execution of arbitral awards in commercial matters.
+    * It encourages the efficient and streamlined handling of execution applications in Commercial Courts.
+•	**Broader Context:**
+    * The decision underscores the importance of Commercial Courts in promoting efficiency and expeditious resolution of commercial disputes.
+    * It contributes to the development of a robust legal framework for arbitration in commercial matters.
+
+## 8. Summary Points
+
+•	The Rajasthan High Court held that the Commercial Court, established under the Commercial Courts Act, 2015, is the competent court to execute arbitral awards in commercial disputes under the Arbitration and Conciliation Act, 1996.
+•	The court interpreted the provisions of the Commercial Courts Act broadly, finding that Section 15(2) encompasses execution applications arising from arbitral awards.
+•	The decision clarifies the jurisdictional framework for executing arbitral awards in commercial matters and reinforces the role of Commercial Courts in promoting efficient dispute resolution.
+
+## 9. References
+
+•	**Citations:**
+    * Arbitration and Conciliation Act, 1996 (26 of 1996)
+    * Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015 (15 of 2015)
+    * Code of Civil Procedure, 1908
+    * Constitution of India
+    * All case citations mentioned above.
+•	**Further Reading:**
+    * The Arbitration and Conciliation Act, 1996
+    * The Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015
+    * Relevant case law on the jurisdiction of Commercial Courts and execution of arbitral awards.

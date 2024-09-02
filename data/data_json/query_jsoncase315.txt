@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A company, 'ABC Corp', based in Mumbai, has filed a suit against 'XYZ Inc' in Delhi for copyright infringement. XYZ Inc's registered office is in Chennai. ABC Corp also operates a branch office in Delhi. Can the suit be maintained in Delhi?",
+    "Legal Principles": "The legal principles in question are the jurisdiction of courts in copyright infringement cases, specifically the interplay between Section 20 of the Code of Civil Procedure (CPC) and Section 62 of the Copyright Act. This case concerns the principle of whether a plaintiff can sue in a court where they have a branch office, even if the cause of action arose elsewhere and their main office is in another location.",
+    "Relevant Sections": "Section 20 CPC: ... 'where the defendant resides or carries on business ...', Section 62 Copyright Act: 'Notwithstanding anything contained in the Code of Civil Procedure or any other law for the time being in force, a suit for infringement of copyright ... may be instituted ... where the plaintiff actually and voluntarily resides or carries on business or personally works for gain'.",
+    "Context": "Jurisdiction in a copyright infringement case where the plaintiff has a branch office in the court's jurisdiction but the cause of action and the defendant's registered office are elsewhere."
+  },
+  {
+    "Query": "A trade mark dispute between 'Alpha Ltd' and 'Beta Ltd' arose in Kolkata. Alpha Ltd is registered in Kolkata but has a large manufacturing facility in Bangalore. Beta Ltd's registered office is in Mumbai.  Can Alpha Ltd file the suit in Bangalore?",
+    "Legal Principles": "The legal principles at play are the jurisdiction rules in trade mark infringement cases, specifically Section 20 of the Code of Civil Procedure (CPC) and Section 134 of the Trade Marks Act. The case delves into the concept of where a plaintiff can sue when they have a significant place of business in the court's jurisdiction but the cause of action and the defendant's registered office are elsewhere.",
+    "Relevant Sections": "Section 20 CPC: ... 'where the defendant resides or carries on business ...', Section 134 Trade Marks Act: 'Notwithstanding anything contained in the Code of Civil Procedure or any other law for the time being in force, a suit for infringement of a registered trade mark ... may be instituted ... where the plaintiff actually and voluntarily resides or carries on business or personally works for gain.'",
+    "Context": "Jurisdiction in a trade mark infringement case where the plaintiff has a significant place of business in the court's jurisdiction but the cause of action and the defendant's registered office are elsewhere."
+  },
+  {
+    "Query": "A music composer, 'Melody Inc', based in Chennai, claims 'Harmony Records', based in Delhi, infringed their copyright by using their composition without permission. Harmony Records has a branch office in Bangalore. Can Melody Inc file the suit in Bangalore?",
+    "Legal Principles": "This case focuses on the jurisdiction rules in copyright infringement cases, specifically Section 20 of the Code of Civil Procedure (CPC) and Section 62 of the Copyright Act. The issue is whether the plaintiff can sue in a court where the defendant has a branch office, even though the plaintiff's main office and the cause of action are elsewhere.",
+    "Relevant Sections": "Section 20 CPC: ... 'where the defendant resides or carries on business ...', Section 62 Copyright Act: 'Notwithstanding anything contained in the Code of Civil Procedure or any other law for the time being in force, a suit for infringement of copyright ... may be instituted ... where the plaintiff actually and voluntarily resides or carries on business or personally works for gain'.",
+    "Context": "Jurisdiction in a copyright infringement case where the defendant has a branch office in the court's jurisdiction but the plaintiff's main office and the cause of action are elsewhere."
+  },
+  {
+    "Query": "'Tech Solutions Ltd', a software company headquartered in Hyderabad, is suing 'Data Services Inc' for breach of contract.  Data Services Inc is based in Mumbai but has a large data center in Hyderabad.  Can Tech Solutions Ltd sue in Hyderabad?",
+    "Legal Principles": "This case deals with the jurisdiction rules in breach of contract cases, particularly the interplay of Section 20 of the Code of Civil Procedure (CPC) and the principle of where the cause of action arises. The central question is whether the plaintiff can sue in a court where the defendant has a significant place of business, even if the contract was formed elsewhere and the defendant's main office is in another location.",
+    "Relevant Sections": "Section 20 CPC: ... 'where the defendant resides or carries on business ...',  Section 20 CPC also states that a suit can be filed where the 'cause of action, wholly or in part, arises'.",
+    "Context": "Jurisdiction in a breach of contract case where the defendant has a significant place of business in the court's jurisdiction, but the contract was formed elsewhere and the defendant's main office is in another location."
+  },
+  {
+    "Query": "'Green Energy Corp', a company based in Delhi, claims 'Solar Power Solutions Inc', based in Bangalore, violated their trade mark by using a similar logo. Solar Power Solutions Inc has a branch office in Delhi. Can Green Energy Corp sue in Delhi?",
+    "Legal Principles": "This case involves the jurisdiction rules in trade mark infringement cases, specifically Section 20 of the Code of Civil Procedure (CPC) and Section 134 of the Trade Marks Act. The issue revolves around whether the plaintiff can sue in a court where the defendant has a branch office, even though the defendant's main office and the alleged infringement occurred elsewhere.",
+    "Relevant Sections": "Section 20 CPC: ... 'where the defendant resides or carries on business ...', Section 134 Trade Marks Act: 'Notwithstanding anything contained in the Code of Civil Procedure or any other law for the time being in force, a suit for infringement of a registered trade mark ... may be instituted ... where the plaintiff actually and voluntarily resides or carries on business or personally works for gain.'",
+    "Context": "Jurisdiction in a trade mark infringement case where the defendant has a branch office in the court's jurisdiction, but the defendant's main office and the alleged infringement occurred elsewhere."
+  },
+  {
+    "Query": "'Pharmaceutical Inc', a drug manufacturing company based in Kolkata, is suing 'MedTech Ltd' for patent infringement. MedTech Ltd is based in Mumbai but has a manufacturing facility in Kolkata. Can Pharmaceutical Inc sue in Kolkata?",
+    "Legal Principles": "This case focuses on the jurisdiction rules in patent infringement cases, particularly the interplay of Section 20 of the Code of Civil Procedure (CPC) and the principle of where the cause of action arises. The core question is whether the plaintiff can sue in a court where the defendant has a manufacturing facility, even if the defendant's main office is elsewhere.",
+    "Relevant Sections": "Section 20 CPC: ... 'where the defendant resides or carries on business ...',  Section 20 CPC also states that a suit can be filed where the 'cause of action, wholly or in part, arises'.",
+    "Context": "Jurisdiction in a patent infringement case where the defendant has a manufacturing facility in the court's jurisdiction but the defendant's main office is elsewhere."
+  },
+  {
+    "Query": "'Fashion House Inc', a clothing retailer headquartered in Chennai, is suing 'Textile Supplies Ltd' for breach of contract. Textile Supplies Ltd is based in Bangalore but has a warehouse in Chennai. Can Fashion House Inc sue in Chennai?",
+    "Legal Principles": "This case deals with the jurisdiction rules in breach of contract cases, particularly the interplay of Section 20 of the Code of Civil Procedure (CPC) and the principle of where the cause of action arises. The central question is whether the plaintiff can sue in a court where the defendant has a warehouse, even if the contract was formed elsewhere and the defendant's main office is in another location.",
+    "Relevant Sections": "Section 20 CPC: ... 'where the defendant resides or carries on business ...',  Section 20 CPC also states that a suit can be filed where the 'cause of action, wholly or in part, arises'.",
+    "Context": "Jurisdiction in a breach of contract case where the defendant has a warehouse in the court's jurisdiction but the contract was formed elsewhere and the defendant's main office is in another location."
+  },
+  {
+    "Query": "'Art Gallery Inc', based in Mumbai, claims 'Design Studio Ltd', based in Delhi, copied their artwork without permission. Design Studio Ltd has a branch office in Mumbai. Can Art Gallery Inc sue in Mumbai?",
+    "Legal Principles": "This case involves the jurisdiction rules in copyright infringement cases, specifically Section 20 of the Code of Civil Procedure (CPC) and Section 62 of the Copyright Act. The issue revolves around whether the plaintiff can sue in a court where the defendant has a branch office, even though the defendant's main office and the alleged infringement occurred elsewhere.",
+    "Relevant Sections": "Section 20 CPC: ... 'where the defendant resides or carries on business ...', Section 62 Copyright Act: 'Notwithstanding anything contained in the Code of Civil Procedure or any other law for the time being in force, a suit for infringement of copyright ... may be instituted ... where the plaintiff actually and voluntarily resides or carries on business or personally works for gain.'",
+    "Context": "Jurisdiction in a copyright infringement case where the defendant has a branch office in the court's jurisdiction, but the defendant's main office and the alleged infringement occurred elsewhere."
+  },
+  {
+    "Query": "'Publishing House Inc', based in Kolkata, is suing 'Author's Guild Ltd', based in Delhi, for breach of contract. Author's Guild Ltd has a publishing office in Kolkata. Can Publishing House Inc sue in Kolkata?",
+    "Legal Principles": "This case deals with the jurisdiction rules in breach of contract cases, particularly the interplay of Section 20 of the Code of Civil Procedure (CPC) and the principle of where the cause of action arises. The central question is whether the plaintiff can sue in a court where the defendant has a publishing office, even if the contract was formed elsewhere and the defendant's main office is in another location.",
+    "Relevant Sections": "Section 20 CPC: ... 'where the defendant resides or carries on business ...',  Section 20 CPC also states that a suit can be filed where the 'cause of action, wholly or in part, arises'.",
+    "Context": "Jurisdiction in a breach of contract case where the defendant has a publishing office in the court's jurisdiction but the contract was formed elsewhere and the defendant's main office is in another location."
+  },
+  {
+    "Query": "'Construction Company Ltd', based in Bangalore, claims 'Property Development Inc', based in Hyderabad, used their construction designs without permission. Property Development Inc has a construction project underway in Bangalore. Can Construction Company Ltd sue in Bangalore?",
+    "Legal Principles": "This case involves the jurisdiction rules in copyright infringement cases, specifically Section 20 of the Code of Civil Procedure (CPC) and Section 62 of the Copyright Act. The issue revolves around whether the plaintiff can sue in a court where the defendant has an ongoing construction project, even though the defendant's main office and the alleged infringement occurred elsewhere.",
+    "Relevant Sections": "Section 20 CPC: ... 'where the defendant resides or carries on business ...', Section 62 Copyright Act: 'Notwithstanding anything contained in the Code of Civil Procedure or any other law for the time being in force, a suit for infringement of copyright ... may be instituted ... where the plaintiff actually and voluntarily resides or carries on business or personally works for gain.'",
+    "Context": "Jurisdiction in a copyright infringement case where the defendant has an ongoing construction project in the court's jurisdiction, but the defendant's main office and the alleged infringement occurred elsewhere."
+  }
+]
+```

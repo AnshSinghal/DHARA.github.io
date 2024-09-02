@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A company is suing another company for damages resulting from a breach of contract, but the defendant argues that the plaintiff's claim is frivolous and vexatious because the plaintiff has already filed multiple lawsuits on similar grounds. Can the court dismiss the lawsuit as frivolous and vexatious under Order VII Rule 11 of the CPC?",
+    "Legal Principles": "Order VII Rule 11 of the Code of Civil Procedure (CPC) empowers courts to dismiss frivolous and vexatious lawsuits at the threshold. A lawsuit is considered frivolous if it is baseless or lacking in merit, while a vexatious lawsuit is one that is intended to harass or annoy the defendant.",
+    "Relevant Sections": "Order VII Rule 11 of the Code of Civil Procedure (CPC)",
+    "Context": "Jurisdiction: India. Case type: Civil suit, Dismissal of suit under Order VII Rule 11."
+  },
+  {
+    "Query": "A construction company is seeking an injunction to prevent a developer from proceeding with a project that it claims violates zoning regulations. The developer argues that the construction company has no standing to bring the claim because it is not directly affected by the project. Does the construction company have standing to seek the injunction?",
+    "Legal Principles": "Standing is a legal doctrine that requires a party to demonstrate a sufficient connection to the matter at hand in order to bring a lawsuit. To establish standing, a plaintiff must show that they have suffered an injury in fact, that the injury is traceable to the defendant's actions, and that the injury is likely to be redressed by a favorable decision.",
+    "Relevant Sections": "None specifically mentioned in the provided judgment, but relevant legal principles are widely applicable.",
+    "Context": "Jurisdiction: India. Case type: Civil suit, Injunction, Standing."
+  },
+  {
+    "Query": "A landlord is trying to evict a tenant for non-payment of rent. The tenant claims that the landlord is in breach of the lease agreement by failing to provide essential services, such as hot water and heating. Can the tenant use this as a defense against eviction?",
+    "Legal Principles": "A tenant can use breach of contract as a defense against eviction if the landlord's breach is material and substantial. Material breach occurs when the landlord's failure to perform their obligations under the lease agreement significantly affects the tenant's enjoyment of the premises.",
+    "Relevant Sections": "None specifically mentioned in the provided judgment, but relevant legal principles are widely applicable.",
+    "Context": "Jurisdiction: India. Case type: Eviction, Breach of Contract."
+  },
+  {
+    "Query": "A homeowner is suing a contractor for defective work on a home renovation project. The contractor claims that the homeowner's claim is barred by the statute of limitations. Is the contractor's argument valid?",
+    "Legal Principles": "Statutes of limitations are laws that set a time limit for bringing a lawsuit. If a lawsuit is not filed within the prescribed time frame, it may be barred from proceeding. The specific time limit varies depending on the type of claim and the jurisdiction.",
+    "Relevant Sections": "None specifically mentioned in the provided judgment, but relevant legal principles are widely applicable.",
+    "Context": "Jurisdiction: India. Case type: Contract dispute, Statute of limitations."
+  },
+  {
+    "Query": "A bank is seeking to foreclose on a mortgage due to the borrower's default. The borrower claims that the bank violated the terms of the mortgage agreement by failing to provide proper notice of the default. Is the borrower's claim valid?",
+    "Legal Principles": "A borrower may have a defense against foreclosure if the bank failed to comply with the terms of the mortgage agreement, including the requirement of providing proper notice of default. The specific requirements for notice vary depending on the jurisdiction and the terms of the mortgage agreement.",
+    "Relevant Sections": "None specifically mentioned in the provided judgment, but relevant legal principles are widely applicable.",
+    "Context": "Jurisdiction: India. Case type: Mortgage dispute, Foreclosure."
+  },
+  {
+    "Query": "An employee is suing their former employer for wrongful termination. The employer claims that the employee was terminated for legitimate business reasons. Is the employer's argument valid?",
+    "Legal Principles": "Wrongful termination occurs when an employee is terminated without a valid legal reason. The specific legal reasons for termination vary depending on the jurisdiction, but generally include discrimination, retaliation, breach of contract, and violation of public policy.",
+    "Relevant Sections": "None specifically mentioned in the provided judgment, but relevant legal principles are widely applicable.",
+    "Context": "Jurisdiction: India. Case type: Employment law, Wrongful termination."
+  },
+  {
+    "Query": "A driver is suing another driver for injuries sustained in a car accident. The defendant driver claims that the plaintiff driver was contributorily negligent. Does contributory negligence affect the outcome of the case?",
+    "Legal Principles": "Contributory negligence occurs when a plaintiff's own negligence contributes to their injuries. In some jurisdictions, contributory negligence can bar a plaintiff from recovering any damages if they are found to be even slightly negligent. Other jurisdictions have adopted comparative negligence, which allows a plaintiff to recover damages even if they were partially at fault, but reduces the amount of damages awarded based on their degree of fault.",
+    "Relevant Sections": "None specifically mentioned in the provided judgment, but relevant legal principles are widely applicable.",
+    "Context": "Jurisdiction: India. Case type: Personal injury, Negligence, Contributory negligence."
+  },
+  {
+    "Query": "A business owner is seeking a patent for a new invention. A competitor claims that the invention is not novel and is therefore not eligible for patent protection. Is the competitor's argument valid?",
+    "Legal Principles": "To obtain a patent, an invention must be novel, meaning it must be new and original. An invention is considered not novel if it is already known or publicly available. The specific requirements for novelty vary depending on the jurisdiction.",
+    "Relevant Sections": "None specifically mentioned in the provided judgment, but relevant legal principles are widely applicable.",
+    "Context": "Jurisdiction: India. Case type: Intellectual property, Patent law, Novelty."
+  },
+  {
+    "Query": "A company is suing another company for trademark infringement. The defendant claims that their use of the trademark is not likely to cause confusion in the marketplace. Is the defendant's argument valid?",
+    "Legal Principles": "Trademark infringement occurs when a party uses a trademark that is similar to another party's registered trademark and is likely to cause confusion in the marketplace. Courts consider several factors to determine whether a trademark is likely to cause confusion, including the similarity of the marks, the similarity of the goods or services, the marketing channels used, and the sophistication of the consumers.",
+    "Relevant Sections": "None specifically mentioned in the provided judgment, but relevant legal principles are widely applicable.",
+    "Context": "Jurisdiction: India. Case type: Intellectual property, Trademark law, Trademark infringement."
+  },
+  {
+    "Query": "A tenant is suing a landlord for breach of the lease agreement. The landlord claims that the tenant's claim is barred by the doctrine of waiver. Is the landlord's argument valid?",
+    "Legal Principles": "Waiver occurs when a party intentionally relinquishes a known right or claim. In the context of a lease agreement, a tenant may waive their right to enforce a specific term of the lease if they knowingly and voluntarily agree to the landlord's breach. However, a waiver must be clear and unambiguous, and it cannot be implied from silence or inaction.",
+    "Relevant Sections": "None specifically mentioned in the provided judgment, but relevant legal principles are widely applicable.",
+    "Context": "Jurisdiction: India. Case type: Landlord-tenant dispute, Breach of contract, Waiver."
+  }
+]
+```

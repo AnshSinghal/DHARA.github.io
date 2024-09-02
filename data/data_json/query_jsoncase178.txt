@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A company, 'AquaTech Solutions', filed a suit against 'Marine Farms Inc.' for non-payment of Aqua feed supplied on credit. The suit was initially filed in the District Court, but 'Marine Farms Inc.' argued that the Commercial Court at Vijayawada has exclusive jurisdiction due to the nature of the transaction. Can the suit be transferred from the District Court to the Commercial Court?",
+    "Legal Principles": "Transfer of Suits, Jurisdiction of Commercial Courts, Section 24 (5) of CPC, Section 15 of the Commercial Courts Act.",
+    "Relevant Sections": "Section 24 (5) of the Code of Civil Procedure (CPC), Section 15 of the Commercial Courts Act",
+    "Context": "This case involves a commercial dispute regarding non-payment for Aqua feed. The query focuses on the jurisdictional issue of transferring a suit from a District Court to the designated Commercial Court."
+  },
+  {
+    "Query": "A construction company, 'BuildRight Ltd.', sued 'City Developers' for breach of contract related to a commercial building project. The suit was filed in the District Court, but 'City Developers' argued that it should have been filed in the Commercial Court because the contract value exceeds the threshold for commercial disputes. Should the suit be transferred to the Commercial Court, even though it was not filed there initially?",
+    "Legal Principles": "Jurisdiction of Commercial Courts, Transfer of Suits, Section 24 (5) of CPC, Section 15 of the Commercial Courts Act",
+    "Relevant Sections": "Section 24 (5) of the Code of Civil Procedure (CPC), Section 15 of the Commercial Courts Act, Section 12-A of the Commercial Courts Act",
+    "Context": "This query revolves around the transfer of a suit involving a commercial construction contract. The focus is on whether a suit filed in the District Court can be transferred to the Commercial Court due to the contract value exceeding the threshold."
+  },
+  {
+    "Query": "A small business owner, 'Crafts & Co.', filed a suit against 'Online Market Inc.' for a dispute arising from an online sale of handcrafted goods.  'Online Market Inc.' argued that the Civil Court lacked jurisdiction because the dispute is commercial in nature and should have been filed in the Commercial Court. Should the suit be rejected or transferred?",
+    "Legal Principles": "Jurisdiction of Commercial Courts, Rejection of Plaint, Section 24 (5) of CPC, Section 12-A of the Commercial Courts Act, Order VII, Rule 11 of CPC",
+    "Relevant Sections": "Section 24 (5) of the Code of Civil Procedure (CPC), Section 12-A of the Commercial Courts Act, Order VII, Rule 11 of CPC",
+    "Context": "This query focuses on a commercial dispute arising from an online sale. The question is whether the Civil Court lacks jurisdiction and the suit should be rejected or transferred to the Commercial Court."
+  },
+  {
+    "Query": "A company, 'Tech Solutions Inc.', filed a suit against 'Software Developers Ltd.' for breach of contract related to the development of a software application.  'Software Developers Ltd.' argued that the suit should be rejected because it was filed in the District Court without following the mandatory pre-institution mediation requirements under Section 12-A of the Commercial Courts Act.  Is the suit liable to be rejected?",
+    "Legal Principles": "Mandatory Pre-Institution Mediation, Rejection of Plaint, Section 12-A of the Commercial Courts Act, Order VII, Rule 11 of CPC",
+    "Relevant Sections": "Section 12-A of the Commercial Courts Act, Order VII, Rule 11 of CPC",
+    "Context": "This case centers on a commercial dispute related to software development. The question is whether the suit is liable to be rejected for failing to comply with the mandatory pre-institution mediation requirements."
+  },
+  {
+    "Query": "A manufacturing company, 'Global Products Inc.', filed a suit against 'Materials Supply Co.' for a dispute concerning the supply of raw materials. 'Materials Supply Co.' argued that the District Court lacks inherent jurisdiction to hear the case because the dispute is commercial in nature and should have been filed in the Commercial Court.  Can the suit be rejected suo motu by the District Court?",
+    "Legal Principles": "Jurisdiction of Commercial Courts, Rejection of Plaint Suo Motu, Section 15 of the Commercial Courts Act, Article 227 of the Constitution of India, Order VII, Rule 11 of CPC",
+    "Relevant Sections": "Section 15 of the Commercial Courts Act, Article 227 of the Constitution of India, Order VII, Rule 11 of CPC",
+    "Context": "This query involves a commercial dispute regarding the supply of raw materials. The question is whether the District Court can reject the suit suo motu for lacking inherent jurisdiction, despite the fact that the defendant could have filed an application for rejection of the plaint."
+  },
+  {
+    "Query": "A financial services company, 'InvestWise Ltd.', filed a suit against 'Borrower Corp.' for recovery of a loan amount.  'Borrower Corp.' argued that the suit should be transferred to the Commercial Court because it involves a commercial transaction.  Can the suit be transferred from the District Court to the Commercial Court, even though 'Borrower Corp.' initially filed an application for rejection of the plaint instead of pursuing a transfer?",
+    "Legal Principles": "Jurisdiction of Commercial Courts, Transfer of Suits, Section 24 (5) of CPC, Section 15 of the Commercial Courts Act, Order VII, Rule 11 of CPC",
+    "Relevant Sections": "Section 24 (5) of the Code of Civil Procedure (CPC), Section 15 of the Commercial Courts Act, Order VII, Rule 11 of CPC",
+    "Context": "This case concerns a commercial dispute over loan recovery. The question is whether the suit can be transferred from the District Court to the Commercial Court, even though the defendant initially pursued a different remedy."
+  },
+  {
+    "Query": "A retail company, 'ShopSmart Inc.', filed a suit against 'Supplier Group' for a dispute arising from the supply of goods.  'Supplier Group' argued that the suit should be rejected because the District Court lacks jurisdiction as the dispute involves a commercial transaction and should have been filed in the Commercial Court. Can the suit be rejected, even though 'Supplier Group' withdrew an earlier application for rejection of the plaint and filed a revision petition under Article 227 of the Constitution of India?",
+    "Legal Principles": "Jurisdiction of Commercial Courts, Rejection of Plaint, Section 15 of the Commercial Courts Act, Article 227 of the Constitution of India, Order VII, Rule 11 of CPC",
+    "Relevant Sections": "Section 15 of the Commercial Courts Act, Article 227 of the Constitution of India, Order VII, Rule 11 of CPC",
+    "Context": "This query focuses on a commercial dispute related to the supply of goods. The question is whether the District Court can reject the suit, despite the defendant having pursued other remedies."
+  },
+  {
+    "Query": "A company, 'Tech Solutions Inc.', filed a suit against 'Software Developers Ltd.' for breach of contract related to the development of a software application.  'Software Developers Ltd.' argued that the suit should be dismissed because it was filed in the District Court without following the mandatory pre-institution mediation requirements under Section 12-A of the Commercial Courts Act.  Should the suit be dismissed, even though the plaintiff had not been aware of the establishment of the Commercial Court due to the COVID-19 pandemic?",
+    "Legal Principles": "Mandatory Pre-Institution Mediation, Dismissal of Suit, Section 12-A of the Commercial Courts Act, Order VII, Rule 11 of CPC,  Ignorance of Law",
+    "Relevant Sections": "Section 12-A of the Commercial Courts Act, Order VII, Rule 11 of CPC",
+    "Context": "This query involves a commercial dispute related to software development. The question is whether the suit should be dismissed for failing to comply with mandatory pre-institution mediation requirements, considering the plaintiff's lack of knowledge about the establishment of the Commercial Court."
+  },
+  {
+    "Query": "A media company, 'News Network Inc.', sued 'Advertising Agency Ltd.' for non-payment of advertising fees.  'Advertising Agency Ltd.' argued that the suit should be transferred to the Commercial Court because the dispute arises from a commercial contract.  Can the suit be transferred to the Commercial Court, even though the parties had agreed to resolve the dispute through an out-of-court settlement?",
+    "Legal Principles": "Jurisdiction of Commercial Courts, Transfer of Suits, Section 24 (5) of CPC, Section 15 of the Commercial Courts Act,  Settlement Agreements",
+    "Relevant Sections": "Section 24 (5) of the Code of Civil Procedure (CPC), Section 15 of the Commercial Courts Act",
+    "Context": "This case involves a commercial dispute related to advertising fees. The question is whether the suit can be transferred to the Commercial Court, considering the existence of a prior settlement agreement."
+  },
+  {
+    "Query": "A food processing company, 'Tasty Foods Ltd.', filed a suit against 'Ingredient Suppliers Inc.' for breach of contract related to the supply of ingredients.  'Ingredient Suppliers Inc.' argued that the suit should be dismissed because the District Court lacks jurisdiction due to the nature of the transaction.  Can the suit be dismissed, even though the plaintiff was unaware of the existence of the Commercial Court due to its recent establishment?",
+    "Legal Principles": "Jurisdiction of Commercial Courts, Dismissal of Suit, Section 15 of the Commercial Courts Act, Order VII, Rule 11 of CPC,  Ignorance of Law",
+    "Relevant Sections": "Section 15 of the Commercial Courts Act, Order VII, Rule 11 of CPC",
+    "Context": "This case involves a commercial dispute regarding the supply of ingredients for food processing. The question is whether the suit should be dismissed for lacking jurisdiction, considering the plaintiff's lack of awareness about the Commercial Court."
+  }
+]
+```

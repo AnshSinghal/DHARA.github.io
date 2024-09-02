@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A company, 'ABC Industries', is challenging an award issued by the Jharkhand Micro, Small & Medium Enterprises Facilitation Council (JHMSEFC). The company claims the Council was improperly constituted, as it exceeded the maximum number of members allowed by the MSMED Act.",
+    "Legal Principles": "Ultra vires doctrine, statutory interpretation, composition of administrative bodies, jurisdiction of courts, judicial review of administrative actions, alternative remedies, Arbitration and Conciliation Act, 1996",
+    "Relevant Sections": "Section 21 of the MSMED Act: Defines the composition of the Micro and Small Enterprises Facilitation Council. \n Rule 4 of the Jharkhand Micro, Small & Medium Enterprises Facilitation Council Rules, 2007 (repealed):  Initially prescribed a Council composition exceeding the limit set by the MSMED Act. \n Section 34 of the Arbitration and Conciliation Act, 1996:  Provides grounds for setting aside arbitral awards, including procedural irregularities.",
+    "Context": "This is a case of judicial review where a company is challenging an administrative decision (the award) on the grounds of procedural irregularity in the constitution of the administrative body (the Council). The case involves the interpretation of the MSMED Act and the application of the Arbitration and Conciliation Act."
+  },
+  {
+    "Query": "A construction company, 'XYZ Builders', is challenging a notice issued by the JHMSEFC regarding a dispute with a micro-enterprise. XYZ Builders argues that the JHMSEFC lacked the authority to issue the notice due to its improper constitution.",
+    "Legal Principles": "Ultra vires doctrine, statutory interpretation, composition of administrative bodies, jurisdiction of courts, judicial review of administrative actions, alternative remedies, MSMED Act",
+    "Relevant Sections": "Section 21 of the MSMED Act: Defines the composition of the Micro and Small Enterprises Facilitation Council.\n Rule 4 of the Jharkhand Micro, Small & Medium Enterprises Facilitation Council Rules, 2007 (repealed):  Initially prescribed a Council composition exceeding the limit set by the MSMED Act.\n Section 18(3) of the MSMED Act:  Governs the dispute resolution process under the Act.",
+    "Context": "This case involves a challenge to an administrative action (the notice) by a company based on the alleged lack of authority of the administrative body. The case requires interpreting the MSMED Act and determining the scope of the Council's powers."
+  },
+  {
+    "Query": "A small manufacturing company, 'DEF Enterprises', was awarded compensation by the JHMSEFC following a dispute with a larger company. The larger company is appealing the award, arguing that the Council was improperly constituted and the award is therefore invalid.",
+    "Legal Principles": "Ultra vires doctrine, statutory interpretation, composition of administrative bodies, jurisdiction of courts, judicial review of administrative actions, alternative remedies, Arbitration and Conciliation Act, 1996, de facto doctrine",
+    "Relevant Sections": "Section 21 of the MSMED Act: Defines the composition of the Micro and Small Enterprises Facilitation Council.\n Rule 4 of the Jharkhand Micro, Small & Medium Enterprises Facilitation Council Rules, 2007 (repealed):  Initially prescribed a Council composition exceeding the limit set by the MSMED Act.\n Section 34 of the Arbitration and Conciliation Act, 1996: Provides grounds for setting aside arbitral awards, including procedural irregularities.",
+    "Context": "This case involves a challenge to an arbitral award on the grounds of procedural irregularity. The case requires examining the applicability of the de facto doctrine and determining whether the procedural irregularity is sufficient to invalidate the award."
+  },
+  {
+    "Query": "A micro-enterprise, 'GHI Solutions', is being sued by a larger company for breach of contract. The larger company is seeking to have the dispute referred to the JHMSEFC for arbitration. GHI Solutions argues that the JHMSEFC is not a valid body due to its improper constitution.",
+    "Legal Principles": "Ultra vires doctrine, statutory interpretation, composition of administrative bodies, jurisdiction of courts, judicial review of administrative actions, alternative remedies, MSMED Act",
+    "Relevant Sections": "Section 21 of the MSMED Act: Defines the composition of the Micro and Small Enterprises Facilitation Council.\n Rule 4 of the Jharkhand Micro, Small & Medium Enterprises Facilitation Council Rules, 2007 (repealed):  Initially prescribed a Council composition exceeding the limit set by the MSMED Act.\n Section 18(3) of the MSMED Act:  Governs the dispute resolution process under the Act.",
+    "Context": "This case involves a challenge to the jurisdiction of the JHMSEFC to handle a dispute. The case requires examining whether the improper constitution of the JHMSEFC invalidates its authority to conduct arbitration."
+  },
+  {
+    "Query": "A company, 'JKL Technologies', is appealing a decision of the JHMSEFC to deny them a loan guarantee. JKL Technologies argues that the JHMSEFC lacked the authority to make the decision due to its improper constitution.",
+    "Legal Principles": "Ultra vires doctrine, statutory interpretation, composition of administrative bodies, jurisdiction of courts, judicial review of administrative actions, alternative remedies, MSMED Act",
+    "Relevant Sections": "Section 21 of the MSMED Act: Defines the composition of the Micro and Small Enterprises Facilitation Council.\n Rule 4 of the Jharkhand Micro, Small & Medium Enterprises Facilitation Council Rules, 2007 (repealed):  Initially prescribed a Council composition exceeding the limit set by the MSMED Act.\n Section 18(3) of the MSMED Act:  Governs the dispute resolution process under the Act.",
+    "Context": "This case involves a challenge to an administrative decision (denial of loan guarantee) on the grounds of procedural irregularity. The case requires interpreting the MSMED Act and determining the extent of the JHMSEFC's powers."
+  },
+  {
+    "Query": "A micro-enterprise, 'MNO Enterprises', is disputing a payment made to a supplier. The supplier is seeking to have the dispute resolved by the JHMSEFC. MNO Enterprises argues that the JHMSEFC is not a valid body due to its improper constitution and the dispute should be settled through a different forum.",
+    "Legal Principles": "Ultra vires doctrine, statutory interpretation, composition of administrative bodies, jurisdiction of courts, judicial review of administrative actions, alternative remedies, MSMED Act",
+    "Relevant Sections": "Section 21 of the MSMED Act: Defines the composition of the Micro and Small Enterprises Facilitation Council.\n Rule 4 of the Jharkhand Micro, Small & Medium Enterprises Facilitation Council Rules, 2007 (repealed):  Initially prescribed a Council composition exceeding the limit set by the MSMED Act.\n Section 18(3) of the MSMED Act:  Governs the dispute resolution process under the Act.",
+    "Context": "This case involves a challenge to the jurisdiction of the JHMSEFC to handle a dispute. The case requires examining whether the improper constitution of the JHMSEFC invalidates its authority to act as an arbitral body."
+  },
+  {
+    "Query": "A company, 'PQR Industries', is being investigated by the JHMSEFC for alleged violations of the MSMED Act. PQR Industries argues that the JHMSEFC is not a valid body due to its improper constitution and therefore lacks the authority to investigate them.",
+    "Legal Principles": "Ultra vires doctrine, statutory interpretation, composition of administrative bodies, jurisdiction of courts, judicial review of administrative actions, alternative remedies, MSMED Act",
+    "Relevant Sections": "Section 21 of the MSMED Act: Defines the composition of the Micro and Small Enterprises Facilitation Council.\n Rule 4 of the Jharkhand Micro, Small & Medium Enterprises Facilitation Council Rules, 2007 (repealed):  Initially prescribed a Council composition exceeding the limit set by the MSMED Act.\n Section 18(3) of the MSMED Act:  Governs the dispute resolution process under the Act.",
+    "Context": "This case involves a challenge to the authority of the JHMSEFC to conduct an investigation. The case requires examining whether the improper constitution of the JHMSEFC invalidates its investigative powers."
+  },
+  {
+    "Query": "A small business owner, 'STU Services', is seeking to obtain a loan from a bank. The bank is requiring STU Services to obtain a guarantee from the JHMSEFC. STU Services argues that the JHMSEFC is not a valid body due to its improper constitution and cannot provide the required guarantee.",
+    "Legal Principles": "Ultra vires doctrine, statutory interpretation, composition of administrative bodies, jurisdiction of courts, judicial review of administrative actions, alternative remedies, MSMED Act",
+    "Relevant Sections": "Section 21 of the MSMED Act: Defines the composition of the Micro and Small Enterprises Facilitation Council.\n Rule 4 of the Jharkhand Micro, Small & Medium Enterprises Facilitation Council Rules, 2007 (repealed):  Initially prescribed a Council composition exceeding the limit set by the MSMED Act.\n Section 18(3) of the MSMED Act:  Governs the dispute resolution process under the Act.",
+    "Context": "This case involves a challenge to the authority of the JHMSEFC to provide a loan guarantee. The case requires examining whether the improper constitution of the JHMSEFC affects its ability to fulfill this role."
+  },
+  {
+    "Query": "A company, 'VWX Limited', is challenging an award issued by the JHMSEFC for non-payment of dues to a supplier. VWX Limited argues that the Council's award should be set aside because the Council was improperly constituted.",
+    "Legal Principles": "Ultra vires doctrine, statutory interpretation, composition of administrative bodies, jurisdiction of courts, judicial review of administrative actions, alternative remedies, Arbitration and Conciliation Act, 1996, de facto doctrine",
+    "Relevant Sections": "Section 21 of the MSMED Act: Defines the composition of the Micro and Small Enterprises Facilitation Council.\n Rule 4 of the Jharkhand Micro, Small & Medium Enterprises Facilitation Council Rules, 2007 (repealed):  Initially prescribed a Council composition exceeding the limit set by the MSMED Act.\n Section 34 of the Arbitration and Conciliation Act, 1996: Provides grounds for setting aside arbitral awards, including procedural irregularities.",
+    "Context": "This case involves a challenge to an arbitral award on the grounds of procedural irregularity. The case requires examining the applicability of the de facto doctrine and determining whether the procedural irregularity is sufficient to invalidate the award."
+  },
+  {
+    "Query": "A company, 'YZ Enterprises', has been issued a notice by the JHMSEFC to appear for a hearing regarding a dispute with a customer. YZ Enterprises argues that the notice is invalid because the JHMSEFC was improperly constituted.",
+    "Legal Principles": "Ultra vires doctrine, statutory interpretation, composition of administrative bodies, jurisdiction of courts, judicial review of administrative actions, alternative remedies, MSMED Act",
+    "Relevant Sections": "Section 21 of the MSMED Act: Defines the composition of the Micro and Small Enterprises Facilitation Council.\n Rule 4 of the Jharkhand Micro, Small & Medium Enterprises Facilitation Council Rules, 2007 (repealed):  Initially prescribed a Council composition exceeding the limit set by the MSMED Act.\n Section 18(3) of the MSMED Act:  Governs the dispute resolution process under the Act.",
+    "Context": "This case involves a challenge to an administrative action (the notice) by a company based on the alleged lack of authority of the administrative body. The case requires interpreting the MSMED Act and determining the scope of the Council's powers."
+  }
+]
+```

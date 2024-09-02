@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A developer is suing a property owner for breach of contract after the owner refused to sell a piece of land that was intended for a commercial development. The property owner claims that the land is not actually being used for commercial purposes and therefore the dispute is not a commercial one.",
+    "Legal Principles": "The definition of 'commercial dispute' under the Commercial Courts Act, 2015, specifically focuses on agreements relating to immovable property that are 'used exclusively in trade or commerce.' The court must interpret the word 'used' in light of the Act's purpose, which is to ensure speedy resolution of high-value commercial disputes. The interpretation should not be overly expansive, lest it defeats the very purpose of the Act.",
+    "Relevant Sections": "Section 2(1)(c)(vii) of the Commercial Courts Act, 2015 defines 'commercial dispute' and states that it includes agreements relating to immovable property used exclusively in trade or commerce. \n\nExplanation: A commercial dispute shall not cease to be a commercial dispute merely because--\n\n(a) it also involves action for recovery of immovable property or for realization of monies out of immovable property given as security or involves any other relief pertaining to immovable property; ",
+    "Context": "This is a case concerning the interpretation of the Commercial Courts Act, 2015, and the determination of whether a dispute falls under the definition of 'commercial dispute' in order to determine the appropriate court jurisdiction."
+  },
+  {
+    "Query": "Two businesses have entered into an agreement for the sale of a piece of land that will be used to construct a shopping mall.  However, the seller has backed out of the agreement. The buyer is suing for specific performance of the contract. The seller argues that the dispute is not a commercial one because the land is currently vacant and not being used for commercial purposes.",
+    "Legal Principles": "The court must interpret the word 'used' in the context of 'agreements relating to immovable property used exclusively in trade or commerce' under the Commercial Courts Act, 2015. The focus should be on the intended use of the property, as evidenced by the agreement and the surrounding circumstances, rather than its current state.",
+    "Relevant Sections": "Section 2(1)(c)(vii) of the Commercial Courts Act, 2015 defines 'commercial dispute' and states that it includes agreements relating to immovable property used exclusively in trade or commerce.",
+    "Context": "This is a case about the interpretation of the Commercial Courts Act, 2015, specifically focusing on whether a dispute involving a piece of land intended for commercial development qualifies as a 'commercial dispute' under the Act."
+  },
+  {
+    "Query": "A company is suing a former employee for breach of contract after the employee left the company and started a competing business. The company argues that the employee's new business is using confidential information that was obtained during the employee's time with the company, and that this makes the dispute a commercial one.",
+    "Legal Principles": "The Commercial Courts Act, 2015 primarily focuses on disputes involving commercial transactions.  While the breach of contract may have commercial implications, the key issue is whether the dispute arises from an agreement relating to immovable property used exclusively in trade or commerce.",
+    "Relevant Sections": "Section 2(1)(c)(vii) of the Commercial Courts Act, 2015 defines 'commercial dispute' and states that it includes agreements relating to immovable property used exclusively in trade or commerce.",
+    "Context": "This is a case examining the applicability of the Commercial Courts Act, 2015 to a dispute involving a breach of contract between a company and a former employee. The question is whether the dispute meets the criteria of a 'commercial dispute' under the Act."
+  },
+  {
+    "Query": "A developer is suing a construction company for failing to complete the construction of a commercial building on time and within budget. The developer argues that the delay has caused significant financial losses and that the dispute is therefore a commercial one.",
+    "Legal Principles": "The Commercial Courts Act, 2015 is intended to expedite the resolution of high-value commercial disputes.  While the dispute may involve a commercial project, the key factor is whether the dispute arises from an agreement relating to immovable property used exclusively in trade or commerce.",
+    "Relevant Sections": "Section 2(1)(c)(vii) of the Commercial Courts Act, 2015 defines 'commercial dispute' and states that it includes agreements relating to immovable property used exclusively in trade or commerce.",
+    "Context": "This case explores the applicability of the Commercial Courts Act, 2015 to a dispute between a developer and a construction company. The dispute involves a commercial building project, but the question is whether it falls under the definition of 'commercial dispute' under the Act."
+  },
+  {
+    "Query": "Two companies are disputing the terms of a joint venture agreement for the development of a commercial property. One company alleges that the other company has breached the agreement by failing to contribute its share of the investment. The dispute involves a significant amount of money.",
+    "Legal Principles": "The Commercial Courts Act, 2015 aims to ensure the efficient resolution of high-value commercial disputes. The dispute in this case involves a joint venture agreement for a commercial property, which would typically fall under the purview of the Act.",
+    "Relevant Sections": "Section 2(1)(c)(vii) of the Commercial Courts Act, 2015 defines 'commercial dispute' and states that it includes agreements relating to immovable property used exclusively in trade or commerce.",
+    "Context": "This case focuses on the applicability of the Commercial Courts Act, 2015 to a dispute involving a joint venture agreement for a commercial property. The dispute involves a substantial sum of money, making it a potential candidate for expedited resolution under the Act."
+  },
+  {
+    "Query": "A small business owner is suing a landlord for breach of lease after the landlord refused to renew the lease for a commercial property. The business owner claims that the landlord's actions have caused significant financial losses.",
+    "Legal Principles": "The Commercial Courts Act, 2015 is primarily focused on high-value commercial disputes. While this case involves a lease for a commercial property, the value of the dispute and the overall context may not warrant its inclusion under the Act.",
+    "Relevant Sections": "Section 2(1)(c)(vii) of the Commercial Courts Act, 2015 defines 'commercial dispute' and states that it includes agreements relating to immovable property used exclusively in trade or commerce.",
+    "Context": "This case examines the applicability of the Commercial Courts Act, 2015 to a dispute between a small business owner and a landlord involving a commercial lease. The key question is whether the dispute meets the criteria of a 'commercial dispute' under the Act."
+  },
+  {
+    "Query": "A property owner is suing a contractor for failing to complete construction of a residential home on time. The property owner claims that the delay has caused significant inconvenience and financial losses.",
+    "Legal Principles": "The Commercial Courts Act, 2015 is designed for resolving high-value commercial disputes.  While this case involves a construction project, the primary focus is on a residential property and not a commercial one. Therefore, the dispute may not fall under the Act's purview.",
+    "Relevant Sections": "Section 2(1)(c)(vii) of the Commercial Courts Act, 2015 defines 'commercial dispute' and states that it includes agreements relating to immovable property used exclusively in trade or commerce.",
+    "Context": "This case concerns the applicability of the Commercial Courts Act, 2015 to a dispute between a property owner and a contractor regarding the construction of a residential home. The question is whether this type of dispute qualifies as a 'commercial dispute' under the Act."
+  },
+  {
+    "Query": "A group of investors are suing a real estate developer for failing to deliver on promises made in a sales agreement for a luxury apartment complex. The investors claim that the developer misrepresented the amenities and the construction timeline, resulting in financial losses.",
+    "Legal Principles": "The Commercial Courts Act, 2015 is intended to expedite the resolution of high-value commercial disputes. This case involves a real estate development project, which could potentially fall under the Act's purview if the dispute involves a significant amount of money.",
+    "Relevant Sections": "Section 2(1)(c)(vii) of the Commercial Courts Act, 2015 defines 'commercial dispute' and states that it includes agreements relating to immovable property used exclusively in trade or commerce.",
+    "Context": "This case examines the applicability of the Commercial Courts Act, 2015 to a dispute between investors and a real estate developer. The dispute revolves around a luxury apartment complex, and the question is whether it meets the criteria of a 'commercial dispute' under the Act, considering the financial value and the commercial nature of the project."
+  },
+  {
+    "Query": "A homeowner is suing a contractor for defective work on a home renovation project. The homeowner claims that the contractor used substandard materials and failed to complete the work properly, resulting in significant repair costs.",
+    "Legal Principles": "The Commercial Courts Act, 2015 is primarily concerned with high-value commercial disputes. While this case involves a construction project, it focuses on a residential property, and the value of the dispute may not meet the threshold for inclusion under the Act.",
+    "Relevant Sections": "Section 2(1)(c)(vii) of the Commercial Courts Act, 2015 defines 'commercial dispute' and states that it includes agreements relating to immovable property used exclusively in trade or commerce.",
+    "Context": "This case examines the applicability of the Commercial Courts Act, 2015 to a dispute between a homeowner and a contractor involving a home renovation project. The key question is whether the dispute meets the criteria of a 'commercial dispute' under the Act."
+  },
+  {
+    "Query": "A farmer is suing a neighboring landowner for encroaching on his property with a new fence. The farmer claims that the fence blocks access to his land and is causing him financial losses.",
+    "Legal Principles": "The Commercial Courts Act, 2015 is primarily concerned with high-value commercial disputes.  This case involves a dispute over property boundaries and access, which is typically considered a civil matter. The dispute may not meet the criteria for inclusion under the Act.",
+    "Relevant Sections": "Section 2(1)(c)(vii) of the Commercial Courts Act, 2015 defines 'commercial dispute' and states that it includes agreements relating to immovable property used exclusively in trade or commerce.",
+    "Context": "This case explores the applicability of the Commercial Courts Act, 2015 to a dispute between a farmer and a neighboring landowner over property boundaries. The question is whether this type of dispute qualifies as a 'commercial dispute' under the Act."
+  }
+]
+```

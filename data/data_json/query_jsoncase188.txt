@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A contractor has been awarded a contract by the state government for road construction. After completing the work, the contractor claims payment for additional work. The government disputes the claim, leading to arbitration. The arbitrator awards a sum to the contractor, but the government challenges the award, alleging procedural irregularities and errors.  Can the government challenge the award after exceeding the 3-month limitation period, even after the arbitrator made a correction to the award based on a request under Section 33 of the Act?",
+    "Legal Principles": "Limitation Period for Challenging Arbitral Award (Section 34 of the Arbitration and Conciliation Act, 1996), Condonation of Delay, Correction of Arbitral Award (Section 33), Procedural Irregularities, Jurisdiction of Arbitrator",
+    "Relevant Sections": "Section 33: Correction and interpretation of award; additional award\nSection 34: Recourse against arbitral award\nSection 34(3): An application for setting aside may not be made after three months have elapsed from the date on which the party making that application had received the arbitral award or, if a request had been made under section 33, from the date on which that request had been disposed of by the arbitral tribunal",
+    "Context": "Arbitration Law, Contract Law, Construction Law, Limitation Period"
+  },
+  {
+    "Query": "A property owner wants to evict a tenant for non-payment of rent. The tenant claims that they were prevented from paying due to unforeseen circumstances.  The court orders eviction, but the tenant argues that the court should have considered their ability to pay before issuing the eviction order.  Can the tenant challenge the eviction order on the grounds of procedural irregularities, arguing that the court did not adequately consider their ability to pay?",
+    "Legal Principles": "Procedural Fairness, Due Process, Right to be Heard, Judicial Review of Court Orders, Eviction Laws, Landlord-Tenant Law",
+    "Relevant Sections": "The specific sections of the relevant law governing eviction proceedings in the applicable jurisdiction (e.g., state or federal laws).",
+    "Context": "Civil Procedure, Property Law, Landlord-Tenant Law"
+  },
+  {
+    "Query": "A company enters into a partnership agreement with another company.  The partnership agreement contains a clause requiring arbitration for any disputes.  A dispute arises, and one of the partners files an arbitration claim.  The other partner argues that the arbitration agreement is not valid because it was not properly signed.  Can the partner successfully challenge the arbitration agreement based on a technicality in its execution?",
+    "Legal Principles": "Validity of Arbitration Agreements, Procedural Requirements for Arbitration Agreements, Contract Law, Partnership Law, Enforcement of Arbitration Agreements",
+    "Relevant Sections": "The specific sections of the relevant law governing arbitration agreements in the applicable jurisdiction (e.g., state or federal laws).",
+    "Context": "Business Law, Contract Law, Arbitration Law"
+  },
+  {
+    "Query": "A person files a personal injury claim against a driver who was involved in a car accident.  The driver claims that the accident was caused by a mechanical failure, not their negligence.  The court finds the driver liable, but the driver argues that the court should have considered the possibility of a mechanical failure as a contributing factor. Can the driver appeal the court's decision, arguing that the court did not properly consider all potential causes of the accident?",
+    "Legal Principles": "Negligence, Causation, Burden of Proof, Judicial Review, Personal Injury Law",
+    "Relevant Sections": "The specific sections of the relevant law governing negligence and personal injury claims in the applicable jurisdiction (e.g., state or federal laws).",
+    "Context": "Torts, Civil Procedure, Personal Injury Law"
+  },
+  {
+    "Query": "A bank issues a loan to a borrower, but the borrower fails to make payments.  The bank initiates foreclosure proceedings.  The borrower claims that the bank did not properly inform them about the terms of the loan agreement, leading to their default.  Can the borrower challenge the foreclosure proceedings, arguing that the bank did not comply with disclosure requirements for loan agreements?",
+    "Legal Principles": "Consumer Protection Laws, Disclosure Requirements for Loan Agreements, Unfair Lending Practices, Foreclosure Procedures, Mortgage Law",
+    "Relevant Sections": "The specific sections of the relevant law governing consumer lending and foreclosure proceedings in the applicable jurisdiction (e.g., state or federal laws).",
+    "Context": "Financial Law, Consumer Law, Real Estate Law"
+  },
+  {
+    "Query": "A police officer arrests a person without a warrant.  The person argues that the arrest was unlawful because the officer did not have probable cause.  Can the person challenge the arrest, arguing that it violated their Fourth Amendment right to be free from unreasonable searches and seizures?",
+    "Legal Principles": "Fourth Amendment, Probable Cause, Unlawful Arrest, Search and Seizure, Criminal Procedure",
+    "Relevant Sections": "The Fourth Amendment to the United States Constitution and the relevant case law interpreting this amendment.",
+    "Context": "Criminal Law, Constitutional Law"
+  },
+  {
+    "Query": "A company is accused of violating environmental regulations.  The company argues that it has complied with all applicable regulations and that the accusations are based on faulty data. Can the company challenge the enforcement actions, arguing that the government agency did not have sufficient evidence to support its claims?",
+    "Legal Principles": "Environmental Law, Administrative Law, Regulatory Compliance, Burden of Proof, Judicial Review of Administrative Actions",
+    "Relevant Sections": "The relevant environmental regulations and the Administrative Procedure Act (APA) governing agency actions.",
+    "Context": "Environmental Law, Administrative Law"
+  },
+  {
+    "Query": "A group of individuals challenge a new law that restricts access to public parks.  They argue that the law violates their right to free speech and assembly.  Can the individuals successfully challenge the law, arguing that it unconstitutionally restricts their First Amendment rights?",
+    "Legal Principles": "First Amendment, Free Speech, Right to Assembly, Public Access, Constitutional Law, Judicial Review of Legislation",
+    "Relevant Sections": "The First Amendment to the United States Constitution and the relevant case law interpreting this amendment.",
+    "Context": "Constitutional Law, Civil Rights Law"
+  },
+  {
+    "Query": "A student is accused of plagiarism in their academic work.  The student argues that they did not intentionally plagiarize and that the accusations are based on a misunderstanding of their sources. Can the student challenge the plagiarism accusation, arguing that the university did not follow its own procedures for handling academic misconduct?",
+    "Legal Principles": "Academic Freedom, Academic Misconduct, Due Process, Student Rights, Educational Law",
+    "Relevant Sections": "The university's policies and procedures governing academic misconduct and student conduct.",
+    "Context": "Education Law, Student Rights"
+  },
+  {
+    "Query": "A social media platform removes a user's account for violating its terms of service.  The user argues that the platform's terms of service are overly broad and that the removal was unjustified. Can the user challenge the platform's decision, arguing that it violated their First Amendment right to free speech?",
+    "Legal Principles": "First Amendment, Free Speech, Online Speech, Social Media Platforms, Private Entities, Constitutional Law",
+    "Relevant Sections": "The First Amendment to the United States Constitution and the relevant case law interpreting this amendment.",
+    "Context": "Constitutional Law, Technology Law"
+  }
+]
+``` 

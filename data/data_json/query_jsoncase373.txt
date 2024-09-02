@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A defendant in a commercial suit failed to file a written statement within the prescribed time limit, citing the COVID-19 pandemic and subsequent lockdown as reasons for the delay. The Commercial Court rejected the defendant's request for an extension. The defendant now seeks to challenge the court's order through a writ petition. Is the writ petition maintainable? How does the Supreme Court's order on extension of limitation periods during the pandemic apply in this case?",
+    "Legal Principles": "Maintainability of writ petitions, extension of limitation periods during COVID-19 pandemic, forfeiture of right to file written statement due to delay, appealability of Commercial Court orders under the Commercial Courts Act, 2015.",
+    "Relevant Sections": "Article 227 of Constitution of India, Section 13(1)(A) of Commercial Courts Act, 2015, Order 8 Rule 1 of C.P.C., Order 43 of C.P.C., Section 37 of the Arbitration and Conciliation Act, 1996, Supreme Court's order in Suo-moto Writ (Civil) No. 03 of 2020.",
+    "Context": "This is a case concerning the maintainability of a writ petition challenging a Commercial Court's order rejecting a defendant's request for extension of time to file a written statement, considering the impact of the COVID-19 pandemic and the Supreme Court's order on limitation periods."
+  },
+  {
+    "Query": "A plaintiff in a commercial suit filed an application for an injunction restraining the defendant from disposing of their assets. The Commercial Court granted the injunction but the defendant argues that the court lacked the jurisdiction to do so. The defendant seeks to appeal the court's order. Is the order of the Commercial Court appealable?",
+    "Legal Principles": "Appealability of orders of Commercial Courts under Section 13(1)(A) of the Commercial Courts Act, 2015, applicability of Order 43 of C.P.C., jurisdiction of Commercial Courts to grant injunctions.",
+    "Relevant Sections": "Section 13(1)(A) of the Commercial Courts Act, 2015, Order 43 of C.P.C.",
+    "Context": "This is a case concerning the appealability of a Commercial Court's order granting an injunction, considering the specific provisions of the Commercial Courts Act, 2015 and the applicable rules of civil procedure."
+  },
+  {
+    "Query": "A defendant in a commercial suit argued that the plaintiff's claim was barred by the principle of res judicata as a similar suit between the parties had been previously decided. The Commercial Court rejected the defendant's plea. Can the defendant appeal against this order?",
+    "Legal Principles": "Res judicata, appealability of orders of Commercial Courts under the Commercial Courts Act, 2015, applicability of Order 43 of C.P.C.",
+    "Relevant Sections": "Section 13(1)(A) of the Commercial Courts Act, 2015, Order 43 of C.P.C.",
+    "Context": "This is a case concerning the appealability of a Commercial Court's order rejecting a defendant's plea of res judicata, considering the specific provisions of the Commercial Courts Act, 2015 and the applicable rules of civil procedure."
+  },
+  {
+    "Query": "A plaintiff in a commercial suit filed a suit for recovery of money against the defendant. The defendant argued that the plaintiff's claim was time-barred. The Commercial Court dismissed the plaintiff's suit on the grounds of limitation. Can the plaintiff appeal against this order?",
+    "Legal Principles": "Limitation, appealability of orders of Commercial Courts under the Commercial Courts Act, 2015, applicability of Order 43 of C.P.C.",
+    "Relevant Sections": "Section 13(1)(A) of the Commercial Courts Act, 2015, Order 43 of C.P.C.",
+    "Context": "This is a case concerning the appealability of a Commercial Court's order dismissing a plaintiff's suit on the grounds of limitation, considering the specific provisions of the Commercial Courts Act, 2015 and the applicable rules of civil procedure."
+  },
+  {
+    "Query": "A defendant in a commercial suit failed to appear in court despite being served with summons. The Commercial Court proceeded ex parte and passed an order against the defendant. The defendant now seeks to set aside the ex parte order. Is this possible, and what are the legal principles governing setting aside ex parte orders?",
+    "Legal Principles": "Setting aside ex parte orders, principles of natural justice, procedural fairness, sufficient cause for non-appearance, discretion of the court.",
+    "Relevant Sections": "Order 9 Rule 13 of C.P.C.",
+    "Context": "This is a case concerning the procedure for setting aside an ex parte order passed by a Commercial Court, considering the principles of natural justice and the relevant provisions of the Code of Civil Procedure."
+  },
+  {
+    "Query": "A plaintiff in a commercial suit filed an application for the appointment of a receiver to manage the assets of the defendant company. The Commercial Court dismissed the application. Can the plaintiff appeal against this order?",
+    "Legal Principles": "Appointment of receiver, appealability of orders of Commercial Courts under the Commercial Courts Act, 2015, applicability of Order 43 of C.P.C.",
+    "Relevant Sections": "Section 13(1)(A) of the Commercial Courts Act, 2015, Order 43 of C.P.C.",
+    "Context": "This is a case concerning the appealability of a Commercial Court's order dismissing an application for the appointment of a receiver, considering the specific provisions of the Commercial Courts Act, 2015 and the applicable rules of civil procedure."
+  },
+  {
+    "Query": "A defendant in a commercial suit filed an application for amendment of the written statement. The Commercial Court rejected the application. Can the defendant appeal against this order?",
+    "Legal Principles": "Amendment of pleadings, appealability of orders of Commercial Courts under the Commercial Courts Act, 2015, applicability of Order 43 of C.P.C.",
+    "Relevant Sections": "Section 13(1)(A) of the Commercial Courts Act, 2015, Order 43 of C.P.C., Order 6 Rule 17 of C.P.C.",
+    "Context": "This is a case concerning the appealability of a Commercial Court's order rejecting an application for amendment of the written statement, considering the specific provisions of the Commercial Courts Act, 2015 and the applicable rules of civil procedure."
+  },
+  {
+    "Query": "A plaintiff in a commercial suit filed a suit for specific performance of a contract. The defendant argued that the contract was not enforceable. The Commercial Court dismissed the plaintiff's suit. Can the plaintiff appeal against this order?",
+    "Legal Principles": "Specific performance of contract, enforceability of contracts, appealability of orders of Commercial Courts under the Commercial Courts Act, 2015, applicability of Order 43 of C.P.C.",
+    "Relevant Sections": "Section 13(1)(A) of the Commercial Courts Act, 2015, Order 43 of C.P.C., Specific Relief Act, 1963",
+    "Context": "This is a case concerning the appealability of a Commercial Court's order dismissing a plaintiff's suit for specific performance of a contract, considering the specific provisions of the Commercial Courts Act, 2015 and the applicable rules of civil procedure."
+  },
+  {
+    "Query": "A defendant in a commercial suit argued that the plaintiff had failed to disclose a material fact during the proceedings. The Commercial Court rejected the defendant's argument. Can the defendant appeal against this order?",
+    "Legal Principles": "Non-disclosure of material facts, suppression of evidence, appealability of orders of Commercial Courts under the Commercial Courts Act, 2015, applicability of Order 43 of C.P.C.",
+    "Relevant Sections": "Section 13(1)(A) of the Commercial Courts Act, 2015, Order 43 of C.P.C.",
+    "Context": "This is a case concerning the appealability of a Commercial Court's order rejecting a defendant's argument that the plaintiff had failed to disclose a material fact, considering the specific provisions of the Commercial Courts Act, 2015 and the applicable rules of civil procedure."
+  },
+  {
+    "Query": "A plaintiff in a commercial suit filed an application for discovery and inspection of documents from the defendant. The Commercial Court rejected the application. Can the plaintiff appeal against this order?",
+    "Legal Principles": "Discovery and inspection of documents, appealability of orders of Commercial Courts under the Commercial Courts Act, 2015, applicability of Order 43 of C.P.C.",
+    "Relevant Sections": "Section 13(1)(A) of the Commercial Courts Act, 2015, Order 43 of C.P.C., Order 26 of C.P.C.",
+    "Context": "This is a case concerning the appealability of a Commercial Court's order rejecting an application for discovery and inspection of documents, considering the specific provisions of the Commercial Courts Act, 2015 and the applicable rules of civil procedure."
+  }
+]
+``` 

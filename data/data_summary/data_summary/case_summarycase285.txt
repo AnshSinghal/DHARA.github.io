@@ -1,0 +1,83 @@
+##  1. Case Title
+
+* **Case Name:** The Director, Esd Mee Seva vs United Telecoms Limited And Another
+* **Court:** Telangana High Court
+* **Date of Judgment:** 26 August, 2022
+* **Citation:**  COMMERCIAL COURT APPEAL NOs.33, 34, 40, 41, 42, 48, 49, 51 and 52 of 2018 and 4, 17, 18, 19, 20 OF 2019
+
+## 2. Background and Context
+
+* **Brief Overview:** The case stems from agreements made in 2003 between the Government of Andhra Pradesh (later bifurcated into Telangana and Andhra Pradesh) and various software companies, including CCS Infotech, United Telecoms Limited, and CMS Computers Limited. These agreements were for the companies to build, operate, and maintain "Mee Seva" centers, providing e-governance services to citizens. Disputes arose concerning the effective date of the agreements, rate revisions, transaction slabs, and other contractual issues. 
+* **Key Issues:**
+    * The validity of the effective dates set by the Mee Seva organization.
+    * Legality of the revision/reduction of rates for services provided.
+    * Whether the transaction slabs should be increased proportionally with the addition of new centers.
+    * Entitlement to relief for the parties involved.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * **The Arbitration and Conciliation Act, 1996 (Act, 1996):**
+        * **Section 2(1)(c)4:** Defines "arbitral award" and includes interim awards.
+        * **Section 17:** Empowers arbitrators to pass interim measures pending the conclusion of arbitral proceedings.
+        * **Section 32:** Deals with the termination of arbitral proceedings.
+        * **Section 33:**  Permits correction, interpretation, and additional awards.
+        * **Section 34:** Provides for applications to set aside arbitral awards.
+* **Precedents Cited:**
+    * **The Project Director, National Highways Nos. 45E and 220, National Highways Authority of India vs. M.Hakeem and others (2021) 9 SCC 1**
+    * **Ragya Bee and others vs. P.S.R. Constructions and others (2022) 3 ALD 151**
+    * **Delhi Airport Metro Express Pvt. Ltd Vs. Delhi Metro Rail Corporation Ltd. (2022) 1 SCC 131**
+* **Legal Doctrines:**
+    * **Functus officio:**  A doctrine that limits the power of an arbitrator to make changes or amendments to an award once it is finalized.
+    * **Deemed stay:** A legal principle that automatically suspends the execution of an award when an application to set it aside is filed. 
+    * **Patent illegality:** A ground for setting aside an arbitral award where the award displays a clear and obvious legal error on its face.
+
+## 4. Arguments Presented
+
+* **Appellant’s Argument (CCS Infotech, ESD Mee Seva of both states, and United Telecoms Ltd.):**
+    * The Commercial Court erred in modifying the Arbitrator’s award. The scope of Section 34 is limited to setting aside awards, not modifying them.
+    * The Commercial Court was incorrect in interpreting the government order on electricity bill charges as prospective rather than retrospective.
+    * The Commercial Court unfairly reduced the interest rate awarded by the Arbitrator.
+    * The Arbitrator's award should be upheld in its entirety.
+
+* **Respondent’s Argument (Mee-Seva):**
+    * The Arbitrator's preliminary and final awards were invalid as there should only be one final award in arbitration proceedings.
+    * The Arbitrator exceeded his jurisdiction by extending the contractual period through an interim order.
+    * The Arbitrator's conclusions regarding electricity bills were perverse, and the G.O.Rt.No. 205 dated 30.06.2009 did not apply to existing contractors.
+    * The Commercial Court should have remanded the case to the Arbitrator for a new award rather than modifying the existing one.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:** 
+    * The court found the Arbitrator's actions of splitting the award into a preliminary and final award to be illegal under the Act, 1996.
+    * The court confirmed that under Section 34, the Commercial Court had no power to modify an arbitral award, only to set it aside or remand it.
+    * The court held that the Commercial Court’s modification of the award was without jurisdiction and invalid.
+* **Interpretation of Law:** The court thoroughly examined Section 34 of the Act, 1996, and relied on precedents, including *McDermott International Inc. v. Burn Standard Co. Ltd., Kinnari Mullick v. Ghanshyam Das Damani, Dakshin Haryana Bijli Vitran Nigam Ltd. v. Navigant Technologies (P) Ltd*, to emphasize the limited scope of judicial review of arbitral awards.
+* **Application of Law:** The court applied the legal principles of "functus officio," "deemed stay," and "patent illegality" to the facts of the case, concluding that the Arbitrator’s dual awards and the Commercial Court's modification violated the statutory framework and were therefore legally unsustainable.
+
+## 6. Judgment
+
+* **Final Decision:** The court allowed the appeals of the claimants (CCS Infotech, ESD Mee Seva of both states, and United Telecoms Ltd.).
+* **Relief Granted:** The court remanded the entire case to arbitration, with a new arbitrator appointed (Hon'ble Sri Justice Vilas V. Afzulpurkar).
+* **Orders:** 
+    * The parties were ordered to submit all relevant documents and pleadings to the new arbitrator within four weeks.
+    * The new arbitrator was requested to complete the arbitration proceedings within 16 weeks.
+
+## 7. Implications
+
+* **Impact on Law:** The judgment reaffirms the importance of respecting the limited role of courts in reviewing arbitral awards under Section 34 of the Act, 1996. It emphasizes that modifications of awards are not permissible under the Act and that the court’s power is limited to setting aside or remanding the case.
+* **Future Relevance:** This case provides valuable guidance on the boundaries of judicial intervention in arbitration cases. It should influence future decisions regarding the proper procedure for reviewing and setting aside arbitral awards under the Act, 1996.
+* **Broader Context:** This case highlights the complexities that can arise in public-private partnerships and the importance of careful drafting and interpretation of agreements. It underscores the importance of resolving disputes efficiently and fairly through arbitration while minimizing unnecessary judicial interference. 
+
+## 8. Summary Points
+
+* The court found the Arbitrator's actions of passing separate preliminary and final awards to be illegal. 
+* The court affirmed that under Section 34, a court cannot modify an arbitral award, only set it aside or remand it for fresh consideration. 
+* The case was remanded to arbitration, with a new arbitrator appointed to resolve the outstanding disputes.
+
+## 9. References
+
+* **The Arbitration and Conciliation Act, 1996 (Act, 1996)**
+* **The Project Director, National Highways Nos. 45E and 220, National Highways Authority of India vs. M.Hakeem and others (2021) 9 SCC 1**
+* **Ragya Bee and others vs. P.S.R. Constructions and others (2022) 3 ALD 151**
+* **Delhi Airport Metro Express Pvt. Ltd Vs. Delhi Metro Rail Corporation Ltd. (2022) 1 SCC 131**

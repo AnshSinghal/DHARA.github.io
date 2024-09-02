@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A non-banking financial company filed an execution petition for an arbitration award against a borrower in a commercial court. The court dismissed the petition citing a lack of jurisdiction due to the absence of a state notification specifying a pecuniary value under the Commercial Courts Act, 2015. Can the company challenge this dismissal and what is the relevant legal framework?",
+    "Legal Principles": "The Commercial Courts Act, 2015, as amended by the Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts (Amendment) Act, 2018 (28 of 2018), establishes a framework for commercial courts, including provisions for pecuniary jurisdiction and the role of state government notifications.",
+    "Relevant Sections": "Section 2(1)(i), Section 3(1-A), Section 3(1) of the Commercial Courts Act, 2015, and the Amendment Act of 28 of 2018.",
+    "Context": "This case involves the execution of an arbitration award in a commercial court, where the court's jurisdiction is contested based on the applicability of the Commercial Courts Act, 2015 and its amendments, specifically concerning the pecuniary value threshold and the requirement of state government notifications."
+  },
+  {
+    "Query": "A construction company sued another company for breach of contract in a commercial court. The defendant argued that the commercial court lacked jurisdiction because the value of the subject-matter was below the specified value stipulated by the state government notification. The court agreed with the defendant and dismissed the case. Is this dismissal legally sound?",
+    "Legal Principles": "The Commercial Courts Act, 2015, as amended, designates the pecuniary jurisdiction of commercial courts, and state governments are empowered to notify specific value thresholds for their respective jurisdictions. This notification process is crucial for determining the court's competence to hear cases.",
+    "Relevant Sections": "Section 2(1)(i), Section 3(1-A), Section 3(1) of the Commercial Courts Act, 2015.",
+    "Context": "This case concerns the jurisdiction of a commercial court in a contract dispute, where the court's decision to dismiss the case due to the value of the subject-matter falling below the state-specified value is being challenged."
+  },
+  {
+    "Query": "A business partnership filed a case in a commercial court seeking to dissolve the partnership and divide assets. The defendant argued that the commercial court lacked jurisdiction because the case did not fall within the definition of a 'commercial dispute' as defined in the Commercial Courts Act, 2015. The court dismissed the case. Was this dismissal justified?",
+    "Legal Principles": "The Commercial Courts Act, 2015, defines the scope of 'commercial disputes' that fall under the jurisdiction of commercial courts. Partnership disputes, while involving commercial elements, may not always qualify as commercial disputes under the Act.",
+    "Relevant Sections": "Section 2(1)(c) of the Commercial Courts Act, 2015, which defines 'commercial dispute'.",
+    "Context": "This case involves a partnership dispute that was dismissed by a commercial court on the grounds that it did not meet the definition of a 'commercial dispute' as per the Commercial Courts Act, 2015. This question focuses on the interpretation of the definition of 'commercial dispute' and its application to partnership disputes."
+  },
+  {
+    "Query": "A company filed a case in a commercial court against another company for trademark infringement. The defendant argued that the commercial court lacked jurisdiction because the case involved intellectual property rights and not a 'commercial dispute' as defined under the Commercial Courts Act, 2015. The court upheld the defendant's argument. Was this decision correct?",
+    "Legal Principles": "The Commercial Courts Act, 2015, defines 'commercial disputes' that fall within the purview of commercial courts. While intellectual property disputes may have commercial aspects, their core nature often falls under specialized intellectual property laws, potentially excluding them from the scope of commercial courts.",
+    "Relevant Sections": "Section 2(1)(c) of the Commercial Courts Act, 2015, which defines 'commercial dispute'.",
+    "Context": "This case revolves around a trademark infringement dispute, where the commercial court's decision to dismiss the case on the grounds of lacking jurisdiction is being challenged. The legal question is whether trademark infringement falls within the definition of a 'commercial dispute' as defined under the Commercial Courts Act, 2015."
+  },
+  {
+    "Query": "A supplier filed a case in a commercial court against a buyer for non-payment of goods. The buyer argued that the commercial court lacked jurisdiction because the value of the transaction was below the specified value threshold set by the state government notification. The court upheld this argument. Is this dismissal consistent with the legal framework?",
+    "Legal Principles": "The Commercial Courts Act, 2015, establishes the pecuniary jurisdiction of commercial courts, and state governments are empowered to issue notifications specifying value thresholds for their respective jurisdictions. These notifications play a crucial role in determining whether a commercial court has jurisdiction over a case.",
+    "Relevant Sections": "Section 2(1)(i), Section 3(1-A), Section 3(1) of the Commercial Courts Act, 2015.",
+    "Context": "This case concerns a commercial dispute involving non-payment for goods, where the court's decision to dismiss the case based on the transaction value falling below the state-specified threshold is being questioned."
+  },
+  {
+    "Query": "A company filed a case in a commercial court against another company for breach of contract. The defendant argued that the case should have been filed in a different commercial court based on the location of the defendant's registered office. The court dismissed the case on this ground. Was this dismissal legally valid?",
+    "Legal Principles": "The Commercial Courts Act, 2015, establishes the territorial jurisdiction of commercial courts. The Act specifies that cases should be filed in the commercial court having jurisdiction over the defendant's registered office.",
+    "Relevant Sections": "Section 3(1) of the Commercial Courts Act, 2015, which deals with the establishment of commercial courts and their territorial jurisdiction.",
+    "Context": "This case concerns a contract dispute where the court's decision to dismiss the case on the basis of territorial jurisdiction is being contested. The legal question is whether the court's decision aligns with the provisions of the Commercial Courts Act, 2015, particularly regarding the jurisdictional rules based on the defendant's registered office."
+  },
+  {
+    "Query": "A company filed a case in a commercial court against another company for breach of contract. The defendant argued that the case should have been filed in a different commercial court based on the location where the contract was executed. The court dismissed the case on this ground. Was this dismissal legally correct?",
+    "Legal Principles": "The Commercial Courts Act, 2015, establishes the territorial jurisdiction of commercial courts.  The Act does not specify that cases should be filed based on the location where the contract was executed.",
+    "Relevant Sections": "Section 3(1) of the Commercial Courts Act, 2015, which deals with the establishment of commercial courts and their territorial jurisdiction.",
+    "Context": "This case involves a contract dispute where the court dismissed the case based on the location where the contract was executed, rather than the defendant's registered office. This raises questions about the validity of this dismissal in light of the territorial jurisdiction provisions of the Commercial Courts Act, 2015."
+  },
+  {
+    "Query": "A company filed a case in a commercial court against another company for breach of contract. The defendant argued that the case should have been filed in a different commercial court based on the location where the cause of action arose. The court dismissed the case on this ground. Was this dismissal legally justified?",
+    "Legal Principles": "The Commercial Courts Act, 2015, establishes the territorial jurisdiction of commercial courts. The Act does not explicitly specify that cases should be filed based on the location where the cause of action arose.",
+    "Relevant Sections": "Section 3(1) of the Commercial Courts Act, 2015, which deals with the establishment of commercial courts and their territorial jurisdiction.",
+    "Context": "This case involves a contract dispute where the court dismissed the case on the basis of the location where the cause of action arose. This raises questions about the validity of this dismissal in light of the territorial jurisdiction provisions of the Commercial Courts Act, 2015."
+  },
+  {
+    "Query": "A company filed a case in a commercial court against another company for breach of contract. The defendant argued that the case should have been filed in a different commercial court based on the location where the parties agreed to settle any disputes. The court dismissed the case on this ground. Was this dismissal legally sound?",
+    "Legal Principles": "The Commercial Courts Act, 2015, establishes the territorial jurisdiction of commercial courts. The Act does not explicitly specify that cases should be filed based on the location where the parties agreed to settle any disputes.",
+    "Relevant Sections": "Section 3(1) of the Commercial Courts Act, 2015, which deals with the establishment of commercial courts and their territorial jurisdiction.",
+    "Context": "This case involves a contract dispute where the court dismissed the case on the basis of the location where the parties agreed to settle any disputes. This raises questions about the validity of this dismissal in light of the territorial jurisdiction provisions of the Commercial Courts Act, 2015."
+  },
+  {
+    "Query": "A company filed a case in a commercial court against another company for breach of contract. The defendant argued that the case should have been filed in a different commercial court based on the location where the parties had their main place of business. The court dismissed the case on this ground. Was this dismissal legally correct?",
+    "Legal Principles": "The Commercial Courts Act, 2015, establishes the territorial jurisdiction of commercial courts. The Act does not explicitly specify that cases should be filed based on the location where the parties had their main place of business. The primary consideration is the defendant's registered office.",
+    "Relevant Sections": "Section 3(1) of the Commercial Courts Act, 2015, which deals with the establishment of commercial courts and their territorial jurisdiction.",
+    "Context": "This case involves a contract dispute where the court dismissed the case on the basis of the location where the parties had their main place of business. This raises questions about the validity of this dismissal in light of the territorial jurisdiction provisions of the Commercial Courts Act, 2015."
+  }
+]
+```

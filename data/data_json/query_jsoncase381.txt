@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A contractor was awarded damages in an arbitration case. The contractor deposited 75% of the awarded amount to secure a stay of execution.  The contractor later withdrew the deposited amount. Is the contractor still liable to pay interest on the entire award amount until the remaining balance is paid?",
+    "Legal Principles": "Interest on a deposit made for a stay of execution ceases to run from the date the deposit is withdrawn by the decree holder.",
+    "Relevant Sections": "Order XXI Rule 1(4) of the Code of Civil Procedure, 1908 (CPC) states that interest on any amount paid under clause (a) or clause (c) of sub-rule (1) shall cease to run from the date of service of the notice referred to in sub-rule (2).",
+    "Context": "This case involves the interpretation of Order XXI Rule 1 of the CPC, which deals with modes of paying money under a decree and the cessation of interest on deposits made towards such payments."
+  },
+  {
+    "Query": "A property owner filed a suit against a contractor for breach of contract. The court awarded damages to the property owner. The contractor deposited 50% of the awarded amount to obtain a stay of execution.  The property owner subsequently withdrew the deposit. Is the property owner still entitled to interest on the full amount of the award?",
+    "Legal Principles": "Interest on a deposit made for a stay of execution ceases to run from the date the deposit is withdrawn by the decree holder.",
+    "Relevant Sections": "Order XXI Rule 1(4) of the CPC specifies that interest on any amount paid under clause (a) or clause (c) of sub-rule (1) shall cease to run from the date of service of the notice referred to in sub-rule (2).",
+    "Context": "This case concerns the interpretation of Order XXI Rule 1 of the CPC, specifically regarding the cessation of interest on deposits made towards payments under a decree."
+  },
+  {
+    "Query": "A company was ordered by a court to pay damages to a competitor for violating a non-compete agreement. The company deposited 80% of the awarded amount to prevent execution of the judgment. The company later withdrew the deposit.  Does the company still have to pay interest on the full amount of the award?",
+    "Legal Principles": "Interest on a deposit made for a stay of execution ceases to run from the date the deposit is withdrawn by the decree holder.",
+    "Relevant Sections": "Order XXI Rule 1(4) of the CPC states that interest on any amount paid under clause (a) or clause (c) of sub-rule (1) shall cease to run from the date of service of the notice referred to in sub-rule (2).",
+    "Context": "This case revolves around the interpretation of Order XXI Rule 1 of the CPC, specifically the cessation of interest on deposits made towards payments under a decree."
+  },
+  {
+    "Query": "A landlord sued a tenant for unpaid rent. The court ruled in favor of the landlord and ordered the tenant to pay the outstanding rent. The tenant deposited 60% of the owed amount to stop the landlord from enforcing the judgment. The tenant subsequently withdrew the deposit.  Does the tenant still have to pay interest on the entire amount owed to the landlord?",
+    "Legal Principles": "Interest on a deposit made for a stay of execution ceases to run from the date the deposit is withdrawn by the decree holder.",
+    "Relevant Sections": "Order XXI Rule 1(4) of the CPC states that interest on any amount paid under clause (a) or clause (c) of sub-rule (1) shall cease to run from the date of service of the notice referred to in sub-rule (2).",
+    "Context": "This case involves the interpretation of Order XXI Rule 1 of the CPC, particularly the cessation of interest on deposits made towards payments under a decree."
+  },
+  {
+    "Query": "A supplier filed a suit against a customer for non-payment of goods delivered. The court ruled in favor of the supplier and ordered the customer to pay the outstanding amount. The customer deposited 70% of the owed amount to prevent the supplier from enforcing the judgment. The customer later withdrew the deposit.  Does the customer still have to pay interest on the full amount owed to the supplier?",
+    "Legal Principles": "Interest on a deposit made for a stay of execution ceases to run from the date the deposit is withdrawn by the decree holder.",
+    "Relevant Sections": "Order XXI Rule 1(4) of the CPC states that interest on any amount paid under clause (a) or clause (c) of sub-rule (1) shall cease to run from the date of service of the notice referred to in sub-rule (2).",
+    "Context": "This case involves the interpretation of Order XXI Rule 1 of the CPC, particularly the cessation of interest on deposits made towards payments under a decree."
+  },
+  {
+    "Query": "A lender sued a borrower for non-payment of a loan. The court ruled in favor of the lender and ordered the borrower to pay the outstanding loan amount. The borrower deposited 90% of the owed amount to stop the lender from enforcing the judgment. The borrower later withdrew the deposit.  Does the borrower still have to pay interest on the full amount owed to the lender?",
+    "Legal Principles": "Interest on a deposit made for a stay of execution ceases to run from the date the deposit is withdrawn by the decree holder.",
+    "Relevant Sections": "Order XXI Rule 1(4) of the CPC states that interest on any amount paid under clause (a) or clause (c) of sub-rule (1) shall cease to run from the date of service of the notice referred to in sub-rule (2).",
+    "Context": "This case involves the interpretation of Order XXI Rule 1 of the CPC, particularly the cessation of interest on deposits made towards payments under a decree."
+  },
+  {
+    "Query": "A buyer sued a seller for breach of contract after the seller failed to deliver goods as agreed. The court ruled in favor of the buyer and ordered the seller to pay damages. The seller deposited 55% of the awarded amount to prevent the buyer from enforcing the judgment. The seller later withdrew the deposit.  Does the seller still have to pay interest on the full amount of the award?",
+    "Legal Principles": "Interest on a deposit made for a stay of execution ceases to run from the date the deposit is withdrawn by the decree holder.",
+    "Relevant Sections": "Order XXI Rule 1(4) of the CPC states that interest on any amount paid under clause (a) or clause (c) of sub-rule (1) shall cease to run from the date of service of the notice referred to in sub-rule (2).",
+    "Context": "This case involves the interpretation of Order XXI Rule 1 of the CPC, particularly the cessation of interest on deposits made towards payments under a decree."
+  },
+  {
+    "Query": "A company was found liable for copyright infringement and ordered by the court to pay damages to the copyright holder. The company deposited 40% of the awarded amount to prevent the copyright holder from enforcing the judgment. The company later withdrew the deposit.  Does the company still have to pay interest on the full amount of the award?",
+    "Legal Principles": "Interest on a deposit made for a stay of execution ceases to run from the date the deposit is withdrawn by the decree holder.",
+    "Relevant Sections": "Order XXI Rule 1(4) of the CPC states that interest on any amount paid under clause (a) or clause (c) of sub-rule (1) shall cease to run from the date of service of the notice referred to in sub-rule (2).",
+    "Context": "This case involves the interpretation of Order XXI Rule 1 of the CPC, particularly the cessation of interest on deposits made towards payments under a decree."
+  },
+  {
+    "Query": "A patient sued a doctor for medical negligence, and the court awarded damages to the patient. The doctor deposited 65% of the awarded amount to stop the patient from enforcing the judgment. The doctor later withdrew the deposit.  Does the doctor still have to pay interest on the full amount of the award?",
+    "Legal Principles": "Interest on a deposit made for a stay of execution ceases to run from the date the deposit is withdrawn by the decree holder.",
+    "Relevant Sections": "Order XXI Rule 1(4) of the CPC states that interest on any amount paid under clause (a) or clause (c) of sub-rule (1) shall cease to run from the date of service of the notice referred to in sub-rule (2).",
+    "Context": "This case involves the interpretation of Order XXI Rule 1 of the CPC, particularly the cessation of interest on deposits made towards payments under a decree."
+  },
+  {
+    "Query": "A business partner sued another partner for breach of a partnership agreement, and the court ordered the breaching partner to pay damages. The breaching partner deposited 30% of the awarded amount to prevent the other partner from enforcing the judgment. The breaching partner later withdrew the deposit.  Does the breaching partner still have to pay interest on the full amount of the award?",
+    "Legal Principles": "Interest on a deposit made for a stay of execution ceases to run from the date the deposit is withdrawn by the decree holder.",
+    "Relevant Sections": "Order XXI Rule 1(4) of the CPC states that interest on any amount paid under clause (a) or clause (c) of sub-rule (1) shall cease to run from the date of service of the notice referred to in sub-rule (2).",
+    "Context": "This case involves the interpretation of Order XXI Rule 1 of the CPC, particularly the cessation of interest on deposits made towards payments under a decree."
+  }
+]
+```

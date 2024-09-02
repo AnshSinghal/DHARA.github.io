@@ -1,0 +1,99 @@
+## 1. Case Title
+
+* **Case Name:** Surajlal vs Pradeep Stainless India Pvt. Ltd.
+* **Court:** Madras High Court
+* **Date of Judgment:** 02.03.2023
+* **Citation:** OSA.Nos.26 to 29 of 2020
+
+## 2. Background and Context
+
+* **Brief Overview:** This case originated from a commercial dispute where Pradeep Stainless India Pvt. Ltd. (Respondent 1) filed a suit against Surajlal (Appellant 1), Spezialstahl Middle East Fze (Appellant 2), Bohara Trading Co. LLC (Appellant 3), and Bhawarlal Rakesh Bohara (Appellant 4) seeking a money decree for unpaid bills. The suit was filed in the Madras High Court, seeking leave to file under Clause 12 of the Letters Patent. 
+* **Key Issues:** The main legal questions revolve around whether:
+    * An order granting leave under Clause 12 of the Letters Patent to file a suit in the Madras High Court can be considered an order passed under the Commercial Courts Act, 2015.
+    * An order refusing to revoke such leave granted under Clause 12 can also be categorized as an order passed under the Commercial Courts Act, 2015.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * **Commercial Courts Act, 2015:** Sections 2(c), 3, 3(A), 4, 7, 8, 12(3), 13, 13(1A), 13(2), 16(3).
+    * **Code of Civil Procedure, 1908:** Order VII Rule 10, Order XLIII Rule 1, Order XLIII Rule 1(A), Order XLIX Rule 3, Section 151.
+    * **Letters Patent of the Madras High Court:** Clause 12, Clause 15.
+    * **Admiralty Act:** Section 12, Section 14.
+* **Precedents Cited:**
+    * Hindustan Unilever Limited Ponds House v. S.Shanthi (2021 (6) CTC 1)
+    * Shah Babulal Khimji v . Jayaben D. Kania and another (1981 (4) SCC 8)
+    * P.S.Sathappan(dead)by LRs. v. Andhra Bank Ltd and others (2004(11) SCC 672)
+    * Iridium India Telecom Ltd v. Motorola Inc (2005 (2) SCC 145)
+    * Owners and Parties Interested in the Vessel M.V.Polaris Galaxy v. Banque Cantonale De Geneve (2022 SCC Online SC 1293)
+    * R.P.O. Connor v. P.G.Sampath Kumar (AIR 1953 Mad 897)
+* **Legal Doctrines:**
+    * Interpretation of Statutes: The court extensively analyzed the language and intent behind the Commercial Courts Act 2015 and other relevant statutes, emphasizing the Act's purpose of fast-tracking commercial litigation.
+    * Doctrine of Generalia Specialibus Non Derogant: This doctrine, which states that general provisions do not derogate from specific provisions, was considered by the court, but ultimately rejected in favor of the legislative intent of the Commercial Courts Act to streamline commercial disputes.
+    * Non-obstante Clause: The court analyzed the significance of the non-obstante clause in Section 13(2) of the Commercial Courts Act, which overrides any conflicting provisions in other laws, including the Letters Patent.
+
+## 4. Arguments Presented
+
+* **Appellant’s Argument:** The appellants argued that:
+    * The order granting leave to file a suit under Clause 12 of the Letters Patent and the subsequent order refusing to revoke this leave were not passed under the Commercial Courts Act 2015. 
+    *  Therefore, the appeals filed against these orders were not barred by the provisions of Section 13 of the Act.
+    * They argued that the Commercial Division’s jurisdiction only kicks in after the suit is numbered and registered as a commercial cause, not at the earlier stage of granting leave.
+    * They relied on the distinction between the original side of the High Court and the Commercial Division, asserting that the leave application was dealt with by the Judge on the Original Side and not under the Commercial Courts Act.
+* **Respondent’s Argument:** The Respondent (Pradeep Stainless India Pvt. Ltd.) argued that:
+    * The stage at which the orders were passed was irrelevant.
+    * The subject matter of the suit, being a commercial dispute as defined by the Commercial Courts Act 2015, determined the jurisdiction of the Commercial Division.
+    * The objective of the Commercial Courts Act was to expedite commercial disputes, and interpretations should align with this purpose.
+    * The respondent relied on the judgment in Owners and Parties Interested in the Vessel M.V.Polaris Galaxy v. Banque Cantonale De Geneve, which emphasized the need to interpret the Act harmoniously to prevent unnecessary appeals from inconsequential orders.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The court rejected the appellants' argument that a suit becomes a commercial cause only after numbering.
+    * The court recognized that the Commercial Courts Act 2015 intended to comprehensively regulate commercial disputes, encompassing all stages, including pre-institution applications.
+    * The court emphasized the Act's purpose of expediting commercial litigation and minimizing unnecessary appeals.
+* **Interpretation of Law:**
+    * The court analyzed the language of Section 7 of the Commercial Courts Act 2015, which confers jurisdiction on the Commercial Division to hear and dispose of "all suits and applications relating to commercial disputes."
+    * The court highlighted the non-obstante clause in Section 13(2) of the Act, which overrides conflicting provisions in other laws, including the Letters Patent.
+    * The court considered the legislative intent behind the Act, recognizing its purpose to streamline commercial litigation.
+* **Application of Law:**
+    * The court concluded that the application for leave under Clause 12 of the Letters Patent fell within the jurisdiction of the Commercial Division, as it related to a commercial dispute.
+    * The court applied the principle that the Commercial Courts Act 2015 should be interpreted in a way that facilitates its purpose of expeditious disposal.
+
+## 6. Judgment
+
+* **Final Decision:** The Madras High Court dismissed the appeals as not maintainable.
+* **Relief Granted:** No relief was granted as the appeals were dismissed.
+* **Orders:** The court ordered that there be no order as to costs.
+
+## 7. Implications
+
+* **Impact on Law:** The judgment strengthens the application of the Commercial Courts Act 2015 by clarifying that it applies even to pre-institution applications related to commercial disputes. This decision effectively limits the scope of appeals from orders of the Commercial Division, furthering the Act's purpose of expediting commercial litigation.
+* **Future Relevance:** The decision in this case is likely to be cited in future cases involving the interpretation of the Commercial Courts Act 2015 and its application to pre-institution applications in commercial disputes.
+* **Broader Context:** This case underscores the importance of statutory interpretation that aligns with the legislative intent behind an Act, particularly when it aims to streamline specific legal processes, such as commercial litigation.
+
+## 8. Summary Points
+
+* The Madras High Court held that the Commercial Courts Act 2015 applies to pre-institution applications, including leave applications under Clause 12 of the Letters Patent.
+* The court emphasized the Act's purpose of expediting commercial litigation and minimizing unnecessary appeals.
+* The court rejected the appellants' argument that the Commercial Division's jurisdiction only kicks in after the suit is numbered.
+* The appeals filed against the orders granting leave and refusing to revoke it were dismissed as not maintainable.
+
+## 9. References
+
+* **Citations:**
+    * Commercial Courts Act, 2015
+    * Code of Civil Procedure, 1908
+    * Letters Patent of the Madras High Court
+    * Admiralty Act
+    * Hindustan Unilever Limited Ponds House v. S.Shanthi (2021 (6) CTC 1)
+    * Shah Babulal Khimji v . Jayaben D. Kania and another (1981 (4) SCC 8)
+    * P.S.Sathappan(dead)by LRs. v. Andhra Bank Ltd and others (2004(11) SCC 672)
+    * Iridium India Telecom Ltd v. Motorola Inc (2005 (2) SCC 145)
+    * Owners and Parties Interested in the Vessel M.V.Polaris Galaxy v. Banque Cantonale De Geneve (2022 SCC Online SC 1293)
+    * R.P.O. Connor v. P.G.Sampath Kumar (AIR 1953 Mad 897)
+* **Further Reading:**
+    * Law Commission of India Report No. 188 (2003)
+    * Law Commission of India Report No. 253
+    * The Commercial Courts Act, 2015 (Act No. 15 of 2015)
+    * The Code of Civil Procedure, 1908 (Act No. 5 of 1908)
+    * The Letters Patent of the Madras High Court
+    * The Admiralty Act, 1861 (Act No. 10 of 1861)

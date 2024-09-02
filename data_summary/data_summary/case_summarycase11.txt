@@ -1,0 +1,105 @@
+## 1. Case Title
+
+* **Case Name:** Kandla Export Corporation & Anr. vs. M/s OCI Corporation & Anr.
+* **Court:** Supreme Court of India
+* **Date of Judgment:** 7th February 2018
+* **Citation:**  Civil Appeal Nos. 1661-1663 of 2018 (Arising out of SLP (C) Nos. 28582-28584 of 2017)
+
+## 2. Background and Context
+
+* **Brief Overview:** The case arose from an arbitration award issued in favor of the buyers (Respondents) against the sellers (Appellants) in a grain trade dispute governed by the Grain and Feed Trade Association (GAFTA) rules. The Appellants appealed the award through various stages in the U.K. legal system, ultimately failing to overturn the award. Meanwhile, the Respondents sought to enforce the award in India under the Arbitration and Conciliation Act, 1996 (Arbitration Act). The High Court of Gujarat granted the Respondents' application for execution, which the Appellants appealed under the Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015 (Commercial Courts Act). This appeal was dismissed by the High Court, leading to the current appeal before the Supreme Court.
+
+* **Key Issues:** 
+    * Whether an appeal, not maintainable under Section 50 of the Arbitration Act, is nonetheless maintainable under Section 13(1) of the Commercial Courts Act.
+    * Whether the Commercial Courts Act provides an additional right of appeal beyond what is available under the Arbitration Act, particularly in the context of enforcing foreign awards. 
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * Arbitration and Conciliation Act, 1996 (Arbitration Act), particularly:
+        * Section 50: Deals with appealable orders related to the enforcement of foreign awards. 
+        * Section 49: Deemed Decree – States that a foreign award, if enforceable, is deemed to be a decree of the court enforcing it. 
+        * Section 47: Defines "Court" in the context of enforcement of foreign awards.
+    * Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015 (Commercial Courts Act):
+        * Section 13(1):  Provides for appeals from decisions, judgments, or orders of the Commercial Division of a High Court.
+        * Section 11: Bars jurisdiction of Commercial Courts and Divisions in cases where jurisdiction is expressly or impliedly barred under another law.
+        * Section 21: Act to have overriding effect – Provides that the provisions of the Commercial Courts Act shall have effect notwithstanding anything inconsistent therewith contained in any other law.
+* **Precedents Cited:**
+    * Fuerst Day Lawson Limited v. Jindal Exports Limited, (2011) 8 SCC 333: Established the principle that a special act setting out a self-contained code implicitly excludes the applicability of general law procedures. 
+    * Sumitomo Corporation vs. CDC Financial Services (Mauritius) Ltd. and Ors., (2008) 4 SCC 91:  Held that when an appeal is provided for under Section 50 of the Arbitration Act, the Court authorized to hear such appeals is determined by other relevant statutes (in that case, the Companies Act).
+    * Union of India vs. Mohindra Supply Company, (1962) 3 SCR 497: Pertains to the interpretation of the Arbitration Act as a self-contained code.
+    * Arun Dev Upadhyaya v. Integrated Sales Service Ltd., (2016) 9 SCC 524:  Concerned with the maintainability of appeals under Section 50 of the Arbitration Act in the context of the Commercial Courts Act. 
+* **Legal Doctrines:**
+    * **Harmonious Construction:** Courts strive to interpret statutes in a way that avoids inconsistencies and conflicts between them.
+    * **Special Statute Prevails over General Statute:** In cases of conflict between a special statute and a general statute, the special statute takes precedence.
+    * **Negative Implication:** When a statute lists specific actions, it implicitly excludes actions not mentioned.
+
+## 4. Arguments Presented
+
+* **Appellant’s Argument (Kandla Export Corporation):**
+    * Section 13(1) of the Commercial Courts Act provides a general right of appeal from decisions of the Commercial Division, and Section 50 of the Arbitration Act is not an exception to this right.
+    * The wide language of Section 13(1) encompasses "decisions," "judgments," and "orders," covering the High Court's judgment enforcing the foreign award.
+    * The absence of a non-obstante clause in Part II of the Arbitration Act, unlike Part I, indicates that the Commercial Courts Act should prevail.
+    * The scheme of the Commercial Courts Act aims to provide an appeal in all matters exceeding Rs. 1 crore, regardless of other statutes.
+    *  Section 49 of the Arbitration Act deems the foreign award to be a decree, making it subject to appeal under Section 13(1) of the Commercial Courts Act.
+* **Respondent’s Argument (OCI Corporation):**
+    * Section 11 of the Commercial Courts Act bars jurisdiction in cases where jurisdiction is expressly or impliedly barred under another law. 
+    * The Explanation to Section 47 of the Arbitration Act, read with Section 11 of the Commercial Courts Act, suggests that Section 21's non-obstante clause should yield to the Arbitration Act. 
+    * The Arbitration Act, being a self-contained code, implicitly excludes the application of the general law procedures of the Commercial Courts Act. 
+    * Providing an extra appeal under the Commercial Courts Act would contradict the objective of both statutes to speedily resolve commercial disputes.
+    * The amount of the foreign award exceeding Rs. 1 crore is not a justification for granting an additional appeal. The Appellants are simply attempting to delay the inevitable.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The Court acknowledged that the Commercial Courts Act and the Arbitration Amendment Act of 2015 were enacted on the same day, reflecting the intent to streamline commercial disputes and arbitration.
+    * The Court reiterated the established principle from Fuerst Day Lawson (supra) that a special statute setting out a self-contained code implicitly excludes the applicability of general law procedures. 
+    * The Court emphasized that Section 50 of the Arbitration Act, being part of a self-contained code, is exhaustive and implicitly bars appeals not mentioned therein.
+    * The Court noted that the express inclusion of Section 37 of the Arbitration Act in the proviso to Section 13(1) of the Commercial Courts Act may be due to a desire to emphasize the precedence of the special provision of the Arbitration Act. 
+* **Interpretation of Law:**
+    * The Court interpreted Section 50 of the Arbitration Act as a comprehensive and specific provision that governs appeals in the context of enforcing foreign awards. 
+    * The Court interpreted Section 13(1) of the Commercial Courts Act as a general provision for appeals from Commercial Division judgments but subject to exceptions listed in the proviso. 
+    * The Court held that the inclusion of Section 37 of the Arbitration Act in the proviso to Section 13(1) does not expand the scope of appealability under the Commercial Courts Act.
+* **Application of Law:**
+    * The Court applied the principle of harmonious construction and found that the special provision in the Arbitration Act, Section 50, takes precedence over the general provision in the Commercial Courts Act, Section 13(1). 
+    * The Court applied the principle of negative implication, concluding that since Section 50 does not provide an appeal against a judgment enforcing a foreign award, such an appeal is not permissible. 
+    * The Court emphasized that the purpose of both statutes is to expedite the resolution of commercial disputes and enforcement of foreign awards.
+
+## 6. Judgment
+
+* **Final Decision:** The Supreme Court dismissed the Appellants' appeals.
+* **Relief Granted:**  No relief was granted to the Appellants.
+* **Orders:** No costs were awarded.
+
+## 7. Implications
+
+* **Impact on Law:** 
+    * The judgment reinforces the principle that the Arbitration Act is a self-contained code on matters related to arbitration, including the enforcement of foreign awards. 
+    * It clarifies that the Commercial Courts Act does not create an additional right of appeal in cases governed by the Arbitration Act. 
+* **Future Relevance:** 
+    * The judgment will guide future decisions on the interplay between the Commercial Courts Act and the Arbitration Act, particularly in matters involving the enforcement of foreign awards.
+* **Broader Context:** 
+    * The decision highlights the importance of balancing the need for expedited commercial dispute resolution with the principle of fair access to justice.
+    * The judgment reinforces India's commitment to the speedy enforcement of foreign awards, crucial for maintaining its position as a desirable destination for international trade.
+
+## 8. Summary Points
+
+* **Key Takeaways:**
+    * The Arbitration Act takes precedence over the Commercial Courts Act in matters relating to the enforcement of foreign awards.
+    * The Commercial Courts Act does not provide an additional right of appeal in cases governed by the Arbitration Act.
+    * The objective of both statutes is to ensure the efficient and expeditious resolution of commercial disputes, including the enforcement of foreign awards.
+
+## 9. References
+
+* **Citations:**
+    * Arbitration and Conciliation Act, 1996
+    * Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015
+    * Fuerst Day Lawson Limited v. Jindal Exports Limited, (2011) 8 SCC 333
+    * Sumitomo Corporation vs. CDC Financial Services (Mauritius) Ltd. and Ors., (2008) 4 SCC 91
+    * Union of India vs. Mohindra Supply Company, (1962) 3 SCR 497
+    * Arun Dev Upadhyaya v. Integrated Sales Service Ltd., (2016) 9 SCC 524
+
+* **Further Reading:**
+    * Law Commission of India Report on the Commercial Courts Act
+    * Law Commission of India Report on the Arbitration and Conciliation Act
+    * Articles on the interplay between the Commercial Courts Act and the Arbitration Act. 

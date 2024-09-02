@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A power distribution company (SBPDCL) entered into a tripartite agreement with a successful bidder (SPML) and a special purpose vehicle (BEDCPL) for the distribution of electricity. BEDCPL initiated arbitration proceedings against SBPDCL, but SBPDCL claims that SPML should be the party to the arbitration agreement as BEDCPL is merely an agent. Can SBPDCL compel SPML to be a party to the arbitration proceedings, even though the agreement doesn't explicitly mention SPML as a party to the arbitration clause?",
+    "Legal Principles": "Agency Law, Arbitration and Conciliation Act, 1996, Interpretation of Contracts, Privity of Contract, Arbitrability of Disputes",
+    "Relevant Sections": "Section 230 of the Contract Act, 1872, Section 2(b), 2(h), 7, 11, 16, 21, 29A, 34, 37, 38, and 4 of the Arbitration and Conciliation Act, 1996, Clause 17.2.5 and 17.2.6 of the Distribution Franchisee Agreement (DFA)",
+    "Context": "Jurisdiction: India, Case Type: Civil Writ Jurisdiction, Arbitration"
+  },
+  {
+    "Query": "A construction company (ABC Construction) entered into a contract with a government agency (State Housing Board) for the construction of a residential complex. The contract included an arbitration clause. After a dispute arose, ABC Construction initiated arbitration proceedings against the State Housing Board. However, the State Housing Board claims that the mandate of the arbitral tribunal expired and the court granted an extension without jurisdiction. Can the State Housing Board challenge the court's extension order, and does the expiry of the mandate render the arbitration proceedings void?",
+    "Legal Principles": "Arbitration and Conciliation Act, 1996, Termination of Arbitral Mandate, Extension of Time, Jurisdiction of Courts",
+    "Relevant Sections": "Section 29A of the Arbitration and Conciliation Act, 1996, Section 2(1)(e) of the Act",
+    "Context": "Jurisdiction: India, Case Type: Arbitration, Contract Law"
+  },
+  {
+    "Query": "A software development company (TechSol) contracted with a financial institution (FinCorp) to develop a customized software application. The contract contained an arbitration clause. During the course of the project, a dispute arose regarding the software's functionality. TechSol initiated arbitration proceedings, but FinCorp argues that the arbitral tribunal should be reconstituted as one of the appointed arbitrators has become unavailable. What are the legal grounds for reconstituting an arbitral tribunal, and can FinCorp successfully request the court to appoint a substitute arbitrator?",
+    "Legal Principles": "Arbitration and Conciliation Act, 1996, Reconstitution of Arbitral Tribunal, Substitution of Arbitrators, Appointment of Arbitrators",
+    "Relevant Sections": "Section 11, 14, 15, and 29A of the Arbitration and Conciliation Act, 1996",
+    "Context": "Jurisdiction: India, Case Type: Arbitration, Contract Law"
+  },
+  {
+    "Query": "A land developer (GreenLands) entered into a joint venture agreement with a real estate investor (Property Holdings) for the development of a commercial complex. The agreement included an arbitration clause. A dispute arose regarding the profit-sharing arrangements. Property Holdings initiated arbitration proceedings, but GreenLands claims that the dispute is not arbitrable as the agreement specifies that certain matters should be resolved through mediation. Can GreenLands successfully challenge the arbitrability of the dispute and prevent the arbitration proceedings?",
+    "Legal Principles": "Arbitration and Conciliation Act, 1996, Arbitrability of Disputes, Contractual Provisions, Mediation",
+    "Relevant Sections": "Section 2, 4, and 7 of the Arbitration and Conciliation Act, 1996",
+    "Context": "Jurisdiction: India, Case Type: Arbitration, Contract Law"
+  },
+  {
+    "Query": "A manufacturing company (IndusTech) entered into a supply agreement with a retail chain (RetailMart) for the supply of electronic goods. The agreement contained an arbitration clause. A dispute arose regarding the quality of the goods supplied. RetailMart initiated arbitration proceedings, but IndusTech claims that it has waived its right to object to the arbitration proceedings by participating in the process without raising objections. Can IndusTech successfully argue that it has waived its right to challenge the arbitration proceedings?",
+    "Legal Principles": "Arbitration and Conciliation Act, 1996, Waiver of Rights, Participation in Arbitration Proceedings",
+    "Relevant Sections": "Section 4 of the Arbitration and Conciliation Act, 1996",
+    "Context": "Jurisdiction: India, Case Type: Arbitration, Contract Law"
+  },
+  {
+    "Query": "A pharmaceutical company (MedPharma) entered into a distribution agreement with a medical distributor (MedDist) for the distribution of its medicines. The agreement included an arbitration clause. A dispute arose regarding the pricing and payment terms. MedDist initiated arbitration proceedings, but MedPharma claims that the arbitral tribunal should be constituted in accordance with the specific procedures outlined in the agreement, which differ from the standard procedures under the Arbitration Act. Can MedPharma successfully argue that the arbitral tribunal should be constituted in accordance with the contractual provisions?",
+    "Legal Principles": "Arbitration and Conciliation Act, 1996, Appointment of Arbitrators, Contractual Provisions, Deviation from Statutory Procedures",
+    "Relevant Sections": "Section 11 of the Arbitration and Conciliation Act, 1996",
+    "Context": "Jurisdiction: India, Case Type: Arbitration, Contract Law"
+  },
+  {
+    "Query": "A technology startup (InnoTech) entered into a licensing agreement with a multinational corporation (GlobalTech) for the use of its patented technology. The agreement included an arbitration clause. A dispute arose regarding the scope of the license and the payment of royalties. GlobalTech initiated arbitration proceedings, but InnoTech claims that the dispute should be resolved through a specific expert determination process outlined in the agreement. Can InnoTech successfully argue that the dispute should be resolved through an expert determination process instead of arbitration?",
+    "Legal Principles": "Arbitration and Conciliation Act, 1996, Contractual Provisions, Expert Determination, Choice of Dispute Resolution Mechanism",
+    "Relevant Sections": "Section 2, 7, and 11 of the Arbitration and Conciliation Act, 1996",
+    "Context": "Jurisdiction: India, Case Type: Arbitration, Contract Law"
+  },
+  {
+    "Query": "A publishing house (Litera) entered into a contract with an author (AuthorX) for the publication of a book. The contract included an arbitration clause. A dispute arose regarding the royalty payments. AuthorX initiated arbitration proceedings, but Litera claims that the dispute is not arbitrable as it involves a complex question of copyright law that is best suited for judicial determination. Can Litera successfully argue that the dispute is not arbitrable?",
+    "Legal Principles": "Arbitration and Conciliation Act, 1996, Arbitrability of Disputes, Copyright Law, Judicial Determination",
+    "Relevant Sections": "Section 2, 4, and 7 of the Arbitration and Conciliation Act, 1996",
+    "Context": "Jurisdiction: India, Case Type: Arbitration, Contract Law"
+  },
+  {
+    "Query": "A software development company (TechSol) contracted with a financial institution (FinCorp) to develop a customized software application. The contract contained an arbitration clause. During the course of the project, a dispute arose regarding the software's functionality. TechSol initiated arbitration proceedings, but FinCorp argues that the arbitral tribunal should be reconstituted as one of the appointed arbitrators has become unavailable. What are the legal grounds for reconstituting an arbitral tribunal, and can FinCorp successfully request the court to appoint a substitute arbitrator?",
+    "Legal Principles": "Arbitration and Conciliation Act, 1996, Reconstitution of Arbitral Tribunal, Substitution of Arbitrators, Appointment of Arbitrators",
+    "Relevant Sections": "Section 11, 14, 15, and 29A of the Arbitration and Conciliation Act, 1996",
+    "Context": "Jurisdiction: India, Case Type: Arbitration, Contract Law"
+  },
+  {
+    "Query": "A land developer (GreenLands) entered into a joint venture agreement with a real estate investor (Property Holdings) for the development of a commercial complex. The agreement included an arbitration clause. A dispute arose regarding the profit-sharing arrangements. Property Holdings initiated arbitration proceedings, but GreenLands claims that the dispute is not arbitrable as the agreement specifies that certain matters should be resolved through mediation. Can GreenLands successfully challenge the arbitrability of the dispute and prevent the arbitration proceedings?",
+    "Legal Principles": "Arbitration and Conciliation Act, 1996, Arbitrability of Disputes, Contractual Provisions, Mediation",
+    "Relevant Sections": "Section 2, 4, and 7 of the Arbitration and Conciliation Act, 1996",
+    "Context": "Jurisdiction: India, Case Type: Arbitration, Contract Law"
+  }
+]
+```

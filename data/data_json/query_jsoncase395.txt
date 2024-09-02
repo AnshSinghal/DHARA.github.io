@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A judgment debtor is challenging an order issued by the executing court under Order XXI, Rule 37 of the Code of Civil Procedure, 1908, requiring him to show cause why he should not be committed to civil prison. The judgment debtor argues that the executing court prejudged the issue by recording premature and prejudicial findings of fact. The judgment debtor also argues that the executing court failed to decide an application challenging its jurisdiction before proceeding to issue the show-cause notice. Does the executing court have the power to issue a show-cause notice under Order XXI, Rule 37, CPC, without first deciding an application challenging its jurisdiction?",
+    "Legal Principles": "The court's power to issue a show-cause notice under Order XXI, Rule 37, CPC, is discretionary, but it must be exercised judicially, on the basis of proper reasons and upon relevant facts and germane considerations. The execution of a foreign decree in India is governed by Section 44A of the CPC. The court must ensure that the judgment debtor has a fair opportunity to be heard and present his defense. The court should not prejudge the issue before the inquiry under Order XXI, Rule 40 is completed.",
+    "Relevant Sections": "Order XXI Rule 37, CPC; Order XXI Rule 40, CPC; Section 44A of the CPC; Section 51, CPC",
+    "Context": "This case involves a judgment debtor challenging an order to show cause why he should not be committed to civil prison, arguing that the executing court acted prematurely and failed to address a jurisdictional challenge before proceeding."
+  },
+  {
+    "Query": "A judgment debtor is being pursued for a debt arising from a foreign decree. The judgment debtor claims that he is unable to pay the decree due to financial hardship and argues that the executing court should not order his detention in civil prison. However, the decree holder alleges that the judgment debtor is concealing his assets and deliberately refusing to pay the debt. Can the executing court order the judgment debtor's detention in civil prison if he is unable to pay the decree due to financial hardship?",
+    "Legal Principles": "The court has the power to order the detention of a judgment debtor in civil prison under Section 51 of the CPC, but only if certain conditions are met. The court must be satisfied that the judgment debtor has the means to pay the decree but is deliberately refusing to do so. Financial hardship alone is not sufficient grounds for detention, but the court may consider other factors such as the judgment debtor's conduct and the likelihood of him absconding.",
+    "Relevant Sections": "Section 51, CPC; Order XXI Rule 37, CPC; Order XXI Rule 40, CPC",
+    "Context": "This case involves the execution of a foreign decree and the court's power to order detention of a judgment debtor who claims financial hardship."
+  },
+  {
+    "Query": "A foreign decree holder seeks to execute a decree passed by a foreign court in India. The judgment debtor argues that the foreign court lacked jurisdiction to hear the case. Does the Indian court have to recognize the foreign court's jurisdiction before executing the decree?",
+    "Legal Principles": "The Indian courts recognize foreign judgments under Section 13 of the CPC. The court must satisfy itself that the foreign court had jurisdiction to hear the case. If the judgment debtor argues that the foreign court lacked jurisdiction, the Indian court should consider this argument and determine whether the foreign court's decision is entitled to recognition.",
+    "Relevant Sections": "Section 13, CPC; Section 44A of the CPC",
+    "Context": "This case involves the execution of a foreign decree in India, and the judgment debtor's challenge to the foreign court's jurisdiction."
+  },
+  {
+    "Query": "A judgment debtor is being pursued for a debt arising from a personal guarantee. The judgment debtor claims that he signed the guarantee under duress and that it is therefore unenforceable. Is a personal guarantee enforceable even if the judgment debtor signed it under duress?",
+    "Legal Principles": "A personal guarantee is a contract and must be entered into freely and voluntarily. If a guarantee was signed under duress, it may be voidable. The burden of proof lies on the judgment debtor to prove that the guarantee was signed under duress. The court will consider the circumstances surrounding the signing of the guarantee, including the nature of the threat and the judgment debtor's state of mind.",
+    "Relevant Sections": "Indian Contract Act, 1872",
+    "Context": "This case involves the enforceability of a personal guarantee signed under duress."
+  },
+  {
+    "Query": "A judgment debtor is being pursued for a debt arising from a commercial transaction. The judgment debtor claims that the contract was breached by the decree holder and that he is therefore not liable for the debt. Can the judgment debtor raise a breach of contract defense in an execution proceeding?",
+    "Legal Principles": "In an execution proceeding, the judgment debtor cannot generally raise new defenses that were not previously raised in the original suit. However, the judgment debtor may be able to raise a defense of fraud or misrepresentation if it was not previously raised and it directly impacts the validity of the decree.",
+    "Relevant Sections": "Order XXI, Rule 37, CPC",
+    "Context": "This case involves a judgment debtor raising a breach of contract defense in an execution proceeding."
+  },
+  {
+    "Query": "A judgment debtor is being pursued for a debt arising from a loan agreement. The judgment debtor claims that the loan agreement was illegal and unenforceable because it was not registered. Is a loan agreement enforceable if it is not registered?",
+    "Legal Principles": "The enforceability of a loan agreement depends on the specific legal requirements in the jurisdiction where the agreement was made. In some jurisdictions, loan agreements must be registered to be enforceable. If the loan agreement was not registered, the court may find it unenforceable.",
+    "Relevant Sections": "Indian Registration Act, 1908",
+    "Context": "This case involves the enforceability of an unregistered loan agreement."
+  },
+  {
+    "Query": "A judgment debtor is being pursued for a debt arising from a contract for the sale of goods. The judgment debtor claims that the goods were defective and that he is therefore not liable for the debt. Can the judgment debtor raise a defense of defective goods in an execution proceeding?",
+    "Legal Principles": "In an execution proceeding, the judgment debtor cannot generally raise new defenses that were not previously raised in the original suit. However, the judgment debtor may be able to raise a defense of defective goods if it was not previously raised and it directly impacts the validity of the decree.",
+    "Relevant Sections": "The Sale of Goods Act, 1930",
+    "Context": "This case involves a judgment debtor raising a defense of defective goods in an execution proceeding."
+  },
+  {
+    "Query": "A judgment debtor is being pursued for a debt arising from a contract for the provision of services. The judgment debtor claims that the services were not provided according to the terms of the contract and that he is therefore not liable for the debt. Can the judgment debtor raise a defense of breach of contract in an execution proceeding?",
+    "Legal Principles": "In an execution proceeding, the judgment debtor cannot generally raise new defenses that were not previously raised in the original suit. However, the judgment debtor may be able to raise a defense of breach of contract if it was not previously raised and it directly impacts the validity of the decree.",
+    "Relevant Sections": "Indian Contract Act, 1872",
+    "Context": "This case involves a judgment debtor raising a defense of breach of contract in an execution proceeding."
+  },
+  {
+    "Query": "A judgment debtor is being pursued for a debt arising from a contract for the lease of property. The judgment debtor claims that the lease agreement was terminated due to the decree holder's breach of contract and that he is therefore not liable for the debt. Can the judgment debtor raise a defense of termination of lease agreement in an execution proceeding?",
+    "Legal Principles": "In an execution proceeding, the judgment debtor cannot generally raise new defenses that were not previously raised in the original suit. However, the judgment debtor may be able to raise a defense of termination of the lease agreement if it was not previously raised and it directly impacts the validity of the decree.",
+    "Relevant Sections": "The Transfer of Property Act, 1882",
+    "Context": "This case involves a judgment debtor raising a defense of termination of the lease agreement in an execution proceeding."
+  },
+  {
+    "Query": "A judgment debtor is being pursued for a debt arising from a contract for the sale of shares. The judgment debtor claims that the sale of shares was illegal and unenforceable because it was not approved by the Securities and Exchange Board of India (SEBI). Is a sale of shares enforceable if it is not approved by SEBI?",
+    "Legal Principles": "The enforceability of a sale of shares depends on the specific legal requirements in the jurisdiction where the sale took place. In India, the sale of shares must generally be approved by SEBI to be enforceable. If the sale of shares was not approved by SEBI, the court may find it unenforceable.",
+    "Relevant Sections": "The Securities and Exchange Board of India Act, 1992",
+    "Context": "This case involves the enforceability of a sale of shares that was not approved by SEBI."
+  }
+]
+```

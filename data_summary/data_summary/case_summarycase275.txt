@@ -1,0 +1,110 @@
+## 1. Case Title
+
+•	**Case Name:** Mr. Sanjay Kumar vs. Elior India Food Services LLP
+•	**Court:** Karnataka High Court
+•	**Date of Judgment:** 2nd June, 2023
+•	**Citation:** Writ Petition No. 2584 of 2023 (GM-RES)
+
+## 2. Background and Context
+
+•	**Brief Overview:** Mr. Sanjay Kumar (petitioner) was employed by Elior India Food Services LLP (respondent) under an employment agreement dated 26-10-2016. The agreement included a Long Term Incentive Plan (LTI Plan) which promised an exceptional bonus remuneration. Subsequently, the petitioner was designated as a partner in the firm.  A dispute arose when the respondent initiated an inquiry against the petitioner and subsequently terminated his employment. The petitioner then sought to invoke the arbitration clause in the employment agreement.
+
+•	**Key Issues:**
+    * Whether the dispute between the petitioner and the respondent was a "commercial dispute" within the meaning of the Commercial Courts Act, 2015.
+    * Whether the Commercial Court had jurisdiction to entertain the respondent's application challenging an interim order passed by the Arbitral Tribunal.
+
+## 3. Legal Principles Involved
+
+•	**Relevant Statutes and Provisions:**
+    * The Arbitration and Conciliation Act, 1996 (the Act)
+    * The Commercial Courts Act, 2015 (the 2015 Act) 
+    * Sections 2(1)(c), 2(1)(c)(i), 2(1)(c)(xviii) of the 2015 Act
+    * Section 9 of the Act
+    * Section 17 of the Act
+    * Section 21 of the Act
+    * Section 34 of the Act
+    * Order 7 Rule 10 of the Code of Civil Procedure (CPC)
+
+•	**Precedents Cited:**
+    * Ambalal Sarabhai Enterprises Ltd. v. K.S. Infraspace LLP, (2020) 15 SCC 585
+    * Jagmohan Behl v. State Bank of Indore, 2017 SCC OnLine Del 10706
+    * Vasu Healthcare (P) Ltd. v. Gujarat Akruti TCG Biotech Ltd., 2017 SCC OnLine Guj 724: AIR 2017 Guj 153
+    * Dineshkumar Gulabchand Agrawal v. CIT, 2003 SCC OnLine Bom 1289: (2004) 267 ITR 768
+    * Dineshkumar Gulabchand Agrawal v. CIT, 2004 SCC OnLine SC 13
+    * Federation of A.P. Chambers of Commerce & Industry v. State of A.P., (2000) 6 SCC 550
+
+•	**Legal Doctrines:**
+    * Interpretation of statutes: The court relied on the literal and strict interpretation of the relevant provisions of the 2015 Act.
+    * Jurisdiction: The court examined the principles governing the jurisdiction of courts and the need to avoid "floodgates of litigation."
+    * Consent and acquiescence: The court addressed the argument that the petitioner's previous invocation of the commercial court's jurisdiction implied acquiescence.
+
+## 4. Arguments Presented
+
+•	**Petitioner’s Argument:**
+    * The dispute did not qualify as a "commercial dispute" under Section 2(1)(c) of the 2015 Act because it arose from an employment agreement and not a contract for the sale of goods or provision of services.
+    * The Commercial Court lacked jurisdiction to entertain the respondent's application challenging the Arbitral Tribunal's order.
+    * The court should have determined the jurisdictional issue first before proceeding with the merits of the case.
+
+•	**Respondent’s Argument:**
+    * The employment agreement with the LTI Plan constituted an agreement for the provision of services, making it a commercial dispute under Section 2(1)(c)(xviii) of the 2015 Act.
+    * The petitioner had previously invoked the Commercial Court's jurisdiction and had not challenged its jurisdiction in the earlier appeal. Therefore, he cannot now argue against it.
+
+## 5. Court’s Analysis and Reasoning
+
+•	**Key Findings:**
+    * The LTI Plan was an incentive plan based on the Employment Agreement and was not an independent agreement for the sale of goods or provision of services.
+    * The court found that the dispute did not fall within the definition of "commercial dispute" under Section 2(1)(c) of the 2015 Act.
+    * The court emphasized that consent or erroneous invocation of jurisdiction by a party cannot confer jurisdiction on a court.
+
+•	**Interpretation of Law:**
+    * The court strictly interpreted the definition of "commercial dispute" under the 2015 Act, focusing on the specific clauses and their application to the facts of the case.
+    * The court relied on the precedent set in Ambalal Sarabhai Enterprises Ltd. v. K.S. Infraspace LLP (2020) 15 SCC 585, which highlighted the need to avoid accepting non-commercial disputes under the guise of high value claims.
+
+•	**Application of Law:**
+    * The court applied the legal principles of jurisdiction and statutory interpretation to conclude that the Commercial Court lacked jurisdiction to entertain the respondent's application.
+    * The court rejected the respondent's argument regarding acquiescence, emphasizing that previous invocation of jurisdiction by a party cannot create jurisdiction where it does not exist.
+
+## 6. Judgment
+
+•	**Final Decision:**
+    * The writ petition was allowed.
+
+•	**Relief Granted:**
+    * The court declared that the Commercial Court had no jurisdiction to consider and adjudicate the respondent's application (MA No. 1/2023).
+    * The proceedings before the Commercial Court were obliterated.
+
+•	**Orders:**
+    * The parties were free to agitate their rights before the competent Civil Court.
+    * The Commercial Court's findings and observations would not influence or bind the proceedings before the Civil Court.
+
+## 7. Implications
+
+•	**Impact on Law:**
+    * This judgment clarifies the scope of "commercial dispute" under the Commercial Courts Act, 2015. It emphasizes that mere employment agreements or incentive plans based on employment agreements do not constitute "commercial disputes" unless they directly involve the sale of goods or provision of services.
+    * The judgment reiterates the principle that consent or erroneous invocation of jurisdiction cannot confer jurisdiction on a court.
+
+•	**Future Relevance:**
+    * This case will be relevant for future cases dealing with the jurisdiction of commercial courts in disputes arising out of employment agreements and related incentive plans.
+    * It can serve as a guiding precedent in cases where the court needs to determine the nature of the dispute and its qualification as a "commercial dispute."
+
+•	**Broader Context:**
+    * This judgment contributes to the body of law relating to the jurisdiction of specialized courts.
+    * It reflects the court's commitment to ensuring that commercial courts handle disputes that fall within their defined scope.
+
+## 8. Summary Points
+
+•	The dispute between the petitioner and the respondent did not constitute a "commercial dispute" under the Commercial Courts Act, 2015.
+•	The Commercial Court lacked jurisdiction to entertain the respondent's application challenging the Arbitral Tribunal's order.
+•	Consent or erroneous invocation of jurisdiction cannot confer jurisdiction on a court.
+•	The parties were free to pursue their rights before the competent Civil Court.
+
+## 9. References
+
+•	**Citations:** 
+    * The Arbitration and Conciliation Act, 1996
+    * The Commercial Courts Act, 2015
+    * All specific sections and precedent cases mentioned in the summary. 
+
+•	**Further Reading:**
+    * Consult additional judgments on the definition of "commercial dispute" under the Commercial Courts Act, 2015.
+    * Explore other cases concerning the jurisdiction of commercial courts in employment-related disputes. 

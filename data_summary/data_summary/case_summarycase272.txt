@@ -1,0 +1,97 @@
+## 1. Case Title
+
+* **Case Name:** Trinetramilan Product Protection Solutions Private Limited vs. A S Narayanan
+* **Court:** Karnataka High Court
+* **Date of Judgment:** 7th June 2023
+* **Citation:** NC: 2023:KHC:19391
+
+## 2. Background and Context
+
+* **Brief Overview:** This case involves two suits filed by A.S. Narayanan and his wife, Tara Narayanan, against Trinetramilan Product Protection Solutions Private Limited (TPPS) and its directors (Madhusudhana Reddy, Vijaya Kumari, and Santosh Kumar) for eviction and other reliefs related to an industrial property. TPPS was leasing the property for their printing business.  The dispute arose after the lease expired, and TPPS failed to vacate the property or pay the agreed-upon rent.
+* **Key Issues:** 
+    * Whether the dispute between the parties constituted a "commercial dispute" under the Commercial Courts Act, 2015, justifying the transfer of the case to a dedicated Commercial Court.
+    * Whether the mandatory pre-litigation mediation requirement under Section 12-A of the Commercial Courts Act applied to the case, given it was filed before the enactment of the relevant amendment and the Supreme Court's ruling on the matter.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * Commercial Courts Act, 2015, particularly:
+        * Section 2(1)(c)(vii) (defines "commercial dispute")
+        * Section 12-A (mandatory pre-institution mediation)
+        * Section 15 (transfer of pending cases to Commercial Courts)
+    * Code of Civil Procedure (CPC), particularly:
+        * Order VII Rule 11 (rejection of plaint)
+        * Order 20 Rule 12 (mesne profits)
+    * Arbitration and Conciliation Act, 1996
+    * Legal Services Authorities Act, 1987
+    * Limitation Act, 1963
+* **Precedents Cited:**
+    * Patil Automation Pvt. Ltd. & Ors. v. Rakheja Engineers Pvt. Ltd. (2022 SCC Online SC 1028)
+    * Soni Dave v. M/s. Trans Asian Industries Expositions Pvt Ltd. (2016 SCC Online Del 4282)
+    * Havells India Limited v. The Advertising Standards Council of India (2016 Onlince Delhi 760)
+    * CK Surendran v. Kunhimoosa (2021 SCC Online Kunhimoosa)
+* **Legal Doctrines:**
+    * Retrospective effect of legislation
+    * Interpretation of statutes
+    * Principle of "cause of action"
+    * Principles of natural justice
+    * Judicial precedent
+
+## 4. Arguments Presented
+
+* **Plaintiff’s Argument:**
+    * The dispute involved a commercial property leased for a printing business, making it a commercial dispute under the Commercial Courts Act.
+    * The mandatory pre-litigation mediation requirement under Section 12-A was not applicable because the suit was filed before the relevant amendment and the Supreme Court's ruling.
+    * TPPS had failed to vacate the property or pay the rent, causing damages to the plaintiffs.
+* **Defendant’s Argument:**
+    * The dispute was not a commercial dispute as it involved a personal property lease and did not involve any trade or commerce.
+    * The plaintiffs had not exhausted the pre-litigation mediation process, rendering the suit premature and liable to be rejected.
+    * The suit was filed in a personal capacity and there was no contract between the plaintiffs and TPPS.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The lease agreement involved a commercial property used exclusively for trade (printing business) and therefore qualified as a "commercial dispute" under Section 2(1)(c)(vii) of the Commercial Courts Act.
+    * The Supreme Court's ruling in Patil Automation Pvt. Ltd. was prospective and did not apply to suits filed before 20.08.2022.
+    * Mere transfer of the suit to a Commercial Court after the ruling did not constitute a new institution of the suit, therefore, the pre-litigation mediation requirement did not apply.
+* **Interpretation of Law:**
+    * The court interpreted "commercial dispute" to encompass lease agreements involving commercial properties used for trade or commerce.
+    * The court held that the Supreme Court's ruling in Patil Automation Pvt. Ltd. did not have retrospective effect and was not applicable to pending suits.
+* **Application of Law:**
+    * The court applied the definition of "commercial dispute" to the facts of the case, concluding that the dispute was commercial in nature.
+    * The court applied the principle of prospective operation of legislation to the Supreme Court's ruling, finding it inapplicable to the pending suits.
+
+## 6. Judgment
+
+* **Final Decision:** The High Court dismissed the petitions filed by TPPS, upholding the lower court's decisions.
+* **Relief Granted:** No specific relief was granted to either party.
+* **Orders:** The petitions were dismissed.
+
+## 7. Implications
+
+* **Impact on Law:** The judgment provides guidance on the application of the definition of "commercial dispute" under the Commercial Courts Act, specifically in relation to lease agreements involving commercial properties. It also reaffirms the principle of prospective operation of legislation.
+* **Future Relevance:** The judgment will likely be cited in future cases involving the interpretation of the Commercial Courts Act and the applicability of pre-litigation mediation requirements.
+* **Broader Context:** The case highlights the importance of clearly defining commercial disputes to ensure efficient resolution through dedicated commercial courts. It also underscores the significance of procedural requirements and statutory interpretations in legal proceedings.
+
+## 8. Summary Points
+
+* The dispute between the parties was deemed a "commercial dispute" under the Commercial Courts Act based on the nature of the property and the business conducted there.
+* The Supreme Court's ruling on mandatory pre-litigation mediation did not apply retroactively to the case.
+* The High Court upheld the lower court's decisions, finding that the case was properly transferred to a Commercial Court and the pre-mediation requirements were not applicable.
+
+## 9. References
+
+* **Citations:**
+    * Commercial Courts Act, 2015
+    * Code of Civil Procedure (CPC)
+    * Arbitration and Conciliation Act, 1996
+    * Legal Services Authorities Act, 1987
+    * Limitation Act, 1963
+    * Patil Automation Pvt. Ltd. & Ors. v. Rakheja Engineers Pvt. Ltd. (2022 SCC Online SC 1028)
+    * Soni Dave v. M/s. Trans Asian Industries Expositions Pvt Ltd. (2016 SCC Online Del 4282)
+    * Havells India Limited v. The Advertising Standards Council of India (2016 Onlince Delhi 760)
+    * CK Surendran v. Kunhimoosa (2021 SCC Online Kunhimoosa)
+* **Further Reading:**
+    * The Commercial Courts Act, 2015
+    * The Code of Civil Procedure (CPC)
+    * Case laws on "commercial dispute" and pre-litigation mediation under the Commercial Courts Act.

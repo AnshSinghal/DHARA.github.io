@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A company seeks to enforce an arbitral award against another company, but the award was rendered in a different jurisdiction than where the debtor's assets are located. The debtor argues that the execution application must be filed in the jurisdiction where the arbitration took place, citing the Supreme Court's decision in Associated Contractors. The company argues that it can file the execution application in the jurisdiction where the debtor's assets are located, citing Sundaram Finance. Which argument is correct, and how does the concept of the juridical seat of arbitration apply?",
+    "Legal Principles": "Enforcement of Arbitral Awards, Seat of Arbitration, Jurisdiction, Territoriality, Party Autonomy, Code of Civil Procedure, Arbitration and Conciliation Act",
+    "Relevant Sections": "Section 2(1)(e), Section 20, Section 36, Section 42, Section 48, Section 49 of the Arbitration and Conciliation Act, 1996; Section 37, Section 38, Section 39, Section 46 of the Code of Civil Procedure, 1908",
+    "Context": "The query involves the interpretation of the Arbitration and Conciliation Act, 1996 and the Code of Civil Procedure, 1908 in relation to the enforcement of arbitral awards. It specifically addresses the conflict between the Supreme Court's decisions in Associated Contractors and Sundaram Finance regarding the jurisdiction for execution applications."
+  },
+  {
+    "Query": "Two parties entered into an agreement that included an arbitration clause designating Mumbai as the seat of arbitration. However, a dispute arose, and one party filed a Section 34 petition challenging the arbitral award in Delhi. The other party argues that the Delhi court lacks jurisdiction because the seat of arbitration was designated as Mumbai. Does the Delhi court have jurisdiction to entertain the Section 34 petition?",
+    "Legal Principles": "Seat of Arbitration, Jurisdiction, Section 34 of the Arbitration and Conciliation Act, Party Autonomy",
+    "Relevant Sections": "Section 2(1)(e), Section 20, Section 34 of the Arbitration and Conciliation Act, 1996",
+    "Context": "This query deals with the jurisdictional implications of designating a seat of arbitration under the Arbitration and Conciliation Act, 1996, particularly in the context of a Section 34 petition challenging an arbitral award."
+  },
+  {
+    "Query": "A company filed an execution petition for an arbitral award in Delhi, but the arbitral proceedings took place in Mumbai. The company argued that it could file the execution application in Delhi based on the debtor's assets being located there. The debtor argued that the execution petition must be filed in Mumbai, citing the seat of arbitration. Which court has jurisdiction, and what factors should be considered in determining the appropriate jurisdiction?",
+    "Legal Principles": "Seat of Arbitration, Enforcement of Arbitral Awards, Jurisdiction, Territoriality",
+    "Relevant Sections": "Section 2(1)(e), Section 20, Section 36 of the Arbitration and Conciliation Act, 1996",
+    "Context": "This case involves the application of the Arbitration and Conciliation Act, 1996 to determine the proper jurisdiction for executing an arbitral award when the seat of arbitration and the location of the debtor's assets are in different jurisdictions."
+  },
+  {
+    "Query": "Two parties entered into an agreement with an arbitration clause, but the agreement did not specifically designate a seat of arbitration. They initiated arbitral proceedings in Delhi, and the Arbitral Tribunal rendered an award in Delhi. One party filed a Section 34 petition challenging the award in Mumbai. Can the Mumbai court entertain the Section 34 petition, or is the Delhi court the only court with jurisdiction?",
+    "Legal Principles": "Seat of Arbitration, Section 34 of the Arbitration and Conciliation Act, Default Jurisdiction",
+    "Relevant Sections": "Section 2(1)(e), Section 20, Section 34 of the Arbitration and Conciliation Act, 1996",
+    "Context": "This query focuses on the determination of jurisdiction for a Section 34 petition challenging an arbitral award when the arbitration agreement lacks a specific designation of the seat of arbitration."
+  },
+  {
+    "Query": "A company filed a Section 9 application for interim relief in the High Court of Delhi related to an arbitration agreement. Subsequently, the company filed a Section 34 petition challenging the arbitral award in the High Court of Mumbai. The debtor argues that the Mumbai High Court lacks jurisdiction because the Section 9 application was filed in Delhi. Is the Mumbai High Court's jurisdiction barred by Section 42 of the Arbitration and Conciliation Act?",
+    "Legal Principles": "Section 42 of the Arbitration and Conciliation Act, Jurisdiction, Section 9 and Section 34 Applications",
+    "Relevant Sections": "Section 9, Section 34, Section 42 of the Arbitration and Conciliation Act, 1996",
+    "Context": "This case examines the application of Section 42 of the Arbitration and Conciliation Act, 1996 in relation to the jurisdiction for Section 34 petitions when a prior Section 9 application has been filed in a different court."
+  },
+  {
+    "Query": "Two parties, one from Delhi and one from Mumbai, entered into a contract with an arbitration clause. They agreed to arbitrate in a neutral location, Singapore. After the arbitral tribunal issued an award in Singapore, the Delhi party filed a Section 36 execution application in Delhi. The Mumbai party argues that the Delhi court lacks jurisdiction because the seat of arbitration was Singapore. Can the Delhi court entertain the execution application?",
+    "Legal Principles": "Enforcement of Arbitral Awards, Seat of Arbitration, Jurisdiction, Territoriality",
+    "Relevant Sections": "Section 2(1)(e), Section 20, Section 36 of the Arbitration and Conciliation Act, 1996",
+    "Context": "This case involves determining the proper jurisdiction for enforcing an arbitral award rendered in a foreign jurisdiction, Singapore, when the debtor's assets are located in a different jurisdiction, Delhi."
+  },
+  {
+    "Query": "Two parties entered into an agreement with an arbitration clause designating the High Court of Delhi as the seat of arbitration. After an award was rendered, one party filed a Section 34 petition to set aside the award in the District Court of Delhi. The other party argues that the District Court lacks jurisdiction because the arbitration agreement designated the High Court of Delhi as the seat. Is the District Court of Delhi competent to entertain the Section 34 petition?",
+    "Legal Principles": "Seat of Arbitration, Jurisdiction, Section 34 of the Arbitration and Conciliation Act",
+    "Relevant Sections": "Section 2(1)(e), Section 20, Section 34 of the Arbitration and Conciliation Act, 1996",
+    "Context": "This case examines the jurisdictional implications of designating a specific court as the seat of arbitration, and whether a lower court within the same jurisdiction has jurisdiction to entertain challenges to the arbitral award."
+  },
+  {
+    "Query": "A company filed a Section 9 application for interim relief in the High Court of Mumbai related to an arbitration agreement. Subsequently, the company filed a Section 34 petition challenging the arbitral award in the High Court of Delhi. The debtor argues that the Delhi High Court lacks jurisdiction because the Section 9 application was filed in Mumbai. Does Section 42 of the Arbitration and Conciliation Act bar the Delhi High Court from entertaining the Section 34 petition?",
+    "Legal Principles": "Section 42 of the Arbitration and Conciliation Act, Jurisdiction, Section 9 and Section 34 Applications",
+    "Relevant Sections": "Section 9, Section 34, Section 42 of the Arbitration and Conciliation Act, 1996",
+    "Context": "This case analyzes the applicability of Section 42 of the Arbitration and Conciliation Act, 1996 regarding the jurisdiction for Section 34 petitions when a prior Section 9 application has been filed in a different court."
+  },
+  {
+    "Query": "A company filed an execution petition for an arbitral award in the High Court of Chennai, but the arbitral proceedings took place in Bangalore. The company argued that it could file the execution application in Chennai based on the debtor's assets being located there. The debtor argued that the execution petition must be filed in Bangalore, citing the seat of arbitration. Which court has jurisdiction, and what legal principles should be applied to resolve this conflict?",
+    "Legal Principles": "Seat of Arbitration, Enforcement of Arbitral Awards, Jurisdiction, Territoriality",
+    "Relevant Sections": "Section 2(1)(e), Section 20, Section 36 of the Arbitration and Conciliation Act, 1996",
+    "Context": "This case deals with the application of the Arbitration and Conciliation Act, 1996 in determining the proper jurisdiction for executing an arbitral award when the seat of arbitration and the location of the debtor's assets are in different jurisdictions."
+  },
+  {
+    "Query": "Two parties, one from Kolkata and one from Hyderabad, entered into a contract with an arbitration clause. They agreed to arbitrate in a neutral location, London. After the arbitral tribunal issued an award in London, the Kolkata party filed a Section 36 execution application in Kolkata. The Hyderabad party argues that the Kolkata court lacks jurisdiction because the seat of arbitration was London. Can the Kolkata court entertain the execution application?",
+    "Legal Principles": "Enforcement of Arbitral Awards, Seat of Arbitration, Jurisdiction, Territoriality",
+    "Relevant Sections": "Section 2(1)(e), Section 20, Section 36 of the Arbitration and Conciliation Act, 1996",
+    "Context": "This case involves determining the proper jurisdiction for enforcing an arbitral award rendered in a foreign jurisdiction, London, when the debtor's assets are located in a different jurisdiction, Kolkata."
+  }
+]
+```

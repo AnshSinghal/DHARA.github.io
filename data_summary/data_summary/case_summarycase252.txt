@@ -1,0 +1,99 @@
+##  1. Case Title
+
+* **Case Name:** Mrs Kanti Singh & Ors. vs Lords Mark Industries Pvt. Ltd & Anr.
+* **Court:** Delhi High Court
+* **Date of Judgment:** 27 February, 2024
+* **Citation:**  Not available in the provided text.
+
+## 2. Background and Context
+
+* **Brief Overview:** This case involved a dispute between a landlord (petitioners) and their tenant (respondents) regarding a commercial lease agreement for a property in New Delhi. The respondents defaulted on rent payments and electricity charges, leading to the landlords terminating the lease and filing a suit for possession, arrears of rent, and mesne profits.
+* **Key Issues:**
+    * Whether the Delhi High Court had jurisdiction over the case after it was transferred to the Commercial Court.
+    * Whether the Trial Court had the power to suo moto review its own orders and return the plaint due to a subsequent judgment of a superior court.
+    * Whether the suit was correctly classified as a commercial dispute under the Commercial Courts Act, 2015.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * Article 227 of the Constitution of India
+    * Order VII Rule 10 of the Code of Civil Procedure, 1908 (CPC)
+    * Order VI Rule 17 of the CPC
+    * Order VIII Rule 10 of the CPC
+    * Order XLVII Rule 1 of the CPC
+    * Section 12A of the Commercial Courts Act, 2015 (C.C. Act)
+    * Section 15 of the C.C. Act
+    * Section 16 of the C.C. Act
+    * Section 18 of the C.C. Act
+* **Precedents Cited:**
+    * Virendra Kumar vs Rekha Bhayana [2022 SCC OnLine Del 2678]
+    * Sanjay Aggarwal &Anr vs Hemant Sharma [CM(M) 749/2022]
+    * Shri Sali Sales vs Shri Shyam Collection [CM(M) 693/2022]
+    * Shanti Devi Vs. State of Haryana and Ors (1999) 5 SCC 703
+    * Kumaran Vaidyar & Ors vs K.S. Venkiteswaran & Ors MANU/KE/0007/1992
+    * Municipal Corporation of Delhi vs Sunni Majlis Aukaf &Ors [MANU/DE/0072/1968]
+    * Ambalal Sarabhai Enterprises Ltd. MANU/SC/1378/2019: (2020) 15 SCC 585
+    * Narender Kumar vs. M/s Om Daily Needs Retailing Pvt. Ltd. & Anr.; FAO (Comm) 92/2023
+    * S. Murali Sundaram vs. Jothibai Kannan & Ors. [2023 SCC OnLine SC 185]
+* **Legal Doctrines:**
+    * Doctrine of Prospective Overruling
+    * Doctrine of Finality
+    * Actus curiae neminem gravabit
+
+## 4. Arguments Presented
+
+* **Petitioners’ Argument:**
+    * The Trial Court erred by reviewing its own orders based on a subsequent judgment of a superior court, violating the doctrine of finality and prospective overruling.
+    * The Trial Court lacked inherent power to suo moto review its orders, especially after a two-year period.
+    * The respondents had previously withdrawn petitions challenging the transfer order to the Commercial Court, indicating finality of the order.
+* **Respondents’ Argument:**
+    * The suit was a commercial dispute as per the lease agreement and the Commercial Courts Act.
+    * The transfer of the suit to the Commercial Court was a procedural error and did not have any legal consequence.
+    * The Trial Court correctly returned the plaint to be instituted afresh before the appropriate court (Commercial Court) based on the precedent set in Virendra Kumar vs Rekha Bhayana (supra).
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The Delhi High Court found that the suit was indeed a commercial dispute under the Commercial Courts Act, 2015.
+    * The court concluded that the Trial Court had exceeded its jurisdiction by suo moto reviewing its own orders based on a subsequent judgment.
+    * The court clarified that the return of the plaint under Order VII Rule 10 CPC was not applicable in this case as the suit was already being tried by a court of competent jurisdiction (Commercial Court).
+* **Interpretation of Law:**
+    * The court interpreted the provisions of the Commercial Courts Act, 2015 and the Code of Civil Procedure, 1908, highlighting the specific requirements for commercial suits and the limitations of review jurisdiction.
+    * The court analyzed the cited precedents, focusing on the principle of prospective overruling and the scope of review power under Order XLVII Rule 1 CPC.
+* **Application of Law:**
+    * The court applied the legal principles to the specific facts of the case, concluding that the Trial Court's action in returning the plaint was based on a hyper-technical approach and would defeat the ends of justice.
+    * The court emphasized that the suit had already been appropriately categorized as a commercial dispute and was being heard by the Commercial Court, making the return of the plaint unnecessary.
+
+## 6. Judgment
+
+* **Final Decision:** The Delhi High Court set aside the impugned order dated 01.08.2023, which had returned the plaint.
+* **Relief Granted:** The petition was allowed, and the Trial Court was directed to proceed with the trial of the commercial suit as per law.
+* **Orders:** The court specifically ordered the Trial Court to continue the trial of the commercial suit, effectively reinstating the Commercial Court's jurisdiction over the case.
+
+## 7. Implications
+
+* **Impact on Law:**
+    * This judgment strengthens the precedent established in Virendra Kumar vs Rekha Bhayana (supra) regarding the return of plaint in commercial suits incorrectly filed in non-commercial courts.
+    * The court's emphasis on the limitations of review jurisdiction clarifies the scope of Order XLVII Rule 1 CPC and reinforces the principle of finality in judicial decisions.
+* **Future Relevance:**
+    * This case serves as a guide for courts handling commercial disputes, particularly regarding the appropriate jurisdiction and the procedural steps to be followed.
+    * It provides clarity on the limitations of suo moto review and encourages a more practical approach to resolving legal disputes.
+* **Broader Context:**
+    * The judgment promotes the efficient resolution of commercial disputes by upholding the specialized jurisdiction of Commercial Courts.
+    * It emphasizes the importance of adherence to legal procedures and the doctrine of finality in ensuring justice and preventing unnecessary delays in litigation.
+
+## 8. Summary Points
+
+* The Delhi High Court upheld the jurisdiction of the Commercial Court over a commercial lease dispute.
+* The court ruled that the Trial Court could not suo moto review its own orders based on a subsequent judgment of a superior court.
+* The court emphasized the importance of finality in judicial decisions and discouraged hyper-technical approaches that could delay the resolution of legal disputes.
+
+## 9. References
+
+* **Citations:** The specific citations for all legal provisions, precedents, and legal texts are not provided in the document.
+* **Further Reading:**
+    * The Commercial Courts Act, 2015
+    * The Code of Civil Procedure, 1908
+    * Previous case judgments cited in the judgment.
+
+This summary aims to provide a detailed overview of the case, incorporating all the information available within the text. Please note that the absence of specific citations may limit the completeness of the legal references section. 

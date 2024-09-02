@@ -1,0 +1,113 @@
+##  1. Case Title
+
+• **Case Name:** U.P. Expressways Industrial Development Authority Thru Chief Executive Officer vs. M/S Sahakar Global Ltd. Thru Thru Authorized Signatory Stephen Lobo
+• **Court:** Allahabad High Court, Lucknow Bench
+• **Date of Judgment:** 2nd December 2022
+• **Citation:** Not available in the provided text.
+
+##  2. Background and Context
+
+• **Brief Overview:** The case stemmed from a contract agreement between the Uttar Pradesh Expressways Industrial Development Authority (UPEIDA) and M/S Sahakar Global Ltd. (Sahakar Global), for the collection of user fees at toll plazas on the Agra-Lucknow Expressway. Disputes arose concerning the payment of stamp duty and force majeure relief, leading to Sahakar Global seeking an injunction to prevent UPEIDA from encashing a performance bank guarantee (BG).
+
+• **Key Issues:** 
+    * Whether the Commercial Court was justified in granting a status quo order restraining UPEIDA from invoking and encashing the bank guarantee.
+    * Whether Sahakar Global demonstrated sufficient grounds for the injunction, specifically egregious fraud, irretrievable injustice, or special equities.
+    * Whether the bank guarantee was an independent contract, making it enforceable regardless of the underlying dispute.
+
+##  3. Legal Principles Involved
+
+• **Relevant Statutes and Provisions:**
+    * Section 9 of the Arbitration & Conciliation Act, 1996 (as amended): Deals with interim measures by the court in arbitration proceedings.
+    * Section 37 of the Arbitration & Conciliation Act, 1996 (as amended): Provides for appeals against orders passed under section 9.
+    * Order 39 of the Code of Civil Procedure: Relates to injunctions.
+    * Commercial Courts Act: Deals with commercial disputes.
+
+• **Precedents Cited:**
+    * Ansal Engineering Projects Ltd. Vs. Tehri Hydro Development Corporation Ltd. (1996) 5 SCC Page 450.
+    * Standard Chartered Bank Vs. Heavy Engineering Corporation Ltd. and others, (2020) 13 SCC Page 574.
+    * Swenska Handeksbanken V/s M/s. Indian Charge Chrome and others, (1994) 1 SCC Page 502.
+    * U.P. State Sugar Corporation V/s Sumac International Ltd, (1997) 1 SCC Page 568.
+    * Daewoo Motors India Ltd, V/s Union of India and others, (2003) 4 SCC Page 690.
+    * BSES Ltd, (now Reliance Energy Ltd. Vs, Fenner India Ltd. and another, (2006) 2 SCC Page 728.
+    * Vintec Electronics Private Ltd, Vs. HCL Infosystems Ltd., (2008) 1 SCC Page 544.
+    * General Electric Technical Services Company INC Vs. Punj Sons (P) Ltd, and another, (1991) 4 SCC Page 230.
+    * U.P. Cooperative Federation Ltd. v. Singh Consultants and Engineers (P) Ltd. (1988 (1) SCC 174).
+    * State Trading Corporation of India Ltd. Vs Jainsons Clothing corporation (1994) 6 SCC 597.
+    * Himadri Chemicals Industries Ltd. v. Coal Tar Refining Co.: (2007) 8 SCC 110.
+    * Mahatma Gandhi Sahakra Sakkare Karkhane v. National Heavy Engineering Coop. Ltd(2007) 6 SCC 470.
+    * Gujarat Maritime Board v. Larsen and Toubro Infrastructure Development Projects Limited (2016) 10 SCC 46.
+    * Continental Construction Ltd. v. Satluj Jal VidyutNigam Ltd. reported as 2006 SCC OnLine Del 56.
+    * Hindustan Construction Co Ltd. & Anr. V. Satluj Jal Vidyut Nigam Ltd. reported as 2005 SCC OnLine Del 1249.
+    * Union of India v. Millenium Delhi Broadcasts LLP, reported as AIR 2022 SC (Civil) 1682.
+    * Essar House Pvt. Ltd. v. Arcellor Mittal Nippon Steel India reported as AIR 2022 SC 4294.
+    * Consortium of Deepak Cable India Limited & Abir Infrastructure Private Limited (DCIL-AIPL) v. Teestavalley Power Transmission Limited 2014 SCC Online Del 4741.
+    * Dwarikesh Sugar Industries Ltd. Vs. Prem Heavy Engineering Works (P) Ltd. (1997) 6 SCC 450.
+
+• **Legal Doctrines:** 
+    * **Bank Guarantees as Independent Contracts:** The court highlighted the principle that bank guarantees are separate contracts, independent of the underlying contract between the beneficiary and the guarantor.
+    * **Exceptions to Non-Interference with Bank Guarantees:**  The judgment emphasized the limited exceptions to the general rule against interfering with unconditional bank guarantees, namely:
+        * **Egregious Fraud:** Fraud of such a serious nature that it vitiates the foundation of the bank guarantee.
+        * **Irretrievable Injustice:** Injustice so severe that it cannot be rectified by ordinary legal means.
+        * **Special Equities:**  Exceptional circumstances where the party seeking the injunction would suffer irreparable harm if the injunction is not granted.
+
+##  4. Arguments Presented
+
+• **Appellant's Argument (UPEIDA):**
+    * The bank guarantee was unconditional and irrevocable.
+    * The commercial court failed to apply established legal principles regarding bank guarantees.
+    * Sahakar Global did not demonstrate egregious fraud, irretrievable injustice, or special equities.
+    * The dispute between the parties regarding force majeure and stamp duty was irrelevant to the invocation of the bank guarantee.
+    * UPEIDA had already granted force majeure relief to Sahakar Global, and the dispute related to the quantum of relief, not the validity of the claim.
+    * The short remittance by Sahakar Global exceeded the amount covered by the bank guarantee, demonstrating that UPEIDA's invocation of the guarantee was not illegitimate.
+    * The commercial court's order amounted to a final adjudication of the section 9 petition, which was impermissible.
+
+• **Respondent's Argument (Sahakar Global):**
+    * The commercial court's order was an interim order, and the present appeal was premature.
+    * The bank guarantee was intended for performance security, not for shortfalls in remittance, which were due to force majeure events.
+    * The invocation of the bank guarantee violated the terms of the contract, which prohibited adjustments against the performance security.
+    * Sahakar Global would suffer irreparable harm if the bank guarantee was encashed, as they would be unable to recover the money from UPEIDA.
+    * The commercial court correctly considered the principles of injunction under Order 39 CPC, recognizing the "special equities" created by the Covid-19 pandemic.
+
+##  5. Court’s Analysis and Reasoning
+
+• **Key Findings:**
+    * The bank guarantees were unquestionably unconditional and irrevocable, with no requirement for UPEIDA to demonstrate shortcomings or defects in Sahakar Global's performance.
+    * The court emphasized that the dispute between the parties regarding the underlying contract was irrelevant to the invocation of the bank guarantee.
+    * The court found no evidence of egregious fraud, irretrievable injustice, or special equities sufficient to justify staying the invocation of the bank guarantees.
+    * The commercial court's order, despite being labeled as interim, was effectively final, as it left no further issues to be adjudicated under section 9 of the Arbitration & Conciliation Act.
+
+• **Interpretation of Law:**
+    * The court relied heavily on a string of Supreme Court judgments establishing the law on bank guarantees, emphasizing the independent nature of bank guarantees and the limited circumstances in which courts should interfere with their invocation.
+    * The court carefully analyzed the definition of egregious fraud, irretrievable injustice, and special equities, finding that Sahakar Global's arguments failed to meet the required thresholds for any of these exceptions.
+
+• **Application of Law:**
+    * The court applied the established legal principles to the specific facts of the case, finding that the commercial court's order was in error by granting a status quo order in the absence of any of the recognized exceptions to the rule against interfering with unconditional bank guarantees.
+
+##  6. Judgment
+
+• **Final Decision:** The Allahabad High Court allowed UPEIDA's appeal, setting aside the commercial court's order granting a status quo order.
+• **Relief Granted:** UPEIDA was permitted to proceed with the invocation and encashment of the bank guarantees.
+• **Orders:** The commercial court's order was set aside. There was no order as to costs.
+
+##  7. Implications
+
+• **Impact on Law:** The judgment reaffirmed the well-established legal principles regarding unconditional bank guarantees, emphasizing that courts should be reluctant to interfere with their invocation except in exceptional circumstances.
+
+• **Future Relevance:** This judgment serves as a reminder for parties involved in bank guarantee arrangements to understand the legal principles governing their enforcement and the limited grounds for challenging their invocation. It reinforces the sanctity of unconditional bank guarantees in commercial dealings.
+
+• **Broader Context:** The case highlights the potential tension between enforcing contractual obligations, including bank guarantees, and ensuring fair treatment for parties facing financial hardship or unforeseen circumstances.
+
+##  8. Summary Points
+
+• **Key Takeaways:**
+    * Unconditional bank guarantees are independent contracts, enforceable irrespective of disputes arising from the underlying contract.
+    * Courts should exercise caution in granting injunctions against the enforcement of unconditional bank guarantees.
+    * To succeed in obtaining an injunction, a party must demonstrate egregious fraud, irretrievable injustice, or special equities, which are narrowly defined and difficult to establish.
+
+##  9. References
+
+• **Citations:**  The full citations of the cases referred to in the summary can be found in the "Precedents Cited" section.
+
+• **Further Reading:**
+    *  For a deeper understanding of the law on bank guarantees in India, consult the Supreme Court judgments cited in this summary, particularly Vintec Electronics Private Ltd, Vs. HCL Infosystems Ltd., (2008) 1 SCC Page 544, and U.P. State Sugar Corporation V/s Sumac International Ltd, (1997) 1 SCC Page 568.
+    *  Additional research on the Arbitration & Conciliation Act, 1996 and Order 39 of the Code of Civil Procedure can provide further insights into the legal framework governing arbitration and injunctions in India. 

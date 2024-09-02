@@ -1,0 +1,161 @@
+##  1. Case Title
+
+* **Case Name:** M/S Zapdor-Ubc-Abnjv Delhi vs U.O.I. Thru.General Manager Northern Railway New Delhi And Ors
+* **Court:** Allahabad High Court, Lucknow Bench
+* **Date of Judgment:** 1st September 2022
+* **Citation:** Not provided in the text. 
+
+## 2. Background and Context
+
+**Brief Overview:** This case involves a dispute between M/S Zapdor-Ubc-Abnjv Delhi (Petitioner), a joint venture company, and the Union of India through the General Manager of Northern Railway (Respondent).  The dispute arises from a contract awarded to the Petitioner for electrification work on a railway section in Lucknow. The Respondent terminated the contract citing slow progress, and the Petitioner invoked the arbitration clause in the contract. The Arbitral Tribunal awarded over three crores to the Petitioner, which the Respondent challenged before the Commercial Court in Lucknow. The Petitioner then filed a petition in the Allahabad High Court, arguing that the Commercial Court lacked territorial jurisdiction to hear the case.
+
+**Key Issues:**
+
+* Whether the petition filed in the High Court is maintainable.
+* Whether the Commercial Court in Lucknow had jurisdiction to entertain the Respondent's Section 34 application to challenge the Arbitral Award.
+* Whether the "seat" of arbitration, as determined by the parties' conduct, should override the potential jurisdictional claim based on the "cause of action" arising in Lucknow.
+
+## 3. Legal Principles Involved
+
+**Relevant Statutes and Provisions:**
+
+* Article 227 of the Constitution of India:  This article provides for the High Court's power of superintendence over subordinate courts. 
+* The Arbitration and Conciliation Act, 1996 (hereinafter referred to as "the 1996 Act"): 
+    * Section 34: This section allows a party to file an application to set aside an arbitral award.
+    * Section 36: This section pertains to the enforcement of arbitral awards. 
+    * Section 37: This section deals with appeals against orders under Section 34.
+    * Section 20: This section deals with the "place of arbitration."
+    * Section 2(1)(e): Defines "subject matter of arbitration." 
+    * Section 42: Deals with the exclusivity of jurisdiction once a Court has entertained an application under the 1996 Act. 
+
+**Precedents Cited:**
+
+* **Bhartiya Aluminium Company Ltd. vs. Kaiser Aluminium Technical Services** (2012) 9 SCC 552 (BALCO)
+* **BGS SGS Soma JV versus NHPC Ltd** (2004) 4 SCC 234
+* **QUIPPO Construction Equipment Ltd versus Janardan Nirman Private Limited** (2020) SCC Online SC 419
+* **Om Prakash and others versus Vijay Dwarka Dass Verma** 2020 SCC online Bombay 796
+* **L&T Finance Vs. Manoj Pathak** (2020) SCC online Bombay 177
+* **TNGQ Projects Ltd. Vs. Balaji Projects** (2021) SCC Online Madras 409
+* **Chief Postmaster General and others versus Living Media India Ltd** (2012) 3 SCC 563
+* **Mankastu Impex Private Limited versus Air Visual Ltd** (2020) 5 SCC 399
+* **Union of India versus Hardy Exploration and Production (India) Inc** (2019) 13 SCC 472
+* **Inox Renewables Ltd versus Jayesh Electricals Ltd** 2021 SCC Online SC 448
+* **United Bank of India versus Naresh Kumar and others** 1996 (6) SCC 660
+* **Union of India versus McDonnell Douglas Corporation** (1993) 2 Lloyds Rep 48
+* **Enercon (India) Limited versus Enercon GMBH** (2014) 5 SCC 1
+* **Dozco(India) Private Limited v Doosan Infracore Company Ltd** (2011) 6 SCC 179
+* **Brahmani River Pellets Limited versus Kamatchi Industries Ltd** (2020) 5 SCC 462
+* **Reliance Industries Ltd versus Union of India** (2014) 7 SCC 603
+* **Indus Mobile Distribution (Private) Limited versus DataWind Innovation (Private) Limited** (2017) 7 SCC 678
+* **Hindustan Construction Company Limited versus NHPC** (2020) 4 SCC 234
+* **Ravi Ranjan Developers Private Limited versus Aditya Kumar Chatterji** 2022 SCCOnline Supreme Court 568
+* **BBR (India) Private Limited versus SP Singla Constructions (Private) Limited** (Civil Appeal No.4130 of 2022)
+* **Hasmukh Prajapati versus Jaiprakash Associates Ltd** (Article 227 Petition No. 6890 of 2021)
+* **S.P. Singla Constructions Pvt Ltd versus Construction and Design Services UP Jal Nigam** (ARB.P450/2021)
+
+**Legal Doctrines:**
+
+* **Territorial Jurisdiction:** The principle that a court has jurisdiction over a case based on the location of the parties, the subject matter, or the cause of action.
+* **Seat of Arbitration vs. Venue of Arbitration:** A crucial distinction recognized in the 1996 Act and the precedents cited. The "seat" determines the applicable law and the courts with supervisory jurisdiction, while the "venue" refers to the physical location of hearings.
+* **Party Autonomy:**  The principle that parties are free to agree on the terms of their contract, including the place of arbitration.
+* **Waiver:**  A party can relinquish a known right, such as the right to object to jurisdiction, through their conduct. 
+* **Significant Contrary Indicia:** A test applied by courts to determine whether the venue of arbitration should be treated as the "seat" of arbitration.
+* **Exclusive Jurisdiction Clause:**  A contractual provision that designates a specific court to have exclusive jurisdiction over certain disputes.
+* **Per Incuriam:** A legal doctrine that allows a court to depart from a precedent that was decided without considering relevant authorities.
+
+## 4. Arguments Presented
+
+**Plaintiff’s Argument (Petitioner):**
+
+* **Jurisdiction:** The Petitioner argued that the Commercial Court in Lucknow lacked jurisdiction to hear the Respondent's challenge to the Arbitral Award. They claimed that the "seat" of arbitration, as determined by the conduct of the parties, was New Delhi, where the arbitral proceedings were held and the Award was delivered.  
+* **Cause of Action:** They asserted that the cause of action for the Respondent's Section 34 application did not arise in Lucknow. The contract was terminated and the arbitration proceedings conducted in New Delhi.
+* **Interpretation of BALCO:** The Petitioner argued that the Commercial Court misconstrued the Supreme Court's decision in BALCO, incorrectly holding that the court where the cause of action arises has concurrent jurisdiction with the court at the seat of arbitration. They cited subsequent Supreme Court judgments in Soma JV and others to support their interpretation of BALCO.
+* **Contractual Clauses:** The Petitioner highlighted the contractual clauses concerning the venue of arbitration, arguing that these clauses, combined with the parties' conduct, clearly established New Delhi as the seat of arbitration.
+* **Condonation of Delay:** The Petitioner criticized the Commercial Court's decision to condone the Respondent's delay in filing the Section 34 application, arguing that the Respondent's explanation of bureaucratic delay was insufficient. 
+* **Maintainability of the Petition:** The Petitioner argued that the petition was maintainable, despite being filed by one director of the joint venture company, as he had been authorized by all parties to represent the joint venture throughout the arbitration process.
+
+**Defendant’s Argument (Respondent):**
+
+* **Maintainability of the Petition:**  The Respondent raised a preliminary objection regarding the maintainability of the petition, arguing that only one director of the joint venture company had filed the petition, without proper authorization from the other partners.
+* **Maintainability under Article 227:**  They argued that the petition was not maintainable under Article 227 of the Constitution, as a remedy of appeal under Section 37 of the 1996 Act was available for an interlocutory order like the one challenged.
+* **Jurisdiction:** The Respondent argued that the Commercial Court in Lucknow had jurisdiction to hear the Section 34 application. They cited various contractual clauses, including the "General Conditions of Contract," to demonstrate that the "place of arbitration" was determined to be within the geographical limits of the Railway Division where the work was being executed, which was Lucknow.
+* **Cause of Action:** The Respondent argued that a significant part of the cause of action arose in Lucknow, as the project was executed there and the Chief Project Director responsible for the contract was based in Lucknow.
+* **Seat of Arbitration:**  They argued that the parties had not expressly agreed on a "seat" of arbitration in New Delhi, and that the arbitral proceedings held there were only for convenience. 
+* **Condonation of Delay:** The Respondent argued that the delay in filing the Section 34 application was minor, caused by bureaucratic complexities, and that the Commercial Court was justified in condoning the delay.
+* **Enforcement in Delhi High Court:** The Respondent highlighted the Petitioner's actions in seeking enforcement of the arbitral award in the Delhi High Court, which they argued conflicted with their current petition challenging the jurisdiction of the Commercial Court in Lucknow.
+
+## 5. Court’s Analysis and Reasoning
+
+**Key Findings:**
+
+* **Maintainability of the Petition:** The Court found that the petition was maintainable, despite being filed by only one director of the joint venture company, considering the Petitioner's authorization to act on behalf of the joint venture in the arbitration proceedings and the lack of objection by the Respondent regarding representation before the Arbitral Tribunal.
+* **Maintainability under Article 227:** The Court, relying on the Supreme Court's decision in Soma JV, concluded that the petition under Article 227 was maintainable as the impugned order rejecting the application for return of the Section 34 application was not an order that could be appealed under Section 37 of the 1996 Act.
+* **Seat of Arbitration vs. Venue:** The Court affirmed the distinction between "seat" and "venue" of arbitration as established in BALCO and subsequent cases. It recognized that the "seat" of arbitration is crucial for determining applicable law and supervisory jurisdiction.
+* **Determination of Seat:** The Court held that in the absence of an express agreement designating the "seat" of arbitration, the conduct of the parties can be decisive. In this case, the Respondent's participation in the arbitration proceedings at New Delhi, without raising any objections, demonstrated their tacit acceptance of New Delhi as the seat of arbitration, despite the potential for ambiguity in the contractual clauses.
+* **Exclusive Jurisdiction:** The Court emphasized that once the "seat" of arbitration is established, the courts situated at that location have exclusive jurisdiction over disputes arising from the arbitration proceedings. This principle applies even if part of the cause of action arises elsewhere.
+* **Condonation of Delay:** The Court found that the Commercial Court's decision to condone the Respondent's delay was justified, considering the delay was minor and caused by bureaucratic complexities.
+* **Enforcement in Delhi High Court:** The Court acknowledged the Petitioner's efforts to enforce the arbitral award in the Delhi High Court but stated that this action did not preclude them from challenging the jurisdiction of the Commercial Court in Lucknow.
+
+**Interpretation of Law:**
+
+* **Section 20 of the 1996 Act:** The Court interpreted Section 20 of the 1996 Act, recognizing the importance of party autonomy in choosing the place of arbitration. However, it also acknowledged the possibility of determining the "seat" of arbitration based on the parties' conduct when an express agreement is absent.
+* **BALCO and Soma JV:** The Court harmonized the Supreme Court's decisions in BALCO and Soma JV, concluding that while the court where the cause of action arises can have jurisdiction, the court at the "seat" of arbitration has exclusive jurisdiction, especially when the parties' conduct unequivocally establishes that "seat."
+
+**Application of Law:**
+
+* The Court applied the legal principles established in BALCO, Soma JV, and other relevant precedents to the facts of the case, considering the contractual clauses, the parties' conduct, and the location of the arbitral proceedings.
+* The Court rejected the Respondent's arguments based on the "cause of action" arising in Lucknow, prioritizing the determination of the "seat" of arbitration based on the conduct of the parties.
+
+## 6. Judgment
+
+**Final Decision:**
+
+* The petition filed by M/S Zapdor-Ubc-Abnjv Delhi was allowed.
+
+**Relief Granted:**
+
+* The order of the Commercial Court in Lucknow dated 12.12.2019, rejecting the Petitioner's application for return of the Section 34 application, was set aside. 
+
+**Orders:**
+
+* The proceedings before the Commercial Court in Lucknow were deemed vitiated and liable to be set aside due to the court's lack of jurisdiction.
+
+## 7. Implications
+
+**Impact on Law:**
+
+* This judgment reaffirms the crucial distinction between "seat" and "venue" of arbitration in determining jurisdictional claims under the 1996 Act.
+* It underscores the importance of the "seat" of arbitration as the determinative factor for exclusive supervisory jurisdiction.
+* The judgment emphasizes the weight given to the parties' conduct in establishing the "seat" when an express agreement is lacking. 
+
+**Future Relevance:**
+
+* This case provides guidance for future cases involving disputes over jurisdictional claims in arbitration, particularly when the contractual clauses are ambiguous about the "seat" of arbitration.
+* It demonstrates the potential for the parties' conduct to override seemingly conflicting contractual terms and establish the "seat" of arbitration.
+
+**Broader Context:**
+
+* This case highlights the ongoing challenge of balancing party autonomy with the need for clear and predictable jurisdictional rules in arbitration.
+* It emphasizes the importance of careful drafting of arbitration clauses to avoid future disputes regarding jurisdiction.
+
+## 8. Summary Points
+
+* The Allahabad High Court found that the Commercial Court in Lucknow lacked jurisdiction to hear the Respondent's challenge to the Arbitral Award.
+* The Court held that the "seat" of arbitration, as determined by the parties' conduct, was New Delhi, where the arbitral proceedings were held.
+* The Respondent's participation in the arbitration proceedings at New Delhi, without any objections, demonstrated their tacit acceptance of New Delhi as the "seat" of arbitration.
+* The Court upheld the principle that the court at the "seat" of arbitration has exclusive jurisdiction over disputes arising from the arbitration proceedings.
+* The judgment emphasizes the importance of careful drafting of arbitration clauses to avoid jurisdictional disputes.
+
+## 9. References
+
+* The full citations for all the cases and statutory provisions mentioned in the summary are provided in the "Precedents Cited" and "Relevant Statutes and Provisions" sections. 
+
+**Further Reading:**
+
+* **The Arbitration and Conciliation Act, 1996**
+* **Bhartiya Aluminium Company Ltd. vs. Kaiser Aluminium Technical Services** (2012) 9 SCC 552 (BALCO)
+* **BGS SGS Soma JV versus NHPC Ltd** (2004) 4 SCC 234
+* **Commentary of Redfern and Hunter on International Arbitration**
+* **Articles and legal commentaries on the "seat" and "venue" of arbitration**
+
+Please note that this is a comprehensive summary of the case based on the provided text. You may need to refer to the original judgment for complete details and a more nuanced understanding of the Court's reasoning. 

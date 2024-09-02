@@ -1,0 +1,101 @@
+## Case Title
+
+* **Case Name:** Amar Construction Company vs. Ganesh Buildcon Through Ganesh Babubhai Vandas Patel
+* **Court:** Gujarat High Court
+* **Date of Judgment:** 19th January 2023
+* **Citation:** C/SCA/15744/2021
+
+## Background and Context
+
+* **Brief Overview:** Amar Construction Company (petitioner) was awarded a construction project by the Government of Madhya Pradesh. Ganesh Buildcon (respondent) entered into a sub-let agreement with the petitioner to share the work and profits.  The respondent failed to fulfill his obligations, leading to the petitioner terminating the agreement.  The respondent filed a Special Civil Suit in Patan, claiming dues from the petitioner. The petitioner challenged the jurisdiction of the Patan Court through an application, which was rejected. 
+* **Key Issues:**
+    *  Whether the Patan Court had jurisdiction to hear the respondent's suit.
+    *  Whether the petitioner's application under Order 7, Rule 10 of the Code of Civil Procedure (CPC) should have been granted. 
+
+## Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * **Section 20 of the Code of Civil Procedure (CPC):**  Determines the jurisdiction of courts based on the defendant's residence, place of business, or where the cause of action arises.
+    * **Section 12A of the Commercial Courts Act, 2015:**  Provides for pre-institution mediation in commercial disputes.
+    * **Section 13 of the Commercial Courts Act, 2015:**  Outlines the process for appealing judgments of Commercial Courts.
+    * **Order 7, Rule 10 of the Code of Civil Procedure (CPC):** Allows for a plaint to be returned to the plaintiff if it is found to be defective. 
+* **Precedents Cited:**
+    * **A.B.C. Laminart Pvt. Ltd. and another v. A.P. Agencies, Salem, AIR 1989 SC 1239:**  Deals with the issue of jurisdiction based on RTGS transactions.
+    * **Shridhar Vyapaar Pvt. Ltd. v. Gammon India Ltd., 2016 Calcutta High Court:**  Concerns the determination of jurisdiction in commercial disputes.
+    * **N.N. Global Mercantile (P) Ltd. v. Indo Unique Flame Ltd., (2021) 4 SCC 379:**  Addresses the maintainability of writ petitions when statutory remedies exist. 
+* **Legal Doctrines:**
+    * **The Debtor Must Seek the Creditor:**  A legal principle stating that the debtor must go to the creditor's jurisdiction to resolve a dispute.
+
+## Arguments Presented
+
+* **Petitioner’s Argument:**
+    * The sub-let agreement was executed in Mehsana.
+    * The work was done in Jabalpur, Madhya Pradesh.
+    * The respondent did not establish any cause of action arising in Patan. 
+    * The trial Court erred in relying on the respondent's letterhead, which showed the petitioner's office in Patan, as it was an outdated document.
+    * The petitioner's Mehsana address was clearly stated in their written statement and other documents.
+    * The respondent did not mention the Patan office in their reply to the petitioner's application.
+    * The RTGS transaction was initiated by the petitioner from their Mehsana bank account.
+    * The petitioner is in the process of filing a suit against the respondent in the competent court at Mehsana.
+
+* **Respondent’s Argument:**
+    * The suit is a commercial dispute and is pending in the Commercial Court, Patan.
+    * The respondent had entered an appearance and filed a reply.
+    * The petitioner's letter dated 8.11.2019, annexed as Annexure E to the petition, clearly shows the petitioner's head office in Patan.
+    * The letterhead, dated 8.11.2019, confirms that the petitioner operated under Patan jurisdiction.
+    * The respondent's bank account in Patan was used for receiving part of the payments, giving the Patan Court jurisdiction based on the "Debtor Must Seek the Creditor" doctrine. 
+    * The petitioner's argument regarding the outdated letterhead was misleading and intended to deceive the court.
+
+## Court’s Analysis and Reasoning
+
+* **Key Findings:** 
+    * The respondent had filed the suit in the Commercial Court, Patan, after both parties underwent pre-institution mediation.
+    * The suit involved a value exceeding Rs. 3 Lakh, falling under the jurisdiction of the Commercial Court, Patan. 
+* **Interpretation of Law:**
+    * The court referred to the notifications conferring the jurisdiction of Commercial Courts to Senior Civil Judges with experience in commercial disputes. 
+    * The court clarified that appeals against Commercial Court judgments are governed by Section 13 of the Commercial Courts Act, 2015. 
+    * The court applied the precedent in N.N. Global Mercantile (P) Ltd. v. Indo Unique Flame Ltd., (2021) 4 SCC 379, stating that writ petitions are not maintainable when statutory remedies are available. 
+* **Application of Law:**
+    * The court concluded that the petitioner's application challenging the jurisdiction of the Commercial Court, Patan, was not maintainable as it was filed under Article 227 of the Constitution.
+    * The court directed the petitioner to pursue the statutory remedy of filing an appeal under Section 13 of the Commercial Courts Act, 2015.
+
+## Judgment
+
+* **Final Decision:**
+    * The petitioner's petition under Article 227 of the Constitution was dismissed.
+* **Relief Granted:**
+    *  None.
+* **Orders:**
+    * The petitioner was relegated to pursue the statutory remedy of filing an appeal under Section 13 of the Commercial Courts Act, 2015. 
+    * The time period during which the petition was pending before the High Court was to be deducted while considering the limitation period for any future appeal.
+
+## Implications
+
+* **Impact on Law:**
+    * The judgment reinforces the need to exhaust statutory remedies available under the Commercial Courts Act, 2015, before resorting to writ petitions.
+* **Future Relevance:**
+    * This case provides a guide for parties involved in commercial disputes in understanding the scope of jurisdiction and the appropriate remedies available under the Commercial Courts Act, 2015.
+* **Broader Context:**
+    * The judgment emphasizes the importance of clearly establishing the jurisdiction of courts in commercial disputes.
+
+## Summary Points
+
+* The petitioner's challenge to the jurisdiction of the Commercial Court, Patan, was rejected. 
+* The petitioner was advised to file an appeal under Section 13 of the Commercial Courts Act, 2015.
+* The judgment underscores the need to utilize statutory remedies within the Commercial Courts Act before approaching the High Court.
+
+## References
+
+* **Section 20 of the Code of Civil Procedure (CPC):**  [Insert citation]
+* **Section 12A of the Commercial Courts Act, 2015:** [Insert citation]
+* **Section 13 of the Commercial Courts Act, 2015:** [Insert citation]
+* **Order 7, Rule 10 of the Code of Civil Procedure (CPC):** [Insert citation]
+* **A.B.C. Laminart Pvt. Ltd. and another v. A.P. Agencies, Salem, AIR 1989 SC 1239:** [Insert citation]
+* **Shridhar Vyapaar Pvt. Ltd. v. Gammon India Ltd., 2016 Calcutta High Court:** [Insert citation]
+* **N.N. Global Mercantile (P) Ltd. v. Indo Unique Flame Ltd., (2021) 4 SCC 379:** [Insert citation]
+
+## Further Reading
+
+* **Commercial Courts Act, 2015**
+* **Code of Civil Procedure, 1908**
+* **Cases related to jurisdiction in commercial disputes**

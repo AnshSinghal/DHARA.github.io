@@ -1,0 +1,96 @@
+## 1. Case Title
+
+* **Case Name:** Indian Overseas Bank vs Jason Deckor P Ltd
+* **Court:** Gujarat High Court
+* **Date of Judgment:** 5th September 2018
+* **Citation:** C/SCA/11710/2018
+
+## 2. Background and Context
+
+* **Brief Overview:**  Indian Overseas Bank (the petitioner Bank) challenged an order passed by the Commercial Court, Ahmedabad, which denied the Bank's request to condone delay in filing its written statement in a commercial suit filed against it by Jason Deckor P Ltd (the respondents).
+* **Key Issues:**
+    * Whether the Commercial Court had the power to extend the time limit for filing a written statement beyond 120 days from the date of service of summons, even if the defendant had sufficient grounds for the delay.
+    * Whether the time limit prescribed under the amended CPC (Order VIII Rule 1) for filing a written statement in commercial disputes is directory or mandatory.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002 (SARFESI Act)
+    * Recovery of Debts & Bankruptcy Act, 1993 (RDBA Act)
+    * Code of Civil Procedure, 1908 (CPC) as amended by the Commercial Courts, Commercial Division & Commercial Appellate Division of High Courts Act, 2015 (Act of 2015)
+    * Order VIII Rule 1 CPC
+    * Order X Rule 8 CPC
+    * Order VII Rule 11 CPC
+    * Section 5 of the Limitation Act, 1963
+    * Article 226 and 227 of the Constitution of India
+    * Article 141 of the Constitution of India
+* **Precedents Cited:**
+    * Kalpesh R Jain & Ors. vs. Mandev Tubes Private Limited (MANU/MH/1967/2017)
+    * Shri Balaji Industrial Products Limited v. AIA Engineering Limited (Judgment dated 2nd July 2018)
+    * Sunil Alagh v. Shivraj Puri & Anr. (Civil Suit [Comm] No. 1495 of 2016 :: Dated 14/12/2017)
+    * Topline Shoes Limited v. Corporation Bank Limited (2002 [6] SCC 33)
+    * Dr. JJ Merchant & Ors. v. Shrinath Chaturvedi (2003 [1] GLH 608)
+    * New India Assurance Company Limited v. Hilli Multipurpose Cold Storage Private Limited (2015 [16] SCC 20)
+    * Sejal Glass Limited v. Navilan Merchants Private Limited (AIR 2017 SC 4477)
+    * Jayatma Informatics Pvt. Ltd v. HCL Infosystems Limited (Special Civil Application No. 13430 of 2017 :: Decided on 2nd November 2017)
+    * Salem Advocate Bar Association, Tamil Nadu v. Union of India (2005 [6] SCC 344)
+    * Zolba vs. Keshao & Ors. (2008 [11] SCC 769)
+    * R.N Jadi & Brothers & Ors. vs. Subhash Chandra (2007 [6] SCC 420)
+    * Afcons Infrastructure Limited v/s. Cherian Varkey Construction Company Private Ltd. (2010 (8) SCC 24)
+* **Legal Doctrines:**
+    * Statutory Interpretation
+    * Harmonious Construction
+    * Golden Rule of Statutory Interpretation
+
+## 4. Arguments Presented
+
+* **Plaintiff’s Argument:**
+    * The suit against the Bank was not frivolous or vexatious, as alleged by the Bank.
+    * The Bank's actions, including the initiation of proceedings under SARFESI Act and taking symbolic possession of assets, caused significant damage to the plaintiffs.
+    * The Bank's refusal to release working capital had severely impacted the plaintiffs' business operations.
+* **Defendant’s Argument:**
+    * The suit was frivolous and vexatious, filed to avoid liability for repayment of Bank dues.
+    * The Bank had already initiated legal proceedings under the SARFESI Act and taken symbolic possession of assets, thus, the suit was unnecessary.
+    * The provisions of CPC concerning written statements were procedural in nature and should be interpreted liberally.
+    * The Bank had sufficient cause for the delay in filing the written statement and the Commercial Court should have condoned the delay.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The Act of 2015 aimed to accelerate economic growth and improve the Indian justice delivery system by providing a specialized mechanism for speedy disposal of commercial disputes.
+    * The Act of 2015 made specific amendments to the CPC, including a revised proviso to Order VIII Rule 1, explicitly limiting the time for filing a written statement in commercial disputes to 120 days.
+    * The amendments aimed to ensure timely progress and speedy disposal of commercial suits.
+    * The legislature, while enacting these amendments, was aware of the Supreme Court's interpretation of the previous provisions in Salem Advocate Bar Association, Tamil Nadu v. Union of India, and sought to clarify and enforce the mandatory nature of the time limit.
+* **Interpretation of Law:**
+    * The Court interpreted the amended Order VIII Rule 1 as a mandatory provision that restricts the power of the Commercial Court to extend the time limit for filing the written statement beyond 120 days.
+    * The Court recognized the legislative intent behind the amendments as being to streamline and expedite commercial litigation.
+    * The Court applied the golden rule of statutory interpretation, emphasizing the plain grammatical meaning of the words used in the statute.
+* **Application of Law:**
+    * The Court applied the amended provisions of Order VIII Rule 1 to the specific facts of the case.
+    * The Court found that the defendant had failed to file its written statement within the stipulated time limit.
+    * The Court rejected the defendant's argument that the time limit was directory and that the Court had the power to condone the delay.
+    * The Court concluded that the Commercial Court was correct in refusing to accept the defendant's belated written statement.
+
+## 6. Judgment
+
+* **Final Decision:** The petition filed by the Bank challenging the Commercial Court's order was dismissed.
+* **Relief Granted:** No relief was granted to the petitioner.
+* **Orders:** The Court upheld the Commercial Court's order denying the petitioner's request to condone delay in filing its written statement.
+
+## 7. Implications
+
+* **Impact on Law:** This judgment strengthens the interpretation of the amended CPC provisions governing commercial disputes, emphasizing the mandatory nature of the 120-day time limit for filing a written statement. 
+* **Future Relevance:** This case sets a precedent for future cases involving the interpretation of the amended CPC provisions in commercial litigation. It reinforces the requirement for defendants to file their written statements within the prescribed time limit, preventing undue delay and promoting the efficient resolution of commercial disputes.
+* **Broader Context:** The judgment underscores the importance of adhering to the established timelines and procedures in legal proceedings, particularly in the context of commercial disputes. It reflects the ongoing efforts to expedite justice delivery and enhance the efficiency of the Indian legal system.
+
+## 8. Summary Points
+
+* The Gujarat High Court upheld the Commercial Court's decision to reject the defendant's late written statement.
+* The Court found that the amended CPC provisions for commercial disputes are mandatory and prohibit extending the time limit for filing a written statement beyond 120 days.
+* The judgment emphasizes the need for timely compliance with legal procedures and reinforces the legislative intent to expedite commercial litigation.
+
+## 9. References
+
+* **Citations:** All statutes, cases, and legal texts mentioned in the summary have been cited above.
+* **Further Reading:** 
+    * For further reading on the Commercial Courts Act, 2015, its impact on commercial litigation, and related case law, you can refer to academic journals, legal databases, and online resources.

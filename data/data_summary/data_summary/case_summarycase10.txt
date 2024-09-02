@@ -1,0 +1,81 @@
+## Case Title
+
+* **Case Name:** Sudhir Kumar @ S. Baliyan vs Vinay Kumar G.B.
+* **Court:** Supreme Court of India
+* **Date of Judgment:** 15th September 2021
+* **Citation:** AIR 2021 SUPREME COURT 4303, AIRONLINE 2021 SC 725
+
+## Background and Context
+
+* **Brief Overview:** The case revolves around a trademark dispute between Sudhir Kumar @ S. Baliyan (appellant/original plaintiff) and Vinay Kumar G.B. (respondent/original defendant) concerning the trademark "INSIGHT" and its variants. The dispute stemmed from a commercial suit filed by the appellant seeking permanent injunction against the defendant's use of the trademark.
+* **Key Issues:** 
+    * Whether the appellant was justified in seeking leave to produce additional documents after failing to do so initially with the plaint.
+    * Interpretation and application of Order XI Rule 1 of the CPC as amended by the Commercial Courts Act, 2015, particularly in relation to the production of documents in commercial suits.
+
+## Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * Code of Civil Procedure (CPC), particularly Order VII Rule 14 (3), Order XI Rule 1, Order XXXIX Rule 1 and 2
+    * Commercial Courts Act, 2015, specifically Section 16
+* **Precedents Cited:** None explicitly mentioned in the judgment.
+* **Legal Doctrines:** 
+    * **Order XI Rule 1:** Mandates disclosure of all relevant documents by both parties in commercial suits.
+    * **Order VII Rule 14 (3):** Allows the court to grant leave for producing additional documents after the plaint is filed, but is not applicable to commercial suits.
+    * **Section 16 of the Commercial Courts Act:** Specifies that the provisions of the CPC, as amended by the Act, shall prevail over conflicting provisions.
+
+## Arguments Presented
+
+* **Plaintiff’s Argument:**
+    *  The appellant argued that the documents sought to be produced were necessary for a just decision of the suit.
+    *  He claimed that the documents were not in his possession at the time of filing the initial suit but were discovered subsequently.
+    *  He emphasized that the application to produce additional documents was filed within 30 days of filing the suit, satisfying the requirement under Order XI Rule 1 (4).
+    *  He contended that the court should not have considered the genuineness of the documents at this stage.
+* **Defendant’s Argument:**
+    *  The respondent argued that the appellant failed to provide cogent reasons for not producing the documents initially.
+    *  He maintained that the appellant's application for leave to produce additional documents lacked bona fides, being an afterthought.
+    *  He stated that Order VII Rule 14 (3) is not applicable in commercial suits due to the amendments brought about by the Commercial Courts Act.
+
+## Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The court recognized that Order VII Rule 14 (3) is not applicable in commercial suits due to the amendments in the CPC brought about by the Commercial Courts Act.
+    * The court acknowledged that Order XI Rule 1 mandates comprehensive disclosure of documents in commercial suits.
+    * The court held that the appellant could rely on the invoices, as he asserted they were not in his possession at the time of filing the suit. 
+    * The court rejected the appellant's claim for producing the other documents, deeming the reason of voluminousness insufficient in light of the time gap between the first and second suit.
+* **Interpretation of Law:**
+    * The court interpreted Order XI Rule 1 as requiring disclosure of all relevant documents by the plaintiff in commercial suits, with limited exceptions.
+    * The court concluded that Order VII Rule 14 (3) is no longer applicable to commercial suits.
+* **Application of Law:**
+    * The court applied Order XI Rule 1 and its specific requirements for commercial suits.
+    * The court decided that the appellant had established a reasonable cause for not producing the invoices with the initial plaint.
+    * The court deemed the appellant's reasons for not producing the other documents insufficient and therefore denied leave to produce them.
+
+## Judgment
+
+* **Final Decision:**  The appeal was partly allowed.
+* **Relief Granted:** The appellant was granted leave to produce the invoices as additional documents. 
+* **Orders:** The court quashed and set aside the High Court's order confirming the Commercial Court's rejection of the appellant's application to produce additional documents, specifically the invoices. The court confirmed the denial of leave to produce the other documents.
+
+## Implications
+
+* **Impact on Law:** The case clarifies the applicability of Order XI Rule 1 and its specific requirements for commercial suits. It highlights the strict approach taken towards document disclosure in commercial litigation.
+* **Future Relevance:** The case provides valuable guidance for parties involved in commercial suits, emphasizing the importance of complete document disclosure from the outset.
+* **Broader Context:**  The judgment underscores the significance of complying with statutory provisions and the need for clear and convincing arguments when seeking leave to produce additional documents.
+
+## Summary Points
+
+* Order VII Rule 14 (3) of the CPC is not applicable to commercial suits.
+* Order XI Rule 1 mandates extensive document disclosure in commercial suits.
+* The court granted leave to produce invoices as additional documents, acknowledging the appellant's claim that they were discovered subsequently.
+* The court rejected the appellant's application to produce other documents, finding the reason of voluminousness insufficient.
+* The judgment highlights the importance of document disclosure and provides guidance for parties involved in commercial litigation.
+
+## References
+
+* **Citations:** 
+    * Code of Civil Procedure (CPC)
+    * Commercial Courts Act, 2015
+* **Further Reading:**  
+    * Cases related to Order XI Rule 1 of the CPC
+    * Cases related to commercial litigation in India
+

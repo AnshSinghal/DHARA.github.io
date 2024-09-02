@@ -1,0 +1,123 @@
+##  Case Title
+
+* **Case Name:** Ess Kay Fincorp Limited vs. Suresh Choudhary S/O Shri Ganga Ram
+* **Court:** Rajasthan High Court
+* **Date of Judgment:** 22nd August 2019
+* **Citation:** Not available in the provided text.
+
+## Background and Context
+
+* **Brief Overview:**  This case involved three separate legal matters – two appeals (CMA 12/2019 and CMA 5890/2018) and a writ petition (WP 4379/2019) – all raising the same fundamental question:  **Which court, the Principal Civil Court (District and Sessions Judge) or the Commercial Court, is competent to execute an arbitral award in a commercial dispute under the Arbitration and Conciliation Act, 1996?**
+
+* **Key Issues:** 
+    * Whether the Commercial Courts Act, 2015, overrides the jurisdiction of the Principal Civil Court in executing arbitral awards for commercial disputes.
+    * The proper interpretation of Sections 10(3) and 15(2) of the Commercial Courts Act, 2015 in relation to execution applications under the Arbitration and Conciliation Act, 1996.
+    * The relevance of Supreme Court judgments in Sundaram Finance Ltd. vs. Abdul Samad and State of West Bengal vs. Associated Contractors in the context of Commercial Court jurisdiction.
+
+## Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * **Arbitration and Conciliation Act, 1996 (Arbitration Act):**
+        * Section 2(1)(e): Defines "Court" for the purposes of the Act.
+        * Section 36: Specifies how an arbitral award is to be enforced like a decree.
+        * Section 42: Deals with the jurisdiction of courts in relation to arbitral proceedings.
+    * **Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015 (Commercial Courts Act):**
+        * Section 2(b): Defines "Commercial Court."
+        * Section 3(1): Establishes Commercial Courts.
+        * Section 10(3): Grants jurisdiction to Commercial Courts for arbitral proceedings involving commercial disputes of a specified value.
+        * Section 15(2): Mandates the transfer of commercial dispute cases to Commercial Courts from other civil courts.
+
+* **Precedents Cited:**
+    * **Sundaram Finance Limited represented by J. Thilak, Senior Manager (Legal) Vs. Abdul Samad and Another, (2018) 3 SCC 622:**  Supreme Court held that an arbitral award is deemed a decree for execution purposes, and the jurisdiction for execution is not determined by the court where the award was passed.
+    * **State of West Bengal & Others Vs. Associated Contractors, (2015) 1 SCC 32:**  Supreme Court held that Section 42 of the Arbitration Act applies to applications filed before, during, or after arbitral proceedings, including applications after the award is made.
+    * **M/s. OCI Corporation Vs. Kandla Export Corporation (Misc. Civil Application (For Transfer) No. 2969 of 2016 filed in Misc. Civil Application No. 2977 of 2016 decided on 11.11.2016):** Gujarat High Court held that Commercial Courts have jurisdiction over all applications and appeals arising from arbitration proceedings for commercial disputes.
+    * **State of Maharashtra through Executive Engineer, Road Development Division No. 111, Panvel & Another Vs. Atlanta Limited, (2014) 11 SCC 619:** Supreme Court clarified the definition of "Court" under the Arbitration Act.
+    * **Vijay Cotton and Fiber Company Vs. Agarwal Cotton Spinning Private Limited, R/Appeal No. 216 of 2018 decided on 11.02.2019:** Gujarat High Court held that Commercial Courts are the only competent court to execute an arbitral award in a commercial dispute.
+    * **South Easters Coalfields Limited (SECL) Through The Chief General Manager, SECL, Sohagpur Area, District Shahdol, Madhya Pradesh Vs. Padam Kumar Singhaniya (TPC No. 59 of 2017 decided on 22.01.2018):** Chhattisgarh High Court held that Section 15(2) of the Commercial Courts Act applies only to original applications and not execution applications.
+
+* **Legal Doctrines:**
+    * **Interpretation of Statutes:** The court analyzed the relevant statutory provisions to determine their meaning and scope.
+    * **Jurisdiction:**  The court examined the jurisdictional powers of different courts based on the applicable laws.
+    * **Precedential Value:**  The court gave weight to past Supreme Court and High Court judgments relevant to the issues in the case.
+
+## Arguments Presented
+
+* **Appellants' Argument:** 
+    * Argued that Section 10(3) and 15(2) of the Commercial Courts Act, 2015, clearly grant Commercial Courts exclusive jurisdiction over execution applications for commercial arbitral awards, even if the initial arbitral proceedings were not before a Commercial Court.
+    * Relied on the Supreme Court's judgment in State of West Bengal vs. Associated Contractors to support the view that Section 42 of the Arbitration Act applies to execution applications.
+    * Criticized the Commercial Court's reliance on the Sundaram Finance vs. Abdul Samad judgment, arguing that it was wrongly applied in this context. 
+    * Cited several High Court judgments supporting the position that Commercial Courts have exclusive jurisdiction over commercial dispute arbitration proceedings.
+
+* **Respondent's Argument:**
+    * Argued that the Principal Civil Court (District and Sessions Judge) has the original jurisdiction to execute arbitral awards, as per the Arbitration Act and the Supreme Court's interpretation in State of Maharashtra vs. Atlanta Limited.
+    * Contended that Section 15(2) of the Commercial Courts Act only mandates transferring cases pending in other courts to Commercial Courts, not giving exclusive jurisdiction for execution applications.
+    * Supported the Commercial Court's reliance on the Sundaram Finance vs. Abdul Samad case, arguing that execution applications are not part of the original arbitral proceedings.
+    * Also cited High Court judgments (e.g., Vijay Cotton vs. Agarwal Cotton Spinning) in support of their position.
+
+## Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The court accepted the Supreme Court's finding in State of West Bengal vs. Associated Contractors that Section 42 of the Arbitration Act applies to applications made before, during, or after arbitral proceedings, including execution applications.
+    * The court disagreed with the Chhattisgarh High Court's interpretation of Section 15(2) of the Commercial Courts Act, finding that it applies to all types of applications, including execution applications, under the Arbitration Act for commercial disputes.
+    * The court concluded that the Sundaram Finance vs. Abdul Samad judgment was not directly applicable to the specific question of Commercial Court jurisdiction over execution applications, as it primarily concerned the territorial jurisdiction for execution.
+
+* **Interpretation of Law:** 
+    * The court analyzed Section 10(3) and 15(2) of the Commercial Courts Act to conclude that they explicitly transfer jurisdiction for commercial dispute arbitral proceedings, including execution applications, to Commercial Courts. 
+    * The court interpreted "applications arising out of such arbitration" in Section 10(3) broadly to include execution applications under Section 36 of the Arbitration Act.
+
+* **Application of Law:** 
+    * The court applied the law to the specific facts of the case, concluding that the execution applications before the Commercial Court were for commercial disputes and therefore fell under the jurisdiction of the Commercial Court based on the Commercial Courts Act.
+
+## Judgment
+
+* **Final Decision:**
+    * The appeals (CMA 12/2019 and CMA 5890/2018) were allowed, and the orders dismissing the execution applications by the Commercial Court were set aside.
+    * The writ petition (WP 4379/2019) was dismissed.
+
+* **Relief Granted:** 
+    * The appellants in the appeals were granted the right to proceed with execution of the arbitral awards before the Commercial Courts.
+    * The petitioner in the writ petition was denied relief.
+
+* **Orders:**
+    * The court directed the Commercial Courts to take jurisdiction over the execution applications.
+    * The court dismissed all pending stay applications and interim applications.
+
+## Implications
+
+* **Impact on Law:** 
+    * This judgment clarifies the jurisdiction of Commercial Courts in executing arbitral awards for commercial disputes.
+    * It reinforces the intent of the Commercial Courts Act to streamline commercial dispute resolution processes, including post-award proceedings.
+    * It provides a consistent interpretation of Section 15(2) of the Commercial Courts Act, which had been subject to different interpretations by different High Courts.
+
+* **Future Relevance:**
+    * The judgment is likely to be influential in future cases concerning the jurisdiction of Commercial Courts and execution applications under the Arbitration Act.
+    * It establishes a clear precedent for transferring execution applications for commercial arbitral awards to Commercial Courts.
+
+* **Broader Context:**
+    * The judgment contributes to the broader legal framework for efficient commercial dispute resolution in India.
+    * It reflects the growing emphasis on specialized courts for handling specific types of cases, such as commercial disputes.
+
+## Summary Points
+
+* The Rajasthan High Court held that Commercial Courts have exclusive jurisdiction over executing arbitral awards for commercial disputes, even if the original arbitral proceedings were not before a Commercial Court.
+* The court interpreted Section 15(2) of the Commercial Courts Act broadly to include execution applications.
+* The judgment clarifies the interplay between the Commercial Courts Act and the Arbitration Act, providing a consistent framework for commercial dispute resolution.
+
+## References
+
+* **Statutes:**
+    * Arbitration and Conciliation Act, 1996
+    * Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015
+
+* **Cases:**
+    * Sundaram Finance Limited represented by J. Thilak, Senior Manager (Legal) Vs. Abdul Samad and Another, (2018) 3 SCC 622
+    * State of West Bengal & Others Vs. Associated Contractors, (2015) 1 SCC 32
+    * M/s. OCI Corporation Vs. Kandla Export Corporation (Misc. Civil Application (For Transfer) No. 2969 of 2016 filed in Misc. Civil Application No. 2977 of 2016 decided on 11.11.2016)
+    * State of Maharashtra through Executive Engineer, Road Development Division No. 111, Panvel & Another Vs. Atlanta Limited, (2014) 11 SCC 619
+    * Vijay Cotton and Fiber Company Vs. Agarwal Cotton Spinning Private Limited, R/Appeal No. 216 of 2018 decided on 11.02.2019
+    * South Easters Coalfields Limited (SECL) Through The Chief General Manager, SECL, Sohagpur Area, District Shahdol, Madhya Pradesh Vs. Padam Kumar Singhaniya (TPC No. 59 of 2017 decided on 22.01.2018)
+
+* **Further Reading:**
+    * The Arbitration and Conciliation Act, 1996
+    * The Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015
+    * Other case law on Commercial Court jurisdiction and execution of arbitral awards. 

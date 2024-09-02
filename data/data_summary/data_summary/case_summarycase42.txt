@@ -1,0 +1,101 @@
+## 1. Case Title
+
+* **Case Name:** Harpeet Singh Chhabra & Ors. vs. Mrs. Suneet Kaur Sahney & Ors.
+* **Court:** Telangana High Court
+* **Date of Judgment:** 07.09.2018
+* **Citation:**  I.A.No. 5 of 2018 In/and C.O.M.C.A.No. 2 of 2018
+
+## 2. Background and Context
+
+* **Brief Overview:** The case concerns a dispute between the petitioners (Harpreet Singh Chhabra & Ors.) and respondents (Suneet Kaur Sahney & Ors.) over a debt of Rs. 20 crores.  A settlement agreement was reached, leading to the appointment of an arbitrator. The petitioners challenged the arbitrator's appointment and later the completion of arbitration proceedings, arguing undue delay and bias. The Commercial Court terminated the arbitrator's mandate, prompting the petitioners to file a Civil Revision Petition (CRP) under Article 227 of the Constitution.
+* **Key Issues:** 
+    * Whether the Telangana High Court has jurisdiction to entertain a CRP under Article 227 of the Constitution in light of the Commercial Courts Act, 2015.
+    * Whether the arbitrator's mandate should be terminated due to undue delay in completing the arbitration proceedings. 
+    * Whether the 2015 amendments to the Arbitration and Conciliation Act apply to the present case.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * Article 227 of the Constitution of India
+    * Section 8, 13, and 14 of the Commercial Courts Act, 2015
+    * Section 12, 14, and 26 of the Arbitration and Conciliation Act, 1996
+    * Section 29-A of the Arbitration and Conciliation (Amendment) Act, 2015
+* **Precedents Cited:**
+    * L. Chandra Kumar v. Union of India (1997) 3 SCC 261
+    * State v. Navjot Sandhu (2003) 6 SCC 641
+    * Suryadev Rai v. Ram Chander Rai & Ors. (2003) 6 SCC 675
+    * Shalini Shyam Shetty & Anr. v. Rajendra Shankar Patil (2010) 8 SCC 329
+    * Coal India Ltd. & Ors. v. Saroj Kumar Mishra (2007) 9 SCC 625
+    * NBCC Ltd. v. J.G. Engineering (2010) 2 SCC 385
+    * Haryana Packaids Pvt. Ltd., v. Indian Oil Corporation Limited (2015) 2 ARBLR 242 (Delhi)
+    * B.C.C.I. vs. Kochi Cricket Private Limited (2018) SCC Online SC 232
+    * State of Gujarat v. Union of India (R/Special Civil Application No.737 of 2018)
+    * M/s. Hindustan Wires Limited v. Mr. R.Suresh (2013 SCC online Bomb. 547)
+    * Jayesh H.Pandya v. Subhtex India Limited (2008 (5) MHLJ 749)
+    * Bhupinder Singh Bindra v. Union of India & Anr. (1995) 5 SCC 329
+    * Vijay Hiralal v. J.N.Port Trust (2005) 1 MHLJ 884
+    * Snehadeep Auto Centre v. Hindustain Petroleum Corporation Limited (MANU/MH/0504/2012)
+    * Shyam Telecom Ltd., v. Arm Ltd. (2004) 3 ARBLR 146 (Delhi)
+    * Mascon Multiservices and Consultants Private Limited vs. Bharat Oman Refineries Limited (2008) 6 Bombay CR 611)
+    * Ramchandra Rungta v. Ram Swarup Rungta (AIR 2015 Calcutta 24)
+    * Jayesh H.Pandya (7 supra)
+    * Tufan Chatterjee v. Rangan Dhar (AIR 2016 Cal. 213)
+    * Raffles Design International India Private Limited & Ors. v. Educomp Professional Education Limited & Ors. (2016) 6 ARBLR 426 (Delhi)
+    * State of Arunachal Pradesh v. Subhash Projects and Marketing Limited (2007 (1) Arb.LR 564 (Gauhati) (DB)
+* **Legal Doctrines:**
+    * **Supervisory Jurisdiction of High Courts:** The High Court's power of superintendence under Article 227 of the Constitution.
+    * **Waiver by Conduct:**  The principle that a party can waive their right to object to non-compliance with a time limit by participating in the proceedings without raising timely objection.
+    * **Termination of Arbitrator's Mandate:** Circumstances under which the mandate of an arbitrator can be terminated due to undue delay, bias, or inability to act.
+    * **Interpretation of Statutes:** The principles of statutory interpretation applied to the provisions of the Commercial Courts Act and Arbitration and Conciliation Act.
+
+## 4. Arguments Presented
+
+* **Appellant's Argument:** 
+    * The petitioners argued that the Commercial Court's order terminating the arbitrator's mandate was incorrect, primarily based on the grounds of undue delay and bias.
+    * They contended that the delay was not due to the arbitrator's fault but was caused by the respondents' actions and their participation in the proceedings after the prescribed time limit.
+    * They argued that the respondents waived their right to object to the delay by participating in the proceedings and even by appealing to the Supreme Court against the High Court's order setting a time limit.
+    * They challenged the applicability of the 2015 Amendment Act to the case, arguing that the arbitration proceedings began before the Amendment Act came into force.
+* **Respondent's Argument:** 
+    * The respondents argued that the High Court lacked jurisdiction to entertain a CRP under Article 227 because the Commercial Courts Act restricted such revisions.
+    * They asserted that the arbitrator failed to complete the proceedings within the time limit fixed by the High Court, leading to the automatic termination of his mandate.
+    * They claimed that the petitioners had not raised any objections regarding the time limit in the previous proceedings and that their participation in the proceedings after the stipulated period did not constitute a waiver.
+    * They argued that the 2015 Amendment Act applied to the case, as the amendment was prospective and applied to Court proceedings commenced after the Act came into force.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The Court held that the High Court's supervisory jurisdiction under Article 227 of the Constitution was not taken away by the Commercial Courts Act. The Court clarified that while Section 8 of the Act restricted revisions against interlocutory orders, it did not bar the High Court's constitutional jurisdiction under Article 227.
+    * The Court found that the respondents had participated in the proceedings after the time limit set by the High Court without raising any objections regarding the delay. 
+    * The Court emphasized that the delay was not solely the arbitrator's fault, and the respondents had actively contributed to it through their own actions.
+    * The Court determined that the 2015 Amendment Act did not apply to the case as the arbitration proceedings had begun before the Amendment Act came into effect.
+* **Interpretation of Law:**
+    * The Court extensively discussed the legal principles governing the High Court's supervisory jurisdiction under Article 227 and its application in the context of the Commercial Courts Act.
+    * The Court carefully analyzed the provisions of the Arbitration and Conciliation Act, 1996, particularly Section 14, which deals with the termination of an arbitrator's mandate due to undue delay. 
+    * The Court interpreted Section 26 of the Arbitration and Conciliation (Amendment) Act, 2015, to establish that the Amendment Act was prospective in nature and did not apply to arbitral proceedings commenced before the date of its implementation.
+* **Application of Law:**
+    * The Court applied the legal principles discussed to the specific facts of the case, examining the sequence of events and the conduct of the parties.
+    * The Court weighed the arguments presented by both sides, meticulously analyzing the evidence and precedents cited.
+    * Based on its analysis, the Court determined that the Commercial Court's order terminating the arbitrator's mandate was incorrect and unjustified.
+
+## 6. Judgment
+
+* **Final Decision:** The Court allowed the Civil Revision Petition and set aside the order of the Commercial Court terminating the arbitrator's mandate.
+* **Relief Granted:** The petitioners were granted the relief of having the arbitrator's mandate reinstated.
+* **Orders:** The Court ordered the Commercial Court to refrain from interfering with the arbitrator's mandate and directed the parties to proceed with the arbitration proceedings under the original 1996 Act.
+
+## 7. Implications
+
+* **Impact on Law:** The judgment reaffirms the High Court's constitutional jurisdiction under Article 227, even in cases where specific statutes like the Commercial Courts Act might seem to restrict such jurisdiction. It emphasizes that the High Court's supervisory power is vital for maintaining the smooth functioning of the judicial system and upholding justice.
+* **Future Relevance:** The case serves as a precedent for future cases where the application of the 2015 Amendment Act to pending arbitral proceedings is challenged. It clarifies the distinction between arbitral proceedings and Court proceedings in relation to arbitration, as outlined in Section 26 of the Amendment Act.
+* **Broader Context:** The judgment highlights the importance of parties acting in good faith and cooperating with the arbitration process. It underscores the potential consequences of delaying tactics and their impact on the efficient resolution of disputes.
+
+## 8. Summary Points
+
+* The High Court retained its supervisory jurisdiction under Article 227, despite the Commercial Courts Act.
+* The arbitrator's mandate was reinstated due to undue delay and the respondents' contribution to the delay.
+* The 2015 Amendment Act was not applicable to the case, as the arbitration proceedings commenced before the Act came into effect.
+
+## 9. References
+
+* The full citations for the statutes and precedents are provided in the sections above. 
+* For further reading on the topic of arbitration, you can refer to books and articles on arbitration law and the relevant legal texts. 

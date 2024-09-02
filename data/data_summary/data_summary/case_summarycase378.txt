@@ -1,0 +1,98 @@
+## 1. Case Title
+
+* **Case Name:** Reliance Industries Limited vs Oil And Natural Gas Commission
+* **Court:** Gujarat High Court
+* **Date of Judgment:** 4th April 2017
+* **Citation:** C/FA/892/2017 
+
+## 2. Background and Context
+
+* **Brief Overview:** The case arose from a dispute between Reliance Industries Limited (RIL) and Oil and Natural Gas Corporation (ONGC) over the price of natural gas supplied by ONGC to RIL's plant in Naroda, Ahmedabad. The contract between the parties was signed in 1985, but the supply of gas began in 1989. The dispute centered around whether RIL was obligated to pay the price stipulated in the original contract or a later price fixed by the Government of India in 1987.
+* **Key Issues:**
+    * Whether the 1987 Government of India Notification (Price Order) superseded the original 1985 contract regarding the price of natural gas.
+    * Whether the original contract can be considered "unexpired" under the Price Order, thus making the contractually agreed price applicable.
+    * Whether RIL's extension of a Bank Guarantee in 1990 constituted an acknowledgment of liability, thereby extending the limitation period for ONGC's suit.
+    * Whether the learned Commercial Court correctly awarded interest at 21% for the pre­-suit period and awarded interest on the entire sum awarded, including the pre­-suit interest.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * Indian Contract Act, 1872, Section 62 (Novation of contract).
+    * Limitation Act, 1963, Section 18 (Acknowledgment of liability).
+    * Code of Civil Procedure, 1908, Section 34 (Interest on principal sum adjudged).
+* **Precedents Cited:**
+    * Krishnappa Chettiar v. Somiali (AIR 1964 SC 227)
+    * Tilak Ram vs. Nathu (AIR 1967 SC 935)
+    * State of Kerala vs. T.M. Chacko ((2000) 9 SCC 722)
+* **Legal Doctrines:**
+    * Novation of Contract
+    * Acknowledgment of Liability
+    * Interest on Judgment Debt
+
+## 4. Arguments Presented
+
+* **Plaintiff’s Argument (ONGC):**
+    * The original contract was "unexpired" under the Price Order because the contract period (5 years) had not expired.
+    * The subsequent 1988 amendment to the contract did not create a new contract but only modified certain terms and conditions, leaving the original contract intact.
+    * The extension of the Bank Guarantee in 1990 constituted an acknowledgment of liability by RIL, thus extending the limitation period for the suit.
+    * The 21% pre­-suit interest was justified as per the original contract, and the interest on the entire sum awarded was lawful under the CPC.
+* **Defendant’s Argument (RIL):**
+    * The 1987 Price Order superseded the original contract as it governed the price of natural gas for all future supplies.
+    * The original contract never came into effect as gas supply commenced only after the Price Order was issued.
+    * The 1988 amendment to the contract constituted a novation of the original contract, rendering it null and void.
+    * The extension of the Bank Guarantee did not constitute an acknowledgment of liability.
+    * The Commercial Court erred in awarding pre­-suit interest at 21% and also erred in awarding interest on interest.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The 1988 amendment did not create a new contract but only modified certain terms of the original contract, which remained in effect.
+    * The original contract can be considered "unexpired" under the Price Order as the contract period had not elapsed.
+    * The extension of the Bank Guarantee did not constitute an acknowledgment of liability, and the Commercial Court erred in applying Section 18 of the Limitation Act.
+    * The pre­-suit interest award at 21% was upheld as it was justified by the original contract.
+    * The Commercial Court erred in awarding interest on the entire sum, including pre­-suit interest. Interest was only permissible on the principal sum, which was the difference between the contract price and the amount paid by RIL.
+* **Interpretation of Law:**
+    * Section 62 of the Indian Contract Act: Novation occurs when a new contract is substituted for an existing contract, with both parties agreeing to the substitution. The court found that the 1988 amendment did not meet this definition, as it only modified certain terms and conditions.
+    * Section 18 of the Limitation Act: An acknowledgment of liability must be a conscious admission of a jural relationship and a subsisting liability. The court concluded that the extension of the Bank Guarantee did not constitute such acknowledgment.
+    * Section 34 of the Code of Civil Procedure: The court determined that interest could only be awarded on the principal sum and not on interest previously awarded.
+* **Application of Law:**
+    * The court applied the principles of novation and acknowledgment of liability to the facts of the case, concluding that the original contract remained in force and that the extension of the Bank Guarantee did not extend the limitation period.
+    * The court applied Section 34 of the CPC to modify the interest award, limiting the interest calculation to the principal sum only.
+
+## 6. Judgment
+
+* **Final Decision:** The appeal was partially allowed.
+* **Relief Granted:**
+    * The judgment of the Commercial Court was confirmed regarding the price of natural gas being governed by the original contract and not the Price Order.
+    * The Commercial Court's finding regarding the limitation period was quashed and set aside, and the matter was remanded for fresh consideration.
+    * The Commercial Court's award of pre­-suit interest at 21% was upheld.
+    * The Commercial Court's award of interest on the entire sum, including pre­-suit interest, was modified. Interest was only awarded on the principal sum, which was the difference between the contract price and the amount paid by RIL.
+* **Orders:** The matter was remanded to the Commercial Court for deciding the issue of limitation afresh. The judgment regarding the price and pre­-suit interest was confirmed, and the interest award was modified.
+
+## 7. Implications
+
+* **Impact on Law:** The judgment reinforces the principles of novation and acknowledgment of liability, clarifying the conditions under which an original contract may be superseded or when an acknowledgment of liability may extend the limitation period.
+* **Future Relevance:** The case may be cited in future disputes involving contracts that have been amended or where the issue of acknowledgment of liability arises.
+* **Broader Context:** The judgment underscores the importance of clearly defining the terms of contracts and outlining the consequences of delays in payments.
+
+## 8. Summary Points
+
+* The original contract between ONGC and RIL remained in force despite a subsequent amendment in 1988.
+* The 1987 Price Order did not supersede the original contract, as the contract was considered "unexpired" under the Price Order.
+* RIL's extension of a Bank Guarantee did not constitute an acknowledgment of liability, thereby not extending the limitation period.
+* The court upheld the award of pre­-suit interest at 21% but modified the interest award to only apply to the principal sum.
+
+## 9. References
+
+* **Citations:**
+    * Indian Contract Act, 1872, Section 62
+    * Limitation Act, 1963, Section 18
+    * Code of Civil Procedure, 1908, Section 34
+    * Krishnappa Chettiar v. Somiali (AIR 1964 SC 227)
+    * Tilak Ram vs. Nathu (AIR 1967 SC 935)
+    * State of Kerala vs. T.M. Chacko ((2000) 9 SCC 722)
+* **Further Reading:**
+    * Indian Contract Act, 1872
+    * Limitation Act, 1963
+    * Code of Civil Procedure, 1908
+    * Other cases dealing with novation of contract, acknowledgment of liability, and interest on judgment debt. 

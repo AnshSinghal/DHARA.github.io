@@ -1,0 +1,126 @@
+##  1. Case Title
+
+* **Case Name:** Madhya Pradesh Road Development Corporation Ltd. vs. M/S Vindhyachal Expressway Pvt. Ltd. 
+* **Court:** Madhya Pradesh High Court at Jabalpur
+* **Date of Judgment:** 28th February 2024
+* **Citation:**  Not provided in the text.
+
+## 2. Background and Context
+
+* **Brief Overview:** This case involves a dispute arising from a concession agreement dated 25th January 2012 for the four-laning of the Rewa to MP/UP Border Section of NH-7 Project on a Build-Operate-Transfer (BOT) basis in Madhya Pradesh. The dispute was referred to arbitration, and an award was passed on 14th January 2023 in favor of Vindhyachal Expressway Pvt. Ltd. (the Respondent) for Rs. 294 crore.  The Madhya Pradesh Road Development Corporation Ltd. (Appellant No. 1) and the Ministry of Road Transport and Highways (Appellant No. 2) challenged the award before the Commercial Court, Bhopal, under Section 34 of the Arbitration and Conciliation Act, 1996.
+* **Key Issues:** 
+    * Whether the appellants had sufficient cause for condoning the delay of 27 days in filing their application under Section 34 of the Arbitration and Conciliation Act, 1996.
+    * Whether the Commercial Court was right in rejecting the application for condonation of delay.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:** 
+    * **Arbitration and Conciliation Act, 1996:**
+        * Section 34(1): Allows for challenging an arbitral award before a court.
+        * Section 34(3): Prescribes a three-month limitation period for filing an application to set aside an award. This period can be extended by a further 30 days if "prevented by sufficient cause."
+* **Limitation Act:** Section 5: Deals with condonation of delay in filing appeals or applications.
+* **Precedents Cited:**
+    * **Chintnels India Limited vs. Bhayana Builders Private Limited (2021) 4 SCC 602**
+    * **Union of India vs. Popular Construction Co. (2001) 8 SCC**
+    * **Mahindra and Mahindra Financial Services Limited vs. Maheshbhai Tinabhai Rathod and others (2022) 4 SCC 162**
+    * **Collector, Land Acquisition Anantnag and another vs. Ms. Katiji and others (1987) 2 SCC 107**
+    * **Ramlal, Motilal and Chhotelal vs. Rewa Coalfields Ltd., AIR 1962 SC 361**
+    * **State of Haryana vs. Chandra Mani and others (1996) 3 SCC**
+    * **Haryana Urban Develpment Authority, Karnal vs. Mehta Construction Company and another (2022) 5 SCC 432**
+    * **Ministry of Youth Affair and Sports, Department of Ports Government of India vs. Ernst and Young Pvt. Ltd. 2023 SCC OnLine Del 5182**
+    * **P. Radha Bai and others vs. P. Ashok Kumar and another (2019) 13 SCC 445**
+    * **A.G. Aerovision Electronics Pvt. Ltd. vs. Tata Capital Financial Services Ltd. 2018 SCC OnLine Del 10825**
+    * **Simplex Infrastructure Ltd. vs. Union of India (2019) 2 SCC**
+    * **Wander Ltd. and another vs. Antox India Pvt. Ltd. 1990 (Supp) SCC 727**
+    * **State of Himachal Pradesh vs. Himachal Techno Engineers (2010) 12 SCC 210**
+    * **Oil and Natural Gas Corporation Ltd. vs. Join Venture of Sai Rama Engineering Enterprises (Sree) and Megha Engineering and Infrastructure Ltd. (Meil) 2019 SCC OnLine Del 10456**
+    * **State of Uttar Pradesh and ors. Satish Chand Shivhare and Brothers 2022 SCC OnLine SC 2151**
+    * **The Secretary/Chief Commissioner Transport Department vs. M/s Gaurav Enterprises through its partner OMP (COMM) 351/2017 (Delhi High Court)**
+    * **State of M.P. vs. Bherulal (2020) 10 SCC 654**
+    * **State of Nagaland Vs. Lipok A.O. & others (2005) 3 SCC 752**
+    * **New India Insurance Co. Ltd. v. Shanti Misra [(1975) 2 SCC 840]**
+    * **Brij Indar Singh v. Kanshi Ram [ILR (1918) 45 Cal 94 : AIR 1917 PC 156]**
+    * **Shakuntala Devi Jain v. Kuntal Kumari [(1969) 1 SCR 1006 : AIR 1969 SC 575]**
+    * **Concord of India Insurance Co. Ltd. v. Nirmala Devi [(1979) 4 SCC 365 : 1979 SCC (Cri) 996]**
+    * **Lala Mata Din v. A. Narayanan [(1969) 2 SCC 770]**
+    * **State of Kerala v. E.K. Kuriyipe [1981 Supp SCC 72]**
+    * **Milavi Devi v. Dina Nath [(1982) 3 SCC 366]**
+    * **O.P. Kathpalia v. Lakhmir Singh [(1984) 4 SCC 66]**
+    * **Tehsildar (LA) v. K.V. Ayisumma [(1996) 10 SCC 634]**
+    * **Prabha v. Ram Parkash Kalra [1987 Supp SCC 339]**
+    * **Haryana Urban Development Authority, Karnal Vs. Mehta Construction Company and another 2022(5)SCC 432**
+    * **Collector Land Acquisition Anantnag and another Vs. Ms. Katiji and others (1987) 2 SCC 107**
+* **Legal Doctrines:**
+    * **Condonation of Delay:** The principle of "sufficient cause" for condonation of delay in filing appeals or applications.
+    * **Liberal Construction:** The need to interpret the provisions relating to condonation of delay liberally to advance substantial justice.
+    * **Public Interest:** The consideration of public interest in cases where the State is a party seeking condonation of delay.
+    * **Equality Before Law:** The principle that all litigants, including the State, should be treated equally before the law.
+
+## 4. Arguments Presented
+
+* **Appellants' Argument:**
+    * The monetary value of the award was substantial (Rs. 294 crore), and the delay of 27 days was within the condonable period of 30 days allowed under Section 34(3) of the Arbitration and Conciliation Act, 1996.
+    * The delay was caused by administrative exigencies, including changes in the position of the Managing Director of Appellant No. 1 (the nodal agency), the need for obtaining administrative approval from the Ministry of Road Transport and Highways (Appellant No. 2), and the time required for the Advocate to study the voluminous case papers (3000 pages). 
+    * The appellants offered a proper explanation for the delay and not an excuse.
+    * The appellants, being a State instrumentality and the Government of India respectively, deserved a more lenient approach regarding condonation of delay compared to private litigants.
+    * It was in the public interest to condone the delay and allow the appellants to contest the arbitration award on merits.
+* **Respondent's Argument:**
+    * The stricter language used in Section 34(3) of the Arbitration and Conciliation Act, 1996 ("prevented by sufficient cause") required a higher standard of proof for condonation of delay than Section 5 of the Limitation Act ("sufficient cause").
+    * The appellants failed to explain the delay day by day, as required under the law.
+    * The appellants could have taken more urgent steps to file the application under Section 34(1) after the Ministry granted concurrence to challenge the award on 21st February 2023.
+    * Administrative delays cannot be considered "sufficient cause" for condonation of delay under Section 34(3) of the Arbitration and Conciliation Act, 1996.
+    * The State instrumentality should not be given any special privilege regarding condonation of delay and should be treated at par with private litigants.
+    * The appellants were merely trying to delay the enforcement of the award in their favor.
+
+## 5. Court's Analysis and Reasoning
+
+* **Key Findings:**
+    * The High Court found that the delay of 27 days in filing the application was within the condonable limit of 30 days allowed under Section 34(3) of the Arbitration and Conciliation Act, 1996.
+    * The Court acknowledged that the appellants had offered a sufficient cause for the delay, which was an explanation and not an excuse.
+    * The Court found the appellants' explanation for the delay to be credible, including the time spent in arriving at consensus, obtaining approval for the fees schedule of the advocate, and the Advocate's time in studying the voluminous case papers.
+    * The Court rejected the respondent's argument that the appellants should have challenged the award without waiting for the Ministry's approval, stating that it is for the parties to decide how to challenge an award.
+* **Interpretation of Law:**
+    * The Court interpreted the word "prevent" in Section 34(3) of the Arbitration and Conciliation Act, 1996 to encompass not only physical obstruction but also actions that hindered or impeded a process.
+    * The Court recognized that the law of limitation is founded on public policy, but it should not be applied in a manner that results in a miscarriage of justice.
+    * The Court acknowledged that the State instrumentality should not be given special treatment in terms of condonation of delay, but it also highlighted the need for a pragmatic and justice-oriented approach when dealing with the State, considering the nature of its functioning and the potential impact of delay on public interest.
+* **Application of Law:**
+    * The Court applied the principle of liberal construction to the provision on condonation of delay, considering the substantial value of the award and the reasonable explanation offered by the appellants for the delay.
+    * The Court balanced the need for adherence to the law of limitation with the need to ensure that the appellants were not denied the opportunity to have their case heard on merits.
+
+## 6. Judgment
+
+* **Final Decision:** The High Court allowed the appeal.
+* **Relief Granted:** The order of the Commercial Court rejecting the appellants' application for condonation of delay was set aside. The Commercial Court was directed to proceed with the disposal of the application under Section 34 of the Arbitration and Conciliation Act, 1996 in accordance with law.
+* **Orders:** 
+    * The application for condonation of delay filed by the appellants under Section 34(3) of the Arbitration and Conciliation Act, 1996 was allowed.
+    * The Commercial Court was instructed to hear the appellants' application under Section 34 of the Arbitration and Conciliation Act, 1996 on merits.
+
+## 7. Implications
+
+* **Impact on Law:**
+    * The judgment reaffirms the principle of liberal construction of provisions relating to condonation of delay.
+    * It emphasizes the need for courts to take a pragmatic and justice-oriented approach when dealing with condonation of delay, especially in cases where the State is involved.
+    * The judgment clarifies that "sufficient cause" for condonation of delay under Section 34(3) of the Arbitration and Conciliation Act, 1996 can encompass actions that hinder or impede a process, not just physical obstruction.
+* **Future Relevance:**
+    * The judgment will provide guidance to courts in future cases involving condonation of delay in cases involving the State, particularly under Section 34(3) of the Arbitration and Conciliation Act, 1996.
+* **Broader Context:**
+    * The judgment highlights the tension between the need to adhere to legal timelines and the need to ensure fairness and justice in the legal system.
+    * It underscores the importance of considering the specific circumstances and the broader context of a case when dealing with condonation of delay.
+
+## 8. Summary Points
+
+* The High Court condoned a 27-day delay in filing an application challenging an arbitral award under Section 34 of the Arbitration and Conciliation Act, 1996.
+* The Court found that the appellants provided a sufficient cause for the delay, including administrative exigencies, the need for consensus, and the time taken by the Advocate to study the case papers.
+* The Court recognized the need for a pragmatic and justice-oriented approach in condonation of delay cases involving the State.
+* The Court emphasized that the word "prevent" in Section 34(3) of the Act should be interpreted broadly to encompass actions that hinder or impede a process.
+* The judgment highlights the importance of balancing legal timelines with ensuring fairness and justice in the legal system.
+
+## 9. References
+
+* **Arbitration and Conciliation Act, 1996**
+* **Limitation Act** 
+* All the cases cited in the judgment are listed above in the "Precedents Cited" section.
+* **Further Reading:**
+    * Articles and case summaries on condonation of delay under the Arbitration and Conciliation Act, 1996.
+    * Legal texts and commentaries on the law of limitation in India.
+

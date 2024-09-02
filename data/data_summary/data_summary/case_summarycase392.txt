@@ -1,0 +1,96 @@
+## Case Title:
+
+* **Case Name:** The Executive Engineer vs Sri.S.V. Bandi
+* **Court:** Karnataka High Court
+* **Date of Judgment:** 20th January 2023
+* **Citation:** Not Provided
+
+## Background and Context:
+
+* **Brief Overview:** The case revolves around a dispute between the Executive Engineer (appellant) of the Minor Irrigation Department and Sri.S.V. Bandi (respondent/claimant) regarding a bridge cum barrage construction contract. The dispute arose after the bridge's height was increased, leading to alleged cost escalation and delays in design approval.
+* **Key Issues:** 
+    * **Jurisdiction of Arbitrator:** Whether the designated judge properly appointed the sole arbitrator and if the agreed procedure for appointing an arbitrator was followed. 
+    * **Waiver of Objection:** Whether the appellant waived his right to object to the arbitrator's jurisdiction by participating in the arbitration proceedings.
+    * **Validity of the Award:** Whether the award granted by the arbitrator was based on sufficient evidence and if the quantum of the award was justified.
+
+## Legal Principles Involved:
+
+* **Relevant Statutes and Provisions:**
+    * **Arbitration and Conciliation Act, 1996 (Act, 1996):**
+        * **Section 4:** Waiver of right to object.
+        * **Section 11(6):** Appointment of arbitrator by the court.
+        * **Section 16:** Objection to jurisdiction of the arbitrator.
+        * **Section 34:** Setting aside arbitral awards.
+        * **Section 37:** Appeal against an order under Section 34.
+    * **Section 34(2A):** Setting aside award due to patent illegality.
+* **Precedents Cited:**
+    * **S.B.P. & Co. vs. Patel Engineering Ltd and another (2005) 6 SCC 2888:** Defines the judicial nature of orders under Section 11(6) and the procedures involved.
+    * **Associate Builders vs. DDA (2015) 3 SCC 49:**  Focuses on the validity of awards in terms of evidence and legal principles.
+    * **Union of India, Central Public Works Department, Bengaluru vs. M/s. Warsaw Engineers and Another (ILR 2022 KAR 251):** Emphasizes the need for proper consideration of grounds during Section 34 applications.
+* **Legal Doctrines:**
+    * **Waiver:** The voluntary relinquishment of a known right.
+    * **Jurisdiction:** The legal power of a court or tribunal to hear a case.
+    * **Patent Illegality:** An obvious error or inconsistency in the award that renders it invalid.
+
+## Arguments Presented:
+
+* **Appellant's Argument:**
+    * The arbitrator lacked jurisdiction because he was not appointed according to the agreed procedure outlined in the contract. 
+    * The appellant did not consent to the appointment of the arbitrator, nor was the arbitrator appointed by the designated court.
+    * The appellant objected to the arbitrator's jurisdiction but was ignored.
+    * The award is based on insufficient evidence and is excessive, particularly regarding loss of profit, overheads, and idle men/machinery. 
+* **Respondent/Claimant's Argument:**
+    * The designated judge's order in CMP No. 511/2013 implicitly appointed the arbitrator, and this was not challenged. 
+    * The appellant participated in the arbitration proceedings without objecting to the arbitrator's jurisdiction, thereby waiving his right to do so. 
+    * The appellant's claim statement before the arbitrator acknowledged the arbitrator's authority.
+    * The award is supported by evidence and is justified given the delay caused by the appellant.
+
+## Court's Analysis and Reasoning:
+
+* **Key Findings:**
+    * The court found that the designated judge did not explicitly appoint the arbitrator and did not consider the agreed procedure for appointing an arbitrator. 
+    * The court recognized that the order in CMP No. 511/2013 did not address the key issue of the court's jurisdiction to appoint the arbitrator under the agreed procedure.
+    * The court found that the appellant had not properly raised his objections to the arbitrator's jurisdiction within the stipulated timeframe.
+    * The court acknowledged the grounds raised by the appellant regarding the quantum of the award, finding them potentially problematic in light of the contract value and the potential profit margin.
+* **Interpretation of Law:**
+    * The court applied the principles established in the S.B.P. & Co. case, emphasizing the judicial nature of orders under Section 11(6) and the need for the designated court to address the validity of the appointment process.
+    * The court interpreted Section 4 of the Act, 1996 to determine the conditions for waiver of objections relating to the agreed procedure.
+    * The court interpreted Section 16(4) and Section 34(2A) of the Act, 1996 to assess the validity of the award and the legal grounds for setting it aside.
+* **Application of Law:**
+    * The court analyzed the order in CMP No. 511/2013 to determine if it satisfied the requirements for valid appointment under Section 11(6) of the Act, 1996.
+    * The court examined the appellant's participation in the arbitration proceedings to determine if it constituted a waiver of objections under Section 4 of the Act, 1996.
+    * The court assessed the grounds raised by the appellant in the Section 34 application against the criteria outlined in Section 34 and 34(2A) of the Act, 1996.
+
+## Judgment:
+
+* **Final Decision:** The appeal was partially allowed.
+* **Relief Granted:** The court set aside the judgment of the Commercial Court and remitted the case back for further consideration.
+* **Orders:** The Commercial Court was directed to re-examine the case, considering:
+    * Whether the appellant had sufficient grounds to raise the jurisdiction objection under Section 16(4) of the Act, 1996.
+    * Whether the appellant's participation in the proceedings constituted a waiver of objections under Section 4 of the Act, 1996.
+    * Whether the grounds raised under Section 34 and 34(2A) of the Act, 1996 warranted interference with the award.
+
+## Implications:
+
+* **Impact on Law:** The judgment reinforces the judicial nature of orders under Section 11(6) of the Act, 1996 and the need for the designated court to ensure proper procedural compliance. It also emphasizes the need for courts to carefully consider grounds for challenging arbitral awards under Section 34 of the Act, 1996.
+* **Future Relevance:** This case can serve as a precedent for future cases involving similar disputes regarding the appointment of arbitrators and the validity of arbitral awards. It highlights the importance of following the agreed procedures for appointing arbitrators and clearly stating objections to the arbitrator's jurisdiction within the stipulated timeframe.
+* **Broader Context:** The case underscores the complexities of contract disputes involving construction projects and the importance of clear contractual provisions for resolving disputes. It also demonstrates the challenges involved in interpreting and applying the provisions of the Arbitration and Conciliation Act, 1996.
+
+## Summary Points:
+
+* **Key Takeaways:**
+    * The designated court did not properly appoint the arbitrator in accordance with the contract. 
+    * The appellant failed to raise his objections to the arbitrator's jurisdiction in a timely manner. 
+    * The award was potentially problematic in terms of its quantum and lacked proper consideration of evidence.
+    * The case highlights the importance of following the agreed procedures for arbitration and raising objections within the stipulated timeframes.
+
+## References:
+
+* **Citations:**
+    * Arbitration and Conciliation Act, 1996 (Sections 4, 11(6), 16, 34, 34(2A), 37).
+    * S.B.P. & Co. vs. Patel Engineering Ltd and another (2005) 6 SCC 2888.
+    * Associate Builders vs. DDA (2015) 3 SCC 49.
+    * Union of India, Central Public Works Department, Bengaluru vs. M/s. Warsaw Engineers and Another (ILR 2022 KAR 251).
+* **Further Reading:** 
+    * The Arbitration and Conciliation Act, 1996
+    * Other cases related to arbitration and construction contracts. 

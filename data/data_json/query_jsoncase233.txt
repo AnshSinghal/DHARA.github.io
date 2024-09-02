@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A developer entered into a development agreement with a landowner to develop a plot of land for residential purposes. The developer paid a portion of the consideration but the landowner failed to obtain the necessary permissions for the development. The developer filed a suit for specific performance of the development agreement. The landowner argued that the suit should be transferred to the Commercial Court as it involved a commercial dispute. Does the development agreement fall within the definition of a 'commercial dispute' under the Commercial Courts Act, 2015?",
+    "Legal Principles": "The Commercial Courts Act, 2015 defines a 'commercial dispute' as a dispute arising out of agreements relating to immovable property used exclusively in trade or commerce. The Supreme Court in Ambalal Sarabhai Enterprises Ltd. v. K.S. Infraspace LLP & Anr. held that the word 'used' in this context means 'actually used' and not 'likely to be used' or 'ready for use'.",
+    "Relevant Sections": "Section 2 (1) (c) (vii) of the Commercial Courts Act, 2015: (vii) agreements relating to immovable property used exclusively in trade or commerce;",
+    "Context": "Jurisdiction: India, Case Type: Suit for specific performance of a development agreement"
+  },
+  {
+    "Query": "A construction company entered into a contract with a homeowner to build a residential house. The construction company failed to complete the construction on time and within the agreed budget. The homeowner filed a suit against the construction company for breach of contract and sought damages. The construction company argued that the suit should be transferred to the Commercial Court as it involved a commercial dispute. Does the construction contract fall within the definition of a 'commercial dispute' under the Commercial Courts Act, 2015?",
+    "Legal Principles": "The Commercial Courts Act, 2015 defines a 'commercial dispute' as a dispute arising out of construction and infrastructure contracts, including tenders. The Supreme Court in Sushil Kumar Agarwal v. Meenakshi Sadhu & Ors. distinguished between a 'pure construction contract' and other types of development agreements.",
+    "Relevant Sections": "Section 2 (1) (c) (vi) of the Commercial Courts Act, 2015: (vi) construction and infrastructure contracts, including tenders;",
+    "Context": "Jurisdiction: India, Case Type: Suit for breach of contract"
+  },
+  {
+    "Query": "Two parties entered into a joint venture agreement to develop a commercial property. One party alleged that the other party breached the agreement by failing to contribute its share of the investment. The first party filed a suit against the second party for breach of contract and sought damages. The second party argued that the suit should be transferred to the Commercial Court as it involved a commercial dispute. Does the joint venture agreement fall within the definition of a 'commercial dispute' under the Commercial Courts Act, 2015?",
+    "Legal Principles": "The Commercial Courts Act, 2015 defines a 'commercial dispute' as a dispute arising out of joint venture agreements. The Act also provides for the transfer of pending suits relating to commercial disputes to Commercial Courts.",
+    "Relevant Sections": "Section 2 (1) (c) (xi) of the Commercial Courts Act, 2015: (xi) joint venture agreements; Section 15 of the Commercial Courts Act, 2015: Transfer of Pending Suits",
+    "Context": "Jurisdiction: India, Case Type: Suit for breach of contract"
+  },
+  {
+    "Query": "A company entered into a franchise agreement with a franchisee to operate a retail store. The franchisor alleged that the franchisee breached the agreement by failing to comply with certain terms and conditions. The franchisor filed a suit against the franchisee for breach of contract and sought injunctive relief. The franchisee argued that the suit should be transferred to the Commercial Court as it involved a commercial dispute. Does the franchise agreement fall within the definition of a 'commercial dispute' under the Commercial Courts Act, 2015?",
+    "Legal Principles": "The Commercial Courts Act, 2015 defines a 'commercial dispute' as a dispute arising out of franchising agreements. The Act also provides for the jurisdiction of Commercial Courts to try all suits and applications relating to commercial disputes.",
+    "Relevant Sections": "Section 2 (1) (c) (viii) of the Commercial Courts Act, 2015: (viii) franchising agreements; Section 6 of the Commercial Courts Act, 2015: Jurisdiction of Commercial Courts",
+    "Context": "Jurisdiction: India, Case Type: Suit for breach of contract"
+  },
+  {
+    "Query": "A company entered into a distribution agreement with a distributor to sell its products. The distributor alleged that the company breached the agreement by failing to provide adequate supply of products. The distributor filed a suit against the company for breach of contract and sought damages. The company argued that the suit should be transferred to the Commercial Court as it involved a commercial dispute. Does the distribution agreement fall within the definition of a 'commercial dispute' under the Commercial Courts Act, 2015?",
+    "Legal Principles": "The Commercial Courts Act, 2015 defines a 'commercial dispute' as a dispute arising out of distribution and licensing agreements. The Act also provides for the transfer of pending suits relating to commercial disputes to Commercial Courts.",
+    "Relevant Sections": "Section 2 (1) (c) (ix) of the Commercial Courts Act, 2015: (ix) distribution and licensing agreements; Section 15 of the Commercial Courts Act, 2015: Transfer of Pending Suits",
+    "Context": "Jurisdiction: India, Case Type: Suit for breach of contract"
+  },
+  {
+    "Query": "A company hired a consultant to provide business advice. The company alleged that the consultant failed to provide competent advice and caused financial losses to the company. The company filed a suit against the consultant for negligence and breach of contract. The consultant argued that the suit should be transferred to the Commercial Court as it involved a commercial dispute. Does the consultancy agreement fall within the definition of a 'commercial dispute' under the Commercial Courts Act, 2015?",
+    "Legal Principles": "The Commercial Courts Act, 2015 defines a 'commercial dispute' as a dispute arising out of management and consultancy agreements. The Act also provides for the jurisdiction of Commercial Courts to try all suits and applications relating to commercial disputes.",
+    "Relevant Sections": "Section 2 (1) (c) (x) of the Commercial Courts Act, 2015: (x) management and consultancy agreements; Section 6 of the Commercial Courts Act, 2015: Jurisdiction of Commercial Courts",
+    "Context": "Jurisdiction: India, Case Type: Suit for negligence and breach of contract"
+  },
+  {
+    "Query": "A company entered into a technology development agreement with a technology provider. The company alleged that the technology provider failed to deliver the agreed upon technology on time. The company filed a suit against the technology provider for breach of contract and sought damages. The technology provider argued that the suit should be transferred to the Commercial Court as it involved a commercial dispute. Does the technology development agreement fall within the definition of a 'commercial dispute' under the Commercial Courts Act, 2015?",
+    "Legal Principles": "The Commercial Courts Act, 2015 defines a 'commercial dispute' as a dispute arising out of technology development agreements. The Act also provides for the transfer of pending suits relating to commercial disputes to Commercial Courts.",
+    "Relevant Sections": "Section 2 (1) (c) (xvi) of the Commercial Courts Act, 2015: (xvi) technology development agreements; Section 15 of the Commercial Courts Act, 2015: Transfer of Pending Suits",
+    "Context": "Jurisdiction: India, Case Type: Suit for breach of contract"
+  },
+  {
+    "Query": "A company registered a trademark for its product. Another company allegedly infringed the trademark by using a similar mark for its product. The first company filed a suit against the second company for trademark infringement and sought injunctive relief. The second company argued that the suit should be transferred to the Commercial Court as it involved a commercial dispute. Does the trademark infringement dispute fall within the definition of a 'commercial dispute' under the Commercial Courts Act, 2015?",
+    "Legal Principles": "The Commercial Courts Act, 2015 defines a 'commercial dispute' as a dispute arising out of intellectual property rights relating to registered and unregistered trademarks. The Act also provides for the jurisdiction of Commercial Courts to try all suits and applications relating to commercial disputes.",
+    "Relevant Sections": "Section 2 (1) (c) (xvii) of the Commercial Courts Act, 2015: (xvii) intellectual property rights relating to registered and unregistered trademarks, copyright, patent, design, domain names, geographical indications and semiconductor integrated circuits; Section 6 of the Commercial Courts Act, 2015: Jurisdiction of Commercial Courts",
+    "Context": "Jurisdiction: India, Case Type: Suit for trademark infringement"
+  },
+  {
+    "Query": "A company entered into an agreement to sell goods to a buyer. The buyer failed to pay for the goods as agreed. The seller filed a suit against the buyer for recovery of the purchase price. The buyer argued that the suit should be transferred to the Commercial Court as it involved a commercial dispute. Does the agreement for sale of goods fall within the definition of a 'commercial dispute' under the Commercial Courts Act, 2015?",
+    "Legal Principles": "The Commercial Courts Act, 2015 defines a 'commercial dispute' as a dispute arising out of agreements for sale of goods or provision of services. The Act also provides for the transfer of pending suits relating to commercial disputes to Commercial Courts.",
+    "Relevant Sections": "Section 2 (1) (c) (xviii) of the Commercial Courts Act, 2015: (xviii) agreements for sale of goods or provision of services; Section 15 of the Commercial Courts Act, 2015: Transfer of Pending Suits",
+    "Context": "Jurisdiction: India, Case Type: Suit for recovery of purchase price"
+  },
+  {
+    "Query": "A company entered into an insurance contract with an insurer. The company suffered a loss and made a claim under the insurance policy. The insurer refused to pay the claim. The company filed a suit against the insurer for recovery of the insurance amount. The insurer argued that the suit should be transferred to the Commercial Court as it involved a commercial dispute. Does the insurance dispute fall within the definition of a 'commercial dispute' under the Commercial Courts Act, 2015?",
+    "Legal Principles": "The Commercial Courts Act, 2015 defines a 'commercial dispute' as a dispute arising out of insurance and re-insurance. The Act also provides for the jurisdiction of Commercial Courts to try all suits and applications relating to commercial disputes.",
+    "Relevant Sections": "Section 2 (1) (c) (xx) of the Commercial Courts Act, 2015: (xx) insurance and re-insurance; Section 6 of the Commercial Courts Act, 2015: Jurisdiction of Commercial Courts",
+    "Context": "Jurisdiction: India, Case Type: Suit for recovery of insurance amount"
+  }
+]
+```

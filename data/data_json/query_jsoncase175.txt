@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A firm has filed a suit against a broker for non-payment of money received from selling goods. The broker claims the suit is barred as the plaint does not disclose a cause of action.  Can the court reject the plaint based on this argument? ",
+    "Legal Principles": "The plaint must disclose a cause of action for it to be maintainable.  The court must determine if the plaint, when read as a whole, sets out a bundle of facts that support the plaintiff's right to relief.  Technical arguments alone cannot be used to deprive a plaintiff of their right to relief.  The court should consider the substance of the plaint and determine if the alleged facts create a cause of action.",
+    "Relevant Sections": "Order VII Rule 11(a) CPC, Section 8 of the Commercial Courts Act, 2015",
+    "Context": "This is a commercial suit regarding non-payment of money received by a broker for selling goods. The case involves interpretation of Order VII Rule 11 CPC regarding the disclosure of a cause of action in the plaint."
+  },
+  {
+    "Query": "A company claims a broker failed to pay money received from selling goods and files a suit. The broker argues the company needs to join the buyers as necessary parties in the suit. Is the broker's argument valid in this case? ",
+    "Legal Principles": "The plaintiff is responsible for determining who are necessary parties in a suit.  The court must decide whether the absence of a party would prevent a complete and effective adjudication of the dispute.  A plaintiff cannot be compelled by a defendant to include specific parties in a suit, unless their absence would prejudice the adjudication.",
+    "Relevant Sections": "Order I Rule 10 CPC",
+    "Context": "This is a commercial suit regarding non-payment of money received by a broker for selling goods. The case involves interpreting Order I Rule 10 CPC regarding the necessary parties in a suit."
+  },
+  {
+    "Query": "A plaintiff attempts to introduce photocopies of receipts as evidence in a suit. The defendant argues that the original receipts are in their possession and the plaintiff has failed to fulfill the requirements for secondary evidence. Is the defendant's argument correct? ",
+    "Legal Principles": "Secondary evidence can be admitted if the original is shown to be in the possession of the adverse party or is otherwise unavailable.  The plaintiff must make reasonable efforts to obtain the original documents.  The court must determine if the plaintiff has met the conditions under Section 65 of the Indian Evidence Act, 1872, including providing notice to the adverse party.",
+    "Relevant Sections": "Section 65 of the Indian Evidence Act, 1872",
+    "Context": "This is a commercial suit where the plaintiff seeks to introduce photocopies of receipts as evidence. The case involves interpreting the provisions of Section 65 of the Indian Evidence Act regarding secondary evidence."
+  },
+  {
+    "Query": "A plaintiff seeks to introduce photocopies of receipts as evidence, claiming the originals are in the defendant's possession. The defendant argues that the photocopies are not admissible as secondary evidence. Can the plaintiff still rely on the photocopies? ",
+    "Legal Principles": "Secondary evidence can be admitted if the original is shown to be in the possession of the adverse party or is otherwise unavailable. The plaintiff must make reasonable efforts to obtain the original documents.  The court must determine if the plaintiff has met the conditions under Section 65 of the Indian Evidence Act, 1872, including providing notice to the adverse party.",
+    "Relevant Sections": "Section 65 of the Indian Evidence Act, 1872",
+    "Context": "This is a commercial suit where the plaintiff seeks to introduce photocopies of receipts as evidence. The case involves interpreting the provisions of Section 65 of the Indian Evidence Act regarding secondary evidence."
+  },
+  {
+    "Query": "A plaintiff filed a suit, and the defendant argues that the plaint does not disclose a cause of action. Can the court reject the plaint, and if so, under what circumstances? ",
+    "Legal Principles": "A plaint must disclose a cause of action for it to be maintainable. The court must determine if the plaint, when read as a whole, sets out a bundle of facts that support the plaintiff's right to relief. Technical arguments alone cannot be used to deprive a plaintiff of their right to relief. The court should consider the substance of the plaint and determine if the alleged facts create a cause of action.",
+    "Relevant Sections": "Order VII Rule 11 CPC",
+    "Context": "This case involves a defendant arguing that the plaintiff's plaint does not disclose a cause of action. The judge needs to determine if the plaint should be rejected under Order VII Rule 11 CPC."
+  },
+  {
+    "Query": "In a suit for non-payment of money, the plaintiff wants to introduce photocopies of invoices as evidence. The defendant argues that the original invoices are in their possession, and the plaintiff failed to follow the proper procedure for introducing secondary evidence.  Should the court allow the photocopies to be admitted as evidence? ",
+    "Legal Principles": "Secondary evidence can be admitted if the original is shown to be in the possession of the adverse party or is otherwise unavailable.  The plaintiff must make reasonable efforts to obtain the original documents.  The court must determine if the plaintiff has met the conditions under Section 65 of the Indian Evidence Act, 1872, including providing notice to the adverse party.",
+    "Relevant Sections": "Section 65 of the Indian Evidence Act, 1872",
+    "Context": "This is a case where the plaintiff wants to introduce photocopies of invoices as evidence in a suit for non-payment of money.  The case involves interpreting the provisions of Section 65 of the Indian Evidence Act regarding secondary evidence."
+  },
+  {
+    "Query": "A company filed a suit against a distributor for failing to pay for goods delivered. The distributor argues that the company failed to join the retailers who purchased the goods as necessary parties to the suit. Is the distributor's argument valid in this case? ",
+    "Legal Principles": "The plaintiff is responsible for determining who are necessary parties in a suit. The court must decide whether the absence of a party would prevent a complete and effective adjudication of the dispute. A plaintiff cannot be compelled by a defendant to include specific parties in a suit, unless their absence would prejudice the adjudication.",
+    "Relevant Sections": "Order I Rule 10 CPC",
+    "Context": "This case involves a distributor arguing that the company failed to join the retailers as necessary parties in a suit for non-payment of goods. The judge needs to determine if the distributor's argument is valid based on Order I Rule 10 CPC."
+  },
+  {
+    "Query": "A plaintiff filed a suit against a broker for failing to pay money received from selling goods. The broker argues that the suit is barred by limitation, as the plaintiff did not file the suit within the prescribed time period. Is the broker's argument valid, and what factors should the court consider in determining if the suit is barred? ",
+    "Legal Principles": "Suits must be filed within the prescribed time period as per the Limitation Act, 1963.  The court must determine the applicable limitation period and the date on which the cause of action accrued.  The court should consider any valid grounds for extending the limitation period, such as fraud or the plaintiff's inability to file the suit within the prescribed time.",
+    "Relevant Sections": "The Limitation Act, 1963",
+    "Context": "This case involves a defendant arguing that the plaintiff's suit is barred by limitation. The judge needs to determine if the suit is barred based on the provisions of the Limitation Act, 1963."
+  },
+  {
+    "Query": "A contractor filed a suit against a client for non-payment of work done. The client argues that the contractor failed to provide the necessary documentation to support their claim for payment. Should the court reject the contractor's claim for lack of evidence? ",
+    "Legal Principles": "The plaintiff has the burden of proof to establish their claim.  The court may reject a claim if the plaintiff fails to provide sufficient evidence to support their allegations.  The court should consider the specific requirements for the type of claim being asserted, and the nature of the documentation needed to support the claim.",
+    "Relevant Sections": "The Indian Evidence Act, 1872",
+    "Context": "This case involves a contractor suing a client for non-payment. The client argues that the contractor did not provide necessary documentation to support their claim.  The judge needs to determine if the contractor's claim should be rejected for lack of evidence."
+  },
+  {
+    "Query": "A plaintiff seeks to introduce a copy of a letter as evidence in a suit. The defendant argues that the original letter is in the possession of the plaintiff and that the plaintiff has not fulfilled the requirements for secondary evidence. Should the court allow the copy to be admitted as evidence? ",
+    "Legal Principles": "Secondary evidence can be admitted if the original is shown to be in the possession of the adverse party or is otherwise unavailable.  The plaintiff must make reasonable efforts to obtain the original documents.  The court must determine if the plaintiff has met the conditions under Section 65 of the Indian Evidence Act, 1872, including providing notice to the adverse party.",
+    "Relevant Sections": "Section 65 of the Indian Evidence Act, 1872",
+    "Context": "This case involves a plaintiff seeking to introduce a copy of a letter as evidence. The defendant argues that the plaintiff has not fulfilled the requirements for secondary evidence.  The judge needs to determine if the copy should be admitted as evidence."
+  }
+]
+```

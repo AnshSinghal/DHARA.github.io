@@ -1,0 +1,112 @@
+## 1. Case Title
+
+* **Case Name:** M/s.Indus Cityscapes Constructions Pvt.Ltd. vs. M/s.Karismaa Foundations Pvt.Ltd.
+* **Court:** Madras High Court
+* **Date of Judgment:** 26th September 2019
+* **Citation:** O.S.A.No.107/2019
+
+## 2. Background and Context
+
+* **Brief Overview:** This case involved a dispute between two construction companies, M/s.Indus Cityscapes Constructions Pvt.Ltd. (Appellant) and M/s.Karismaa Foundations Pvt.Ltd. (Respondent). The dispute arose from a turnkey construction contract entered into in 2009, where the Respondent agreed to construct a multi-storeyed residential complex for the Appellant.  After completing the work, the Respondent raised a final invoice for Rs. 86,42,840/- (including service tax) in 2013. The Appellant paid the service tax portion but failed to pay the remaining amount, leading to the legal proceedings.
+* **Key Issues:**
+    * Whether the Appellant's payment of service tax constituted an admission of liability for the remaining amount due.
+    * Whether the court could grant judgment on admission under Order XII Rule 6 of the CPC when a prior suit (C.S.No.59 of 2018) was pending between the parties.
+    * Whether the provisions of the Insolvency and Bankruptcy Code, 2016 applied to the case.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * Order XII Rule 6 of the Civil Procedure Code (CPC), 1908
+    * Order XIII-A of the CPC as inserted by the Commercial Courts Act, 2015
+    * Section 14 of the Insolvency and Bankruptcy Code, 2016
+    * Section 16 of the Commercial Courts Act, 2015
+    * Section 2(1)(c) of the Commercial Courts Act, 2015
+    * Section 433(e) of the Companies Act, 1956
+* **Precedents Cited:**
+    * Power Grid Corporation of India Ltd. vs Jyothi Structures Ltd., 2017 SCC OnLine Del 12189
+    * P.C.Gulati vs Lajya Ram AIR 1969 Del 632
+    * Indus Ind Bank vs M R. Selvakumar, O.S.A.No.274 2018 order dated 13.03.2019
+    * Himani Alloys Ltd. Vs Tata Steel Ltd., 2011 (3) Civil Court Cases 721
+    * Uttam Singh Duggal & Co. Ltd. vs. United Bank of India, 2000 (7) SCC 120
+    * Karam Kapahi vs. Lal Chand Public Charitable Trust, 2010 (4) SCC 753
+    * Jeevan Diesels and Electricals Ltd. vs. Jasbir Singh Chadha, 2010 (6) SCC 601
+    * Nagubai Ammal and others vs. B. Shama Road and others, AIR 1956 SC 593
+    * Razia Begum vs. Sahebzadi Anwar Begum, 1958 SC 886
+    * Karam Kapahi & others vs. M/s Lal Chand Public Charitable & Another, (2010) 4 SCC 753
+* **Legal Doctrines:**
+    * Admission of liability
+    * Estoppel
+    * Summary judgment
+    * Case management
+    * Interpretation of statutes
+
+## 4. Arguments Presented
+
+* **Appellant’s Argument:**
+    * The Appellant argued that the payment of service tax did not constitute an admission of liability for the remaining amount due.
+    * The Appellant pointed out the pendency of a prior suit (C.S.No.59 of 2018) and argued that both suits should be heard together.
+    * The Appellant also claimed that there were further amounts due from the Respondent for excess payments and damages due to incomplete work and delays.
+    * The Appellant argued that invoking Order XII Rule 6 of CPC was inappropriate as there were genuine disputes that needed to be resolved through a trial.
+* **Respondent’s Argument:**
+    * The Respondent argued that the payment of service tax and the acceptance of the final invoice constituted an admission of liability.
+    * The Respondent stated that the pending suit (C.S.No.59 of 2018) was merely a delaying tactic.
+    * The Respondent contended that Order XII Rule 6 was applicable as there was a clear admission of liability and that the pending suit did not negate this.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The court found that the provisions of the Insolvency and Bankruptcy Code, 2016 did not prohibit the Respondent from continuing with the suit as it was a suit "by" a corporate debtor and not "against" one.
+    * The court acknowledged the pendency of the prior suit (C.S.No.59 of 2018) and recognized the potential for conflicting judgments if both suits were tried separately.
+    * The court held that while the payment of service tax might be interpreted as tacit admission of liability, it was not conclusive and needed further explanation during a trial.
+* **Interpretation of Law:**
+    * The court thoroughly examined the provisions of the Commercial Courts Act, 2015 and Order XIII-A of the CPC, finding that the Act provided a comprehensive framework for commercial disputes, including provisions for summary judgment.
+    * The court analyzed the provisions of the Insolvency and Bankruptcy Code, 2016, concluding that the moratorium provisions only applied to proceedings "against" a corporate debtor, not those initiated by them.
+    * The court reviewed the precedents cited by both parties, finding that while Order XII Rule 6 could be used for summary judgment based on admissions, it should not be used when there were genuine disputes or when a prior suit was pending that could lead to conflicting judgments.
+* **Application of Law:**
+    * The court applied the provisions of the Commercial Courts Act, 2015 and Order XIII-A of the CPC, determining that the Act had effectively superseded Order XII Rule 6 of the CPC for commercial disputes.
+    * The court considered the specific facts of the case and concluded that while the Respondent's arguments regarding admission of liability had some merit, the case required further investigation through a trial. 
+
+## 6. Judgment
+
+* **Final Decision:** The court modified the impugned order of the Single Judge, partly allowing the appeal.
+* **Relief Granted:**
+    * The Appellant was directed to deposit the balance of the amount ordered by the Single Judge to the credit of C.S.No.632 of 2018 within six weeks.
+    * Both suits (C.S.No.59 of 2018 and C.S.No.632 of 2018) were ordered to be listed together for final disposal according to the provisions of the Commercial Courts Act, 2015.
+* **Orders:**
+    * The impugned order was modified to allow a joint trial of both suits.
+    * The appeal was partly allowed, and the connected Miscellaneous Petitions were closed.
+
+## 7. Implications
+
+* **Impact on Law:**
+    * The judgment clarifies the application of the Commercial Courts Act, 2015 in relation to Order XII Rule 6 of the CPC.
+    * The judgment reinforces the principle that summary judgment should be granted cautiously, particularly when there are genuine disputes or pending suits that may lead to conflicting judgments.
+* **Future Relevance:**
+    * The judgment provides guidance for future cases involving commercial disputes and the use of Order XII Rule 6 of the CPC.
+    * It also emphasizes the importance of considering the provisions of the Insolvency and Bankruptcy Code, 2016 in relevant situations.
+* **Broader Context:**
+    * The judgment highlights the need for efficient and expeditious resolution of commercial disputes.
+    * It underscores the importance of ensuring fairness and due process for all parties involved in legal proceedings.
+
+## 8. Summary Points
+
+* The Madras High Court ruled that the Appellant's payment of service tax did not definitively constitute an admission of liability for the remaining amount due.
+* The court concluded that Order XII Rule 6 of the CPC was not applicable in this case due to the pendency of a prior suit and the availability of a comprehensive framework for commercial disputes under the Commercial Courts Act, 2015.
+* The court ordered a joint trial for both suits and directed the Appellant to deposit the remaining amount to facilitate a fair resolution of the dispute. 
+
+## 9. References
+
+* **Citations:**
+    * Order XII Rule 6 of the Civil Procedure Code (CPC), 1908
+    * Order XIII-A of the CPC as inserted by the Commercial Courts Act, 2015
+    * Section 14 of the Insolvency and Bankruptcy Code, 2016
+    * Section 16 of the Commercial Courts Act, 2015
+    * Section 2(1)(c) of the Commercial Courts Act, 2015
+    * Section 433(e) of the Companies Act, 1956
+    * All other cases and statutes cited within the summary.
+
+* **Further Reading:**
+    * The Commercial Courts Act, 2015
+    * The Insolvency and Bankruptcy Code, 2016
+    * The Civil Procedure Code (CPC), 1908
+    * Other relevant case laws dealing with admission of liability, summary judgment, and commercial disputes. 

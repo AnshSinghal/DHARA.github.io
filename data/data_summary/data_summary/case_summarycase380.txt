@@ -1,0 +1,93 @@
+##  Bharat Petroleum Corporation Limited vs. Rajinder Singh Joon & Ors.
+
+**1. Case Title**
+
+* **Case Name:** Bharat Petroleum Corporation Limited vs. Rajinder Singh Joon & Ors.
+* **Court:** Delhi High Court
+* **Date of Judgment:** 10th April 2024
+* **Citation:**  RFA(COMM) 14/2024 & RFA(COMM) 15/2024
+
+**2. Background and Context**
+
+* **Brief Overview:** The dispute arose from a lease agreement between Bharat Petroleum Corporation Limited (BPCL) and the respondents, the owners of a plot in New Delhi. The lease agreement, executed in 2003, had a 20-year term and included a renewal clause. Upon the lease's expiry in 2022, the respondents refused to renew, leading BPCL to file a counterclaim seeking specific performance of the renewal clause. 
+* **Key Issues:**
+    * Whether the renewal clause in the lease agreement automatically renewed the lease for another 20 years.
+    * Whether the respondents were bound to renew the lease despite the absence of mutual agreement on the renewal period.
+    * Whether a court could grant specific performance of the renewal clause in a determinable contract. 
+
+**3. Legal Principles Involved**
+
+* **Relevant Statutes and Provisions:**
+    * **Transfer of Property Act, 1882:** Section 106 (Notice to Quit)
+    * **Code of Civil Procedure, 1908 (CPC):** Order XII Rule 6 (Summary Judgment), Order VII Rule 11 (Dismissal of Pleadings)
+    * **Commercial Courts Act, 2015:** Section 12-A (Pre-Institution Mediation)
+    * **Specific Relief Act, 1963:** Section 14(1)(c) (Specific performance of determinable contracts)
+    * **Indian Evidence Act, 1872:** Sections 91, 92, 94 (Evidence relating to documents) 
+* **Precedents Cited:**
+    * *Indian Oil Corporation v. Amritsar Gas Services and Ors., (1991) 1 SCC 533*
+    * *Rajasthan Breweries Ltd. v. The Stroh. Brewery Company, 2000 SCC Online Del 481*
+    * *V. Anantha Raju and Anr. v. T.M Narasimhan and Ors., (2021) 17 SCC 165*
+* **Legal Doctrines:**
+    * **Interpretation of Contracts:**  The court applied the principles of interpreting a contract based on its plain text and the intention of the parties.
+    * **Specific Performance:** The court examined the conditions for granting specific performance of a contract. 
+
+**4. Arguments Presented**
+
+* **Appellant's (BPCL) Argument:**
+    * The renewal clause in the lease agreement was clear and unambiguous, automatically renewing the lease for another 20 years upon the lessee (BPCL) giving notice.
+    * The parties' intention to renew the lease for another 20 years was evident from the post-litigation settlement that led to the lease agreement.
+    * The renewal of a separate Dispensing Pump and Selling License (DPSL) Agreement between the parties for a period after the lease expiry demonstrated their shared intention to renew the lease.
+    * The appellant had invoked the renewal clause by sending notice to the respondents during the lease period. 
+* **Respondent's Argument:** 
+    * The renewal clause stipulated a period of "NIL years," indicating that the parties intended to negotiate the renewal period.
+    * The appellant's letter seeking renewal acknowledged that renewal required mutual agreement.
+    * The respondents denied receiving the appellant's alleged notices to renew.
+    *  A determinable contract, like the lease agreement, could not be specifically enforced under Section 14(1)(c) of the Specific Relief Act.
+
+**5. Court’s Analysis and Reasoning**
+
+* **Key Findings:**
+    * The renewal clause contained a blank for the renewal period, indicating the intention to negotiate the duration of renewal.
+    * The appellant's own letter seeking renewal acknowledged the need for mutually agreed terms.
+    * The appellant failed to provide evidence of serving the alleged notices to renew.
+    * The separate DPSL agreement did not provide a conclusive indication of the parties' intention to renew the lease.
+* **Interpretation of Law:**
+    * The court interpreted the renewal clause based on its plain text, finding that it did not automatically renew the lease for another 20 years.
+    * The court applied the principle that a contract should be interpreted based on the expressed intent of the parties.
+    * The court relied on the principle that oral evidence cannot be admitted to contradict or vary the terms of a written contract.
+    * The court applied the provisions of Section 14(1)(c) of the Specific Relief Act, holding that specific performance of a determinable contract could not be granted.
+* **Application of Law:** 
+    * The court applied the above legal principles to the facts of the case, finding that the appellant had failed to establish a right to automatic renewal or to enforce specific performance of the renewal clause. 
+
+**6. Judgment**
+
+* **Final Decision:** The Delhi High Court dismissed both appeals filed by BPCL.
+* **Relief Granted:** The court upheld the judgment of the Commercial Court, granting possession of the property to the respondents and dismissing the appellant's counterclaim for specific performance. 
+* **Orders:** The court ordered BPCL to vacate the property and pay costs to the respondents.
+
+**7. Implications**
+
+* **Impact on Law:** The judgment clarifies that a renewal clause containing a blank for the renewal period does not automatically renew the contract for the same term. It reinforces the principle that specific performance is not available for determinable contracts.
+* **Future Relevance:** The case provides guidance on interpreting renewal clauses and the limitations of specific performance for such clauses. 
+* **Broader Context:** The judgment emphasizes the importance of clearly defining the terms of contracts, especially for renewal provisions, and the need for mutual agreement for valid renewal.
+
+**8. Summary Points**
+
+* The renewal clause in the lease agreement did not automatically renew the lease for another 20 years.
+*  The renewal required mutual agreement on the period of renewal.
+* Specific performance of a determinable contract, such as the lease agreement, is not available under the law.
+
+**9. References**
+
+* **Citations:** 
+    * Transfer of Property Act, 1882
+    * Code of Civil Procedure, 1908 (CPC)
+    * Commercial Courts Act, 2015
+    * Specific Relief Act, 1963
+    * Indian Evidence Act, 1872
+    * *Indian Oil Corporation v. Amritsar Gas Services and Ors., (1991) 1 SCC 533*
+    * *Rajasthan Breweries Ltd. v. The Stroh. Brewery Company, 2000 SCC Online Del 481*
+    * *V. Anantha Raju and Anr. v. T.M Narasimhan and Ors., (2021) 17 SCC 165*
+* **Further Reading:**
+    * Relevant sections of the statutes mentioned above.
+    * Cases dealing with the interpretation of contracts and specific performance. 

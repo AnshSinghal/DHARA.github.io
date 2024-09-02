@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A company registered in Delhi is accused of infringing on a trademark registered in Uttar Pradesh. The plaintiff claims clandestine sales of infringing products in Delhi and online advertising targeted at Delhi customers. The defendant argues that the court lacks territorial jurisdiction and that the plaintiff should have pursued pre-institution mediation under the Commercial Courts Act, 2015.",
+    "Legal Principles": "Territorial jurisdiction in trademark infringement cases, application of Order VII Rule 10 CPC, interpretation of 'urgent interim relief' under Section 12A of the Commercial Courts Act, 2015.",
+    "Relevant Sections": "Order VII Rule 10 CPC, Section 12A of the Commercial Courts Act, 2015.",
+    "Context": "Trademark infringement suit in the Delhi High Court, dealing with territorial jurisdiction and applicability of pre-institution mediation."
+  },
+  {
+    "Query": "A construction company in Mumbai files a suit against a supplier in Bangalore for breach of contract. The contract included a clause requiring pre-institution mediation in case of disputes. The plaintiff argues that the dispute involves urgent interim relief as it needs immediate access to construction materials to complete a project.",
+    "Legal Principles": "Mandatory pre-institution mediation under Section 12A of the Commercial Courts Act, 2015, interpretation of 'urgent interim relief', applicability of pre-institution mediation clause in contracts.",
+    "Relevant Sections": "Section 12A of the Commercial Courts Act, 2015.",
+    "Context": "Breach of contract suit in a Commercial Court, involving the question of pre-institution mediation and urgent interim relief."
+  },
+  {
+    "Query": "A software company in Bangalore is sued for copyright infringement by a competitor in Hyderabad. The plaintiff claims that the defendant's software uses code that is substantially similar to the plaintiff's copyrighted software. The defendant argues that the infringement occurred in Hyderabad, not Bangalore, and that the plaintiff should have pursued pre-institution mediation.",
+    "Legal Principles": "Territorial jurisdiction in copyright infringement cases, application of Order VII Rule 10 CPC, applicability of pre-institution mediation under Section 12A of the Commercial Courts Act, 2015.",
+    "Relevant Sections": "Order VII Rule 10 CPC, Section 12A of the Commercial Courts Act, 2015.",
+    "Context": "Copyright infringement suit in a Commercial Court, dealing with territorial jurisdiction and pre-institution mediation."
+  },
+  {
+    "Query": "A partnership firm in Chennai is sued by a creditor in Kolkata for non-payment of debt. The creditor argues that the partnership firm's principal place of business is in Kolkata and that the suit should be filed there. The firm argues that it operates in multiple locations and that the court in Chennai has jurisdiction.",
+    "Legal Principles": "Territorial jurisdiction in debt recovery cases, determining the principal place of business of a partnership firm, application of Order VII Rule 10 CPC.",
+    "Relevant Sections": "Order VII Rule 10 CPC.",
+    "Context": "Debt recovery suit in a Commercial Court, involving the issue of territorial jurisdiction and the location of the defendant's principal place of business."
+  },
+  {
+    "Query": "A real estate developer in Delhi files a suit against a construction company in Noida for breach of contract. The developer claims that the construction company failed to complete the project on time and within budget. The construction company argues that the contract was governed by the laws of Uttar Pradesh and that the suit should be filed in a court in Noida.",
+    "Legal Principles": "Territorial jurisdiction in breach of contract cases, application of the lex loci contractus principle, application of Order VII Rule 10 CPC.",
+    "Relevant Sections": "Order VII Rule 10 CPC.",
+    "Context": "Breach of contract suit in a Commercial Court, dealing with territorial jurisdiction and the governing law of the contract."
+  },
+  {
+    "Query": "A textile manufacturer in Ahmedabad files a suit against a supplier in Surat for supplying defective raw materials. The manufacturer claims that the defective materials caused significant financial losses. The supplier argues that the manufacturer should have pursued pre-institution mediation under the Commercial Courts Act, 2015.",
+    "Legal Principles": "Applicability of pre-institution mediation under Section 12A of the Commercial Courts Act, 2015, interpretation of 'urgent interim relief', applicability of pre-institution mediation clause in contracts.",
+    "Relevant Sections": "Section 12A of the Commercial Courts Act, 2015.",
+    "Context": "Suit for breach of contract in a Commercial Court, involving the question of pre-institution mediation and urgent interim relief."
+  },
+  {
+    "Query": "A pharmaceutical company in Mumbai is accused of infringing on a patent held by a competitor in Bangalore. The plaintiff claims that the defendant's drug uses a patented technology without permission. The defendant argues that the infringement occurred in Bangalore, not Mumbai, and that the plaintiff should have pursued pre-institution mediation.",
+    "Legal Principles": "Territorial jurisdiction in patent infringement cases, application of Order VII Rule 10 CPC, applicability of pre-institution mediation under Section 12A of the Commercial Courts Act, 2015.",
+    "Relevant Sections": "Order VII Rule 10 CPC, Section 12A of the Commercial Courts Act, 2015.",
+    "Context": "Patent infringement suit in a Commercial Court, dealing with territorial jurisdiction and pre-institution mediation."
+  },
+  {
+    "Query": "A software developer in Hyderabad files a suit against a client in Chennai for non-payment of software development fees. The client argues that the software did not meet the agreed-upon specifications and that the developer should have pursued pre-institution mediation under the Commercial Courts Act, 2015.",
+    "Legal Principles": "Applicability of pre-institution mediation under Section 12A of the Commercial Courts Act, 2015, interpretation of 'urgent interim relief', applicability of pre-institution mediation clause in contracts.",
+    "Relevant Sections": "Section 12A of the Commercial Courts Act, 2015.",
+    "Context": "Suit for breach of contract in a Commercial Court, involving the question of pre-institution mediation and urgent interim relief."
+  },
+  {
+    "Query": "A food processing company in Kolkata is sued by a competitor in Delhi for unfair competition. The plaintiff claims that the defendant is using a similar brand name and packaging that is likely to confuse consumers. The defendant argues that the court lacks territorial jurisdiction and that the plaintiff should have pursued pre-institution mediation.",
+    "Legal Principles": "Territorial jurisdiction in unfair competition cases, application of Order VII Rule 10 CPC, applicability of pre-institution mediation under Section 12A of the Commercial Courts Act, 2015.",
+    "Relevant Sections": "Order VII Rule 10 CPC, Section 12A of the Commercial Courts Act, 2015.",
+    "Context": "Unfair competition suit in a Commercial Court, dealing with territorial jurisdiction and pre-institution mediation."
+  },
+  {
+    "Query": "A distributor in Jaipur is sued by a manufacturer in Mumbai for breach of a distribution agreement. The manufacturer claims that the distributor failed to meet its sales targets and is now selling competing products. The distributor argues that the manufacturer should have pursued pre-institution mediation under the Commercial Courts Act, 2015.",
+    "Legal Principles": "Applicability of pre-institution mediation under Section 12A of the Commercial Courts Act, 2015, interpretation of 'urgent interim relief', applicability of pre-institution mediation clause in contracts.",
+    "Relevant Sections": "Section 12A of the Commercial Courts Act, 2015.",
+    "Context": "Suit for breach of contract in a Commercial Court, involving the question of pre-institution mediation and urgent interim relief."
+  }
+]
+```

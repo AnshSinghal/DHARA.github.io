@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A construction company, 'BuildRight', filed a suit against a client, 'Dream Homes', to recover payment for a completed construction project. Dream Homes, in turn, filed a counterclaim alleging defective work and claiming damages. BuildRight seeks to obtain a summary judgment on its claim based on a signed invoice and partial payment made by Dream Homes. The issue is whether a partial payment and signed invoice constitute a clear admission of liability, allowing for a summary judgment, despite the counterclaim.",
+    "Legal Principles": "Order XII Rule 6 of the Code of Civil Procedure (CPC) allows for a summary judgment based on admission of liability by the defendant. However, the admission must be clear, unambiguous, and unconditional. The court also considers the existence of a counterclaim and the possibility of conflicting orders if the claims are tried separately. ",
+    "Relevant Sections": "Order XII Rule 6 of CPC, Order XIII-A of CPC as inserted by the Commercial Courts Act, 2015, Section 14(1)(a) of the Insolvency and Bankruptcy Code 2016.",
+    "Context": "Commercial dispute in India, involving a construction contract, a claim for payment, and a counterclaim for defective work. The case involves the application of Order XII Rule 6 of CPC for summary judgment in the context of a counterclaim and the implications of the Insolvency and Bankruptcy Code 2016."
+  },
+  {
+    "Query": "A company, 'Tech Solutions', filed for insolvency proceedings against its client, 'DataCorp', due to unpaid invoices. DataCorp has a pending claim against Tech Solutions for breach of contract and is seeking damages. Tech Solutions argues that the moratorium under the Insolvency and Bankruptcy Code prohibits DataCorp from proceeding with its claim.  Determine if DataCorp can continue its claim against Tech Solutions during the insolvency proceedings.",
+    "Legal Principles": "Section 14(1)(a) of the Insolvency and Bankruptcy Code 2016 imposes a moratorium prohibiting the institution or continuation of suits or proceedings *against* a corporate debtor during the insolvency process. However, it does not prohibit proceedings *by* a corporate debtor. ",
+    "Relevant Sections": "Section 14(1)(a) of the Insolvency and Bankruptcy Code 2016.",
+    "Context": "Insolvency and Bankruptcy proceedings in India, involving a corporate debtor (Tech Solutions) and a creditor (DataCorp) with a counterclaim. The case involves the interpretation of Section 14(1)(a) of the Insolvency and Bankruptcy Code 2016 regarding the moratorium and its effect on pre-existing claims."
+  },
+  {
+    "Query": "A manufacturer, 'Green Products', filed a suit against a retailer, 'EcoMart', for unpaid invoices for delivered goods. EcoMart argued that the goods were defective and filed a counterclaim for damages. Green Products filed a summary judgment application under Order XII Rule 6 of CPC based on signed invoices. The court is considering whether the existence of a counterclaim and potential conflicting orders preclude the application of Order XII Rule 6 for summary judgment.",
+    "Legal Principles": "Order XII Rule 6 of CPC allows for summary judgment based on admission of liability, but the court has discretion to refuse it if there are other relevant issues, such as a counterclaim. The court aims to avoid conflicting orders in cases with cross-claims.",
+    "Relevant Sections": "Order XII Rule 6 of CPC, Order XIII-A of CPC.",
+    "Context": "Commercial dispute in India, involving a sale contract, non-payment of invoices, and a counterclaim for defective goods. The case involves the application of Order XII Rule 6 of CPC for summary judgment in the context of a counterclaim."
+  },
+  {
+    "Query": "A software company, 'CodeMasters', entered into a contract with a client, 'TechHub', for software development. CodeMasters filed a suit for unpaid invoices, but TechHub counterclaimed for breach of contract, alleging that the software was faulty.  CodeMasters seeks summary judgment based on a signed contract and partial payment. Analyze if TechHub's counterclaim prevents a summary judgment for CodeMasters.",
+    "Legal Principles": "Order XII Rule 6 of CPC allows for summary judgment based on admission of liability, but the court may exercise discretion to deny it if there are other relevant issues, such as a counterclaim, and the possibility of conflicting judgments."
+    "Relevant Sections": "Order XII Rule 6 of CPC, Order XIII-A of CPC.",
+    "Context": "Commercial dispute in India, involving a software development contract, non-payment of invoices, and a counterclaim for breach of contract. The case involves the application of Order XII Rule 6 of CPC for summary judgment in the context of a counterclaim."
+  },
+  {
+    "Query": "A supplier, 'Reliable Components', filed a suit against a manufacturer, 'AutoTech', for non-payment of invoices for delivered parts. AutoTech claimed that the parts were defective and filed a counterclaim for damages.  Reliable Components filed an application under Order XII Rule 6 of CPC for summary judgment. Analyze if the application under Order XII Rule 6 is appropriate, given AutoTech's counterclaim.",
+    "Legal Principles": "Order XII Rule 6 of CPC allows for a summary judgment based on admission of liability, but the court may exercise discretion to refuse it if there are other relevant issues, such as a counterclaim, and the possibility of conflicting judgments."
+    "Relevant Sections": "Order XII Rule 6 of CPC, Order XIII-A of CPC.",
+    "Context": "Commercial dispute in India involving a supply contract, non-payment of invoices, and a counterclaim for defective parts. The case involves the application of Order XII Rule 6 of CPC for summary judgment in the context of a counterclaim."
+  },
+  {
+    "Query": "A finance company, 'LoanWise', filed a suit against a borrower, 'HomeBuilder', to recover the outstanding loan amount. HomeBuilder counterclaimed alleging that LoanWise provided incorrect information about the interest rate and filed a counterclaim for damages. LoanWise seeks summary judgment based on signed loan agreement and payment history. Analyze if HomeBuilder's counterclaim prevents a summary judgment for LoanWise.",
+    "Legal Principles": "Order XII Rule 6 of CPC allows for a summary judgment based on admission of liability, but the court may exercise discretion to refuse it if there are other relevant issues, such as a counterclaim, and the possibility of conflicting judgments."
+    "Relevant Sections": "Order XII Rule 6 of CPC, Order XIII-A of CPC.",
+    "Context": "Commercial dispute in India, involving a loan agreement, non-payment of loan amount, and a counterclaim for misrepresentation of interest rate. The case involves the application of Order XII Rule 6 of CPC for summary judgment in the context of a counterclaim."
+  },
+  {
+    "Query": "A retailer, 'FashionStore', filed a suit against a supplier, 'TextileCo', for non-delivery of ordered garments. TextileCo argued that FashionStore failed to make timely payments and counterclaimed for breach of contract. FashionStore seeks summary judgment based on signed purchase order and evidence of payment. Analyze if TextileCo's counterclaim prevents a summary judgment for FashionStore.",
+    "Legal Principles": "Order XII Rule 6 of CPC allows for a summary judgment based on admission of liability, but the court may exercise discretion to refuse it if there are other relevant issues, such as a counterclaim, and the possibility of conflicting judgments."
+    "Relevant Sections": "Order XII Rule 6 of CPC, Order XIII-A of CPC.",
+    "Context": "Commercial dispute in India, involving a purchase order, non-delivery of goods, and a counterclaim for breach of contract. The case involves the application of Order XII Rule 6 of CPC for summary judgment in the context of a counterclaim."
+  },
+  {
+    "Query": "A technology consultant, 'TechConsult', filed a suit against a client, 'InnoTech', for unpaid consulting fees. InnoTech argued that TechConsult failed to deliver the agreed-upon services and counterclaimed for breach of contract. TechConsult seeks summary judgment based on a signed contract and evidence of delivered services. Analyze if InnoTech's counterclaim prevents a summary judgment for TechConsult.",
+    "Legal Principles": "Order XII Rule 6 of CPC allows for a summary judgment based on admission of liability, but the court may exercise discretion to refuse it if there are other relevant issues, such as a counterclaim, and the possibility of conflicting judgments."
+    "Relevant Sections": "Order XII Rule 6 of CPC, Order XIII-A of CPC.",
+    "Context": "Commercial dispute in India, involving a consulting contract, non-payment of fees, and a counterclaim for breach of contract. The case involves the application of Order XII Rule 6 of CPC for summary judgment in the context of a counterclaim."
+  },
+  {
+    "Query": "A marketing agency, 'PromoteNow', filed a suit against a client, 'BrandCo', for unpaid marketing services. BrandCo argued that PromoteNow failed to deliver the agreed-upon results and counterclaimed for breach of contract. PromoteNow seeks summary judgment based on signed contract and evidence of delivered services. Analyze if BrandCo's counterclaim prevents a summary judgment for PromoteNow.",
+    "Legal Principles": "Order XII Rule 6 of CPC allows for a summary judgment based on admission of liability, but the court may exercise discretion to refuse it if there are other relevant issues, such as a counterclaim, and the possibility of conflicting judgments."
+    "Relevant Sections": "Order XII Rule 6 of CPC, Order XIII-A of CPC.",
+    "Context": "Commercial dispute in India, involving a marketing services contract, non-payment of fees, and a counterclaim for breach of contract. The case involves the application of Order XII Rule 6 of CPC for summary judgment in the context of a counterclaim."
+  },
+  {
+    "Query": "An advertising agency, 'AdImpact', filed a suit against a client, 'MediaCorp', for unpaid advertising services. MediaCorp argued that AdImpact failed to deliver the agreed-upon reach and counterclaimed for breach of contract. AdImpact seeks summary judgment based on signed contract and evidence of delivered services. Analyze if MediaCorp's counterclaim prevents a summary judgment for AdImpact.",
+    "Legal Principles": "Order XII Rule 6 of CPC allows for a summary judgment based on admission of liability, but the court may exercise discretion to refuse it if there are other relevant issues, such as a counterclaim, and the possibility of conflicting judgments."
+    "Relevant Sections": "Order XII Rule 6 of CPC, Order XIII-A of CPC.",
+    "Context": "Commercial dispute in India, involving an advertising services contract, non-payment of fees, and a counterclaim for breach of contract. The case involves the application of Order XII Rule 6 of CPC for summary judgment in the context of a counterclaim."
+  }
+]
+```

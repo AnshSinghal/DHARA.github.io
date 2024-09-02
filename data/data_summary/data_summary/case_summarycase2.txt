@@ -1,0 +1,125 @@
+## 1. Case Title
+
+* **Case Name:** BGS SGS SOMA JV vs NHPC Ltd.
+* **Court:** Supreme Court of India
+* **Date of Judgment:** 10th December 2019
+* **Citation:** AIRONLINE 2019 SC 1720, (2019) 17 SCALE 369 (2019) 6 ARBILR 393, (2019) 6 ARBILR 393
+
+## 2. Background and Context
+
+* **Brief Overview:** This case involved a dispute arising out of a construction contract between BGS SGS SOMA JV (Petitioner) and NHPC Ltd. (Respondent) for the Subansri Lower Hydroelectric Project. The Petitioner claimed compensation for losses incurred due to delays and additional costs caused by the Respondent. An arbitral tribunal was constituted to resolve the dispute and awarded a substantial sum to the Petitioner. The Respondent challenged the award by filing an application under Section 34 of the Arbitration and Conciliation Act, 1996 (the "Arbitration Act, 1996") in Faridabad, Haryana. The Petitioner then filed an application seeking a return of the Section 34 petition to New Delhi on the grounds of proper jurisdiction. The Special Commercial Court at Gurugram agreed with the Petitioner and returned the petition. The Respondent appealed the Special Commercial Court's decision to the Punjab and Haryana High Court, which ultimately ruled that Faridabad, not New Delhi, had jurisdiction based on the cause of action arising in part in Faridabad.
+* **Key Issues:**
+    * **Maintainability of the appeal:** Whether an appeal against an order returning a Section 34 petition under Section 151 read with Order VII Rule 10 CPC was maintainable under Section 37 of the Arbitration Act, 1996.
+    * **Jurisdiction of the Courts:** Whether the "seat" of arbitration was in New Delhi or Faridabad, thereby determining the proper court for challenging the arbitral award.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * **Arbitration and Conciliation Act, 1996:** Sections 5, 8, 9, 151, 20, 21, 31(4), 34, 37, 42.
+    * **Commercial Courts Act, 2015:** Section 13.
+    * **Code of Civil Procedure, 1908:** Order VII, Rule 10.
+* **Precedents Cited:**
+    * **Kandla Export Corporation & Anr. v. M/s OCI Corporation & Anr. (2018) 14 SCC 715:**  This case addressed the interplay between Section 37 of the Arbitration Act, 1996 and Section 13 of the Commercial Courts Act, 2015, stating that appeals lie only within the specific categories enumerated in Section 37.
+    * **Fuerst Day Lawson Ltd. v. Jindal Exports Ltd., (2011) 8 SCC 333:** This case established that the Arbitration Act, 1996 is a self-contained code, and appeals not mentioned therein are not permissible.
+    * **Hakam Singh v. M/s. Gammon (India) Ltd., (1971) 1 SCC 286:**  This case laid down the principle that where multiple courts have jurisdiction, the forum chosen by the parties should be favored.
+    * **Bharat Aluminium Co. (BALCO) v. Kaiser Aluminium Technical Service, Inc., (2012) 9 SCC 552:** This case examined the concept of "juridical seat" and its impact on jurisdiction, concluding that the "seat" is akin to an exclusive jurisdiction clause.
+    * **Indus Mobile Distribution Private Limited v. Datawind Innovations Private Limited & Ors., (2017) 7 SCC 678:** This case further clarified the distinction between "seat" and "venue" of arbitration, holding that the designated "seat" vests exclusive jurisdiction in the Courts at that seat.
+    * **Union of India v. Hardy Exploration and Production (India) Inc., 2018 SCC Online SC 1640:** This case, which was later declared not to be good law by the Court, held that the "seat" should be determined by the arbitral tribunal, not the parties.
+    * **Reliance Industries Ltd. v. Union of India (2014) 7 SCC 603:** This case upheld the principle that the "seat" is analogous to an exclusive jurisdiction clause.
+    * **Enercon (India) Ltd. and Ors. v. Enercon GmbH and Anr. (2014) 5 SCC 1:** This case affirmed the "Shashoua principle," which states that an express designation of a venue as the "seat" is implied when no other significant contrary indicia exists.
+    * **Videocon Industries Ltd. v. Union of India (2011) 6 SCC 161:** This case addressed the issue of changing the "seat" of arbitration, holding that a written agreement is required for such a change.
+    * **Dozco India (P) Ltd. v. Doosan Infracore Co. Ltd. (2011) 16 SCC 179:** This case examined the distinction between the substantive law governing a contract and the law governing the arbitration process.
+    * **Swastik Gases Private Limited v. Indian Oil Corporation Limited (2013) 9 SCC 32:** This case established that parties can exclude all other courts by specifically designating a particular court’s jurisdiction.
+    * **B.E. Simoese Von Staraburg Niedenthal and Anr. v. Chhattisgarh Investment Limited: (2015) 12 SCC 225:** This case followed the principle of Swastik Gases (supra), affirming that parties can choose an exclusive forum.
+    * **Brahmani River Pellets Ltd. v. Kamachi Industries Ltd. 2019 SCC Online SC 929:** This case affirmed the principle that a designated venue for arbitration implies exclusive jurisdiction in the courts at that venue.
+    * **Sumitomo Heavy Industries Ltd. v. ONGC Ltd. & Ors. (1998) 1 SCC 305:** This case, decided under the Arbitration Act, 1940, was referenced in Hardy Exploration and Production (India) Inc. (supra) but distinguished based on the different legal framework of the Arbitration Act, 1996.
+    * **Venture Global Engineering v. Satyam Computer Services Ltd. & Anr., (2008) 4 SCC 190:** This case, overruled by BALCO (supra), held that a foreign award could be annulled based on the application of Indian law to the substance of the dispute.
+    * **Antrix Corporation Ltd. v. Devas Multimedia Pvt. Ltd. 2018 SCC Online Del 9338:** This case, referenced by the Respondent, addressed the appealability of an order directing a party to provide certain financial information, holding that such an order could be considered an interim measure under Section 9 of the Arbitration Act, 1996.
+* **Legal Doctrines:**
+    * **Harmonious Construction:** The court employed this doctrine to reconcile the provisions of the Arbitration Act, 1996 and the Commercial Courts Act, 2015, emphasizing the need to give effect to the specific provisions of the Arbitration Act over the more general provisions of the Commercial Courts Act.
+    * **Territoriality Principle:** The court recognized the territoriality principle in arbitration law, which anchors arbitration proceedings to a specific geographical location, thereby connecting the law governing the proceedings with the jurisdiction of the courts at that place.
+    * **Party Autonomy:**  The court acknowledged that party autonomy is paramount in arbitration agreements, allowing parties to choose the "seat" of arbitration and, in doing so, to designate the courts that will have jurisdiction over the arbitral proceedings.
+    * **Implied Exclusion:** The court applied this principle to determine whether an arbitration clause implicitly excluded the applicability of certain provisions of the Arbitration Act, 1996.
+    * **Cause of Action Test:** This test, traditionally used in civil litigation, was applied in this case to determine the jurisdiction of the courts based on where part of the cause of action arose.
+    * **Doctrine of Precedent:** The court relied heavily on previous decisions, especially those made by the Supreme Court and English courts, to determine the proper legal framework for resolving the dispute.
+
+## 4. Arguments Presented
+
+* **Petitioner’s Argument:**
+    * **Maintainability of the appeal:** The Petitioner argued that the appeal filed by the Respondent against the order returning the Section 34 petition was not maintainable under Section 37 of the Arbitration Act, 1996, as it did not fall within the categories of appealable orders. They relied heavily on the Kandla Export Corporation case, which supported their claim.
+    * **Jurisdiction of the Courts:** The Petitioner asserted that the arbitration clause in the agreement, specifically Clause 67.3(vi), clearly designated either New Delhi or Faridabad as the "seat" of arbitration. They contended that the parties, by choosing New Delhi as the venue for the arbitral proceedings, implicitly selected New Delhi as the "seat" and, therefore, the Courts in New Delhi had exclusive jurisdiction to handle Section 34 petitions. They further argued that even if both Faridabad and New Delhi had jurisdiction, the principle of Hakam Singh (supra) dictated that the forum chosen by the parties should be favored. They cited several Supreme Court judgments, including BALCO (supra), Indus Mobile Distribution (supra), and Reliance Industries (supra), to support their argument.
+* **Respondent’s Argument:**
+    * **Maintainability of the appeal:** The Respondent contended that the order returning the Section 34 petition was equivalent to a refusal to set aside the arbitral award and therefore fell under Section 37(1)(c) of the Arbitration Act, 1996, making the appeal maintainable. They cited Antrix Corporation Ltd. (supra) as a precedent supporting this argument.
+    * **Jurisdiction of the Courts:** The Respondent argued that the arbitration clause did not expressly designate either New Delhi or Faridabad as the "seat" of arbitration, instead merely referring to the convenient venue for holding hearings. They emphasized that the agreement was signed and notices were sent to the Respondent’s office in Faridabad, making Faridabad the place where part of the cause of action arose. They argued that the Faridabad court, having been approached first with the Section 34 application, would have exclusive jurisdiction under Section 42 of the Arbitration Act, 1996. They also asserted that, even if New Delhi were the "seat," both Faridabad and New Delhi would have concurrent jurisdiction under BALCO (supra) - Faridabad as the chosen forum and New Delhi as a neutral forum.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * **Maintainability of the Appeal:**  The court found that the appeal filed by the Respondent was not maintainable under Section 37 of the Arbitration Act, 1996. They determined that the order returning the Section 34 petition was not a refusal to set aside the arbitral award as the court had not adjudicated the Section 34 petition on its merits. They differentiated this situation from cases involving preliminary orders, such as condonation of delay, which do not impact the arbitral award. 
+    * **Jurisdiction of the Courts:** The court rejected the Respondent's argument that the arbitration clause did not designate a "seat" of arbitration. Applying the "Shashoua principle," they concluded that the clause, stating "Arbitration Proceedings shall be held at New Delhi/Faridabad, India," coupled with the application of the UNCITRAL Arbitration Rules, clearly designated either New Delhi or Faridabad as the "seat" of arbitration. 
+    * **Exclusive Jurisdiction of the Seat:** The court emphasized that once a "seat" is designated, it operates as an exclusive jurisdiction clause, barring other courts from handling challenges to the arbitral award. They explicitly overruled the concurrent jurisdiction view expressed in Antrix Corporation Ltd. (supra) and the Bombay High Court judgments, reaffirming the principle established in BALCO (supra), Indus Mobile Distribution (supra), Reliance Industries (supra), and Enercon (India) Ltd. (supra).
+    * **Determination of the Seat:** The court recognized that the parties, by holding all hearings and signing the arbitral awards in New Delhi, had implicitly chosen New Delhi as the "seat" of arbitration under Section 20(1) of the Arbitration Act, 1996.
+    * **Rejection of Hardy Exploration (supra):** The court declared that the judgment in Hardy Exploration and Production (India) Inc. (supra) was not good law as it contradicted the five-judge bench decision in BALCO (supra) by failing to apply the "Shashoua principle." They deemed this a significant error, as it could lead to concurrent jurisdiction in two countries, potentially resulting in conflicting decisions and undermining the principles underlying the New York Convention and the UNCITRAL Model Law.
+
+* **Interpretation of Law:**
+    * **Section 37 of the Arbitration Act, 1996:** The court strictly interpreted the scope of Section 37, emphasizing that only the specifically listed categories of orders are appealable. 
+    * **Section 20 of the Arbitration Act, 1996:** The court interpreted Section 20, allowing parties to agree on the "seat" of arbitration, as an exercise of party autonomy, and consequently, the designated "seat" should be treated as an exclusive jurisdiction clause.
+    * **Section 42 of the Arbitration Act, 1996:** The court found that Section 42, intended to avoid conflicting jurisdiction between courts, is not rendered ineffective by the principle of exclusive jurisdiction at the "seat." Section 42 applies when multiple courts may have jurisdiction because no "seat" is designated or when a "seat" is merely a convenient venue.
+    * **UNCITRAL Arbitration Rules:** The court acknowledged that the UNCITRAL Arbitration Rules are supranational in nature and their application, combined with the designated venue, creates a strong indicator that the stated venue is the "seat" of arbitration.
+
+* **Application of Law:**
+    * The court applied the "Shashoua principle" to the facts of the case, concluding that the arbitration clause designated either New Delhi or Faridabad as the "seat," as it indicated the place for all hearings and the making of the award. They further applied this principle to the international commercial arbitration aspect of the case, concluding that the designation of a "seat" would apply even in disputes with Indian contractors.
+    * The court applied the principle of Hakam Singh (supra), favoring the forum chosen by the parties, to further strengthen their conclusion that New Delhi should be considered the "seat."
+    * The court distinguished the Antrix Corporation Ltd. case from the present case, highlighting the differences in the nature of the orders and the applicable legal provisions.
+
+## 6. Judgment
+
+* **Final Decision:** The Supreme Court of India allowed the Petitioner's appeals and set aside the judgment of the Punjab and Haryana High Court.
+* **Relief Granted:** The court ordered the Section 34 petition filed by the Respondent to be presented to the courts in New Delhi, upholding the original decision of the Special Commercial Court at Gurugram.
+* **Orders:** The Supreme Court overturned the High Court's judgment and ordered the return of the Section 34 petition to the proper court in New Delhi.
+
+## 7. Implications
+
+* **Impact on Law:** The judgment has significant implications for the determination of jurisdiction in arbitration cases involving a designated "seat." The court clearly reaffirmed the principle that the "seat" of arbitration operates as an exclusive jurisdiction clause, effectively excluding other courts from handling challenges to the arbitral award. This principle is now firmly established, and this judgment provides a strong legal basis for future cases.
+* **Future Relevance:** This case will be a crucial precedent in future cases concerning the determination of jurisdiction in arbitration matters, particularly in international commercial arbitrations. The court's emphasis on party autonomy and the "Shashoua principle" will likely influence future interpretations of arbitration agreements and will guide courts in determining the "seat" of arbitration.
+* **Broader Context:** The judgment promotes certainty and predictability in the legal landscape concerning international commercial arbitration. It reinforces the importance of clearly designating a "seat" in arbitration agreements to ensure that the parties have a clear understanding of the jurisdiction of courts in handling disputes arising from such agreements. This clarity will help facilitate efficient and timely dispute resolution.
+
+## 8. Summary Points
+
+* The Supreme Court of India allowed the Petitioner's appeals, finding the appeal by the Respondent to be non-maintainable.
+* The court determined that the "seat" of arbitration was designated in the agreement, either New Delhi or Faridabad, and the parties' actions implicitly chose New Delhi.
+* The court reaffirmed that the designated "seat" of arbitration carries an exclusive jurisdiction clause, preventing other courts from handling challenges to the award.
+* The court overturned the High Court's judgment and ordered the Section 34 petition to be presented in New Delhi.
+* The judgment solidified the principle of party autonomy in choosing the "seat" and the corresponding exclusive jurisdiction. 
+* The court declared the Hardy Exploration (supra) judgment to be not good law, aligning with the principle established in BALCO (supra).
+
+## 9. References
+
+* **Arbitration and Conciliation Act, 1996:**  [Full Text Available on the Indian Legal Information Institute website]
+* **Commercial Courts Act, 2015:** [Full Text Available on the Indian Legal Information Institute website]
+* **Code of Civil Procedure, 1908:** [Full Text Available on the Indian Legal Information Institute website]
+* **Kandla Export Corporation & Anr. v. M/s OCI Corporation & Anr. (2018) 14 SCC 715:** [Full Text Available on the Supreme Court of India website]
+* **Fuerst Day Lawson Ltd. v. Jindal Exports Ltd., (2011) 8 SCC 333:** [Full Text Available on the Supreme Court of India website]
+* **Hakam Singh v. M/s. Gammon (India) Ltd., (1971) 1 SCC 286:** [Full Text Available on the Supreme Court of India website]
+* **Bharat Aluminium Co. (BALCO) v. Kaiser Aluminium Technical Service, Inc., (2012) 9 SCC 552:** [Full Text Available on the Supreme Court of India website]
+* **Indus Mobile Distribution Private Limited v. Datawind Innovations Private Limited & Ors., (2017) 7 SCC 678:** [Full Text Available on the Supreme Court of India website]
+* **Union of India v. Hardy Exploration and Production (India) Inc., 2018 SCC Online SC 1640:** [Full Text Available on SCC Online]
+* **Reliance Industries Ltd. v. Union of India (2014) 7 SCC 603:** [Full Text Available on the Supreme Court of India website]
+* **Enercon (India) Ltd. and Ors. v. Enercon GmbH and Anr. (2014) 5 SCC 1:** [Full Text Available on the Supreme Court of India website]
+* **Videocon Industries Ltd. v. Union of India (2011) 6 SCC 161:** [Full Text Available on the Supreme Court of India website]
+* **Dozco India (P) Ltd. v. Doosan Infracore Co. Ltd. (2011) 16 SCC 179:** [Full Text Available on the Supreme Court of India website]
+* **Swastik Gases Private Limited v. Indian Oil Corporation Limited (2013) 9 SCC 32:** [Full Text Available on the Supreme Court of India website]
+* **B.E. Simoese Von Staraburg Niedenthal and Anr. v. Chhattisgarh Investment Limited: (2015) 12 SCC 225:** [Full Text Available on the Supreme Court of India website]
+* **Brahmani River Pellets Ltd. v. Kamachi Industries Ltd. 2019 SCC Online SC 929:** [Full Text Available on SCC Online]
+* **Sumitomo Heavy Industries Ltd. v. ONGC Ltd. & Ors. (1998) 1 SCC 305:** [Full Text Available on the Supreme Court of India website]
+* **Venture Global Engineering v. Satyam Computer Services Ltd. & Anr., (2008) 4 SCC 190:** [Full Text Available on the Supreme Court of India website]
+* **Antrix Corporation Ltd. v. Devas Multimedia Pvt. Ltd. 2018 SCC Online Del 9338:** [Full Text Available on SCC Online]
+* **Roger Shashoua & Ors. v. Mukesh Sharma & Ors., (2017) 14 SCC 722:** [Full Text Available on the Supreme Court of India website]
+
+* **Further Reading:**
+    * **Blackaby, Partasides, Redfern and Hunter (Eds.), Redfern and Hunter on International Arbitration (5th Edn., Oxford University Press, Oxford/New York 2009).**
+    * **Dicey, Morris & Collins, The Conflict of Laws (14th Edn.).**
+    * **The UNCITRAL Model Law on International Commercial Arbitration (as adopted by the United Nations Commission on International Trade Law on 21 June 1985).**
+    * **The Law Commission Report, 2014, ‘Amendments to the Arbitration and Conciliation Act, 1996’ (August, 2014).**
+
+This summary provides a comprehensive overview of the BGS SGS SOMA JV vs NHPC Ltd. case, encompassing the case's facts, legal principles, arguments, the court's analysis and reasoning, the final judgment, and the implications of this significant decision. It also provides references to all relevant statutes, precedents, and legal texts for further exploration. 

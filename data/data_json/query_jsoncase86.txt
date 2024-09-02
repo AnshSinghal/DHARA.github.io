@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A company based in Delhi alleges copyright infringement of its software by a company based in Mumbai. The defendant argues that the Delhi court lacks jurisdiction as the infringement occurred in Mumbai.  The plaintiff argues that it conducts business in Mumbai and the copyright was registered in the US. What are the applicable legal principles and relevant sections for determining jurisdiction in this case?",
+    "Legal Principles": "Jurisdiction in copyright infringement cases, territorial jurisdiction, Section 62(2) of the Copyright Act, 1957, place of business, place where the cause of action arises, reading of pleadings, Order VII Rule 10 of the CPC.",
+    "Relevant Sections": "Section 62(2) of the Copyright Act, 1957:  'A suit arising out of this Act may be instituted in any district court exercising jurisdiction with respect to the place where the person instituting the suit voluntarily resides or carries on business.'",
+    "Context": "Copyright infringement case, territorial jurisdiction, Delhi High Court, application under Order VII Rule 10 of the CPC"
+  },
+  {
+    "Query": "A case involves a dispute over ownership of copyright in software developed by an employee during their employment. The employer claims ownership under the 'Works made for Hire' doctrine. The employee argues they are the rightful owner of the copyright. What are the relevant legal principles and sections applicable to this case?",
+    "Legal Principles": "Ownership of copyright, 'Works made for Hire' doctrine, Section 17 of the Copyright Act, 1957, employment contracts, ownership of intellectual property created during employment",
+    "Relevant Sections": "Section 17 of the Copyright Act, 1957: 'The author of a work shall be the first owner of the copyright therein, subject to the provisions of this section.'",
+    "Context": "Copyright ownership dispute, employment law, 'Works made for Hire' doctrine, India"
+  },
+  {
+    "Query": "A company claims it is a collective owner of copyright in software developed by its subsidiary. The defendant argues that the subsidiary lacks legal standing to sue as there is no valid assignment of copyright. What are the relevant legal principles and sections applicable to this case?",
+    "Legal Principles": "Collective ownership of copyright, assignment of copyright, Section 19 of the Copyright Act, 1957, legal standing to sue, subsidiary company, parent company",
+    "Relevant Sections": "Section 19 of the Copyright Act, 1957: 'The copyright in a work shall be assignable, either wholly or partially.'",
+    "Context": "Copyright ownership dispute, assignment of copyright, subsidiary company, India"
+  },
+  {
+    "Query": "A company alleges infringement of its software by another company. The plaintiff has registered the copyright in the US. The defendant argues that the US registration is not relevant for determining jurisdiction in an Indian court. What are the relevant legal principles and sections applicable to this case?",
+    "Legal Principles": "International copyright law, extraterritorial jurisdiction, registration of copyright,  enforcement of foreign copyright in India",
+    "Relevant Sections": "The Berne Convention for the Protection of Literary and Artistic Works, Indian Copyright Act, 1957 (Sections 41, 42, 43)",
+    "Context": "Copyright infringement case, international copyright, India"
+  },
+  {
+    "Query": "A company seeks to enforce a standard form license agreement against a customer who allegedly violated its terms. The defendant argues the agreement is unconscionable and unenforceable. What are the relevant legal principles and sections applicable to this case?",
+    "Legal Principles": "Contract law, standard form contracts, unconscionability, enforceability of contracts, adhesion contracts, bargaining power",
+    "Relevant Sections": "The Indian Contract Act, 1872 (Sections 10, 16, 23, 56)",
+    "Context": "Contract dispute, standard form license agreement, India"
+  },
+  {
+    "Query": "A company claims that its software is protected by trade secrets. The defendant argues that the software is not confidential and is widely known in the industry. What are the relevant legal principles and sections applicable to this case?",
+    "Legal Principles": "Trade secrets law, confidentiality, misappropriation of trade secrets, disclosure of trade secrets, public domain",
+    "Relevant Sections": "The Trade Secrets Act, 1999 (Sections 2, 3, 4)",
+    "Context": "Trade secret dispute, software development, India"
+  },
+  {
+    "Query": "A case involves a dispute between two companies over the use of a trademark. One company alleges trademark infringement by the other. The defendant argues that the mark is not distinctive and is not likely to cause confusion. What are the relevant legal principles and sections applicable to this case?",
+    "Legal Principles": "Trademark law, trademark infringement, distinctiveness of trademarks, likelihood of confusion, passing off",
+    "Relevant Sections": "The Trade Marks Act, 1999 (Sections 2, 9, 11, 29, 30)",
+    "Context": "Trademark dispute, India"
+  },
+  {
+    "Query": "A company alleges that another company is using its domain name without permission. The defendant argues that the domain name is not confusingly similar and there is no evidence of bad faith. What are the relevant legal principles and sections applicable to this case?",
+    "Legal Principles": "Domain name law, cybersquatting, domain name infringement, bad faith registration of domain names",
+    "Relevant Sections": "The Information Technology Act, 2000 (Sections 43, 45, 65, 66)",
+    "Context": "Domain name dispute, India"
+  },
+  {
+    "Query": "A company claims it has a patent for a particular software invention. The defendant argues that the patent is invalid and the invention is not novel or inventive. What are the relevant legal principles and sections applicable to this case?",
+    "Legal Principles": "Patent law, patent infringement, validity of patents, novelty, inventive step, non-obviousness, prior art",
+    "Relevant Sections": "The Patents Act, 1970 (Sections 2, 3, 7, 25, 26, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41)",
+    "Context": "Patent infringement case, software invention, India"
+  },
+  {
+    "Query": "A company alleges that another company is misusing its confidential information to develop a competing software product. The defendant argues that the information was not confidential and was readily available in the public domain. What are the relevant legal principles and sections applicable to this case?",
+    "Legal Principles": "Confidentiality agreements, misappropriation of confidential information, trade secrets, duty of confidentiality, public domain",
+    "Relevant Sections": "The Indian Contract Act, 1872 (Sections 23, 27), The Trade Secrets Act, 1999 (Sections 2, 3, 4)",
+    "Context": "Misappropriation of confidential information, software development, India"
+  }
+]
+``` 

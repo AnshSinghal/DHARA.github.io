@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A company based in Mumbai is suing another company in Kolhapur for breach of contract. The defendant argues that the Mumbai company also has an office in Kolhapur and therefore, the suit should be filed in Kolhapur. Can the Bombay High Court hear this case?",
+    "Legal Principles": "The case centers around the question of territorial jurisdiction in civil litigation. Specifically, it examines the principle of 'cause of action' and whether the plaintiff's presence in the defendant's city automatically establishes jurisdiction in that city.",
+    "Relevant Sections": "Section 9-A of the Code of Civil Procedure, 1908, which allows for the determination of jurisdictional issues at a preliminary stage. The Court also referred to Order XIV of the Code of Civil Procedure and Rule 2 thereof, which deal with the framing of preliminary issues.",
+    "Context": "This is a commercial dispute case involving two companies based in different cities within Maharashtra. The Bombay High Court is the relevant jurisdiction. The case involves a preliminary issue regarding the territorial jurisdiction of the Court."
+  },
+  {
+    "Query": "A company in Delhi is suing another company in Mumbai for breach of contract. The defendant argues that the Delhi company has a branch office in Mumbai and therefore, the suit should be filed in Mumbai. Can the Bombay High Court hear this case?",
+    "Legal Principles": "This case focuses on the question of territorial jurisdiction in civil litigation, specifically concerning the 'cause of action' principle.  The argument centers on whether a company's branch office location determines the appropriate jurisdiction for a lawsuit.",
+    "Relevant Sections": "Section 9-A of the Code of Civil Procedure, 1908, which allows for the determination of jurisdictional issues at a preliminary stage. The Court also referred to Order XIV of the Code of Civil Procedure and Rule 2 thereof, which deal with the framing of preliminary issues.",
+    "Context": "This is a commercial dispute case involving two companies based in different cities within India. The Bombay High Court is the relevant jurisdiction. The case involves a preliminary issue regarding the territorial jurisdiction of the Court."
+  },
+  {
+    "Query": "A company is suing another company for breach of a franchise agreement. The defendant argues that the case should be heard in a Commercial Court as the dispute involves a commercial dispute of specified value. Can the case be transferred to a Commercial Court?",
+    "Legal Principles": "The case centers on the applicability of the Commercial Courts Act, 2015 (Act 4 of 2016), and the specific provisions regarding the jurisdiction of Commercial Courts. The Act seeks to expedite the resolution of commercial disputes exceeding a specified value.",
+    "Relevant Sections": "Sections 6 and 7 of the Commercial Courts Act, 2015, which define the jurisdiction of Commercial Courts and Commercial Divisions of High Courts. Section 9 of the Act also addresses the transfer of counterclaims to Commercial Courts or Divisions.",
+    "Context": "This is a commercial dispute case involving two companies and a franchise agreement. The case involves a preliminary issue regarding the appropriate court to hear the case, whether it should be a regular court or a Commercial Court, based on the value of the dispute and the provisions of the Commercial Courts Act, 2015."
+  },
+  {
+    "Query": "Two companies are involved in a dispute over a construction contract. The contract value is above the specified limit for Commercial Courts. Can the case be heard in a Commercial Division of the High Court?",
+    "Legal Principles": "The case centers on the jurisdiction of Commercial Divisions within High Courts, as established by the Commercial Courts Act, 2015 (Act 4 of 2016). This Act provides for specialized courts and divisions to handle commercial disputes exceeding a specified value.",
+    "Relevant Sections": "Section 7 of the Commercial Courts Act, 2015, which specifies the jurisdiction of Commercial Divisions of High Courts. This section clarifies that all suits and applications related to commercial disputes of a specified value filed in a High Court with ordinary original civil jurisdiction should be heard and disposed of by the Commercial Division.",
+    "Context": "This is a commercial dispute case involving two companies and a construction contract. The case involves a preliminary issue regarding the appropriate court to hear the case, whether it should be a regular court or a Commercial Division of the High Court, based on the value of the dispute and the provisions of the Commercial Courts Act, 2015."
+  },
+  {
+    "Query": "A company is filing an appeal against an order passed by a Commercial Division of the High Court. The appeal is challenging a decision on a preliminary issue, not a final judgment. Is this appeal maintainable?",
+    "Legal Principles": "This case concerns the maintainability of appeals under the Commercial Courts Act, 2015 (Act 4 of 2016), specifically regarding whether appeals against interlocutory orders are permissible. The Act aims to streamline commercial dispute resolution and minimize delays.",
+    "Relevant Sections": "Section 13 of the Commercial Courts Act, 2015, which deals with appeals from decrees of Commercial Courts and Commercial Divisions. The section outlines the scope of appeals, including the types of orders that are appealable.",
+    "Context": "This is a commercial dispute case involving a company appealing an order by a Commercial Division of a High Court. The appeal focuses on the maintainability of appeals against interlocutory orders, challenging the decision on a preliminary issue, not a final judgment, within the framework of the Commercial Courts Act, 2015."
+  },
+  {
+    "Query": "A company is disputing an arbitration award involving a commercial dispute of specified value. Can the dispute be heard by the Commercial Division of the High Court?",
+    "Legal Principles": "The case focuses on the jurisdiction of Commercial Divisions within High Courts, as established by the Commercial Courts Act, 2015 (Act 4 of 2016), in the context of arbitration matters. The Act aims to establish specialized courts and divisions to handle commercial disputes, including arbitration-related issues, exceeding a specified value.",
+    "Relevant Sections": "Section 10 of the Commercial Courts Act, 2015, which addresses jurisdiction in respect of arbitration matters. The section specifies that applications or appeals arising from international commercial arbitrations or domestic arbitrations filed in a High Court should be heard by the Commercial Division, if constituted, within the respective High Court.",
+    "Context": "This is a commercial dispute case involving a company disputing an arbitration award. The case involves a preliminary issue regarding the appropriate court to hear the dispute, whether it should be a regular court or a Commercial Division of the High Court, based on the value of the dispute and the provisions of the Commercial Courts Act, 2015."
+  },
+  {
+    "Query": "A company is appealing a decision of the Commercial Division in a summary suit, challenging the granting of conditional leave to defend the suit. Is this appeal maintainable?",
+    "Legal Principles": "The case focuses on the concept of 'judgment' as defined in the context of appeals under the Commercial Courts Act, 2015 (Act 4 of 2016), specifically in the context of summary suits. The Act aims to expedite commercial dispute resolution, but questions arise about the appealability of orders within summary suit proceedings.",
+    "Relevant Sections": "Section 13 of the Commercial Courts Act, 2015, which addresses appeals from decrees of Commercial Courts and Commercial Divisions. The case also implicitly refers to Order XXXVII of the Code of Civil Procedure, 1908, which governs summary suits, and the provision of conditional leave to defend.",
+    "Context": "This is a commercial dispute case involving a company appealing a decision of a Commercial Division of a High Court in a summary suit. The appeal concerns the maintainability of appeals against orders granting conditional leave to defend a summary suit, considering the provisions of the Commercial Courts Act, 2015, and the intent to streamline commercial dispute resolution."
+  },
+  {
+    "Query": "A company is seeking to appeal an order passed in an execution proceeding, arguing that the order affects its substantive rights. Is this appeal maintainable?",
+    "Legal Principles": "The case concerns the maintainability of appeals under the Commercial Courts Act, 2015 (Act 4 of 2016), specifically regarding whether appeals against orders passed in execution proceedings are permissible. The Act aims to expedite commercial dispute resolution, and the question arises as to whether appeals from orders during execution proceedings fall within the scope of appealable orders.",
+    "Relevant Sections": "Section 13 of the Commercial Courts Act, 2015, which governs appeals from decrees of Commercial Courts and Commercial Divisions. The case also implicitly refers to Order XXI of the Code of Civil Procedure, 1908, which governs execution proceedings.",
+    "Context": "This is a commercial dispute case involving a company appealing an order passed in execution proceedings. The appeal concerns the maintainability of appeals against orders passed during execution proceedings, considering the provisions of the Commercial Courts Act, 2015, and the intent to streamline commercial dispute resolution."
+  },
+  {
+    "Query": "A company is appealing an order dismissing its suit for lack of jurisdiction. The defendant argues that the dismissal should be considered a final order, making the appeal maintainable. Is the appeal maintainable?",
+    "Legal Principles": "The case concerns the maintainability of appeals under the Commercial Courts Act, 2015 (Act 4 of 2016), specifically regarding whether appeals against orders dismissing a suit for lack of jurisdiction are permissible. The Act aims to expedite commercial dispute resolution, and the question arises as to whether the dismissal should be considered a final order, making the appeal maintainable.",
+    "Relevant Sections": "Section 13 of the Commercial Courts Act, 2015, which governs appeals from decrees of Commercial Courts and Commercial Divisions. The case also implicitly refers to the definition of 'decree' in Section 2(2) of the Code of Civil Procedure, 1908, which discusses the finality of judgments.",
+    "Context": "This is a commercial dispute case involving a company appealing an order dismissing its suit for lack of jurisdiction. The appeal concerns the maintainability of appeals against orders dismissing a suit for lack of jurisdiction, considering the provisions of the Commercial Courts Act, 2015, and the intent to streamline commercial dispute resolution."
+  },
+  {
+    "Query": "A company is challenging an order denying its request for an interim injunction in a commercial dispute. Can the company appeal this order?",
+    "Legal Principles": "The case concerns the maintainability of appeals under the Commercial Courts Act, 2015 (Act 4 of 2016), specifically regarding whether appeals against orders denying interim injunctions are permissible. The Act aims to expedite commercial dispute resolution, and the question arises as to whether such orders fall within the scope of appealable orders.",
+    "Relevant Sections": "Section 13 of the Commercial Courts Act, 2015, which governs appeals from decrees of Commercial Courts and Commercial Divisions. The case also implicitly refers to Order XXXIX of the Code of Civil Procedure, 1908, which governs interim injunctions.",
+    "Context": "This is a commercial dispute case involving a company challenging an order denying its request for an interim injunction. The appeal concerns the maintainability of appeals against orders denying interim injunctions, considering the provisions of the Commercial Courts Act, 2015, and the intent to streamline commercial dispute resolution."
+  }
+]
+```

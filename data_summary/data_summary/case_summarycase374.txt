@@ -1,0 +1,89 @@
+## Case Title
+
+* **Case Name:** Akd Greka Drilling (India) Ltd vs M/S. Arihant Cargo Carriers Pvt. Ltd
+* **Court:** Calcutta High Court (Appellete Side)
+* **Date of Judgment:** 20 November, 2017
+* **Citation:** C.O. 3644 of 2017 
+
+## Background and Context
+
+* **Brief Overview:** Akd Greka Drilling (India) Ltd. (Petitioner) filed a revision application against an order passed by the Civil Judge (Senior Division), Durgapur, which rejected their application to dismiss a suit filed by M/S. Arihant Cargo Carriers Pvt. Ltd. (Opposite Party) for recovery of Rs. 1,58,32,917/-. The Opposite Party claimed that despite utilizing various equipment, the Petitioner had not paid the charges in accordance with the agreement entered into between the parties. The Petitioner argued that the suit should be transferred to the Commercial Division of the High Court due to the Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015.
+* **Key Issues:** 
+    * Whether the suit was maintainable in the Civil Court, given the enactment of the Commercial Courts Act, 2015?
+    * Whether the suit should be transferred to the Commercial Division of the High Court?
+
+## Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * The Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015:
+        * Section 2(c) and 3(3): Defines "commercial dispute" and mandates the establishment of Commercial Courts.
+        * Section 7: Outlines the jurisdiction of Commercial Divisions of High Courts in relation to commercial disputes of specified value.
+        * Section 11: Creates an embargo on the maintainability of proceedings before Civil Courts for commercial disputes of specified value.
+        * Section 12: Determines the specified value for commercial disputes.
+        * Section 15: Deals with the transfer of commercial disputes from Civil Courts to Commercial Courts.
+        * Section 16: Deals with the amendment of the Code of Civil Procedure in relation to commercial disputes.
+    * The Code of Civil Procedure, 1908: 
+        * Order VII Rule 11: Deals with the rejection of plaints. 
+
+* **Precedents Cited:** 
+    * No specific precedents were cited in this judgment.
+
+* **Legal Doctrines:** 
+    * **Forum non conveniens:** A doctrine allowing courts to decline jurisdiction when another court would be a more appropriate venue.
+    * **Res judicata:** A doctrine preventing parties from relitigating issues already decided in a prior case.
+    * **Jurisdictional Bar:** A legal principle that prevents a court from hearing a case when it lacks jurisdiction.
+    * **Principles of Natural Justice:** A set of fundamental principles ensuring fairness in legal proceedings.
+
+## Arguments Presented
+
+* **Plaintiff's Argument (Opposite Party):**  
+    * The Opposite Party argued that the suit was maintainable in the Civil Court as the Commercial Court had not yet been established in the District.
+    * They further argued that the Petitioner's claim of a jurisdictional bar under the Commercial Courts Act was not valid, given the absence of a constituted Commercial Court.
+* **Defendant's Argument (Petitioner):**
+    * The Petitioner argued that the suit was not maintainable in the Civil Court due to the provisions of the Commercial Courts Act, 2015, specifically Section 7.
+    * They contended that the suit should be transferred to the Commercial Division of the High Court, as the dispute involved a commercial dispute of specified value.
+    * They further argued that the Civil Court lacked jurisdiction due to Section 11 of the Act.
+
+## Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The Court found that the Commercial Court had not been established in the District.
+    * The Court interpreted the provision of Section 7 of the Commercial Courts Act to mean that suits filed in the Original Side of the High Court, which should have been filed in the District Court, would not be transferred to the Commercial Court. 
+    * The Court relied on its previous order in C.O. 914 of 2017, which held that the Civil Court had jurisdiction to entertain and try commercial disputes until the Commercial Court was established. 
+    * The Court also found that the Petitioner was not rendered remediless due to the lack of a constituted Commercial Court.
+
+* **Interpretation of Law:**
+    * The Court interpreted Section 7 of the Act narrowly, focusing on suits filed in the Original Side of the High Court. 
+    * The Court interpreted Section 15(2) of the Act to mean that suits which had reached the stage of final judgment would not be transferred to the Commercial Court.
+    * The Court emphasized that the provision of Section 15(2) meant that the Civil Court had jurisdiction to entertain and try the suit until the Commercial Court was constituted.
+
+* **Application of Law:** 
+    * The Court applied the principles of forum non conveniens and the doctrine of res judicata in interpreting the applicable provisions of the Commercial Courts Act.
+    * The Court emphasized the principles of natural justice and avoided rendering the Petitioner remediless due to the inaction of the State in establishing the Commercial Court. 
+
+## Judgment
+
+* **Final Decision:** The revisional application filed by the Petitioner was dismissed.
+* **Relief Granted:** No relief was granted to the Petitioner.
+* **Orders:** The Court directed that there would be no order as to costs.
+
+## Implications
+
+* **Impact on Law:** This judgment reinforces the interpretation of Section 15(2) of the Commercial Courts Act, highlighting the Civil Court's jurisdiction to entertain and try commercial disputes until the establishment of the Commercial Court. 
+* **Future Relevance:** This case provides valuable guidance on the interpretation of the Commercial Courts Act in situations where the Commercial Court has not been constituted. It emphasizes the need for a practical approach to avoid rendering litigants remediless due to the inaction of the State.
+* **Broader Context:** The judgment underscores the importance of the principle of forum non conveniens in determining jurisdiction, even when special courts are established for specific categories of cases.
+
+## Summary Points
+
+* The Calcutta High Court dismissed the Petitioner's revision application, holding that the Civil Court had jurisdiction to entertain and try the commercial dispute until the Commercial Court was established.
+* The Court emphasized the principles of natural justice and avoided rendering the Petitioner remediless due to the State's inaction.
+* The judgment provides a practical approach to interpreting the Commercial Courts Act in situations where the designated special court is not yet constituted.
+
+## References
+
+* **Citations:** 
+    * The Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015
+    * The Code of Civil Procedure, 1908
+* **Further Reading:** 
+    * Other judgments on the Commercial Courts Act and its interpretation.
+    * Articles and legal commentaries on the implementation of the Commercial Courts Act. 

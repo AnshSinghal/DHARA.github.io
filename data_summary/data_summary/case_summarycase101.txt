@@ -1,0 +1,80 @@
+##  1. Case Title
+
+* **Case Name:** Swadha Builders Pvt. Ltd. & Ors. vs. Nabarun Bhattacharjee & Ors.
+* **Court:** Calcutta High Court
+* **Date of Judgment:** 13th January 2021
+* **Citation:** AIR 2021 (NOC) 524 (CAL.), AIRONLINE 2021 CAL 149
+
+##  2. Background and Context
+
+* **Brief Overview:** This case involved a dispute between Swadha Builders Pvt. Ltd. (plaintiff) and Nabarun Bhattacharjee and others (defendants) concerning the transfer of an immovable property (Jessore Road property). The dispute arose from a series of agreements and actions concerning the sale of shares in the plaintiff company, which owned the Jessore Road property, and subsequent actions by the defendants that led to a mortgage of the property without the plaintiff's consent.
+* **Key Issues:** 
+    * Whether the dispute constituted a "commercial dispute" within the meaning of the Commercial Courts Act, 2015, making it eligible for transfer to the Commercial Division of the Calcutta High Court.
+    * Whether the mortgage of the Jessore Road property by the defendant in favor of the defendant No. 7 was valid and enforceable.
+
+##  3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * The Commercial Courts Act, 2015, particularly Sections 2(1)(c), 15.
+    * The Securitisation and Reconstruction of Financial Assets and Enforcement of Securities Interest Act, 2002 (SARFAESI Act).
+    * The Arbitration and Conciliation Act, 1996.
+    * The Companies Act, 1956.
+    * The Code of Civil Procedure, 1908.
+* **Precedents Cited:**
+    * Ambalal Sarabhai Enterprises Ltd. v. K.S. Infraspace LLP & Anr., 2019 SCC Online SC 1311.
+* **Legal Doctrines:**
+    * Interpretation of contracts.
+    * Equitable mortgage.
+    * Fraudulent misrepresentation.
+
+##  4. Arguments Presented
+
+* **Plaintiff’s Argument:**
+    * The dispute qualified as a "commercial dispute" under the Commercial Courts Act, 2015, as it involved commercial transactions between the parties.
+    * The defendants' actions, including the mortgage of the Jessore Road property without the plaintiff's consent, were fraudulent and in breach of the agreements between the parties.
+    * The mortgage in favor of defendant No. 7 was illegal, void, and should be set aside.
+* **Defendant’s Argument:**
+    * The dispute did not fall within the definition of a "commercial dispute" under the Act of 2015, particularly since the property involved was agricultural land.
+    * The mortgage of the property was a valid transaction between the defendant No. 3 and defendant No. 7 (a banker).
+    * The plaintiff's claims of fraud were unfounded.
+
+##  5. Court’s Analysis and Reasoning
+
+* **Key Findings:** 
+    * The court examined the definition of "commercial dispute" in Section 2(1)(c) of the Commercial Courts Act, 2015 and found that it encompassed disputes arising from agreements relating to immovable property used in trade or commerce.
+    * While the Jessore Road property was initially agricultural land, it was subject to conversion and was being used for commercial purposes, satisfying the criteria for a "commercial dispute."
+    * The court considered the nature of the relationship between defendant No. 3 and defendant No. 7 (banker) and accepted that the mortgage was a regular banking transaction.
+    * However, the court acknowledged the plaintiff's claim that the defendants had violated the agreements by creating a mortgage without the plaintiff's consent and considered it a significant issue for determination.
+* **Interpretation of Law:** The court interpreted Section 15 of the Commercial Courts Act, 2015, emphasizing the intent of the legislation to expedite the resolution of commercial disputes. The court highlighted that the definition of "commercial dispute" should be given a broad and practical interpretation.
+* **Application of Law:** The court applied the definition of "commercial dispute" to the facts of the case, finding that the dispute met the criteria for transfer to the Commercial Division.  
+
+##  6. Judgment
+
+* **Final Decision:** The court granted the plaintiff's application under Section 15 of the Commercial Courts Act, 2015, transferring the case to the Commercial Division of the Calcutta High Court.
+* **Relief Granted:** No specific relief was granted at this stage. The court directed the transfer of the suit to the Commercial Division, where the legal issues concerning the validity of the mortgage and the plaintiff's claims of fraud would be determined.
+* **Orders:** The court ordered the amendment of the cause title of the plaint to reflect the transfer to the Commercial Division.
+
+##  7. Implications
+
+* **Impact on Law:** The judgment reaffirmed the broad interpretation of "commercial dispute" under the Commercial Courts Act, 2015, emphasizing the inclusion of disputes involving immovable property used for commercial purposes.
+* **Future Relevance:** The case sets a precedent for future cases involving disputes concerning immovable property used for commercial purposes, especially in situations where the property's initial nature is agricultural but has been subject to conversion.
+* **Broader Context:** The decision reflects the emphasis on expediting the resolution of commercial disputes in India, highlighting the importance of the Commercial Division for efficient and specialized adjudication of such cases.
+
+##  8. Summary Points
+
+* The case involved a dispute over a property that was initially agricultural but was being converted for commercial use.
+* The court found the dispute to be a "commercial dispute" under the Commercial Courts Act, 2015.
+* The case was transferred to the Commercial Division for further determination of the validity of the mortgage and the plaintiff's claims of fraud.
+
+##  9. References
+
+* **Citations:**
+    * The Commercial Courts Act, 2015.
+    * The Securitisation and Reconstruction of Financial Assets and Enforcement of Securities Interest Act, 2002 (SARFAESI Act).
+    * The Arbitration and Conciliation Act, 1996.
+    * The Companies Act, 1956.
+    * The Code of Civil Procedure, 1908.
+    * Ambalal Sarabhai Enterprises Ltd. v. K.S. Infraspace LLP & Anr., 2019 SCC Online SC 1311.
+* **Further Reading:**
+    * Relevant articles and commentary on the Commercial Courts Act, 2015 and the definition of "commercial dispute."
+    * Case law on equitable mortgages and fraudulent misrepresentation.

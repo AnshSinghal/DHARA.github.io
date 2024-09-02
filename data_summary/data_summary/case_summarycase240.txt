@@ -1,0 +1,87 @@
+## 1. Case Title
+
+* **Case Name:** Web Overseas Limited vs. Universal Industrial Plants Manufacturing Company Private Limited
+* **Court:** Delhi High Court
+* **Date of Judgment:** 28 November, 2022
+* **Citation:** 2022/DHC/005184
+
+## 2. Background and Context
+
+* **Brief Overview:** Web Overseas Limited (Appellant) and Universal Industrial Plants Manufacturing Company Private Limited (Respondent) entered into a contract for the purchase of an Oxygen Nitrogen Plant. The Appellant failed to pay the full advance amount as per the agreement, claiming that the Respondent had revised the offer and increased the price. The Appellant then sought a refund of the advance payment, leading to a legal dispute. 
+* **Key Issues:**
+    * Whether the time spent by the Respondent pursuing its application under Section 8 of the Arbitration and Conciliation Act, 1996 (A&C Act) should be excluded when calculating the limitation period for the Respondent's counter-claim.
+    * Whether legal notices issued by the Respondent can be considered as notices invoking arbitration under Section 21 of the A&C Act.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * Arbitration and Conciliation Act, 1996 (A&C Act): Specifically, Sections 8, 11, 21, 34, 37.
+    * Limitation Act, 1963: Particularly, Sections 3(b)(ii), 14, and 3(2)(b).
+    * Code of Civil Procedure, 1908 (5 of 1908): Order XXIII, Rule 1 and 2.
+* **Precedents Cited:**
+    * Consolidated Engineering Enterprises v. Irrigation Department: (2008) 7 SCC 169 
+    * Ramadhar Shrivas v. Bhagwandas: (2005) 13 SCC 1 
+    * Milkfood Ltd. v. M/s GMC Ice Cream (P) Ltd: (2004) 7 SCC 288
+    * State of Goa v. Praveen Enterprises: (2012) 12 SCC 581
+* **Legal Doctrines:**
+    * Limitation Period: Time within which a legal action must be initiated.
+    * Exclusion of Time: Certain periods may be excluded when calculating the limitation period.
+    * Bona Fide: Acting in good faith and without intent to deceive.
+    * Defect of Jurisdiction: Lack of legal authority of a court to hear a particular case.
+    * Commencement of Arbitral Proceedings: When arbitration proceedings officially begin, as per Section 21 of the A&C Act.
+
+## 4. Arguments Presented
+
+* **Appellant's Argument:**
+    * The Respondent's counter-claim was filed beyond the three-year limitation period prescribed by the Limitation Act.
+    * The time spent by the Respondent in pursuing its application under Section 8 of the A&C Act should not be excluded from the limitation period.
+    * The legal notices issued by the Respondent did not constitute notices invoking arbitration under Section 21 of the A&C Act.
+* **Respondent's Argument:**
+    * The Respondent is entitled to exclude the time spent on the Section 8 application under Section 14 of the Limitation Act.
+    * The legal notices issued by the Respondent can be considered as notices invoking arbitration, stopping the limitation period from running. 
+    * The counter-claim was filed within the three-year limitation period, taking into account the excluded time.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The court rejected the Respondent's argument that it was entitled to exclude the time spent on the Section 8 application under Section 14 of the Limitation Act. The court held that Section 14 applies to plaintiffs, not defendants, and the Respondent's application under Section 8 did not constitute a civil proceeding relating to the same matter in issue as the counter-claim.
+    * The court found that the legal notices issued by the Respondent did not meet the requirements of Section 21 of the A&C Act, as they did not contain a request for the disputes to be referred to arbitration.
+* **Interpretation of Law:**
+    * The court interpreted Section 14 of the Limitation Act strictly, emphasizing that it applies only to plaintiffs diligently pursuing their claims in a court lacking jurisdiction. 
+    * The court clarified that an application under Section 8 of the A&C Act is not equivalent to a notice invoking arbitration under Section 21 of the A&C Act.
+* **Application of Law:**
+    * The court applied the legal principles of limitation period, exclusion of time, and commencement of arbitral proceedings to determine the validity of the Respondent's counter-claim. 
+    * The court analyzed the specific content of the legal notices issued by the Respondent to determine whether they constituted notices invoking arbitration.
+
+## 6. Judgment
+
+* **Final Decision:** The appeal was allowed. The impugned award (by the Arbitral Tribunal) and the impugned order (by the Commercial Court) were set aside.
+* **Relief Granted:** The Respondent's counter-claim was deemed barred by limitation, meaning it was rejected.
+* **Orders:** The parties were ordered to bear their own costs.
+
+## 7. Implications
+
+* **Impact on Law:** The judgment clarifies that Section 14 of the Limitation Act does not apply to defendants seeking to exclude time spent on applications under Section 8 of the A&C Act. It further clarifies that a simple legal notice does not automatically constitute a notice invoking arbitration under Section 21 of the A&C Act.
+* **Future Relevance:** This case will serve as a precedent for future cases involving similar situations, especially in relation to the applicability of Section 14 of the Limitation Act in the context of counter-claims.
+* **Broader Context:** This case highlights the importance of correctly identifying the relevant legal provisions and accurately interpreting the legal principles governing limitation periods, commencement of arbitral proceedings, and notices invoking arbitration.
+
+## 8. Summary Points
+
+* The Delhi High Court held that Section 14 of the Limitation Act does not apply to defendants, such as the Respondent, seeking to exclude time spent on applications under Section 8 of the A&C Act. 
+* The court found that the legal notices issued by the Respondent did not meet the requirements of Section 21 of the A&C Act, as they did not contain a request for the disputes to be referred to arbitration.
+* The court ultimately dismissed the Respondent's counter-claim as being barred by limitation.
+
+## 9. References
+
+* **Citations:**
+    * Arbitration and Conciliation Act, 1996 (A&C Act)
+    * Limitation Act, 1963
+    * Code of Civil Procedure, 1908 (5 of 1908)
+    * Consolidated Engineering Enterprises v. Irrigation Department: (2008) 7 SCC 169 
+    * Ramadhar Shrivas v. Bhagwandas: (2005) 13 SCC 1 
+    * Milkfood Ltd. v. M/s GMC Ice Cream (P) Ltd: (2004) 7 SCC 288
+    * State of Goa v. Praveen Enterprises: (2012) 12 SCC 581
+* **Further Reading:**
+    * Legal texts on arbitration and conciliation law.
+    * Case law on limitation periods and the interpretation of the Limitation Act. 
+    * Articles and commentaries on the specific sections of the A&C Act discussed in the case. 

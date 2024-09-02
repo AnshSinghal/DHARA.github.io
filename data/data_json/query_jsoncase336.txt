@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A company, 'ABC Limited', is seeking to extend the mandate of an arbitral tribunal for their commercial dispute with 'XYZ Corporation'. The tribunal's mandate was initially extended by consent but subsequently expired. ABC Limited filed an application for extension with the appropriate court but the application was rejected as non-maintainable. Now, ABC Limited is seeking to extend the mandate again through this Court. Does this Court have the jurisdiction to extend the mandate, given the previous rejection and the specific appointment of the arbitrator by a different court?",
+    "Legal Principles": "Jurisdiction of the Court to extend the mandate of an arbitral tribunal under Section 29A of the Arbitration and Conciliation Act, 1996. The concept of 'Court' as defined under Section 2(1)(e) of the Act, in relation to appointing authority under Section 11. The application of Section 14 of the Limitation Act, 1963 for condoning delay in filing an application for extension of the mandate.",
+    "Relevant Sections": "Section 29A, Section 2(1)(e), Section 11, Section 14 of the Arbitration and Conciliation Act, 1996.",
+    "Context": "Commercial dispute, extension of the mandate of an arbitral tribunal, jurisdiction of the court, application of the Limitation Act."
+  },
+  {
+    "Query": "A construction company, 'BuildRight Inc.', is facing a dispute with a property developer, 'Prime Estates', regarding a construction project. The arbitral tribunal appointed to resolve the dispute has informed the parties that the award will be pronounced on a specific date. However, before the award is pronounced, BuildRight Inc. applies to the court for an extension of the tribunal's mandate, arguing that the time period for making the award has not yet expired. Prime Estates opposes the extension, claiming the mandate had already terminated. Can the court extend the mandate when the tribunal has already announced a date for pronouncing the award?",
+    "Legal Principles": "Extension of mandate under Section 29A of the Arbitration and Conciliation Act, 1996, termination of the mandate, interpretation of the Act's provisions, effect of the tribunal's announcement of an award date on the mandate.",
+    "Relevant Sections": "Section 29A of the Arbitration and Conciliation Act, 1996.",
+    "Context": "Construction dispute, extension of mandate, arbitral award, interpretation of the Act, effect of announcing award date."
+  },
+  {
+    "Query": "Two parties, 'Alpha Corp.' and 'Beta Co.', are involved in a commercial arbitration. The tribunal's mandate expired, and Alpha Corp. filed an application for extension with the District Court, which subsequently transferred the matter to the Commercial Court. The Commercial Court rejected the application as non-maintainable. Alpha Corp. then filed a fresh application for extension with this Court. Beta Co. argues that the mandate had already terminated and that this Court lacks jurisdiction. Is this Court the appropriate forum to entertain the application for extension?",
+    "Legal Principles": "Jurisdiction of the Court under Section 29A of the Arbitration and Conciliation Act, 1996, effect of transfer of proceedings between courts, termination of mandate, applicability of Section 14 of the Limitation Act.",
+    "Relevant Sections": "Section 29A, Section 14 of the Arbitration and Conciliation Act, 1996.",
+    "Context": "Commercial arbitration, extension of mandate, transfer of proceedings, jurisdiction of the court, application of the Limitation Act."
+  },
+  {
+    "Query": "A company, 'TechSolutions Inc.', is in a dispute with its client, 'Digital Ventures', over a software development project. The dispute is being resolved through arbitration, and the tribunal's mandate is due to expire. TechSolutions Inc. seeks to extend the mandate, arguing that they need additional time to gather evidence. Digital Ventures opposes the extension, arguing that TechSolutions Inc. has been dilatory in pursuing the case. Does the court have the discretion to extend the mandate despite Digital Ventures' opposition?",
+    "Legal Principles": "Extension of mandate under Section 29A of the Arbitration and Conciliation Act, 1996, grounds for extension, discretion of the court, balancing the interests of the parties, principles of fairness and procedural efficiency.",
+    "Relevant Sections": "Section 29A of the Arbitration and Conciliation Act, 1996.",
+    "Context": "Commercial dispute, extension of mandate, discretion of the court, balancing of interests, principles of fairness and procedural efficiency."
+  },
+  {
+    "Query": "A technology company, 'InnoTech', is engaged in a dispute with its partner, 'Global Solutions', regarding a joint venture. The arbitral tribunal appointed to resolve the dispute has been extended multiple times by consent of the parties. However, the parties now disagree on whether further extension is necessary. InnoTech applies to the court for extension, while Global Solutions opposes it. Considering the history of extensions and the parties' current disagreement, should the court grant the extension?",
+    "Legal Principles": "Extension of mandate under Section 29A of the Arbitration and Conciliation Act, 1996, history of extensions, parties' consent, balancing of interests, court's discretion in granting or denying extension.",
+    "Relevant Sections": "Section 29A of the Arbitration and Conciliation Act, 1996.",
+    "Context": "Joint venture dispute, extension of mandate, history of extensions, parties' disagreement, court's discretion, balancing of interests."
+  },
+  {
+    "Query": "A company, 'GreenTech', is engaged in a dispute with its supplier, 'EcoMaterials', regarding a contract for environmentally sustainable materials. The arbitral tribunal appointed to resolve the dispute has extended its mandate several times. However, the parties are now facing difficulties in obtaining certain crucial documents needed for the arbitration. GreenTech applies to the court for an extension of the mandate, citing these difficulties. Should the court grant the extension based on the parties' need for additional time to gather evidence?",
+    "Legal Principles": "Extension of mandate under Section 29A of the Arbitration and Conciliation Act, 1996, grounds for extension, difficulties in obtaining evidence, court's discretion, balancing the interests of the parties.",
+    "Relevant Sections": "Section 29A of the Arbitration and Conciliation Act, 1996.",
+    "Context": "Contract dispute, extension of mandate, difficulties in obtaining evidence, court's discretion, balancing of interests, principles of fairness and procedural efficiency."
+  },
+  {
+    "Query": "A company, 'Global Logistics', is engaged in a dispute with its customer, 'International Trade Corp.', regarding a shipment delay. The arbitral tribunal has already issued a partial award in the case. Global Logistics seeks to extend the mandate to address a specific remaining issue related to damages. International Trade Corp. argues that the extension is unnecessary as the main issue has already been addressed. Can the court grant the extension to address a specific issue after a partial award has been issued?",
+    "Legal Principles": "Extension of mandate under Section 29A of the Arbitration and Conciliation Act, 1996, scope of extension, partial awards, addressing specific issues, court's discretion, balancing the interests of the parties.",
+    "Relevant Sections": "Section 29A of the Arbitration and Conciliation Act, 1996.",
+    "Context": "Shipment delay dispute, extension of mandate, partial award, addressing specific issues, court's discretion, balancing of interests."
+  },
+  {
+    "Query": "A company, 'PowerGen', is engaged in a dispute with a government agency, 'Energy Regulatory Commission', regarding a power plant project. The arbitral tribunal's mandate is nearing its end. PowerGen applies to the court for extension, citing complex technical issues that require additional time to be addressed. The Energy Regulatory Commission opposes the extension, arguing that PowerGen has been dilatory. Considering the involvement of a government agency and complex technical issues, should the court grant the extension?",
+    "Legal Principles": "Extension of mandate under Section 29A of the Arbitration and Conciliation Act, 1996, grounds for extension, complex technical issues, balancing of interests, court's discretion in public interest cases.",
+    "Relevant Sections": "Section 29A of the Arbitration and Conciliation Act, 1996.",
+    "Context": "Power plant project dispute, extension of mandate, complex technical issues, balancing of interests, court's discretion, public interest considerations."
+  },
+  {
+    "Query": "A company, 'PharmaCo', is engaged in a dispute with its competitor, 'MedTech', regarding a patent infringement claim. The arbitral tribunal has informed the parties that the award will be pronounced soon. PharmaCo, however, seeks to extend the mandate, alleging that MedTech has been deliberately delaying the proceedings. MedTech denies the allegations and argues that the extension is unnecessary. Can the court grant the extension based on allegations of deliberate delay tactics by one of the parties?",
+    "Legal Principles": "Extension of mandate under Section 29A of the Arbitration and Conciliation Act, 1996, grounds for extension, allegations of deliberate delay, court's discretion, balancing the interests of the parties, principles of fairness and procedural efficiency.",
+    "Relevant Sections": "Section 29A of the Arbitration and Conciliation Act, 1996.",
+    "Context": "Patent infringement dispute, extension of mandate, allegations of deliberate delay, court's discretion, balancing of interests, principles of fairness and procedural efficiency."
+  },
+  {
+    "Query": "A company, 'FinTech', is engaged in a dispute with its investor, 'Venture Capital Fund', regarding a breach of contract. The arbitral tribunal has extended its mandate several times, but the parties are now nearing the end of the proceedings. FinTech applies to the court for a final extension, citing the need to finalize their closing arguments. Venture Capital Fund opposes the extension, arguing that FinTech has had sufficient time to prepare its arguments. Should the court grant the final extension to allow for finalization of closing arguments?",
+    "Legal Principles": "Extension of mandate under Section 29A of the Arbitration and Conciliation Act, 1996, final extension, balancing of interests, court's discretion, principles of fairness and procedural efficiency.",
+    "Relevant Sections": "Section 29A of the Arbitration and Conciliation Act, 1996.",
+    "Context": "Breach of contract dispute, extension of mandate, final extension, balancing of interests, court's discretion, principles of fairness and procedural efficiency."
+  }
+]
+```

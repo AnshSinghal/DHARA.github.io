@@ -1,0 +1,103 @@
+## Case Title
+
+* **Case Name:** Ms Rachna Overseas vs Ms Printech System
+* **Court:** Delhi High Court
+* **Date of Judgment:** 9th December, 2021
+* **Citation:** Not provided in the text.
+
+## Background and Context
+
+* **Brief Overview:** Ms. Printech System (Plaintiff) filed a commercial suit against Ms. Rachna Overseas (Defendant) for recovery of Rs. 11,84,823/- owed for printing plates and chemicals supplied. The Defendant had issued two cheques that bounced, leading to the lawsuit. The Defendant filed a written statement beyond the prescribed 30-day period without an application for condonation of delay and without a statement of truth. The Commercial Court dismissed the Defendant's application to rectify the deficiencies, and the present petition challenges that order.
+* **Key Issues:**
+    * Whether the Defendant was required to file an application for condonation of delay along with the written statement filed beyond the 30-day period.
+    * Whether the Commercial Court erred in dismissing the Defendant's application to file a statement of truth.
+    * Whether the Commercial Court correctly applied the provisions of the Commercial Courts Act, 2015, and the relevant judgments.
+
+## Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * Article 227 of the Constitution of India
+    * The Code of Civil Procedure, 1908 (CPC)
+        * Order VIII Rule 1
+        * Section 151
+    * The Commercial Courts Act, 2015
+* **Precedents Cited:**
+    * Ganesh Trading Co. vs. Moji Ram, (1978) 2 SCC 91
+    * Jai Jai Ram Manohar Lal vs. National Building Material Supply, Gurgaon (1969) 1 SCC 869
+    * Sangram Singh vs. Election Tribunal, Kotah, Bhhhurey Lel Baya, (1955) 2 SCR 1
+    * Red Bull AG vs. Pepsico India Holdings Pvt Ltd & Anr. 2019 SCC OnLine Del 9901
+    * Ambalal Sarabhai Enterprises Ltd. Vs. K.S. Infraspace LLP, (2020) 15 SCC 585
+    * SCG Contracts (India) Pvt. Ltd. vs. K.S. Chamankar Infrastructure Pvt. Ltd. and Ors.
+    * Ok Play India Pvt. Ltd. vs. A P Distributors and Anr. 2021, SCC OnLine Del 4043
+    * Intiyaz Sheikh vs. Puma Se 2021 SCC OnLine Del 4679
+* **Legal Doctrines:**
+    * Principles of procedural fairness
+    * Importance of strict interpretation of the Commercial Courts Act, 2015
+    * Condonation of delay in filing legal documents
+    * Inherent powers of the court under Section 151 CPC
+
+## Arguments Presented
+
+* **Plaintiff’s Argument:**
+    * The Defendant failed to file the written statement within the 30-day period and did not seek condonation of delay as required by Order VIII Rule 1 CPC.
+    * The Defendant did not rectify the deficiencies in the written statement within the time granted by the court.
+    * The Commercial Courts Act, 2015, mandates a strict approach to ensure speedy disposal of commercial suits.
+    * The precedents cited by the Defendant are not applicable in the context of the Commercial Courts Act.
+* **Defendant’s Argument:**
+    * There is no requirement under Order VIII Rule 1 CPC to file a separate application for condonation of delay.
+    * Technicalities should not come in the way of substantial justice.
+    * The Defendant should be allowed to present its defense on merit.
+    * The precedents cited support the Defendant's position.
+
+## Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The Defendant failed to file the written statement within the prescribed 30-day period and did not seek condonation of delay, despite the court's specific instructions.
+    * The Defendant's approach to the case was negligent and lacked diligence.
+    * The Commercial Courts Act, 2015, mandates a strict interpretation to achieve speedy disposal of commercial disputes.
+* **Interpretation of Law:**
+    * The court interpreted Order VIII Rule 1 CPC to require an application for condonation of delay when filing a written statement beyond the 30-day period.
+    * The court emphasized the strict interpretation of the Commercial Courts Act, 2015, to uphold its purpose of quick resolution of commercial cases.
+* **Application of Law:**
+    * The court found that the Defendant's negligence and disregard for the court's orders warranted the dismissal of its application to file a statement of truth.
+    * The court applied the precedents, particularly Ok Play (supra) and Intiyaz Sheikh (supra), to uphold the mandatory requirements for condonation of delay in commercial suits.
+
+## Judgment
+
+* **Final Decision:** The petition was dismissed.
+* **Relief Granted:** No relief was granted to the Defendant.
+* **Orders:** The Commercial Court's order dismissing the Defendant's application was upheld.
+
+## Implications
+
+* **Impact on Law:** This judgment reaffirms the strict interpretation of the Commercial Courts Act, 2015, and the importance of complying with procedural requirements in commercial suits. It reinforces the need for filing an application for condonation of delay when filing a written statement beyond the prescribed period.
+* **Future Relevance:** This case serves as a precedent for future cases involving delays in filing written statements in commercial suits. It highlights the potential consequences of negligence and lack of diligence in pursuing legal proceedings.
+* **Broader Context:** The judgment underscores the emphasis on efficient resolution of commercial disputes under the Commercial Courts Act, 2015, and the need for parties to act diligently to avoid procedural delays.
+
+## Summary Points
+
+* The Defendant failed to file a timely written statement and did not seek condonation of delay.
+* The Commercial Court dismissed the Defendant's application to rectify the deficiencies.
+* The High Court upheld the Commercial Court's order, emphasizing the strict interpretation of the Commercial Courts Act, 2015, and the need for procedural compliance.
+* The judgment underscores the consequences of negligence and lack of diligence in commercial litigation.
+
+## References
+
+* **Citations:**
+    * Article 227 of the Constitution of India
+    * The Code of Civil Procedure, 1908 (CPC)
+    * Order VIII Rule 1 CPC
+    * Section 151 CPC
+    * The Commercial Courts Act, 2015
+    * Ganesh Trading Co. vs. Moji Ram, (1978) 2 SCC 91
+    * Jai Jai Ram Manohar Lal vs. National Building Material Supply, Gurgaon (1969) 1 SCC 869
+    * Sangram Singh vs. Election Tribunal, Kotah, Bhhhurey Lel Baya, (1955) 2 SCR 1
+    * Red Bull AG vs. Pepsico India Holdings Pvt Ltd & Anr. 2019 SCC OnLine Del 9901
+    * Ambalal Sarabhai Enterprises Ltd. Vs. K.S. Infraspace LLP, (2020) 15 SCC 585
+    * SCG Contracts (India) Pvt. Ltd. vs. K.S. Chamankar Infrastructure Pvt. Ltd. and Ors.
+    * Ok Play India Pvt. Ltd. vs. A P Distributors and Anr. 2021, SCC OnLine Del 4043
+    * Intiyaz Sheikh vs. Puma Se 2021 SCC OnLine Del 4679
+* **Further Reading:**
+    * The Commercial Courts Act, 2015
+    * The Code of Civil Procedure, 1908 (CPC)
+    * Articles and legal commentaries on the Commercial Courts Act and condonation of delay. 

@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A company, 'XYZ Corporation', has been contracted to build a bridge for the government, but the project has been delayed due to unforeseen circumstances. XYZ Corporation is claiming liquidated damages from the government, but the government argues that the delays were not their fault. The government wants to encash a bank guarantee provided by XYZ Corporation. Can the government be restrained from encashing the bank guarantee?",
+    "Legal Principles": "Bank guarantees are independent contracts and generally enforceable, even if there are disputes regarding the underlying contract. However, courts can intervene in cases of fraud, irretrievable injustice, or special equities.",
+    "Relevant Sections": "The court should be slow in granting an order of injunction to restrain the realisation of a bank guarantee or a letter of credit. Since a bank guarantee or a letter of credit is an independent and a separate contract and is absolute in nature, the existence of any dispute between the parties to the contract is not a ground for issuing an order of injunction to restrain enforcement of bank guarantees or letters of credit.",
+    "Context": "Jurisdiction: India, Case Type: Commercial Dispute, Injunction against Bank Guarantee Encashment"
+  },
+  {
+    "Query": "A construction company, 'ABC Builders', has been awarded a contract to build a new school building.  The contract includes a performance bond. ABC Builders has faced unexpected delays and financial difficulties, and the school board is threatening to encash the performance bond.  ABC Builders claims the delays were beyond their control. Can ABC Builders prevent the school board from encashing the performance bond?",
+    "Legal Principles": "Performance bonds are typically unconditional and provide security for the beneficiary's financial protection. However, courts can consider exceptions like fraud, irretrievable injustice, or special equities.",
+    "Relevant Sections": "The courts should be slow in granting an order of injunction to restrain the realisation of a bank guarantee or a letter of credit. Since a bank guarantee or a letter of credit is an independent and a separate contract and is absolute in nature, the existence of any dispute between the parties to the contract is not a ground for issuing an order of injunction to restrain enforcement of bank guarantees or letters of credit.",
+    "Context": "Jurisdiction: India, Case Type: Construction Contract, Injunction against Performance Bond Encashment"
+  },
+  {
+    "Query": "A software development company, 'Tech Solutions', has entered into a contract with a client, 'Data Corp', to develop a custom software application.  The contract includes a bank guarantee as payment security.  The software development has faced delays, and Data Corp claims Tech Solutions is in breach of contract. Data Corp wants to encash the bank guarantee.  Tech Solutions argues the delays were due to Data Corp's changes in specifications. Can Tech Solutions prevent Data Corp from encashing the bank guarantee?",
+    "Legal Principles": "Bank guarantees are independent contracts and usually enforceable.  However, exceptions like fraud, irretrievable injustice, or special equities can be considered by courts.",
+    "Relevant Sections": "Unless fraud or special equity exists, is pleaded and prima facie established by strong evidence as a triable issue, the beneficiary cannot be restrained from encashing the bank guarantee even if dispute between the beneficiary and the person at whose instance the bank guarantee was given by the bank, had arisen in performance of the contract or execution of the works undertaken in furtherance thereof.",
+    "Context": "Jurisdiction: India, Case Type: Software Development Contract, Injunction against Bank Guarantee Encashment"
+  },
+  {
+    "Query": "A company, 'Green Energy', has signed a long-term agreement to supply solar power to a manufacturing facility, 'Power Industries'.  The agreement includes a bank guarantee. Power Industries has decided to terminate the agreement early, citing economic reasons. Green Energy claims this is a breach of contract and wants to encash the bank guarantee. Can Power Industries prevent Green Energy from encashing the bank guarantee?",
+    "Legal Principles": "Bank guarantees are typically unconditional and enforceable, even in the presence of disputes regarding the underlying contract.  Courts can consider exceptions like fraud, irretrievable injustice, or special equities.",
+    "Relevant Sections": "The bank giving such guarantee is bound to honour it as per its terms irrespective of any dispute raised by its customer.",
+    "Context": "Jurisdiction: India, Case Type: Energy Supply Contract, Injunction against Bank Guarantee Encashment"
+  },
+  {
+    "Query": "A supplier, 'SupplyCo', has provided goods to a retailer, 'RetailMart', under a purchase agreement with a bank guarantee.  RetailMart is facing financial difficulties and has defaulted on payments. SupplyCo is seeking to encash the bank guarantee. RetailMart claims the goods were defective. Can RetailMart be restrained from encashing the bank guarantee?",
+    "Legal Principles": "Bank guarantees are independent contracts and typically enforceable. However, courts can intervene in cases of fraud, irretrievable injustice, or special equities.",
+    "Relevant Sections": "Fraud of an egregious nature which would vitiate the very foundation of such a bank guarantee or letter of credit and the beneficiary seeks to take advantage of the situation.",
+    "Context": "Jurisdiction: India, Case Type: Purchase Agreement, Injunction against Bank Guarantee Encashment"
+  },
+  {
+    "Query": "A construction company, 'BuildCo', has been contracted to construct a new office building for a corporation, 'CorpCo'.  The contract includes a performance bond. BuildCo has faced unexpected challenges that caused delays and cost overruns. CorpCo is threatening to encash the performance bond. BuildCo argues the challenges were unforeseen and beyond their control. Can BuildCo prevent CorpCo from encashing the performance bond?",
+    "Legal Principles": "Performance bonds provide security for the beneficiary's financial protection and are typically unconditional. However, courts can consider exceptions like fraud, irretrievable injustice, or special equities.",
+    "Relevant Sections": "Since a bank guarantee or a letter of credit is an independent and a separate contract and is absolute in nature, the existence of any dispute between the parties to the contract is not a ground for issuing an order of injunction to restrain enforcement of bank guarantees or letters of credit.",
+    "Context": "Jurisdiction: India, Case Type: Construction Contract, Injunction against Performance Bond Encashment"
+  },
+  {
+    "Query": "A technology company, 'InnoTech', has entered into a contract with a client, 'TechHub', to develop a new software platform. The contract includes a bank guarantee as payment security. The software development has encountered unexpected technical hurdles, leading to delays. TechHub claims InnoTech is in breach of contract and wants to encash the bank guarantee. InnoTech argues the delays were due to unforeseen technical challenges. Can InnoTech prevent TechHub from encashing the bank guarantee?",
+    "Legal Principles": "Bank guarantees are generally unconditional and enforceable, even in cases of disputes regarding the underlying contract. However, courts can consider exceptions like fraud, irretrievable injustice, or special equities.",
+    "Relevant Sections": "The bank giving such guarantee is bound to honour it as per its terms irrespective of any dispute raised by its customer.",
+    "Context": "Jurisdiction: India, Case Type: Software Development Contract, Injunction against Bank Guarantee Encashment"
+  },
+  {
+    "Query": "A food supplier, 'FreshFoods', has a contract to deliver fresh produce to a supermarket chain, 'SuperMart'. The contract includes a bank guarantee. SuperMart has experienced a significant drop in sales and has decided to terminate the contract early, citing economic reasons. FreshFoods claims this is a breach of contract and wants to encash the bank guarantee. Can SuperMart prevent FreshFoods from encashing the bank guarantee?",
+    "Legal Principles": "Bank guarantees are independent contracts and typically enforceable, even if there are disputes regarding the underlying contract. Courts can consider exceptions like fraud, irretrievable injustice, or special equities.",
+    "Relevant Sections": "Unless fraud or special equity exists, is pleaded and prima facie established by strong evidence as a triable issue, the beneficiary cannot be restrained from encashing the bank guarantee even if dispute between the beneficiary and the person at whose instance the bank guarantee was given by the bank, had arisen in performance of the contract or execution of the works undertaken in furtherance thereof.",
+    "Context": "Jurisdiction: India, Case Type: Food Supply Contract, Injunction against Bank Guarantee Encashment"
+  },
+  {
+    "Query": "A manufacturing company, 'ManuCorp', has a contract with a distributor, 'DistriCo', to supply manufactured goods. The contract includes a performance bond. ManuCorp has experienced production delays due to unforeseen supply chain issues. DistriCo is threatening to encash the performance bond. ManuCorp argues the delays were beyond their control. Can ManuCorp prevent DistriCo from encashing the performance bond?",
+    "Legal Principles": "Performance bonds are generally unconditional and provide financial security for the beneficiary.  However, courts can consider exceptions like fraud, irretrievable injustice, or special equities.",
+    "Relevant Sections": "Since a bank guarantee or a letter of credit is an independent and a separate contract and is absolute in nature, the existence of any dispute between the parties to the contract is not a ground for issuing an order of injunction to restrain enforcement of bank guarantees or letters of credit.",
+    "Context": "Jurisdiction: India, Case Type: Manufacturing Contract, Injunction against Performance Bond Encashment"
+  },
+  {
+    "Query": "A transportation company, 'TransCo', has a contract with a logistics firm, 'LogiCo', to provide transportation services. The contract includes a bank guarantee. LogiCo has experienced a significant decline in its business and has decided to terminate the contract early, citing economic reasons. TransCo claims this is a breach of contract and wants to encash the bank guarantee. Can LogiCo prevent TransCo from encashing the bank guarantee?",
+    "Legal Principles": "Bank guarantees are typically unconditional and enforceable, even if there are disputes regarding the underlying contract.  Courts can consider exceptions like fraud, irretrievable injustice, or special equities.",
+    "Relevant Sections": "Fraud of an egregious nature which would vitiate the very foundation of such a bank guarantee or letter of credit and the beneficiary seeks to take advantage of the situation.",
+    "Context": "Jurisdiction: India, Case Type: Transportation Contract, Injunction against Bank Guarantee Encashment"
+  }
+]
+```

@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A company has been awarded an arbitral award for a large sum of money, but the other party is refusing to pay and is attempting to sell off its assets. Can the company seeking enforcement of the award obtain an order from the court to prevent the sale of assets?",
+    "Legal Principles": "Section 9 of the Arbitration and Conciliation Act, 1996 allows for interim measures of protection to be sought by a party to an arbitration, including measures to secure the amount in dispute or to prevent the disposal of assets that might frustrate the enforcement of an award.",
+    "Relevant Sections": "Section 9 of the Arbitration and Conciliation Act, 1996",
+    "Context": "This query concerns the use of Section 9 of the Arbitration and Conciliation Act, 1996 to protect the interests of a decree holder in an arbitration case by seeking an order to prevent the disposal of assets."
+  },
+  {
+    "Query": "Two companies entered into a contract for the supply of goods. One company claims the other breached the contract and is seeking damages. An arbitral tribunal has awarded damages, but the losing party is appealing the award. Can the winning company seek an order from the court to secure the amount of the award during the appeal?",
+    "Legal Principles": "Section 9 of the Arbitration and Conciliation Act, 1996 allows for interim measures of protection to be sought by a party to an arbitration, including measures to secure the amount in dispute, even when an appeal is pending against the arbitral award.",
+    "Relevant Sections": "Section 9 of the Arbitration and Conciliation Act, 1996",
+    "Context": "This query concerns the use of Section 9 of the Arbitration and Conciliation Act, 1996 to secure the amount of an arbitral award pending an appeal."
+  },
+  {
+    "Query": "A company is facing an arbitration claim for breach of contract. The company has reason to believe that the other party is attempting to hide or dispose of assets to avoid paying any potential award. Can the company facing the claim seek an order from the court to freeze the assets of the claimant?",
+    "Legal Principles": "Section 9 of the Arbitration and Conciliation Act, 1996 allows for interim measures of protection to be sought by a party to an arbitration, including measures to preserve or inspect property or assets that are relevant to the dispute.",
+    "Relevant Sections": "Section 9(ii)(c) of the Arbitration and Conciliation Act, 1996",
+    "Context": "This query concerns the use of Section 9 of the Arbitration and Conciliation Act, 1996 to obtain a pre-award order to freeze the assets of a party in an arbitration."
+  },
+  {
+    "Query": "Two parties have been in a long-running arbitration over a property dispute. One party has been awarded the property, but the losing party is refusing to vacate the property. Can the winning party seek an order from the court to force the losing party to vacate the property?",
+    "Legal Principles": "Section 9 of the Arbitration and Conciliation Act, 1996 allows for interim measures of protection to be sought by a party to an arbitration, including measures to secure the possession of property that is the subject of the dispute.",
+    "Relevant Sections": "Section 9(ii)(a) of the Arbitration and Conciliation Act, 1996",
+    "Context": "This query concerns the use of Section 9 of the Arbitration and Conciliation Act, 1996 to obtain a post-award order for the possession of property."
+  },
+  {
+    "Query": "A company has been awarded a large sum of money in an arbitration case. The other party is claiming that the award is excessive and is seeking to have it set aside. Can the winning company seek an order from the court to prevent the losing party from disposing of its assets while the challenge to the award is pending?",
+    "Legal Principles": "Section 9 of the Arbitration and Conciliation Act, 1996 allows for interim measures of protection to be sought by a party to an arbitration, even when a challenge to the award is pending.",
+    "Relevant Sections": "Section 9 of the Arbitration and Conciliation Act, 1996",
+    "Context": "This query concerns the use of Section 9 of the Arbitration and Conciliation Act, 1996 to protect the interests of a decree holder in an arbitration case where a challenge to the award is pending."
+  },
+  {
+    "Query": "Two parties are involved in an arbitration concerning a contract for the construction of a building. One party alleges that the other party is failing to complete the construction work on time and is seeking an order from the court to force the other party to complete the work.",
+    "Legal Principles": "Section 9 of the Arbitration and Conciliation Act, 1996 allows for interim measures of protection to be sought by a party to an arbitration, including orders to compel specific performance of the contract.",
+    "Relevant Sections": "Section 9(ii)(d) of the Arbitration and Conciliation Act, 1996",
+    "Context": "This query concerns the use of Section 9 of the Arbitration and Conciliation Act, 1996 to obtain a pre-award order for specific performance of a contract in an arbitration."
+  },
+  {
+    "Query": "A company is facing an arbitration claim for breach of contract. The company believes that the claim is frivolous and is seeking to have the arbitration proceedings stayed. Can the company seeking the stay seek an order from the court to protect its assets from being attached by the claimant?",
+    "Legal Principles": "Section 9 of the Arbitration and Conciliation Act, 1996 allows for interim measures of protection to be sought by a party to an arbitration, including orders to prevent the attachment of assets.",
+    "Relevant Sections": "Section 9(ii)(d) of the Arbitration and Conciliation Act, 1996",
+    "Context": "This query concerns the use of Section 9 of the Arbitration and Conciliation Act, 1996 to obtain a pre-award order to prevent the attachment of assets in an arbitration."
+  },
+  {
+    "Query": "Two companies entered into a joint venture agreement. One company is alleging that the other company is breaching the agreement and is seeking an order from the court to appoint a receiver to manage the joint venture assets.",
+    "Legal Principles": "Section 9 of the Arbitration and Conciliation Act, 1996 allows for interim measures of protection to be sought by a party to an arbitration, including orders for the appointment of a receiver.",
+    "Relevant Sections": "Section 9(ii)(d) of the Arbitration and Conciliation Act, 1996",
+    "Context": "This query concerns the use of Section 9 of the Arbitration and Conciliation Act, 1996 to obtain a pre-award order for the appointment of a receiver in an arbitration."
+  },
+  {
+    "Query": "A company has been awarded a large sum of money in an arbitration case, but the other party is claiming financial hardship and is seeking to have the award reduced. Can the winning company seek an order from the court to prevent the losing party from disposing of its assets while the challenge to the award is pending?",
+    "Legal Principles": "Section 9 of the Arbitration and Conciliation Act, 1996 allows for interim measures of protection to be sought by a party to an arbitration, even when a challenge to the award is pending.",
+    "Relevant Sections": "Section 9 of the Arbitration and Conciliation Act, 1996",
+    "Context": "This query concerns the use of Section 9 of the Arbitration and Conciliation Act, 1996 to protect the interests of a decree holder in an arbitration case where a challenge to the award is pending."
+  },
+  {
+    "Query": "Two parties have agreed to arbitrate a dispute concerning a contract for the sale of goods. One party is alleging that the other party is refusing to deliver the goods and is seeking an order from the court to compel delivery of the goods.",
+    "Legal Principles": "Section 9 of the Arbitration and Conciliation Act, 1996 allows for interim measures of protection to be sought by a party to an arbitration, including orders for the specific performance of a contract.",
+    "Relevant Sections": "Section 9(ii)(d) of the Arbitration and Conciliation Act, 1996",
+    "Context": "This query concerns the use of Section 9 of the Arbitration and Conciliation Act, 1996 to obtain a pre-award order for specific performance of a contract in an arbitration."
+  }
+]
+```

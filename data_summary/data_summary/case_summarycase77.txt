@@ -1,0 +1,100 @@
+##  1. Case Title
+
+* **Case Name:** Kuldeep Singh Sejwal vs. Sunita Kohli And Anr
+* **Court:** Delhi High Court
+* **Date of Judgment:** 3rd November 2022
+* **Citation:** 2022/DHC/004686
+
+## 2. Background and Context
+
+* **Brief Overview:** Kuldeep Singh Sejwal (petitioner) filed a suit for eviction/ejectment of Sunita Kohli and Anr (respondents) from a commercial property in Lado Sarai, New Delhi. The petitioner claimed that the respondents were in default of rent and had violated the terms of the lease agreement. 
+* **Key Issues:** 
+    * Whether the respondents were validly evicted from the property.
+    * Whether the unregistered lease deed could be used as evidence.
+    * Whether the petitioner was entitled to a summary judgment under Order XIII-A of the CPC.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * The Commercial Courts Act, 2015
+    * Order XIII-A of the CPC (as amended by the Commercial Courts Act)
+    * The Registration Act, 1908, specifically Section 49.
+    * The Transfer of Property Act, 1882, specifically Section 106.
+* **Precedents Cited:**
+    * Sadhana Lodh v. National Insurance Co. Ltd. (2003) 3 SSC 524
+    * Estralla Rubber v. Dass Estate (P) Ltd. (2001) 8 SCC 97
+    * Garment Craft v. Prakash Chand Goel (2022 SCC OnLine SC 29)
+    * Puri Investments v. Young Friends and Co. (2022 SCC Online SC 283)
+    * Ibrat Faizan v. Omaxe Buildhome Pvt. Ltd. (2022 SCC Online SC 620)
+    * S.M. Asif v. Virender Kumar Bajaj (2015) 9 SCC 287
+    * S.R. Tewari v. Union of India (2013) 6 SCC 602
+    * Rajinder Kumar Kindra v. Delhi Admn. (1984) 4 SCC 635
+    * Payal Vision Limited v. Radhika Choudhary (2012) 11 SCC 405
+    * K.B. Saha and Sons Pvt Ltd v. Development Consultant Ltd (2008) 8 SCC 564
+    * Geeta v. Mohd. Raza and Another (2019 SCC OnLine Del 11385)
+    * K.R. Impex v. Punj Lloyd Ltd (2019 SCC OnLine Del 6667)
+    * Kamdhenu Limited v. Aashiana Rolling Mills Ltd (2021 SCC OnLine Del 2426)
+    * Easyair Ltd vs. Opal Telecom Ltd. [2009] EWHC 339 (Ch) 
+    * Swain v. Hillman [2001] 1 All ER 91
+    * ED & F Man Liquid Products v. Patel [2003] EWCA Civ 472
+    * Royal Brompton Hospital NHS Trust v. Hammond (No 5) [2001] EWCA Civ 550
+    * Doncaster Pharmaceuticals Group Ltd. v. Bolton Pharmaceutical Co. [2007] FSR 63
+    * ICI Chemicals & Polymers Ltd. v. TTE Training Ltd. [2007] EWCA Civ 725
+* **Legal Doctrines:**
+    * **Summary Judgment:** The legal principle allowing a court to issue a judgment without a full trial, based on undisputed facts and admissions. 
+    * **Unregistered Documents:** The admissibility of unregistered documents as evidence for collateral purposes under the Registration Act. 
+    * **Consensus ad Idem:** The principle requiring mutual agreement between parties for a valid contract.
+    * **Superintendence Jurisdiction:** The limited supervisory jurisdiction of the High Court under Article 227 of the Constitution.
+
+## 4. Arguments Presented
+
+* **Petitioner’s Argument:** The petitioner argued that the respondents were in default of rent and had violated the terms of the lease agreement. They sought a summary judgment under Order XIII-A of the CPC, claiming the respondents had no real prospect of successfully defending the claim.
+* **Defendant’s Argument:** The respondents argued that they had a valid lease agreement with the petitioner and were not in default of rent. They presented evidence of payment of security and service charges, as well as a pending suit for specific performance of the unregistered lease deed. They argued that the unregistered lease deed could be used as evidence of collateral purpose and that the petitioner’s conduct demonstrated a consensus ad idem regarding the terms of the lease.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The court recognized the limited scope of its jurisdiction under Article 227 of the Constitution, stating that it could not act as an appellate court or reweigh the evidence.
+    * The court acknowledged that Order XIII-A of the CPC confers discretion on the court to grant summary judgments but emphasized that the provision does not confer a right on the plaintiff.
+    * The court noted that an unregistered document could be used as evidence of a collateral purpose under the Registration Act, but the question of its admissibility would need to be determined at trial.
+* **Interpretation of Law:**
+    * The court interpreted Order XIII-A of the CPC as requiring a careful consideration of all relevant facts and circumstances before granting a summary judgment.
+    * The court found that the unregistered lease deed was relevant to the case, even if not admissible as proof of the lease itself.
+    * The court emphasized the importance of considering the conduct of the parties in determining whether a consensus ad idem existed.
+* **Application of Law:**
+    * The court applied the principle of perversity, holding that a discretionary order could be challenged under Article 227 only if the manner of its exercise was unreasonable.
+    * The court applied the legal principles governing summary judgments under Order XIII-A of the CPC, noting the need for a “realistic” prospect of success and considering the evidence that could be reasonably expected at trial.
+    * The court applied the legal principles governing unregistered documents, recognizing their potential use as evidence for collateral purposes.
+
+## 6. Judgment
+
+* **Final Decision:** The Delhi High Court dismissed the petitioner's petition and upheld the decision of the Commercial Court to deny a summary judgment.
+* **Relief Granted:**  No relief was granted to the petitioner. 
+* **Orders:** The court dismissed the petition and disposed of the related miscellaneous application.
+
+## 7. Implications
+
+* **Impact on Law:** This judgment reinforces the principles governing the use of summary judgments under Order XIII-A of the CPC. It clarifies that the court has a discretionary power to grant such judgments but must carefully consider the facts of the case and ensure that the defendant has no real prospect of success. The judgment also reiterates the principle that unregistered documents can be used as evidence of collateral purpose, which may require further examination at trial.
+* **Future Relevance:** This case will be relevant in future cases involving similar disputes over leases and summary judgments under Order XIII-A of the CPC. It provides guidance on the factors to be considered when determining whether a summary judgment is appropriate.
+* **Broader Context:** This case highlights the challenges faced by parties seeking summary judgments in commercial disputes. It demonstrates the importance of conducting a thorough investigation into the facts and circumstances of the case, even when the parties are seemingly in agreement. It also emphasizes the need for courts to exercise caution when granting such judgments, particularly where the admissibility of evidence may be disputed.
+
+## 8. Summary Points
+
+* The Delhi High Court dismissed a petition seeking to overturn a lower court's decision denying summary judgment in a commercial lease dispute.
+* The court held that the lower court was justified in denying summary judgment because the respondents had presented evidence that raised genuine issues of fact regarding the validity of the lease agreement.
+* The court emphasized the limited scope of its supervisory jurisdiction under Article 227 of the Constitution, emphasizing that it could not act as an appellate court. 
+* The judgment highlights the importance of careful analysis of the evidence and the conduct of the parties when considering summary judgments under Order XIII-A of the CPC.
+* The case also emphasizes the potential admissibility of unregistered documents as evidence of collateral purposes under the Registration Act, but only upon further examination at trial.
+
+## 9. References
+
+* **Citations:**
+    * The Commercial Courts Act, 2015
+    * Order XIII-A of the CPC (as amended by the Commercial Courts Act)
+    * The Registration Act, 1908, specifically Section 49.
+    * The Transfer of Property Act, 1882, specifically Section 106.
+    * All cited cases and legal texts.
+* **Further Reading:**
+    * For further exploration of summary judgment principles, research related cases and commentaries on Order XIII-A of the CPC. 
+    * For further exploration of unregistered documents, research legal commentaries on the Registration Act, 1908.
+    * Research related cases and legal commentaries on the specific provisions of the Transfer of Property Act, 1882 cited in the judgment. 

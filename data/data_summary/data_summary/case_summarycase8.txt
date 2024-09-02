@@ -1,0 +1,85 @@
+##  M/S Reva Electric Car Co. P. Ltd. vs. M/S Green Mobil
+
+**1. Case Title**
+
+* **Case Name:** M/S Reva Electric Car Co. P. Ltd. vs. M/S Green Mobil
+* **Court:** Supreme Court of India
+* **Date of Judgment:** 25th November, 2011
+* **Citation:** AIR 2012 SUPREME COURT 739
+
+**2. Background and Context**
+
+* **Brief Overview:** This case arose from a dispute between M/S Reva Electric Car Co. P. Ltd. (RECC) and M/S Green Mobil (Green Mobil) concerning a Memorandum of Understanding (MOU) for the marketing of RECC cars in Belgium. The MOU was initially for a trial period of 3 to 6 months, with a potential extension based on RECC's discretion.  After the initial period, the parties intended to negotiate a long-term distribution agreement. However, the relationship soured, and RECC terminated the MOU in 2009, citing Green Mobil's lack of resources and poor sales performance. Green Mobil subsequently filed suit in a Belgian court seeking damages for the termination.
+* **Key Issues:** 
+    * Whether the MOU was validly extended beyond the initial trial period.
+    * Whether the disputes between the parties were covered by the arbitration clause in the MOU.
+    * Whether the arbitration clause in the MOU survived the termination of the MOU.
+
+**3. Legal Principles Involved**
+
+* **Relevant Statutes and Provisions:**
+    * Arbitration and Conciliation Act, 1996 (Sections 9, 11, 16)
+    * Appointment of Arbitrators by the Chief Justice of India Scheme, 1996
+* **Precedents Cited:**
+    * Bharat Petroleum Corporation Ltd. Vs. Great Eastern Shipping Company Ltd. (2008 (1) SCC 503)
+    * Everest Holding Limited Vs. Shyam Kumar Shrivastava & Ors. (2008 (16) SCC 774)
+    * Brigadier Man Mohan Sharma, FRGS (Retd.) Vs. Lieutenant General Depinder Singh (2009 (2) SCC 600)
+    * National Insurance Company Limited Vs. Boghara Polyfab Private Limited (2009(1) SCC 267)
+    * SBP & Co. Vs. Patel Engineering Ltd. & Anr. (2005 (8) SCC 618)
+    * A.P. Tourism Development Corporation Ltd. Vs. Pampa Hotels Ltd. (2010 (5) SCC 425)
+    * Alva Aluminium Limited, Bangkok Vs. Gabriel India Limited (2011 (1) SCC 167)
+* **Legal Doctrines:**
+    * **Independent Existence of Arbitration Clause:**  Section 16(1) of the Arbitration and Conciliation Act, 1996, treats an arbitration clause as an independent agreement, separate from the rest of the contract.
+    * **Jurisdictional Facts:** The court can determine the existence of an arbitration agreement as a jurisdictional fact in a Section 11 petition. 
+
+**4. Arguments Presented**
+
+* **Plaintiff’s Argument (RECC):**
+    * The MOU was extended beyond the initial period through RECC's exercise of its discretion under Clause 2.
+    * The disputes arose from the termination of the MOU and its consequences, which are covered by the arbitration clause.
+    * The arbitration clause survives even if the MOU itself is no longer in existence.
+* **Defendant’s Argument (Green Mobil):**
+    * The MOU expired by efflux of time on December 31st, 2007.
+    * The disputes pertained to a period after the MOU ended, and therefore, are not covered by the arbitration clause.
+    * The arbitration petition was filed to pre-empt the ongoing proceedings in the Belgian court.
+
+**5. Court’s Analysis and Reasoning**
+
+* **Key Findings:**
+    * The court found that the MOU had been extended by RECC's unilateral decision under Clause 2, despite no formal long-term agreement being finalized.
+    * The court examined the writ of summons filed by Green Mobil in the Belgian court and found that the claims related to the period covered by the MOU, including its termination.
+    * The court concluded that the arbitration clause was a separate agreement and survived the termination of the MOU, making the disputes subject to arbitration.
+* **Interpretation of Law:**
+    * The court interpreted Section 16(1) of the Arbitration and Conciliation Act, 1996, as making the arbitration clause an independent agreement separate from the main contract.
+    * The court clarified that in Section 11 petitions, the Chief Justice can decide the existence of an arbitration agreement as a jurisdictional fact.
+* **Application of Law:**
+    * The court applied the principles of independent existence of the arbitration clause and jurisdictional facts to determine that the disputes fell within the scope of the arbitration clause in the MOU.
+
+**6. Judgment**
+
+* **Final Decision:** The court ruled in favor of RECC.
+* **Relief Granted:**  The court appointed Hon. Mr. Justice R.V. Raveendran as the Sole Arbitrator to adjudicate the disputes between the parties.
+* **Orders:** The registry was directed to communicate the order to the Sole Arbitrator to enable him to proceed with the reference and decide the matter expeditiously.
+
+**7. Implications**
+
+* **Impact on Law:** This case reaffirmed the principle that arbitration clauses are independent agreements and survive the termination of the main contract. It further emphasized the court's power to determine the existence of an arbitration agreement as a jurisdictional fact in Section 11 petitions.
+* **Future Relevance:** This case serves as a precedent for future cases involving the enforceability of arbitration clauses and the determination of disputes under Section 11 of the Arbitration and Conciliation Act, 1996.
+* **Broader Context:** This case demonstrates the importance of having well-defined arbitration clauses in commercial agreements to ensure a smooth and predictable resolution of disputes. 
+
+**8. Summary Points**
+
+* The Supreme Court of India upheld the validity of the arbitration clause in a Memorandum of Understanding even after the MOU was terminated.
+* The court found that the disputes between the parties fell within the scope of the arbitration clause, despite the fact that the initial period of the MOU had expired.
+* This judgment reinforces the principle of the independent existence of arbitration clauses and the court's power to determine jurisdictional facts in Section 11 petitions.
+
+**9. References**
+
+* Arbitration and Conciliation Act, 1996
+* Appointment of Arbitrators by the Chief Justice of India Scheme, 1996
+* All cited case law, as listed in Section 3.
+
+**Further Reading:**
+
+* For a deeper understanding of arbitration law in India, consult the Arbitration and Conciliation Act, 1996 and related case law.
+* Research related case law concerning the independent existence of arbitration clauses and the scope of court jurisdiction under Section 11.

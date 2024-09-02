@@ -1,0 +1,58 @@
+```json
+[
+  {
+    "Query": "A plaintiff filed a suit in the ordinary civil court for recovery of money due to him. The defendant argued that the dispute is commercial in nature and should be filed in the Commercial Court. The court, in its order, returned the plaint to be filed before the Commercial Court. The plaintiff seeks to challenge the order, arguing that the court should have transferred the case to the Commercial Court instead of returning the plaint. What are the legal principles applicable in such a situation?",
+    "Legal Principles": "The court has the power to transfer a suit to a court of competent jurisdiction under Section 24 of the Code of Civil Procedure, 1908. This power can be exercised even if the suit is filed in the wrong court. The court should consider the interests of justice when deciding whether to transfer a suit.",
+    "Relevant Sections": "Section 24 of the Code of Civil Procedure, 1908",
+    "Context": "Jurisdiction, transfer of suits, commercial courts"
+  },
+  {
+    "Query": "A plaintiff filed a suit for recovery of money against a defendant, which was dismissed by the trial court due to a procedural defect. The plaintiff filed a review application, which was also dismissed by the trial court. The plaintiff now seeks to challenge both the original order dismissing the suit and the order dismissing the review application. Is the plaintiff's appeal maintainable?",
+    "Legal Principles": "Orders passed under Order VII Rule 10 CPC are appealable. The plaintiff can appeal the dismissal of the suit and the dismissal of the review application.",
+    "Relevant Sections": "Order VII Rule 10 CPC, Order XLVII Rule 1 CPC",
+    "Context": "Appealability of orders, procedural defects, review applications"
+  },
+  {
+    "Query": "A plaintiff filed a suit for recovery of money against a defendant. The defendant argued that the suit was time-barred. The trial court, without giving the plaintiff an opportunity to address the issue, held that the suit was time-barred and returned the plaint. The plaintiff seeks to challenge this order. Was the trial court correct in returning the plaint without giving the plaintiff an opportunity to be heard?",
+    "Legal Principles": "The principle of natural justice requires that a party be given an opportunity to be heard before an adverse order is passed against them. The trial court erred in returning the plaint without giving the plaintiff an opportunity to be heard.",
+    "Relevant Sections": "Section 14 of the Limitation Act, 1963",
+    "Context": "Natural justice, time-barred suits, opportunity to be heard"
+  },
+  {
+    "Query": "A plaintiff filed a suit in a civil court, which was subsequently held to be a commercial dispute. The court returned the plaint to be filed in the Commercial Court. The plaintiff filed the suit again in the Commercial Court, but within the limitation period, argued that the time between the return of the plaint and the refiling should be excluded. What are the legal principles and relevant sections applicable in this situation?",
+    "Legal Principles": "The plaintiff can seek to exclude the time spent in pursuing the suit in the wrong court under Section 14 of the Limitation Act, 1963. The court may exclude this time if the plaintiff acted bona fide and diligently in pursuing the suit in the wrong court.",
+    "Relevant Sections": "Section 14 of the Limitation Act, 1963",
+    "Context": "Exclusion of time, limitation, commercial courts"
+  },
+  {
+    "Query": "A plaintiff filed a suit in a civil court against a defendant. The defendant argued that the suit was filed in the wrong court and moved an application under Order VII Rule 11 CPC. The trial court granted the application and returned the plaint. The plaintiff filed the suit again in the correct court, but the defendant argued that the suit was time-barred as it was instituted after the expiry of the limitation period. Can the plaintiff argue that the time between the return of the plaint and the refiling should be excluded under Section 14 of the Limitation Act?",
+    "Legal Principles": "The time between the return of the plaint and the refiling in the correct court can be excluded under Section 14 of the Limitation Act, 1963, if the plaintiff acted bona fide and diligently in pursuing the suit in the wrong court.",
+    "Relevant Sections": "Order VII Rule 11 CPC, Section 14 of the Limitation Act, 1963",
+    "Context": "Exclusion of time, limitation, wrong court"
+  },
+  {
+    "Query": "A plaintiff filed a suit for recovery of money against a defendant. The defendant argued that the suit was not maintainable as the plaintiff had not complied with the pre-suit mediation requirements under Section 12A of the Commercial Courts Act, 2015. The plaintiff argued that the suit was filed before the Commercial Courts Act came into effect. What are the legal principles and relevant sections applicable in this situation?",
+    "Legal Principles": "The Commercial Courts Act, 2015, is a special law that governs commercial disputes. The provisions of the Act apply to suits filed after the Act came into effect, even if the cause of action arose before the Act came into effect. The plaintiff must comply with the pre-suit mediation requirements under Section 12A of the Act.",
+    "Relevant Sections": "Section 12A of the Commercial Courts Act, 2015",
+    "Context": "Commercial courts, pre-suit mediation, retrospective application of law"
+  },
+  {
+    "Query": "A plaintiff filed a suit for recovery of money against a defendant. The defendant argued that the suit was not maintainable as the plaintiff had not filed a statement of truth and affidavit as required under the Commercial Courts Act, 2015. The plaintiff argued that the suit was filed before the Commercial Courts Act came into effect. What are the legal principles and relevant sections applicable in this situation?",
+    "Legal Principles": "The Commercial Courts Act, 2015, is a special law that governs commercial disputes. The provisions of the Act apply to suits filed after the Act came into effect, even if the cause of action arose before the Act came into effect. The plaintiff must comply with the requirements of the Act, including filing a statement of truth and affidavit.",
+    "Relevant Sections": "Commercial Courts Act, 2015",
+    "Context": "Commercial courts, statement of truth, affidavit"
+  },
+  {
+    "Query": "A plaintiff filed a suit for recovery of money against a defendant. The defendant argued that the suit was not maintainable as the plaintiff had not filed a statement of truth and affidavit as required under the Commercial Courts Act, 2015. The plaintiff argued that the suit was filed before the Commercial Courts Act came into effect. The court held that the suit was maintainable as it was filed before the Act came into effect. The defendant appealed the order. What are the legal principles applicable in this situation?",
+    "Legal Principles": "The Commercial Courts Act, 2015, is a special law that governs commercial disputes. The provisions of the Act apply to suits filed after the Act came into effect, even if the cause of action arose before the Act came into effect. However, if the suit was filed before the Act came into effect, the plaintiff is not required to comply with the requirements of the Act.",
+    "Relevant Sections": "Commercial Courts Act, 2015",
+    "Context": "Commercial courts, statement of truth, affidavit, retrospective application of law"
+  },
+  {
+    "Query": "A plaintiff filed a suit for recovery of money against a defendant. The defendant argued that the suit was not maintainable as the plaintiff had not filed a statement of truth and affidavit as required under the Commercial Courts Act, 2015. The plaintiff argued that the suit was filed before the Commercial Courts Act came into effect. The court held that the suit was maintainable as it was filed before the Act came into effect. The defendant appealed the order. What are the legal principles applicable in this situation?",
+    "Legal Principles": "The Commercial Courts Act, 2015, is a special law that governs commercial disputes. The provisions of the Act apply to suits filed after the Act came into effect, even if the cause of action arose before the Act came into effect. However, if the suit was filed before the Act came into effect, the plaintiff is not required to comply with the requirements of the Act.",
+    "Relevant Sections": "Commercial Courts Act, 2015",
+    "Context": "Commercial courts, statement of truth, affidavit, retrospective application of law"
+  }
+]
+```

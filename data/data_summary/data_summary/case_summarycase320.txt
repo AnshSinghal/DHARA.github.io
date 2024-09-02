@@ -1,0 +1,96 @@
+## Case Title
+
+* **Case Name:** Swan LNG Pvt. Ltd. vs. National Marine Infrastructure India Pvt. Ltd.
+* **Court:** Gujarat High Court
+* **Date of Judgment:** 26th February 2018
+* **Citation:** C/FA/577/2018
+
+## Background and Context
+
+* **Brief Overview:** Swan LNG Pvt. Ltd. (Appellant) and National Marine Infrastructure India Pvt. Ltd. (Respondent) entered into a contract for the construction of an LNG Port infrastructure facility. The Respondent was awarded the contract after submitting a tender and was required to furnish a performance bank guarantee.  The Appellant claimed that the Respondent failed to meet milestones and deadlines outlined in the contract, leading to delays in the project. As a result, the Appellant invoked the performance bank guarantee, causing a dispute. The Respondent then filed a petition under Section 9 of the Arbitration Act, seeking to restrain the Appellant from encashing the bank guarantee. The Commercial Court, Rajkot, issued a show cause notice but did not grant an injunction. However, in a subsequent order, the Court directed that the demand draft issued by the Axis Bank in favor of the Appellant be kept suspended. The Appellant appealed this order to the Gujarat High Court.
+* **Key Issues:**
+    * Whether the Commercial Court erred in directing the suspension of the demand draft issued against the performance bank guarantee.
+    * Whether the Performance Bank Guarantee was unconditional and irrevocable, allowing the Appellant to invoke it despite disputes arising from the contract.
+    * Whether the Respondent's allegations of fraud in invoking the bank guarantee were sufficient to warrant an injunction.
+
+## Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * Commercial Courts, Commercial Division and Commercial Appellate Division of the High Courts Act, 2015 (Commercial Court Act, 2015)
+    * Arbitration and Conciliation Act, 1996
+* **Precedents Cited:**
+    * UP State Sugar Corporation vs. Sumac International Limited (1997) 1 SCC 568
+    * Dwarikesh Sugar Industries Limited vs. Prem Heavy Engineering Works (P) Ltd (1997) 6 SCC 450
+    * U.P. Cooperative Federation Ltd. vs. Singh Consultants and Engineers (P) Ltd (1998) 1 SCC 110
+    * Himadri Chemicals Industries Ltd vs. Coal Tar Refining Co (2007) 8 SCC 110
+    * Vintec Electronics Private Limited vs. HCL Info systems Ltd (2008) 1 SCC 544
+    * BSES Ltd vs. Fenner India Ltd and Anr (2006) 2 SCC 728
+    * M/s. Adani Agri Fresh Ltd vs. Mahaboob Sharif and Ors (2015 SCC Online SC 1302)
+    * Ansal Engineering Projects Ltd vs. Tehri Hydro Development Corporation Ltd. & Anr (1996) 5 SCC 450
+    * Bank of Baroda vs. Ruby Sales Corporation (Agency) & Anr (2006) SCC Online Guj 130
+    * Hindustan Dorr Oliver Limited vs. Gujarat State Fertilizers and Chemicals Limited (First Appeal No. 891 of 2017)
+* **Legal Doctrines:**
+    * Interpretation of Bank Guarantees: The principle that unconditional and irrevocable bank guarantees must be honored by the bank regardless of disputes between the beneficiary and the principal debtor.
+    * Exceptions to Injunctions Against Bank Guarantees: The limited exceptions to the rule, namely, fraud at the time of issuing the guarantee or irretrievable harm to the parties.
+    * Novatio of Contract: The doctrine of contract modification, where parties agree to replace an existing contract with a new one.
+
+## Arguments Presented
+
+* **Appellant's Argument:** 
+    * The Performance Bank Guarantee was unconditional and irrevocable, and the Appellant was entitled to invoke it based on the Respondent's failure to meet the contract's terms.
+    * The Appellant had already invoked the bank guarantee and encashed the demand draft issued by the bank, rendering the Commercial Court's order ineffective.
+    * The Respondent's allegations of fraud in invoking the bank guarantee were not supported by specific averments or evidence, and the fraud, if any, should have been established at the time of the contract's execution.
+    * The Appellant would face severe consequences from other parties involved in the LNG project due to the delay caused by the Respondent.
+* **Respondent's Argument:**
+    * The Commercial Court's order was interlocutory and should not be interfered with before a final decision in the Section 9 application.
+    * The relief sought in the Section 9 application was against the Appellant and not the bank, rendering the precedents cited by the Appellant inapplicable.
+    * The Appellant acted fraudulently by invoking the entire bank guarantee, despite negotiations for reducing its scope and the fact that the Respondent was only required to complete dredging work.
+    * A substantial amount was due to the Respondent for work already performed, and there was no justification for invoking the entire bank guarantee.
+
+## Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The Court found that the Performance Bank Guarantee was clearly unconditional and irrevocable, as stated in its terms.
+    * The Appellant had invoked the Bank Guarantee and the bank had issued the demand draft, which had already been deposited into the Appellant's account.
+    * The Respondent failed to present any specific allegations of fraud in the Section 9 application, and the mere assertion of fraud was insufficient to warrant an injunction.
+* **Interpretation of Law:**
+    * The Court relied on a catena of Supreme Court decisions, particularly Vintec Electronics Private Limited vs. HCL Info Systems Ltd., which established the principle that unconditional and irrevocable bank guarantees are enforced regardless of disputes between the parties.
+    * The Court also clarified that exceptions to this rule are very limited, requiring specific allegations of fraud at the time of execution or irretrievable harm.
+* **Application of Law:**
+    * The Court applied the established legal principles to the specific facts of the case. It found that the bank guarantee was indeed unconditional and irrevocable, and the Respondent's claims of fraud were not sufficiently substantiated.
+    * The Court rejected the Respondent's argument that the precedents cited were inapplicable due to the injunction being sought against the Appellant and not the bank. It held that the principle of enforcing unconditional bank guarantees applies to both the bank and the beneficiary party.
+
+## Judgment
+
+* **Final Decision:** The appeal was allowed. The impugned order passed by the Commercial Court was quashed and set aside.
+* **Relief Granted:** The Appellant was permitted to retain the funds received from the encashed Bank Guarantee.
+* **Orders:** The Court rejected the Respondent's request to stay the execution of the order, considering the unconditional nature of the bank guarantee and the potential for severe consequences for the Appellant if the order was not enforced.
+
+## Implications
+
+* **Impact on Law:** The judgment reiterates the established legal principles regarding unconditional and irrevocable bank guarantees. It highlights the importance of specific allegations of fraud in seeking to restrain the beneficiary from invoking the guarantee.
+* **Future Relevance:** The case sets a precedent for future cases involving disputes over bank guarantees. It serves as a reminder that such guarantees are independent contracts and are not easily subject to judicial intervention, especially in the absence of demonstrable fraud.
+* **Broader Context:** The case emphasizes the significance of clear and unambiguous contract terms, especially in commercial transactions involving bank guarantees. It highlights the need for parties to carefully consider and understand the implications of such financial instruments.
+
+## Summary Points
+
+* Unconditional and irrevocable bank guarantees must be honored by the bank regardless of disputes between the beneficiary and the principal debtor.
+* Allegations of fraud to restrain the invocation of such a guarantee must be specific and established at the time of execution.
+* The Court will be reluctant to intervene in commercial transactions involving bank guarantees unless there is a clear case of fraud or irretrievable harm.
+
+## References
+
+* Commercial Courts, Commercial Division and Commercial Appellate Division of the High Courts Act, 2015
+* Arbitration and Conciliation Act, 1996
+* Vintec Electronics Private Limited vs. HCL Info Systems Ltd (2008) 1 SCC 544
+* BSES Ltd vs. Fenner India Ltd and Anr (2006) 2 SCC 728
+* UP State Sugar Corporation vs. Sumac International Limited (1997) 1 SCC 568
+* Himadri Chemicals Industries Ltd vs. Coal Tar Refining Co (2007) 8 SCC 110
+* Hindustan Dorr Oliver Limited vs. Gujarat State Fertilizers and Chemicals Limited (First Appeal No. 891 of 2017)
+
+## Further Reading
+
+* **For a deeper understanding of bank guarantees in India:**
+    * "Bank Guarantees: Law and Practice in India" by S. Srinivasan (LexisNexis)
+    * "Banking Law and Practice" by P.N.  Vaish (Universal Law Publishing)
+

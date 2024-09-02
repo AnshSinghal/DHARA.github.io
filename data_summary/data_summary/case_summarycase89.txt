@@ -1,0 +1,90 @@
+## Case Title
+
+* **Case Name:** M/S Spml Infra Limited vs M/S Trisquare Switchgears Pvt Ltd 
+* **Court:** Delhi High Court
+* **Date of Judgment:** 6th July 2022
+* **Citation:** FAO(COMM) 81/2022 
+
+## Background and Context
+
+* **Brief Overview:** The case revolves around a dispute between M/S Spml Infra Limited (Appellant) and M/S Trisquare Switchgears Pvt Ltd (Respondent) concerning an outstanding payment for goods supplied. The Respondent had filed a suit for recovery of the remaining payment in the Commercial Court. The Appellant, however, wanted to refer the dispute to arbitration based on an arbitration agreement in their purchase order. 
+* **Key Issues:** The primary issue was whether the Appellant had forfeited their right to apply for arbitration under Section 8 of the Arbitration and Conciliation Act, 1996 (A&C Act), by failing to file a written statement within the stipulated time and thereby allowing their right to do so to be closed by the Commercial Court.
+
+## Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * **Arbitration and Conciliation Act, 1996 (A&C Act):**
+        * Section 8: Power to refer parties to arbitration where there is an arbitration agreement.
+    * **Code of Civil Procedure, 1908 (CPC):**
+        * Order VIII Rule 1: Time for filing written statement.
+        * Order VIII Rule 10: Extension of time for filing written statement.
+* **Precedents Cited:**
+    * **Anil Mahindra & Anr. v. Surender Kumar Makkar & Anr.:** A Single Bench decision of the Delhi High Court cited by the Commercial Court in its judgment.
+    * **Hughes Communication India Ltd. & Ors. v. Union of India:**  Another Single Bench decision of the Delhi High Court that criticized the interpretation of Section 8 in the *Anil Mahindra* case. 
+    * **SSIPL Lifestyle Private Limited v. Vama Apparels (India) Private Limited & Anr.:** A Single Bench decision of the Delhi High Court that took a different view regarding Section 8 of the A&C Act.
+    * **Krishan Radhu v. The Emmar MGF Construction Pvt. Ltd.:** Another Single Bench decision of the Delhi High Court with a differing interpretation of Section 8.
+    * **Shri Chand Construction and Apartments Private Limited &Anr. v. Tata Capital Housing Finance Ltd.:**  Yet another Single Bench decision of the Delhi High Court.
+    * **Food Corpn. of India v. Yadav Engineer & Contractor:** Supreme Court case related to interpretation of "other steps in the proceedings".
+    * **Rachappa Gurudappa Bijapur v. Gurudiddappa Nurandappa:** Supreme Court case on the interpretation of "taking any 'other steps in the proceedings'".
+    * **Booz Allen and Hamilton Inc. v. SBI Home Finance Ltd. & Ors.:** A Supreme Court case on the time limit for filing an application under Section 8 of the A&C Act.
+    * **Rashtriya Ispat Nigam Ltd. v. Verma Transport Co.:** Supreme Court case on the interpretation of "first statement on the substance of the dispute".
+    * **Bharat Sanchar Nigam Limited and Anr. v. M/s Nortel Networks India Private Limited:** Supreme Court case on the amendment of the A&C Act to ensure expeditious arbitration.
+* **Legal Doctrines:** 
+    * **Waiver:**  The Appellant's conduct and participation in the proceedings before the Commercial Court could be interpreted as a waiver of their right to refer the dispute to arbitration.
+    * **Estoppel:** The Appellant could be estopped from asserting their right to arbitration after participating in the litigation process.
+    * **Statutory Interpretation:**  The court's interpretation of the A&C Act, including Section 8, in light of amendments and relevant provisions of the CPC.
+    * **Legislative Intent:** The court's attempt to understand the intent behind the 2015 amendments to the A&C Act, especially in relation to the introduction of time limits for arbitration proceedings.
+
+## Arguments Presented
+
+* **Appellant’s Argument:** The Appellant argued that they had no intention to participate in the Commercial Court proceedings and that their failure to file a written statement did not constitute a waiver of their right to arbitration. They relied on the arbitration clause in their purchase order and cited various Single Bench decisions of the Delhi High Court that supported their interpretation of Section 8.
+* **Respondent’s Argument:**  The Respondent did not present any arguments as they were not represented in court during the hearing.
+
+## Court’s Analysis and Reasoning
+
+* **Key Findings:** The court found that:
+    * The expression "not later than the date of" introduced in Section 8(1) of the A&C Act by the 2015 amendment provided a clear time frame for filing an application under Section 8.
+    * The contemporaneous amendment to Order VIII Rule 1 of the CPC further supported the interpretation that the application under Section 8(1) must be filed within the time limit for filing the written statement. 
+    * Once the right to file the written statement was closed, the proceedings had progressed beyond the stage of completion of pleadings, making it no longer permissible for a party to seek reference to arbitration. 
+* **Interpretation of Law:** The court emphasized that the 2015 amendment to the A&C Act, along with the amendments to the CPC, reflected a legislative intent to streamline and expedite commercial dispute resolution through arbitration. 
+* **Application of Law:** The court applied its interpretation of Section 8 and the legislative intent to the facts of the case. The Appellant's failure to file a written statement within the stipulated time and their subsequent application under Section 8 after the right to do so was closed was considered a forfeiture of their right to seek arbitration.
+
+## Judgment
+
+* **Final Decision:** The Delhi High Court upheld the decision of the Commercial Court, dismissing the Appellant's appeal.
+* **Relief Granted:**  The court granted no relief to the Appellant.
+* **Orders:** The court dismissed the appeal and disposed of the pending application.
+
+## Implications
+
+* **Impact on Law:** This judgment clarified the interpretation of Section 8 of the A&C Act in light of the 2015 amendments. It established that the time frame for filing an application under Section 8(1) is limited to the time available for filing the first statement on the substance of the dispute, which includes the written statement.
+* **Future Relevance:** This case serves as a precedent for future cases involving applications under Section 8 of the A&C Act, particularly in commercial disputes. It reinforces the importance of timely action and highlights the consequences of missing deadlines in arbitration proceedings.
+* **Broader Context:** The judgment emphasizes the court's commitment to upholding the legislative intent of the 2015 amendments, which aimed to promote efficient and timely dispute resolution through arbitration.
+
+## Summary Points
+
+* The Appellant’s failure to file a written statement within the stipulated time resulted in the forfeiture of their right to apply for arbitration under Section 8 of the A&C Act.
+* The court interpreted the 2015 amendment to Section 8(1) of the A&C Act and its relation to the concurrent amendment to the CPC as establishing a time limit for applications under Section 8.
+* This judgment emphasizes the importance of timely action in arbitration proceedings and serves as a precedent for future cases.
+
+## References
+
+* **Arbitration and Conciliation Act, 1996**
+* **Code of Civil Procedure, 1908**
+* **Anil Mahindra & Anr. v. Surender Kumar Makkar & Anr.**
+* **Hughes Communication India Ltd. & Ors. v. Union of India**
+* **SSIPL Lifestyle Private Limited v. Vama Apparels (India) Private Limited & Anr.**
+* **Krishan Radhu v. The Emmar MGF Construction Pvt. Ltd.**
+* **Shri Chand Construction and Apartments Private Limited &Anr. v. Tata Capital Housing Finance Ltd.**
+* **Food Corpn. of India v. Yadav Engineer & Contractor**
+* **Rachappa Gurudappa Bijapur v. Gurudiddappa Nurandappa**
+* **Booz Allen and Hamilton Inc. v. SBI Home Finance Ltd. & Ors.**
+* **Rashtriya Ispat Nigam Ltd. v. Verma Transport Co.**
+* **Bharat Sanchar Nigam Limited and Anr. v. M/s Nortel Networks India Private Limited**
+
+## Further Reading
+
+* **Arbitration and Conciliation Act, 1996 (As amended)**
+* **Commercial Courts Act, 2015**
+* **Code of Civil Procedure, 1908 (As amended)**
+* **Relevant case law on Section 8 of the A&C Act** 

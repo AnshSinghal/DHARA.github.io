@@ -1,0 +1,81 @@
+## Case Title
+
+* **Case Name:** Syed Asmath Pasha Qhadri vs. M/S. Sumeru Realty Pvt Ltd
+* **Court:** Karnataka High Court
+* **Date of Judgment:** 23rd April 2024
+* **Citation:** CRP No. 229 of 2024
+
+## Background and Context
+
+* **Brief Overview:** The plaintiff, Syed Asmath Pasha Qhadri, filed a suit against M/S Sumeru Realty Pvt Ltd based on a Co-Joint Development Agreement (Agreement) for a project. The plaintiff argued that he was entitled to execute the project and the defendants had no right to interfere, as he had invested significant funds. The defendants, M/S Sumeru Realty Pvt Ltd and M/S Shrivision Living Space Pvt Ltd, countered by filing an application to reject the plaint under Order VII Rule 11 of the CPC. They argued that the plaintiff failed to comply with the mandatory pre-institution mediation and settlement requirement under Section 12A of the Commercial Courts Act, 2015. 
+* **Key Issues:** 
+    * Whether the plaintiff's failure to comply with Section 12A of the Commercial Courts Act barred the institution of the suit. 
+    * Whether a revision petition under Section 115 of the CPC is maintainable against an order passed by the Commercial Court on an application under Order VII Rule 11 of the CPC.
+
+## Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * Section 115 of the Code of Civil Procedure (CPC)
+    * Section 8 of the Commercial Courts Act, 2015
+    * Section 12A of the Commercial Courts Act, 2015
+    * Section 13 of the Commercial Courts Act, 2015
+    * Order VII Rule 11 of the CPC
+* **Precedents Cited:** 
+    * Patil Automation Pvt. Ltd. v. Rakheja Engineers Pvt. Ltd., (2002) 10 SCC 1 
+    * Shakti Bhog Food Industries Ltd. v. The Central Bank of India and Anr., [2020] 6 SCR 538
+    * Shah Babulal Khimji v. Jayaben D Kania & Anr., (1981) 4 SCC 8
+    * Black Diamond Trackparts Pvt. Ltd. & Ors v. Black Diamond Motors Pvt. Ltd., 2021 SCC OnLine Del 3946
+    * Ramanan Balagangatharan v. M/S Rise East Entertainment Pvt. Ltd., C.R.P (Sr) No.92516/2021
+* **Legal Doctrines:** 
+    *  Jurisdictional challenge 
+    *  Interlocutory order 
+    *  Preliminary judgment 
+    *  Supervisory jurisdiction 
+
+## Arguments Presented
+
+* **Plaintiff’s Argument:** The plaintiff argued that the defendants' application under Order VII Rule 11 was misconceived based on the Apex Court's observation in Shakti Bhog Food Industries. He claimed that he was entitled to execute the project as per the Agreement and the defendants had no right to interfere. 
+* **Defendant’s Argument:** The defendants argued that the plaintiff's failure to comply with Section 12A of the Commercial Courts Act was mandatory and barred the institution of the suit. They cited Patil Automation for the position that Section 12A was not a procedural provision and non-compliance rendered the suit not maintainable. 
+
+## Court’s Analysis and Reasoning
+
+* **Key Findings:** 
+    * The Law Commission of India recommended barring revision petitions against interlocutory orders in Commercial Courts to prevent delays. 
+    * Section 8 of the Commercial Courts Act prohibits revision petitions against any interlocutory order, including orders on jurisdictional challenges.
+    * The court found that an order under Order VII Rule 11 of the CPC, challenging the maintainability of a suit based on non-compliance with statutory provisions, falls within the purview of "such other challenge" in Section 8.
+    * The court emphasized that the legislative intent behind Section 8 was to prevent delays and ensure speedy resolution of commercial disputes in Commercial Courts.
+    * The court concluded that the revision petition was not maintainable under Section 8 of the Commercial Courts Act. 
+* **Interpretation of Law:** The court interpreted Section 8 of the Commercial Courts Act to mean a complete bar on revision petitions against any order passed by a Commercial Court, including those challenging its jurisdiction to entertain a suit. 
+* **Application of Law:** The court applied this interpretation to the case and found that the order passed by the Commercial Court on the application under Order VII Rule 11 of the CPC was not amenable to revision under Section 115 of the CPC due to the bar under Section 8 of the Commercial Courts Act.
+
+## Judgment
+
+* **Final Decision:** The revision petition was rejected as not maintainable.
+* **Relief Granted:** No relief was granted.
+* **Orders:** The court upheld the office objection and rejected the revision petition.
+
+## Implications
+
+* **Impact on Law:** The judgment strengthens the bar on revision petitions against interlocutory orders passed by Commercial Courts under Section 8 of the Commercial Courts Act, 2015.
+* **Future Relevance:** This judgment is likely to be cited in future cases involving similar challenges to interlocutory orders in Commercial Courts.
+* **Broader Context:** This case highlights the legislative intent to ensure speedy resolution of commercial disputes and the need to discourage dilatory tactics by limiting the avenues for challenging interlocutory orders.
+
+## Summary Points
+
+* The Karnataka High Court held that revision petitions under Section 115 of the CPC are not maintainable against orders passed by the Commercial Court, including those passed on applications under Order VII Rule 11 of the CPC.
+* This bar is based on Section 8 of the Commercial Courts Act, 2015, which aims to ensure speedy disposal of commercial disputes.
+* The court interpreted the "such other challenge" clause in Section 8 to encompass challenges to the jurisdiction of the Commercial Court to entertain a suit.
+* While the revision petition was rejected, the petitioners were left with the option of invoking the supervisory jurisdiction of the High Court under Article 227 of the Constitution of India.
+
+## References
+
+* **Citations:**
+    * Code of Civil Procedure, 1908
+    * Commercial Courts Act, 2015
+    * The Constitution of India
+* **Further Reading:**
+    * Patil Automation Pvt. Ltd. v. Rakheja Engineers Pvt. Ltd., (2002) 10 SCC 1
+    * Shakti Bhog Food Industries Ltd. v. The Central Bank of India and Anr., [2020] 6 SCR 538
+    * Law Commission of India Report No. 253
+
+This summary provides a comprehensive overview of the Syed Asmath Pasha Qhadri case, covering its background, legal arguments, court's reasoning, judgment, and implications. 

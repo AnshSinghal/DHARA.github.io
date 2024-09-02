@@ -1,0 +1,97 @@
+## 1. Case Title
+
+* **Case Name:** Dassault Systemes S.E. And Anr vs Automobile Corporation Of Goa Limited
+* **Court:** Delhi High Court
+* **Date of Judgment:** 13 October 2022
+* **Citation:** FAO (COMM) 66/2022
+
+## 2. Background and Context
+
+* **Brief Overview:** Dassault Systemes S.E. (appellant no. 1), a French company, and its Indian subsidiary, Dassault Systemes India Private Limited (appellant no. 2), sued Automobile Corporation of Goa Limited (respondent) and its directors for alleged copyright infringement of their software "CATIA V5-6R2013" (CATIA). The suit was filed in the Delhi High Court. 
+* **Key Issues:**
+    * Whether the Delhi High Court had territorial jurisdiction to hear the case.
+    * Whether appellant no. 2 (Indian subsidiary) had the legal right to sue for copyright infringement since the copyright was registered in the name of appellant no. 1 (parent company).
+    * Whether the appellants were joint owners of the software CATIA.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * **Commercial Courts Act, 2015:** Section 13(1A) (regarding appeals)
+    * **Code of Civil Procedure, 1908:** Order VII Rule 10 (regarding rejection of plaint for lack of jurisdiction)
+    * **Copyright Act, 1957:**
+        * Section 2(ffc) (defining "computer programme")
+        * Section 2(o) (defining "literary work")
+        * Section 13(1)(a) (regarding ownership of copyright in works made for hire)
+        * Section 14 (regarding exclusive rights of copyright owners)
+        * Section 17 (regarding ownership of copyright)
+        * Section 19 (regarding assignment of copyright)
+        * Section 55 (regarding remedies for copyright infringement)
+        * Section 62(2) (regarding territorial jurisdiction in copyright suits)
+* **Precedents Cited:**
+    * *Western Coalfields Limited v. Special Area Development Authority, Korba & Anr.:* (1982) 1 SCC 125 (regarding separate juristic existence of incorporated companies)
+    * *Rustom Cavasjee Cooper v. Union of India:* (1970) 1 SCC 248 (regarding separate juristic existence of incorporated companies)
+    * *Heavy Engineering Mazdoor Union v. State of Bihar & Ors.:* 1969 1 SCC 765 (regarding separate juristic existence of incorporated companies)
+    * *Exphar Sa and Anr. v. Eupharma Laboratories Ltd. and Anr.:* (2004) 3 SCC 688 (regarding acceptance of plaint allegations as true when challenging jurisdiction)
+    * *Begum Sabiha Sultan v. Nawab Mohd. Mansur Ali Khan & Ors.:* (2007) 4 SCC 343 (regarding reading the plaint in a meaningful manner)
+* **Legal Doctrines:**
+    * **Territorial Jurisdiction:** A court's authority to hear a case based on the location of the parties or the cause of action.
+    * **Copyright Infringement:** Unauthorized use or reproduction of copyrighted work.
+    * **Separate Legal Entity:** A company is distinct from its shareholders and has its own rights and obligations.
+    * **Works Made for Hire:** Copyright ownership in works created by employees belongs to the employer.
+    * **Assignment of Copyright:** Transfer of ownership of copyright to another party.
+    * **Prima Facie Evidence:** Evidence that is sufficient to establish a fact unless contradicted.
+
+## 4. Arguments Presented
+
+* **Plaintiff’s Argument (Appellants):**
+    * They are joint owners of the software programs, including CATIA, and they keep track of all licensed users.
+    * Appellant no. 1 (parent company) operates in India through appellant no. 2 (subsidiary), which gives the Delhi High Court territorial jurisdiction.
+    * The plaint clearly indicates their claim of joint ownership and the need for an injunction against unauthorized use of the software.
+* **Defendant’s Argument (Respondents):**
+    * The Delhi High Court lacks jurisdiction because the respondent's principal office is in Goa, and its directors do not reside in Delhi.
+    * Appellant no. 2 cannot claim copyright in CATIA because the copyright is registered in the name of appellant no. 1, and no valid assignment of copyright has been made to the subsidiary.
+    * The plaint should be read as a whole and does not establish a strong case for joint ownership of CATIA.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The court accepted the principle that allegations in the plaint should be taken as true when challenging jurisdiction at the initial stage (Order VII Rule 10).
+    * The court found that the plaint explicitly claimed joint ownership of the software programs by the appellants.
+    * The court acknowledged that appellant no. 1 carries on business activities in India through appellant no. 2, giving the Delhi High Court territorial jurisdiction based on Section 62(2) of the Copyright Act.
+    * The court recognized that the copyright certificate is only prima facie evidence and does not preclude the appellants from asserting joint ownership.
+* **Interpretation of Law:**
+    * The court interpreted Section 62(2) of the Copyright Act to allow suits to be instituted at the location where the plaintiff voluntarily resides or carries on business, even if the principal office is outside India.
+    * The court recognized that a company can operate through a subsidiary without compromising its separate legal identity.
+    * The court clarified that the certificate of copyright registration is only prima facie evidence and does not definitively resolve the issue of ownership.
+* **Application of Law:**
+    * The court applied the principle of accepting the plaint's allegations as true at the initial stage of jurisdiction challenge.
+    * The court applied Section 62(2) of the Copyright Act to conclude that the Delhi High Court had jurisdiction because appellant no. 1 operates in India through its subsidiary, appellant no. 2.
+    * The court declined to consider the respondents' written statement at this stage as it involved contentious issues not suitable for an Order VII Rule 10 application.
+
+## 6. Judgment
+
+* **Final Decision:** The appeal was allowed, and the impugned order (dismissing the suit for lack of jurisdiction) was set aside.
+* **Relief Granted:** The case was allowed to proceed in the Delhi High Court.
+* **Orders:** All pending applications were also disposed of.
+
+## 7. Implications
+
+* **Impact on Law:** This judgment reinforces the principle that allegations in the plaint are taken as true when challenging jurisdiction at the initial stage. It clarifies that a company can operate through a subsidiary without compromising its separate legal entity for purposes of territorial jurisdiction in copyright cases.
+* **Future Relevance:** This case sets a precedent for future cases involving multinational companies and subsidiaries seeking to assert copyright ownership in India. It emphasizes the importance of carefully drafted plaints and the need to consider the specific circumstances of each case.
+* **Broader Context:** The case highlights the complexities of territorial jurisdiction in transnational intellectual property disputes. It underscores the need for courts to carefully examine the specific facts of each case to ensure that justice is served.
+
+## 8. Summary Points
+
+* The Delhi High Court upheld the appellants' claim of joint ownership of software programs, including CATIA.
+* The court found that appellant no. 1's business operations in India through its subsidiary provided territorial jurisdiction to the Delhi High Court.
+* The court clarified that a copyright certificate is only prima facie evidence and does not automatically determine ownership.
+* The case emphasizes the importance of clear and specific allegations in the plaint when challenging jurisdiction.
+
+## 9. References
+
+* **Citations:**
+    * All statutes and cases mentioned in the summary.
+* **Further Reading:**
+    * Further research on territorial jurisdiction in international copyright disputes.
+    * Case law regarding joint ownership of copyright and licensing agreements.
+    * Analysis of the application of Order VII Rule 10 of the Code of Civil Procedure. 

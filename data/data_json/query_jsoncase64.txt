@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A borrower has been declared bankrupt by the Debt Recovery Tribunal (DRT) and a recovery certificate has been issued. The borrower's guarantor is now seeking to file a suit against the bank to discharge his guarantee obligations, arguing that the bank had agreed to release the guarantee upon certain conditions being met. Is the guarantor's suit barred by the DRT Act? ",
+    "Legal Principles": "The DRT Act bars the jurisdiction of civil courts in matters relating to applications for recovery of debts filed by banks and financial institutions. However, it does not bar suits filed by guarantors against banks for independent relief, such as the discharge of a guarantee obligation.",
+    "Relevant Sections": "Section 17, 18, and 19 of the Recovery of Debts and Bankruptcy Act, 1993.",
+    "Context": "This query concerns the applicability of the DRT Act to a suit filed by a guarantor against a bank for discharge of a guarantee obligation. The context involves a prior bankruptcy proceeding before the DRT.",
+  },
+  {
+    "Query": "A bank had filed an application for recovery of a debt before the DRT. The borrower filed a counterclaim alleging that the bank had violated the loan agreement and seeking damages. The DRT dismissed the borrower's counterclaim. The borrower now seeks to file a separate suit in the civil court for the same claim for damages. Is the borrower's suit barred by the principle of res judicata?",
+    "Legal Principles": "The principle of res judicata prevents the relitigation of issues that have been finally decided by a competent court. A counterclaim filed in a DRT proceeding is considered a final decision for the purposes of res judicata.",
+    "Relevant Sections": "Section 11 of the Code of Civil Procedure, 1908.",
+    "Context": "The query concerns the application of res judicata to a suit filed by a borrower against a bank after the DRT dismissed the borrower's counterclaim in a prior DRT proceeding.",
+  },
+  {
+    "Query": "A bank granted a loan to a company, and the plaintiff, a shareholder of the company, provided a personal guarantee for the loan. The company defaulted on the loan, and the bank initiated recovery proceedings against the company and the plaintiff as a guarantor before the DRT. The DRT held the plaintiff liable as a guarantor.  The plaintiff now seeks to file a suit against the bank alleging fraud and misrepresentation in the loan agreement.  Is the plaintiff's suit barred by the DRT Act?",
+    "Legal Principles": "While the DRT Act generally bars civil court jurisdiction in matters relating to debt recovery, it does not bar suits alleging fraud or misrepresentation in the underlying loan agreement.",
+    "Relevant Sections": "Section 17, 18, and 19 of the Recovery of Debts and Bankruptcy Act, 1993.",
+    "Context": "The query addresses whether a suit alleging fraud and misrepresentation in a loan agreement is barred by the DRT Act despite a prior DRT judgment holding the plaintiff liable as a guarantor.",
+  },
+  {
+    "Query": "A company borrowed money from a bank and the plaintiff, a director of the company, provided a personal guarantee for the loan.  The company defaulted on the loan, and the bank filed a recovery application against the company and the plaintiff before the DRT.  The plaintiff wants to file a suit against the bank in a civil court, claiming that the bank breached its agreement to release his guarantee upon certain conditions being met.  Is the plaintiff's suit barred by the DRT Act?",
+    "Legal Principles": "The DRT Act bars civil court jurisdiction in matters relating to debt recovery applications filed by banks, but it does not bar suits filed by guarantors against banks for independent relief like the discharge of a guarantee obligation.",
+    "Relevant Sections": "Section 17, 18, and 19 of the Recovery of Debts and Bankruptcy Act, 1993.",
+    "Context": "The query involves a guarantor seeking to file a suit against a bank for breach of contract related to the release of a guarantee obligation despite a prior DRT proceeding for debt recovery.",
+  },
+  {
+    "Query": "A bank filed a recovery application against a borrower before the DRT. The borrower filed a counterclaim alleging that the bank had breached the loan agreement by failing to provide certain facilities as agreed. The DRT dismissed the borrower's counterclaim. The borrower now seeks to file a separate suit in the civil court for the same claim of breach of contract. Is the borrower's suit barred by the principle of res judicata?",
+    "Legal Principles": "The principle of res judicata prevents relitigation of issues already decided by a competent court. A counterclaim filed and dismissed in a DRT proceeding is considered a final decision for res judicata purposes.",
+    "Relevant Sections": "Section 11 of the Code of Civil Procedure, 1908.",
+    "Context": "This query explores the applicability of res judicata to a borrower's suit for breach of contract after the DRT dismissed the borrower's counterclaim in a prior DRT proceeding.",
+  },
+  {
+    "Query": "A bank filed a recovery application against a borrower before the DRT, seeking to recover outstanding loan amount. The borrower filed a counterclaim alleging that the bank had misrepresented the terms of the loan and seeking damages. The DRT dismissed the borrower's counterclaim. The borrower now seeks to file a separate suit in the civil court for the same claim of misrepresentation and damages. Is the borrower's suit barred by the principle of res judicata?",
+    "Legal Principles": "The principle of res judicata bars relitigation of issues already decided by a competent court. A counterclaim filed and dismissed in a DRT proceeding is considered a final decision for res judicata purposes.",
+    "Relevant Sections": "Section 11 of the Code of Civil Procedure, 1908.",
+    "Context": "The query investigates the application of res judicata to a borrower's suit for misrepresentation after the DRT dismissed the borrower's counterclaim in a prior DRT proceeding.",
+  },
+  {
+    "Query": "A bank granted a loan to a company, and the plaintiff, a shareholder of the company, provided a personal guarantee for the loan. The company defaulted on the loan, and the bank initiated recovery proceedings against the company and the plaintiff as a guarantor before the DRT. The DRT held the plaintiff liable as a guarantor. The plaintiff now seeks to file a suit against the bank in a civil court, claiming that the bank failed to release his guarantee upon the company's performance of certain conditions as agreed upon in the loan agreement.  Is the plaintiff's suit barred by the DRT Act?",
+    "Legal Principles": "While the DRT Act generally bars civil court jurisdiction in matters relating to debt recovery, it does not bar suits filed by guarantors against banks for independent relief, such as the discharge of a guarantee obligation.",
+    "Relevant Sections": "Section 17, 18, and 19 of the Recovery of Debts and Bankruptcy Act, 1993.",
+    "Context": "The query addresses whether a suit by a guarantor seeking discharge of a guarantee obligation is barred by the DRT Act despite a prior DRT judgment holding the guarantor liable.",
+  },
+  {
+    "Query": "A borrower filed a suit against a bank in a civil court, alleging that the bank had wrongfully invoked a personal guarantee provided by the borrower. The bank filed an application under Order VII Rule 11 of the Code of Civil Procedure seeking rejection of the plaint, arguing that the borrower's suit was barred by the DRT Act.  The civil court rejected the bank's application. Is the bank's appeal against the civil court's order likely to succeed?",
+    "Legal Principles": "The DRT Act bars civil court jurisdiction in matters relating to debt recovery applications filed by banks, but it does not bar suits filed by borrowers against banks for independent relief like challenging the wrongful invocation of a guarantee.",
+    "Relevant Sections": "Section 17, 18, and 19 of the Recovery of Debts and Bankruptcy Act, 1993; Order VII Rule 11 of the Code of Civil Procedure, 1908.",
+    "Context": "The query involves a borrower's suit against a bank challenging the wrongful invocation of a guarantee, and the bank's appeal against a civil court order that rejected the bank's application to reject the plaint.",
+  },
+  {
+    "Query": "A company borrowed money from a bank and the plaintiff, a director of the company, provided a personal guarantee for the loan.  The company defaulted on the loan, and the bank filed a recovery application against the company and the plaintiff before the DRT. The DRT held the plaintiff liable as a guarantor.  The plaintiff now seeks to file a suit against the bank in a civil court, seeking a declaration that the bank's claim against him is time-barred due to the bank's delay in initiating legal proceedings.  Is the plaintiff's suit barred by the DRT Act?",
+    "Legal Principles": "The DRT Act bars civil court jurisdiction in matters relating to debt recovery applications filed by banks, but it does not bar suits filed by guarantors against banks for independent relief like challenging the time-barred nature of the bank's claim.",
+    "Relevant Sections": "Section 17, 18, and 19 of the Recovery of Debts and Bankruptcy Act, 1993.",
+    "Context": "The query involves a guarantor seeking to file a suit against a bank challenging the time-barred nature of the bank's claim despite a prior DRT proceeding for debt recovery.",
+  },
+  {
+    "Query": "A bank filed a recovery application against a borrower before the DRT, seeking to recover outstanding loan amount. The borrower filed a counterclaim alleging that the bank had charged excessive interest rates, exceeding the agreed upon limit. The DRT dismissed the borrower's counterclaim. The borrower now seeks to file a separate suit in the civil court for the same claim of excessive interest charges. Is the borrower's suit barred by the principle of res judicata?",
+    "Legal Principles": "The principle of res judicata prevents relitigation of issues already decided by a competent court. A counterclaim filed and dismissed in a DRT proceeding is considered a final decision for res judicata purposes.",
+    "Relevant Sections": "Section 11 of the Code of Civil Procedure, 1908.",
+    "Context": "The query explores the applicability of res judicata to a borrower's suit for excessive interest charges after the DRT dismissed the borrower's counterclaim in a prior DRT proceeding.",
+  }
+]
+```

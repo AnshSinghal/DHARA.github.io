@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A commercial dispute involving the sale of goods worth Rs. 5 lakh is brought before the Civil Court. The defendant argues that the dispute falls under the jurisdiction of the Commercial Court due to the value of the subject matter. However, the plaintiff argues that the State Government has not notified a specified value less than Rs. 1 crore, making the Civil Court the appropriate forum. How should the court decide the jurisdiction issue, considering the amendment to the Commercial Courts Act, 2015?",
+    "Legal Principles": "Jurisdiction of Commercial Courts, Specified Value under the Commercial Courts Act, 2015, State Government Notification, Amendment to the Act",
+    "Relevant Sections": "Section 2(i), Section 3, Section 12 of the Commercial Courts Act, 2015",
+    "Context": "A case in a Civil Court regarding a commercial dispute with a value of Rs. 5 lakh. The question is whether the Civil Court or the Commercial Court has jurisdiction based on the State Government's notification of the specified value."
+  },
+  {
+    "Query": "A contract dispute involving a construction project worth Rs. 2 crore is filed in the Civil Court. The defendant argues that the dispute should be transferred to the Commercial Court, citing the value of the subject matter. The plaintiff claims that the State Government has not yet notified the specified value post the amendment to the Commercial Courts Act, 2015, rendering the Civil Court competent to handle the case. How should the court address the jurisdictional challenge?",
+    "Legal Principles": "Jurisdiction of Commercial Courts, Specified Value under the Commercial Courts Act, 2015, State Government Notification, Amendment to the Act",
+    "Relevant Sections": "Section 2(i), Section 3, Section 12 of the Commercial Courts Act, 2015",
+    "Context": "A construction contract dispute filed in the Civil Court with a value exceeding Rs. 1 crore, raising the question of jurisdiction based on the State Government's notification of the specified value."
+  },
+  {
+    "Query": "A partnership dispute arises between two partners over a business venture with a turnover of Rs. 80 lakh. The dispute involves allegations of breach of partnership agreement and financial irregularities. One partner argues that the case falls under the jurisdiction of the Commercial Court due to the nature and value of the dispute. The other partner contends that the State Government has not notified a specified value less than Rs. 1 crore, making the Civil Court the appropriate forum. How should the court determine the applicable jurisdiction in this partnership dispute?",
+    "Legal Principles": "Jurisdiction of Commercial Courts, Specified Value under the Commercial Courts Act, 2015, State Government Notification, Amendment to the Act",
+    "Relevant Sections": "Section 2(i), Section 3, Section 12 of the Commercial Courts Act, 2015",
+    "Context": "A partnership dispute involving a business venture with a turnover exceeding Rs. 1 crore, raising the question of jurisdiction based on the State Government's notification of the specified value."
+  },
+  {
+    "Query": "A dispute arises between a supplier and a buyer over a supply contract worth Rs. 75 lakh. The supplier alleges breach of contract and non-payment. The buyer argues that the dispute should be heard by the Commercial Court based on the value of the subject matter. The supplier claims that the State Government has not notified a specified value less than Rs. 1 crore, making the Civil Court the appropriate forum. How should the court resolve the jurisdictional conflict in this supply contract dispute?",
+    "Legal Principles": "Jurisdiction of Commercial Courts, Specified Value under the Commercial Courts Act, 2015, State Government Notification, Amendment to the Act",
+    "Relevant Sections": "Section 2(i), Section 3, Section 12 of the Commercial Courts Act, 2015",
+    "Context": "A supply contract dispute involving a value exceeding Rs. 1 crore, raising the question of jurisdiction based on the State Government's notification of the specified value."
+  },
+  {
+    "Query": "A company files a suit for recovery of Rs. 1.5 crore from another company for breach of a commercial agreement. The defendant argues that the case should be transferred to the Commercial Court, citing the value of the subject matter. The plaintiff claims that the State Government has not notified the specified value for cases under Rs. 1 crore, making the Civil Court the proper forum. How should the court decide the jurisdictional issue in this commercial agreement dispute?",
+    "Legal Principles": "Jurisdiction of Commercial Courts, Specified Value under the Commercial Courts Act, 2015, State Government Notification, Amendment to the Act",
+    "Relevant Sections": "Section 2(i), Section 3, Section 12 of the Commercial Courts Act, 2015",
+    "Context": "A commercial agreement dispute involving a claim exceeding Rs. 1 crore, raising the question of jurisdiction based on the State Government's notification of the specified value."
+  },
+  {
+    "Query": "A dispute arises between a landlord and tenant over a commercial lease agreement for a property worth Rs. 90 lakh. The landlord files a suit for eviction and recovery of arrears. The tenant argues that the dispute should be tried by the Commercial Court, citing the value of the subject matter. The landlord claims that the State Government has not notified a specified value less than Rs. 1 crore, making the Civil Court the appropriate forum. How should the court determine the applicable jurisdiction in this commercial lease dispute?",
+    "Legal Principles": "Jurisdiction of Commercial Courts, Specified Value under the Commercial Courts Act, 2015, State Government Notification, Amendment to the Act",
+    "Relevant Sections": "Section 2(i), Section 3, Section 12 of the Commercial Courts Act, 2015",
+    "Context": "A commercial lease dispute involving a property worth exceeding Rs. 1 crore, raising the question of jurisdiction based on the State Government's notification of the specified value."
+  },
+  {
+    "Query": "A dispute arises over a loan agreement involving a principal amount of Rs. 60 lakh. The lender files a suit for recovery. The borrower argues that the dispute should be heard by the Commercial Court based on the value of the subject matter. The lender claims that the State Government has not notified a specified value less than Rs. 1 crore, making the Civil Court the appropriate forum. How should the court resolve the jurisdictional conflict in this loan agreement dispute?",
+    "Legal Principles": "Jurisdiction of Commercial Courts, Specified Value under the Commercial Courts Act, 2015, State Government Notification, Amendment to the Act",
+    "Relevant Sections": "Section 2(i), Section 3, Section 12 of the Commercial Courts Act, 2015",
+    "Context": "A loan agreement dispute involving a principal amount exceeding Rs. 1 crore, raising the question of jurisdiction based on the State Government's notification of the specified value."
+  },
+  {
+    "Query": "A company files a suit against its former employee for breach of a non-compete agreement and seeking damages of Rs. 40 lakh. The former employee argues that the case should be heard by the Commercial Court, citing the value of the subject matter. The company claims that the State Government has not notified a specified value less than Rs. 1 crore, making the Civil Court the appropriate forum. How should the court decide the jurisdictional issue in this non-compete agreement dispute?",
+    "Legal Principles": "Jurisdiction of Commercial Courts, Specified Value under the Commercial Courts Act, 2015, State Government Notification, Amendment to the Act",
+    "Relevant Sections": "Section 2(i), Section 3, Section 12 of the Commercial Courts Act, 2015",
+    "Context": "A non-compete agreement dispute involving damages exceeding Rs. 1 crore, raising the question of jurisdiction based on the State Government's notification of the specified value."
+  },
+  {
+    "Query": "A dispute arises between two businesses over a distribution agreement with a total value of Rs. 1.2 crore. One business claims breach of contract and seeks damages. The other business argues that the case should be tried by the Commercial Court, citing the value of the subject matter. The claimant business contends that the State Government has not notified a specified value less than Rs. 1 crore, making the Civil Court the appropriate forum. How should the court determine the applicable jurisdiction in this distribution agreement dispute?",
+    "Legal Principles": "Jurisdiction of Commercial Courts, Specified Value under the Commercial Courts Act, 2015, State Government Notification, Amendment to the Act",
+    "Relevant Sections": "Section 2(i), Section 3, Section 12 of the Commercial Courts Act, 2015",
+    "Context": "A distribution agreement dispute involving a total value exceeding Rs. 1 crore, raising the question of jurisdiction based on the State Government's notification of the specified value."
+  },
+  {
+    "Query": "A dispute arises between a buyer and seller over a purchase contract for machinery worth Rs. 3 crore. The buyer alleges defects in the machinery and seeks damages. The seller argues that the case should be heard by the Commercial Court based on the value of the subject matter. The buyer claims that the State Government has not notified a specified value less than Rs. 1 crore, making the Civil Court the appropriate forum. How should the court resolve the jurisdictional conflict in this purchase contract dispute?",
+    "Legal Principles": "Jurisdiction of Commercial Courts, Specified Value under the Commercial Courts Act, 2015, State Government Notification, Amendment to the Act",
+    "Relevant Sections": "Section 2(i), Section 3, Section 12 of the Commercial Courts Act, 2015",
+    "Context": "A purchase contract dispute involving machinery worth exceeding Rs. 1 crore, raising the question of jurisdiction based on the State Government's notification of the specified value."
+  }
+]
+```

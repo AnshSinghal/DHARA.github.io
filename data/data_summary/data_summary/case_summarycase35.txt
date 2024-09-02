@@ -1,0 +1,119 @@
+## 1. Case Title
+
+* **Case Name:** Owners and Parties Interested in the Vessel M.V. Polaris Galaxy vs. Banque Cantonale De Geneve
+* **Court:** Supreme Court of India
+* **Date of Judgment:** 23rd September 2022
+* **Citation:**  Civil Appeal Nos. 6897-6898 of 2022 (Arising out of SLP (C) Nos. 19314-19315 of 2021)
+
+## 2. Background and Context
+
+* **Brief Overview:** The case revolves around a dispute arising from a maritime transaction involving the financing of fuel oil purchase. The Respondent Bank (Banque Cantonale De Geneve) financed the purchase of marine fuel oil by Gulf Petroleum FZC (GP) from Indian Oil Corporation Limited (IOC).  GP, in turn, sold the fuel oil to Aramco Trading Fujairah FZE (Aramco) on open credit. However, GP later faced financial difficulties and allegations of fraud surfaced, leading to a payment default on Aramco's part. The Respondent Bank, as the financier, sought to recover its losses by filing an Admiralty suit against the vessel owner (Owners and Parties Interested in the Vessel M.V. Polaris Galaxy) for misdelivery of the cargo. 
+* **Key Issues:** The main legal questions involved were:
+    * Whether Gulf Petroleum FZC (GP) was a necessary or proper party to the Admiralty suit.
+    * Whether an appeal lay to the Commercial Appellate Division of the High Court from an order of the Commercial Division (Single Bench) for the addition of a party in an Admiralty suit governed by the Admiralty (Jurisdiction and Settlement of Maritime Claims) Act, 2017.
+    * The interpretation of the relevant provisions of the Admiralty Act, the Commercial Courts Act, and the Code of Civil Procedure (CPC) in the context of admiralty proceedings and appeals.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:** 
+    * Admiralty (Jurisdiction and Settlement of Maritime Claims) Act, 2017 (Admiralty Act)
+        * Section 3: Admiralty jurisdiction
+        * Section 4: Maritime claim
+        * Section 5: Arrest of vessel in rem
+        * Section 6: Admiralty jurisdiction in personam
+        * Section 12: Application of Code of Civil Procedure
+        * Section 14: Appeal
+    * Code of Civil Procedure, 1908 (CPC)
+        * Order 1 Rule 10(2): Adding parties
+        * Order 43: Appeals from orders
+    * Commercial Courts Act, 2015 
+        * Section 2(c): Definition of 'Commercial dispute'
+        * Section 7: Jurisdiction of Commercial Divisions of High Courts
+        * Section 13: Appeals from decrees of Commercial Courts and Commercial Divisions
+        * Section 14: Expeditious disposal of appeals
+        * Section 16: Amendments to the Code of Civil Procedure 
+        * Section 21: Overriding effect
+* **Precedents Cited:** 
+    * Cho Yang Shipping Co. Ltd. v. Coral (UK) Ltd. (1997) 2 Lloyd’s Rep 641
+    * MV Elizabeth v. Harwan Investment and Trading Pvt. Ltd. (1993 Supp (2) SCC 433)
+    * Kandla Corporation v. OCI Corp. (2018) 14 SCC 715 
+    * Magic Frames v. Radiance Media P Ltd. (2019 SCC Online Mad 38929)
+    * Ashoka Marketing Ltd. v. Punjab National Bank (1990) 4 SCC 406
+    * CTO vs. Binani Cements (2014 SCC Online SC 140) 
+    * Anil Kumar Singh vs. Shivnath Mishra (1995) 3 SCC 147
+* **Legal Doctrines:**
+    * Generalia Specialibus Non Derogant: A general law yields to a special law if they operate in the same field on the same subject. 
+    * Harmonious Construction: Interpreting statutes in a way that gives effect to a consistent legislative policy.
+    * Maxim "Any interim order" read with Order 43, Rule 1 of CPC: Applying principles of harmonious construction to interpret statutory provisions.
+
+## 4. Arguments Presented
+
+* **Plaintiff's Argument (Respondent Bank):** The Respondent Bank argued that the vessel owner was liable for misdelivery of the cargo since the cargo was discharged without the production of the original Bill of Lading, which was held by the Respondent Bank. They claimed that Gulf Petroleum FZC (GP) was not a necessary or proper party to the suit as the Respondent Bank was the consignee on the Bill of Lading and had the right to delivery. The bank also emphasized the importance of documents in international trade and argued that the underlying transaction between GP and Aramco was irrelevant to the Respondent Bank's claim.
+* **Defendant's Argument (Appellant, Vessel Owner):** The Appellant argued that GP was a necessary and proper party to the suit as it was the customer who had instructed the delivery of the cargo. They contended that the Respondent Bank was not the owner of the cargo and that any financial claim should be directed towards GP. The Appellant pointed out that the cargo had been discharged based on a letter of indemnity provided by Profitable Wealth Inc. and that the Respondent Bank had not objected to the delivery instructions at the time.
+
+## 5. Court's Analysis and Reasoning
+
+* **Key Findings:**
+    * The court recognized the importance of documents, particularly Bills of Lading, in international trade.
+    * The court acknowledged that the consignee on the Bill of Lading generally has the right to receive delivery of the cargo.
+    * The court found that the underlying transaction between GP and Aramco was relevant to the Respondent Bank's claim.
+    * The court noted the possibility that the consignee (Respondent Bank) might have authorized the release of the cargo to GP or a third party. 
+* **Interpretation of Law:**
+    * The court analyzed the provisions of the Admiralty Act, the Commercial Courts Act, and the CPC, particularly with regard to Admiralty jurisdiction, appeals, and adding parties. 
+    * The court interpreted the expression "any interim order" in Section 14 of the Admiralty Act, taking into consideration Order 43, Rule 1 of the CPC.
+* **Application of Law:**
+    * The court determined that an order adding a party under Order 1 Rule 10(2) of the CPC was not appealable under Section 14 of the Admiralty Act.
+    * The court concluded that the Commercial Appellate Division of the High Court did not have jurisdiction to hear the appeal from the order adding GP as a party to the suit. 
+    * The court applied the principle of harmonious construction to resolve any conflict between the Admiralty Act and the Commercial Courts Act.
+
+## 6. Judgment
+
+* **Final Decision:** The appeals were allowed. The impugned judgment and order of the Division Bench of the High Court were set aside.
+* **Relief Granted:** The court reversed the High Court's decision to set aside the order adding Gulf Petroleum FZC as a defendant in the suit.
+* **Orders:** The court directed the Commercial Division of the High Court to proceed with the case, including the application for summary judgment, with Gulf Petroleum FZC as a party.
+
+## 7. Implications
+
+* **Impact on Law:** The judgment clarifies the scope of appeals from the Commercial Division of a High Court in Admiralty suits governed by the Admiralty Act. It emphasizes that orders for adding parties are not appealable to the Commercial Appellate Division unless they fall under specific categories outlined in Order 43 of the CPC.
+* **Future Relevance:** This case will serve as a precedent for future Admiralty cases in India, particularly regarding the interpretation of appeals and the inclusion of parties in admiralty proceedings.
+* **Broader Context:** The judgment underscores the importance of proper legal procedures and the need to ensure all relevant parties are involved in a case to ensure a complete and final decision.
+
+## 8. Summary Points
+
+* An Admiralty suit was filed by the Respondent Bank against the vessel owner for misdelivery of cargo financed by the bank.
+* The Appellant argued that Gulf Petroleum FZC (GP) was a necessary and proper party to the suit.
+* The High Court initially ordered the addition of GP as a defendant but later reversed this decision on appeal.
+* The Supreme Court upheld the original order of the High Court, finding that GP was indeed a necessary party to the suit.
+* The court also held that an order adding a party in an Admiralty suit is not appealable under the Admiralty Act unless specifically enumerated in Order 43 of the CPC.
+
+## 9. References
+
+* Admiralty (Jurisdiction and Settlement of Maritime Claims) Act, 2017
+* Code of Civil Procedure, 1908 (CPC)
+* Commercial Courts Act, 2015
+* Cases cited in the summary above
+
+## Further Reading:
+
+* **Carver on Bills of Lading (2005)**
+* **Scrutton on Charterparties and Bills of Lading (1984)**
+* **Bills of Lading (2006)** by Sir Richard Aikens 
+* **Interpretation of Statutes** by Vepa P. Sarathi
+* **Interpretation of Statutes** by N. S. Bindra 
+* **Craies on Statute Law** by S.G.G. Edkar 
+* **Principles of Statutory Interpretation** by Justice G.P. Singh 
+* **Craies on Legislation** by Daniel Greenberg
+* **Maxwell on Interpretation of Statutes**
+* **Corpus Juris Secundum, 82 C.J.S. Statutes § 482**
+* **Edmond v. U.S., 520 U.S. 651** 
+* **Warden v. Marrero, 417 U.S. 653**
+* **Halsbury's Laws of England** (Volume 44 (1) of the 4th ed.)
+* **Seward v. Owner of "The Vera Cruz", (1884) 10 App Gas 59** 
+* **Barker v Edger, (1898) AC 748** 
+* **Ashoka Marketing Ltd. v. Punjab National Bank (1990) 4 SCC 406** 
+* **CTO vs. Binani Cements (2014 SCC Online SC 140)**
+* **Anil Kumar Singh vs. Shivnath Mishra (1995) 3 SCC 147** 
+* **Magic Frames v. Radiance Media P Ltd. (2019 SCC Online Mad 38929)**
+* **Kandla Corporation v. OCI Corp. (2018) 14 SCC 715** 
+* **MV Elizabeth v. Harwan Investment and Trading Pvt. Ltd. (1993 Supp (2) SCC 433)**
+* **Cho Yang Shipping Co. Ltd. v. Coral (UK) Ltd. (1997) 2 Lloyd’s Rep 641** 

@@ -1,0 +1,525 @@
+Take notes as you read a judgment using our Virtual Legal Assistant and get email alerts whenever a new judgment matches your query (Query Alert Service). Try out our Premium Member Services -- Sign up today and get free trial for one month.
+Delhi High Court
+Bharat Heavy Electricals Limited vs Electricity Generation Incorporation ... on 19 September, 2017
+Equivalent citations: AIR 2018 DELHI 38
+Author: Mukta Gupta
+Bench: Mukta Gupta
+*     IN THE HIGH COURT OF DELHI AT NEW DELHI
+%                                  Reserved on: 11th September, 2017
+                                   Decided on: 19th September, 2017
++                   CS(COMM) 190/2017
+      BHARAT HEAVY ELECTRICALS LIMITED ..... Plaintiff
+                  Represented by: Dr. A.M. Singhvi, Mr. Parag
+                                  Tripathi, Sr. Advocates with
+                                  Mr. Atul Shanker Mathur, Ms.
+                                  Nimita Kaul and Mr. Prabal
+                                  Mehrotra, Advocates.
+                  versus
+
+      ELECTRICITY GENERATION
+      INCORPORATION & ORS.                              ..... Defendants
+                    Represented by:         Mr. Rajeeve Mehra, Sr.
+                                            Advocate with Mr. Mayank
+                                            Mishra and Mr. Ashwin Nayar,
+                                            Advocates for Defendant No.2.
+                                            Mr. Arun Aggarwal, Advocate
+                                            for Defendant No.3.
+CORAM:
+HON'BLE MS. JUSTICE MUKTA GUPTA
+I.A. Nos. 3182/2017 (under Order XXXIX Rule 1 and 2 CPC),
+5090/2017 (under Order VII Rule 10 and 11 by Defendant No. 2) and
+7263/2017 (under Order XXXIX Rule 4 CPC r/w Order VII Rule 10
+and 11 by Defendant No.3)
+
+1.    Before dealing with the applications individually it would be
+appropriate to first set out the facts in the plaint. Plaintiff Bharat Heavy
+Electricals Limited (in short 'BHEL') has filed the present suit impleading
+Electricity Generation Incorporation (in short 'EGI') having its office at
+Ankara, Turkey as defendant No.1, AKBank T.A.S. (in short 'AKBank') at
+Istanbul, Turkey as defendant No.2 and Bank of Baroda (in short 'BoB')
+
+
+
+CS(COMM) 190/2017                                                      Page 1 of 27
+ having its branch office at Sansad Mark, New Delhi as defendant No.3. The
+three main prayers in the suit besides the costs are:
+      "(a) Pass a decree of declaration, declaring that the alleged
+           invocation of the Performance Bank Guarantee bearing
+           No.0834INC15CG00075 for an amount of EUR EUR
+           3,831,589.69 i.e. INR 28,35,37,637.06 valid till 1 st July,
+           2024 by Defendant No.1 to Defendant No.2 and
+           consequently of the Counter Guarantee of Defendant
+           No.3 to Defendant No.2 bearing No. 2158FGPER000215
+           is fraudulent and hence void; and
+      (b) pass a decree of permanent injunction restraining
+           Defendant No.3 from making any payment whatsoever to
+           Defendant No.2 in terms of the fraudulent invocation by
+           Defendant No.1 of the Performance Bank Guarantee in
+           turn invoking the Counter Guarantee baring number
+           2158FGPER000215 dated 20th April, 2015 for an amount
+           of EUR 3,831,589.69 i.e. INR 28,35,37,637.06; and
+      (c) pass a decree of permanent injunction restraining
+           Defendant No.2 from making any payment whatsoever to
+           Defendant No.1 in terms of the fraudulent invocation
+           dated 21st April, 2015 by Defendant No.1 of the
+           Performance       Bank     Guarantee          baring   No.
+           0834INC15CG00075 for an amount of EUR 3,831,589.69
+           i.e. INR 28,35,37,637.06 valid till 1st July, 2024"
+
+2.    Claim of BHEL is that it is a public sector undertaking of the
+Government of India and EGI is a State owned company duly incorporated
+under the laws of Turkey engaged in the business of power generation and
+transmission having its office at Ankara, Turkey. AKBank is a privately
+owned commercial bank in Adana and is a banking company carrying on
+banking activities at Istanbul, Turkey. BoB is yet another International State
+Banking and financial service company with its headquarter at Vadodara,
+Gujarat and its branch office at Sansad Marg, New Delhi.
+
+
+
+
+CS(COMM) 190/2017                                                        Page 2 of 27
+ 3.     EGI issued a contract for rehabilitation of eight units of Keban
+Hydroelectric Power Plant for which BHEL was engaged as a contractor.
+On 21st April, 2015 a contract to this effect was entered into between BHEL
+and EGI valued at Euro 63,859,828.24 (Eur Sixty Three Million Eight Fifty
+Nine Thousand Eight and Twenty Four Cents only) approximately INR
+472,56,27,289.76 (Rupees four hundred seventy two crores fifty six lakhs
+twenty seven thousand two hundred eighty nine and seventy six paise only).
+4.     As per Article 11 of the contract between BHEL and EGI a
+Performance Bank Guarantee had to be furnished. Accordingly, BHEL got
+issued a Counter Guarantee in favour of AKBank bearing No.
+2158FGPER000215 dated 20th April, 2015 for an amount of EUR
+3,831,589.69 that is INR 28,35,37,637.06 valid till 16th July, 2024 through
+BoB.
+5.     On the basis of the Counter Guarantee AKBank issued a Performance
+Bank Guarantee to EGI bearing No. 0834INC15CG00075 for an amount of
+EUR 3,831,589.69 i.e. INR 28,35,37,637.06 valid till 1st July, 2024 in favour
+of EGI. The relevant terms of Performance Bank Guarantee read as under:
+        "Performance Bond to Elektrik Uretim A.S. Genel Mudurlugu
+        (EUAS) date as the firm Messers Bharat Heavy Electricals
+        Limited being the contractor has entered into engagement
+        Keban Hesin 8 Sekiz Unitesinin Rehabilitasyonu as a result of
+        the tender concluded by your administration and since
+        AKBANK T.A.S. Guarantees the amount of EUR 3,831,589.69
+        being the value of the performance bond which has to be
+        submitted by the said contractor in order to comply with the
+        provisions of law No. 4734 and 4735 and the tender
+        documents and agreement, we the undersigned as the
+        authorized signatory officials and deputies of AKBANK T.A.S.
+        hereby guarantee and declare in the name and for account of
+        AKBANK T.A.S. that in case the contractor fails to fulfil his
+
+
+
+CS(COMM) 190/2017                                                       Page 3 of 27
+        contractual obligations in whole or in part in accordance with
+       the aforesaid laws and tender documents and agreement the
+       aforesaid amount shall be paid to your administration upon
+       your first written demand, immediately and without delay in
+       cash and in full, together with the legal interest to accrue for
+       the days elapsing from the date of demand to that of payment,
+       without it being necessary to apply for a notice of protest,
+       obtaining a court order and the consent of the aforesaid
+       contractor and regardless of any dispute that may arise
+       between the aforesaid contractor and your administration and
+       regardless the consequences and legal effects thereof this
+       guarantee will remain valid until 01.07.2024 and will be null
+       and void if no written claim is received by us until said date.
+       In the event of indemnification under this performance bond,
+       the sum of performance bond shall be paid to you in Euro.
+       This guarantee has been issued on the basis of the counter
+       guarantee No. 2158FGPER000215 dated 20 April 2015 given
+       by Bank of Baroda CFS Branch 16, Parliament Street New
+       Delhi in the amount of EUR 3,831,589.69."
+                                                  [Emphasis supplied]
+
+6.    BHEL was informed by BoB that EGI has terminated the contract of
+BHEL for renovation and modernisation of Keban Hydroelectric Power
+Plant, Turkey citing the following contractual condition:
+      "Clause: 26.1. The Contracting Entity shall terminate the
+      Contract in the following cases:
+      If the Contractor does not perform the Contract in accordance
+      with the provisions of the tender document and the Contract or
+      complete the work in time, and if the same situation continues in
+      spite of the written notice of the Contracting Entity for a period
+      specified in this Contract with regard to the application of the
+      delay penalty at the rate stipulated in the Article of the Contract
+      concerning delay penalties"
+
+7.    BHEL claims that the contract termination letter dated 7 th March,
+2017 is in complete contravention to Article 20 of Law 4735 applicable to
+
+
+
+CS(COMM) 190/2017                                                           Page 4 of 27
+ the contract between BHEL and EGI which described the circumstances
+under which contract can be terminated as under:
+      "In case the contractor fails to perform its obligations in
+      compliance with provisions of the contract and tender
+      documents or fails to complete works within the period as
+      prescribed, and such state of affairs continues to persist despite
+      contracting entity's warning clearly stating reasons for warning
+      and offering at least 20 days advance notice, with penalty for
+      delay to apply on the basis of the ratio as stated in the tender
+      document. In case it is determined that the contractor has
+      engaged in deeds or behaviours outlawed as stated in Article
+      25.
+
+8.    BHEL claims that though the contract termination letter dated 7th
+March, 2017 refers to two notices dated 13 th December, 2016 and 10th
+February, 2017 however, BHEL never received any such written
+letter/notices and thus the termination of contract is completely unjust
+making the invocation of Performance Bank Guarantee invalid and hence
+void. It is claimed that though the contract between BHEL and EGI was
+signed on 21st April, 2015 however, effective date of contract was 7th March,
+2016 and the delay of more than ten months was at the end of EGI. Further
+till date 15% advance payment as per the contract was not released to BHEL
+by EGI. Despite BHEL performing its part of the contract and was waiting
+for the response after the meeting dated 8th to 10th November, 2016 between
+BHEL and EGI, on 9th March, 2017 BHEL received an email from BoB that
+EGI had invoked Performance Bank Guarantee based on the aforesaid
+illegal termination and thus the amount of Counter Guarantee had to be
+credited to AKBank. It is for this unjust and illegal termination of the
+contract and since the Performance Bank Guarantee had been fraudulently
+
+
+
+
+CS(COMM) 190/2017                                                          Page 5 of 27
+ invoked, the plaintiff i.e. BHEL filed the present suit seeking declaration
+and permanent injunction from encashment of Performance Bank Guarantee
+and Counter Guarantee.
+9.    In the plaint BHEL has repeatedly stated that jurisdiction of the
+Counter Bank Guarantee being conferred on the Commercial Court at
+London, it is impossible for the plaintiff to approach the said jurisdiction at
+such short notice. It is also stated that the act of EGI was a clear case of
+fraud and mala fide exercise, hence BHEL was approaching this Court for
+the prayers as noted above.
+10.   The suit came up before this Court on 10th March, 2017 when this
+Court in I.A. No. 3842/2017 under Order XXXIX Rule 1 and 2 CPC passed
+an ex-parte ad-interim injunction restraining BoB from making any payment
+in terms of Performance Bank Guarantee bearing No. 0834INC15CG00075
+for an amount of EUR 3,831,589.69 i.e. ₹28,35,37,637.06 and Counter
+Guarantee bearing No. 2158FGPER000215 for an amount of EUR
+3,831,589.69, i.e. ₹28,35,37,637.06 till the next date, which interim order is
+continuing till date.
+11.   Defendants were served however, only defendant Nos. 2 and 3, that
+is, AKBank and BoB entered appearance and written statement has been
+filed by BoB. Further two applications, that is, I.A. No. 5090/2017 under
+Order VII Rule 10 and 11 CPC and I.A. No. 7263/2017 under Order XXXIX
+Rule 4 read with Order VII Rule 10 and 11 CPC have been filed by
+defendant No. 2/AKBank and defendant No.3/BoB respectively. Thus the
+three applications, that is, I.A. Nos. 3182/2017 (under Order XXXIX Rule 1
+and 2 CPC), 5090/2017 (under Order VII Rule 10 and 11 by Defendant No.
+2) and 7263/2017 (under Order XXXIX Rule 4 CPC r/w Order VII Rule 10
+
+
+
+CS(COMM) 190/2017                                                        Page 6 of 27
+ and 11 by Defendant No.3) were heard together. After arguments were
+addressed by learned counsel for AKBank and BoB on their applications,
+BHEL filed an application under Order VI Rule 17 CPC being I.A. No.
+10152/2017 seeking to amend partly paragraph-25 and whole of paragraph-
+31 of the plaint seeking to withdraw certain averments in relation to the
+jurisdiction of the Counter Bank Guarantee being with the Commercial
+Court at London which application was dismissed by this Court vide order
+dated 5th September, 2017. Hence arguments were addressed by BHEL in
+response however, during the course of arguments learned Senior Counsel
+for BHEL repeatedly relied upon an omnibus agreement between BHEL and
+BoB which was not a part of documents filed along with the plaint nor are
+there any pleadings in this respect in the plaint.
+12.   Before dealing with the issue of injunction it would be appropriate to
+first deal with the issue of territorial jurisdiction as raised by the two
+defendants, that is, AKBank and BoB in I.A. Nos. 5090/2017 and
+7263/2017.
+13.   Challenging the territorial jurisdiction of this Court to entertain the
+present suit, learned counsel for AKBank vehemently contends that Article
+37 of the Contract between BHEL and EGI provided that Ankara Courts are
+responsible for the settlement of dispute arising from the implementation of
+the contract however, in relation to the Counter Guarantee between AKBank
+and BoB it is specifically stated that the Counter Guarantee is governed by
+English law and the place of jurisdiction is Commercial Court at London.
+Thus the exclusive jurisdiction being vested with the Commercial Court at
+London this Court has no territorial jurisdiction to entertain the suit.
+
+
+
+
+CS(COMM) 190/2017                                                          Page 7 of 27
+ 14.   Learned counsel for AKBank further submits that the fact that
+exclusive jurisdiction vests in the Commercial Courts at London for
+adjudication of the Counter Bank Guarantee is repeatedly admitted by
+BHEL in its pleading in the plaint and the contention now raised before the
+Court that interpretation of a document is a question of law is contrary to the
+further admission in replies to I.A. Nos. 5090/2017 and 7263/2017 filed by
+BHEL stating that the same was a question of fact.          Relying upon the
+decisions reported as 1974 (1) SCC 242 Nagindas Ramdas vs. Dalpatram
+Ichharam @ Brijram & Ors. and 1998 (2) SCC 70 ITC Limited vs. Debt
+Recovery Appellate Tribunal & Ors. it is contended that the admissions are
+the best proof of facts and BHEL cannot wriggle out of its admission made
+in the plaint and replies to I.A. No. 5090/2012 under Order VII Rule 10 and
+11 CPC and 7263/2017 under Order XXXIX Rule 4 CPC read with Order
+VII Rule 10 and 11 CPC.
+15.   It is contended that besides the clause of exclusive place of
+jurisdiction/territorial jurisdiction with Commercial Courts at London, the
+Counter Guarantee is a contract between AKBank and BoB and AKBank
+neither resides at Delhi nor carries on business or profession within the
+jurisdiction of this Court thus no part of cause of action having arisen in
+Delhi, mere issuance of Counter Bank Guarantee by BoB is not sufficient to
+confer jurisdiction to this Court. Further in the main contract BHEL and
+EGI agreed to submit to the jurisdiction of Courts at Ankara, Turkey.
+Furthermore the amount in terms of the Counter Guarantee issued by BoB to
+AKBank is to be paid outside the jurisdiction of this Court. Reliance is
+placed on the decision reported as 1996 (3) SCC 443 South East Asia
+Shipping Co. Ltd. vs. Nav Bharat Enterprises Pvt. Ltd. & Ors. and the
+
+
+
+CS(COMM) 190/2017                                                        Page 8 of 27
+ decision of the Division Bench of this Court reported as 2016 SCC OnLine
+Del 2485 : (2016) 157 DRJ 71 Hellenic Electricity Distribution Network
+Operator vs. Bharat Heavy Electricals Limited which judgment has attained
+finality as SLP (Civil) No. 13913/2016 has been dismissed by the Hon'ble
+Supreme Court vide order dated 5th August, 2017.
+16.   It is further contended that even assuming, though not admitting that
+this Court has territorial jurisdiction to entertain the suit for part of cause of
+action arising at Delhi, dehors the admission of BHEL in view of the
+exclusive jurisdiction vested in the Commercial Court at London and Bank
+Guarantee being an independent contract, this Court will not entertain the
+present suit.
+17.   Countering arguments of learned counsel for AKBank duly adopted
+by learned counsel for BoB on the issues relating to territorial jurisdiction,
+learned Senior Counsel appearing on behalf of BHEL, submitted six
+arguments. Firstly, that the relationship between plaintiff BHEL and BoB
+was governed by an omnibus agreement and the said contract having been
+entered into at Delhi, this Court has jurisdiction to entertain the suit.
+Secondly, since part of cause of action arose in Delhi as the Counter Bank
+Guarantee was issued in Delhi, this Court has jurisdiction to entertain the
+suit. Thirdly the word 'only' is conspicuously missing from the
+jurisdictional clause and hence the Commercial Court at London is not
+vested with the exclusive jurisdiction, the contract being a standard form
+contract and since part of cause of action has taken place in Delhi, this Court
+has territorial jurisdiction to entertain the suit. Fourthly, EGI terminated the
+contract without any work having been done though the delay was totally
+due to EGI, thus EGI has played fraud and walked away with encashing the
+
+
+
+CS(COMM) 190/2017                                                           Page 9 of 27
+ performance guarantee without fulfilling the conditions required for
+encashment of Performance Bank Guarantee. Hence equity demands and
+since part of cause of action has arisen in Delhi, the suit filed by BHEL be
+entertained and not rejected on the ground of territorial jurisdiction. Fifthly,
+it is submitted that the reliance of learned counsel for AKBank on the
+decision reported as 2003 (4) SCC 341 Modi Entertainment Network & Anr.
+vs. WSG Cricket PTE Ltd. is misconceived for the reason the present is not
+an anti suit injunction but a suit that seeks injunction from invocation of the
+Counter Bank Guarantee. It is further submitted that in Modi Entertainment
+(supra) the Hon'ble Supreme Court relied upon the decision reported as
+1969 (2) Weekly Law Reports 1073 Owners of Cargo lately Laden on
+Board the Ship or Vessel Eleftheria vs. The Eleftheria (Owners) which
+described the strong and compelling reasons which though mentioned in
+Modi Entertainment (supra) but were not explained and the present case
+being one of strong and compelling reasons this suit be not returned or
+rejected at the threshold. Sixthly, since the present suit is against EGI,
+AKBank and BoB together as defendants and the three defendants are not
+governed by a single contract but different contracts, further plaintiff cannot
+sue BoB either at Ankara or in London nor enforce a decree against BoB
+either at Ankara or London, the same being a meaningless exercise when
+both BHEL and BoB are situated at Delhi, this Court has territorial
+jurisdiction to entertain the present suit.
+18.   Before referring to the rival contentions of the parties it would be
+appropriate to note terms of Counter Bank Guarantee, the invocation
+whereof is sought to be injuncted by the present suit as the Performance
+Bank Guarantee has already been invoked:
+
+
+
+CS(COMM) 190/2017                                                        Page 10 of 27
+        "TN MR. SERDAR KESKIN MANAGER INTL DIVISION
+       AND GUARANTEES DEPT. ORDER AND COUNTER
+       GUARANTEE         NO.     2158FGPER000215    FOR
+       PERFORMANCE BOND. WE BANK OF BARODA CFS
+       BRANCH 16 PARLIAMENT STREET NEW DELHI INDIA
+       HEREBY INSTRUCT YOU TO ISSUE UNDER OUR FULL
+       RESPONSIBILITY AND ACCOUNT AND COUNTER
+       GUARANTEE A PERFORMANCE BOND IN THE
+       STANDART FORMAT IN TURKISH LANGUAGE SUBJECT
+       TO THE LAW 4734 AND 4735 TO BE ACCEPTABLE TO
+       THE BENEFICIARY AND TO BE ISSUED IN FAVOUR OF
+       THE BENEFICIARY ELEKTRIK URETIM A.S. GENEL
+       MUDURLUGU EUAS TO SECURE THE PARTICIPATION
+       OF OUR CUSTOMER BHARAT HEAVY ELECTRICALS
+       LIMITED NEW DELHI INDIA ENGAGEMENT OF KEBAN
+       HESIN 8 (SEKIZ) UNITESININ REHABILITASYONU FOR
+       THE AMOUNT OF EUR 3,831,589.69 (IN WORDS-THREE
+       MILLION EIGHT HUNDRED THIRTY ONE THOUSAND
+       FIVE HUNDRED EIGHTY NINE EURO AND SIXTY NINE
+       CENTS) IN ADDITION WE QUOTE THE FORMAT BELOW,
+       WHICH IS ACCEPTABLE TO YOU AS TRANSLATION
+       FROM TURKISH TO ENGLISH LANGUAGE QUOTE
+       PERFORMANCE BOND TO ELEKTRIK URETIM A.S.
+       GENEL MUDURLUGU (EUAS) DATE AS THE FIRST
+       MESSRS. BHARAT HEAVY ELECTRICALS LIMITED BEING
+       THE CONTRACTOR HAS ENTERED INTO ENGAGEMENT
+       FOR     KEBAN      HESIN   8   SEKIZ   UNITESININ
+       REHABILITASYONU AS A RESULT OF THE TENDER
+       CONCLUDED BY YOUR ADMINISTRATION AND SINCE
+       AKBANK T.A.S. GUARANTEES THE AMOUNT OF EUR
+       3,831,589.69 BEING THE VALUE OF THE PERFORMANCE
+       BOND WHICH HAS TO BE SUBMITTED BY THE SAID
+       CONTRACTOR IN ORDER TO COMPLY WITH THE
+       PROVISIONS OF THE LAW NO. 4734 AND LAW NO. 4735
+       AND THE TENDER DOCUMENTS AND AGREEMENT WE
+       THE UNDERSIGNED AS THE AUTHORIZED SIGNATORY
+       OFFICIALS AND DEPUTIES OF AKBANK T.A.S. HEREBY
+       GUARANTEE AND DECLARE IN THE NAME AND FOR
+
+
+
+
+CS(COMM) 190/2017                                      Page 11 of 27
+        ACCOUNT OF AKBANK T.A.S. THAT IN CASE THE
+       CONTRACTOR FAILS TO FULFILL HIS CONTRACTUAL
+       OBLIGATIONS IN WHOLE OR IN PART IN ACCORDANCE
+       WITH THE AFORESAID LAWS AND TENDER
+       DOCUMENTS AND AGREEMENT THE AFORESAID
+       AMOUNT SHALL BE PAID TO YOUR ADMINISTRATION
+       UPON YOUR FIRST WRITTEN DEMAND, IMMEDIATELY
+       AND WITHOUT DELAY IN CASH AND IN FULL,
+       TOGETHER WITH THE LEGAL INTEREST TO ACCRUE
+       FOR THE DAYS ELAPSING FROM THE DATE OF
+       DEMAND TO THAT OF PAYMENT, WITHOUT IT BEING
+       NECESSARY TO APPLY FOR A NOTICE OF PROTEST,
+       OBTAINING A COURT ORDER AND THE CONSENT OF
+       THE AFORESAID CONTRACTOR AND REGARDLESS OF
+       ANY DISPUTE THAT MAY ARISE BETWEEN THE
+       AFORESAID          CONTRACTOR      AND     YOUR
+       ADMINISTRATION      AND     REGARDLESS      THE
+       CONSEQUENCES AND LEGAL EFFECTS THEREOF. THIS
+       GUARANTEE WILL REMAIN VALID UNTIL 01.07.2024
+       AND WILL BE NULL AND VOID IF NO WRITTEN CLAIM IS
+       RECEIVED BY US UNTIL SAID DATE. IN THE EVENT OF
+       INDEMNIFICATION UNDER THIS PERFORMANCE BOND,
+       THE SUM OF PERFORMANCE BOND SHALL BE PAID TO
+       YOU IN EURO. THIS GUARANTEE HAS BEEN ISSUED ON
+       THE BASIS OF THE COUNTER GUARANTEE NO
+       2158FGPER000215 DATED 20 APR 2015 GIVEN BY BANK
+       OF BARODA CFS BRANCH 16 PARLIAMENT STREET NEW
+       DELHI INDIA IN THE AMOUNT OF EUR 3,831,589.69
+       UNQUOTE IN CONSIDERATION OF YOUR ISSUING YOUR
+       ABOVE MENTIONED GUARANTEE WE BANK OF
+       BARODA CFS BRANCH 16 PARLIAMENT STREET NEW
+       DELHI INDIA HOLD YOU INDEMNIFIED AND
+       IRREVOCABLY AND UNCONDITIONALLY UNDERTAKE
+       TO PAY TO YOU OR YOUR ORDER WITHOUT
+       OBJECTION AND DEFENSE UPON YOUR FIRST WRITTEN
+       OR AUTHENTICATED SWIFT DEMAND INFORMING OUR
+       BANK THAT YOUR BANK HAS BEEN CALLED UPON TO
+       MAKE PAYMENT TO THE BENEFICIARY AN AMOUNT
+
+
+
+
+CS(COMM) 190/2017                                     Page 12 of 27
+        UNDER THE GUARANTEE AGAINST ITS DEMAND
+       PRESENTED TO YOUR BANK IRRESPECTIVE OF THE
+       VALIDITY OF THE ABOVE MENTIONED CONTRACT AND
+       ANY CONTESTATION BY ACCOUNT PARTY OR ANY
+       OTHER PARTY WHATSOEVER ANY AMOUNT UP TO
+       EURO 3,831,589.69 PLUS LEGAL INTEREST IN TURKEY IF
+       OCCURS FOR THE DAYS ELAPSED FROM THE DATE OF
+       YOUR DEMAND TO THAT OF OUR ACTUAL
+       DISBURSEMENT. YOUR LIABILITY WITH REGARD TO
+       THE EXAMINATION OF BENEFICIARIES WRITTEN
+       DEMAND STIPULATED IN YOUR GUARANTEE IS
+       LIMITED TO ITS APPEARANCE ON ITS FACE ONLY. OUR
+       COUNTER GUARANTEE WILL REMAIN VALID UNTIL
+       16.07.2024 (15 DAYS ADDED FOR MAILING PURPOSES)
+       AND WILL BE NULL AND VOID IF NO WRITTEN CLAIM IS
+       RECEIVED BY US UNTIL SAID DATE. THIS COUNTER
+       GUARANTEE IS GOVERNED BY ENGLISH LAW PLACE OF
+       JURISDICTION IS COMMERCIAL COURT IN LONDON.
+       YOU ARE AUTHORIZED TO ISSUE YOUR GUARANTEE IN
+       TURKISH       LANGUAGE.    ALL    CHARGES       AND
+       COMMISSIONS ARE FOR ACCOUNT OF OURS. WE
+       HEREBY CONFIRM THAT WE ARE AUTHORIZED UNDER
+       THE LAWS OF INDIA TO REQUEST YOU TO ISSUE THIS
+       GUARANTEE AND TO REIMBURSE YOU IN THE EVENT
+       OF A CLAIM. PLEASE TRANSMIT THE ORIGINAL OF
+       YOUR PERFORMANCE BOND TO ATTENTION MR. IMDAT
+       ONUR OGUZ ID NO 24340911598 TEL NO 03124400816
+       TURKEY AND LET US HAVE A COPY OF YOUR
+       GUARANTEE OF EMAIL INDEL AT THE RATE
+       BANKOFBARODA DOT COM AND SHANTROY AT THE
+       RATE BHEL DOT IN FOR OUR FILES. THIS IS AN
+       OPERATIVE       INSTRUMENT     AND     NO      MAIL
+       CONFIRMATION WILL FOLLOW."
+                                         [Emphasis supplied]
+
+19.   Supreme Court while dealing with the issue of territorial jurisdiction
+in relation to the bank guarantee in South East Asia (Supra) held:
+
+
+
+
+CS(COMM) 190/2017                                                    Page 13 of 27
+        3. It is settled law that cause of action consists of bundle of
+       facts which give cause to enforce the legal injury for redress in
+       a court of law. The cause of action means, therefore, every
+       fact, which if traversed, it would be necessary for the plaintiff
+       to prove in order to support his right to a judgment of the
+       court. In other words, it is a bundle of facts, which taken with
+       the law applicable to them, gives the plaintiff a right to claim
+       relief against the defendant. It must include some act done by
+       the defendant since in the absence of such an act no cause of
+       action would possibly accrue or would arise. In view of the
+       admitted position that contract was executed in Bombay, i.e.,
+       within the jurisdiction of the High Court of Bombay,
+       performance of the contract was also to be done within the
+       jurisdiction of the Bombay High Court; merely because bank
+       guarantee was executed at Delhi and transmitted for
+       performance to Bombay, it does not constitute a cause of
+       action to give rise to the respondent to lay the suit on the
+original side of the Delhi High Court. The contention that the Division Bench was right in its finding and that since the bank guarantee was executed and liability was enforced from the bank at Delhi, the Court got jurisdiction, cannot be sustained.
+20. Dealing with this issue of territorial jurisdiction in case of invocation of bank guarantee in Hellenic Electricity (supra) this Court held:
+"12. The principle of law that a bank guarantee is an independent contract between the issuing bank and the beneficiary and has no concern with the main contract between the beneficiary and the party at whose instance the bank guarantee has been issued, with reference to territorial jurisdiction of a Court, has to be understood in the context of jurisdiction with reference to the mother contract. The independence of a contract for guarantee simply means that the dispute concerning the bank guarantee has to be resolved in terms of the bank guarantee i.e. the bank guarantee is the complete contract between the bank issuing the guarantee and the beneficiary. But since the bank guarantee flows out of the mother contract the jurisdictional issue has to be resolved in the context of the cause of action arising under the contract for the reason a guarantee is invocable, though in terms of the guarantee, but in relation to the main contract. To wit. Instant guarantee is a performance guarantee. The performance of the contract by the plaintiff has to be in terms of the contract. The bank guarantee simply states that a demand by the beneficiary, alleging non-performance, would require the bank to pay under the bank guarantee.
+13. In the decision reported as (1996) 3 SCC 443 South East Asia Shipping Co. Ltd. v. Nav Bharat Enterprises Pvt. Ltd. noting that the contract between the parties was executed at Bombay and had to be performed at Bombay, it was held that merely because the bank guarantee was executed by a bank at Delhi in terms of the mother contract would not constitute a cause of action at Delhi to a lay a suit to injunct the bank from paying under the guarantee and to restrain the beneficiary from enforcing the right under the guarantee. Concerning jurisdiction under the Consumer Protection Act, in the decision reported as (1999) 8 SCC 357 Union Bank of India v. Seppo Rally OY the Supreme Court held that the consumer fora at the place where the office of the party at whose instance the bank guarantee was furnished would have no jurisdiction to entertain a complaint concerning the bank guarantee furnished by the branch of the bank from the place where the office of the party concerned was situated.
+14. ...
+15. Whether the contract was validly assigned or not and whether defendant No. 2 could enforce the bank guarantee in its favour notwithstanding beneficiary being defendant No. 1 is a matter of substance and has no concern with the issue of territorial jurisdiction. It is a dispute concerning the contract and suffice would it state that whether it is a dispute concerning the contract or relating to a contract or arising out of a contract would make no difference on the issue of territorial jurisdiction. Territorial jurisdiction has to be determined with reference to a cause of action arising under a contract and if there is an exclusive jurisdiction clause vesting jurisdiction in one Court and ousting jurisdiction in others, the same has to be respected.
+16. As we have noted hereinabove, apart from the exclusive jurisdiction clause vesting jurisdiction in the Courts of Athens, no part of cause of action concerning the contract arose in Delhi or for that matter in India. Entire cause of action was in Athens. As held above, issuance of the bank guarantee from Delhi is not a part of the cause of action and territorial jurisdiction cannot be determined with reference to the said fact.
+17. We terminate by holding that the impugned order is contrary to the principles of law and our reasons for disagreement have been noted above.
+[Emphasis supplied]
+21. First and second contentions of learned Senior Counsel for BHEL can be dealt together. Contention that the relationship between BHEL and BoB was governed by an omnibus agreement, the said contract having been entered into at Delhi as the Counter Bank Guarantee was issued in Delhi, therefore, since part of cause of action arose in Delhi this Court has jurisdiction to entertain the suit is bereft of any pleadings in the plaint on this count or any documents filed by BHEL. Even otherwise as noted in the South East Asia and Hellenic Electricity (Supra) issuance of Bank Guarantee at Delhi, or that BHEL and BoB were bound by an omnibus agreement would not be sufficient to vest territorial jurisdiction on this Court to entertain the suit. Further the prayers in the suit are declaration and permanent injunction qua the Performance Bank Guarantee and the Counter Guarantee, both guarantees specify Courts where jurisdiction is vested. BHEL does not claim any relief in the suit based on the omnibus agreement between BHEL and BoB. The plea regarding the jurisdiction of this Court based on the omnibus agreement is required to be rejected also on the ground that a Bank Guarantee is an independent contract and the existence or non-existence of the underlined contract is irrelevant to a Bank Guarantee.
+22. Hon'ble Supreme Court in the decision reported as 2003 (7) SCC 410 National Highways Authority of India vs. Ganga Enterprises held as under:
+"It is settled law that a contract of guarantee is a complete and separate contract by itself. The law regarding enforcement of an "on demand bank guarantee" is very clear. If the enforcement is in terms of the guarantee, then Courts must not interfere with the enforcement of bank guarantee. The Court can only interfere if the invocation is against terms of the guarantee or if there is any fraud. Courts cannot restrain invocation of an "on demand guarantee" in accordance with its terms by looking at terms of the underlying contract. The existence or non-existence of an underlying contract become irrelevant when the invocation is in terms of the bank guarantee. The bank guarantee stipulated that if the bid was withdrawn within 120 days or if the performance security was not given or if an Agreement was not signed, the guarantee could be enforced. The bank guarantee was enforced because the bid was withdrawn within 120 days. Therefore, it could not be said that the invocation of the bank guarantee was against the terms of the bank guarantee. If it was in terms of the bank guarantee, one fails to understand as to how the High Court could say that the guarantee could not have been invoked. If the guarantee was rightly invoked, there was no question of directing refund as has been done by the High Court."
+23. In respect of the third contention of learned counsel for BHEL that as the word 'only' is conspicuously missing from the jurisdictional clause in the Counter Bank Guarantee, Commercial Court at London is not vested with the exclusive jurisdiction. This contention of learned Senior Counsel deserves to be rejected in view of the decision reported as 1989 (2) SCC 163 A.B.C. Laminart Pvt. Ltd. & Anr. vs. A.P. Agencies, Salem wherein it was held:
+21. From the foregoing decisions it can be reasonably deduced that where such an ouster clause occurs, it is pertinent to see whether there is ouster of jurisdiction of other Courts. When the clause is clear, unambiguous and specific accepted notions of contract would bind the parties and unless the absence of ad idem can be shown, the other Courts should avoid exercising jurisdiction, As regards construction of the ouster clause when words like 'alone', 'only, 'exclusive' and the like have been used there may be no difficulty. Even without such words in appropriate cases the maxim 'expressio unius est exclusio alterius' expression of one is the exclusion of another may be applied. What is an appropriate case shall depend on the facts of the case. In such a case mention of one thing may imply exclusion of another. When certain jurisdiction is specified in a contract an intention to exclude all others from its operation may in such cases be inferred. It has therefore to be properly construed.
+24. Further the Supreme Court in the decision reported as 2013 (9) SCC 32 Swastik Gases Pvt. Ltd. vs. Indian Oil Corporation Ltd. held:
+32. For answer to the above question, we have to see the effect of the jurisdiction clause in the agreement which provides that the agreement shall be subject to jurisdiction of the courts at Kolkata. It is a fact that whilst providing for jurisdiction clause in the agreement the words like 'alone', 'only', 'exclusive' or 'exclusive jurisdiction' have not been used but this, in our view, is not decisive and does not make any material difference. The intention of the parties-by having Clause 18 in the agreement - is clear and unambiguous that the courts at Kolkata shall have jurisdiction which means that the courts at Kolkata alone shall have jurisdiction. It is so because for construction of jurisdiction clause, like Clause 18 in the agreement, the maxim expressio unius est exclusio alterius comes into play as there is nothing to indicate to the contrary. This legal maxim means that expression of one is the exclusion of another. By making a provision that the agreement is subject to the jurisdiction of the courts at Kolkata, the parties have impliedly excluded the jurisdiction of other courts. Where the contract specifies the jurisdiction of the courts at a particular place and such courts have jurisdiction to deal with the matter, we think that an inference may be drawn that parties intended to exclude all other courts.
+A clause like this is not hit by Section 23 of the Contract Act at all. Such clause is neither forbidden by law nor it is against the public policy. It does not offend Section 28 of the Contract Act in any manner.
+32. The above view finds support from the decisions of this Court in Hakam Singh v. Gammon (India) Ltd., (1971) 1 SCC 286, A.B.C. Laminart Pvt. Ltd. and Anr. v. A.P. Agencies, Salem, (1989) 2 SCC 163, R.S.D.V. Finance Co. Pvt. Ltd. v. Shree Vallabh Glass Works Ltd., (1993) 2 SCC 130, Angile Insulations v. Davy Ashmore India Ltd. and Anr., (1995) 4 SCC 153, Shriram City Union Finance Corporation Limited v. Rama Mishra, (2002) 9 SCC 613, Hanil Era Textiles Ltd. v. Puromatic Filters (P) Ltd. MANU/SC/0348/2004 : (2004) 4 SCC 671 and Balaji Coke Industry Private Limited v. Maa Bhagwati Coke Gujarat Private Limited (2009) 9 SCC 403."
+25. The fourth contention of learned Senior Counsel for BHEL that equity demands and that since part of cause of action has taken place at Delhi, the suit filed by BHEL be entertained and not rejected on the ground of territorial jurisdiction for the reason that EGI played a fraud and walked away with encashing the Performance Bank Guarantee without fulfilling the conditions required therein for encashment of Performance Bank Guarantee though not required to be considered by this Court at this stage for the reason it will be for the Court which has territorial jurisdiction to decide whether the encashment of the Bank Guarantee was vitiated with fraud or not however, it would be apposite to note the following decisions of the Supreme Court. In the decision reported as AIR 1996 SC 2268: 1996 (5) SCC 34 Hindustan Steel Works Construction Ltd. vs. Tarapore & Co. it was observed:
+"We are, therefore, of the opinion that the correct position of law is that commitment of banks must be honoured free from interference by the courts and it is only in exceptional cases, that is to say, in case of fraud or in a case where irretrievable injustice would be done if bank guarantee is allowed to be encashed, the court should interfere. In this case fraud has not been pleaded and the relief for injunction was sought by the contractor/Respondent No. 1 on the ground that special equities or the special circumstances of the case required it. The special circumstances and/or special equities which have been pleaded in this case are that there is a serious dispute on the question as to who has committed breach of the contract, that the contractor has a counter claim against the appellant, that the disputes between the parties have been referred to the arbitrators and that no amount can be said to be due and payable by the contractor to the appellant till the arbitrators declare their award. In our opinion, these factors are not sufficient to make this case an exceptional case justifying interference by restraining the appellant from enforcing the bank guarantees. The High Court was, therefore, not right in restraining the appellant from enforcing the bank guarantees."
+26. In 1997 (1) SCC 568 U.P. State Sugar Corporation vs. Sumac International Ltd. the Hon'ble Supreme Court also noted:
+"12. The law relating to invocation of such bank guarantees is by now well settled. When in the course of commercial dealings an unconditional bank guarantee is given or accepted, the beneficiary is entitled to realize such a bank guarantee in terms thereof irrespective of any pending disputes. The bank giving such a guarantee is bound to honour it as per its terms irrespective of any dispute raised by its customer. The very purpose of giving such a bank guarantee would otherwise be defeated. The Courts should, therefore, be slow in granting an injunction to restrain the realization of such a bank guarantee. The Courts have carved out only two exceptions. A fraud in connection with such a bank guarantee would vitiate the very foundation of such a bank guarantee. Hence if there is such a fraud of which the beneficiary seeks to take advantage, he can be restrained from doing so. The second exception relates to cases where allowing the encashment of an unconditional bank guarantee would result in irretrievable harm or injustice to one of the parties concerned. Since in most cases payment of money under such a bank guarantee would adversely affect the bank and its customer at whose instance the guarantee is given, the harm or injustice contemplated under this head must be of such an exceptional and irretrievable nature as would override the terms of the guarantee and the adverse effect of such an injunction on commercial dealings in the country. The two grounds are not necessarily connected, though both may co- exist in some cases.
+......
+14. On the question of irretrievable injury which is the second exception to the rule against granting of injunctions when unconditional bank guarantees are sought to be realised the Court said in the above case that the irretrievable injury must be of the kind which was the subject-matter of the decision in the Itek Corporation case (566 Fed Supp. 1210) (supra). In that case an exporter in the U.S.A. entered into an agreement with the Imperial Government of Iran and sought an order terminating its liability on stand by letters of credit issued by an American Bank in favour of an Iranian Bank as part of the contract. The relief was sought on account of the situation created after the Iranian revolution when the American Government cancelled the export licences in relation to Iran and the Iranian Government had forcibly taken 52 American citizens as hostages. The U.S. Government had blocked all Iranian assets under the jurisdiction of United States and had cancelled the export contract. The Court upheld the contention of the exporter that any claim for damages against the purchaser if decreed by the American Courts would not be executable in Iran under these circumstances and realisation of the bank guarantee/letters of credit would cause irreparable harm to the Plaintiff. This contention was upheld. To avail of this exception, therefore, exceptional circumstances which make it impossible for the guarantor to reimburse himself if he ultimately succeeds, will have to be decisively established. Clearly, a mere apprehension that the other party will not be able to pay, is not enough. In the Itek case (supra) there was a certainty on this issue. Secondly, there was good reason, in that case for the Court to be prima facie satisfied that the guarantors i.e. the bank and its customer would be found entitled to receive the amount paid under the guarantee.
+15. Our attention was invited to a number of decisions on this issue -- among them, to Larsen & Toubro Ltd. v.
+Maharashtra State Electricity Board (1995) 6 SCC 68 and Hindustan Steel Workers Construction Ltd. v. G.S. Atwal & Co. (Engineers) Pvt. Ltd. (1995) 6 SCC 76 as also to National Thermal Power Corporation Ltd. v. Flowmore Pvt. Ltd. (1995) 4 SCC 515. The latest decision is in the case of State of Maharashtra v. National Construction Company, Bombay (1996) 1 SCC 735 where this Court has summed up the position by stating:
+"The rule is well established that a bank issuing a guarantee is not concerned with the underlying contract between the parties to the contract. The duty of the bank under a performance guarantee is created by the documents itself. Once the documents are in order the bank giving the guarantee must honour the same and make payment ordinarily unless there is an allegation of fraud or the like. The Courts will not interfere directly or indirectly to withhold payment, otherwise trust in commerce internal and international would be irreparably damaged. But that does not mean that the parties to the underlying contract cannot settle the disputes with respect to allegations of breach by resorting to litigation or arbitration as stipulated in the contract. The remedy arising ex contractu is not burred and the cause of action for the same is independent of enforcement of the guarantee."
+27. Relying upon the decision in Eleftheria (supra) learned Senior Counsel for BHEL advanced his fifth and sixth submissions that there are strong and compelling reasons for this Court to entertain the present suit, the essence of jurisdictional laws in Indian Courts being that the payments had already been made by AKBank to EGI under the Performance Bank Guarantee, the lis in the present suit is between BHEL and BoB which both parties are situated in the jurisdiction of this Court and even if a decree is granted in favour of BHEL and against BoB it will have to be executed in Delhi and the Commercial Court at London has no connect with any of the parties before the Court.
+28. In Eleftheria (supra) the Court summarized the principles in relation to the territorial jurisdiction as under:
+"The principles established by the authorities can, I think, be summarized as follows: (1) Where plaintiffs sue in England in breach of an agreement to refer disputes to a foreign court, and defendants apply for a stay, the English court, assuming the claim to be otherwise within its jurisdiction, is not bound to grant a stay but has a discretion whether to do so or not. (2) The discretion should be exercised by granting a stay unless strong cause for not doing so is shown. (3) The burden of proving such strong cause is on plaintiffs. (4)In exercising its discretion the court should take into account all the circumstances of the particular case. (5) In particular, but without prejudice to (4) the following matters, where they arise, may properly be regarded: -(A) In what country the evidence on the issues of fact is situated, or more readily available, and the effect of that on the relative convenience and expense of trial as between the English and foreign courts.
+(b) Whether the law of the foreign court applies and, if so, whether it differs from English law in any material respects.
+(c) With what country either party is connected, and how closely. (d) Whether defendants genuinely desire trial in the foreign country, or are only seeking procedural advantages.
+(e) Whether the plaintiffs would be prejudiced by having to sue in the foreign court because they would: (i) be deprived of security for that claim; (ii) be unable to enforce any judgment obtained; (iii) be faced with a time-bar not applicable in England; or (iv) for political, racial, religious or other reasons be unlikely to get a fair trial.
+29. Even as noted in the points of arguments on behalf of BHEL though under Indian law territorial jurisdiction cannot be conferred on a Court where it does not exist however, the parties may agree to vest jurisdiction in a foreign Court being a neutral venue. In Modi Entertainment (supra) the Hon'ble Supreme Court held:
+"11. In regard to jurisdiction of courts under the Code of Civil Procedure (CPC) over a subject-matter one or more courts may have jurisdiction to deal with it having regard to the location of immovable property, place of residence or work of a defendant or place where cause of action has arisen. Where only one Court has jurisdiction it is said to have exclusive jurisdiction; where more courts than one have jurisdiction over a subject-matter, they are called courts of available or natural jurisdiction. The growing global commercial activities gave rise to the practice of the parties to a contract agreeing beforehand to approach for resolution of their disputes thereunder, to either any of the available courts of natural jurisdiction and thereby create an exclusive or non-exclusive jurisdiction in one of the available forums or to have the disputes resolved by a foreign court of their choice as a neutral forum according to the law applicable to that court. It is a well-settled principle that by agreement the parties cannot confer jurisdiction, where none exists, on a court to which CPC applies, but this principle does not apply when the parties agree to submit to the exclusive or non-exclusive jurisdiction of a foreign court; indeed in such cases the English Courts do permit invoking their jurisdiction. Thus, it is clear that the parties to a contract may agree to have their disputes resolved by a Foreign Court termed as a 'neutral court' or 'court of choice' creating exclusive or non-exclusive jurisdiction in it."
+30. From the decisions noted above, it is settled that if the cause of action has taken place in India and the Indian law applies, the parties cannot choose to vest territorial jurisdiction to try the suit in a Court which does not have the jurisdiction though they may agree to vest exclusive jurisdiction in one of such Court having jurisdiction, however, where one party is not subject to the law of India, the parties may vest jurisdiction outside the country in a neutral forum as has been done in the present case. The cause of action in the present case does not arise by virtue of the omnibus agreement between BHEL and BoB as there is no prayer in respect of the omnibus agreement to be enforced or violation thereof alleged but of the Counter Guarantee and the Performance Bank Guarantee which both vest jurisdiction in Courts outside India. It is in this light that the circumstances noted in Eleftheria (supra) have to be looked into i.e. the evidence on issues of fact situated in or more readily available, the effect of relative convenience and expense of trial, the law applicable, with which country either party is connected, whether defendant genuinely desires trial or is only seeking procedural advantage or whether the plaintiff is prejudiced by suing in a foreign court or deprived of the security of his claim or unable to enforce any judgment obtained etc. As per the pleadings in the plaint, the plea taken by BHEL is not of expense or procedure or the law of England being different or that conditions are such that BHEL cannot proceed against the parties at London but is paucity of time which is not one of the grounds recognized. Even if this Court accepts that paucity of time is one of the grounds, time can be granted to BHEL to approach the Court of competent jurisdiction. Claim of BHEL being not based on the omnibus agreement but on the basis of Performance Bank Guarantee and Counter Guarantee, conditions as noted in Eleftheria (supra) are not applicable to the present case and hence the contentions raised in terms of fifth and sixth submissions also deserve to be rejected.
+31. Even though learned counsel for AKBank harps on the admissions made by BHEL in the plaint that the Commercial Court at London has the exclusive jurisdiction to try the suit and the present suit was filed only because of paucity of time for BHEL to approach the Court of competent jurisdiction, dehors the admission of BHEL this Court finds that it has no territorial jurisdiction to entertain the present suit, for it is well settled that contract of Bank Guarantee is an independent contract and merely because the same was issued at the place within the territorial jurisdiction of this Court and that the word 'only' is missing from the Counter Bank Guarantee clause, the same would not vest this Court with the territorial jurisdiction to entertain the plaint.
+32. Consequently, the plaint is directed to be returned to be filed in the Court of competent jurisdiction however, since there is an ad-interim order in favour of BHEL since 10th March, 2017 and it would take some time for BHEL to approach the Court of competent jurisdiction the interim order dated 10th March, 2017 is extended for a further period of 45 days so that BHEL can approach the Court of competent jurisdiction. CS(COMM) 190/2017 is accordingly disposed of directing the plaint to be returned with liberty as noted above.
+33. I.A. No. 3182/2017 is dismissed and I.A. Nos. 5090/2017 and 7263/2017 are disposed of.
+34. I.A. No. 9057/2017 under Order VIII Rule 1 CPC by defendant No.2 seeking extension of time in filing written statement is disposed of as infructuous. The date of 2nd November, 2017 fixed before the learned Joint Registrar is cancelled.
+(MUKTA GUPTA) JUDGE SEPTEMBER 19, 2017 'vn'

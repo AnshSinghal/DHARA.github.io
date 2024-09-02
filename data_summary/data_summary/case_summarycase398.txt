@@ -1,0 +1,101 @@
+## 1. Case Title
+
+* **Case Name:** M.K.Jayakrishnan vs Rajeevan P.V
+* **Court:** Kerala High Court
+* **Date of Judgment:** 27th March 2024
+* **Citation:**  RP No. 329 of 2024 (Kerala High Court)
+
+## 2. Background and Context
+
+* **Brief Overview:**  This review petition arises from a dispute between M.K. Jayakrishnan (Petitioner) and Rajeevan P.V (Respondent) concerning an arbitration proceeding. The Respondent sought interim relief under Section 9 of the Arbitration and Conciliation Act, 1996, including attachment of bank accounts, in the Commercial Court-II, Ernakulam. The Commercial Court granted a conditional attachment order, but the Respondent appealed to the Kerala High Court challenging the order's scope. 
+* **Key Issues:**
+    * **Maintainability of the appeal:** Whether the High Court had jurisdiction to hear the Respondent's appeal challenging the Commercial Court's order under Section 9 of the Arbitration Act. 
+    * **Correct application of Section 9:**  Whether the Commercial Court properly applied the principles laid down by the Supreme Court in Essar House Private Limited v. Arcellor Mittal Nippon Steel India Limited (AIR 2022 SC 4294) while granting interim relief under Section 9.
+    * **Compliance with the High Court's judgment:**  Whether the Respondent filed a proper application before the Commercial Court after the High Court's judgment in the appeal.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * Arbitration and Conciliation Act, 1996
+    * Section 9 (Interim Relief)
+    * Section 37 (Appeal against Interim Orders)
+    * Commercial Courts Act, 2015
+    * Section 13 (Appeal against Commercial Court orders)
+    * Code of Civil Procedure, 1908
+    * Order XXXVIII Rule 5 (Attachment before Judgment)
+* **Precedents Cited:**
+    * Essar House Private Limited v. Arcellor Mittal Nippon Steel India Limited [AIR 2022 SC 4294]
+    * Alexander Luke v. Aditya Birla Money Ltd. [2024 KHC OnLine 107]
+    * Sabu George and others v. James George and others [2023:KER:82657]
+    * R.P.No.34 of 2024 - Sabu George and others v. James George and others [2024:KER:5008]
+    * Jaycee Housing Pvt. Ltd. v. Registrar (General), Orissa High Court, Cuttack [(2023) 1 SCC 549]
+* **Legal Doctrines:**
+    * Principles of statutory interpretation 
+    * Doctrine of precedent 
+    * Principles of jurisdiction 
+    * Principles of interim relief under arbitration law
+
+## 4. Arguments Presented
+
+* **Petitioner’s Argument:**
+    * The High Court lacked jurisdiction to hear the Respondent's appeal, as the appeal should have been filed before the Commercial Appellate Court (District Court) as per the Commercial Courts Act, 2015.
+    * The Respondent's appeal was not maintainable in light of the Division Bench judgment in Alexander Luke [2024 KHC OnLine 107].
+    * The Commercial Court had not omitted to grant a conditional attachment order in relation to all the bank accounts as stated by the High Court in its judgment dated 15.02.2024.
+* **Respondent’s Argument:** 
+    * The Commercial Court's order granting conditional attachment was not a final order and therefore appealable in the High Court under Section 37 of the Arbitration Act.
+    * There was a distinction between a final order and an ad-interim order, which could be challenged in the High Court.
+    * The High Court should not have recalled its judgment in the appeal and should not have dismissed the appeal as not maintainable.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The High Court found that the Respondent's appeal was not maintainable as it should have been filed before the Commercial Appellate Court (District Court) under Section 13 of the Commercial Courts Act.
+    * The High Court held that the appeal against an order passed by the Commercial Court in an application under Section 9 of the Arbitration Act falls within the scope of appeals governed by the Commercial Courts Act.
+    * The High Court emphasized the consistency of its decisions with the Division Bench judgment in Alexander Luke [2024 KHC OnLine 107]. 
+    * The High Court did not consider the legality of the Commercial Court's order dated 19.02.2024, as the Petitioner could challenge this order in the Commercial Appellate Court. 
+* **Interpretation of Law:**
+    * The court interpreted Section 13 of the Commercial Courts Act to include appeals against orders passed by Commercial Courts in arbitration proceedings.
+    * The court clarified the application of the Commercial Courts Act, emphasizing the jurisdiction of the Commercial Appellate Court (District Court) for appeals against Commercial Court orders.
+    * The court applied the principles laid down by the Supreme Court in Essar House Private Limited (AIR 2022 SC 4294) to the case, recognizing the wide power of courts under Section 9 of the Arbitration Act to grant interim relief.
+* **Application of Law:**
+    * The High Court applied the relevant legal provisions and precedents to conclude that the appeal was not maintainable before it.
+    * The court dismissed the appeal as not maintainable, as the Respondent had not filed it before the proper forum (Commercial Appellate Court).
+    * The court directed the return of trial court records to the Commercial Court and suggested the Respondent challenge the Commercial Court's order dated 03.02.2024 before the Commercial Appellate Court.
+
+## 6. Judgment
+
+* **Final Decision:** The review petition was allowed. The High Court judgment dated 15.02.2024 in Arb. Appeal No. 11 of 2024 was recalled.
+* **Relief Granted:**  Arb. Appeal No. 11 of 2024 was dismissed as not maintainable.
+* **Orders:**
+    * The trial court records were to be returned to the Commercial Court.
+    * The Respondent was advised to challenge the Commercial Court's order dated 03.02.2024 before the Commercial Appellate Court.
+    * Registry was directed to conduct an inquiry regarding the errors in issuing summons and service of notice in the case.
+
+## 7. Implications
+
+* **Impact on Law:** The judgment further clarifies the scope of appeals under the Commercial Courts Act, including appeals arising from arbitration proceedings. It reinforces the jurisdiction of the Commercial Appellate Court (District Court) for such appeals.
+* **Future Relevance:** This judgment provides guidance on the proper forum for appeals against orders passed by Commercial Courts in arbitration proceedings. It could influence future legal decisions on the maintainability of appeals in similar circumstances.
+* **Broader Context:** The case highlights the importance of navigating the complexities of jurisdiction and procedural requirements within the context of arbitration and commercial law. It emphasizes the need for parties to carefully consider the appropriate forum for their appeals and ensure compliance with statutory provisions.
+
+## 8. Summary Points
+
+* The High Court determined that the Respondent's appeal against the Commercial Court order under Section 9 of the Arbitration Act was not maintainable before it.
+* The appeal should have been filed before the Commercial Appellate Court (District Court) under Section 13 of the Commercial Courts Act.
+* The High Court recalled its previous judgment and dismissed the appeal as not maintainable.
+* The court emphasized the importance of filing appeals in the correct forum and provided guidance on the application of the Commercial Courts Act in arbitration proceedings.
+
+## 9. References
+
+* **Citations:**
+    * Arbitration and Conciliation Act, 1996
+    * Commercial Courts Act, 2015
+    * Code of Civil Procedure, 1908
+    * Essar House Private Limited v. Arcellor Mittal Nippon Steel India Limited [AIR 2022 SC 4294]
+    * Alexander Luke v. Aditya Birla Money Ltd. [2024 KHC OnLine 107]
+    * Sabu George and others v. James George and others [2023:KER:82657]
+    * R.P.No.34 of 2024 - Sabu George and others v. James George and others [2024:KER:5008]
+    * Jaycee Housing Pvt. Ltd. v. Registrar (General), Orissa High Court, Cuttack [(2023) 1 SCC 549]
+* **Further Reading:**
+    * Articles on the Commercial Courts Act, 2015
+    * Case commentaries on Essar House Private Limited v. Arcellor Mittal Nippon Steel India Limited (AIR 2022 SC 4294)
+    *  Legal texts on arbitration law and commercial courts in India. 

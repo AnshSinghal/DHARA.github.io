@@ -1,0 +1,181 @@
+## 1. Case Title
+
+* **Case Name:** Government of Maharashtra (Water Resources Department) vs. M/S Borse Brothers Engineers & Contractors Pvt. Ltd.
+* **Court:** Supreme Court of India
+* **Date of Judgment:** 19th March 2021
+* **Citation:** AIRONLINE 2021 SC 152
+
+## 2. Background and Context
+
+* **Brief Overview:** This case involved several appeals challenging judgments of High Courts in Maharashtra, Delhi, and Madhya Pradesh. The dispute centered around the interpretation of Section 37 of the Arbitration and Conciliation Act, 1996 (the "Arbitration Act") and its interplay with the Limitation Act, 1963 (the "Limitation Act") and the Commercial Courts Act, 2015 (the "Commercial Courts Act"). The main issue was whether condonation of delay in filing appeals under Section 37 could be limited beyond a certain period, particularly considering the overarching aim of speedy resolution of disputes in arbitration matters.
+* **Key Issues:**
+    * Whether the judgment of a Division Bench of the Supreme Court in N.V. International v. State of Assam, (2020) 2 SCC 109 [“N.V. International”] correctly interpreted the law regarding condonation of delay in appeals under Section 37 of the Arbitration Act.
+    * Whether the scheme of the Commercial Courts Act excludes the applicability of Section 5 of the Limitation Act, which allows for condonation of delay in filing appeals or applications.
+    * Whether a judicially imposed cap on condonation of delay beyond a specified period is permissible under the existing legal framework.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * **Arbitration and Conciliation Act, 1996:** Sections 5, 8, 9, 11, 13, 16, 17, 29A, 29B, 33, 34, 37, 43.
+    * **Limitation Act, 1963:** Sections 3, 5, 29(2), and Articles 116, 117, and 137 of the Schedule.
+    * **Commercial Courts Act, 2015:** Sections 2(1)(i), 10, 13, 13(1A), 14, 16, 21, and the Schedule.
+    * **Code of Civil Procedure, 1908:** Order VIII Rule 1.
+    * **Central Excise Act, 1944:** Section 35-H(1).
+    * **Electricity Act, 2003:** Section 125.
+    * **Insolvency and Bankruptcy Code, 2016:** Relevant provisions.
+* **Precedents Cited:**
+    * Union of India v. Varindera Constructions Ltd., (2020) 2 SCC 111 [“Varindera Constructions”]
+    * Lachmeshwar Prasad Shukul v. Keshwar Lal Chaudhuri, 1940 SCC OnLine FC 10 : AIR 1941 FC 5
+    * Consolidated Engg. Enterprises v. Irrigation Deptt., (2008) 7 SCC 169 [“Consolidated Engg.”]
+    * Kandla Export Corpn. v. OCI Corpn., (2018) 14 SCC 715 [“Kandla Export Corpn”]
+    * BGS SGS SOMA JV v. NHPC, (2020) 4 SCC 234
+    * Union of India v. Popular Construction Co., (2001) 8 SCC 470
+    * State of Goa v. Western Builders, (2006) 6 SCC 239
+    * CCE & Customs v. Hongo India (P) Ltd., (2009) 5 SCC 791 [“Hongo”]
+    * ICOMM Tele Ltd. v. Punjab State Water Supply and Sewerage Board, (2019) 4 SCC 401
+    * Centrotrade Minerals & Metal Inc. v. Hindustan Copper Ltd., (2017) 2 SCC 228
+    * Union of India v. U.P. State Bridge Corpn. Ltd., (2015) 2 SCC 52
+    * Salem Advocate Bar Assn. (II) v. Union of India, (2005) 6 SCC 344
+    * SCG Contracts (India) (P) Ltd. v. K.S. Chamankar Infrastructure (P) Ltd., (2019) 12 SCC 210
+    * State of Bihar v. Bihar Rajya Bhumi Vikas Bank Samiti, (2018) 9 SCC 472
+    * Oku Tech (P) Ltd. v. Sangeet Agarwal, 2016 SCC OnLine Del 6601
+    * Maja Cosmetics v. Oasis Commercial (P) Ltd., 2018 SCC OnLine Del 6698
+    * Suryachakra Power Corpn. Ltd. v. Electricity Deptt., (2016) 16 SCC 152
+    * ONGC v. Gujarat Energy Transmission Corpn. Ltd., (2017) 5 SCC 42
+    * B.K. Educational Services (P) Ltd. v. Parag Gupta & Associates, (2019) 11 SCC 633
+    * Eera v. State (NCT of Delhi), (2017) 15 SCC 133
+    * Heydon case, (1584) 3 Co Rep 7a : 76 ER 637
+    * Chandi Prasad v. Jagdish Prasad, (2004) 8 SCC 724
+    * D. Purushotama Reddy v. K. Sateesh, (2008) 8 SCC 505
+    * P. Radha Bai v. P. Ashok Kumar, (2019) 13 SCC 445
+    * CIT v. Hindustan Bulk Carriers, (2003) 3 SCC 57
+    * Ashoka Kumar Thakur v. Union of India, (2008) 6 SCC 1
+    * Mohan Kumar Singhania v. Union of India, 1992 Supp (1) SCC 594
+    * R.S. Raghunath v. State of Karnataka, (1992) 1 SCC 335
+    * Sultana Begum v. Prem Chand Jain, (1997) 1 SCC 373
+    * Ajmer Kaur v. State of Punjab, (2004) 7 SCC 381
+    * Brahampal v. National Insurance Company, 2020 SCC OnLine SC 1053
+    * Basawaraj v. Land Acquisition Officer, (2013) 14 SCC 81
+    * Manindra Land and Building Corpn. Ltd. v. Bhutnath Banerjee, AIR 1964 SC 1336
+    * Mata Din v. A. Narayanan, (1969) 2 SCC 770
+    * Parimal v. Veena, (2011) 3 SCC 545
+    * Maniben Devraj Shah v. Municipal Corpn. of Brihan Mumbai, (2012) 5 SCC 157
+    * Arjun Singh v. Mohindra Kumar, AIR 1964 SC 993
+    * Madanlal v. Shyamlal, (2002) 1 SCC 535
+    * Ram Nath Sao v. Gobardhan Sao, (2002) 3 SCC 195
+    * Popat and Kotecha Property v. SBI Staff Assn., (2005) 7 SCC 510
+    * Rajender Singh v. Santa Singh, (1973) 2 SCC 705
+    * Pundlik Jalam Patil v. Jalgaon Medium Project, (2008) 17 SCC 448
+    * P. Ramachandra Rao v. State of Karnataka, (2002) 4 SCC 578
+    * Abdul Rehman Antulay v. R.S. Nayak, (1992) 1 SCC 225
+    * Postmaster General v. Living Media India Ltd., (2012) 3 SCC 563 [“Postmaster General”]
+    * State of Rajasthan v. Bal Kishan Mathur, (2014) 1 SCC 592
+    * State of U.P. v. Amar Nath Yadav, (2014) 2 SCC 422
+    * State of T.N. v. N. Suresh Rajan, (2014) 11 SCC 709
+    * State of M.P. v. Bherulal, (2020) 10 SCC 654
+    * State of M.P. v. Chaitram Maywade, (2020) 10 SCC 667
+    * Chaitram Maywade v. State of M.P., 2018 SCC OnLine HP 1632
+    * Ramlal v. Rewa Coalfields Ltd., (1962) 2 SCR 762
+    * Bhaiya Punjalal Bhagwandin v. Dave Bhagwatprasad Prabhuprasad, AIR 1963 SC 120
+    * Shri Prakash Chand Agarwal v. Hindustan Steel Ltd., (1970) 2 SCC 806
+    * Vidyacharan Shukla v. Khubchand Baghel, AIR 1964 SC 1099
+    * Nagendranath v. Suresh, AIR(1932) PC 165
+    * General Accident Fire and Life Assurance Corporation Limited v. Janmahomed Abdul Rahim, AIR (1941) PC 6
+    * Boota Mal v. Union of India, (1963) 1 SCR 70
+* **Legal Doctrines:**
+    * **Ut res magis valeat quam pereat:** This maxim means "that the thing may rather have effect than be destroyed." It emphasizes that statutes should be interpreted to make them effective and operative.
+    * **Harmonious Construction:** Different provisions of the same Act or different Acts should be interpreted in a way that avoids inconsistency or contradiction.
+    * **Separation of Powers:** The judiciary should not trespass into the legislative domain by making or amending laws; their role is to interpret and apply the law as it stands.
+    * **Golden Rule of Interpretation:** The court should consider the purpose, object, text, and context of a statutory provision to arrive at an interpretation.
+    * **Doctrine of Unbreakability:** This doctrine dictates that a right to object to an award under the Arbitration Act is substantively tied to the limitation period prescribed for it.
+
+## 4. Arguments Presented
+
+* **Appellant's Argument (Government of Maharashtra, Union of India):**
+    * Argued that the N.V. International judgment was based on a flawed understanding of the purpose of the Arbitration Act, which was not originally intended for speedy resolution of disputes. They argued that the 2015 Amendment introduced specific timelines for arbitral awards and fast track procedures, which contradicted the rationale for imposing a hard and fast limitation on condonation of delay.
+    * Contended that Section 37 of the Arbitration Act applied to appeals from various orders, including those under sections 8, 9, 16, and 17, not just Section 34 orders. They argued that the logic of N.V. International was not applicable to all appeals under Section 37.
+    * Emphasized the role of Section 33 of the Arbitration Act, which allowed for the correction and interpretation of an award and gave the arbitral tribunal the power to extend time without any outer limit.
+    * Relied on Section 29(2) of the Limitation Act, stating that the limitation period for applications under the Arbitration Act should be governed by Article 137 of the Limitation Act, which provided for a three-year limitation period.
+    * Argued that imposing a limitation period based on Section 34(3) for appeals under Section 37 amounted to judicial legislation, as no such limitation was provided for in Section 37 itself.
+    * Cited several judgments supporting the application of the Limitation Act to arbitration proceedings and highlighting the concept of "express exclusion" under Section 29(2) of the Limitation Act.
+    * Argued that the different periods prescribed by Articles 116 and 117 of the Limitation Act were arbitrary and that a uniform period of three years under Article 137 should be applied to appeals as well.
+* **Respondent's Argument (M/S Borse Brothers Engineers & Contractors Pvt. Ltd., M/S Swastik Wires, M/S Associated Construction Co.):**
+    * Supported the arguments of the appellant, emphasizing the object of speedy disposal in arbitration proceedings.
+    * Contended that the N.V. International judgment was flawed because it ignored the provisions of the Commercial Courts Act.
+    * Argued that the Commercial Courts Act, with its specific provisions for appeals under Section 37 of the Arbitration Act, excluded the application of Section 5 of the Limitation Act altogether.
+    * Relied on the judgment in Kandla Export Corpn. and the Hongo case, arguing that the scheme of the Commercial Courts Act, with its focus on expeditious disposal, effectively excludes the applicability of Section 5 of the Limitation Act.
+    * Emphasized that the absence of a specific cut-off period for condonation of delay in the Commercial Courts Act implied that the court could condone delay beyond the 60-day limitation period under certain circumstances.
+    * Cited judgments where other sections of the Limitation Act were excluded in the context of Section 34(3) of the Arbitration Act, supporting the logic of the N.V. International judgment.
+    * Argued that, even if Section 5 of the Limitation Act was applicable, the facts of the case did not make out sufficient cause for condonation of delay.
+    * Contended that the judgment of the High Court of Madhya Pradesh, which refused to follow N.V. International and instead relied on the Consolidated Engg. judgment, was incorrect as the latter dealt with Section 14 of the Limitation Act and not Section 5.
+    * Argued that the High Court was bound to follow the judgment of the Supreme Court in N.V. International, which, on the date of the High Court judgment, was binding as a decision of two judges.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The Supreme Court recognized the objective of speedy resolution of disputes enshrined in the Arbitration Act, acknowledging the timelines stipulated in various sections of the Act, including Sections 9(2), 11(4), 11(13), 13(2)-(5), 29A, 29B, 33(3)-(5), and 34(3).
+    * The Court observed that the judgment in N.V. International had been wrongly decided, ignoring the provisions of the Commercial Courts Act and applying an incorrect time limit.
+    * The Court acknowledged the potential for arbitrary results due to different limitation periods under Articles 116 and 117 of the Limitation Act, but maintained that such periods were necessary and could not be completely avoided.
+    * The Court determined that the "sufficient cause" requirement for condonation of delay under Section 5 of the Limitation Act should be interpreted in light of the object of speedy resolution of disputes, particularly in appeals under Section 37 of the Arbitration Act.
+    * The Court recognized the special law nature of the Commercial Courts Act in relation to appeals under Section 37 of the Arbitration Act, noting that its provisions override those of the Limitation Act.
+    * The Court emphasized that the principle of "sufficient cause" is not an open-ended provision for condoning any delay, especially in the context of commercial and arbitration matters.
+    * The Court held that while condonation of delay can be considered in appropriate cases, it should be treated as an exception and not a rule, with special consideration given to the potential prejudice to the opposite party due to the delay.
+* **Interpretation of Law:**
+    * The Court carefully analyzed the relevant provisions of the Arbitration Act, Limitation Act, and Commercial Courts Act, interpreting their language and purpose.
+    * The Court emphasized that the provisions of the Commercial Courts Act, being a special law, take precedence over the general provisions of the Limitation Act.
+    * The Court interpreted the "sufficient cause" provision in Section 5 of the Limitation Act within the context of speedy resolution of disputes, recognizing that the expression is not inherently limitless.
+* **Application of Law:**
+    * The Court overruled the judgment in N.V. International due to its incorrect application of the law and its failure to consider the provisions of the Commercial Courts Act.
+    * The Court applied the principle of "ut res magis valeat quam pereat" to ensure that the relevant legislation was effective and operative in achieving its intended purpose.
+    * The Court applied the principle of harmonious construction to reconcile the provisions of the Arbitration Act, Limitation Act, and Commercial Courts Act, avoiding conflicting interpretations.
+    * The Court applied the "sufficient cause" provision with due consideration to the facts of each case and the potential prejudice caused to the opposite party due to the delay.
+
+## 6. Judgment
+
+* **Final Decision:**
+    * In the Civil Appeal arising out of SLP (C) No. 665 of 2021, the Supreme Court dismissed the appeal due to the lack of bona fides on the part of the Government of Maharashtra and the absence of a sufficient explanation for the delay beyond the 60-day limitation period under the Commercial Courts Act.
+    * In the Civil Appeal arising out of SLP (C) No. 15278 of 2020, the Supreme Court allowed the appeal, setting aside the judgment of the High Court of Madhya Pradesh, finding that the High Court was incorrect in its application of the law and in failing to follow the binding decision of the Supreme Court in N.V. International. The Court also found that the delay of 75 days in filing the appeal was not sufficiently explained.
+    * In the Civil Appeal arising out of SLP (C) Diary No. 18079 of 2020, the Supreme Court dismissed the appeal, upholding the judgment of the High Court of Delhi, finding that the huge delays of 227 days and 200 days in filing and refiling the appeal were not justified.
+* **Relief Granted:**
+    * The appellant in the Civil Appeal arising out of SLP (C) No. 15278 of 2020 was granted relief by setting aside the judgment of the High Court.
+    * No specific relief was granted in the other appeals, as they were dismissed.
+* **Orders:**
+    * The appeals were disposed of in accordance with the Court's findings.
+
+## 7. Implications
+
+* **Impact on Law:**
+    * The judgment overturns the N.V. International decision, clarifying the interpretation of condonation of delay in appeals under Section 37 of the Arbitration Act, particularly in the context of the Commercial Courts Act.
+    * The judgment establishes that the "sufficient cause" provision for condonation of delay in Section 5 of the Limitation Act should be interpreted narrowly in appeals under Section 37 of the Arbitration Act, emphasizing the object of speedy resolution of disputes.
+    * The judgment reaffirms the principle of "ut res magis valeat quam pereat," encouraging the interpretation of statutes in a manner that makes them effective and operative.
+* **Future Relevance:**
+    * This judgment is likely to have significant impact on future legal decisions regarding the condonation of delay in appeals under Section 37 of the Arbitration Act.
+    * The Court's interpretation of "sufficient cause" and its emphasis on the object of speedy resolution of disputes will guide lower courts in handling similar cases.
+    * The judgment will likely influence the application of the Commercial Courts Act and its impact on the applicability of the Limitation Act in matters relating to arbitration.
+* **Broader Context:**
+    * The judgment highlights the need for a balance between ensuring fair access to justice and promoting the efficient and timely resolution of disputes, particularly in commercial and arbitration matters.
+    * The case underscores the importance of clear legislative drafting to avoid conflicting interpretations and ensure that statutory provisions are workable and effective.
+
+## 8. Summary Points
+
+* The Supreme Court overturns the N.V. International judgment regarding condonation of delay in appeals under Section 37 of the Arbitration Act.
+* The Commercial Courts Act takes precedence over the Limitation Act in appeals under Section 37 of the Arbitration Act.
+* "Sufficient cause" for condonation of delay should be interpreted narrowly in the context of speedy resolution of disputes, particularly in arbitration matters.
+* Condonation of delay beyond the prescribed periods should be treated as an exception, not a rule, considering the potential prejudice to the opposite party.
+
+## 9. References
+
+* **Citations:** 
+    * Arbitration and Conciliation Act, 1996
+    * Limitation Act, 1963
+    * Commercial Courts Act, 2015
+    * Code of Civil Procedure, 1908
+    * Central Excise Act, 1944
+    * Electricity Act, 2003
+    * Insolvency and Bankruptcy Code, 2016
+    * All cases cited in the judgment.
+* **Further Reading:**
+    * Other judgments of the Supreme Court concerning the Arbitration Act, Limitation Act, and Commercial Courts Act.
+    * Legal articles and commentaries on the interpretation of "sufficient cause" and the condonation of delay in legal proceedings.
+
+This summary provides a comprehensive overview of the case, covering the background, relevant legal principles, arguments, analysis, judgment, and implications. It also includes a detailed list of references for further exploration of the legal concepts and principles involved. 

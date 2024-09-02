@@ -1,0 +1,81 @@
+##  Bank of India And Another vs. M/S. Maruti Civil Works - Case Summary
+
+**1. Case Title**
+
+* **Case Name:** Bank of India And Another vs. M/S. Maruti Civil Works
+* **Court:** Bombay High Court
+* **Date of Judgment:** December 15, 2023
+* **Citation:** 2023:BHC-AS:37793-DB
+
+**2. Background and Context**
+
+* **Brief Overview:** This case revolves around a dispute between Bank of India (Defendant) and M/S. Maruti Civil Works (Plaintiff), a partnership firm in the construction business. The Plaintiff sued the Defendant for recovery of damages and compensation of Rs. 100 Crores + Rs. 10,10,733/- plus interest. The Plaintiff alleged fraudulent actions by the Defendant in invoking the Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002 (SARFAESI Act) to seize their property. 
+* **Key Issues:**
+    * Whether the Plaintiff's suit, alleging fraud and seeking a declaration, fell within the jurisdiction of the Debt Recovery Tribunal (DRT) or the District Court.
+    * The maintainability of the appeal under Section 13(1A) of the Commercial Courts Act, 2015 (Act of 2015) against the order rejecting the Defendant's application to dismiss or return the plaint.
+
+**3. Legal Principles Involved**
+
+* **Relevant Statutes and Provisions:**
+    * The Recovery of Debts and Bankruptcy Act, 1993 (Recovery Act, 1993)
+    * The Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002 (SARFAESI Act)
+    * The Commercial Courts Act, 2015 (Act of 2015)
+    * The Code of Civil Procedure, 1908 (CPC)
+* **Precedents Cited:**
+    * D & H India Ltd. Vs. Superon Schweisstechnik India Ltd. (2020)
+    * Delhi Chemical and Pharmaceutical Works Pvt. Ltd. Vs. Himgiri Realtors Pvt. Ltd. and Another (2021)
+    * Skil- Himachal Infrastructure & Tourism Ltd. & Ors. Vs IL and FS Financial Services Ltd. (2022)
+    * Shailendra Bhadauria Vs. Matrix Partners India Investment Holdings LLC (2018)
+    * Hubtown Ltd. Vs. IDBI Trusteeship Services Ltd. (2016)
+    * Sigmarq Technologies Pvt. Ltd. Vs. Manugraph India Ltd. (2017)
+    * Fuerst Day Lawson Limited v. Jindal Exports Limited (2011)
+    * Kandla Export Corporation Vs. OCI Corporation (2018)
+* **Legal Doctrines:**
+    * Jurisdiction of Courts
+    * Interpretation of Statutes
+    * Maintainability of Appeals
+    * Harmonious Construction of Statutory Provisions
+
+**4. Arguments Presented**
+
+* **Plaintiff’s Argument:** The Plaintiff argued that the Defendant's actions amounted to fraud, and they sought a declaration along with other reliefs. They contended that the DRT's jurisdiction was limited to adjudicating issues under Section 17 of the Recovery Act, 1993, and did not encompass inquiries into alleged fraud by banks. Therefore, the District Court had jurisdiction to hear their case.
+* **Defendant’s Argument:** The Defendant argued that the Plaintiff's suit, essentially seeking recovery of debts, fell within the exclusive jurisdiction of the DRT under the Recovery Act, 1993. They contended that the District Court lacked jurisdiction to entertain the suit. Furthermore, they argued that the appeal against the order rejecting their application was maintainable under Section 13(1A) of the Act of 2015.
+
+**5. Court’s Analysis and Reasoning**
+
+* **Key Findings:**
+    * The court analyzed the amended provisions of Section 13 of the Act of 2015, focusing on the proviso appended to Section 13(1A), which restricted appeals to orders specifically enumerated under Order XLIII of the CPC.
+    * The court found that the order rejecting the Defendant's application under Order VII Rule 10 and Rule 11(d) of the CPC was not listed in Order XLIII of the CPC.
+    * The court distinguished the precedents cited by the Defendant, finding them not applicable to the present case.
+* **Interpretation of Law:** The court interpreted the amended Section 13 of the Act of 2015, emphasizing the restrictive nature of the proviso and the need for strict adherence to the enumerated orders under Order XLIII of the CPC for appealability.
+* **Application of Law:** The court applied the interpretation of Section 13(1A) to the facts of the case, concluding that the appeal was not maintainable as the order under challenge was not enumerated in Order XLIII of the CPC.
+
+**6. Judgment**
+
+* **Final Decision:** The appeal was dismissed.
+* **Relief Granted:** No relief was granted.
+* **Orders:** The Interim Application, if any, was also dismissed. 
+
+**7. Implications**
+
+* **Impact on Law:** The judgment reinforces the restrictive nature of appealability under Section 13(1A) of the Act of 2015, clarifying that only orders specifically enumerated in Order XLIII of the CPC are appealable.
+* **Future Relevance:** The case provides guidance on the maintainability of appeals against orders rejecting applications under Order VII Rule 10 and Rule 11(d) of the CPC, specifically within the framework of the Commercial Courts Act, 2015.
+* **Broader Context:** The case highlights the importance of carefully considering the applicable forum and the scope of jurisdiction in commercial disputes, especially when dealing with debt recovery and allegations of fraud.
+
+**8. Summary Points**
+
+* The appeal against the order rejecting the Defendant's application to dismiss or return the plaint was dismissed as it was not maintainable under Section 13(1A) of the Commercial Courts Act, 2015.
+* The court emphasized the restrictive nature of the proviso appended to Section 13(1A), restricting appeals to orders enumerated in Order XLIII of the CPC. 
+* The court distinguished the precedents cited by the Defendant, finding them inapplicable to the present case.
+
+**9. References**
+
+* All statutory provisions, cases, and legal texts mentioned in the summary are provided in the "Legal Principles Involved" section, with complete citations. 
+
+**Further Reading:**
+
+* The Commercial Courts Act, 2015
+* The Code of Civil Procedure, 1908
+* The Recovery of Debts and Bankruptcy Act, 1993
+* The Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002
+* All precedents cited in the summary.

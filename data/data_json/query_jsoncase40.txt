@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A company, 'ABC Ltd', is undergoing financial restructuring. One of its creditors, 'XYZ Bank', claims to have a first charge over the proceeds of the sale of ABC Ltd's subsidiary, 'DEF Inc'. However, another creditor, 'PQR Investments', also claims a prior charge over the same proceeds based on a previous loan agreement. What are the legal principles governing priority of charges in such a situation and how would the court determine the rightful claim?",
+    "Legal Principles": "Priority of charges, Secured creditors,  Hypothecation, Mandatory prepayment clauses,  Intercreditor agreements, Insolvency and Bankruptcy Code 2016, Reserve Bank of India's Prudential Framework for Resolution of Stressed Assets",
+    "Relevant Sections": "Section 77 of the Companies Act, 2013,  Sections 17 to 19 of the Recovery of Debts and Bankruptcy Act, 1993,  Section 11 of the Commercial Court Act, 2015, Order 39 Rule 3 of the Code of Civil Procedure, Order 39 Rule 4 of the Code of Civil Procedure, Order 43 Rule 1(r) of the Code of Civil Procedure",
+    "Context": "Jurisdiction: India,  Case Type: Commercial Suit, Dispute between creditors regarding priority of charges over sale proceeds of a subsidiary company."
+  },
+  {
+    "Query": "A company, 'Tech Solutions Inc', has filed a suit seeking an injunction to prevent the sale of shares of its subsidiary, 'Global Tech Ltd', due to a breach of an undertaking. However, before the court can hear the matter, the company and the defendant, 'Venture Capital Partners', agree to settle the dispute, resulting in a consent order allowing the sale with certain conditions.  Can a third-party creditor, 'Tech Investors Group', who was not a party to the suit, challenge the consent order?",
+    "Legal Principles": "Consent orders, Third-party rights,  Supervisory jurisdiction of High Court under Article 227 of the Constitution of India,  Maintainability of applications under Article 227,  Alternative remedies available under the Civil Procedure Code",
+    "Relevant Sections": "Article 227 of the Constitution of India,  Order 39 Rule 4 of the Code of Civil Procedure,  Order 43 Rule 1(r) of the Code of Civil Procedure",
+    "Context": "Jurisdiction: India,  Case Type: Commercial Suit, Dispute involving a consent order in a suit where third-party creditors claim to be affected by the outcome."
+  },
+  {
+    "Query": "A company, 'Green Energy Corp', is in financial distress. 'Solar Power Ventures' has a loan agreement with Green Energy Corp, which includes a mandatory prepayment clause requiring Green Energy Corp to deposit sale proceeds of its subsidiary, 'Wind Energy Solutions', into a specified account. However, Green Energy Corp enters into a separate agreement with 'Energy Solutions Fund' granting them priority over the sale proceeds. Can Solar Power Ventures seek relief against this agreement?",
+    "Legal Principles": "Mandatory prepayment clauses,  Priority of charges,  Secured creditors,  Intercreditor agreements",
+    "Relevant Sections": "Section 77 of the Companies Act, 2013,  Sections 17 to 19 of the Recovery of Debts and Bankruptcy Act, 1993,  Section 11 of the Commercial Court Act, 2015",
+    "Context": "Jurisdiction: India,  Case Type: Commercial Suit,  Dispute involving a breach of mandatory prepayment clause and competing claims over sale proceeds of a subsidiary company."
+  },
+  {
+    "Query": "'ABC Bank' filed a suit against 'Retail Corp' to recover outstanding dues. ABC Bank obtained an ex parte injunction restraining Retail Corp from selling its assets.  Retail Corp then entered into a settlement agreement with ABC Bank, resulting in a consent order lifting the injunction but requiring Retail Corp to deposit the proceeds of the sale into ABC Bank's account. However, 'Equity Partners', a secured creditor of Retail Corp, claims that this agreement unfairly prejudices their rights. Can Equity Partners challenge the consent order?",
+    "Legal Principles": "Ex parte injunctions, Consent orders, Third-party rights,  Supervisory jurisdiction of High Court under Article 227 of the Constitution of India,  Maintainability of applications under Article 227,  Alternative remedies available under the Civil Procedure Code",
+    "Relevant Sections": "Article 227 of the Constitution of India, Order 39 Rule 3 of the Code of Civil Procedure, Order 39 Rule 4 of the Code of Civil Procedure,  Order 43 Rule 1(r) of the Code of Civil Procedure",
+    "Context": "Jurisdiction: India,  Case Type: Commercial Suit,  Dispute involving a consent order in a suit where a secured creditor claims to be affected by the outcome."
+  },
+  {
+    "Query": "'Global Tech Solutions' is undergoing debt restructuring.  One of its creditors, 'Venture Capital Fund', seeks to enforce a provision in their loan agreement that requires Global Tech Solutions to deposit sale proceeds of its subsidiary, 'Tech Innovations', into a specified account. However, another creditor, 'Innovation Partners', argues that they have a prior charge over the sale proceeds based on a previous security agreement. How would the court decide the priority of these claims?",
+    "Legal Principles": "Priority of charges,  Secured creditors,  Hypothecation, Mandatory prepayment clauses,  Intercreditor agreements, Insolvency and Bankruptcy Code 2016, Reserve Bank of India's Prudential Framework for Resolution of Stressed Assets",
+    "Relevant Sections": "Section 77 of the Companies Act, 2013, Sections 17 to 19 of the Recovery of Debts and Bankruptcy Act, 1993,  Section 11 of the Commercial Court Act, 2015, Order 39 Rule 3 of the Code of Civil Procedure,  Order 39 Rule 4 of the Code of Civil Procedure, Order 43 Rule 1(r) of the Code of Civil Procedure",
+    "Context": "Jurisdiction: India,  Case Type: Commercial Suit, Dispute between creditors regarding priority of charges over sale proceeds of a subsidiary company."
+  },
+  {
+    "Query": "'ABC Corp' has filed a suit against 'XYZ Holdings' seeking an injunction to prevent the sale of shares of its subsidiary, 'DEF Inc', claiming that XYZ Holdings is in breach of an undertaking. However, before the court can hear the matter, ABC Corp and XYZ Holdings agree to settle the dispute, resulting in a consent order that allows the sale with certain conditions.  Can a third-party creditor, 'GHI Investments', who was not a party to the suit, challenge the consent order?",
+    "Legal Principles": "Consent orders, Third-party rights,  Supervisory jurisdiction of High Court under Article 227 of the Constitution of India,  Maintainability of applications under Article 227,  Alternative remedies available under the Civil Procedure Code",
+    "Relevant Sections": "Article 227 of the Constitution of India,  Order 39 Rule 4 of the Code of Civil Procedure, Order 43 Rule 1(r) of the Code of Civil Procedure",
+    "Context": "Jurisdiction: India,  Case Type: Commercial Suit, Dispute involving a consent order in a suit where third-party creditors claim to be affected by the outcome."
+  },
+  {
+    "Query": "'Innovative Tech Inc' is in financial distress. 'Silicon Valley Investors' has a loan agreement with Innovative Tech Inc, which includes a mandatory prepayment clause requiring Innovative Tech Inc to deposit sale proceeds of its subsidiary, 'Software Solutions Ltd', into a specified account. However, Innovative Tech Inc enters into a separate agreement with 'Venture Capital Group' granting them priority over the sale proceeds. Can Silicon Valley Investors seek relief against this agreement?",
+    "Legal Principles": "Mandatory prepayment clauses,  Priority of charges,  Secured creditors,  Intercreditor agreements",
+    "Relevant Sections": "Section 77 of the Companies Act, 2013,  Sections 17 to 19 of the Recovery of Debts and Bankruptcy Act, 1993,  Section 11 of the Commercial Court Act, 2015",
+    "Context": "Jurisdiction: India,  Case Type: Commercial Suit,  Dispute involving a breach of mandatory prepayment clause and competing claims over sale proceeds of a subsidiary company."
+  },
+  {
+    "Query": "'Global Enterprises' filed a suit against 'Tech Solutions Inc' to recover outstanding dues. Global Enterprises obtained an ex parte injunction restraining Tech Solutions Inc from selling its assets.  Tech Solutions Inc then entered into a settlement agreement with Global Enterprises, resulting in a consent order lifting the injunction but requiring Tech Solutions Inc to deposit the proceeds of the sale into Global Enterprises' account. However, 'Tech Investors Group', a secured creditor of Tech Solutions Inc, claims that this agreement unfairly prejudices their rights. Can Tech Investors Group challenge the consent order?",
+    "Legal Principles": "Ex parte injunctions, Consent orders, Third-party rights,  Supervisory jurisdiction of High Court under Article 227 of the Constitution of India,  Maintainability of applications under Article 227,  Alternative remedies available under the Civil Procedure Code",
+    "Relevant Sections": "Article 227 of the Constitution of India, Order 39 Rule 3 of the Code of Civil Procedure,  Order 39 Rule 4 of the Code of Civil Procedure,  Order 43 Rule 1(r) of the Code of Civil Procedure",
+    "Context": "Jurisdiction: India,  Case Type: Commercial Suit,  Dispute involving a consent order in a suit where a secured creditor claims to be affected by the outcome."
+  },
+  {
+    "Query": "'Green Energy Solutions' is undergoing debt restructuring.  One of its creditors, 'Solar Power Fund', seeks to enforce a provision in their loan agreement that requires Green Energy Solutions to deposit sale proceeds of its subsidiary, 'Wind Energy Corp', into a specified account. However, another creditor, 'Renewable Energy Partners', argues that they have a prior charge over the sale proceeds based on a previous security agreement. How would the court decide the priority of these claims?",
+    "Legal Principles": "Priority of charges,  Secured creditors,  Hypothecation, Mandatory prepayment clauses,  Intercreditor agreements, Insolvency and Bankruptcy Code 2016, Reserve Bank of India's Prudential Framework for Resolution of Stressed Assets",
+    "Relevant Sections": "Section 77 of the Companies Act, 2013, Sections 17 to 19 of the Recovery of Debts and Bankruptcy Act, 1993,  Section 11 of the Commercial Court Act, 2015, Order 39 Rule 3 of the Code of Civil Procedure,  Order 39 Rule 4 of the Code of Civil Procedure, Order 43 Rule 1(r) of the Code of Civil Procedure",
+    "Context": "Jurisdiction: India,  Case Type: Commercial Suit, Dispute between creditors regarding priority of charges over sale proceeds of a subsidiary company."
+  },
+  {
+    "Query": "'ABC Holdings' has filed a suit against 'XYZ Enterprises' seeking an injunction to prevent the sale of shares of its subsidiary, 'DEF Inc', claiming that XYZ Enterprises is in breach of an undertaking. However, before the court can hear the matter, ABC Holdings and XYZ Enterprises agree to settle the dispute, resulting in a consent order that allows the sale with certain conditions.  Can a third-party creditor, 'GHI Investments', who was not a party to the suit, challenge the consent order?",
+    "Legal Principles": "Consent orders, Third-party rights,  Supervisory jurisdiction of High Court under Article 227 of the Constitution of India,  Maintainability of applications under Article 227,  Alternative remedies available under the Civil Procedure Code",
+    "Relevant Sections": "Article 227 of the Constitution of India,  Order 39 Rule 4 of the Code of Civil Procedure, Order 43 Rule 1(r) of the Code of Civil Procedure",
+    "Context": "Jurisdiction: India,  Case Type: Commercial Suit, Dispute involving a consent order in a suit where third-party creditors claim to be affected by the outcome."
+  }
+]
+```

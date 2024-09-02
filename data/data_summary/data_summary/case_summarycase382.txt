@@ -1,0 +1,109 @@
+## 1. Case Title
+
+• **Case Name:** Bharat Petroleum Corporation Limited vs Rajinder Singh Joon & Ors.
+• **Court:** Delhi High Court
+• **Date of Judgment:** 10th April 2024
+• **Citation:** RFA(COMM) 14/2024 & RFA(COMM) 15/2024 
+
+## 2. Background and Context
+
+• **Brief Overview:** Bharat Petroleum Corporation Limited (BPCL), a public sector undertaking, leased a property from Rajinder Singh Joon and others (Respondents). The lease agreement, dated 12th May 2003, had a term of 20 years, ending on 31st March 2022. The agreement contained a clause for renewal, but the period of renewal was left blank. When the lease expired, the Respondents refused to renew, leading BPCL to file a counterclaim for specific performance, seeking renewal of the lease. The Respondents filed a suit for possession of the property, seeking to eject BPCL.
+
+• **Key Issues:** The main legal questions were:
+    - Whether the renewal clause in the lease agreement automatically obligated the Respondents to renew the lease for 20 years upon receiving a notice from BPCL.
+    - Whether the Respondents' refusal to renew the lease amounted to a breach of contract that could be remedied by a decree of specific performance. 
+
+## 3. Legal Principles Involved
+
+• **Relevant Statutes and Provisions:**
+    - **The Transfer of Property Act, 1882** (Section 106 regarding notice to vacate)
+    - **The Code of Civil Procedure, 1908** (Order XII Rule 6 for summary judgment, Order VII Rule 11 for dismissal of counter-claims)
+    - **The Commercial Courts Act, 2015** (Section 12-A for pre-institution mediation)
+    - **The Indian Evidence Act, 1872** (Sections 91, 92, and 94 regarding admissibility of oral evidence when a written document exists)
+    - **The Specific Relief Act, 1963** (Section 14(1)(c) regarding the enforceability of contracts that are determinable in nature)
+
+• **Precedents Cited:**
+    - **Indian Oil Corporation v. Amritsar Gas Services and Ors., (1991) 1 SCC 533**
+    - **Rajasthan Breweries Ltd. v. The Stroh. Brewery Company, 2000 SCC Online Del 481**
+    - **V. Anantha Raju and Anr. v. T.M Narasimhan and Ors., (2021) 17 SCC 165**
+
+• **Legal Doctrines:**
+    - Interpretation of contracts, focusing on the plain meaning of the written terms.
+    - Admissibility of oral evidence in relation to written contracts.
+    - Principles of specific performance and its application to determinable contracts.
+
+## 4. Arguments Presented
+
+• **Appellant’s Argument (BPCL):**
+    - The renewal clause in the lease agreement automatically obligated the Respondents to renew the lease for 20 years upon receiving a notice.
+    - The blank period for renewal was meant to be filled by mutual agreement, and the intention of both parties was to renew the lease for the same term.
+    - BPCL sent letters to the Respondents expressing their intention to renew the lease.
+    - The DPSL Agreement (Dispensing Pump and Selling License) between the parties, which was renewed for 5 years, demonstrates a common intention to renew the lease as well.
+    - The Commercial Court should have allowed oral evidence to clarify the parties' intent regarding the renewal clause.
+
+• **Respondent’s Argument:**
+    - The "NIL" years mentioned in the renewal clause indicated that no renewal beyond the 20-year term was intended.
+    - BPCL's own letters seeking renewal stated a desire for "mutually agreeable terms," suggesting that renewal was not automatic.
+    - BPCL failed to provide sufficient proof of serving the renewal notices on the Respondents.
+    - The DPSL Agreement was a separate contract and its renewal cannot be applied to the lease agreement.
+    - The contract was determinable in nature, meaning specific performance was not possible.
+
+## 5. Court’s Analysis and Reasoning
+
+• **Key Findings:**
+    - The renewal clause lacked a defined term for renewal, and the blank could be filled with any period of renewal.
+    - BPCL's own letter seeking renewal acknowledged the need for mutually agreeable terms, contradicting their claim of automatic renewal.
+    - The court found no sufficient evidence of BPCL's letters being served on the Respondents.
+    - The DPSL Agreement was separate and unrelated to the lease agreement.
+    - Oral evidence regarding the intention of parties could not be admitted due to the existence of the written lease agreement.
+
+• **Interpretation of Law:**
+    - The court interpreted the renewal clause as requiring mutual agreement on the renewal period.
+    - The court upheld the principle of giving precedence to the written terms of a contract over oral evidence.
+    - The court recognized that contracts that are determinable in nature, like the lease agreement, are generally not subject to specific performance.
+
+• **Application of Law:**
+    - The court applied the principle of contract interpretation based on the plain meaning of the terms.
+    - The court applied the provisions of the Indian Evidence Act to exclude oral evidence.
+    - The court applied Section 14(1)(c) of the Specific Relief Act to deny BPCL's request for specific performance.
+
+## 6. Judgment
+
+• **Final Decision:** The Delhi High Court upheld the Commercial Court's judgment, dismissing BPCL's appeals and counterclaims.
+
+• **Relief Granted:**
+    - The Respondents were granted possession of the property.
+    - BPCL's claim for specific performance of the lease renewal was dismissed.
+
+• **Orders:** The court ordered BPCL to vacate the property and pay costs to the Respondents.
+
+## 7. Implications
+
+• **Impact on Law:** The case reinforces the importance of clear and unambiguous terms in contracts, particularly regarding renewal clauses. It also reaffirms the limitations on the use of oral evidence when a written contract exists.
+
+• **Future Relevance:** The judgment could be cited in future cases involving the interpretation of renewal clauses in lease agreements and the enforceability of determinable contracts.
+
+• **Broader Context:** This case highlights the need for parties to carefully consider and specify all terms in contracts, especially when dealing with long-term arrangements, to avoid future disputes.
+
+## 8. Summary Points
+
+• The renewal clause in the lease agreement did not automatically grant BPCL the right to renew for 20 years.
+• BPCL failed to prove that it had properly served renewal notices on the Respondents.
+• The DPSL Agreement was unrelated to the lease agreement and did not influence its renewal terms.
+• The court found that the lease agreement was determinable in nature, precluding specific performance.
+
+## 9. References
+
+• **Citations:**
+    - The Transfer of Property Act, 1882
+    - The Code of Civil Procedure, 1908
+    - The Commercial Courts Act, 2015
+    - The Indian Evidence Act, 1872
+    - The Specific Relief Act, 1963
+    - Indian Oil Corporation v. Amritsar Gas Services and Ors., (1991) 1 SCC 533
+    - Rajasthan Breweries Ltd. v. The Stroh. Brewery Company, 2000 SCC Online Del 481
+    - V. Anantha Raju and Anr. v. T.M Narasimhan and Ors., (2021) 17 SCC 165
+
+• **Further Reading:**
+    - Other judgments on lease agreements, specific performance, and interpretation of contracts.
+    - Articles and legal commentaries on the relevant statutes and legal principles. 

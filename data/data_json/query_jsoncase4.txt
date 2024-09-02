@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A company is sued by a subcontractor for alleged unpaid operational debt. The company claims it made excess payments and filed a suit for recovery. The subcontractor seeks further time to file its written statement citing COVID-19 pandemic restrictions and orders by the Supreme Court. Can the court grant further time to file the written statement?",
+    "Legal Principles": "The court must balance the principle of procedural fairness with the mandatory timelines for filing written statements, especially in commercial disputes. The court must consider the impact of COVID-19 pandemic orders and exceptional circumstances on the litigants' ability to comply with procedural requirements.",
+    "Relevant Sections": "Order V Rule 1(1), Order VIII Rule 1, Order VIII Rule 10 of the Code of Civil Procedure, 1908 (CPC) as amended by the Commercial Courts Act, 2015. Section 10 of the CPC (stay of suit proceedings), Section 151 of the CPC (inherent powers of the court).",
+    "Context": "This case involves a commercial dispute between a company and its subcontractor, filed in a Commercial Court under the Commercial Courts Act, 2015. The legal issue concerns the application of the mandatory timeline for filing written statements and the impact of Supreme Court orders on limitation during the COVID-19 pandemic."
+  },
+  {
+    "Query": "A plaintiff files a suit for recovery of money against a defendant. The defendant, a partnership firm, faces difficulties in filing its written statement due to a partner's illness and subsequent lockdown restrictions. The defendant argues for an extension of time based on Supreme Court orders related to COVID-19. Is the defendant's argument justified?",
+    "Legal Principles": "The court must consider whether the defendant's difficulties in filing the written statement were directly caused by the COVID-19 pandemic and subsequent lockdown restrictions. The Supreme Court's orders on extension of limitation periods during the pandemic are relevant to this determination.",
+    "Relevant Sections": "Order VIII Rule 1 of the CPC as amended by the Commercial Courts Act, 2015. Section 4 of the Limitation Act, 1963 (expiry of prescribed period when court is closed).",
+    "Context": "This case involves a civil suit for recovery of money, filed in a district court. The legal issue concerns the application of the mandatory timeline for filing written statements and the impact of COVID-19 pandemic restrictions on the defendant's ability to comply."
+  },
+  {
+    "Query": "A party is facing a potential insolvency proceeding before the NCLT. In the meantime, the opposing party files a civil suit in a Commercial Court for recovery of money. The party facing insolvency seeks a stay of the civil suit proceedings based on the pending insolvency proceedings. Should the Commercial Court stay the suit proceedings?",
+    "Legal Principles": "The principle of comity and judicial restraint requires courts to avoid interfering with proceedings pending before other courts or tribunals. The Commercial Court must consider the potential impact of continuing the suit on the insolvency proceedings.",
+    "Relevant Sections": "Section 10 of the CPC (stay of suit proceedings).",
+    "Context": "This case involves a commercial dispute between two parties, with a potential insolvency proceeding pending before the NCLT. The legal issue concerns the application of the principle of comity and the court's power to stay suit proceedings in light of the pending insolvency proceedings."
+  },
+  {
+    "Query": "A company files an application for a stay of suit proceedings under Section 10 of the CPC, arguing that the subject matter of the suit is already pending before the NCLT. The court, while rejecting the application for extension of time to file the written statement, fails to address the stay application. Is this a procedural error?",
+    "Legal Principles": "The court must ensure that all pending applications are dealt with expeditiously and in a fair manner. Failure to address a pending application for stay of proceedings, especially one with the potential to affect the entire suit, may be a procedural error.",
+    "Relevant Sections": "Section 10 of the CPC (stay of suit proceedings), Section 151 of the CPC (inherent powers of the court).",
+    "Context": "This case involves a commercial dispute filed in a Commercial Court. The legal issue concerns the court's duty to address all pending applications, including a stay application under Section 10 of the CPC, in a timely and efficient manner."
+  },
+  {
+    "Query": "A landlord files a suit for eviction against a tenant. The tenant seeks further time to file a written statement, citing difficulties in accessing legal services due to COVID-19 lockdown restrictions. The court, relying on the mandatory timelines for filing written statements, rejects the tenant's request. Is the court's decision justified?",
+    "Legal Principles": "The court must balance the principle of procedural fairness with the need for timely resolution of disputes.  The court must consider the impact of COVID-19 pandemic restrictions on the tenant's ability to access legal services and prepare a defense.",
+    "Relevant Sections": "Order VIII Rule 1 of the CPC. Section 4 of the Limitation Act, 1963 (expiry of prescribed period when court is closed).",
+    "Context": "This case involves a civil suit for eviction filed in a district court. The legal issue concerns the application of the mandatory timeline for filing written statements and the impact of COVID-19 pandemic restrictions on the tenant's ability to comply."
+  },
+  {
+    "Query": "A party is facing difficulties in filing its written statement due to its legal representative's illness and subsequent quarantine. The party argues that the Supreme Court orders on COVID-19 limitation extensions apply to this situation. Is this argument valid?",
+    "Legal Principles": "The court must determine whether the party's difficulties in filing the written statement were directly caused by the COVID-19 pandemic and subsequent lockdown restrictions. The Supreme Court's orders on extension of limitation periods during the pandemic are relevant to this determination.",
+    "Relevant Sections": "Order VIII Rule 1 of the CPC. Section 4 of the Limitation Act, 1963 (expiry of prescribed period when court is closed).",
+    "Context": "This case involves a civil suit filed in a district court. The legal issue concerns the application of the mandatory timeline for filing written statements and the impact of COVID-19 pandemic restrictions on the party's ability to comply."
+  },
+  {
+    "Query": "A party files a suit for recovery of money against a defendant. The defendant, citing the Supreme Court orders on COVID-19 limitation extensions, argues that the period for filing the written statement should be extended. The plaintiff contends that the Supreme Court orders only apply to the initiation of proceedings, not to the filing of written statements. Which argument is stronger?",
+    "Legal Principles": "The court must analyze the scope and intent of the Supreme Court orders on COVID-19 limitation extensions. The orders must be interpreted in a manner that balances the need for procedural fairness with the need for efficient resolution of disputes.",
+    "Relevant Sections": "Order VIII Rule 1 of the CPC as amended by the Commercial Courts Act, 2015. Section 4 of the Limitation Act, 1963 (expiry of prescribed period when court is closed).",
+    "Context": "This case involves a civil suit for recovery of money filed in a district court. The legal issue concerns the application of the Supreme Court orders on COVID-19 limitation extensions to the filing of written statements."
+  },
+  {
+    "Query": "A defendant fails to file its written statement within the prescribed time limit. The court rejects the defendant's subsequent application for extension of time, citing the mandatory nature of the time limit. The defendant argues that the court should exercise its inherent powers under Section 151 of the CPC to condone the delay. Is the defendant's argument persuasive?",
+    "Legal Principles": "The court's inherent powers under Section 151 of the CPC should be exercised sparingly and only in exceptional circumstances. The court should consider whether the defendant's delay was excusable and whether condoning the delay would prejudice the plaintiff.",
+    "Relevant Sections": "Order VIII Rule 1 of the CPC as amended by the Commercial Courts Act, 2015. Section 151 of the CPC (inherent powers of the court).",
+    "Context": "This case involves a civil suit filed in a district court. The legal issue concerns the court's power to exercise its inherent powers under Section 151 of the CPC to condone delay in filing the written statement."
+  },
+  {
+    "Query": "Two parties are involved in a commercial dispute. The plaintiff files a suit for recovery of money. The defendant seeks to file a written statement, arguing that the Supreme Court's orders on COVID-19 limitation extensions apply to the case. However, the plaintiff opposes the extension of time, citing the mandatory nature of the time limit for filing written statements. How should the court rule on this matter?",
+    "Legal Principles": "The court must consider the balance between the principle of procedural fairness and the need for timely resolution of disputes. The court must examine the impact of COVID-19 pandemic restrictions on the defendant's ability to comply with the time limit for filing the written statement.",
+    "Relevant Sections": "Order VIII Rule 1 of the CPC as amended by the Commercial Courts Act, 2015. Section 4 of the Limitation Act, 1963 (expiry of prescribed period when court is closed).",
+    "Context": "This case involves a commercial dispute between two parties, filed in a Commercial Court under the Commercial Courts Act, 2015. The legal issue concerns the application of the mandatory timeline for filing written statements and the impact of Supreme Court orders on limitation during the COVID-19 pandemic."
+  },
+  {
+    "Query": "A party seeks to file an appeal against a court order. The party's lawyer argues that the Supreme Court's orders on COVID-19 limitation extensions apply to the appeal filing period. However, the opposing party argues that the Supreme Court orders only apply to the institution of proceedings, not to appeal filing periods. How should the court decide this issue?",
+    "Legal Principles": "The court must interpret the Supreme Court's orders on COVID-19 limitation extensions to determine whether they apply to the period for filing appeals. The court must balance the principle of procedural fairness with the need for efficient resolution of appeals.",
+    "Relevant Sections": "Section 4 of the Limitation Act, 1963 (expiry of prescribed period when court is closed).",
+    "Context": "This case involves a civil appeal filed in a higher court. The legal issue concerns the application of the Supreme Court orders on COVID-19 limitation extensions to the filing of appeals."
+  }
+]
+```

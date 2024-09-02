@@ -1,0 +1,142 @@
+## 1. Case Title
+
+* **Case Name:** Jubilant Pharmaceuticals NV. vs. Synchron Research Services Private Limited
+* **Court:** Gujarat High Court
+* **Date of Judgment:** 10th February 2020
+* **Citation:** C/FA/2696/2018
+
+## 2. Background and Context
+
+**Brief Overview:** Jubilant Pharmaceuticals NV (appellant), a Belgian subsidiary of Jubilant Organosys Ltd., was the owner of registration documentation for the generic medicine "Cetirizin." They entered into a contract with Synchron Research Services Private Limited (respondent) in 2003 for conducting bio-equivalence studies (BE studies) for "Cetirizin," crucial for obtaining marketing authorizations in various European countries.  The respondent's BE studies failed to meet GCP/GLP compliance standards, leading to rejection of the studies and suspension of marketing authorizations for "Cetirizin" by the Dutch and French authorities. This caused significant financial losses for the appellant.
+
+**Key Issues:**
+
+* Whether the judgment of the Ghent Commercial Court, Belgium, which ruled in favor of the appellant, can be considered a judgment on merits.
+* Whether the appellant is entitled to a decree in India based solely on the foreign judgment.
+* Whether the appellant is entitled to a trial on merits in India, considering the nature of the reliefs sought in the plaint. 
+
+## 3. Legal Principles Involved
+
+**Relevant Statutes and Provisions:**
+
+* **Code of Civil Procedure, 1908 (CPC):**
+    * Section 13: Enunciates the principles regarding the conclusiveness of foreign judgments and lists exceptions.
+    * Section 14:  Deals with the presumption of jurisdiction of a foreign court when a certified copy of its judgment is produced.
+* **Order XXI, Rule 22 of CPC:**  Specifies the procedure for execution of decrees of courts in reciprocating territories.
+
+**Precedents Cited:**
+
+* **Roshanlal Kuthiala & Ors. v. R.B. Mohan Singh Oberai, (1975) 4 SCC 628:**  Establishes that a foreign judgment is enforceable by a suit upon the judgment, which creates an obligation between the parties.
+* **Marine Geotechnics LLC v. Coastal Marine Construction & Engineering Ltd., Company Petition No.69 of 2013, 5.3.2014 (Bombay High Court):**  Explores the concept of "judgment on merits" and emphasizes that even an ex-parte decree can be considered on merits if the court assessed evidence and weighed the plaintiff's case.
+* **Badat and Co. v. East India Trading Co., AIR 1964 SC 538:**  Deals with the enforceability of foreign awards and judgments in England and outlines various legal principles regarding the same.
+* **International Woollen Mills v. Standard Wool (U.K.) Limited, (2001) 5 SCC 265:**  Focuses on the burden of proof in demonstrating that a foreign decree was not passed on merits, highlighting the need for concrete evidence to challenge the decree's validity.
+* **R. Vishvanathan v. Rukh-ul-Mulk Syed Abdul Wajid, AIR 1963 SC 1:**  Clarifies that the conclusiveness of a foreign judgment under Section 13 of the CPC is based on the final adjudication and not the reasons for the judgment given by the foreign court.
+* **M/s. Alcon Electronics Pvt. Ltd. v. Celem S.A. of FOS 34320 Roujan, France, (2017) 2 SCC 253:**  Emphasizes that a foreign judgment must have been obtained through due judicial process with proper notice and opportunity for all parties to present their case to be considered conclusive under Section 13 of the CPC.
+* **R.E. Mahomed Kassim & Co. v. Seeni Pakir Bin Ahmed, 1927 XXV LW 307 (Full Bench, Madras High Court):**  Deals with the enforceability of foreign judgments given on default of appearance without a trial on evidence and clarifies that such judgments may not be considered conclusive as they are not given on the merits of the case.
+* **Potluri Rajeswara Rao v. Syndicate Bank Incorporated in India with Limited Liability, LAWS (APH) 2000 2 30 (Andhra Pradesh High Court):**  Discusses the applicability of Section 13(a) and (b) of the CPC in determining the enforceability of foreign judgments.
+* **R.M.V. Vellachi Achi v. R.M.A. Ramanathan Chettiar, Laws (Mad) 1972 4 58 (Madras High Court):**  Analyzes the enforceability of an ex-parte decree passed by the Singapore High Court due to default of appearance without trial and its implications under Section 13(a) and (b) of the CPC.
+* **Trilochan Choudhury v. Dayanidhi Patra, AIR 1961 Orissa 158:**  Explains that an ex-parte judgment can be considered on merits if some evidence is adduced by the plaintiff and the judgment is based on a consideration of that evidence. 
+* **Govindan Asari Kesavan Asari v. Sankaran Asari Balakrishnan Asari, AIR 1958 Kerala 203:**  Interprets the requirement of "judgment on merits" under Section 13 of the CPC and clarifies that it does not necessitate the defendant's appearance and contestation.
+* **The Martin Burn Ltd. vs. Corporation of Calcutta, AIR 1966 S.C. 529:**  Deals with the concept of "result" in legal proceedings and emphasizes that courts are bound by the law even if the result is repugnant to them.
+* **Firm Amar Nath Basheshar Dass v. Tek Chand, AIR 1972 S.C. 1548:**  Reinforces the principle that courts are not to disregard legal contingencies even if they lead to a less desirable outcome.
+
+**Legal Doctrines:**
+
+* **Private International Law:** This branch of law deals with the legal principles that govern the relationship between different legal systems and their interaction with each other.
+* **Enforcement of Foreign Judgments:** This principle involves the recognition and enforcement of judgments made by courts of one jurisdiction in another jurisdiction, subject to specific conditions and exceptions.
+* **Natural Justice:** This doctrine requires fairness and impartiality in the judicial process, encompassing principles like reasonable notice, opportunity to be heard, and impartiality.
+
+## 4. Arguments Presented
+
+**Appellant’s Argument:**
+
+* The judgment of the Ghent Commercial Court was passed on merits as the court examined documents, considered arguments, and found the appellant's claim to be justified and adequately proven, despite the respondent's non-appearance.
+* The appellant is entitled to a decree in India based on the foreign judgment, as it meets the requirements of Section 13 of the CPC.
+* If the court finds the foreign judgment not conclusive, the appellant is still entitled to a trial on merits, as the plaint also relies on the original cause of action. 
+* The appellant presented evidence and arguments supporting their claim before the Ghent Commercial Court, and the respondent failed to contest these effectively. 
+* The respondent has not presented any evidence to show that the judgment was not given on merits or that it violates the principles of natural justice.
+
+**Respondent’s Argument:**
+
+* The judgment of the Ghent Commercial Court was not given on merits, as it was based solely on the respondent's failure to enter an appearance, without examining the merits of the appellant's claim or evidence.
+* The appellant's suit is based solely on the foreign judgment and does not seek an independent decree, making it not maintainable.
+* The judgment of the Ghent Commercial Court violates the principles of natural justice by failing to provide reasons for the decision.
+* The respondent's failure to appear in the Ghent Commercial Court should not be considered a default, as they were unable to defend themselves due to their agent's negligence.
+
+## 5. Court’s Analysis and Reasoning
+
+**Key Findings:**
+
+* The Ghent Commercial Court considered documents, arguments, and the appellant's claim before finding it justified and adequately proven. 
+* The court emphasized that the judgment was not based solely on the respondent's non-appearance but was given after examining the material on record and finding the appellant's claim to be justified.
+* The respondent failed to provide any concrete evidence to rebut the appellant's claims or to demonstrate that the Ghent Commercial Court's judgment was not given on merits. 
+* The court found the respondent's argument that their agent's negligence prevented them from defending themselves insufficient to prove that the judgment was not on merits or violated natural justice. 
+* The court also found that the respondent's interpretation of the appellant's authorization being solely for execution of the decree to be insufficient, as it encompasses actions necessary for the execution, which includes instituting a suit for a decree in India.
+
+**Interpretation of Law:**
+
+* The court interpreted Section 13 of the CPC to emphasize that a foreign judgment is conclusive if it meets certain conditions, and the burden of proving that it falls under the exceptions is on the party challenging its validity.
+* The court interpreted "judgment on merits" to mean a judgment based on the substance of the case and not solely on procedural defaults.
+* The court acknowledged that even an ex-parte decree can be considered on merits if the court assesses evidence and weighs the plaintiff's case.
+
+**Application of Law:**
+
+* The court applied the principles of Section 13 of the CPC and the precedents cited by both parties to determine whether the judgment of the Ghent Commercial Court was conclusive.
+* The court found that the respondent failed to meet the burden of proof to show that the Ghent Commercial Court's judgment was not on merits.
+* The court applied the doctrine of natural justice in the context of the respondent's argument about their inability to defend themselves due to their agent's negligence and concluded that the respondent failed to prove that the judgment violated natural justice principles.
+
+## 6. Judgment
+
+**Final Decision:**
+
+* The appeal was allowed. 
+
+**Relief Granted:**
+
+* The appellant was granted a decree in terms of the judgment dated 27th February 2009 passed by the First Section of the Ghent Commercial Court in No.A/08/00303.
+* The suit was decreed in terms of the relief claimed in paragraphs L(i) and (ii) of the plaint.
+
+**Orders:**
+
+* The trial court's judgment was set aside.
+* The respondent's request to stay the operation of the judgment for eight weeks was denied.
+
+## 7. Implications
+
+**Impact on Law:**
+
+* This judgment reaffirms the principle of recognizing and enforcing foreign judgments in India under Section 13 of the CPC.
+* It provides a detailed analysis of the "judgment on merits" concept and clarifies the burden of proof for challenging the validity of foreign judgments.
+
+**Future Relevance:**
+
+* This judgment can serve as a precedent in future cases involving the enforcement of foreign judgments in India.
+* It highlights the importance of providing concrete evidence to challenge the validity of foreign judgments.
+
+**Broader Context:**
+
+* This case showcases the challenges associated with enforcing judgments in non-reciprocating territories and the need for efficient and fair mechanisms to facilitate international dispute resolution.
+
+## 8. Summary Points
+
+* The Gujarat High Court upheld the judgment of the Ghent Commercial Court, finding it conclusive as it was passed on merits.
+* The respondent's failure to appear and present evidence did not negate the judgment's validity, as the court examined documents, considered arguments, and found the appellant's claim justified.
+* The appellant was granted a decree in India based on the foreign judgment, despite the lack of direct execution provisions for judgments from non-reciprocating territories. 
+
+## 9. References
+
+* **Code of Civil Procedure, 1908 (CPC)**
+* **Order XXI, Rule 22 of CPC**
+* **Roshanlal Kuthiala & Ors. v. R.B. Mohan Singh Oberai, (1975) 4 SCC 628**
+* **Marine Geotechnics LLC v. Coastal Marine Construction & Engineering Ltd., Company Petition No.69 of 2013, 5.3.2014 (Bombay High Court)**
+* **Badat and Co. v. East India Trading Co., AIR 1964 SC 538**
+* **International Woollen Mills v. Standard Wool (U.K.) Limited, (2001) 5 SCC 265**
+* **R. Vishvanathan v. Rukh-ul-Mulk Syed Abdul Wajid, AIR 1963 SC 1**
+* **M/s. Alcon Electronics Pvt. Ltd. v. Celem S.A. of FOS 34320 Roujan, France, (2017) 2 SCC 253**
+* **R.E. Mahomed Kassim & Co. v. Seeni Pakir Bin Ahmed, 1927 XXV LW 307 (Full Bench, Madras High Court)**
+* **Potluri Rajeswara Rao v. Syndicate Bank Incorporated in India with Limited Liability, LAWS (APH) 2000 2 30 (Andhra Pradesh High Court)**
+* **R.M.V. Vellachi Achi v. R.M.A. Ramanathan Chettiar, Laws (Mad) 1972 4 58 (Madras High Court)**
+* **Trilochan Choudhury v. Dayanidhi Patra, AIR 1961 Orissa 158**
+* **Govindan Asari Kesavan Asari v. Sankaran Asari Balakrishnan Asari, AIR 1958 Kerala 203**
+* **The Martin Burn Ltd. vs. Corporation of Calcutta, AIR 1966 S.C. 529**
+* **Firm Amar Nath Basheshar Dass v. Tek Chand, AIR 1972 S.C. 1548** 

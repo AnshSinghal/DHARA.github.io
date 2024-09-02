@@ -1,0 +1,107 @@
+## Case Title
+
+* **Case Name:** Continental Engineering Corporation Limited vs. Jaipur Metro Rail Corporation
+* **Court:** Rajasthan High Court
+* **Date of Judgment:** 2nd March, 2022
+* **Citation:** S.B. Arbitration Application No. 117/2018
+
+## Background and Context
+
+* **Brief Overview:** Continental Engineering Corporation Limited (CECL) filed an arbitration application under Section 10(1) of the Commercial Courts Act, 2015 seeking to have an arbitral award adjudicated. This followed the Commercial Court's decision to return CECL's application under Section 34 of the Arbitration and Conciliation Act, 1996 (the Act) due to it being deemed an international commercial dispute. 
+* **Key Issues:**
+    * Whether the High Court has jurisdiction to hear the application under Section 34 of the Act.
+    * Whether the application under Section 34 of the Act was filed within the prescribed time limit.
+    * Whether the application under Section 34 of the Act was properly presented before the High Court.
+    * Whether the Commercial Court was correct in returning the application under Order 7 Rule 10 CPC.
+
+## Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * Section 10(1) of the Commercial Courts Act, 2015
+    * Section 34 of the Arbitration and Conciliation Act, 1996
+    * Order 7 Rule 10 CPC
+    * Order 7 Rule 10-A CPC
+    * Rajasthan Arbitration Rules, 2003 (Rules)
+    * Section 14 of the Limitation Act
+* **Precedents Cited:** 
+    * M.P. Steel Corporation Versus Commissioner of Excise: (2015) 7 SCC 58
+    * Asif Ahmedally Porbunderwalla Versus Mrs. Daulat Akbarali Porbunderwalla & Ors.: 2014 (2) Mh.L.J. 210
+    * All India Reporter Limited Versus Ramchandra Dhondo Datar: AIR 1961 Bom 292
+    * United Bank of India Versus Naresh kumar & Ors.: (1996) 6 SCC 660
+    * Assam Ashok Hotel Corporation Ltd. Versus Northeast Chamber of Commerce and Industry (NECCI) & Ors.: (2016) 4 Gauhati Law Reports 532
+    * International Continental Caoutchoue Compagnie Versus Mehta & Co.: AIR 1927 Cal 758
+    * Simplex Infrastructure Ltd. Versus Union of India: (2019) 2 SCC 455
+    * Harshad Chimanlal Modi Versus DLF Universal Ltd & Anr.: (2006) 1 SCC 364
+    * Sri Amar Chand Inani Versus The Union of India: (1973) 1 SCC 115
+    * Hanamanthappa Versus Chandrashekharappa: AIR 1997 SC 1307
+    * Allahabad Bank Versus Shank's (Steel Fab Pvt.Ltd. & Ors.): AIR 2008 Cal 96
+    * Madhavrao Narayanrao Patwardhan Versus State of Bombay: 1959 SCR 564
+    * Ramji Pandey & Ors. Versus Swaran Kali: (2010) 14 SCC 492
+    * Rabindranath Samuel Dawson Versus Sivakami & Ors.: AIR 1972 SCC 730
+    * Firm Ramnath Ramchandra Versus Firm Bhagatram & Co.: AIR 1960 Rajasthan 219
+    * Govinda Menon Raman Menon & Ors. Versus Krishna Pillai Kesava Pillai & Ors.: AIR 1955 Travancore-Cochin 51
+    * Indira Gandhi National Open University Versus Sharad Das & Associates Pvt. Ltd.: O.M.P. (COMM) 26/2019
+    * Salazar Luis Anthony Marques (since Deceased) thr Lrs. Versus Mohd. Haroon Japanwala & Ors.: (2015) 217 DLT 261
+* **Legal Doctrines:**
+    * Jurisdiction: The court's authority to hear a particular case.
+    * Limitation: Time limits for filing legal actions.
+    * Presentation of Application: The proper procedures for filing legal documents.
+    * Interpretation of Statutes: How courts interpret the meaning of laws.
+    * Condonation of Delay: The court's power to excuse a delay in filing.
+
+## Arguments Presented
+
+* **Plaintiff's Argument (CECL):** 
+    * The Commercial Court wrongly returned the application under Section 34 of the Act.
+    * The High Court has jurisdiction to hear the application under Section 34, as it is an international commercial dispute.
+    * The application was filed within the prescribed time, considering the delay was caused by the Commercial Court's actions. 
+    * The application was properly presented before the High Court, even though there were some technical defects.
+* **Defendant's Argument (Jaipur Metro Rail Corporation):**
+    * No application under Section 34 of the Act was properly filed before the High Court.
+    * The application was not filed within the prescribed time limit, and no application for condonation of delay was made.
+    * The application was not presented according to the Rajasthan High Court Rules. 
+    * The Commercial Court should have rejected the application instead of returning it. 
+
+## Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * Order 7 Rule 10 CPC applies to plaints, not applications, and thus, the Commercial Court erred in applying it. 
+    * The application under Section 34 of the Act was not properly presented before the High Court. 
+    * The application was not filed within the prescribed time limit, and no application for condonation of delay was made. 
+* **Interpretation of Law:** The Court interpreted the relevant sections of the Commercial Courts Act, Arbitration Act, and the CPC along with the Rajasthan Arbitration Rules, 2003 to determine jurisdiction, presentation requirements, and time limits.
+* **Application of Law:** The Court applied the legal principles to the specific facts of the case, finding that the applicant (CECL) had not complied with the required procedures for presenting the application under Section 34 of the Act.
+
+## Judgment
+
+* **Final Decision:** The arbitration application filed by Continental Engineering Corporation Limited was dismissed.
+* **Relief Granted:** No relief was granted. 
+* **Orders:** No orders as to costs were made.
+
+## Implications
+
+* **Impact on Law:** This case emphasizes the importance of proper presentation of applications and adherence to the prescribed time limits under the Arbitration Act and relevant rules. It reiterates the need for clear understanding and application of the legal principles regarding jurisdiction and procedural requirements.
+* **Future Relevance:** This judgment serves as a precedent for future cases dealing with similar issues regarding the presentation of applications and time limits for filing under the Arbitration Act, particularly in international commercial disputes.
+* **Broader Context:**  The case highlights the need for clear guidelines and procedures for addressing international commercial disputes within the Indian legal framework.
+
+## Summary Points
+
+* CECL's arbitration application under Section 10(1) of the Commercial Courts Act was dismissed.
+* The application under Section 34 of the Act was not properly presented before the High Court.
+* CECL failed to comply with the procedural requirements for presenting the application and did not file within the prescribed time limit.
+* The Commercial Court erred in applying Order 7 Rule 10 CPC to the application under Section 34.
+
+## References
+
+* **Citations:**
+    * Section 10(1) of the Commercial Courts Act, 2015
+    * Section 34 of the Arbitration and Conciliation Act, 1996
+    * Order 7 Rule 10 CPC
+    * Order 7 Rule 10-A CPC
+    * Rajasthan Arbitration Rules, 2003
+    * Section 14 of the Limitation Act
+* **Further Reading:**
+    * **Arbitration and Conciliation Act, 1996**
+    * **Commercial Courts Act, 2015**
+    * **Code of Civil Procedure, 1908**
+    * **Rajasthan Arbitration Rules, 2003**
+    * **Cases cited in the judgment** 

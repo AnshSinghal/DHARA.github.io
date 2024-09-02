@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A foreign company has obtained a judgment against an Indian citizen in a foreign court based on a personal guarantee. The Indian citizen claims the guarantee is unenforceable in India due to a lack of Reserve Bank of India approval under FEMA. Can the foreign judgment be enforced in India?",
+    "Legal Principles": "Enforceability of foreign judgments in India, Section 13 of the Code of Civil Procedure, Foreign Exchange Management Act (FEMA), personal guarantees, jurisdiction of foreign courts, recognition of foreign laws",
+    "Relevant Sections": "Section 13 of the Code of Civil Procedure, Section 44A of the Code of Civil Procedure, Foreign Exchange Management Act (FEMA), Foreign Exchange Management (Guarantees) (Regulations), 2000",
+    "Context": "This case involves the enforcement of a foreign judgment in India based on a personal guarantee given by an Indian citizen to a foreign company. The legal issues pertain to the application of FEMA and the recognition of foreign judgments under Indian law."
+  },
+  {
+    "Query": "A debtor has filed for personal insolvency under the Insolvency and Bankruptcy Code, 2016 (IBC) while facing execution proceedings for a foreign judgment. Can the IBC proceedings stay the execution of the foreign judgment?",
+    "Legal Principles": "Insolvency and Bankruptcy Code, 2016 (IBC), Section 96 of the IBC, interim moratorium, execution of foreign judgments, stay of proceedings, overriding effect of the IBC, constructive res judicata, waiver",
+    "Relevant Sections": "Section 95 and 96 of the IBC, Section 238 of the IBC, Order XXI Rule 40(b) of the Code of Civil Procedure",
+    "Context": "This case concerns the interplay between personal insolvency proceedings under the IBC and execution proceedings for a foreign judgment in India. The question is whether the interim moratorium under the IBC can effectively stay the execution proceedings."
+  },
+  {
+    "Query": "A foreign judgment creditor has sought to attach the debtor's property in India under Order 21 Rule 54 of the Code of Civil Procedure. The debtor argues that the attachment is premature and should be stayed. What are the legal arguments for and against the attachment?",
+    "Legal Principles": "Execution of foreign judgments in India, Order 21 Rule 54 of the Code of Civil Procedure, attachment of property, premature attachment, stay of execution, grounds for attachment, jurisdiction of executing court",
+    "Relevant Sections": "Order 21 Rule 54 of the Code of Civil Procedure, Section 44A of the Code of Civil Procedure",
+    "Context": "This case involves the execution of a foreign judgment in India where the creditor has sought to attach the debtor's property. The legal issues relate to the timing and justification of the attachment under Indian law."
+  },
+  {
+    "Query": "A debtor is facing execution proceedings for a foreign judgment and claims that the judgment was obtained by fraud. Can the executing court in India inquire into the allegations of fraud?",
+    "Legal Principles": "Enforceability of foreign judgments in India, Section 13 of the Code of Civil Procedure, fraud, grounds for challenging a foreign judgment, jurisdiction of executing court, principle of finality of judgments",
+    "Relevant Sections": "Section 13(e) of the Code of Civil Procedure, Section 44A of the Code of Civil Procedure",
+    "Context": "This case involves a challenge to the enforceability of a foreign judgment in India on the grounds of fraud. The legal issues concern the scope of inquiry into alleged fraud by the executing court under Indian law."
+  },
+  {
+    "Query": "A debtor has been ordered to furnish security during execution proceedings for a foreign judgment. The debtor argues that the security order is excessive and unreasonable. Can the executing court modify the security order?",
+    "Legal Principles": "Execution of foreign judgments in India, Order XXI Rule 40(b) of the Code of Civil Procedure, security for execution, reasonableness of security order, modification of court orders, discretion of executing court",
+    "Relevant Sections": "Order XXI Rule 40(b) of the Code of Civil Procedure, Section 151 of the Code of Civil Procedure",
+    "Context": "This case involves a challenge to the amount and form of security required by the executing court in India during the enforcement of a foreign judgment. The legal issues concern the court's discretion to modify security orders."
+  },
+  {
+    "Query": "A foreign judgment creditor has filed a second execution petition in India after an earlier petition was dismissed. The debtor argues that the second petition is barred by res judicata. Is the second petition maintainable?",
+    "Legal Principles": "Res judicata, constructive res judicata, execution of foreign judgments, maintainability of second execution petition, abuse of process, principles of finality of judgments, exceptions to res judicata",
+    "Relevant Sections": "Section 11 of the Code of Civil Procedure, Order XXIII Rule 1 of the Code of Civil Procedure",
+    "Context": "This case involves the issue of res judicata in the context of execution proceedings for a foreign judgment in India. The question is whether a second execution petition is maintainable after an earlier petition was dismissed."
+  },
+  {
+    "Query": "A foreign judgment debtor has been ordered to disclose the source of funds he intends to use to satisfy the judgment. The debtor argues that the disclosure order is an invasion of his privacy and is not necessary for the execution proceedings. Is the disclosure order justified?",
+    "Legal Principles": "Execution of foreign judgments in India, Order XXI Rule 41(1a) of the Code of Civil Procedure, disclosure of financial information, privacy rights, necessity for disclosure, discretion of executing court, balance of interests",
+    "Relevant Sections": "Order XXI Rule 41(1a) of the Code of Civil Procedure, Article 21 of the Constitution of India",
+    "Context": "This case concerns the disclosure of financial information by a foreign judgment debtor in India during execution proceedings. The legal issues involve the balance between the debtor's privacy rights and the creditor's need for information to execute the judgment."
+  },
+  {
+    "Query": "A foreign judgment debtor has challenged the validity of the IBC provisions relating to personal insolvency. Can the debtor rely on this challenge to stay execution proceedings for a foreign judgment?",
+    "Legal Principles": "Insolvency and Bankruptcy Code, 2016 (IBC), Section 96 of the IBC, challenge to validity of law, stay of proceedings, effect of pending challenge, principle of finality of judgments, judicial economy",
+    "Relevant Sections": "Section 96 of the IBC, Article 226 of the Constitution of India",
+    "Context": "This case involves a debtor's attempt to use a pending challenge to the constitutionality of IBC provisions to stay execution proceedings for a foreign judgment. The legal issues relate to the effect of a pending constitutional challenge and the principles of judicial economy."
+  },
+  {
+    "Query": "A foreign judgment debtor has filed multiple applications seeking to challenge the jurisdiction of the executing court in India. The executing court has dismissed these applications, and the debtor has appealed the dismissals. Can the debtor continue to raise jurisdictional objections after the appeals are dismissed?",
+    "Legal Principles": "Jurisdiction of courts, execution of foreign judgments, principle of finality of judgments, abuse of process, repeated challenges to jurisdiction, judicial economy, preclusion doctrine",
+    "Relevant Sections": "Section 13 of the Code of Civil Procedure, Section 44A of the Code of Civil Procedure, Article 227 of the Constitution of India",
+    "Context": "This case involves a debtor's persistent challenges to the jurisdiction of the executing court in India during the enforcement of a foreign judgment. The legal issues concern the principles of finality of judgments, abuse of process, and the preclusion doctrine."
+  },
+  {
+    "Query": "A foreign judgment debtor has been ordered to furnish a bank guarantee as security during execution proceedings. The debtor argues that the bank guarantee requirement is unfair and unreasonable. What factors can the executing court consider when assessing the reasonableness of the security requirement?",
+    "Legal Principles": "Execution of foreign judgments in India, Order XXI Rule 40(b) of the Code of Civil Procedure, bank guarantee as security, reasonableness of security requirement, discretion of executing court, proportionality, financial capacity of debtor, risk of default",
+    "Relevant Sections": "Order XXI Rule 40(b) of the Code of Civil Procedure, Section 151 of the Code of Civil Procedure",
+    "Context": "This case involves a challenge to the requirement to furnish a bank guarantee as security during execution proceedings for a foreign judgment. The legal issues relate to the factors that the executing court can consider when assessing the reasonableness of the security requirement."
+  }
+]
+```

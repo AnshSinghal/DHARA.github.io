@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A plaintiff filed a Section 34 petition challenging an arbitral award within the 90-day limitation period. However, the petition lacked essential documents like the statement of truth, affidavit, and Vakalatnama. The defendant argued that this constituted a non-est filing. Can the court condone the delay in refiling the petition with all necessary documents?",
+    "Legal Principles": "Condonation of delay, Section 34 of the Arbitration and Conciliation Act, 1996, non-est filing, essential documents, procedural requirements",
+    "Relevant Sections": "Section 34(3) of the Arbitration and Conciliation Act, 1996",
+    "Context": "A commercial dispute involving an application for condonation of delay in refiling a Section 34 petition challenging an arbitral award."
+  },
+  {
+    "Query": "A company filed a commercial suit against another company. The defendant raised a jurisdictional objection, which was overruled by the Commercial Court. The defendant wants to challenge this interlocutory order. Can they file a revision petition under Section 115 of the CPC, or is it barred by Section 8 of the Commercial Courts Act, 2015?",
+    "Legal Principles": "Interlocutory order, jurisdictional objection, Section 8 of the Commercial Courts Act, 2015, Section 115 of the CPC",
+    "Relevant Sections": "Section 8 of the Commercial Courts Act, 2015, Section 115 of the Code of Civil Procedure, 1908",
+    "Context": "A commercial dispute involving a jurisdictional challenge to an interlocutory order passed by a Commercial Court."
+  },
+  {
+    "Query": "Two parties entered into a contract for construction work. A dispute arose, and the parties agreed to arbitration. The arbitrator passed an award in favor of one party. The losing party filed a Section 34 petition challenging the award. The court allowed the petition and set aside the award. Can the winning party challenge this order by filing a petition under Article 227 of the Constitution of India?",
+    "Legal Principles": "Arbitration award, Section 34 petition, Article 227 of the Constitution of India, scope of judicial review, Commercial Courts Act, 2015",
+    "Relevant Sections": "Article 227 of the Constitution of India, Section 34 of the Arbitration and Conciliation Act, 1996",
+    "Context": "A commercial dispute involving a challenge to an order setting aside an arbitral award under Section 34 of the Arbitration and Conciliation Act, 1996."
+  },
+  {
+    "Query": "A company filed a commercial suit against another company. The defendant failed to file a written statement within the prescribed time period. The plaintiff applied for judgment under Order 8 Rule 10 of the CPC. The Commercial Court dismissed the application. Can the plaintiff challenge this order by filing a petition under Article 227 of the Constitution of India?",
+    "Legal Principles": "Commercial suit, Order 8 Rule 10 of the CPC, judgment under Order 8 Rule 10, Commercial Courts Act, 2015, Article 227 of the Constitution of India",
+    "Relevant Sections": "Order 8 Rule 10 of the Code of Civil Procedure, 1908, Article 227 of the Constitution of India",
+    "Context": "A commercial dispute involving a challenge to an order dismissing an application for judgment under Order 8 Rule 10 of the CPC."
+  },
+  {
+    "Query": "A party filed a commercial suit in the Commercial Court. The court passed an order staying the proceedings pending arbitration. The party wants to challenge this interlocutory order. Can they file a revision petition under Section 115 of the CPC, or is it barred by Section 8 of the Commercial Courts Act, 2015?",
+    "Legal Principles": "Commercial suit, stay of proceedings, interlocutory order, Section 8 of the Commercial Courts Act, 2015, Section 115 of the CPC",
+    "Relevant Sections": "Section 8 of the Commercial Courts Act, 2015, Section 115 of the Code of Civil Procedure, 1908",
+    "Context": "A commercial dispute involving a challenge to an order staying proceedings pending arbitration."
+  },
+  {
+    "Query": "A company filed a commercial suit against another company. The defendant applied for summary judgment under Order 37 of the CPC. The Commercial Court granted summary judgment in favor of the defendant. Can the plaintiff challenge this order by filing a petition under Article 227 of the Constitution of India?",
+    "Legal Principles": "Commercial suit, summary judgment, Order 37 of the CPC, Commercial Courts Act, 2015, Article 227 of the Constitution of India",
+    "Relevant Sections": "Order 37 of the Code of Civil Procedure, 1908, Article 227 of the Constitution of India",
+    "Context": "A commercial dispute involving a challenge to an order granting summary judgment under Order 37 of the CPC."
+  },
+  {
+    "Query": "Two parties entered into a contract for the sale of goods. A dispute arose, and the parties agreed to arbitration. The arbitrator passed an award in favor of one party. The losing party filed a Section 34 petition challenging the award, but the court dismissed it. Can the losing party appeal this order directly to the High Court under Section 37 of the Arbitration and Conciliation Act, 1996?",
+    "Legal Principles": "Arbitration award, Section 34 petition, Section 37 of the Arbitration and Conciliation Act, 1996, appeal against dismissal",
+    "Relevant Sections": "Section 34 and 37 of the Arbitration and Conciliation Act, 1996",
+    "Context": "A commercial dispute involving a challenge to an order dismissing a Section 34 petition challenging an arbitral award."
+  },
+  {
+    "Query": "A company filed a commercial suit against another company. The defendant filed a counterclaim. The Commercial Court passed an order striking out the counterclaim. Can the defendant challenge this order by filing a petition under Article 227 of the Constitution of India?",
+    "Legal Principles": "Commercial suit, counterclaim, striking out a counterclaim, Commercial Courts Act, 2015, Article 227 of the Constitution of India",
+    "Relevant Sections": "Article 227 of the Constitution of India",
+    "Context": "A commercial dispute involving a challenge to an order striking out a counterclaim."
+  },
+  {
+    "Query": "A party filed a commercial suit in the Commercial Court. The court passed an order granting an injunction against the other party. The party wants to challenge this interlocutory order. Can they file a revision petition under Section 115 of the CPC, or is it barred by Section 8 of the Commercial Courts Act, 2015?",
+    "Legal Principles": "Commercial suit, injunction, interlocutory order, Section 8 of the Commercial Courts Act, 2015, Section 115 of the CPC",
+    "Relevant Sections": "Section 8 of the Commercial Courts Act, 2015, Section 115 of the Code of Civil Procedure, 1908",
+    "Context": "A commercial dispute involving a challenge to an order granting an injunction."
+  },
+  {
+    "Query": "A company filed a commercial suit against another company. The defendant filed an application for discovery and inspection. The Commercial Court dismissed the application. Can the defendant appeal this order directly to the High Court under Section 37 of the Arbitration and Conciliation Act, 1996?",
+    "Legal Principles": "Commercial suit, discovery and inspection, Commercial Courts Act, 2015, appeal against dismissal, Section 37 of the Arbitration and Conciliation Act, 1996",
+    "Relevant Sections": "Section 37 of the Arbitration and Conciliation Act, 1996",
+    "Context": "A commercial dispute involving a challenge to an order dismissing an application for discovery and inspection."
+  }
+]
+```

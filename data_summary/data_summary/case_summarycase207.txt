@@ -1,0 +1,92 @@
+##  Case Title 
+
+* **Case Name:** Mr. A. Krishna Murthy vs. Mr. Shantharaj
+* **Court:** Karnataka High Court
+* **Date of Judgment:** 10th January, 2024
+* **Citation:**  NC: 2024:KHC:1124, WP No. 27060 of 2023
+
+## Background and Context
+
+* **Brief Overview:** This case involves a dispute arising from a Memorandum of Understanding (MoU) between the petitioners (Mr. A. Krishna Murthy and family) and the respondents (Mr. Shantharaj and Mr. Ramachandra). The MoU dealt with securing sites from the Bangalore Development Authority (BDA) and remitting fees for the service.  The dispute escalated to arbitration, leading to an award partially favoring the claimants. Both parties challenged the award in separate appeals, with the petitioners arguing that the commercial court lacked jurisdiction as the dispute was not commercial.
+
+* **Key Issues:** 
+    * Whether the dispute between the parties constituted a "commercial dispute" as defined under the Commercial Courts Act, 2015.
+    * Whether the Commercial Court had jurisdiction to entertain the commercial appeal filed by the respondents.
+
+## Legal Principles Involved
+
+* **Relevant Statutes and Provisions:** 
+    * **Commercial Courts Act, 2015:** Particularly Section 2(1)(c) defining "commercial dispute" and Section 6 regarding the jurisdiction of Commercial Courts.
+    * **Code of Civil Procedure, 1908:**  Various provisions concerning case management, summary judgment, and speedy disposal of commercial disputes were amended by the Commercial Courts Act.
+
+* **Precedents Cited:** 
+    * **Ambalal Sarabhai Enterprises Limited v. K.S. Infraspace LLP and Another (2020) 15 SCC 585:** This landmark case provided interpretation of "commercial dispute" and the importance of strict construction of the Act to maintain the fast-track nature of commercial dispute resolution.
+    * **Ujwala Raje Gaekwar v. Hemaben Achyut Shah, 2017 SCC OnLine Guj 583:** This case emphasized the need to avoid transferring probate and property disputes to Commercial Courts, as it would frustrate the Act's objectives.
+    * **Vasu Healthcare (P) Ltd. v. Gujarat Akruti TCG Biotech Ltd., 2017 SCC OnLine Guj 724 : AIR 2017 Guj 153:**  This case highlighted that the "used" in the definition of commercial dispute under the Act meant "actually used" and not "likely to be used" or "to be used."
+
+* **Legal Doctrines:** 
+    * **Purposive Interpretation:** The court emphasized interpreting the Commercial Courts Act based on its intended purpose of resolving commercial disputes quickly.
+    * **Strict Construction:** The court applied strict construction to the definition of "commercial dispute" to prevent the clogging of Commercial Courts with non-commercial matters.
+
+## Arguments Presented
+
+* **Plaintiff’s Argument (Petitioners):** 
+    * The petitioners argued that the MoU was a liaison agreement for securing sites and not a commercial transaction within the meaning of the Commercial Courts Act.
+    * They contended that the dispute did not involve trade or commerce as defined in the Act and therefore, the Commercial Court lacked jurisdiction.
+    * They cited the Ambalal Sarabhai case to support their argument that the mere existence of a monetary claim does not automatically make it a commercial dispute.
+
+* **Defendant’s Argument (Respondents):** 
+    * The respondents argued that the dispute fell under the ambit of Clause 18 of Section 2 of the Act, as it involved an agreement for services, making it a commercial dispute.
+    * They contended that the petitioners' argument about the lack of "trade or commerce" was not applicable because the MoU related to securing sites, which is a commercial activity.
+
+## Court’s Analysis and Reasoning
+
+* **Key Findings:** 
+    * The court found that the MoU was a liaison agreement and did not involve a commercial transaction in the traditional sense. 
+    * The court emphasized that the definition of "commercial dispute" in the Act needed to be strictly construed to ensure the efficient functioning of Commercial Courts.
+    * The court adopted a purposive interpretation of the Act, highlighting the intent behind its establishment - speedy and efficient resolution of high-value commercial disputes.
+
+* **Interpretation of Law:** 
+    * The court carefully analyzed the definition of "commercial dispute" in Section 2(1)(c) of the Act, specifically clause (vii) relating to immovable property used exclusively in trade or commerce. 
+    * It clarified that "used" meant "actually used" and not "likely to be used" or "to be used." 
+    * The court highlighted the importance of avoiding a broad interpretation of the Act, which could lead to a backlog of cases in Commercial Courts.
+
+* **Application of Law:** 
+    * The court applied the principles laid down in the Ambalal Sarabhai case, concluding that the dispute in question did not meet the criteria of a "commercial dispute" as defined by the Act.
+    * The court rejected the respondents' argument that the dispute fell under Clause 18 of Section 2, emphasizing that the agreement was for services and did not involve the core elements of a commercial transaction.
+    * By referring to the precedents in Ujwala Raje Gaekwar and Vasu Healthcare cases, the court stressed the need to prevent transferring non-commercial disputes to Commercial Courts.
+
+## Judgment
+
+* **Final Decision:** The petition was allowed, and the order passed by the Commercial Court was quashed.
+* **Relief Granted:** The court declared that the Commercial Appeal before the concerned court was not maintainable.
+* **Orders:** The court directed the petitioners to file an appropriate application to club the pending suit with the commercial appeal, should they choose to do so.
+
+## Implications
+
+* **Impact on Law:** The judgment reinforces the strict interpretation of "commercial dispute" under the Commercial Courts Act, 2015. It underscores the importance of maintaining the fast-track nature of commercial dispute resolution and preventing the clogging of Commercial Courts with non-commercial cases.
+
+* **Future Relevance:** The case provides a valuable precedent for future cases involving disputes related to agreements for services and whether such agreements qualify as "commercial disputes" under the Act. It will influence the interpretation of the Act by courts in similar situations.
+
+* **Broader Context:** The case highlights the growing trend of judicial interpretation focusing on the intended purpose of legislation. It also emphasizes the importance of ensuring efficient and timely dispute resolution mechanisms, particularly in the commercial sphere.
+
+## Summary Points
+
+* The dispute between the parties did not constitute a "commercial dispute" as defined under the Commercial Courts Act.
+* The Commercial Court lacked jurisdiction to entertain the appeal filed by the respondents.
+* The court emphasized the need to strictly construe the definition of "commercial dispute" and prevent overloading Commercial Courts with non-commercial matters.
+* The judgment reinforces the purposive interpretation of the Commercial Courts Act and its focus on swift resolution of genuine commercial disputes.
+
+## References
+
+* **Statutes:**
+    * Commercial Courts Act, 2015
+    * Code of Civil Procedure, 1908
+* **Cases:**
+    * Ambalal Sarabhai Enterprises Limited v. K.S. Infraspace LLP and Another (2020) 15 SCC 585
+    * Ujwala Raje Gaekwar v. Hemaben Achyut Shah, 2017 SCC OnLine Guj 583
+    * Vasu Healthcare (P) Ltd. v. Gujarat Akruti TCG Biotech Ltd., 2017 SCC OnLine Guj 724 : AIR 2017 Guj 153
+
+* **Further Reading:**
+    * Law Commission of India, 253rd Report: Commercial Division and Commercial Appellate Division of High Courts and Commercial Courts Bill, 2015 (January 2015)
+    *  Other cases involving the interpretation of "commercial dispute" under the Commercial Courts Act. 

@@ -1,0 +1,87 @@
+##  The Agricultural Produce Market Committee, Nehru Gunj, Kalaburagi vs. Kishan Khandelwal & Anr
+
+**1. Case Title**
+
+* **Case Name:** The Agricultural Produce Market Committee, Nehru Gunj, Kalaburagi vs. Kishan Khandelwal & Anr
+* **Court:** Karnataka High Court, Kalaburagi Bench
+* **Date of Judgment:** 20th June, 2023
+* **Citation:**  COMAP No. 200001 of 2023 (NC: 2023:KHC-K:1293-DB)
+
+**2. Background and Context**
+
+* **Brief Overview:** The Agricultural Produce Market Committee (APMC) of Kalaburagi is appealing against an order by the Principal District Judge, Kalaburagi (Commercial Court), which rejected its application for condonation of delay in filing a suit under Section 34 of the Arbitration and Conciliation Act, 1996. The APMC sought to challenge an arbitral award in favor of Kishan Khandelwal, the first respondent.
+* **Key Issues:** 
+    * Whether the APMC had shown sufficient cause and bona fides for condonation of delay in filing its suit under Section 34.
+    * Whether the Commercial Court was right in requiring a pre-deposit of 75% of the award amount before entertaining the suit.
+
+**3. Legal Principles Involved**
+
+* **Relevant Statutes and Provisions:**
+    * Section 37 of the Arbitration and Conciliation Act, 1996 (Arbitration Act)
+    * Section 34 of the Arbitration Act
+    * Section 13 (1A) of the Commercial Courts, Commercial Division, Commercial Appellate Division of High Court Act, 2015
+    * Section 5 of the Limitation Act, 1963
+* **Precedents Cited:**
+    * Government of Maharashtra (Water Resources Department) vs. Borse Brothers Engineers and Contractors Private Limited reported in (2021) 6 SCC 460 
+* **Legal Doctrines:**
+    * Condonation of delay
+    * Bona fides
+    * Sufficient Cause
+    * Maintainability of an application under Section 34 of the Arbitration Act
+
+**4. Arguments Presented**
+
+* **Appellant’s Argument (APMC):**
+    * The delay was due to factors beyond their control, including the constant transfers of officials, delay in constituting the elected body, and the time required to secure legal opinion.
+    * The requirement of pre-deposit of 75% of the award amount is not mandated by law.
+    * The APMC had filed detailed objections to the award earlier and the present suit was filed only to address any formal defects.
+    * The limitation period for filing a suit under Section 34 should be calculated from the date on which the APMC received a signed copy of the award from the Arbitrator, not from the date of the award itself.
+* **Respondent’s Argument (Kishan Khandelwal):**
+    * The APMC failed to provide sufficient reasons for the delay of over 200 days in filing the suit.
+    * The APMC's arguments regarding the limitation period and pre-deposit were afterthoughts and not raised before the Commercial Court.
+    * The delay was excessive and cannot be condoned, especially considering the APMC is a public body.
+
+**5. Court’s Analysis and Reasoning**
+
+* **Key Findings:**
+    * The court noted the APMC's application for condonation of delay before the Commercial Court was silent on the number of days of delay and lacked specific details about the circumstances leading to the delay.
+    * The court found the APMC's arguments about the limitation period and the pre-deposit requirement were raised for the first time before the High Court and lacked bona fides.
+    * The court considered the precedent set in "Government of Maharashtra (Water Resources Department) vs. Borse Brothers Engineers and Contractors Private Limited" and found that condonation of delay should be exercised only in exceptional circumstances and with established bona fides. 
+* **Interpretation of Law:**
+    * The court interpreted the provisions of the Arbitration Act, the Limitation Act, and the Commercial Courts Act, emphasizing the importance of prompt action in arbitration cases and the need for parties to act diligently in pursuing their legal remedies.
+    * The court highlighted that condonation of delay is an exception, not a rule, and must be exercised with caution, considering the potential prejudice to the opposing party.
+* **Application of Law:**
+    * The court applied the principle of condonation of delay as established in the "Borse Brothers" case and concluded that the APMC failed to establish bona fides and sufficient cause for the extensive delay. 
+    * The court held that the Commercial Court's rejection of the APMC's application for condonation of delay was justified.
+
+**6. Judgment**
+
+* **Final Decision:** The appeal filed by the APMC was dismissed.
+* **Relief Granted:** No relief was granted to the appellant.
+* **Orders:** The Commercial Court's order rejecting the APMC's application for condonation of delay was upheld.
+
+**7. Implications**
+
+* **Impact on Law:** This judgment reinforces the strict interpretation of condonation of delay, particularly in arbitration cases. It emphasizes that the onus is on the applicant to demonstrate bona fides and provide a compelling explanation for the delay.
+* **Future Relevance:** This case serves as a reminder to parties in arbitration proceedings to act promptly and diligently in pursuing their legal remedies. Delays beyond the stipulated timeframes will likely be condoned only in exceptional circumstances.
+* **Broader Context:** This judgment highlights the importance of efficient dispute resolution in commercial matters. The courts are increasingly emphasizing the need for parties to adhere to procedural timelines to avoid unnecessary delays and disruptions in business transactions.
+
+**8. Summary Points**
+
+* The APMC failed to establish sufficient cause and bona fides for condonation of delay in filing its suit under Section 34 of the Arbitration Act.
+* The court found that the APMC's arguments regarding the limitation period and pre-deposit requirement were afterthoughts and not raised before the Commercial Court.
+* The court upheld the Commercial Court's decision to reject the APMC's application for condonation of delay.
+
+**9. References**
+
+* **Citations:**
+    * Section 37 of the Arbitration and Conciliation Act, 1996
+    * Section 34 of the Arbitration Act
+    * Section 13 (1A) of the Commercial Courts, Commercial Division, Commercial Appellate Division of High Court Act, 2015
+    * Section 5 of the Limitation Act, 1963
+    * Government of Maharashtra (Water Resources Department) vs. Borse Brothers Engineers and Contractors Private Limited reported in (2021) 6 SCC 460 
+* **Further Reading:**
+    *  "The Arbitration and Conciliation Act, 1996"
+    *  "The Limitation Act, 1963"
+    *  "The Commercial Courts, Commercial Division, Commercial Appellate Division of High Court Act, 2015"
+    *  Relevant case law on condonation of delay and arbitration proceedings. 

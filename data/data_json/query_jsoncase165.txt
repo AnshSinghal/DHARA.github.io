@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A construction company entered into an agreement to purchase land for a commercial development. However, the seller later sold the land to another company, claiming that the original agreement was void due to the buyer's failure to meet a condition precedent. The buyer filed a suit for specific performance, seeking to compel the seller to complete the sale. The seller argued that the agreement was unenforceable due to the buyer's failure to meet the condition precedent and that the court lacked jurisdiction because the land was subject to a mortgage. Can the buyer obtain a specific performance decree, and what are the relevant legal principles?",
+    "Legal Principles": "Specific performance is an equitable remedy that compels a party to perform its contractual obligations. For specific performance to be granted, the contract must be valid and enforceable, and the plaintiff must have performed or be ready, willing, and able to perform their part of the contract. The court will also consider the balance of convenience and whether the plaintiff would suffer irreparable harm if specific performance is not granted. In cases involving land subject to a mortgage, the court must consider the rights of the mortgagee and ensure that the sale proceeds are used to satisfy the mortgage debt.",
+    "Relevant Sections": "Sections 2(g), 36 of the Indian Contract Act, 1872, Sections 20(A), 20(B), 41(ha) of the Specific Relief Act, 1963, Section 17, 34 of the Securitization and Reconstruction of Financial Assets and Enforcement of Security Interests Act, 2002",
+    "Context": "Jurisdiction of Civil Court, Specific Performance, Condition Precedent, Enforceability of Agreement, Mortgage, SARFAESI Act"
+  },
+  {
+    "Query": "A company borrowed a large sum of money from a bank and used a piece of land as collateral. When the company defaulted on the loan, the bank took possession of the land under the Securitization and Reconstruction of Financial Assets and Enforcement of Security Interests Act (SARFAESI Act). The company then entered into an agreement with a third party to sell the land, but the bank initiated proceedings to sell the land itself. The third party filed a suit for specific performance against the company and the bank, seeking to compel them to complete the sale. Can the third party obtain specific performance, and what are the relevant legal principles?",
+    "Legal Principles": "A third party may seek specific performance of a contract if they have a valid contractual interest in the subject matter of the contract. However, the court will consider the rights of the secured creditor and ensure that the sale proceeds are used to satisfy the mortgage debt. The court may also consider whether the third party is a bona fide purchaser and whether they were aware of the mortgage and the secured creditor's rights.",
+    "Relevant Sections": "Sections 13, 17, 34 of the Securitization and Reconstruction of Financial Assets and Enforcement of Security Interests Act, 2002",
+    "Context": "SARFAESI Act, Specific Performance, Secured Creditor, Bona Fide Purchaser, Mortgage, Third Party Rights"
+  },
+  {
+    "Query": "Two parties entered into an agreement for the sale of land. The agreement contained a condition precedent that required the buyer to obtain a change in land use (CLU) from the government before the sale could be completed. The buyer failed to obtain the CLU, and the seller subsequently sold the land to a third party. The buyer filed a suit for specific performance, arguing that the condition precedent was waived or that the seller was responsible for obtaining the CLU.  Does the buyer have a valid claim for specific performance?",
+    "Legal Principles": "A condition precedent is a condition that must be met before a contract becomes binding.  If a condition precedent is not met, the contract may be unenforceable. However, a party may waive a condition precedent, either expressly or impliedly, by their words or conduct. The court will consider the circumstances of the case, the parties' intentions, and the terms of the agreement to determine whether a condition precedent has been waived.",
+    "Relevant Sections": "Sections 2(g), 36 of the Indian Contract Act, 1872, Section 12(1) of the Specific Relief Act, 1963",
+    "Context": "Specific Performance, Condition Precedent, Waiver, Change in Land Use (CLU), Enforceability of Agreement"
+  },
+  {
+    "Query": "A company entered into an agreement to purchase land for the development of a hospital. The agreement required the seller to obtain necessary approvals, including a change in land use (CLU), before the sale could be completed. The seller failed to obtain the CLU, and the buyer sought an injunction to prevent the seller from selling the land to a third party. The seller argued that the buyer had no right to an injunction because the agreement was void due to the buyer's failure to meet the condition precedent and that the court should not interfere with a healthcare project. What are the relevant legal principles?",
+    "Legal Principles": "The court may grant an injunction to prevent a party from taking an action that would cause irreparable harm to another party.  However, the court will consider the balance of convenience and whether the plaintiff has a strong prima facie case. The court may also consider whether granting the injunction would negatively impact a public interest project.",
+    "Relevant Sections": "Order 39 Rule 1 & 2 of the Code of Civil Procedure, 1908",
+    "Context": "Injunction, Condition Precedent, Balance of Convenience, Irreparable Harm, Healthcare Project, Public Interest"
+  },
+  {
+    "Query": "A company entered into an agreement to purchase land for commercial development, but the seller later sold the land to another company, claiming the original agreement was void due to the buyer's failure to meet a condition precedent. The buyer sued for specific performance and an injunction to prevent the sale to the third party. The third party argued it was a bona fide purchaser, unaware of the prior agreement. What factors will the court consider when deciding whether the third party is a bona fide purchaser?",
+    "Legal Principles": "A bona fide purchaser is one who purchases property without notice of any prior claims or interests. To be considered a bona fide purchaser, the buyer must have acted in good faith and without knowledge of any defects in the seller's title. The court will consider the circumstances of the purchase, the buyer's knowledge of the prior agreement, and the steps taken by the buyer to investigate the seller's title. ",
+    "Relevant Sections": "Section 41 of the Transfer of Property Act, 1882",
+    "Context": "Bona Fide Purchaser, Specific Performance, Injunction, Notice, Good Faith"
+  },
+  {
+    "Query": "A construction company entered into an agreement to purchase land for a commercial development. However, the seller later sold the land to another company, claiming the original agreement was void due to the buyer's failure to meet a condition precedent. The buyer sued for specific performance, but the seller argued the agreement was infructuous and unenforceable because the buyer failed to complete the transaction within the stipulated time frame. What are the legal principles concerning the enforceability of an agreement after the expiry of the stipulated time frame?",
+    "Legal Principles": "An agreement may be rendered infructuous or unenforceable if a party fails to perform their obligations within the stipulated time frame. However, the court will consider the circumstances of the delay, the reasons for the delay, and the parties' conduct to determine whether the delay is excusable or whether the agreement has been rendered unenforceable. The court may also consider whether the party seeking to enforce the agreement has suffered any prejudice due to the delay.",
+    "Relevant Sections": "Sections 2(g), 56 of the Indian Contract Act, 1872",
+    "Context": "Specific Performance, Enforceability of Agreement, Time Frame, Delay, Infructuous Agreement, Prejudice"
+  },
+  {
+    "Query": "Two parties entered into an agreement for the sale of land, but the buyer failed to make any payment within the agreed-upon timeframe. The seller subsequently sold the land to a third party. The buyer filed a suit for specific performance, arguing that the seller's sale to the third party was invalid because the buyer was ready, willing, and able to complete the purchase.  Does the buyer have a valid claim for specific performance?",
+    "Legal Principles": "For specific performance to be granted, the buyer must demonstrate that they were ready, willing, and able to complete the purchase at the time the seller breached the contract.  The court will consider the buyer's actions, their financial capacity, and the steps they took to perform their obligations under the agreement. ",
+    "Relevant Sections": "Section 16(1) of the Specific Relief Act, 1963",
+    "Context": "Specific Performance, Ready, Willing, and Able, Breach of Contract, Enforceability of Agreement"
+  },
+  {
+    "Query": "A company entered into an agreement to purchase land for a commercial development but failed to complete the transaction within the stipulated time frame. The seller then sold the land to another company. The original buyer sued for specific performance and an injunction to prevent the sale to the third party.  What factors will the court consider when deciding whether to grant an injunction?",
+    "Legal Principles": "The court will consider the balance of convenience, the potential for irreparable harm to the plaintiff, and the likelihood of the plaintiff succeeding in the underlying claim when deciding whether to grant an injunction.  The court may also consider whether the injunction would negatively impact the rights of the third party who purchased the land.",
+    "Relevant Sections": "Order 39 Rule 1 & 2 of the Code of Civil Procedure, 1908",
+    "Context": "Injunction, Specific Performance, Balance of Convenience, Irreparable Harm, Third Party Rights"
+  },
+  {
+    "Query": "A construction company entered into an agreement to purchase land for a commercial development, but the seller later sold the land to another company, claiming the original agreement was void due to the buyer's failure to meet a condition precedent. The buyer sued for specific performance and an injunction to prevent the sale to the third party. The seller argued that the buyer's claim was barred by Section 34 of the Securitization and Reconstruction of Financial Assets and Enforcement of Security Interests Act, 2002 (SARFAESI Act). Does Section 34 of the SARFAESI Act bar the buyer's claim?",
+    "Legal Principles": "Section 34 of the SARFAESI Act bars civil courts from entertaining suits or proceedings in respect of matters that fall within the jurisdiction of the Debts Recovery Tribunal (DRT). However, the court will consider the nature of the claim and the specific relief sought to determine whether the claim falls within the scope of Section 34.  The court may also consider whether the plaintiff has exhausted other available remedies before seeking relief in the civil court. ",
+    "Relevant Sections": "Section 34 of the Securitization and Reconstruction of Financial Assets and Enforcement of Security Interests Act, 2002",
+    "Context": "SARFAESI Act, Specific Performance, Injunction, Jurisdiction of Civil Court, Debts Recovery Tribunal (DRT)"
+  },
+  {
+    "Query": "Two parties entered into an agreement for the sale of land, but the seller later sold the land to another company, claiming the original agreement was void due to the buyer's failure to meet a condition precedent. The buyer sued for specific performance and an injunction to prevent the sale to the third party. The seller argued that the buyer's claim was barred by Section 20-A, 20-B, and 41(ha) of the Specific Relief Act, 1963. Does the Specific Relief Act bar the buyer's claim?",
+    "Legal Principles": "Section 20-A of the Specific Relief Act bars specific performance of contracts relating to infrastructure projects, while Section 20-B bars specific performance of contracts relating to public utilities. Section 41(ha) provides that specific performance is not available if the contract is uncertain or incapable of being performed. The court will consider the nature of the project and the specific terms of the agreement to determine whether these sections apply. ",
+    "Relevant Sections": "Sections 20-A, 20-B, and 41(ha) of the Specific Relief Act, 1963",
+    "Context": "Specific Performance, Injunction, Infrastructure Project, Public Utility, Enforceability of Agreement"
+  }
+]
+```

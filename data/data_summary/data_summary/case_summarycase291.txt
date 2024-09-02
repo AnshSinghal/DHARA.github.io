@@ -1,0 +1,97 @@
+## 1. Case Title
+
+* **Case Name:** The Director, Esd Mee Seva vs United Telecomes Limited
+* **Court:** Telangana High Court
+* **Date of Judgment:** 26 August 2022
+* **Citation:**  COMMERCIAL COURT APPEAL NOs.33, 34, 40, 41, 42, 48, 49, 51 and 52 of 2018 and 4, 17, 18, 19, 20 OF 2019
+
+## 2. Background and Context
+
+* **Brief Overview:** This case involves a dispute between Mee Seva (a government-run initiative providing e-governance services) and several software companies (CCS Infotech Limited, United Telecoms Limited, and Data Management Corporation).  These companies acted as Technical Partners for Mee Seva, setting up and maintaining service centers in different zones in Hyderabad and Secunderabad.  Disputes arose regarding the effective date of the agreements, rate revisions, and transaction slabs.
+* **Key Issues:**
+    * Whether the Arbitrator's determination of the effective dates was correct.
+    * Whether the rate revisions by Mee Seva were illegal.
+    * Whether the transaction slabs should be increased proportionally with the increase in service centers.
+    * Whether the companies were entitled to specific reliefs claimed.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * The Arbitration and Conciliation Act, 1996, particularly Sections 17, 2(1)(c)4, 32, 33, and 34.
+    * The Code of Civil Procedure, 1908 (5 of 1908).
+* **Precedents Cited:**
+    * The Project Director, National Highways Nos.45E and 220, National Highways Authority of India vs. M.Hakeem and others
+    * Ragya Bee and others vs. P.S.R. Constructions and others
+    * Delhi Airport Metro Express Pvt. Ltd. Vs. Delhi Metro Rail Corporation Ltd.
+* **Legal Doctrines:**
+    * **Functus officio:** A principle that once an arbitrator has passed an award, they lose jurisdiction to deal with the same matter.
+    * **Deemed stay:** Under the relevant provision of the Arbitration Act, 1996, filing an application under Section 34 automatically stays the execution of the arbitral award. 
+    * **Public Policy:** The court considers whether the arbitral award conflicts with the public policy of India.
+    * **Patent Illegality:** The court examines whether there are any obvious and fundamental errors of law in the award.
+
+## 4. Arguments Presented
+
+* **Appellant’s Argument:**
+    * The Commercial Court erred in modifying the Arbitrator's award as Section 34 only allows for setting aside or remanding of the award, not modification.
+    * The Commercial Court incorrectly interpreted the Government Order regarding electricity bills, making the revision of rates prospective instead of retrospective.
+    * The reduction of interest rate from 12% to 6% was unjustified.
+* **Respondent’s Argument:**
+    * The Government Order was only applicable to new contracts, not the existing agreements with the companies.
+    * The Arbitrator's conclusion regarding electricity bills was perverse and inconsistent with other findings.
+    * The Arbitrator had no power to pass a final award after the application under Section 34 challenging the preliminary award was filed.
+    * The Arbitrator's interim order, extending the contracts beyond the stipulated period, was beyond his jurisdiction.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The court found that the Arbitrator's decision to pass a preliminary award followed by a final award is not permissible under the Arbitration and Conciliation Act, 1996.
+    * The court determined that the Commercial Court had no jurisdiction to modify the Arbitrator's award under Section 34.
+    * The court held that the final award passed by the Arbitrator was invalid as it was passed after an application under Section 34 challenging the preliminary award was filed.
+* **Interpretation of Law:**
+    * The court emphasized the limited role of the court under Section 34 of the Arbitration Act, 1996, highlighting that the court cannot modify the arbitral award.
+    * The court interpreted the Act to mean that an Arbitrator can only pass one final award and cannot split it into preliminary and final awards.
+    * The court clarified the scope of deemed stay on filing an application under Section 34.
+* **Application of Law:**
+    * The court applied the legal principles of functus officio and deemed stay to the specific facts of the case, finding that the Arbitrator had acted beyond his jurisdiction.
+    * The court applied the precedent judgments on the limited scope of Section 34 to conclude that the Commercial Court's modification of the award was incorrect.
+
+## 6. Judgment
+
+* **Final Decision:**
+    * The court allowed the appeals filed by the companies, Mee Seva, and United Telecoms Limited.
+    * The court set aside the Arbitrator's award and the Commercial Court's decision.
+* **Relief Granted:**
+    * The case was remanded back to arbitration, with a new Arbitrator (Sri Justice Vilas V. Afzulpurkar) appointed.
+* **Orders:**
+    * The parties were instructed to submit all the documents and pleadings from the previous arbitration to the new Arbitrator.
+    * The new Arbitrator was requested to conclude the proceedings expeditiously within 16 weeks.
+
+## 7. Implications
+
+* **Impact on Law:**
+    * The judgment clarifies the interpretation of Section 34 of the Arbitration Act, 1996, reiterating the limited scope of the court's intervention in arbitral awards.
+    * It emphasizes the principle of functus officio, limiting the Arbitrator's powers after passing an award.
+* **Future Relevance:**
+    * This case will be a valuable precedent for future cases involving disputes regarding arbitral awards, particularly when challenging awards on procedural grounds.
+* **Broader Context:**
+    * The judgment highlights the importance of ensuring the integrity of the arbitration process, ensuring that the Arbitrator acts within their jurisdiction and adheres to the procedural requirements.
+
+## 8. Summary Points
+
+* The Arbitrator erred by passing two awards – a preliminary and final award – which is not permitted under the Arbitration Act.
+* The Commercial Court overstepped its authority by modifying the Arbitrator's award under Section 34, which only allows for setting aside or remanding of the award.
+* The court emphasized the limited role of the court in arbitral proceedings, underscoring the need to minimize judicial interference.
+* The case was sent back to arbitration with a new Arbitrator to ensure a fair and proper resolution.
+
+## 9. References
+
+* **Citations:**
+    * The Arbitration and Conciliation Act, 1996.
+    * The Code of Civil Procedure, 1908.
+    * The Project Director, National Highways Nos.45E and 220, National Highways Authority of India vs. M.Hakeem and others (2021) 9 SCC 1
+    * Ragya Bee and others vs. P.S.R. Constructions and others (2022) 3 ALD 151 
+    * Delhi Airport Metro Express Pvt. Ltd. Vs. Delhi Metro Rail Corporation Ltd. (2022) 1 SCC 131
+* **Further Reading:**
+    * The Arbitration and Conciliation Act, 1996, as amended.
+    * Redfern and Hunter on International Arbitration.
+    * Recent Supreme Court judgments on Section 34 of the Arbitration Act. 

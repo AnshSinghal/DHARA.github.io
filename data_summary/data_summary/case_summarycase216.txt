@@ -1,0 +1,113 @@
+## 1. Case Title
+
+* **Case Name:** Odisha State Road Transport Corporation vs. ARSS Bus Terminal Pvt. Ltd.
+* **Court:** Orissa High Court 
+* **Date of Judgment:** 6th January 2023
+* **Citation:** Not provided in the text.
+
+## 2. Background and Context
+
+* **Brief Overview:**  This case arises from a dispute related to a concession agreement for the development of Baramunda Bus Terminal in Odisha. The Odisha State Road Transport Corporation (OSRTC), the petitioner, entered into a concession agreement with the ARSS Bus Terminal Pvt. Ltd. (ARSS), the respondent, in 2011. The agreement was subsequently declared void ab initio by the Orissa High Court in 2012, leading to the termination of the agreement in 2013. Following this, a series of legal proceedings took place in both the Orissa High Court and the Bombay High Court, ultimately culminating in an arbitration proceeding between OSRTC and ARSS.
+* **Key Issues:** 
+    * The validity of the interest awarded by the arbitration tribunal on the amounts deposited by ARSS, particularly in light of the Bombay High Court's restraining order.
+    * The maintainability of a writ petition challenging the order of a commercial court under Section 36(3) of the Arbitration & Conciliation Act, 1996.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * **Arbitration & Conciliation Act, 1996:** 
+        * Section 5:  States that no judicial authority shall intervene in matters governed by the Act, except as provided in the Act.
+        * Section 9: Deals with applications for interim measures in arbitration proceedings.
+        * Section 11:  Deals with the appointment of arbitrators. 
+        * Section 34:  Provides for setting aside arbitral awards.
+        * Section 36(3): Provides for the stay of operation of an award pending proceedings under Section 34.
+    * **Constitution of India:**
+        * Article 226:  Confers on High Courts the power to issue writs for the enforcement of fundamental rights.
+        * Article 227:  Empowers High Courts with the power of superintendence over all courts and tribunals within their jurisdiction.
+
+* **Precedents Cited:** 
+    * **Navayuga Engineering Company v. Bangalore Metro Rail Corporation Limited (2021 SCC OnLine SC 469):**  Concerns the role of High Courts in interfering with deposit orders in arbitration proceedings.
+    * **Bhaben Construction v. Executive Engineer Sardar Sarovar Nigam (2021 SCC OnLine SC 8):**  Deals with the scope of judicial intervention in arbitration proceedings under Article 227 of the Constitution.
+    * **Deep Industries Ltd. Vs. ONGC Ltd. & Anr. ((2020) 15 SCC 706):**  Addresses the interplay between Section 5 of the Arbitration Act and Article 227 of the Constitution.
+    * **Radhey Shyam & Anr. Vs. Chhabi Nath & Ors. (2015) 5 SCC 423:**  Discusses the scope of High Court's power of superintendence under Article 227 of the Constitution.
+    * **Shalini Shyam Shetty & Anr. Vs. Rajendra Shankar Patil ((2010) 8 SCC 329):**  Deals with the principles governing High Courts' exercise of their power under Article 227 of the Constitution.
+    * **Punjab Agro Industries Corporation Vs. Kewal Singh Dhillon (2008) 10 SCC 128:**  Concerns the maintainability of a writ petition challenging an order under Section 11 of the Arbitration Act.
+
+* **Legal Doctrines:**
+    * **Doctrine of Res Judicata:**  A legal principle preventing the relitigation of issues already decided by a competent court. 
+    * **Principles of Natural Justice:**  Basic principles of fairness and impartiality that must be followed in legal proceedings.
+
+## 4. Arguments Presented
+
+* **Petitioner’s Argument:**
+    * The arbitration tribunal erred in awarding interest on the first installment amount of Rs. 18,66,66,667/- for the period from 23.08.2010 to 05.10.2015 and on the non-refundable amount of Rs. 2,33,24,038/- for the period from 28.08.2010 to 30.10.2021.
+    * The petitioner was not liable to pay interest on the first installment amount for the period from 30.05.2013 to 05.10.2015 due to the restraining order from the Bombay High Court. 
+    * The petitioner was not liable to pay any interest on the non-refundable amount.
+    * The commercial court erred in directing the petitioner to deposit the entire awarded amount without considering the petitioner's arguments regarding interest. 
+
+* **Respondent’s Argument:**
+    * The writ petition is not maintainable against the commercial court's order under Section 36(3) of the Arbitration Act.
+    * The commercial court's order to deposit the entire award amount is consistent with the Supreme Court's decision in Navayuga Engineering Company (supra).
+    * The petitioner's arguments regarding interest are already subject to the final determination of the commercial court in the arbitration proceeding.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:** 
+    * The court finds that while the scope of judicial intervention in arbitration matters is limited, a writ petition under Article 227 of the Constitution is maintainable in exceptional cases.
+    * The court acknowledges that the petitioner was restrained from making the first installment payment due to the Bombay High Court's order. 
+    * The court finds that the commercial court did not adequately consider the petitioner's arguments regarding interest awarded by the arbitration tribunal. 
+
+* **Interpretation of Law:**
+    * The court interprets Section 5 of the Arbitration Act as providing for limited judicial intervention, but not an absolute bar.
+    * The court emphasizes the discretionary nature of the High Court's power under Article 227 and its application in exceptional circumstances.
+
+* **Application of Law:** 
+    * The court applies the principles laid down in the precedents cited, particularly Bhaben Construction (supra), Deep Industries (supra), and Punjab Agro Industries (supra) to determine the maintainability of the writ petition.
+    * The court finds that the commercial court's direction to deposit the entire award amount was not just and proper, given the petitioner's previous deposit of the first installment amount.
+
+## 6. Judgment
+
+* **Final Decision:** 
+    * The court upholds the maintainability of the writ petition.
+    * The court intervenes with the commercial court's order and allows the petitioner to deposit only 60% of the awarded amount within one month.
+
+* **Relief Granted:**
+    * The court grants partial relief to the petitioner by reducing the deposit requirement.
+
+* **Orders:**
+    * The petitioner is directed to deposit 60% of the awarded amount within one month.
+    * The commercial court is free to decide the issue of interest on its own merit, without being bound by the court's observations. 
+
+## 7. Implications
+
+* **Impact on Law:** 
+    * The judgment reaffirms the limited scope of judicial intervention in arbitration matters but clarifies the exceptional circumstances where the High Court can intervene under Article 227.
+    * The judgment provides guidance on the application of the principles of natural justice in the context of arbitration proceedings.
+
+* **Future Relevance:**
+    * The judgment could be cited in future cases where parties challenge commercial court orders in arbitration proceedings under Article 227. 
+
+* **Broader Context:** 
+    * The judgment highlights the importance of balancing the need for efficient arbitration proceedings with the principles of fairness and judicial review.
+
+## 8. Summary Points
+
+* The Orissa High Court upheld the maintainability of a writ petition challenging a commercial court order in an arbitration proceeding.
+* The court intervened with the order requiring the petitioner to deposit the entire awarded amount, allowing the petitioner to deposit 60% instead. 
+* The court acknowledged the importance of the Bombay High Court's restraining order on the petitioner's payment and found that the commercial court did not adequately consider the petitioner's arguments regarding interest. 
+
+## 9. References
+
+* **Citations:** 
+    * **Arbitration & Conciliation Act, 1996:** Sections 5, 9, 11, 34, 36(3)
+    * **Constitution of India:** Articles 226, 227
+    * **Navayuga Engineering Company v. Bangalore Metro Rail Corporation Limited (2021 SCC OnLine SC 469)**
+    * **Bhaben Construction v. Executive Engineer Sardar Sarovar Nigam (2021 SCC OnLine SC 8)**
+    * **Deep Industries Ltd. Vs. ONGC Ltd. & Anr. ((2020) 15 SCC 706)**
+    * **Radhey Shyam & Anr. Vs. Chhabi Nath & Ors. (2015) 5 SCC 423)**
+    * **Shalini Shyam Shetty & Anr. Vs. Rajendra Shankar Patil ((2010) 8 SCC 329)**
+    * **Punjab Agro Industries Corporation Vs. Kewal Singh Dhillon (2008) 10 SCC 128)**
+
+* **Further Reading:**
+    * Other judgments related to the scope of judicial intervention in arbitration proceedings, particularly under Articles 226 and 227 of the Constitution of India. 
+    * Legal commentaries and articles on the Arbitration & Conciliation Act, 1996. 

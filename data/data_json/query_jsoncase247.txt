@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A contractor is claiming compensation for extra work involving controlled blasting, which was deemed necessary due to geographical factors and the presence of structures near the construction site. The employer argues that the contractor should have factored in these factors during the initial tendering process and should not be entitled to extra compensation. Determine the contractor's entitlement to additional payment.",
+    "Legal Principles": "Contractual Interpretation, Tendering Process, Unforeseen Circumstances, Extra Work, Quantum Meruit",
+    "Relevant Sections": "Clause 2.16 of the second volume of the agreement which provides for execution of hard rock chiseling/control blasting.",
+    "Context": "This case involves a dispute between a contractor and an employer regarding extra compensation for unforeseen work involving controlled blasting. The case specifically focuses on whether the contractor was obligated to factor in these unforeseen circumstances during the tendering process."
+  },
+  {
+    "Query": "A contractor claims interest on a bank guarantee provided to the employer during the execution of a construction project. The employer asserts that the agreement stipulated no interest payment on the bank guarantee. Analyze whether the contractor is entitled to interest on the bank guarantee.",
+    "Legal Principles": "Contractual Interpretation, Interest on Bank Guarantee, Contractual Stipulations, Arbitral Award",
+    "Relevant Sections": "Clause 10.3 of the special terms and conditions of the contract stating that the bank guarantee was to remain with the Employer and be released only after completion of the work and settlement of the account.",
+    "Context": "This case involves a contractor's claim for interest on a bank guarantee provided as part of a construction contract. The dispute centers around the interpretation of the contract regarding interest payments on the guarantee."
+  },
+  {
+    "Query": "A contractor argues that a previous arbitration award does not preclude their current claim for revised rates for work executed beyond the original scheduled period. The employer argues that the previous award already considered and resolved the issue of revised rates for delayed work. Determine whether the principle of res judicata applies to the contractor's current claim.",
+    "Legal Principles": "Res Judicata, Arbitration Award, Finality of Decisions, Contractual Interpretation",
+    "Relevant Sections": "The previous arbitration award addressed revised rates for work executed after 20.1.1993 and for quantities which were less than 70% of the tender quantity.",
+    "Context": "This case involves a contractor's claim for revised rates for work delayed beyond the original schedule. The employer argues that the principle of res judicata bars the claim due to a previous arbitration award that addressed revised rates for delayed work."
+  },
+  {
+    "Query": "A contractor claims compensation for extra quarrying and transport charges for stones and metals used in the construction project, arguing that the required materials were not available at the designated quarries. The employer maintains that the contract obliged the contractor to procure materials at their own expense, even if it meant making alternative arrangements. Analyze the contractor's entitlement to compensation for extra quarrying and transport costs.",
+    "Legal Principles": "Contractual Interpretation, Extra Costs, Procurement Obligations, Duty of Care, Contractor's Responsibility",
+    "Relevant Sections": "Clause 20 of G.C.C. and Clause 5.6 of the special terms and conditions of the contract stipulating that the contractor was responsible for procuring materials at their own expense and making arrangements for transportation, including constructing roads.",
+    "Context": "This case involves a contractor's claim for compensation for extra costs incurred in quarrying and transporting construction materials. The employer argues that the contractor was contractually obligated to procure materials at their own expense, even if it meant making alternative arrangements."
+  },
+  {
+    "Query": "A contractor seeks compensation for idle machinery and labor charges due to work stoppages. The employer argues that the contractor failed to provide sufficient evidence to support the claim of idle machinery and labor. Determine whether the contractor's claim for compensation for idle resources is valid.",
+    "Legal Principles": "Burden of Proof, Contractual Interpretation, Idle Resources, Compensation Claims",
+    "Relevant Sections": "The contractor's claim for compensation for idle machinery and idle labor charges due to stoppage of work for the same period was rejected as the Contractor failed to prove that at any time, his labor and machinery remained idle.",
+    "Context": "This case involves a contractor's claim for compensation for idle machinery and labor charges due to work stoppages. The dispute revolves around the contractor's ability to prove the validity of their claim for compensation for unused resources."
+  },
+  {
+    "Query": "A contractor seeks compensation for delay caused by the employer's actions, claiming that the delay resulted in increased costs due to price indices. The employer argues that the contractor had already been compensated for delays through revised rates in a previous arbitration award. Analyze whether the contractor's claim for additional compensation for delay is valid.",
+    "Legal Principles": "Contractual Interpretation, Delay Compensation, Price Indices, Res Judicata",
+    "Relevant Sections": "The Board of Arbitrators had already given revised rates to the Contractor by presuming that delay was caused to the employer, but the learned Arbitrator has again given compensation under this head.",
+    "Context": "This case involves a contractor's claim for compensation for delay caused by the employer, arguing that the delay led to increased costs. The employer contends that the contractor was already compensated for delays through revised rates in a previous arbitration award."
+  },
+  {
+    "Query": "A contractor claims compensation for rehandling charges for casing material used in a reservoir embankment. The employer argues that the contract did not provide for such rehandling charges. Determine whether the contractor is entitled to compensation for rehandling charges.",
+    "Legal Principles": "Contractual Interpretation, Rehandling Charges, Contractor's Responsibility",
+    "Relevant Sections": "The contractor's claim for payment of rehandling charges for casing material of k.m. 90 spoils used for embankment of entire reservoir was rejected on the basis of the material available and terms and conditions of the contract.",
+    "Context": "This case involves a contractor's claim for compensation for rehandling charges for construction materials. The dispute centers around whether the contract provided for such rehandling charges and whether the contractor is entitled to additional payment."
+  },
+  {
+    "Query": "A contractor claims that the employer's refusal to approve a specific type of blasting technique led to additional costs. The employer maintains that the contract clearly stipulated the approved blasting methods and the contractor should have used an alternative technique. Determine whether the employer's refusal to approve the contractor's preferred blasting method justifies the contractor's claim for additional compensation.",
+    "Legal Principles": "Contractual Interpretation, Blasting Techniques, Employer Approval, Contractor's Responsibility",
+    "Relevant Sections": "Clause 2.16.2 of the second volume of the agreement stating that when control blasting was not permissible in the zone of 100 meters directly below transmission lines, the Contractor ought to have resorted to pneumatic rock breakers or chiseling.",
+    "Context": "This case involves a contractor's claim for additional compensation due to the employer's refusal to approve a specific blasting technique. The dispute revolves around whether the employer's decision was justified and whether the contractor is entitled to compensation for the resulting costs."
+  },
+  {
+    "Query": "A contractor claims that the employer's failure to provide adequate information about available quarry sites resulted in the contractor having to transport materials from a distant location at their own expense. The employer argues that the contract clearly outlined the available quarry sites and the contractor was responsible for procuring materials from those locations. Analyze whether the contractor's claim for extra transportation costs is valid.",
+    "Legal Principles": "Contractual Interpretation, Quarry Sites, Material Procurement, Contractor's Responsibility, Employer's Duty of Disclosure",
+    "Relevant Sections": "Clause 20 of G.C.C. and Clause 5.6 of the special terms and conditions of the contract stating that the contractor was responsible for procuring materials at their own expense and making arrangements for transportation, including constructing roads.",
+    "Context": "This case involves a contractor's claim for extra transportation costs due to the employer's alleged failure to provide adequate information about available quarry sites. The dispute centers around the interpretation of the contract and whether the employer had a duty to disclose information about quarry site availability."
+  },
+  {
+    "Query": "A contractor claims that the employer's delay in making payments on invoices led to additional interest costs. The employer argues that the contract did not explicitly provide for interest payments on delayed invoices. Determine whether the contractor is entitled to interest on delayed invoice payments.",
+    "Legal Principles": "Contractual Interpretation, Interest on Delayed Payments, Late Payment Penalties, Default Interest",
+    "Relevant Sections": "The contract does not specifically mention any provision for interest payments on delayed invoices.",
+    "Context": "This case involves a contractor's claim for interest on delayed invoice payments. The dispute centers around whether the contract included provisions for interest on late payments and whether the contractor is entitled to such interest."
+  }
+]
+```

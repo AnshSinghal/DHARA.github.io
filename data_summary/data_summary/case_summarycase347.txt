@@ -1,0 +1,82 @@
+## 1. Case Title
+
+* **Case Name:** Anil Kumar Tripathi Thr. Its Proprietor vs Doorsanchar Nigam Ltd. (BSNL)
+* **Court:** Madhya Pradesh High Court, Bench at Gwalior
+* **Date of Judgment:** 8th April 2022
+* **Citation:** W.P.No.4895/2022
+
+## 2. Background and Context
+
+* **Brief Overview:** The case involved a dispute between Anil Kumar Tripathi, a proprietor firm engaged in construction business as a contractor (petitioner), and Bharat Sanchar Nigam Limited (BSNL) (respondent), a telecommunication service provider. The dispute arose from a contract awarded by BSNL to the petitioner for laying Optical Fiber Cable (OFC), which the petitioner failed to complete within the stipulated time. This led to the cancellation of the contract and the petitioner being placed on a blacklist. The matter was subsequently referred to arbitration. 
+
+* **Key Issues:** 
+    * Whether the Commercial Court could remand the matter back to the Arbitral Tribunal for a fresh decision under Section 34(4) of the Arbitration and Conciliation Act, 1996.
+    * Whether the Commercial Court's decision to call for original records from the Arbitral Tribunal constituted a remand in this case.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * Article 226 of the Constitution of India (Writ Jurisdiction)
+    * Article 12 of the Constitution of India (Definition of State)
+    * The Arbitration and Conciliation Act, 1996 (Sections 34, 34(4), 37)
+* **Precedents Cited:**
+    * Kinnari Mullick & Another vs. Ghanshyam Das Damani, 2018 (11) SCC 328
+    * McDermott International Inc. Vs. Burn Standard Co. Ltd and Others, 2006 (11) SCC 181
+    * I-Pay Clearing Services Private Limited vs. ICICI Bank Limited, 2022 (3) SCC 121
+* **Legal Doctrines:**
+    * Jurisdiction of Courts in Arbitration Matters
+    * Interpretation of Statutory Provisions
+    * Remand in Arbitration Proceedings
+    * Public Policy
+
+## 4. Arguments Presented
+
+* **Plaintiff’s Argument (Petitioner):**
+    * The Commercial Court's order to call for the original record of the Arbitral Tribunal effectively constituted a remand of the matter back to the Arbitral Tribunal, which is not permissible under Section 34(4) of the Act.
+    * The Court below erred by calling for the record as it amounts to remanding the matter back to the Arbitral Tribunal, contrary to the Supreme Court's judgment in I-Pay Clearing Services Private Limited vs. ICICI Bank Limited. 
+* **Defendant’s Argument (Respondent):**
+    * The Commercial Court had only called for the original record and was not passing a remand order, therefore, there was no ground for interference.
+    * The Court below would consider the rival submissions after receiving the record from the Arbitral Tribunal.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The Court found that the Commercial Court was trying to decide the application under Section 34 of the Act on its merits and had not actually remanded the matter back to the Arbitral Tribunal.
+    * The Court recognized that the Supreme Court in I-Pay Clearing Services Private Limited vs. ICICI Bank Limited had provided guidance on the concept of remand in arbitration proceedings under Section 34(4) of the Act. 
+* **Interpretation of Law:**
+    * The Court interpreted Section 34(4) of the Act as allowing the Court to seek relevant records from the Arbitral Tribunal in order to arrive at a final decision on the application under Section 34 of the Act.
+    * The Court distinguished the case from those involving a direct remand to the Arbitral Tribunal, finding that the Court below was simply seeking the original record to ensure a fair and informed decision. 
+* **Application of Law:**
+    * The Court held that the Commercial Court's action of calling for the record was not a remand as defined under Section 34(4) of the Act.
+    * The Court emphasized the Commercial Court's intent to decide the application under Section 34 of the Act finally, concluding that the petitioner's argument regarding a remand was misplaced. 
+
+## 6. Judgment
+
+* **Final Decision:** The petition was dismissed.
+* **Relief Granted:** No relief was granted to the petitioner.
+* **Orders:** The High Court dismissed the petition and upheld the Commercial Court's order to call for the original record.
+
+## 7. Implications
+
+* **Impact on Law:** The judgment reaffirms the Court's discretion to seek relevant records from the Arbitral Tribunal while deciding applications under Section 34 of the Act. It clarifies that the mere seeking of records does not amount to a remand under Section 34(4).
+* **Future Relevance:** The judgment provides a useful precedent for future cases involving similar scenarios, where Courts may need to call for original records from Arbitral Tribunals.
+* **Broader Context:** The case highlights the importance of clear communication and understanding of procedural nuances in arbitration proceedings to prevent unnecessary delays and challenges.
+
+## 8. Summary Points
+
+* The petitioner, a contractor, challenged the Commercial Court's order to call for the original record from the Arbitral Tribunal, arguing that this amounted to an improper remand.
+* The High Court, citing the Supreme Court's guidance in I-Pay Clearing Services Private Limited vs. ICICI Bank Limited, clarified that the Commercial Court's action was not a remand as defined under Section 34(4) of the Act. 
+* The Court upheld the Commercial Court's order, emphasizing the Court's ability to seek necessary records to make an informed decision on the application under Section 34 of the Act.
+
+## 9. References
+
+* **Citations:**
+    * Article 226 of the Constitution of India
+    * Article 12 of the Constitution of India
+    * The Arbitration and Conciliation Act, 1996 (Sections 34, 34(4), 37)
+    * Kinnari Mullick & Another vs. Ghanshyam Das Damani, 2018 (11) SCC 328
+    * McDermott International Inc. Vs. Burn Standard Co. Ltd and Others, 2006 (11) SCC 181
+    * I-Pay Clearing Services Private Limited vs. ICICI Bank Limited, 2022 (3) SCC 121
+* **Further Reading:**
+    * Other cases related to the interpretation of Section 34(4) of the Arbitration and Conciliation Act, 1996.
+    * Articles and commentaries on the powers of Courts in arbitration proceedings. 

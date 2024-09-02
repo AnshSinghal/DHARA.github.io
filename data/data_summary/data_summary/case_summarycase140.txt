@@ -1,0 +1,103 @@
+## 1. Case Title
+
+* **Case Name:** Delhi Tourism & Transportation Development Corporation vs. M/s Swadeshi Civil Infrastructure Pvt. Ltd.
+* **Court:** Delhi District Court (Commercial Court­01), South­east, Saket Courts, New Delhi
+* **Date of Judgment:** 15 October 2020
+* **Citation:** OMP (Comm) No. 131/19
+
+## 2. Background and Context
+
+* **Brief Overview:** The case arose from a dispute between the Delhi Tourism & Transportation Development Corporation (DTTDC), a government undertaking, and M/s Swadeshi Civil Infrastructure Pvt. Ltd. (Swadeshi), a contractor. Swadeshi was awarded a contract in 2011 for the development of Dilli Hat at Janakpuri, New Delhi.  The project was completed in 2014, and DTTDC made the final payment in 2016. However, Swadeshi subsequently raised additional claims, leading to an arbitration process.
+* **Key Issues:** The primary issue was the validity and jurisdiction of DTTDC's counterclaims filed in the arbitration proceedings.  The specific legal questions revolved around whether counterclaims could be filed after the framing of issues and whether the Arbitrator had jurisdiction to entertain these counterclaims without a specific reference from the Appointing Authority.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * Arbitration and Conciliation Act, 1996 (hereinafter referred to as 'Arbitration Act')
+        * Section 34: Petition to set aside an Arbitral Award
+        * Section 11: Appointment of Arbitrator
+        * Section 14: Termination of Arbitrator's Mandate
+        * Section 16: Interim Measures
+        * Section 18: Procedural Orders
+        * Section 19: Applicability of CPC
+        * Section 23: Statement of Claim and Defense
+        * Section 23 (2A): Counterclaim and Setoff
+        * Section 29(A): Time Limit for Award
+    * Code of Civil Procedure, 1908 (CPC)
+        * Order 8 Rule 6A: Counterclaim in Suits
+* **Precedents Cited:**
+    * State of Goa vs. M/s Praveen Enterprises, Civil Appeal No. 4987/2011 (Supreme Court)
+    * Oil and Natural Gas Corporation Ltd. vs. SAW Pipes Ltd., 2003 (5) SCC 705 (Supreme Court)
+    * Associated Engg. Co. V. Govt. of A.P., 1991 (4) SCC 93 (Supreme Court)
+    * P. Radhakrishna Murthy vs M/S. N.B.C.C. Ltd., 2013(3) SCC 747 (Supreme Court)
+    * M/s. Fuerst Day Lawson Ltd. Vs. Jindal Exports Ltd., 2011 (8) SCC 333 (Supreme Court)
+    * Ashok Kumar Kalra vs. Wing Commander Surender Agnihotri, 2020 (2) SCC 394 (Supreme Court)
+    * Mahanagar Telephone Nigam Limited vs. Applied Electronics, (2017) 2 SCC37 (Supreme Court)
+    * Parvathamma vs. K.R. Lokanath & Ors., AIR 1991 Karnataka 283 (Karnataka High Court)
+    * BSNL v. Rivacom Pvt. Ltd., 2017 SCC OnLine Del 11860 (Delhi High Court)
+    * Western Coalfields Limited, Nagpur v. M/s Narbada Constructions, Jabalpur, (1999) 1 MP LJ 55 (Madhya Pradesh High Court)
+    * K.V. George v. Secy. to Govt., Water and Power Deptt., (1989) 4 SCC 595 (Supreme Court)
+    * BPCL v. Go Airlines, 2019 (10) SCC 250 (Supreme Court)
+    * Gokul Projects v. Cyclone Energy Pvt. Ltd., 2018 SCC Online Del 11814 (Delhi High Court)
+    * AKM Enterprises Pvt. Ltd. v. Ahluwalia Contract (India) Ltd., 2019 SCC Online Del 7614 (Delhi High Court)
+    * Ssangyong Engg. & Construction Co. Ltd. v. NHAI, (2019) 15 SCC 131 (Supreme Court)
+* **Legal Doctrines:**
+    * **Public Policy:** The principle that an arbitral award can be set aside if it is against fundamental policy of Indian law, the interests of India, justice, or morality.
+    * **Natural Justice:** The principles of fair hearing and impartiality in judicial proceedings.
+    * **Patent Illegality:** An error of law that goes to the root of the matter and renders the award invalid.
+    * **Jurisdiction:** The power of a court or tribunal to hear and determine a case.
+
+## 4. Arguments Presented
+
+* **Plaintiff’s Argument (DTTDC):**
+    *  The counterclaim filed by Swadeshi was belated and without justification.
+    *  The counterclaim was beyond the scope of the original reference to arbitration as stipulated by Clause 25 of the General Conditions of Contract (GCC).
+    *  The appointment of the Arbitrator by the High Court under Section 14(2) of the Arbitration Act did not expand the scope of reference.
+    *  Swadeshi had the opportunity to raise counterclaims in the High Court petition but failed to do so.
+    *  The counterclaim was submitted without following the procedure outlined in Clause 25 of the GCC, which required a specific reference by the Appointing Authority.
+* **Defendant’s Argument (Swadeshi):**
+    *  The counterclaims were filed within the time limit and were not barred by limitation.
+    *  The counterclaims were within the scope of the arbitration agreement as they related to the subject matter of the dispute.
+    *  The High Court's appointment of the Arbitrator under Section 11 of the Arbitration Act, coupled with the absence of specific reference to the disputes, implied a general reference to all disputes between the parties.
+    *  The Arbitrator had the jurisdiction to entertain counterclaims based on the Supreme Court's judgment in the State of Goa vs. M/s Praveen Enterprises case.
+    *  The Arbitrator's decision to dismiss the counterclaims was arbitrary and against the principles of natural justice.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The court acknowledged that Clause 25 of the GCC specifically required disputes to be referred to the Arbitrator by the Appointing Authority.
+    * The court found that the High Court's order appointing the Arbitrator under Section 14(2) did not expand the scope of reference beyond the disputes that were originally referred to the initial Arbitrator, Mr. O.P. Bhatia.
+    * The court recognized that the parties had the option of raising counterclaims in the High Court petition but did not do so.
+    * The court considered the Supreme Court's judgment in the State of Goa vs. M/s Praveen Enterprises case, concluding that it was applicable when the arbitration agreement contained specific references to the disputes.
+    * The court agreed with the Arbitrator's decision to dismiss the counterclaims due to their belated filing and lack of specific reference by the Appointing Authority.
+* **Interpretation of Law:**
+    * The court interpreted the relevant provisions of the Arbitration Act, specifically Section 11, 14, and 23(2A), in conjunction with the specific terms of the GCC.
+    * The court analyzed the precedents cited by both parties, applying their rationale to the present case.
+* **Application of Law:**
+    * The court applied the principle of jurisdiction, finding that the Arbitrator's authority was limited by the specific reference of the original disputes.
+    * The court considered the principle of natural justice, concluding that the Arbitrator had acted fairly and impartially in dismissing the counterclaims.
+    * The court applied the principle of public policy, determining that the Arbitrator's decision was not against any fundamental policy of Indian law.
+
+## 6. Judgment
+
+* **Final Decision:** The court dismissed the petition filed by DTTDC to set aside the Arbitrator's award.
+* **Relief Granted:** No relief was granted to the petitioner.
+* **Orders:** The court directed DTTDC to bear the costs of the proceedings.
+
+## 7. Implications
+
+* **Impact on Law:** This case reiterates the importance of specific references in arbitration agreements and the limits on the Arbitrator's jurisdiction to entertain new claims or counterclaims without explicit authority from the Appointing Authority.
+* **Future Relevance:** This judgment will serve as a precedent for future cases involving counterclaims in arbitration proceedings, particularly when the arbitration agreement mandates specific references for disputes.
+* **Broader Context:** This case highlights the need for clarity and adherence to contractual provisions in arbitration agreements, ensuring a more efficient and predictable dispute resolution process.
+
+## 8. Summary Points
+
+* DTTDC's counterclaims were dismissed due to their belated filing and lack of specific reference by the Appointing Authority.
+* The court upheld the Arbitrator's decision, emphasizing the importance of specific references in arbitration agreements.
+* The court applied principles of jurisdiction, natural justice, and public policy in its analysis.
+* The case underscores the need for clear contractual provisions and adherence to agreed-upon procedures in arbitration proceedings.
+
+## 9. References
+
+* **Citations:** All cited statutes, cases, and legal texts are mentioned in the respective sections above.
+* **Further Reading:** For a deeper understanding of arbitration law in India, consult the Arbitration and Conciliation Act, 1996 and relevant case law. Additional resources include legal publications and commentaries on arbitration and contract law. 

@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A landlord filed a suit for eviction against a tenant who was running a printing business from the leased property. The tenant argued that the dispute was not a commercial dispute and therefore, the suit should not be transferred to the Commercial Court. The landlord, however, argued that the dispute was commercial in nature due to the printing business being operated on the leased premises.  I need to decide whether the dispute is commercial and whether the transfer to the Commercial Court was justified.",
+    "Legal Principles": "The definition of 'commercial dispute' under Section 2(1)(c)(vii) of the Commercial Courts Act, 2015, which includes disputes arising out of agreements relating to immovable properties used exclusively in trade or commerce.",
+    "Relevant Sections": "Section 2(1)(c)(vii) of the Commercial Courts Act, 2015",
+    "Context": "Landlord-tenant dispute, commercial dispute, transfer of suit to Commercial Court."
+  },
+  {
+    "Query": "A company filed a suit against another company for breach of contract. The defendant argued that the suit should be rejected because the plaintiff had not exhausted the pre-institution mediation process as required under Section 12-A of the Commercial Courts Act, 2015. The plaintiff argued that the suit was filed before the judgment in Patil Automation Private Limited & Others v Rakheja Engineers Private Limited, which declared Section 12-A mandatory.  I need to determine if the pre-institution mediation requirement applies to this case and whether the suit should be rejected.",
+    "Legal Principles": "The mandatory nature of pre-institution mediation under Section 12-A of the Commercial Courts Act, 2015, as declared in the case of Patil Automation Private Limited & Others v Rakheja Engineers Private Limited (2022 SCC ONLINE SC 1028), and its prospective application.",
+    "Relevant Sections": "Section 12-A of the Commercial Courts Act, 2015",
+    "Context": "Breach of contract, pre-institution mediation, mandatory provisions, prospective application of judicial pronouncements."
+  },
+  {
+    "Query": "A partnership firm filed a suit for recovery of money against its former partner. The defendant argued that the suit should be dismissed for lack of cause of action, claiming that the partnership had dissolved and there was no valid agreement to enforce. The plaintiff argued that there was a valid partnership agreement and they were entitled to recover their share of the profits.  I need to determine if the plaintiff has a valid cause of action and if the suit should be dismissed.",
+    "Legal Principles": "The elements of a cause of action, including the existence of a valid legal right, a breach of that right, and a resulting injury, the definition of partnership and its dissolution, and the remedies available for breach of partnership agreement.",
+    "Relevant Sections": "The Indian Partnership Act, 1932",
+    "Context": "Partnership dispute, cause of action, dissolution of partnership, recovery of money."
+  },
+  {
+    "Query": "A company filed a suit for infringement of its trademark against another company. The defendant argued that the plaintiff's trademark was not valid and that their use of the mark did not constitute infringement. The plaintiff argued that their trademark was registered and valid, and the defendant's use of the mark was infringing.  I need to determine if the plaintiff's trademark is valid, if the defendant's use of the mark constitutes infringement, and what remedies are available to the plaintiff.",
+    "Legal Principles": "The legal requirements for trademark registration and validity, the elements of trademark infringement, and the available remedies for trademark infringement.",
+    "Relevant Sections": "The Trade Marks Act, 1999",
+    "Context": "Trademark infringement, trademark validity, remedies for infringement."
+  },
+  {
+    "Query": "A buyer filed a suit against a seller for breach of contract, alleging that the goods delivered were defective. The seller argued that the buyer had not complied with the terms of the contract regarding the inspection and acceptance of the goods. The buyer argued that the defects were not apparent upon inspection and that the seller should be held liable.  I need to determine if the buyer is entitled to remedies for breach of contract and if the seller's defense is valid.",
+    "Legal Principles": "The elements of breach of contract, the implied warranties in a contract of sale, the buyer's duty to inspect and accept the goods, and the remedies available for breach of contract.",
+    "Relevant Sections": "The Sale of Goods Act, 1930",
+    "Context": "Breach of contract, defective goods, inspection and acceptance, remedies for breach of contract."
+  },
+  {
+    "Query": "A company filed a suit against its former employee for breach of confidentiality agreement. The employee argued that the agreement was not enforceable because it was not properly executed and that the information he disclosed was not confidential. The company argued that the agreement was valid and that the employee had breached it by disclosing confidential information.  I need to determine if the confidentiality agreement is enforceable and if the employee's actions constituted a breach.",
+    "Legal Principles": "The legal requirements for the validity and enforceability of confidentiality agreements, the definition of confidential information, and the remedies available for breach of confidentiality agreements.",
+    "Relevant Sections": "The Indian Contract Act, 1872",
+    "Context": "Breach of confidentiality agreement, enforceability of contract, confidential information, remedies for breach."
+  },
+  {
+    "Query": "A bank filed a suit against a borrower for recovery of loan amount. The borrower argued that the loan agreement was void due to misrepresentation by the bank and that they were not liable to repay the loan. The bank argued that the loan agreement was valid and that the borrower was liable to repay the loan.  I need to determine if the loan agreement is valid, if the bank's actions constitute misrepresentation, and if the borrower is liable to repay the loan.",
+    "Legal Principles": "The elements of a valid loan agreement, the elements of misrepresentation, the consequences of a void contract, and the remedies available for recovery of loan amount.",
+    "Relevant Sections": "The Indian Contract Act, 1872",
+    "Context": "Loan agreement, misrepresentation, void contract, recovery of loan amount."
+  },
+  {
+    "Query": "A company filed a suit against its competitor for passing off. The defendant argued that their product and branding were not similar enough to the plaintiff's to constitute passing off. The plaintiff argued that the defendant's product and branding were confusingly similar to theirs and were likely to deceive consumers.  I need to determine if the defendant's actions constitute passing off and what remedies are available to the plaintiff.",
+    "Legal Principles": "The elements of passing off, including goodwill, misrepresentation, and damage, and the remedies available for passing off.",
+    "Relevant Sections": "The Trade Marks Act, 1999",
+    "Context": "Passing off, goodwill, misrepresentation, remedies for passing off."
+  },
+  {
+    "Query": "A tenant filed a suit against the landlord for breach of the lease agreement, alleging that the landlord had failed to provide essential services as promised in the lease. The landlord argued that the tenant had breached the lease agreement by failing to pay rent on time and that they were therefore not obligated to provide the services.  I need to determine if the landlord is liable for breach of lease agreement and if the tenant's actions constitute a breach.",
+    "Legal Principles": "The terms of a lease agreement, the landlord's obligations under a lease, the tenant's obligations under a lease, and the remedies available for breach of lease agreement.",
+    "Relevant Sections": "The Transfer of Property Act, 1882",
+    "Context": "Breach of lease agreement, landlord's obligations, tenant's obligations, remedies for breach."
+  },
+  {
+    "Query": "A shareholder filed a suit against the company and its directors alleging that the company's directors had breached their fiduciary duties by engaging in a transaction that was detrimental to the company's interests. The directors argued that they had acted in good faith and in the best interests of the company.  I need to determine if the directors breached their fiduciary duties and what remedies are available to the shareholder.",
+    "Legal Principles": "The fiduciary duties of directors, including the duty of loyalty, the duty of care, and the duty of good faith, the elements of a breach of fiduciary duty, and the remedies available for breach of fiduciary duty.",
+    "Relevant Sections": "The Companies Act, 2013",
+    "Context": "Breach of fiduciary duty, directors' duties, shareholder's rights, remedies for breach."
+  }
+]
+```

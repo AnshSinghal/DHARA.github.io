@@ -1,0 +1,109 @@
+## 1. Case Title
+
+* **Case Name:** Hindustan Zinc Ltd vs. Glencore International A.G. (GIAG)
+* **Court:** Rajasthan High Court - Jodhpur
+* **Date of Judgment:** 23rd March 2020
+* **Citation:** D.B. Civil Special Appeal (Arbitration) No. 3/2019 & 2/2019
+
+## 2. Background and Context
+
+* **Brief Overview:** This case involves two special appeals filed by Hindustan Zinc Limited (HZL) challenging the Single Judge's order that dismissed their applications under Section 34 of the Arbitration and Conciliation Act, 1996 (Act of 1996). HZL sought to challenge arbitral awards passed against them by an arbitral tribunal appointed by the London Court of International Arbitration (LCIA). The parties had entered into an agreement stipulating the contract and arbitration clause to be governed by English law, with the arbitration venue in London, United Kingdom, under LCIA rules. 
+* **Key Issues:**
+    * Maintainability of the appeals under Section 37 of the Act of 1996.
+    * Whether the "seat" of arbitration was in London, United Kingdom, leading to the exclusion of Part I of the Act of 1996.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * Section 34 of the Arbitration and Conciliation Act, 1996 (Act of 1996) - Challenge to Arbitral Awards.
+    * Section 37 of the Act of 1996 - Appealable Orders.
+    * Section 2(2) of the Act of 1996 - Applicability of Part I to arbitration in India.
+    * Section 4(2) and 4(3) of the English Arbitration Act, 1996 - Institutional Rules and non-mandatory provisions.
+    * Section 81 of the English Arbitration Act, 1996 - Public Policy.
+    * Section 13 of the Commercial Courts Act, 2015 - Forum for challenge and right of appeal.
+    * Order 7 Rule 10 of the Code of Civil Procedure (CPC) - Dismissal for lack of jurisdiction.
+* **Precedents Cited:**
+    * BGS SGS Soma JV Vs. NHPC Ltd. (2019 SCC Online SC 1585)
+    * Kandla Export Corporation & Anr. Vs. OCI Corporation & Anr. (2018) 14 SCC 715
+    * South Delhi Municipal Corporation Vs. Tech Mahindra (2019 SCC OnLine Del 11863)
+    * Harmanprit Singh Sidhu Vs. Arcadia Shares & Stock Brokers Pvt. Ltd. (2016 SCC OnLine Del 5383)
+    * Bhatia International Vs. Bulk Trading S.A. & Ors. (AIR 2002 SC 1432)
+    * Bharat Aluminium Company Vs. Kaiser Aluminium Technical Services Inc. (2012) 9 SCC 552
+    * Venture Global Engineering Vs. Satyam Computer Services Ltd. & Ors. (AIR 2008 SC 1061)
+    * Roger Shashoua & Ors. Vs. Mukesh Sharma & Ors. (2017) 14 SCC 722
+    * Union of India Vs. Reliance Industries Limited & Ors (2015) 10 SCC 213
+    * R.K. Industries Vs. Maximus International General Trading & Anr. (2019(1) RLW 347 (Raj.))
+    * Eitzen Bulk A/s Vs. Ashapura Minechem Limited & Anr. (2016) 11 SCC 508
+    * Union of India Vs. Hardy Exploration and Production (India) INC (Civil Appeal No.4628 of 2018 decided on 25.09.2018)
+    * Vijay Karia & Ors. Vs. Prysmian Cavi E Sistemi SRL & Ors. (Civil Appeal No.1544 of 2020 decided on 13.02.2020)
+* **Legal Doctrines:**
+    * Forum Selection
+    * Seat of Arbitration
+    * Exclusion of Part I of the Act of 1996
+    * Maintainability of Appeals
+    * Harmonious Construction of Statutes
+    * Res Judicata
+    * Public Policy
+    * Estoppel
+
+## 4. Arguments Presented
+
+* **Appellant’s Argument (HZL):** 
+    * The agreement did not expressly exclude Part I of the Act of 1996, and therefore, Part I should apply.
+    * The  "seat" of arbitration was not specifically London, and therefore, the Indian Courts had jurisdiction under Part I.
+    * HZL was rendered remediless due to LCIA Rules barring any appeal, and thus, their case should be heard on merit.
+    * The BGS SGS Soma JV judgment was not applicable as it dealt with a domestic arbitration and a different legal issue.
+    * The Bhatia International judgment was relevant, and it clarified that Part I of the Act of 1996 applied unless expressly excluded by the parties.
+    * The English Arbitration Act, 1996 made most provisions non-mandatory, allowing the parties to deviate from its provisions.
+    * The LCIA waiver against appeal or review was prohibited under public policy in light of Section 81 of the English Arbitration Act.
+* **Respondent’s Argument (Glencore International A.G.):** 
+    * The appeals were not maintainable as they did not fall within the scope of appealable orders under Section 37 of the Act of 1996.
+    * The seat of arbitration was clearly London, United Kingdom, as stated in the arbitration agreement, leading to the exclusion of Part I of the Act of 1996.
+    * The BGS SGS Soma JV judgment affirmed the settled principle that the appeals were not maintainable. 
+    * The Kandla Export Corporation judgment highlighted the limited scope of appealable orders under Section 37 and the Commercial Courts Act.
+    * HZL had expressly excluded Part I by indicating London as the seat of arbitration and choosing English law to govern the arbitration.
+    * The Bhatia International judgment was not applicable in cases where the seat of arbitration and the governing law were foreign.
+    * Numerous Supreme Court precedents supported the exclusion of Part I in cases of foreign seat of arbitration and governing law.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The court found that the seat of arbitration was London, United Kingdom, as expressly chosen by HZL in their request for arbitration.
+    * The court determined that the choice of London as the seat of arbitration and English law as the governing law amounted to an express exclusion of Part I of the Act of 1996.
+    * The court recognized that the Bhatia International judgment was overruled by subsequent Supreme Court judgments clarifying the exclusion of Part I in cases of foreign seat of arbitration.
+* **Interpretation of Law:**
+    * The court meticulously examined various provisions of the Act of 1996, the English Arbitration Act, 1996, and the Commercial Courts Act, 2015, as well as relevant LCIA rules. 
+    * The court interpreted the BGS SGS Soma JV judgment as a clear affirmation of the non-maintainability of appeals under Section 37 of the Act of 1996 in cases of foreign arbitration.
+    * The court acknowledged the principle of harmonious construction of statutes and applied it in interpreting the provisions of the Commercial Courts Act in relation to the Act of 1996.
+* **Application of Law:**
+    * The court applied the principle of forum selection, determining that the parties had chosen London as the exclusive forum for arbitration.
+    * The court applied the precedent law on the exclusion of Part I of the Act of 1996 in cases where the seat of arbitration and the governing law were foreign. 
+    * The court recognized the limitation on appealable orders under Section 37 of the Act of 1996 and found that the appeals in this case did not fall within the specified categories.
+
+## 6. Judgment
+
+* **Final Decision:** The present appeals were dismissed.
+* **Relief Granted:** No relief was granted to the appellants.
+* **Orders:** All pending applications were also dismissed. 
+
+## 7. Implications
+
+* **Impact on Law:** The judgment reinforces the settled principle that the choice of a foreign seat of arbitration and foreign governing law excludes the applicability of Part I of the Act of 1996. 
+* **Future Relevance:** This case serves as a significant precedent for future cases involving international commercial arbitration where the parties have chosen a foreign seat of arbitration. 
+* **Broader Context:** The judgment emphasizes the importance of careful consideration by parties during contract drafting, especially when dealing with international commercial agreements, to ensure that the choice of governing law and arbitration venue aligns with their desired legal framework and jurisdictional options. 
+
+## 8. Summary Points
+
+* The choice of London as the seat of arbitration and English law as the governing law in the agreement between HZL and Glencore expressly excluded Part I of the Act of 1996.
+* HZL's attempt to challenge the arbitral awards through applications under Section 34 of the Act of 1996 was not maintainable due to the exclusion of Part I.
+* The appeals filed by HZL under Section 37 of the Act of 1996 were also dismissed as they did not fall within the specified appealable orders. 
+* The court upheld the precedent law on forum selection and the exclusion of Part I of the Act of 1996 in cases of foreign arbitration.
+
+## 9. References
+
+* **Citations:** Refer to the list of statutes and precedents cited in Section 3. 
+* **Further Reading:**
+    * **Bhatia International Vs. Bulk Trading S.A. & Ors. (AIR 2002 SC 1432)**
+    * **Roger Shashoua & Ors. Vs. Mukesh Sharma & Ors. (2017) 14 SCC 722)**
+    * **Union of India Vs. Reliance Industries Limited & Ors (2015) 10 SCC 213)**
+    * **Eitzen Bulk A/s Vs. Ashapura Minechem Limited & Anr. (2016) 11 SCC 508)** 

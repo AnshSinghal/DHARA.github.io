@@ -1,0 +1,118 @@
+## 1. Case Title
+
+• **Case Name:** Rashtriyalspat Nigam Limited vs. Air Liquide India Holding Private Limited
+• **Court:** Andhra Pradesh High Court - Amravati
+• **Date of Judgment:** 30th July 2024
+• **Citation:** APHC010287352024
+
+## 2. Background and Context
+
+• **Brief Overview:** Rashtriyalspat Nigam Limited (Appellant) and Air Liquide India Holding Private Limited (Respondent) entered into an agreement in 2010 for the establishment and supply of Air Separation Plants. Disputes arose leading to arbitration proceedings. The Arbitral Tribunal issued an order on 25.05.2024 directing testing of the plants and payment of Rs. 388.44 crores by the Appellant to the Respondent upon successful testing. The Respondent sought modification and stay of this order, leading to a further order by the Arbitral Tribunal on 04.07.2024 staying the plant handover. 
+
+• **Key Issues:** 
+    * Jurisdiction of the High Court to hear appeals under Section 37 of the Arbitration and Conciliation Act, 1996 (the Arbitration Act) against the Arbitral Tribunal's orders. 
+    * Whether the Commercial Courts Act, 2015 (the Commercial Courts Act) alters the jurisdiction framework established under the Arbitration Act.
+
+## 3. Legal Principles Involved
+
+• **Relevant Statutes and Provisions:**
+    * **Arbitration and Conciliation Act, 1996:**
+        * **Section 2(1)(e):** Defines "Court" for the purposes of the Act.
+        * **Section 8:** Refers to the reference of parties to arbitration.
+        * **Section 9:** Deals with interim measures granted by the court.
+        * **Section 17:** Provides for interim measures by the Arbitral Tribunal.
+        * **Section 34:** Relates to setting aside arbitral awards.
+        * **Section 37:** Defines appealable orders and the relevant court. 
+        * **Section 42:** Addresses continuation of proceedings in the court where the initial application was filed.
+    * **Commercial Courts Act, 2015:**
+        * **Section 3:** Establishes Commercial Courts.
+        * **Section 4:** Stipulates the constitution of Commercial Divisions in High Courts.
+        * **Section 5:** Defines the constitution of Commercial Appellate Divisions.
+        * **Section 6:** Outlines the jurisdiction of Commercial Courts.
+        * **Section 7:** Defines the jurisdiction of Commercial Divisions of High Courts.
+        * **Section 10:** Deals with jurisdiction in respect of arbitration matters.
+        * **Section 13:** Specifies the appeals from decisions of Commercial Courts and Commercial Divisions.
+    * **Andhra Pradesh Civil Courts Act, 1972:**
+        * **Section 17:** Defines the pecuniary jurisdiction of the District Court and the High Court.
+
+• **Precedents Cited:**
+    * Pandey & Co. Builders (P) Ltd., vs. State of Bihar and Anr., (2007) 1 SCC 467
+    * Upadhyay Construction Pvt., Ltd., vs. Prism Infra Projects, Arbitration Application No.56 of 2020
+    * Simplex Projects Ltd., vs. State of Manipur, 2020 SCC Online Mani 66
+    * Vaidya Industries vs. State of Jarkhand, 2019 SCC Online Jhar 1790
+    * Raveendran K.V. vs. Shriram Transport Finance Company Ltd., 2012 SCC Online Ker 31676
+    * State of West Bengal v. Associated Contractors, (2014) 1 SCC 32
+    * Ganga Bai vs. Vijay Kumar and Ors., (1974)2 SCC 393 
+    * Shankar Kerba Jadav and Ors., vs. State of Maharashtra, (1969) 2 SCC 793
+    * ITI Ltd., vs. Alphion Corporation United States of America and Anr., 2022 SCC Online KAR 1631
+
+• **Legal Doctrines:** 
+    * **Interpretation of Statutes:** The court analyzes the language of the relevant provisions to determine the intended meaning and scope.
+    * **Jurisdiction:** The court delves into the power of the respective courts to hear the matter. 
+    * **Pecuniary Jurisdiction:** The court examines the financial limits of the courts' jurisdiction.
+
+## 4. Arguments Presented
+
+• **Appellant’s Argument:**
+    * The High Court has jurisdiction under Section 37 of the Arbitration Act to hear appeals against orders passed by an Arbitral Tribunal under Section 17, including orders relating to interim measures.
+    * The term "Court" in the Arbitration Act encompasses both the High Court and District Courts with ordinary original civil jurisdiction.
+    * The Commercial Courts Act, particularly Section 10, establishes a separate jurisdiction for commercial disputes, including arbitrations, but does not preclude the High Court's jurisdiction under the Arbitration Act.
+    * The High Court's jurisdiction in appeals exceeding Rs. 50 lakhs, as per Section 17 of the Andhra Pradesh Civil Courts Act, 1972, is not overridden by the Commercial Courts Act.
+    * The Commercial Courts Act does not expressly grant the power to hear appeals to Commercial Courts or Commercial Divisions.
+
+• **Respondent’s Argument:**
+    * The High Court lacks jurisdiction under the Arbitration Act as the Commercial Courts Act creates a specific jurisdiction for arbitration matters, particularly when the dispute involves commercial value and arises in a specific geographical area.
+    * The "Court" referred to in the Arbitration Act, in light of the Commercial Courts Act, would be the Commercial Court established under Section 3 of the Commercial Courts Act or the Commercial Division of the High Court.
+    * The Commercial Court in Visakhapatnam, where the dispute arose, has jurisdiction over the matter.
+    * The appellant's previous filings in the Commercial Court, Visakhapatnam, under Section 34 of the Arbitration Act, signify their acceptance of the Commercial Court's jurisdiction.
+    * Section 42 of the Arbitration Act mandates continuation of proceedings in the original filing court, further suggesting the Commercial Court's jurisdiction.
+
+## 5. Court’s Analysis and Reasoning
+
+• **Key Findings:**
+    * The High Court of Andhra Pradesh does not have Ordinary Original Civil Jurisdiction.
+    * While a Commercial Division was established in the High Court through a notification in 2016, this division is not competent to hear appeals arising from domestic arbitrations under Section 37 of the Arbitration Act.
+    * Section 10(3) of the Commercial Courts Act mandates that appeals arising from domestic arbitrations, which would normally fall under the jurisdiction of the District Court, be heard by the Commercial Court with territorial jurisdiction over the dispute.
+
+• **Interpretation of Law:**
+    * The court meticulously examined the provisions of both the Arbitration Act and the Commercial Courts Act, paying particular attention to the definitions of "Court" and the jurisdiction of various courts.
+    * The court acknowledges the intent of the Commercial Courts Act to streamline commercial disputes but finds that the Act does not expressly exclude the High Court's jurisdiction in all cases.
+    * The court emphasizes the importance of explicit provisions for appellate jurisdiction and the lack of such provisions in the Commercial Courts Act regarding appeals heard by the Commercial Courts or Commercial Divisions.
+
+• **Application of Law:**
+    * Based on the interpretation of relevant provisions and precedents, the court concludes that in the absence of a Commercial Division in the High Court capable of hearing appeals under Section 37 of the Arbitration Act, the Commercial Court at Visakhapatnam, having territorial jurisdiction over the domestic arbitration, assumes jurisdiction.
+    * The court finds that the Andhra Pradesh Civil Courts Act is not applicable in this case as the Commercial Courts Act establishes a distinct framework for commercial disputes, including arbitration matters.
+
+## 6. Judgment
+
+• **Final Decision:** In favor of the Respondent.
+• **Relief Granted:** The High Court vacated its order dated 09.07.2024 (in I.A.No.4 of 2023), dismissing I.A.No.4 of 2024.
+• **Orders:** The appeal filed by the Appellant in C.M.A.No.489 of 2024 is dismissed, and the Appellant is directed to proceed with the matter before the Commercial Court at Visakhapatnam.
+
+## 7. Implications
+
+• **Impact on Law:** The judgment clarifies the jurisdictional framework for appeals arising from domestic arbitration proceedings under Section 37 of the Arbitration Act, particularly in light of the Commercial Courts Act. The judgment emphasizes the need for explicit provisions for appellate jurisdiction and the application of territorial jurisdiction of the Commercial Court in the absence of a functioning Commercial Division in the High Court.
+
+• **Future Relevance:** This case could serve as a precedent for future disputes involving the jurisdiction of courts in matters related to arbitration. It will likely influence decisions regarding the allocation of appeals arising from arbitration proceedings between the High Court, Commercial Divisions, and Commercial Courts.
+
+• **Broader Context:** The judgment highlights the complex interplay between different legal frameworks governing arbitration and commercial disputes. It underscores the need for clarity and consistency in legal provisions to ensure efficient resolution of such matters. 
+
+## 8. Summary Points
+
+• The High Court of Andhra Pradesh lacks jurisdiction to hear appeals under Section 37 of the Arbitration Act in domestic arbitration matters due to the absence of a functioning Commercial Division within the High Court.
+• The Commercial Court in Visakhapatnam, having territorial jurisdiction over the dispute, is the appropriate forum for appeals under Section 37 of the Arbitration Act in this case.
+• The Commercial Courts Act establishes a distinct jurisdiction for commercial disputes, including arbitration matters, but does not expressly exclude the High Court's jurisdiction in all cases.
+• The interpretation of the "Court" defined under the Arbitration Act is subject to adjustments based on the specific provisions of the Commercial Courts Act.
+• The judgment emphasizes the importance of explicitly defined appellate jurisdiction in legal frameworks governing arbitration matters.
+
+## 9. References
+
+• **Citations:**
+    * Arbitration and Conciliation Act, 1996
+    * Commercial Courts Act, 2015
+    * Andhra Pradesh Civil Courts Act, 1972
+    * All cases cited in the judgment.
+
+• **Further Reading:**
+    * Related cases involving jurisdiction in arbitration matters.
+    * Legal commentary and analysis on the Arbitration and Conciliation Act, 1996 and the Commercial Courts Act, 2015.

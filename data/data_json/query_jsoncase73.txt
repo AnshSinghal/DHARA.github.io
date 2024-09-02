@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A company is suing a former distributor for unpaid invoices. The distributor argues that they are not liable for the full amount due to a prior agreement and disputes certain invoice items. The company argues that the distributor's defenses are not valid and seeks summary judgment. Can the distributor be granted unconditional leave to defend, thus preventing summary judgment?",
+    "Legal Principles": "Summary judgment is a procedural device that allows a court to dispose of a case without a full trial when there is no genuine dispute of material fact. A defendant may be granted leave to defend, preventing summary judgment, if they can demonstrate a genuine triable issue. However, the defendant must raise a genuine issue of material fact, not merely a 'bare denial' or 'mere assertion.' The court must consider the defendant's evidence and arguments in light of the plaintiff's claim.",
+    "Relevant Sections": "Order XXXVII CPC (Summary Suits), Section 8 of the Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015 (Act), Section 115 of the Code of Civil Procedure, 1908 (CPC)",
+    "Context": "Commercial dispute, Summary suit under Order XXXVII CPC, Jurisdiction of Commercial Courts Act, 2015"
+  },
+  {
+    "Query": "A construction company is suing a property owner for breach of contract, alleging that the owner failed to pay for completed work. The owner claims that the work was not completed according to the contract specifications and that the company is entitled to a reduced payment. The construction company is seeking summary judgment. Can the property owner be granted unconditional leave to defend?",
+    "Legal Principles": "The defendant must raise a genuine issue of material fact to be granted leave to defend against summary judgment. If the defendant's defense relies on subjective assessments or interpretations of contract specifications, the court may need to assess the strength of the defendant's evidence to determine if a genuine dispute exists.",
+    "Relevant Sections": "Order XXXVII CPC, Section 115 CPC",
+    "Context": "Construction contract dispute, Breach of contract, Summary suit under Order XXXVII CPC"
+  },
+  {
+    "Query": "A software developer is suing a client for non-payment of software development services. The client argues that the software does not meet the agreed upon specifications and is therefore not functional. The developer is seeking summary judgment. Can the client be granted unconditional leave to defend?",
+    "Legal Principles": "The client must present evidence to support their claims of non-functional software and demonstrate a genuine dispute regarding the software's functionality. The court may need to consider expert opinions or technical evidence to assess the validity of the client's claims.",
+    "Relevant Sections": "Order XXXVII CPC, Section 8 of the Commercial Courts Act, 2015",
+    "Context": "Software development contract dispute, Non-payment, Summary suit under Order XXXVII CPC"
+  },
+  {
+    "Query": "A distributor is being sued by a manufacturer for breach of contract, alleging failure to meet sales targets. The distributor argues that they were unable to meet the targets due to unforeseen market conditions beyond their control. The manufacturer is seeking summary judgment. Can the distributor be granted unconditional leave to defend?",
+    "Legal Principles": "The distributor must provide evidence to support their claim of unforeseen market conditions, demonstrating that these conditions were truly beyond their control and directly impacted their ability to meet the sales targets. The court will assess the persuasiveness of the distributor's evidence to determine if a genuine dispute exists.",
+    "Relevant Sections": "Order XXXVII CPC, Section 115 CPC",
+    "Context": "Distribution agreement dispute, Breach of contract, Summary suit under Order XXXVII CPC"
+  },
+  {
+    "Query": "A landlord is suing a tenant for unpaid rent. The tenant claims that the landlord breached the lease agreement by failing to maintain the property, which caused damage and reduced the value of the premises. The landlord is seeking summary judgment. Can the tenant be granted unconditional leave to defend?",
+    "Legal Principles": "The tenant must present evidence of the landlord's breach of the lease agreement and demonstrate a causal link between the landlord's breach and the alleged damage to the property. The court will assess the sufficiency of the tenant's evidence to determine if a genuine dispute exists.",
+    "Relevant Sections": "Order XXXVII CPC, Section 115 CPC",
+    "Context": "Landlord-tenant dispute, Unpaid rent, Breach of lease agreement, Summary suit under Order XXXVII CPC"
+  },
+  {
+    "Query": "A supplier is being sued by a customer for defective goods. The customer argues that the goods were defective and caused damage to their equipment, resulting in lost production. The supplier is seeking summary judgment. Can the customer be granted unconditional leave to defend?",
+    "Legal Principles": "The customer must present evidence to support their claim of defective goods and demonstrate a causal link between the defective goods and the damage to their equipment. Expert opinions or technical evidence may be required to establish the defect and its connection to the damage.",
+    "Relevant Sections": "Order XXXVII CPC, Section 8 of the Commercial Courts Act, 2015",
+    "Context": "Sale of goods dispute, Defective goods, Breach of contract, Summary suit under Order XXXVII CPC"
+  },
+  {
+    "Query": "An insurance company is denying a claim for damages. The policyholder argues that the damage was caused by a covered event and that the insurance company is wrongfully refusing to pay. The insurance company is seeking summary judgment. Can the policyholder be granted unconditional leave to defend?",
+    "Legal Principles": "The policyholder must present evidence to support their claim of a covered event and demonstrate that the damage was caused by that event. The court will assess the evidence and the terms of the insurance policy to determine if a genuine dispute exists.",
+    "Relevant Sections": "Order XXXVII CPC, Section 115 CPC",
+    "Context": "Insurance dispute, Denial of claim, Covered events, Summary suit under Order XXXVII CPC"
+  },
+  {
+    "Query": "A company is suing a former employee for breach of confidentiality agreement, alleging that the employee disclosed confidential information to a competitor. The employee argues that the information was not truly confidential and that they did not disclose it to a competitor. The company is seeking summary judgment. Can the employee be granted unconditional leave to defend?",
+    "Legal Principles": "The employee must present evidence to support their claim that the information was not confidential or that they did not disclose it to a competitor. The court will assess the evidence and the terms of the confidentiality agreement to determine if a genuine dispute exists.",
+    "Relevant Sections": "Order XXXVII CPC, Section 8 of the Commercial Courts Act, 2015",
+    "Context": "Employment dispute, Breach of confidentiality agreement, Disclosure of confidential information, Summary suit under Order XXXVII CPC"
+  },
+  {
+    "Query": "A business partner is suing another partner for breach of partnership agreement, alleging that the partner diverted profits for personal use. The accused partner argues that the profits were not diverted and that the allegations are false. The accusing partner is seeking summary judgment. Can the accused partner be granted unconditional leave to defend?",
+    "Legal Principles": "The accused partner must present evidence to support their claim that the profits were not diverted and that the allegations are false. The court will assess the evidence and the terms of the partnership agreement to determine if a genuine dispute exists.",
+    "Relevant Sections": "Order XXXVII CPC, Section 115 CPC",
+    "Context": "Partnership dispute, Breach of partnership agreement, Diversion of profits, Summary suit under Order XXXVII CPC"
+  },
+  {
+    "Query": "A lender is suing a borrower for non-payment of loan installments. The borrower claims that the lender violated the loan agreement by charging excessive interest rates. The lender is seeking summary judgment. Can the borrower be granted unconditional leave to defend?",
+    "Legal Principles": "The borrower must present evidence to support their claim of excessive interest rates and demonstrate that the lender's actions violated the loan agreement. The court will assess the evidence and the terms of the loan agreement to determine if a genuine dispute exists.",
+    "Relevant Sections": "Order XXXVII CPC, Section 8 of the Commercial Courts Act, 2015",
+    "Context": "Loan agreement dispute, Non-payment of loan installments, Excessive interest rates, Summary suit under Order XXXVII CPC"
+  }
+]
+```

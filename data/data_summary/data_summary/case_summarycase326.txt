@@ -1,0 +1,100 @@
+## 1. Case Title
+
+* **Case Name:** M/S Devi Dayal Charitable Trust and Others vs. M/S Rajhans Towers Pvt. Ltd.
+* **Court:** Allahabad High Court
+* **Date of Judgment:** May 17, 2024
+* **Citation:** 2024:AHC:89177
+
+## 2. Background and Context
+
+* **Brief Overview:** The case involves a dispute between M/S Devi Dayal Charitable Trust (Petitioner) and M/S Rajhans Towers Pvt. Ltd. (Respondent) stemming from an agreement that contained an arbitration clause. After a dispute arose, the Respondent initiated arbitration proceedings by filing an application under Section 9 of the Arbitration and Conciliation Act, 1996 (the Act) before the Commercial Court, Gautam Buddh Nagar.  The Petitioner then filed an application under Section 11 of the Act before the Delhi High Court, which subsequently appointed a sole arbitrator. The arbitrator rendered an award in favor of the Respondent in 2017. The Petitioner challenged the award by filing an application under Section 34 of the Act before the Commercial Court, Gautam Buddh Nagar, which was dismissed due to lack of territorial jurisdiction. The Petitioner appealed this decision through the current writ petition.
+* **Key Issues:** The main legal issue revolved around determining the jurisdiction of the court to hear the application under Section 34 of the Act. The Petitioner argued that the Commercial Court, Gautam Buddh Nagar, had exclusive jurisdiction because the initial application under Section 9 was filed there. The Respondent countered, arguing that the arbitration clause in the agreement designated Delhi as the "venue" and therefore, the Delhi High Court had exclusive jurisdiction.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * Article 227 of the Constitution of India (Power of superintendence of High Courts)
+    * Section 2(1)(e) of the Arbitration and Conciliation Act, 1996 (Definition of "Court")
+    * Section 9 of the Arbitration and Conciliation Act, 1996 (Application for interim measures)
+    * Section 11 of the Arbitration and Conciliation Act, 1996 (Appointment of Arbitrator)
+    * Section 34 of the Arbitration and Conciliation Act, 1996 (Application to set aside an award)
+    * Section 42 of the Arbitration and Conciliation Act, 1996 (Jurisdiction)
+* **Precedents Cited:**
+    * State of West Bengal v. Associated Contractor reported in (2015) 1 SCC 32
+    * M/s Ravi Ranjan Developers Pvt. Ltd. v. Aditya Kumar Chatterjee reported in SLP(C)17397 of 2021 (SC)
+    * Manjusha Premi and Others v. Prakash Gupta and Others reported in (2016) 6 All LJ 695
+    * Dalim Kumar Chakraborty v. Smt. Gouri Biswar and Another reported in 2018 SCC Online Cal 282
+    * Magma Fincorp Limited v. Maa Vaishno Sales Pvt. Ltd. and Others reported in 2015 SCC Online Cal 6267
+    * M/s Gammon Engineers & Contractors Pvt. Ltd. v. The State of West Bengal reported in AIR 2023 Cal. 338
+    * SBP & Co. v. Patel Engineer Ltd. reported in (2005) 8 SCC 618
+    * State of Jharkhand v. Hindustan Constructions reported in (2018) 2 SCC 602
+    * Lafarge India Private Limited v. Kishore Kumar Sahoo reported in AIR 2017 Cal 116
+    * BGS SGS Soma v. NHPC Ltd. reported in (2020) 4 SCC 234
+    * Hindustan Construction Company Ltd. v. NHPC Ltd. and Another reported in 2020 4 SCC 310
+    * Estelia Rubber -v- Dass Estate (P) Ltd. reported in (2001) 8 SCC 97
+* **Legal Doctrines:**
+    * **Jurisdictional Exclusivity:** The principle that once a court has been seized of a matter under Part 1 of the Arbitration and Conciliation Act, 1996, it has exclusive jurisdiction over all subsequent applications arising from that agreement.
+    * **Estoppel:** A legal doctrine preventing a party from asserting a claim inconsistent with a previous statement or action.
+    * **Forum Non Conveniens:** A legal doctrine allowing a court to decline jurisdiction if another forum is more convenient and appropriate.
+    * **Power of Superintendence:** The power vested in High Courts under Article 227 of the Constitution of India to oversee subordinate courts and tribunals.
+
+## 4. Arguments Presented
+
+* **Petitioner’s Argument:**
+    *  The Commercial Court, Gautam Buddh Nagar, had exclusive jurisdiction because the Respondent had initially filed an application under Section 9 of the Act before that court.
+    *  The filing of the Section 11 application in the Delhi High Court did not make Delhi the "seat" of arbitration.
+    *  The bar imposed by Section 42 of the Act prevented any subsequent applications under Part 1 of the Act from being filed in any other court except the one where the initial application was made.
+    *  The Respondent, having initiated proceedings in the Commercial Court, Gautam Buddh Nagar, was estopped from arguing for Delhi High Court jurisdiction.
+    *  The agreement did not specifically designate a "seat" of arbitration, only a "venue," and the filing of the Section 9 application in Gautam Buddh Nagar prevented the venue from being considered the seat.
+* **Respondent’s Argument:**
+    *  The agreement explicitly designated Delhi as the "venue" for arbitration proceedings under Clause 53.
+    *  Since the agreement designated a "venue" and not an alternative "seat," the venue should be treated as the seat of arbitration.
+    *  Both parties had chosen New Delhi for arbitration, as the proceedings were held there without objections and the award was signed there, which conferred exclusive jurisdiction upon the Delhi courts.
+    *  The Petitioner did not object to the Respondent's application under Section 11 of the Act before the Delhi High Court.
+    *  The Supreme Court's decisions in BGS SGS Soma v. NHPC Ltd. and Hindustan Construction Company Ltd. v. NHPC Ltd. held that a designated venue in an arbitration clause could be considered the seat of arbitration.
+    *  The Calcutta High Court in a similar case had also concluded that the courts of the place designated as the venue should be considered as the "seat" with exclusive jurisdiction.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    *  The court found that the agreement did not explicitly designate a "seat" of arbitration, only a "venue."
+    *  The court emphasized the importance of Section 42 of the Act in preventing conflicting jurisdictions and ensuring uniformity in arbitration proceedings.
+    *  The court recognized that Section 42 imposed a bar on subsequent applications under Part 1 of the Act being filed in any other court except the one where the initial application was made, with the exception of applications under Sections 8 and 11.
+    *  The court ruled that the Respondent's initiation of proceedings under Section 9 of the Act in the Commercial Court, Gautam Buddh Nagar, estopped them from denying that court's jurisdiction.
+    *  The court found the doctrine of forum non conveniens inapplicable, as the Respondent was simply attempting to circumvent the jurisdictional constraints imposed by Section 42 of the Act.
+* **Interpretation of Law:** The court carefully analyzed and interpreted Section 42 of the Act, emphasizing its central role in preventing jurisdictional conflicts and promoting efficiency in arbitration proceedings. The court also reviewed previous Supreme Court judgments, including BGS SGS Soma v. NHPC Ltd., which clarified the relationship between "venue" and "seat" in arbitration clauses.
+* **Application of Law:** The court applied the principle of jurisdictional exclusivity under Section 42, holding that the initial filing of the application under Section 9 of the Act in the Commercial Court, Gautam Buddh Nagar, established that court's exclusive jurisdiction over all subsequent applications under Part 1 of the Act. The court further applied the doctrine of estoppel to prevent the Respondent from contradicting their previous invocation of the Commercial Court's jurisdiction.
+
+## 6. Judgment
+
+* **Final Decision:** The Allahabad High Court allowed the writ petition, setting aside the order of the Commercial Court, Gautam Buddh Nagar, which had dismissed the application under Section 34 for lack of territorial jurisdiction.
+* **Relief Granted:** The court directed the Commercial Court, Gautam Buddh Nagar, to adjudicate the Petitioner's application under Section 34 of the Act expeditiously, preferably within six months.
+* **Orders:** The court directed the Commercial Court to proceed with the adjudication of the Petitioner's application under Section 34 of the Act.
+
+## 7. Implications
+
+* **Impact on Law:** This judgment reinforces the principle of jurisdictional exclusivity under Section 42 of the Arbitration and Conciliation Act, 1996, emphasizing its importance in preventing jurisdictional conflicts and ensuring the efficient administration of arbitration proceedings. 
+* **Future Relevance:** This case establishes a precedent for courts to uphold the jurisdictional exclusivity of the court where the initial application under Part 1 of the Act is filed, even when the agreement designates a "venue" for arbitration. 
+* **Broader Context:** The judgment highlights the importance of carefully drafting arbitration clauses to clearly define the "seat" of arbitration, especially when it differs from the "venue" for proceedings.
+
+## 8. Summary Points
+
+* **Key Takeaways:**
+    *  The court held that the Commercial Court, Gautam Buddh Nagar, had exclusive jurisdiction to hear the application under Section 34 of the Act.
+    *  The court emphasized the importance of Section 42 of the Act in preventing jurisdictional conflicts and ensuring the efficient administration of arbitration proceedings.
+    *  The court applied the principle of estoppel to prevent the Respondent from contradicting their previous invocation of the Commercial Court's jurisdiction.
+    *  The judgment clarifies the relationship between "venue" and "seat" in arbitration agreements.
+
+## 9. References
+
+* **Citations:**
+    * Article 227 of the Constitution of India
+    * Section 2(1)(e), 9, 11, 34, and 42 of the Arbitration and Conciliation Act, 1996
+    * All precedents cited in the judgment.
+* **Further Reading:**
+    *  State of West Bengal v. Associated Contractor reported in (2015) 1 SCC 32
+    *  BGS SGS Soma v. NHPC Ltd. reported in (2020) 4 SCC 234
+    *  M/s Ravi Ranjan Developers Pvt. Ltd. v. Aditya Kumar Chatterjee reported in SLP(C)17397 of 2021 (SC)
+    *  M/s Gammon Engineers & Contractors Pvt. Ltd. v. The State of West Bengal reported in AIR 2023 Cal. 338
+    *  SBP & Co. v. Patel Engineer Ltd. reported in (2005) 8 SCC 618
+    *  Estelia Rubber -v- Dass Estate (P) Ltd. reported in (2001) 8 SCC 97

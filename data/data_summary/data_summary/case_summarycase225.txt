@@ -1,0 +1,101 @@
+##  Case Summary:  Rameshbhai Amthabhai Desai & Ors. vs Meera Education Trust 
+
+**1. Case Title**
+
+* **Case Name:** Rameshbhai Amthabhai Desai & Ors. vs Meera Education Trust Through Authorized Trustee Farzan Kureshi & Anr.
+* **Court:** Gujarat High Court
+* **Date of Judgment:** 03/05/2024
+* **Citation:** C/CRA/149/2024 
+
+**2. Background and Context**
+
+* **Brief Overview:** Meera Education Trust, a registered public charitable trust, filed a suit against Rameshbhai Amthabhai Desai and others seeking a declaration of their right to possess and operate a school on a property leased from the defendants. The Trust also sought specific performance of a draft agreement and a permanent injunction against interference with their possession. The defendants, in turn, filed an application under Order 7 Rule 10 of the Code of Civil Procedure to have the plaint returned, arguing that the suit should be heard by a Commercial Court under the Commercial Courts Act, 2015.
+* **Key Issues:** 
+    * Whether the suit involved a "commercial dispute" as defined under the Commercial Courts Act, 2015.
+    * Whether the property in question was being "used exclusively in trade or commerce" as required under the Act.
+    * Whether the arbitration clause in the original agreement was enforceable, given the absence of signatures on the draft agreement.
+
+**3. Legal Principles Involved**
+
+* **Relevant Statutes and Provisions:**
+    * Code of Civil Procedure, 1908 (CPC)
+        * Order 7 Rule 10: Return of Plaint
+    * Commercial Courts Act, 2015 
+        * Section 2(1)(c)(vii): Definition of "commercial dispute"
+    * Arbitration and Conciliation Act, 1996
+        * Section 8: Power to refer parties to arbitration
+* **Precedents Cited:**
+    * **Municipal Corporation of Delhi V/s. Children Book Trust (1992) 3 SCC 390:** Imparting education cannot be per-se considered a charitable activity excluding it from trade or commerce.
+    * **Ambalal Sarabhai Enterprises v/s. K.S. Infraspace LLP (2020) 15 SCC 585:** The word "trade or commerce" in Section 2(1)(c)(vii) of the Commercial Courts Act should be interpreted narrowly.
+    * **TMA Pai Foundation v/s. State of Karnataka (2002) 8 SCC 481:** Education is considered charitable in nature and is an "occupation" distinct from trade or commerce.
+    * **Dhee Educational and Cultural Trust & Ors. v/s. M/s. Hartana Projects LLP (2023):** Running an educational institution is not considered trade or commerce under the Commercial Courts Act. 
+    * **Kushal Limited (2023) 1 GLR 620:** Warehouse activity was considered trade or commerce. 
+
+* **Legal Doctrines:**
+    * **Purposive Interpretation:** Interpretation of statutory provisions in line with the intent and purpose behind their enactment.
+    * **Strict Construction:** Narrow interpretation of specific provisions, especially when dealing with procedural aspects.
+
+**4. Arguments Presented**
+
+* **Plaintiff’s Argument:** 
+    * The property is used for commercial purposes as it houses a school.
+    * The school's activities constitute trade or commerce, making the suit a commercial dispute under the Commercial Courts Act.
+    * The plaintiff is seeking specific performance of a contract relating to immovable property used exclusively for trade or commerce.
+    * The arbitration clause in the original agreement is applicable, even though the draft agreement is unsigned.
+* **Defendant’s Argument:** 
+    * The suit does not involve a commercial dispute as defined in the Commercial Courts Act.
+    * Imparting education is a charitable activity and not trade or commerce.
+    * The draft agreement is unsigned and therefore the arbitration clause cannot be invoked.
+    * The agreement for which specific performance is sought is disputed by the defendants.
+    * The property cannot be considered "used exclusively in trade or commerce" until the specific performance of the agreement is granted.
+
+**5. Court’s Analysis and Reasoning**
+
+* **Key Findings:**
+    * The Court acknowledged that Meera Education Trust is a charitable trust engaged in educational activities.
+    * The property in dispute is used for running a school, an activity classified as "occupation" and not trade or commerce.
+    * The court recognized the precedents defining education as a charitable activity distinct from trade or commerce.
+    * The Court held that the draft agreement, being unsigned, rendered the arbitration clause unenforceable.
+    * The Court found that the three-fold requirement for defining a commercial dispute under Section 2(1)(c)(vii) of the Commercial Courts Act (agreement not in dispute, agreement relating to immovable property, property exclusively used for trade or commerce) was not met in this case. 
+
+* **Interpretation of Law:**
+    * The Court interpreted the term "trade or commerce" narrowly, in accordance with precedents like Ambalal Sarabhai Enterprises.
+    * It upheld the established legal principle that running an educational institution is not trade or commerce, even if fees are charged. 
+
+* **Application of Law:**
+    * The Court applied the established interpretation of education as a charitable activity to the facts of the case.
+    * The Court applied the requirement of a valid and signed agreement for invoking the arbitration clause under Section 8 of the Arbitration and Conciliation Act.
+
+**6. Judgment**
+
+* **Final Decision:** The Civil Revision Application was dismissed.
+* **Relief Granted:** No relief was granted to the applicants.
+* **Orders:** The impugned order of the lower court was upheld, and the interim relief granted was vacated.
+
+**7. Implications**
+
+* **Impact on Law:** The judgment reinforces the established legal principle that running an educational institution is not considered trade or commerce under the Commercial Courts Act, 2015.
+* **Future Relevance:** This case provides guidance on determining the applicability of the Commercial Courts Act in cases involving educational institutions and agreements relating to immovable property. 
+* **Broader Context:** The judgment highlights the distinction between charitable activities and commercial ventures in the context of education.
+
+**8. Summary Points**
+
+* The Gujarat High Court upheld the lower court's decision to reject the defendants' application for returning the plaint.
+* The Court found that the suit did not involve a commercial dispute under the Commercial Courts Act, 2015, as the school's activities were deemed charitable and not trade or commerce.
+* The absence of signatures on the draft agreement rendered the arbitration clause unenforceable.
+
+**9. References**
+
+* **Citations:** 
+    * Code of Civil Procedure, 1908 
+    * Commercial Courts Act, 2015 
+    * Arbitration and Conciliation Act, 1996
+    * Municipal Corporation of Delhi V/s. Children Book Trust (1992) 3 SCC 390
+    * Ambalal Sarabhai Enterprises v/s. K.S. Infraspace LLP (2020) 15 SCC 585
+    * TMA Pai Foundation v/s. State of Karnataka (2002) 8 SCC 481
+    * Dhee Educational and Cultural Trust & Ors. v/s. M/s. Hartana Projects LLP (2023)
+    * Kushal Limited (2023) 1 GLR 620
+* **Further Reading:**
+    * Research articles and commentaries on the Commercial Courts Act, 2015.
+    * Cases dealing with the application of the Act to educational institutions.
+    * Legal texts on arbitration and specific performance of contracts. 

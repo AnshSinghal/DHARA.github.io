@@ -1,0 +1,90 @@
+## 1. Case Title
+
+* **Case Name:** The Director, Esd Mee Seva, vs Ccs Infotec Limited
+* **Court:** Telangana High Court
+* **Date of Judgment:** 26 August 2022
+* **Citation:** COMMERCIAL COURT APPEAL NOs.33, 34, 40, 41, 42, 48, 49, 51 and 52 of 2018 and 4, 17, 18, 19, 20 OF 2019
+
+## 2. Background and Context
+
+* **Brief Overview:** This case involved a dispute between the Director of ESD (Mee Seva) and various software companies, including CCS Infotech Limited, United Telecoms Limited, and CMS Computers Limited. These companies were contracted as "Technical Partners" to build, operate, and maintain Mee Seva centers for the Government of Andhra Pradesh. Disputes arose regarding the effective date of the agreements, the revision of rates, and the fixation of transaction slabs. 
+* **Key Issues:**
+    * The validity of the determination of effective dates by the respondent.
+    * The legality of the revision/reduction of rates by the respondent.
+    * Whether the transaction slabs should be proportionately increased with the increase in the number of centers.
+    * The entitlement of the claimants to the reliefs sought.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * The Arbitration and Conciliation Act, 1996 (the Act):
+        * Section 2(1)(c)4: Definition of 'arbitral award', including interim award.
+        * Section 17: Powers of the Arbitrator to pass interim orders.
+        * Section 32: Termination of arbitral proceedings.
+        * Section 33: Correction, interpretation, and additional awards by the Arbitrator.
+        * Section 34: Application for setting aside an arbitral award.
+* **Precedents Cited:**
+    * The Project Director, National Highways Nos.45E and 220, National Highways Authority of India vs. M.Hakeem and others (2021) 9 SCC 1
+    * Ragya Bee and others vs. P.S.R. Constructions and others (2022) 3 ALD 151
+    * Delhi Airport Metro Express Pvt. Ltd. Vs. Delhi Metro Rail Corporation Ltd. (2006) 11 SCC 181
+* **Legal Doctrines:**
+    * **Functus Officio:** A doctrine that prevents a judicial officer from altering a decision once it has been made, except in limited circumstances.
+    * **Public Policy:** The principle that courts cannot uphold agreements that violate the fundamental principles of justice and morality.
+    * **Patent Illegality:** A ground for setting aside an arbitral award where the award is clearly and demonstrably illegal on its face. 
+
+## 4. Arguments Presented
+
+* **Appellant's Argument (CCS Infotech Limited & Others):**
+    * The Commercial Court erred in modifying the Arbitrator's award under Section 34 of the Act, which only permits setting aside or remanding, not modification.
+    * The Court wrongly interpreted the government order regarding electricity bills as having prospective effect, whereas the Arbitrator's decision to apply a rate of 5/- per transaction from 01.03.2008 was justified.
+    * The Court's reduction of interest from 12% to 6% per annum was incorrect.
+    * The Arbitrator's award should be accepted in toto. 
+* **Respondent's Argument (Mee Seva):**
+    * The G.O.Rt.No.205 dated 30.06.2009 regarding electricity bills was only applicable to new contracts and not existing contractors. 
+    * The Arbitrator erred in passing two awards (preliminary and final), as he becomes functus officio after passing an award.
+    * The Arbitrator's interim order extending the contract beyond the original period was in excess of jurisdiction. 
+    * The Commercial Court should have remanded the matter to the Arbitrator for passing a fresh award due to the illegalities in the arbitral proceedings.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The Arbitrator was not competent to pass both a preliminary and a final award.
+    * The Commercial Court was not empowered to modify the Arbitrator's award under Section 34, as it can only set aside or remand.
+    * The Arbitrator's decision to split the award into two parts and pass the final award after an O.P. under Section 34 was filed was illegal. 
+* **Interpretation of Law:** 
+    * The Court interpreted the provisions of the Arbitration and Conciliation Act, 1996, particularly Sections 17, 32, and 33, to hold that only one final award is permissible, and that the Arbitrator becomes functus officio after passing the first award.
+    * Section 34 of the Act was interpreted to only permit setting aside or remanding an award, not modification. 
+* **Application of Law:**
+    * The Court applied the doctrine of functus officio to find that the Arbitrator's decision to pass a final award after an application under Section 34 had been filed was illegal. 
+    * The Court applied the doctrine of patent illegality to find that both the Arbitrator's award and the Commercial Court's modification were vitiated. 
+
+## 6. Judgment
+
+* **Final Decision:** The Telangana High Court allowed the appeals and set aside the awards of the Arbitrator and the decision of the Commercial Court. 
+* **Relief Granted:** The case was remitted back to the Arbitral Tribunal for a fresh award, with Sri Justice Vilas V.Afzulpurkar appointed as the new sole Arbitrator. 
+* **Orders:** 
+    * The parties were directed to submit all the documents to the new Arbitrator within four weeks. 
+    * The new Arbitrator was requested to conclude the proceedings expeditiously within 16 weeks from the date of submission of documents. 
+
+## 7. Implications
+
+* **Impact on Law:** This judgment reaffirms the principle of limited judicial interference in arbitration, emphasizing the restricted scope of Section 34 of the Arbitration and Conciliation Act. The Court clarified the legal implications of the functus officio doctrine in arbitration proceedings. 
+* **Future Relevance:** This case serves as a reminder of the importance of adhering to the statutory framework in arbitration proceedings, particularly regarding the finality of awards and the limited powers of courts under Section 34.
+* **Broader Context:** This judgment underscores the need for clear and unambiguous contractual terms in commercial agreements to minimize the potential for disputes.  
+
+## 8. Summary Points
+
+* The Telangana High Court ruled that the Arbitrator's decision to pass two awards (preliminary and final) was illegal, as he becomes functus officio after passing the first award.
+* The Court also held that the Commercial Court had no power to modify the Arbitrator's award under Section 34 of the Act, as it can only set aside or remand.
+* The case was remitted back to a new Arbitrator for a fresh award due to the illegalities in the previous proceedings. 
+
+## 9. References
+
+* **Citations:** 
+    * The Arbitration and Conciliation Act, 1996
+    * The Project Director, National Highways Nos.45E and 220, National Highways Authority of India vs. M.Hakeem and others (2021) 9 SCC 1
+    * Ragya Bee and others vs. P.S.R. Constructions and others (2022) 3 ALD 151
+    * Delhi Airport Metro Express Pvt. Ltd. Vs. Delhi Metro Rail Corporation Ltd. (2006) 11 SCC 181
+* **Further Reading:**
+    * Redfern and Hunter on International Arbitration
+    * P. Ramanatha Aiyar's Advanced Law Lexicon 

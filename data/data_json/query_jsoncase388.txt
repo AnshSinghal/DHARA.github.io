@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A bank is suing a company for breach of a lease agreement. The company claims that the dispute is commercial and should be heard by a commercial court. The bank argues that the dispute is not commercial because the company did not use the leased property for trade or commerce.  What is the legal test for determining whether a dispute is commercial under the Commercial Courts Act, 2015?",
+    "Legal Principles": "The legal test for determining whether a dispute is commercial under the Commercial Courts Act, 2015 is whether the dispute arises out of an agreement relating to immovable property used exclusively in trade or commerce. The property must be actually used for trade or commerce, not just ready for use or likely to be used.",
+    "Relevant Sections": "Section 2(1)(c)(vii) of the Commercial Courts, Commercial Division and Commercial Appellant Division of High Courts Act, 2015: \"(c) \"commercial dispute\" means a dispute arising out of- (vii) agreements relating to immovable property used exclusively in trade or commerce;\"",
+    "Context": "Jurisdiction: India. Case Type: Commercial Dispute" 
+  },
+  {
+    "Query": "A landlord is suing a tenant for possession of a commercial property after the lease expired. The tenant claims that the dispute is commercial and should be heard by a commercial court. The landlord argues that the dispute is not commercial because it is simply a matter of landlord-tenant law.  What is the legal test for determining whether a dispute is commercial under the Commercial Courts Act, 2015 in this case?",
+    "Legal Principles": "A dispute arising out of an agreement relating to immovable property used exclusively in trade or commerce is considered a commercial dispute. This includes disputes relating to the termination of a lease, as long as the property was used for commercial purposes during the lease period.",
+    "Relevant Sections": "Section 2(1)(c)(vii) of the Commercial Courts, Commercial Division and Commercial Appellant Division of High Courts Act, 2015: \"(c) \"commercial dispute\" means a dispute arising out of- (vii) agreements relating to immovable property used exclusively in trade or commerce;\"",
+    "Context": "Jurisdiction: India. Case Type: Landlord-Tenant Dispute" 
+  },
+  {
+    "Query": "A company is suing another company for breach of a contract to sell a piece of land. The defendant company argues that the dispute is commercial and should be heard by a commercial court. The plaintiff company argues that the dispute is not commercial because the land was not used for commercial purposes.  Is this a commercial dispute?",
+    "Legal Principles": "To be a commercial dispute, the agreement must relate to immovable property that was *actually used* for trade or commerce.  If the land was not used for commercial purposes, the dispute likely falls outside the purview of the Commercial Courts Act, 2015.",
+    "Relevant Sections": "Section 2(1)(c)(vii) of the Commercial Courts, Commercial Division and Commercial Appellant Division of High Courts Act, 2015: \"(c) \"commercial dispute\" means a dispute arising out of- (vii) agreements relating to immovable property used exclusively in trade or commerce;\"",
+    "Context": "Jurisdiction: India. Case Type: Contract Dispute" 
+  },
+  {
+    "Query": "A property developer is suing a construction company for breach of a contract to build a commercial building. The construction company argues that the dispute is commercial and should be heard by a commercial court. The property developer argues that the dispute is not commercial because the building is not yet complete.  Is this a commercial dispute?",
+    "Legal Principles": "Even if the building is not yet complete, if it was intended to be used exclusively for trade or commerce, the dispute arising from the construction contract is likely to be considered a commercial dispute.",
+    "Relevant Sections": "Section 2(1)(c)(vii) of the Commercial Courts, Commercial Division and Commercial Appellant Division of High Courts Act, 2015: \"(c) \"commercial dispute\" means a dispute arising out of- (vii) agreements relating to immovable property used exclusively in trade or commerce;\"",
+    "Context": "Jurisdiction: India. Case Type: Construction Contract Dispute" 
+  },
+  {
+    "Query": "A company is suing another company for breach of a joint venture agreement to develop a commercial property. The defendant company argues that the dispute is commercial and should be heard by a commercial court. The plaintiff company argues that the dispute is not commercial because the joint venture agreement is not a lease agreement.  Is this a commercial dispute?",
+    "Legal Principles": "The Commercial Courts Act, 2015 broadly defines a commercial dispute to include disputes arising from any agreement related to immovable property used exclusively in trade or commerce. A joint venture agreement to develop a commercial property likely falls within this definition.",
+    "Relevant Sections": "Section 2(1)(c)(vii) of the Commercial Courts, Commercial Division and Commercial Appellant Division of High Courts Act, 2015: \"(c) \"commercial dispute\" means a dispute arising out of- (vii) agreements relating to immovable property used exclusively in trade or commerce;\"",
+    "Context": "Jurisdiction: India. Case Type: Joint Venture Dispute" 
+  },
+  {
+    "Query": "A real estate company is suing a buyer for breach of a contract to purchase a commercial property. The buyer argues that the dispute is commercial and should be heard by a commercial court. The real estate company argues that the dispute is not commercial because the buyer was not intending to use the property for trade or commerce.  Is this a commercial dispute?",
+    "Legal Principles": "The intended use of the property by the buyer is relevant to determining whether the dispute is commercial. If the buyer intended to use the property for trade or commerce, even if they ultimately didn't, the dispute may still be considered commercial.",
+    "Relevant Sections": "Section 2(1)(c)(vii) of the Commercial Courts, Commercial Division and Commercial Appellant Division of High Courts Act, 2015: \"(c) \"commercial dispute\" means a dispute arising out of- (vii) agreements relating to immovable property used exclusively in trade or commerce;\"",
+    "Context": "Jurisdiction: India. Case Type: Real Estate Dispute" 
+  },
+  {
+    "Query": "A bank is suing a borrower for default on a loan secured by a commercial property. The borrower argues that the dispute is commercial and should be heard by a commercial court. The bank argues that the dispute is not commercial because it is simply a matter of debt recovery.  Is this a commercial dispute?",
+    "Legal Principles": "Even though the dispute involves debt recovery, if the debt is secured by a commercial property, the dispute is likely to be considered commercial.",
+    "Relevant Sections": "Section 2(1)(c)(vii) of the Commercial Courts, Commercial Division and Commercial Appellant Division of High Courts Act, 2015: \"(c) \"commercial dispute\" means a dispute arising out of- (vii) agreements relating to immovable property used exclusively in trade or commerce;\"",
+    "Context": "Jurisdiction: India. Case Type: Debt Recovery Dispute" 
+  },
+  {
+    "Query": "A company is suing another company for breach of a contract to lease a commercial property for a period of 10 years. The defendant company claims that the dispute is commercial and should be heard by a commercial court. The plaintiff company argues that the dispute is not commercial because the lease was for a period of 10 years.  Is the length of the lease a factor in determining whether a dispute is commercial?",
+    "Legal Principles": "The length of the lease is not a determining factor in whether a dispute is commercial.  The key factor is the use of the property for trade or commerce during the lease period.",
+    "Relevant Sections": "Section 2(1)(c)(vii) of the Commercial Courts, Commercial Division and Commercial Appellant Division of High Courts Act, 2015: \"(c) \"commercial dispute\" means a dispute arising out of- (vii) agreements relating to immovable property used exclusively in trade or commerce;\"",
+    "Context": "Jurisdiction: India. Case Type: Lease Agreement Dispute" 
+  },
+  {
+    "Query": "A farmer is suing a company for damages to his crops caused by pollution from a nearby factory. The company claims that the dispute is commercial and should be heard by a commercial court. The farmer argues that the dispute is not commercial because it involves environmental damage.  Is this a commercial dispute?",
+    "Legal Principles": "While environmental damage may be involved, if the dispute primarily arises from an agreement related to the use of a commercial property for trade or commerce, it is likely to be considered a commercial dispute.",
+    "Relevant Sections": "Section 2(1)(c)(vii) of the Commercial Courts, Commercial Division and Commercial Appellant Division of High Courts Act, 2015: \"(c) \"commercial dispute\" means a dispute arising out of- (vii) agreements relating to immovable property used exclusively in trade or commerce;\"",
+    "Context": "Jurisdiction: India. Case Type: Environmental Damage Dispute" 
+  },
+  {
+    "Query": "A homeowner is suing a construction company for defective work on their home. The construction company claims that the dispute is commercial and should be heard by a commercial court. The homeowner argues that the dispute is not commercial because it involves their personal residence.  Is this a commercial dispute?",
+    "Legal Principles": "A dispute involving a homeowner's personal residence is generally not considered a commercial dispute under the Commercial Courts Act, 2015.  The Act is intended to streamline commercial transactions, not personal matters.",
+    "Relevant Sections": "Section 2(1)(c)(vii) of the Commercial Courts, Commercial Division and Commercial Appellant Division of High Courts Act, 2015: \"(c) \"commercial dispute\" means a dispute arising out of- (vii) agreements relating to immovable property used exclusively in trade or commerce;\"",
+    "Context": "Jurisdiction: India. Case Type: Construction Defect Dispute" 
+  }
+]
+```

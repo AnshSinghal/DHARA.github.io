@@ -1,0 +1,84 @@
+## 1. Case Title
+
+* **Case Name:** Gail (India) Ltd. vs Shreno Ltd.
+* **Court:** Gujarat High Court
+* **Date of Judgment:** 27th June 2018
+* **Citation:** C/FA/845/2017 & C/FA/849/2017
+
+## 2. Background and Context
+
+* **Brief Overview:** This case revolves around a dispute between GAIL (India) Ltd. (GAIL), a public sector undertaking, and Shreno Ltd. and Alembic Ltd., two industrial units, concerning the supply and diversion of natural gas. The dispute arose from a series of agreements for gas supply, a subsequent interconnection permission granted by GAIL allowing the two units to share gas supplies, and allegations of unauthorized diversion of gas by Shreno to Alembic. 
+* **Key Issues:** 
+    * Whether the interconnection permission granted to Shreno and Alembic by GAIL allowed for commingling of gas supplies.
+    * Whether Shreno's diversion of gas to Alembic constituted a breach of contract.
+    * Whether GAIL's counterclaim for non-APM (non-administered price mechanism) price for the entire gas supply was justified.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * Arbitration and Conciliation Act, 1996 (Sections 34, 37)
+    * Commercial Courts Act, 2015 (Section 13)
+* **Precedents Cited:**
+    * Associate Builders vs. Delhi Development Authority (2015) 3 SCC 49
+    * Rajasthan State Industrial Development & Investment Corporation vs. Diamond & Gem Development Corporation (2013) 5 SCC 470
+    * Gujarat Mineral Development Corporation Ltd vs. Simplex Infrastructure Limited (First Appeal Nos. 618 of 2017 & 778 of 2017)
+* **Legal Doctrines:** 
+    * Interpretation of contracts
+    * Public policy of India
+    * Patent illegality
+    * Scope of judicial intervention in arbitration
+    * Limitation in challenging arbitral awards 
+
+## 4. Arguments Presented
+
+* **GAIL’s Argument:**
+    * Interconnection permission was granted for specific purposes (equal pressure and flexibility) and did not allow for commingling of gas.
+    * Shreno's diversion of gas to Alembic was an unauthorized transfer, violating the terms of the gas supply contract.
+    * Shreno and Alembic were jointly availing gas beyond their individual allocations, making them liable for non-APM price.
+    * The fresh contract entered in 2006 superseded earlier agreements, including the interconnection permission.
+    * The Arbitrator misinterpreted the relevant agreements and erred in holding that there was no breach of contract.
+* **Shreno and Alembic’s Argument:**
+    * Interconnection permission explicitly allowed for commingling of gas supplies.
+    * No unauthorized transfer of gas occurred, as the interconnection was agreed upon and in operation for years.
+    * GAIL's counterclaim for non-APM price was unjustified, as the consequence of any unauthorized diversion would have been cancellation of allocation and disconnection of supply.
+    * The interconnection permission was not superseded by subsequent contracts.
+    * The Arbitrator's findings, based on appreciation of evidence and interpretation of contracts, were valid and did not warrant interference. 
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:** 
+    * The court acknowledged that the interconnection permission granted by GAIL in 2000 allowed for commingling of gas supplies.
+    * The court found no evidence of unauthorized transfer of gas by Shreno to Alembic, considering the interconnection agreement and subsequent contracts.
+    * The court considered GAIL's counterclaim for non-APM price as lacking merit, as the consequences of any unauthorized diversion should have been cancellation of allocation and disconnection of supply.
+    * The court cited the Supreme Court's decision in Associate Builders, highlighting the limited scope of judicial intervention in arbitration under Section 34 of the Arbitration Act. 
+* **Interpretation of Law:** The court interpreted the relevant agreements and the provisions of the Arbitration and Conciliation Act, 1996 to determine the scope of judicial review of the arbitral award.
+* **Application of Law:** The court applied the principles established in the Associate Builders case to the facts of the case, concluding that the Commercial Court was justified in not interfering with the Arbitrator's award rejecting GAIL's counterclaim.
+
+## 6. Judgment
+
+* **Final Decision:** The Gujarat High Court dismissed both appeals filed by GAIL.
+* **Relief Granted:**  No relief was granted to GAIL.
+* **Orders:** The court upheld the Commercial Court's decision, confirming the Arbitrator's award dismissing GAIL's counterclaim.
+
+## 7. Implications
+
+* **Impact on Law:** The judgment reaffirms the principle of limited judicial intervention in arbitration, as established in the Associate Builders case.
+* **Future Relevance:** This case serves as a precedent for similar disputes concerning the interpretation of agreements in the context of interconnection facilities and commingling of supplies.
+* **Broader Context:** The judgment reflects the judiciary's cautious approach in reviewing arbitration awards and emphasizes the need for clear and unambiguous contractual terms to avoid disputes. 
+
+## 8. Summary Points
+
+* GAIL's appeal to overturn the Commercial Court's decision rejecting their counterclaim against Shreno and Alembic was dismissed.
+* The Gujarat High Court upheld the Arbitrator's finding that the interconnection permission allowed for commingling of gas supplies, negating GAIL's claim of unauthorized diversion.
+* The court acknowledged the limited scope of judicial intervention in arbitration, limiting the grounds for overturning an arbitral award.
+* The decision reinforces the importance of clearly defined contractual terms and agreements in preventing disputes.
+
+## 9. References
+
+* **Citations:** 
+    * Arbitration and Conciliation Act, 1996 (Sections 34, 37)
+    * Commercial Courts Act, 2015 (Section 13)
+    * Associate Builders vs. Delhi Development Authority (2015) 3 SCC 49
+    * Rajasthan State Industrial Development & Investment Corporation vs. Diamond & Gem Development Corporation (2013) 5 SCC 470
+    * Gujarat Mineral Development Corporation Ltd vs. Simplex Infrastructure Limited (First Appeal Nos. 618 of 2017 & 778 of 2017)
+* **Further Reading:**  The relevant sections of the Arbitration and Conciliation Act, 1996 and the Commercial Courts Act, 2015, along with the judgments cited in the case, provide further details on the legal principles and precedents. 

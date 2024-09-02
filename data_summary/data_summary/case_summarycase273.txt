@@ -1,0 +1,108 @@
+## Case Title
+
+* **Case Name:** Rajasthan State Seeds Corporation Limited vs. J.K. Agri Genetics Limited
+* **Court:** Rajasthan High Court
+* **Date of Judgment:** 26th May 2023
+* **Citation:** S.B. Civil Writ Petition No. 3379/2022
+
+## Background and Context
+
+* **Brief Overview:** This case involves a dispute between Rajasthan State Seeds Corporation Limited (the petitioner) and J.K. Agri Genetics Limited (the claimant) concerning an agreement dated 06.06.2012 for the supply of seeds. The claimant alleged non-payment of the price for the seeds supplied and initiated an arbitral dispute. The Arbitrator rejected the claimant's claim on the grounds of limitation. The claimant then filed an Objection Application under Section 34 of the Arbitration and Conciliation Act, 1996 (the Act of 1996). Subsequently, the claimant sought leave to raise additional grounds in support of the Objection Application, which was granted by the Commercial Court. The petitioner challenged this order via a writ petition. 
+* **Key Issues:** 
+    * Whether the claimant's application to raise additional grounds was maintainable without seeking amendment in the Objection Application.
+    * Whether the additional grounds raised by the claimant constituted a change in the cause of action.
+    * Whether the Commercial Court erred in allowing the additional grounds to be raised.
+
+## Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * The Arbitration and Conciliation Act, 1996 (Act of 1996) - Section 34
+    * The Limitation Act, 1963 (Act of 1963) - Section 3
+    * The Code of Civil Procedure, 1908 (CPC) - Order 6 Rule 7
+* **Precedents Cited:**
+    * **Ma. Shwe Mya vs. Maung Mo Hnaung:** AIR 1922 PC 249
+    * **T. L. Muddukrishana & Anr. Vs. Lalitha Ramchandra Rao (Smt.):** (1997) 2 SCC 611
+    * **Srihari Hanumandas Totala Vs. Hemant Vithal Kamat & Ors.:** (2021) 9 SCC 99
+    * **State of Maharashtra Vs. Hindustan Construction Company Ltd.:** (2010) 4 SCC 518
+    * **Shakti Bhog Food Industries Ltd. Vs. Central Bank of India & Anr.:** (2020) 17 SCC 260
+    * **Rajkumar Gurawara (Dead) through LRs. Vs. S.K. Sarwagi And Company Private Limited & Another:** (2008) 14 SCC 364
+    * **Deep Industries Ltd. Vs. Oil and Natural Gas Corporation Ltd. & Anr.:** (2020) 15 SCC 706
+    * **Fiza Developers and Inter-Trade Pvt. Ltd. Vs. AMCI (India) Private Ltd. and Anr.:** (2009) 17 SCC 796
+    * **Chittoori Subbanna Vs. Kudappa Subbanna & Ors.:** AIR 1965 Supreme Court 1325
+    * **Mahboob Pasha Vs. Syed Zaheeruddin & Ors.:** AIR 1998 Karnataka 83
+    * **State of Chhattisgarh & Anr. Vs. Sal Udyog Pvt. Ltd.:** (2022) 2 SCC 275
+    * **A.K. Gupta & Sons Ltd. Vs. Damodar Valley Corporation:** AIR 1967 SC 96
+* **Legal Doctrines:**
+    * Cause of action
+    * Limitation 
+    * Jurisdiction under Article 227 of the Constitution of India
+    * Amendment of pleadings
+    * Pure questions of law
+
+## Arguments Presented
+
+* **Plaintiff’s Argument (Petitioner):**
+    * The additional grounds raised by the claimant constituted a change in the cause of action, which is impermissible.
+    * The claimant should have sought an amendment in the Objection Application before raising additional grounds.
+    * The additional grounds are inconsistent with the original pleadings and violate Order 6 Rule 7 CPC.
+    * The claimant's claim is barred by limitation, as per Clause 27 of the agreement and the provisions of the Limitation Act, 1963.
+    * The Court must only consider the claimant's pleadings while adjudicating the question of limitation and cannot consider the defendant's pleadings.
+* **Defendant’s Argument (Claimant):**
+    * The additional grounds are based on admitted facts and raise pure questions of law, making them permissible at any stage of the proceedings.
+    * The additional grounds do not introduce any new facts, merely reasserting the original claim based on the admitted facts already on record.
+    * The Court's jurisdiction under Article 227 of the Constitution is limited to examining patent jurisdictional errors and should not interfere with the Commercial Court's decision.
+    * The additional grounds do not change the cause of action, which is the non-payment of the price for the seeds supplied.
+    * The Commercial Court acted within its jurisdiction in allowing the additional grounds.
+
+## Court's Analysis and Reasoning
+
+* **Key Findings:**
+    * The additional grounds raised by the claimant do not introduce any new facts, but instead raise questions of law based on admitted facts.
+    * The cause of action remains the same - non-payment for the seeds supplied.
+    * The claimant is merely seeking a different interpretation of the limitation issue based on the existing facts.
+    * The Commercial Court has the discretion to allow raising of additional grounds, especially when they concern legal questions.
+    * The petitioner's contention regarding the limitation issue is misconceived as the Court can consider the defendant's pleadings too while deciding on the limitation question.
+    * The additional grounds do not violate Order 6 Rule 7 CPC as they are not inconsistent with the original pleadings.
+    * The Court is not supposed to examine the merits of the additional grounds at this stage, that's the role of the Commercial Court.
+* **Interpretation of Law:**
+    * The Court emphasized the need to interpret the 'cause of action' based on the substance of the dispute and not merely the technical details of the pleadings. 
+    * It clarified that 'pure questions of law' can be raised at any stage of the proceedings, even without amending the original application.
+    * The Court explained that the jurisdiction under Article 227 of the Constitution of India is limited to examining patent jurisdictional errors, not the merits of the case.
+    * The Court emphasized that the Court is bound to consider all relevant pleadings, including those of the defendant, while deciding on the limitation issue. 
+* **Application of Law:**
+    * The Court relied on several precedents to support its conclusion that raising additional grounds involving pure questions of law is permissible.
+    * It differentiated the present case from the precedents cited by the petitioner where amendment was required as those cases involved new facts and cause of action.
+    * The Court applied the principle of limited jurisdiction under Article 227 of the Constitution of India and refrained from interfering with the Commercial Court's decision.
+
+## Judgment
+
+* **Final Decision:** The writ petition was dismissed by the Rajasthan High Court.
+* **Relief Granted:** No relief was granted to the petitioner.
+* **Orders:** The order dated 04.12.2021 passed by the Commercial Court was upheld.
+
+## Implications
+
+* **Impact on Law:** This judgment reinforces the principle that raising additional grounds involving pure questions of law is permissible even without seeking an amendment to the original application. It also clarifies that the Court can consider both parties' pleadings while adjudicating the question of limitation.
+* **Future Relevance:** This case will be a useful precedent for future disputes involving similar issues of additional grounds, cause of action, and limitation. 
+* **Broader Context:** This case highlights the importance of striking a balance between procedural fairness and efficient resolution of legal disputes. 
+
+## Summary Points
+
+* The claimant's additional grounds were permissible as they raised legal questions based on admitted facts.
+* The additional grounds did not change the cause of action, which remained the non-payment for the seeds supplied.
+* The Commercial Court acted within its jurisdiction in allowing the additional grounds.
+* The petitioner's arguments concerning the limitation issue and the applicability of Order 6 Rule 7 CPC were dismissed by the Court.
+
+## References
+
+* **Citations:**
+    * Arbitration and Conciliation Act, 1996 (Act of 1996) - Section 34
+    * Limitation Act, 1963 (Act of 1963) - Section 3
+    * Code of Civil Procedure, 1908 (CPC) - Order 6 Rule 7
+    * Article 227 of the Constitution of India
+    * All the precedents cited in the judgment.
+* **Further Reading:**
+    * Articles and legal resources on the Arbitration and Conciliation Act, 1996, the Limitation Act, 1963, and the Code of Civil Procedure, 1908.
+    * Cases related to amendment of pleadings, cause of action, and limitation.
+
+Please note that this summary is based on the provided text of the judgment. It's essential to review the complete judgment and applicable laws for a comprehensive understanding of the case. 

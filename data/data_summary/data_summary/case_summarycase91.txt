@@ -1,0 +1,109 @@
+## 1. Case Title
+
+* **Case Name:** Sanghi Industries Limited vs. Ravin Cables Ltd
+* **Court:** Gujarat High Court
+* **Date of Judgment:** 11th February 2022
+* **Citation:** C/FA/3253/2021
+
+## 2. Background and Context
+
+* **Brief Overview:** This case involves a dispute between Sanghi Industries Limited (Appellant) and Ravin Cables Ltd (Respondent) regarding the quality of cables supplied under a contract for the construction of a power cable network. The Appellant invoked performance bank guarantees after claiming the cables were faulty, leading to power outages and financial losses. The Respondent, in turn, sought interim measures from the Commercial Court under Section 9 of the Arbitration and Conciliation Act, 1996, to prevent the Appellant from realizing the bank guarantee amounts. 
+
+* **Key Issues:**
+    * Whether the Commercial Court correctly exercised its powers under Section 9 of the Arbitration and Conciliation Act, 1996, in directing the Appellant to deposit the encashed bank guarantee amounts.
+    * Whether the Appellant's invocation of the performance bank guarantees was justified in light of the dispute over the quality of the cables.
+    * The proper interpretation and application of Section 9(ii)(e) of the Arbitration and Conciliation Act, 1996, in relation to interim measures for "just and convenient" protection.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * Arbitration and Conciliation Act, 1996, especially Section 9 (Interim Measures).
+    * Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015, Section 13.
+    * Code of Civil Procedure, 1908, Sections 96, 151, and Order XXXVIII Rule 5, Order XXXIX Rules 1 and 2.
+    * Insolvency and Bankruptcy Code, 2016.
+
+* **Precedents Cited:**
+    * Vinitec Electronics Private Limited v. HCL Infosystems Limited [(2008) 1 SCC 544] - On injunctions against unconditional bank guarantees.
+    * Roman Tech & Process Engg. Co. v. M/s.Solanki Traders [(2008) 2 SCC 302] - On the object and application of Order XXXVIII Rule 5, CPC.
+    * State of Uttar Pradesh v. Roshan Sing [(2008) 2 SCC 488] - On the application of residuary powers.
+    * Essar Oil Limited v. United India Insurance Co. Ltd. [2015(3) GLH 28] - On exercise of powers analogous to Order XXXVIII Rule 5, CPC.
+    * Adhunik Steels Limited v. Orissa Manganese and Minerals Private Limited [(2007) 7 SCC 125] - On the principles governing interim measures under Section 9 of the Arbitration Act.
+    * Arvind Constructions Co. (P) Limited v. Kalinga Mining Corporation [(2007) 6 SCC 798] - On the exercise of powers under Section 9 being analogous to Order XXXIX, CPC.
+    * Tanushree Basu v. Ishani Prasad Basu [(2008) 4 SCC 791] - On the power of the court to grant injunctions beyond Order 39, CPC.
+    * Manohar Lal Chopra v. Rai Bahadur Rao Raja Seth Hiralal [AIR 1962 SC 527] - On the Court's inherent jurisdiction to issue temporary injunctions.
+    * Wonder Limited v. Antox India P. Limited [1990 (supp.) SCC 727] - On the principles of appellate review of discretionary orders.
+    * Simplex Infrastructures Ltd. v. National Highways Authority of India [2011 SCC Online Del 207] - On the expansive scope of "just and convenient" under Section 9(ii)(e).
+
+* **Legal Doctrines:**
+    * Interpretation of Statutes - How the Court interpreted the provisions of the Arbitration and Conciliation Act, 1996, and its relationship with other legal principles.
+    * Principles of Equity - The Court emphasized the need to balance the equities between the parties during interim measures.
+    * Balance of Convenience - The Court considered the potential harm to each party if the interim measure was granted or denied.
+    * Inherent Powers of the Court - The Court acknowledged its inherent jurisdiction to issue interim orders even when not strictly covered by specific provisions. 
+
+## 4. Arguments Presented
+
+* **Appellant's Argument:**
+    * The bank guarantees were unconditional and irrevocable, giving the Appellant the right to invoke them without protest.
+    * The Appellant was entitled to invoke the bank guarantees for any loss or damages suffered due to the defective cables.
+    * The Respondent's application for injunction was rendered infructuous because the bank guarantees were already invoked.
+    * The Commercial Court erred in applying Section 9(ii)(b) of the Act and failing to consider the principles of Order XXXVIII Rule 5, CPC.
+    * The Commercial Court improperly considered Section 9(ii)(e) as a residuary power and failed to apply the "just and convenient" standard correctly. 
+    * The dispute related to the quality of cables under one Purchase Order, not the entire contract, and therefore the invocation of all bank guarantees was justified.
+    * The Appellant's claims of damages due to defective cables were legitimate and needed to be adjudicated by the arbitral tribunal.
+
+* **Respondent's Argument:**
+    * The Commercial Court correctly exercised its powers under Section 9(ii)(d) and (e) of the Act to protect the Respondent's interests.
+    * The Appellant improperly invoked all bank guarantees, including those unrelated to the alleged cable defects, which was an unjust and disproportionate response.
+    * The Appellant's claims of damages were baseless and afterthought, and should be proven before the arbitral tribunal.
+    * The Appellant's failure to pay the outstanding amount due to the Respondent justified the interim measures.
+    * The Commercial Court's order was a fair balancing of equities between the parties, and the Respondent would suffer irreparable harm if not protected. 
+    * The Commercial Court's decision was within the scope of Section 94 of the Code of Civil Procedure, which provides for supplementary proceedings.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The Court acknowledged that the dispute over the quality of cables was likely to be a subject matter of arbitration.
+    * The Court recognized that the bank guarantees were invoked before the application under Section 9 was heard, rendering the request for an injunction moot.
+    * The Court concluded that the Commercial Court properly exercised its powers under Section 9(ii)(e) of the Act, not Section 9(ii)(b), by directing the Appellant to deposit the encashed amount.
+    * The Court emphasized the importance of applying the principles of equity and balance of convenience while considering interim measures under Section 9. 
+    * The Court held that the Commercial Court's decision was "just and convenient" given the facts of the case.
+
+* **Interpretation of Law:** 
+    * The Court interpreted Section 9 of the Arbitration Act as providing for a range of interim protective measures to protect the interests of parties involved in arbitration proceedings.
+    * The Court emphasized that the powers under Section 9 are not strictly governed by the provisions of Order XXXIX, CPC, but are guided by analogous principles of equity and balance of convenience.
+    * The Court recognized that Section 9(ii)(e) confers broad discretion on the Court to tailor interim measures to the specific circumstances of the case.
+    * The Court clarified that the "just and convenient" standard under Section 9(ii)(e) is a flexible and equitable standard, allowing the Court to consider the overall fairness and practicality of the proposed measures. 
+
+* **Application of Law:**
+    * The Court found that the Commercial Court's direction to deposit the encashed bank guarantee amount was a fair and equitable measure to protect the Respondent's interests while awaiting the arbitral tribunal's decision.
+    * The Court considered the Respondent's potential harm if the Appellant was allowed to retain the bank guarantee amounts, finding that the Respondent could suffer irreparable financial loss.
+    * The Court emphasized the Court's inherent power to issue interim orders under Section 9, even when not explicitly covered by specific provisions.
+
+## 6. Judgment
+
+* **Final Decision:** The appeal was dismissed, upholding the Commercial Court's order.
+
+* **Relief Granted:** None, as the appeal was dismissed. The Court did, however, modify the order regarding the time frame for deposit of the encashed amounts, extending it by nine weeks.
+
+* **Orders:** The Court upheld the Commercial Court's order directing the Appellant to deposit the encashed bank guarantee amounts into the Court, to be invested in a nationalized bank.
+
+## 7. Implications
+
+* **Impact on Law:** This case reaffirms the broad discretion conferred on courts to grant interim measures under Section 9 of the Arbitration and Conciliation Act, 1996, to balance equities and protect the rights of parties involved in arbitration. 
+* **Future Relevance:** This judgment provides guidance for future cases involving disputes over the invocation of bank guarantees during arbitration proceedings.  
+* **Broader Context:** This case highlights the importance of balancing the interests of both parties during interim measures, ensuring that the exercise of power is fair and equitable. 
+
+## 8. Summary Points
+
+* The Appellant invoked performance bank guarantees after claiming the Respondent's cables were defective, leading to financial losses.
+* The Respondent sought interim measures from the Commercial Court to prevent the Appellant from realizing the bank guarantee amounts. 
+* The Commercial Court directed the Appellant to deposit the encashed amounts, finding this measure to be "just and convenient" to protect the Respondent's interests.
+* The High Court upheld the Commercial Court's order, emphasizing the broad discretion conferred on courts under Section 9 of the Arbitration and Conciliation Act, 1996, to balance equities and protect the rights of parties during arbitration.
+
+## 9. References
+
+* **Citations:** Refer to the "Legal Principles Involved" section for full citations of all statutes and cases referenced in this summary.
+* **Further Reading:**
+    * The Arbitration and Conciliation Act, 1996
+    *  "International Commercial Arbitration in UNCITRAL Model Law Jurisdictions" by Dr.Peter Binder
+

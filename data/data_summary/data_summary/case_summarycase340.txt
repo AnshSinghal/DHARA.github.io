@@ -1,0 +1,90 @@
+## 1. Case Title
+
+* **Case Name:** V.Pranav vs M/S.Narasus Spinning Mill Represented...
+* **Court:** Madras High Court
+* **Date of Judgment:** 8th April 2024
+* **Citation:** C.M.A (CAD) (SR) No.41810 of 2024
+
+## 2. Background and Context
+
+* **Brief Overview:** The case involves a dispute between four individuals (V.Pranav, V.Varun, Anuradha, and V.Naeha - Appellants) and a partnership firm, M/s.Narasus Spinning Mill (Respondent 1), and its partner, P.Sivanantham (Respondent 2). The dispute centers around a partnership deed dated 26.05.2020 and an arbitration agreement contained within it. The Appellants initiated proceedings under Section 11 of the Arbitration and Conciliation Act, 1996 (A&C Act) in the Madras High Court, seeking to enforce the arbitration agreement. Meanwhile, the partnership firm and its partner filed an application under Section 9 of the A&C Act in the Commercial Court, Salem, seeking to implead themselves as Respondents 4 and 5 in a pending application for temporary/mandatory injunction against HDFC Bank. The Appellants challenged the Commercial Court's order allowing the implead application.
+* **Key Issues:**
+    * Whether an appeal under Section 37(1)(b) of the A&C Act lies against an order granting an implead application.
+    * Whether the implead order can be considered an "order under Section 9" for purposes of Section 37(1)(b) appeal.
+    * Whether the impugned order can be considered as granting or refusing an interim measure under Section 9.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * Section 2(1)(b), 7, 9, 11, 21, 37(1)(b) of the Arbitration and Conciliation Act, 1996.
+    * Section 13 of the Commercial Courts Act, 2015.
+* **Precedents Cited:**
+    * Fuerst Day Lawson Limited Vs. Jindal Exports Limited reported in (2011) 8 SCC 333.
+    * V.G.Santhosam and Others Vs. Shanthi Gnanasekaran and Others reported in 2020 SCC OnLine Mad 560.
+    * M.Mythrai Vs. T.Ramesh and Others reported in 2021 SCC OnLine Mad 13704.
+    * Arupri Logistics Pvt. Ltd., Vs. Vilas Gupta and Others reported in 2023 SCC OnLine Del 4297.
+    * Kunhayammed and Others Vs. State of Kerala and another reported in (2000) 6 SCC 359.
+* **Legal Doctrines:**
+    * Doctrine of merger.
+    * Principle of negative import in statutory interpretation.
+    * Principles governing maintainability of appeals.
+
+## 4. Arguments Presented
+
+* **Appellants’ Argument:**
+    * The Appellants argued that the implead order is an order under Section 9 of the A&C Act, specifically Section 9(1)(ii)(e), and therefore, an appeal under Section 37(1)(b) lies against it.
+    * They relied on previous judgments in V.G.Santhosam, M.Mythrai, and Arupri Logistics cases to support their contention.
+* **Respondents’ Argument:**
+    * The Respondents (the partnership firm and its partner) argued that the implead order is not an order granting or refusing an interim measure under Section 9, and therefore, no appeal lies under Section 37(1)(b).
+    * They argued that the Appellants' reliance on the previous judgments is misplaced, as these cases are distinguishable from the present case.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The court recognized that Section 37(1)(b) of the A&C Act allows an appeal only against orders granting or refusing interim measures under Section 9.
+    * The court interpreted the expression "(and from no others)" in Section 37(1)(b) as having a negative import, indicating that only orders expressly mentioned are appealable.
+    * The court acknowledged that the impugned order accedes to an implead application, but it is not an order granting or refusing an interim measure under Section 9.
+    * The court also noted that the V.G.Santhosam case has been carried to the Supreme Court and is pending, and the decision of the Supreme Court would be binding on the Madras High Court.
+* **Interpretation of Law:**
+    * The court carefully analyzed Section 37(1)(b) of the A&C Act, paying special attention to the restrictive language and the principle of negative import.
+    * The court also examined the previous precedents cited by the parties, considering their factual differences and legal implications.
+* **Application of Law:**
+    * The court applied the principle of negative import in interpreting Section 37(1)(b) and concluded that the impugned order is not appealable under that provision.
+    * However, the court acknowledged that the appellants can still contest the impugned order as part of an appeal under Section 37(1)(b) against the final order in the Section 9 application, either as applicants or respondents.
+
+## 6. Judgment
+
+* **Final Decision:** The Madras High Court dismissed the CMA at the SR stage.
+* **Relief Granted:** No relief was granted to the Appellants.
+* **Orders:**
+    * The Salem Commercial Court was requested to dispose of the Section 9 application expeditiously, by 30.04.2024.
+    * The Salem Commercial Court was directed to decide the Section 9 application de hors the order passed by the Madras High Court.
+    * The parties were given the liberty to file an appeal under Section 37(1)(b) against the final order in the Section 9 application.
+    * The court left open the question of the correctness of the Commercial Court's order granting the implead application to be tested in the Section 37(1)(b) appeal.
+
+## 7. Implications
+
+* **Impact on Law:** The judgment reinforces the restrictive interpretation of Section 37(1)(b) of the A&C Act, emphasizing that only orders granting or refusing interim measures under Section 9 are appealable.
+* **Future Relevance:** This case provides guidance on the maintainability of appeals against orders granting implead applications in the context of arbitration proceedings. It emphasizes the importance of the specific language of the statute and the principle of negative import in interpreting appeal provisions.
+* **Broader Context:** The judgment highlights the complexities involved in procedural aspects of arbitration proceedings and the importance of resolving disputes through the established legal framework.
+
+## 8. Summary Points
+
+* The Madras High Court dismissed the Appellants' appeal against an order granting an implead application in a Section 9 application under the A&C Act.
+* The court held that the implead order is not an order granting or refusing an interim measure under Section 9, and therefore, no appeal lies under Section 37(1)(b).
+* The court left open the question of the correctness of the implead order to be tested in a Section 37(1)(b) appeal against the final order in the Section 9 application.
+* The court directed the Salem Commercial Court to dispose of the Section 9 application expeditiously.
+
+## 9. References
+
+* **Citations:**
+    * Arbitration and Conciliation Act, 1996 (Act No.26 of 1996)
+    * Commercial Courts Act, 2015
+    * Fuerst Day Lawson Limited Vs. Jindal Exports Limited reported in (2011) 8 SCC 333
+    * V.G.Santhosam and Others Vs. Shanthi Gnanasekaran and Others reported in 2020 SCC OnLine Mad 560
+    * M.Mythrai Vs. T.Ramesh and Others reported in 2021 SCC OnLine Mad 13704
+    * Arupri Logistics Pvt. Ltd., Vs. Vilas Gupta and Others reported in 2023 SCC OnLine Del 4297
+    * Kunhayammed and Others Vs. State of Kerala and another reported in (2000) 6 SCC 359
+* **Further Reading:**
+    * Further research on the relevant sections of the A&C Act and the precedents cited in the judgment would provide a more in-depth understanding of the legal principles involved.
+    * Exploring other cases involving implead applications in arbitration proceedings would provide broader context and insights into the legal issues at play.

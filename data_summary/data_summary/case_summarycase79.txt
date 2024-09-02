@@ -1,0 +1,126 @@
+##  Case Title
+
+•	**Case Name:** KMC Brahmaputra Infrastructure Limited vs. The Chief Engineer, Roads & Bridges Department, Government of Sikkim
+•	**Court:** Sikkim High Court
+•	**Date of Judgment:** 20th December, 2022
+•	**Citation:** Arb.A. No.03 of 2021
+
+## 2. Background and Context
+
+**Brief Overview:** KMC Brahmaputra Infrastructure Limited (Appellant) was contracted to build a two-lane bypass road in Sikkim.  The contract, signed on 22nd December 2010, stipulated a completion period of 36 months. Disputes arose concerning delayed payments from the respondent, The Chief Engineer, Roads & Bridges Department, Government of Sikkim (Respondent), leading to the Appellant terminating the contract on 18th October 2016. The Appellant invoked the arbitration clause and filed a claim including "Loss of Profit," which was awarded by the Arbitral Tribunal. However, the Commercial Court, in its decision under Section 34 of the Arbitration and Conciliation Act, 1996, set aside the "Loss of Profit" award. The Appellant appealed this decision to the Sikkim High Court.
+
+**Key Issues:**
+
+1. Whether the Appellant waived its right to claim "Loss of Profit" by proposing contract foreclosure.
+2. Whether the Tribunal correctly awarded "Loss of Profit" in light of the respondent's delay and the fundamental breach of the contract.
+3. Whether the Commercial Court erred in setting aside the "Loss of Profit" award under Section 34 of the Arbitration Act.
+
+## 3. Legal Principles Involved
+
+**Relevant Statutes and Provisions:**
+
+•	Arbitration and Conciliation Act, 1996 (as amended), particularly Sections 34 and 37.
+•	Indian Contract Act, 1872, Section 73.
+
+**Precedents Cited:**
+
+•	Maharashtra State Electricity Distribution Company Limited vs. Datar Switchgear Limited and Others (2017) 8 SCC 146
+•	Assam State Electricity Board and Others vs. Buildworth Private Limited (2019) 20 SCC 1
+•	Dyna Technologies Private Limited vs. Crompton Greaves Limited (1976) 3 SCC 32
+•	Union of India and Others vs. Sugauli Sugar Works (P) Ltd. (2011) 10 SCC 573
+•	MSK Projects India (JV) Limited vs. State of Rajasthan and Another (2019) 15 SCC 131
+•	Ssangyong Engineering and Construction Company Limited vs. National Highways Authority of India (NHAI) (2018) 3 SCC 133
+•	Renusagar Power Co. Ltd. vs. General Electric Co. 1994 Supp (1) SCC 644
+•	Oil & Natural Gas Corporation Ltd. vs. Saw Pipes Ltd. (2003) 5 SCC 705
+•	McDermott International INC. vs. Burn Standard Co. Ltd. and Others (2006) 11 SCC 181
+•	MMTC Limited vs. Vedanta Limited (2019) 4 SCC 163
+•	Parsa Kente Collieries Limited vs. Rajasthan Rajya Vidyut Utpadan Nigam Limited (2019) 7 SCC 236
+•	National Highway Authority of India vs. Progressive-MVR (JV) (2018) 14 SCC 688
+•	State of Kerala vs. K. Bhaskaran AIR 1985 Ker 49
+•	M/s. A.T. Brij Paul Singh and Others vs. State of Gujarat (1984) 4 SCC 59
+•	M. N. Gangappa (Dead) By L.Rs vs. Atmakur Nagabhushanam Setty & Co. and Another (1973) 3 SCC 406
+•	M/s. Hind Construction Contractors by its Sole Proprietor Bhikam-Chand Mulchand Jain (Dead) by Lrs. vs. State of Maharashtra (1979) 2 SCC 70
+•	N. Srinivasa vs. Kuttukaran Machine Tools Limited (2009) 5 SCC 182
+•	Transmission Corporation of Andhra Pradesh Limited and Others vs. GMR Vemagiri Power Generation Limited and Another (2018) 3 SCC 716
+•	Kanchan Udyog Limited vs. United Spirits Limited (2017) 8 SCC 237
+•	M. Lachia Setty and Sons Ltd. vs. Coffee Board, Bangalore (1980) 4 SCC 636
+•	GTM Builders & Promoters Pvt Ltd vs. Sneh Developers Pvt Ltd Judgment of the High Court of Delhi in O.M.P.(COMM) 10/2016 & IA Nos.6379/2016 & 4720/2017 dated 03-07-2018
+•	State of State of Madhya Pradesh and Others vs. M/s. Recondo Limited, Bhopal (1989 M.P.L.J 822)
+
+**Legal Doctrines:**
+
+•	Fundamental Breach: A breach that goes to the root of the contract, entitling the aggrieved party to terminate and claim damages.
+•	Repudiatory Breach: A breach that demonstrates a clear intention not to perform the contract, allowing the aggrieved party to terminate and claim damages.
+•	Mitigation of Loss: The principle that a party claiming damages must take reasonable steps to minimize their losses.
+•	Waiver: The voluntary relinquishment of a known right.
+
+## 4. Arguments Presented
+
+**Appellant’s Argument:**
+
+1. The Appellant's letter proposing foreclosure of the contract did not constitute a waiver of their right to claim "Loss of Profit." 
+2. The Tribunal correctly awarded "Loss of Profit" based on the Respondent's fundamental breach of the contract, which led to its termination.
+3. The Respondent's contributory delay was considered by the Tribunal, and the awarded "Loss of Profit" was fair and reasonable.
+4. The Commercial Court erred by substituting its own views for those of the Tribunal, exceeding the scope of Section 34 of the Arbitration Act.
+
+**Respondent’s Argument:**
+
+1. The Appellant's undertaking not to claim compensation if the contract was foreclosed was a waiver of their right to "Loss of Profit."
+2. The Respondent's breach was not fundamental, and the Appellant's own actions in terminating the contract caused the alleged "Loss of Profit."
+3. The Appellant had underbid the contract and thus, was not likely to have earned any profit even if the contract had been completed.
+4. The Tribunal wrongly interpreted the Contract and applied the concept of "fundamental breach" inappropriately.
+
+## 5. Court’s Analysis and Reasoning
+
+**Key Findings:**
+
+1. The Court found that the Appellant's letter proposing foreclosure did not constitute a waiver of their right to claim "Loss of Profit" because the foreclosure did not materialize. The "without prejudice" statement in the letter was correctly interpreted by the Tribunal and did not indicate a waiver of all legal rights.
+2. The Court agreed with the Tribunal's finding of a fundamental breach of the contract by the Respondent, which justified the Appellant's termination and the award of "Loss of Profit."
+3. The Court found that the Tribunal's computation of "Loss of Profit" at 50% of the original claim was fair and reasonable, considering the Respondent's contributory delay and the Appellant's own actions. 
+4. The Court concluded that the Commercial Court had exceeded its powers under Section 34 of the Arbitration Act by substituting its own views for those of the Tribunal.
+
+**Interpretation of Law:**
+
+1. The Court reiterated the limitations on the Commercial Court's power under Section 34 of the Arbitration Act, emphasizing that the Court cannot act as a first appellate court or reappreciate evidence. 
+2. The Court highlighted that the "patent illegality" required for setting aside an Arbitral Award must go to the root of the matter, not be a mere error in applying the law. 
+3. The Court reaffirmed the principle that the Arbitral Tribunal is the master of evidence and that its findings should not be interfered with unless they are perverse or against public policy.
+
+**Application of Law:**
+
+The Court applied these legal principles to the specific facts of the case, concluding that the Commercial Court's decision to set aside the "Loss of Profit" award was not justified.
+
+## 6. Judgment
+
+**Final Decision:** The Court allowed the Appellant's appeal and set aside the Commercial Court's order. The Award passed by the Arbitral Tribunal, including the "Loss of Profit" award, was restored.
+
+**Relief Granted:** The Appellant was granted the "Loss of Profit" award as determined by the Arbitral Tribunal.
+
+**Orders:** The Court ordered that the parties bear their own costs.
+
+## 7. Implications
+
+**Impact on Law:** This judgment reaffirms the importance of respecting the finality of Arbitral Awards and the limitations of judicial intervention under Section 34 of the Arbitration Act. It emphasizes the principle that Courts should not substitute their own views for those of the Tribunal unless the Award is patently illegal or perverse. 
+
+**Future Relevance:** This case will serve as a valuable precedent for future disputes involving the interpretation of "fundamental breach" and the award of "Loss of Profit" in contract termination cases. It also highlights the importance of clear and specific contractual clauses defining essential terms and payment obligations.
+
+**Broader Context:** This case underscores the importance of efficient and effective dispute resolution mechanisms, particularly in the context of large infrastructure projects. The judgment encourages parties to carefully draft contracts and consider the potential consequences of breaches. 
+
+## 8. Summary Points
+
+•	The Appellant was awarded "Loss of Profit" by the Arbitral Tribunal for the Respondent's fundamental breach of the contract.
+•	The Commercial Court erred in setting aside the "Loss of Profit" award, exceeding its powers under Section 34 of the Arbitration Act.
+•	The Sikkim High Court restored the Arbitral Award, affirming the importance of respecting the finality of Arbitral decisions and the limitations on judicial intervention. 
+
+## 9. References
+
+**Citations:**
+
+•	Arbitration and Conciliation Act, 1996 (as amended)
+•	Indian Contract Act, 1872
+•	All precedents cited in the judgment
+
+**Further Reading:**
+
+•	Relevant sections of the Arbitration and Conciliation Act, 1996.
+•	Relevant sections of the Indian Contract Act, 1872.
+•	Case law on "fundamental breach," "repudiatory breach," and "Loss of Profit" in contract termination cases. 

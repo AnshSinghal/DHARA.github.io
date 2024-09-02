@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A company is challenging the transfer of its case to the Commercial Division, arguing that it was filed before the Commercial Courts Act came into effect and the Act's timeline for filing written statements should not apply.",
+    "Legal Principles": "Retrospective application of legislation, interpretation of statutory provisions, principles of statutory construction, jurisdiction of Commercial Division, timelines for filing written statements under Commercial Courts Act.",
+    "Relevant Sections": "Section 15 of the Commercial Courts Act, 2015:  [Relevant subsections as per the case]. Order V Rule 1 of the CPC, Order VIII Rule 1 of the CPC.",
+    "Context": "This case deals with the retrospective application of the Commercial Courts Act, 2015 on suits pending before the enactment of the Act. The issue is whether the mandatory timeline of 120 days for filing a written statement in a Commercial Suit applies to suits transferred to the Commercial Division after the Act's enactment."
+  },
+  {
+    "Query": "A defendant in a transferred commercial suit argues that the Court has discretion to set new timelines for filing written statements under Section 15(4) of the Commercial Courts Act.",
+    "Legal Principles": "Discretionary powers of the court, interpretation of Section 15(4) of the Commercial Courts Act, procedural fairness, balancing the interests of parties.",
+    "Relevant Sections": "Section 15(4) of the Commercial Courts Act, 2015:  [Relevant subsections as per the case].",
+    "Context": "This case involves a dispute about the application of the Commercial Courts Act's provisions on timelines for filing written statements in transferred commercial suits. The court must consider whether Section 15(4) allows for the setting of new timelines and balance the interests of the parties."
+  },
+  {
+    "Query": "A plaintiff is arguing that the Commercial Courts Act applies to all transferred commercial suits, including those filed before the Act's enactment, and that a 120-day timeline for filing written statements should apply.",
+    "Legal Principles": "Retrospective application of legislation, interpretation of statutory provisions, principles of statutory construction, jurisdiction of Commercial Division, timelines for filing written statements under Commercial Courts Act.",
+    "Relevant Sections": "Section 15 of the Commercial Courts Act, 2015:  [Relevant subsections as per the case]. Order V Rule 1 of the CPC, Order VIII Rule 1 of the CPC.",
+    "Context": "This case deals with the retrospective application of the Commercial Courts Act, 2015 on suits pending before the enactment of the Act. The issue is whether the mandatory timeline of 120 days for filing a written statement in a Commercial Suit applies to suits transferred to the Commercial Division after the Act's enactment."
+  },
+  {
+    "Query": "A defendant in a transferred commercial suit seeks to condone delay in filing a written statement, arguing that the case management process under Section 15(4) allows for extensions.",
+    "Legal Principles": "Condonation of delay, interpretation of Section 15(4) of the Commercial Courts Act, case management process, balancing the interests of parties, principles of procedural fairness.",
+    "Relevant Sections": "Section 15(4) of the Commercial Courts Act, 2015: [Relevant subsections as per the case]. Order XV-A of the CPC.",
+    "Context": "This case involves a defendant's application for condonation of delay in filing a written statement in a transferred commercial suit. The court must determine whether the case management process under Section 15(4) allows for extensions and balance the interests of the parties."
+  },
+  {
+    "Query": "A plaintiff is challenging the defendant's waiver of service of the writ of summons in a transferred commercial suit, arguing that it does not prevent the application of the 120-day timeline for filing written statements.",
+    "Legal Principles": "Waiver of service of writ of summons, interpretation of Section 15(4) of the Commercial Courts Act, timelines for filing written statements in transferred commercial suits, procedural fairness, balancing the interests of parties.",
+    "Relevant Sections": "Section 15(4) of the Commercial Courts Act, 2015: [Relevant subsections as per the case]. Order V Rule 1 of the CPC.",
+    "Context": "This case involves a dispute about the impact of a defendant's waiver of service of the writ of summons on the application of the 120-day timeline for filing written statements in a transferred commercial suit. The court must determine whether the waiver negates the court's discretion to set new timelines under Section 15(4)."
+  },
+  {
+    "Query": "A defendant in a transferred commercial suit argues that the court should not discriminate between fresh commercial suits and transferred commercial suits in terms of the application of the 120-day timeline for filing written statements.",
+    "Legal Principles": "Equality before the law, non-discrimination, interpretation of Section 15(4) of the Commercial Courts Act, procedural fairness, balancing the interests of parties.",
+    "Relevant Sections": "Section 15(4) of the Commercial Courts Act, 2015: [Relevant subsections as per the case].",
+    "Context": "This case involves a defendant's argument that the court should apply the same timeline for filing written statements to both fresh commercial suits and transferred commercial suits. The court must consider whether the distinction created by Section 15(4) constitutes unfair discrimination."
+  },
+  {
+    "Query": "A company is seeking to transfer a pending suit to the Commercial Division, arguing that the suit involves a commercial dispute of specified value as per the Commercial Courts Act.",
+    "Legal Principles": "Jurisdiction of Commercial Division, interpretation of the Commercial Courts Act, commercial dispute, specified value, transfer of pending suits.",
+    "Relevant Sections": "Section 15 of the Commercial Courts Act, 2015: [Relevant subsections as per the case].",
+    "Context": "This case concerns an application for the transfer of a pending suit to the Commercial Division. The court must determine whether the suit meets the requirements for transfer under the Commercial Courts Act, specifically, whether it involves a commercial dispute of specified value."
+  },
+  {
+    "Query": "A defendant in a transferred commercial suit argues that the court's order directing the defendant to file a written statement within a specific timeframe was not a valid case management order under Section 15(4) of the Commercial Courts Act.",
+    "Legal Principles": "Case management orders, interpretation of Section 15(4) of the Commercial Courts Act, procedural fairness, balancing the interests of parties.",
+    "Relevant Sections": "Section 15(4) of the Commercial Courts Act, 2015: [Relevant subsections as per the case]. Order XV-A of the CPC.",
+    "Context": "This case involves a defendant's challenge to the validity of a court order directing the defendant to file a written statement within a specific timeframe in a transferred commercial suit. The court must determine whether the order meets the requirements of a case management order under Section 15(4) and balance the interests of the parties."
+  },
+  {
+    "Query": "A plaintiff in a transferred commercial suit is seeking to enforce the 120-day timeline for filing written statements, arguing that the defendant's reliance on Section 15(4) for extension is misplaced.",
+    "Legal Principles": "Interpretation of Section 15(4) of the Commercial Courts Act, timelines for filing written statements in transferred commercial suits, balancing the interests of parties, procedural fairness.",
+    "Relevant Sections": "Section 15(4) of the Commercial Courts Act, 2015: [Relevant subsections as per the case]. Order VIII Rule 1 of the CPC.",
+    "Context": "This case involves a plaintiff's attempt to enforce the 120-day timeline for filing written statements in a transferred commercial suit, challenging the defendant's claim that Section 15(4) allows for an extension. The court must balance the interests of the parties and determine whether the defendant's reliance on Section 15(4) is justified."
+  },
+  {
+    "Query": "A defendant in a transferred commercial suit argues that the court should not apply the 120-day timeline for filing written statements because the suit was pending before the enactment of the Commercial Courts Act.",
+    "Legal Principles": "Retrospective application of legislation, interpretation of statutory provisions, principles of statutory construction, jurisdiction of Commercial Division, timelines for filing written statements under Commercial Courts Act.",
+    "Relevant Sections": "Section 15 of the Commercial Courts Act, 2015: [Relevant subsections as per the case]. Order V Rule 1 of the CPC, Order VIII Rule 1 of the CPC.",
+    "Context": "This case deals with the retrospective application of the Commercial Courts Act, 2015 on suits pending before the enactment of the Act. The issue is whether the mandatory timeline of 120 days for filing a written statement in a Commercial Suit applies to suits transferred to the Commercial Division after the Act's enactment."
+  }
+]
+```

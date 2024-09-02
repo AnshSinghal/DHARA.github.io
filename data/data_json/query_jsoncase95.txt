@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A borrower, facing financial difficulties, defaulted on loans from a consortium of banks. The banks initiated recovery proceedings before the Debt Recovery Tribunal (DRT), while the borrower filed a separate civil suit against the banks in the Civil Court seeking damages for alleged wrongful actions. The banks filed an application to reject the borrower's plaint under Order VII Rule 11 of the Code of Civil Procedure (CPC) on the grounds that the borrower should have filed a counterclaim in the DRT proceedings. Is the borrower's independent suit maintainable, or should it be treated as a counterclaim in the DRT proceedings?",
+    "Legal Principles": "The legal principles involved in this query relate to the jurisdiction of the Debt Recovery Tribunal (DRT) under the Recovery of Debts Due to Banks and Financial Institutions Act, 1993 (Finance Act, 1993), the maintainability of independent suits by borrowers against banks seeking damages, and the applicability of Order VII Rule 11 of the Code of Civil Procedure (CPC) in rejecting plaints.",
+    "Relevant Sections": "Section 18 and 19 of the Finance Act, 1993, Order VII Rule 11 of the CPC",
+    "Context": "This case involves a dispute between a borrower and a consortium of banks regarding the recovery of loans and the borrower's claim for damages. The legal question is whether the borrower can maintain a separate civil suit against the banks in the Civil Court or whether the claim should be raised as a counterclaim in the DRT proceedings."
+  },
+  {
+    "Query": "A company defaulted on a loan from a bank. The bank filed a recovery application before the DRT, while the company filed an independent civil suit against the bank, claiming that the loan agreement was induced by fraud. The bank argued that the company's suit was barred by the Finance Act, 1993. The Civil Court, relying on a decision of the Division Bench of the Gujarat High Court, rejected the company's plaint under Order VII Rule 11 of the CPC. Should the company's suit be dismissed or allowed to proceed?",
+    "Legal Principles": "The legal principles involved in this query relate to the scope of the Finance Act, 1993, the maintainability of independent suits challenging loan agreements, the application of the principle of res judicata, and the power of the Civil Court to reject plaints under Order VII Rule 11 of the CPC.",
+    "Relevant Sections": "Finance Act, 1993, Order VII Rule 11 of the CPC",
+    "Context": "This case involves a dispute between a company and a bank regarding the recovery of a loan and the company's allegation of fraud in the loan agreement. The legal question is whether the company's independent suit challenging the loan agreement is barred by the Finance Act, 1993."
+  },
+  {
+    "Query": "A borrower claimed that a bank had wrongfully levied charges and penalties on their loan account. The bank filed a recovery application before the DRT, while the borrower filed a separate suit in the Civil Court seeking a declaration that the charges and penalties were illegal. The bank argued that the borrower's suit was barred by the Finance Act, 1993, and the Civil Court dismissed the suit under Order VII Rule 11 of the CPC. Can the borrower challenge the Civil Court's decision on appeal?",
+    "Legal Principles": "The legal principles involved in this query relate to the maintainability of independent suits challenging bank charges and penalties, the scope of the Finance Act, 1993, and the power of the Civil Court to dismiss suits under Order VII Rule 11 of the CPC.",
+    "Relevant Sections": "Finance Act, 1993, Order VII Rule 11 of the CPC",
+    "Context": "This case involves a dispute between a borrower and a bank regarding the legality of bank charges and penalties levied on a loan account. The legal question is whether the borrower can maintain a separate civil suit challenging the charges and penalties in the Civil Court or whether the claim should be raised as a counterclaim in the DRT proceedings."
+  },
+  {
+    "Query": "A company entered into a loan agreement with a bank, but the bank allegedly failed to disburse the loan amount as agreed. The company filed a civil suit against the bank for breach of contract, while the bank filed a recovery application against the company before the DRT seeking repayment of the loan amount. The Civil Court dismissed the company's suit under Order VII Rule 11 of the CPC, finding that it was barred by the Finance Act, 1993. Is the Civil Court's decision correct?",
+    "Legal Principles": "The legal principles involved in this query relate to the scope of the Finance Act, 1993, the maintainability of independent suits for breach of contract against banks, and the power of the Civil Court to dismiss suits under Order VII Rule 11 of the CPC.",
+    "Relevant Sections": "Finance Act, 1993, Order VII Rule 11 of the CPC",
+    "Context": "This case involves a dispute between a company and a bank regarding the non-disbursement of a loan amount as per the loan agreement. The legal question is whether the company can maintain a separate civil suit against the bank for breach of contract or whether the claim should be raised as a counterclaim in the DRT proceedings."
+  },
+  {
+    "Query": "A borrower claimed that a bank had wrongfully seized their property to recover a loan amount. The bank filed a recovery application before the DRT, while the borrower filed an independent civil suit against the bank seeking a declaration that the seizure was illegal. The Civil Court dismissed the borrower's suit under Order VII Rule 11 of the CPC, finding that it was barred by the Finance Act, 1993. Can the borrower challenge the Civil Court's decision on appeal?",
+    "Legal Principles": "The legal principles involved in this query relate to the maintainability of independent suits challenging wrongful seizure of property by banks, the scope of the Finance Act, 1993, and the power of the Civil Court to dismiss suits under Order VII Rule 11 of the CPC.",
+    "Relevant Sections": "Finance Act, 1993, Order VII Rule 11 of the CPC",
+    "Context": "This case involves a dispute between a borrower and a bank regarding the wrongful seizure of property by the bank to recover a loan amount. The legal question is whether the borrower can maintain a separate civil suit challenging the seizure in the Civil Court or whether the claim should be raised as a counterclaim in the DRT proceedings."
+  },
+  {
+    "Query": "A bank filed a recovery application before the DRT against a borrower who had defaulted on a loan. The borrower filed an independent civil suit against the bank, alleging that the bank had charged excessive interest rates. The Civil Court dismissed the borrower's suit under Order VII Rule 11 of the CPC, finding that it was barred by the Finance Act, 1993. Can the borrower appeal the Civil Court's decision?",
+    "Legal Principles": "The legal principles involved in this query relate to the maintainability of independent suits challenging excessive interest rates charged by banks, the scope of the Finance Act, 1993, and the power of the Civil Court to dismiss suits under Order VII Rule 11 of the CPC.",
+    "Relevant Sections": "Finance Act, 1993, Order VII Rule 11 of the CPC",
+    "Context": "This case involves a dispute between a borrower and a bank regarding the excessive interest rates charged on a loan. The legal question is whether the borrower can maintain a separate civil suit challenging the interest rates in the Civil Court or whether the claim should be raised as a counterclaim in the DRT proceedings."
+  },
+  {
+    "Query": "A borrower alleged that a bank had violated the terms of a loan agreement by unilaterally changing the interest rates. The bank filed a recovery application before the DRT, while the borrower filed an independent civil suit against the bank for breach of contract. The Civil Court dismissed the borrower's suit under Order VII Rule 11 of the CPC, finding that it was barred by the Finance Act, 1993. Is the Civil Court's decision correct?",
+    "Legal Principles": "The legal principles involved in this query relate to the scope of the Finance Act, 1993, the maintainability of independent suits for breach of contract against banks, and the power of the Civil Court to dismiss suits under Order VII Rule 11 of the CPC.",
+    "Relevant Sections": "Finance Act, 1993, Order VII Rule 11 of the CPC",
+    "Context": "This case involves a dispute between a borrower and a bank regarding the unilateral change in interest rates by the bank. The legal question is whether the borrower can maintain a separate civil suit against the bank for breach of contract or whether the claim should be raised as a counterclaim in the DRT proceedings."
+  },
+  {
+    "Query": "A company borrowed money from a bank, but the bank allegedly failed to provide the agreed-upon credit facilities. The company filed a civil suit against the bank for breach of contract, while the bank filed a recovery application against the company before the DRT seeking repayment of the loan amount. The Civil Court dismissed the company's suit under Order VII Rule 11 of the CPC, finding that it was barred by the Finance Act, 1993. Is the Civil Court's decision correct?",
+    "Legal Principles": "The legal principles involved in this query relate to the scope of the Finance Act, 1993, the maintainability of independent suits for breach of contract against banks, and the power of the Civil Court to dismiss suits under Order VII Rule 11 of the CPC.",
+    "Relevant Sections": "Finance Act, 1993, Order VII Rule 11 of the CPC",
+    "Context": "This case involves a dispute between a company and a bank regarding the bank's failure to provide the agreed-upon credit facilities. The legal question is whether the company can maintain a separate civil suit against the bank for breach of contract or whether the claim should be raised as a counterclaim in the DRT proceedings."
+  },
+  {
+    "Query": "A bank filed a recovery application before the DRT against a borrower who had defaulted on a loan. The borrower filed an independent civil suit against the bank, alleging that the bank had misrepresented the terms of the loan agreement. The Civil Court dismissed the borrower's suit under Order VII Rule 11 of the CPC, finding that it was barred by the Finance Act, 1993. Can the borrower appeal the Civil Court's decision?",
+    "Legal Principles": "The legal principles involved in this query relate to the maintainability of independent suits challenging misrepresentations made by banks in loan agreements, the scope of the Finance Act, 1993, and the power of the Civil Court to dismiss suits under Order VII Rule 11 of the CPC.",
+    "Relevant Sections": "Finance Act, 1993, Order VII Rule 11 of the CPC",
+    "Context": "This case involves a dispute between a borrower and a bank regarding the bank's alleged misrepresentation of the terms of a loan agreement. The legal question is whether the borrower can maintain a separate civil suit challenging the misrepresentation in the Civil Court or whether the claim should be raised as a counterclaim in the DRT proceedings."
+  },
+  {
+    "Query": "A borrower claimed that a bank had wrongfully charged excessive fees and charges on their loan account. The bank filed a recovery application before the DRT, while the borrower filed a separate suit in the Civil Court seeking a declaration that the fees and charges were illegal. The bank argued that the borrower's suit was barred by the Finance Act, 1993, and the Civil Court dismissed the suit under Order VII Rule 11 of the CPC. Can the borrower challenge the Civil Court's decision on appeal?",
+    "Legal Principles": "The legal principles involved in this query relate to the maintainability of independent suits challenging excessive fees and charges levied by banks, the scope of the Finance Act, 1993, and the power of the Civil Court to dismiss suits under Order VII Rule 11 of the CPC.",
+    "Relevant Sections": "Finance Act, 1993, Order VII Rule 11 of the CPC",
+    "Context": "This case involves a dispute between a borrower and a bank regarding the legality of excessive fees and charges levied on a loan account. The legal question is whether the borrower can maintain a separate civil suit challenging the fees and charges in the Civil Court or whether the claim should be raised as a counterclaim in the DRT proceedings."
+  }
+]
+```

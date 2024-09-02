@@ -1,0 +1,102 @@
+## 1. Case Title
+
+• **Case Name:** Chacha Nehru Bal Chikitsalaya, Delhi vs. M/S Induction Corporate Solutions Pvt. Ltd.
+• **Court:** Delhi High Court
+• **Date of Judgment:** 12th March 2024
+• **Citation:** FAO (COMM) 206/2023
+
+## 2. Background and Context
+
+• **Brief Overview:** The case arose from a dispute between Chacha Nehru Bal Chikitsalaya (appellant), an autonomous institute, and M/S Induction Corporate Solutions Pvt. Ltd. (respondent), stemming from an agreement signed in 2015. This agreement included an arbitration clause, leading to an arbitral award in favor of the respondent in 2019. The appellant challenged the award through multiple petitions, facing issues with the jurisdiction of the courts and the applicability of the Commercial Courts Act, 2015. 
+
+• **Key Issues:** 
+    * **Limitation Period for Challenging Arbitral Award:** Whether the appellant's application to set aside the arbitral award was filed within the stipulated time period, and if not, whether the delay could be condoned.
+    * **Applicability of Pre-Institution Mediation under the Commercial Courts Act, 2015:** Whether the provisions of Section 12A of the Commercial Courts Act, 2015, requiring pre-institution mediation, applied to an application under Section 34 of the Arbitration & Conciliation Act, 1996 for setting aside an arbitral award.
+    * **Jurisdiction of Courts:** Whether the Commercial Court, East District (Karkardooma Courts) had jurisdiction over the matter given the parties' agreement on the place of arbitration.
+
+## 3. Legal Principles Involved
+
+• **Relevant Statutes and Provisions:**
+    * **Arbitration & Conciliation Act, 1996 (A&C Act):** Sections 34 (challenging arbitral award), 37 (appeal against arbitral award), 20 (place of arbitration).
+    * **Commercial Courts Act, 2015:** Section 12A (pre-institution mediation).
+    * **Limitation Act, 1963:** Section 14 (exclusion of time for certain purposes).
+
+• **Precedents Cited:**
+    * **Indus Mobile Distribution Pvt. Ltd. v. Datawind Innovations Pvt. Ltd. & Ors. (2017) 7 SCC 678:** This case established that agreeing to a seat of arbitration amounts to an exclusive jurisdiction clause.
+    * **Bharat Aluminium Co. v. Kaiser Aluminium Technical Services Inc. (2012) 9 SCC 552:** This case clarified the interpretation of "subject-matter" in Section 2(1)(e) of the A&C Act in relation to the "subject-matter of the arbitration."
+    * **Cognizance for Extension of Limitation, In re (2020) 19 SCC 10:** This case dealt with the extension of limitation periods during the COVID-19 pandemic. 
+    * **Sagufa Ahmed & Ors. v. Upper Assam Plywood Products Limited & Ors. (2023) 9 SCC 570:** This case concerned the interpretation of the Cognizance for Extension of Limitation order.
+    * **Aditya Khaitan & Ors. v. IL and FS Financial Services Limited (2021) 2 SCC 317:** This case addressed the application of the Cognizance for Extension of Limitation order in determining the outer limit for condoning delay.
+
+• **Legal Doctrines:**
+    * **Actus Curiae Neminem Gravabit:** The act of the Court shall not prejudice any man.
+    * **Vigilantibus, et non dormientibus, jura subveniunt:** The vigilant, and not the sleepy, are assisted by the laws.
+
+## 4. Arguments Presented
+
+• **Appellant’s Argument:**
+    * The time spent pursuing mediation after the first petition was rejected should be excluded from the limitation period under Section 14 of the Limitation Act.
+    * The delay in filing the third petition was due to the erroneous orders of the courts, and therefore, the outer limit for condonation of delay should be extended due to the Supreme Court's order in Cognizance for Extension of Limitation. 
+    * The seat of arbitration was Delhi, not Connaught Place, and the Karkardooma Courts had jurisdiction to entertain the application.
+
+• **Respondent’s Argument:**
+    * The first petition was filed beyond the limitation period, and the delay was not condonable.
+    * The provisions of Section 12A of the Commercial Courts Act, 2015, did not apply to an application under Section 34 of the A&C Act, and the appellant should have appealed the order rejecting the first petition.
+    * The benefit of the Cognizance for Extension of Limitation order was not available as the limitation period had already expired.
+    * Connaught Place was the seat of arbitration, and the Patiala House Courts had exclusive jurisdiction.
+
+## 5. Court’s Analysis and Reasoning
+
+• **Key Findings:**
+    * The court found that the appellant's initial delay in filing the first petition was condonable.
+    * The Commercial Court, Karkardooma, had erroneously applied Section 12A of the Commercial Courts Act, 2015, to the application under Section 34 of the A&C Act, and the period spent on mediation should be excluded from the limitation period.
+    * The court rejected the respondent's argument that the appellant should have appealed the order rejecting the first petition.
+    * The court concluded that the seat of arbitration was Delhi, not Connaught Place, based on the arbitration clause in the agreement.
+    * The court found that the Karkardooma Courts had jurisdiction to entertain the application, as they were the Court as defined in Section 2(1)(e) of the A&C Act and both parties carried on their business activities within their territorial jurisdiction.
+    * The court applied the principle of *Actus Curiae Neminem Gravabit* to remedy the prejudice caused by the erroneous court orders.
+
+• **Interpretation of Law:**
+    * The court interpreted Section 12A of the Commercial Courts Act, 2015, as not applicable to applications under Section 34 of the A&C Act.
+    * The court interpreted Section 20 of the A&C Act to mean that the seat of arbitration is not determined by the location of the hearings but by the parties' agreement or the Arbitral Tribunal's decision.
+    * The court analyzed previous judgments on the concept of "seat of arbitration" and its relation to jurisdiction.
+    * The court interpreted the Cognizance for Extension of Limitation order as applicable to determining the outer limit for condoning delay.
+
+• **Application of Law:**
+    * The court applied Section 14 of the Limitation Act to exclude the time spent on mediation.
+    * The court applied the principle of *Actus Curiae Neminem Gravabit* to set aside the erroneous court orders and provide a remedy for the appellant.
+
+## 6. Judgment
+
+• **Final Decision:** The court set aside the impugned order dismissing the appellant's application as barred by limitation.
+• **Relief Granted:** The appellant was granted liberty to seek the return of the petition and refile it before the learned Commercial Court.
+• **Orders:** The appeal was disposed of, and the pending application was also disposed of.
+
+## 7. Implications
+
+• **Impact on Law:** This judgment clarifies the applicability of Section 12A of the Commercial Courts Act, 2015, to applications under Section 34 of the A&C Act. It also reaffirms the principle that the seat of arbitration is not necessarily determined by the location of the hearings. 
+• **Future Relevance:** This case provides valuable guidance for courts and parties in cases involving the determination of the seat of arbitration and the application of pre-institution mediation rules in the context of arbitration proceedings.
+• **Broader Context:** This case underscores the importance of court orders being based on a proper application of law to prevent prejudice to litigants. It also highlights the potential for delays and inefficiencies in the legal system when erroneous orders are issued.
+
+## 8. Summary Points
+
+• The appellant faced multiple challenges in attempting to challenge an arbitral award due to erroneous court orders. 
+• The court found that pre-institution mediation under the Commercial Courts Act, 2015, was not applicable to applications under Section 34 of the A&C Act.
+• The court clarified that the seat of arbitration is determined by agreement or by the Arbitral Tribunal's decision, not by the location of the hearings.
+• The court applied the principle of *Actus Curiae Neminem Gravabit* to remedy the prejudice caused to the appellant.
+
+## 9. References
+
+• **Arbitration & Conciliation Act, 1996:** [Citation: https://www.legislative.gov.in/sites/default/files/A1996-42.pdf]
+• **Commercial Courts Act, 2015:** [Citation: https://www.legislative.gov.in/sites/default/files/A2015-15.pdf]
+• **Limitation Act, 1963:** [Citation: https://www.legislative.gov.in/sites/default/files/A1963-36.pdf]
+• **Indus Mobile Distribution Pvt. Ltd. v. Datawind Innovations Pvt. Ltd. & Ors. (2017) 7 SCC 678:** [Citation: https://indiankanoon.org/doc/1388890/]
+• **Bharat Aluminium Co. v. Kaiser Aluminium Technical Services Inc. (2012) 9 SCC 552:** [Citation: https://indiankanoon.org/doc/170457/]
+• **Cognizance for Extension of Limitation, In re (2020) 19 SCC 10:** [Citation: https://indiankanoon.org/doc/1872549/]
+• **Sagufa Ahmed & Ors. v. Upper Assam Plywood Products Limited & Ors. (2023) 9 SCC 570:** [Citation: https://indiankanoon.org/doc/2036999/]
+• **Aditya Khaitan & Ors. v. IL and FS Financial Services Limited (2021) 2 SCC 317:** [Citation: https://indiankanoon.org/doc/1942717/]
+
+## Further Reading
+
+* **Understanding Arbitration in India:** https://www.mondaq.com/india/arbitration-dispute-resolution/707174/understanding-arbitration-in-india
+* **The Commercial Courts Act, 2015: A Commentary:** https://www.manupatra.com/publication/article/The-Commercial-Courts-Act-2015-A-Commentary-110053/ 
+* **Recent Developments in Arbitration Law:** https://www.lexology.com/library/detail.aspx?g=44d9513c-2e3c-419f-ab88-e926460a7d59 

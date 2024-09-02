@@ -1,0 +1,90 @@
+## Case Title
+
+* **Case Name:** Doshion Private Limited vs Hindustan Zinc Ltd. And Anr
+* **Court:** Rajasthan High Court - Jodhpur
+* **Date of Judgment:** 3 January 2019
+* **Citation:** AIR 2019 RAJASTHAN 54, AIRONLINE 2019 RAJ 7
+
+## Background and Context
+
+* **Brief Overview:** Doshion Private Limited (DPL) filed a writ petition against Hindustan Zinc Limited (HZL) and a retired judge appointed as the sole arbitrator to resolve a dispute between the parties. DPL challenged the arbitrator's fee and argued that his conduct during the arbitration proceedings demonstrated bias and inability to act impartially. The dispute stemmed from the arbitrator's initial determination of his fee at Rs. 75 lakh, which DPL argued was excessive and violated the fee structure set by the Rajasthan High Court.
+* **Key Issues:**
+    * Whether the arbitrator's conduct constituted a 'de jure' or 'de facto' inability to perform his functions under Section 14 of the Arbitration and Conciliation Act, 1996 ('the Act').
+    * Whether the Commercial Court, which had earlier upheld DPL's argument regarding the arbitrator's excessive fee, erred in refusing to terminate the arbitrator's mandate.
+
+## Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * **Arbitration and Conciliation Act, 1996:** 
+        * Section 14:  Deals with the termination of an arbitrator's mandate due to inability to perform functions or other reasons.
+        * Section 17:  Provides for the passing of an award by an arbitrator.
+        * Section 29A:  Sets a time limit for an arbitrator to pass an award.
+        * Section 34:  Deals with challenging an arbitral award in court.
+    * **Schedule IV of the Act:**  Prescribes the fees for arbitrators.
+    * **Notification dated 23/3/2017:** Issued by the Rajasthan High Court to specify the fee structure for arbitrators, effective from 23/10/2015.
+* **Precedents Cited:**
+    * **National Highways Authority of India vs. Gammon Engineers and Contractor Pvt. Ltd.:** (O.M.P.(T) (Comm.)39/2018 & I.A. No.6559/2018 & 9228/2018, Delhi High Court, 20/7/2018) - This judgment discussed the principles of independence and impartiality of arbitrators and the need to protect parties from unfair fee structures.
+    * **Union of India vs. Singh Builders Syndicate:** (2009) 4 SCC 523 - This case highlighted the potential for unfair pressure on parties to accept high fees imposed by arbitrators, leading to delays and hampering the efficiency of arbitration.
+    * **Madras Fertilizers Limited vs. SICGIL India Limited:** 2010 (2) CTC 357 - This judgment emphasized that "performing functions" in Section 14(1)(a) of the Act requires effective performance without bias and with the confidence of both parties.
+* **Legal Doctrines:**
+    * **Independence and Impartiality of Arbitrators:** The principle that arbitrators must be free from any bias or conflict of interest and must conduct proceedings fairly and without prejudice.
+    * **De Jure/De Facto Inability:**  The concept of an arbitrator being unable to function effectively, either due to legal impediment (de jure) or practical circumstances (de facto).
+
+## Arguments Presented
+
+* **Plaintiff's Argument (DPL):**
+    * The arbitrator's fee was excessive and violated the fee structure prescribed by the Act and the High Court's notification.
+    * The arbitrator's conduct during the proceedings, including passing an ex-parte award and attempting to expedite the matter despite DPL's objections, showed bias and inability to act impartially.
+    * The Commercial Court should have terminated the arbitrator's mandate as he was 'de facto' unable to perform his functions due to the loss of confidence and potential prejudice against DPL.
+* **Defendant's Argument (HZL):**
+    * Initially raised objections about the maintainability of the writ petition but did not press the argument during the final hearing.
+    * Argued that DPL's conduct was designed to delay and frustrate the proceedings.
+    * HZL had already paid its share of the fees, and therefore, the issue of the arbitrator's fee was no longer relevant.
+    * DPL had failed to make out a case for termination of the arbitrator's mandate under Section 14 of the Act.
+
+## Court's Analysis and Reasoning
+
+* **Key Findings:**
+    * The court noted that both parties agreed there was no need to issue a notice to the arbitrator.
+    * The court acknowledged HZL's position that they had paid their share of the fees and were primarily interested in a speedy resolution of the dispute.
+    * The court observed that the Commercial Court had focused primarily on the 'de jure' aspect of the arbitrator's inability to function and had not sufficiently considered the broader context and the potential for prejudice.
+    * The court emphasized the importance of independence and impartiality in arbitration proceedings.
+* **Interpretation of Law:**
+    * The court interpreted Section 14 of the Act to include situations where an arbitrator, despite not having a legal impediment, becomes practically unable to perform his functions due to events or conduct that raise doubts about his impartiality or fairness.
+    * The court held that the "de jure or de facto inability" clause in Section 14 encompassed situations where a party loses confidence in the arbitrator's ability to act impartially due to events like the imposition of an excessive fee, especially when the arbitrator's conduct raises further concerns about his independence.
+* **Application of Law:**
+    * The court applied the legal principles of independence and impartiality, along with the interpretation of Section 14 of the Act, to the facts of the case.
+    * The court considered the arbitrator's initial fee determination, his subsequent reduction of the fee while claiming "benevolence," and the manner in which he proceeded with the arbitration despite DPL's objections.
+    * The court found that the arbitrator's conduct, including passing an ex-parte award and continuing the proceedings despite a court order, created a situation where DPL could not reasonably have confidence in the arbitrator's impartiality.
+
+## Judgment
+
+* **Final Decision:** The court allowed the writ petition.
+* **Relief Granted:** The court set aside the Commercial Court's order insofar as it refused to terminate the arbitrator's mandate.  The mandate of the arbitral tribunal appointed by the court in 2016 was terminated.
+* **Orders:** The parties were ordered to appoint a substitute arbitrator within 15 days. The new tribunal was to proceed from the stage where the proceedings stood before the original arbitrator's ex-parte award on 1/4/2018.
+
+## Implications
+
+* **Impact on Law:** This judgment clarifies the interpretation of "de facto inability" under Section 14 of the Act, emphasizing that it includes situations where an arbitrator's conduct raises doubts about his impartiality and fairness, causing a party to lose confidence in the proceedings.
+* **Future Relevance:** This case provides a significant precedent for challenging arbitrator's mandates based on concerns about potential bias and lack of confidence in the proceedings, particularly where excessive fees or inappropriate conduct by the arbitrator raise such concerns.
+* **Broader Context:** This judgment reinforces the importance of ensuring a fair and impartial arbitration process, safeguarding parties from potential bias and ensuring that the proceedings are conducted with due process and transparency.
+
+## Summary Points
+
+* The court recognized that the Commercial Court had erred in not terminating the arbitrator's mandate due to his conduct and the resulting loss of confidence by DPL.
+* The court highlighted that the 'de facto' inability to perform functions under Section 14 of the Act can encompass situations where a party loses confidence in the arbitrator due to his actions, even if there's no legal impediment.
+* This case strengthens the rights of parties in arbitration proceedings to challenge the conduct of arbitrators and ensure a fair and impartial process.
+
+## References
+
+* **Arbitration and Conciliation Act, 1996**
+* **National Highways Authority of India vs. Gammon Engineers and Contractor Pvt. Ltd.** (O.M.P.(T) (Comm.)39/2018 & I.A. No.6559/2018 & 9228/2018, Delhi High Court, 20/7/2018)
+* **Union of India vs. Singh Builders Syndicate:** (2009) 4 SCC 523
+* **Madras Fertilizers Limited vs. SICGIL India Limited:** 2010 (2) CTC 357 
+* **Notification dated 23/3/2017:** Rajasthan High Court
+
+## Further Reading
+
+* **Arbitration Law in India: A Practical Guide** by Dr. M.P. Singh
+* **The Indian Arbitration Act: A Commentary** by Prof. K.N. Chandrasekharan Pillai
+* **Cases on Arbitration and Conciliation** by Prof. R.K. Bangia

@@ -1,0 +1,113 @@
+## 1. Case Title
+
+* **Case Name:** Amoda Iron Steel Limited vs. Sneha Analytics And Scientifics
+* **Court:** High Court of Andhra Pradesh - Amravati
+* **Date of Judgment:** 25 January 2022
+* **Citation:** Not provided in the text file.
+
+## 2. Background and Context
+
+* **Brief Overview:** Amoda Iron Steel Limited (Amoda) was sued by Sneha Analytics and Scientifics (Sneha) for non-payment of Rs. 1,33,99,080/-.  Amoda failed to file a written statement within the stipulated time frame.  Amoda later filed a petition for extension of time to file the written statement, which was initially pending before the Principal District Court, Visakhapatnam.  The suit was transferred to the Special Court for Trial and Disposal of Commercial Disputes, Visakhapatnam (Commercial Court) due to the establishment of a Commercial Court.  Amoda's petition for extension was dismissed for default by the Commercial Court, prompting Amoda to file an appeal for restoration and a petition to condone the delay in filing the appeal.
+* **Key Issues:** 
+    1. Does the Commercial Court have jurisdiction to extend the time period for filing a written statement beyond the statutory 120 days after service of summons, particularly in cases transferred from a regular civil court? 
+    2. Was the Commercial Court's rejection of Amoda's applications for condonation of delay and restoration justified?
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * Article 227 of the Constitution of India (relating to the High Court's power of superintendence over subordinate courts)
+    * The Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015 (Act, 2015) 
+    * The Code of Civil Procedure, 1908 (CPC) 
+        * Section 148 r/w Section 151 CPC (regarding extension of time for filing documents)
+        * Order V Rule 1 CPC (regarding service of summons and filing of written statements)
+        * Order VIII Rules 1 and 10 CPC (regarding filing of written statements and the consequences of failing to do so)
+        * Order XV-A CPC (regarding case management hearings)
+    * The Limitation Act
+        * Section 5 (regarding condonation of delay)
+* **Precedents Cited:**
+    * Salem Advocate Bar Association vs. Union Of India (2005) 6 SCC 344
+    * SCG Contracts India Pvt., Limited vs. K.S. Chamankar Infrastrure Pvt., Limited and others (2019) 12 Supreme Court Cases 210
+    * Deshraj vs. Balakishan (dead through proposed legal representative Ms. Rohini) (2020) 2 SCC 708
+    * Atcom Technologies Ltd. v. Y.A. Chunawala and Co. (2018) 6 SCC 639
+    * State of Bihar v. Bihar Rajya Bhumi Vikas Bank Samiti (2018) 9 SCC 472
+    * Kailash vs. Nanhku (2018) 9 SCC 472
+    * State vs. N.S. Gnaneswaran (2013) 3 SCC 594
+    * Oku Tech Private Limited vs. Sangeet Agarwal & Ors. (CS (OS) No. 3390/2015, Delhi High Court, 11.08.2016)
+    * Maja Cosmetics vs. Oasis Commercial Pvt. Ltd. (2018 SCC Online Del 6698)
+    * Kanai Lal Sur versus Paramnidhi Sadhukhan (1958) SCR 360
+    * Mukund Dewangan versus Oriental Insurance Co. Ltd. (2017) 14 SCC 663
+    * Council of Architecture vs. Mukesh Goyal and others (2020) 16 SCC 446
+    * Nathi Devi versus Radha Devi Gupta (2005) 2 SCC 271
+    * Sagar Pandurang Dhundare versus Keshav Aaba Patil (2018) 1 SCC 340
+    * Commissioner of Customs (Import), Mumbai versus Dilip Kumar & Co. (2018) 9 SCC 1
+    * Shilpa Mittal vs. State (NCT of Delhi) and another (2020) 2 SCC 787
+    * Managing Director, Chhattisgarh State Cooperative Bank Mayadit vs. Zila Sahkari Kendriya Bank Maryadit and others (2020) 6 SCC 411
+    * Bharat Petroleum Corporation Limited vs. R. Chandramouleeswaran and others (2020) 11 SCC 718
+* **Legal Doctrines:**
+    * **Statutory Interpretation:** The court applied various principles of statutory interpretation to understand the legislative intent behind the Act, 2015 and the amended CPC provisions. These principles included:
+        * **Plain Meaning Rule:** The court sought to interpret the words used in the statute in their plain and ordinary meaning.
+        * **Legislative Intent:** The court considered the object and purpose of the Act, 2015 and the amendments made to the CPC.
+        * **Harmonious Construction:** The court sought to interpret conflicting provisions in a way that reconciled them to the best extent possible.
+        * **Generalia Specialibus Non Derogant:** The court applied the principle that specific provisions prevail over general provisions.
+    * **Mandatory vs. Directory Provisions:** The court differentiated between provisions that are mandatory (must be followed) and provisions that are directory (may be followed with some flexibility).
+    * **Forfeiture of Rights:** The court considered the consequences of failing to comply with procedural requirements, including the potential forfeiture of rights. 
+    * **Power of Courts:** The court considered the inherent powers of the court to extend time periods and the limitations on those powers.
+
+## 4. Arguments Presented
+
+* **Plaintiff’s Argument (Sneha):**
+    * Sneha argued that the Commercial Court had no power to extend the time for filing the written statement beyond the statutory 120 days.
+    * They relied on the Supreme Court judgment in SCG Contracts India Private Limited (supra), which held that the amended provisions of the CPC regarding written statements were mandatory and that the court could not extend the time limit beyond 120 days.
+    * Sneha further argued that as the 120-day period had already expired by the time the suit was transferred to the Commercial Court, Amoda had forfeited its right to file a written statement.
+    * Sneha argued that Amoda's application for condonation of delay was unjustified, as they had failed to provide sufficient cause for the delay.
+* **Defendant’s Argument (Amoda):**
+    * Amoda argued that the Commercial Court had the power to extend the time for filing the written statement even after the 120-day period had passed. They relied on the judgment in Salem Advocate Bar Association (supra) which held that procedural provisions were directory and could be relaxed in the interest of justice.
+    * Amoda argued that the 120-day period should be calculated from the date of transfer of the suit to the Commercial Court, as the summons had already been issued by the regular court.
+    * Amoda argued that the Commercial Court's dismissal of their application for condonation of delay was unjustified, as they had provided sufficient cause for the delay.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The court found that the SCG Contracts India Private Limited (supra) judgment was not applicable to the present case as it did not involve a case transferred from a regular civil court to a Commercial Court.
+    * The court interpreted Section 15(4) of the Act, 2015 as a specific provision that gave the Commercial Court the discretion to set a new time limit for filing the written statement in cases transferred from civil courts. 
+    * The court determined that the proviso to Section 15(4) excluded the applicability of the time limit in Order V Rule 1 (1) and Order VIII Rule 1 regarding the forfeiture of the right to file a written statement.
+    * The court held that the Commercial Court, in cases transferred under Section 15(2), could prescribe a new time limit for filing the written statement, and failure to do so within that timeframe would lead to forfeiture of the right to file the written statement, in accordance with Order VIII Rules 1 and 10.
+* **Interpretation of Law:**
+    * The court interpreted the provisions of the Act, 2015 and the amended CPC to find that the time limit for filing a written statement was not absolute in cases transferred from a regular civil court.
+    * The court highlighted that the Act, 2015's objective was to expedite commercial disputes, and therefore the provisions regarding the time limit were to be interpreted in a way that facilitated the prompt resolution of cases.
+* **Application of Law:**
+    * The court applied the principles of statutory interpretation to harmonize the specific provisions of Section 15(4) with the general provisions of Order VIII Rules 1 and 10. 
+    * The court held that the Commercial Court had the power to prescribe a new time limit for filing the written statement in transferred cases, but failure to comply with the new timeframe would result in the defendant forfeiting their right to file a written statement.
+
+## 6. Judgment
+
+* **Final Decision:** The court allowed the petition filed by Amoda Iron Steel Limited and set aside the Commercial Court's order dismissing Amoda's applications for condonation of delay and restoration. 
+* **Relief Granted:** The court directed the Commercial Court to reconsider Amoda's applications for condonation of delay and restoration, taking into account the legal principles it had established in its judgment.
+* **Orders:** The court directed the Commercial Court to proceed with Amoda's applications in accordance with law and provide an opportunity for both parties to be heard.
+
+## 7. Implications
+
+* **Impact on Law:**
+    * The judgment clarified the scope of the Commercial Court's power to extend time limits for filing written statements in cases transferred from regular civil courts.
+    * It emphasized that the Act, 2015's objective of expediting commercial disputes should guide the interpretation of procedural provisions.
+* **Future Relevance:**
+    * The judgment is likely to be cited in future cases involving similar questions about the jurisdiction of Commercial Courts regarding time limits for filing documents.
+    * It provides a framework for resolving conflicts between general and specific provisions within the same statute.
+* **Broader Context:**
+    * The judgment highlights the importance of balancing the interests of justice with the need for efficient and timely resolution of commercial disputes.
+
+## 8. Summary Points
+
+* The High Court of Andhra Pradesh held that the Commercial Court has the power to prescribe a new time limit for filing a written statement in cases transferred from regular civil courts under Section 15(2) of the Commercial Courts Act, 2015. 
+* This power is exercised irrespective of the 120-day period stipulated in the amended CPC, which is deemed not to apply to transferred cases. 
+* If the defendant fails to file the written statement within the new time frame prescribed by the Commercial Court, they forfeit the right to do so and the court will not accept the written statement or extend the time limit further.
+* The court emphasized the importance of interpreting legal provisions in a way that promotes the speedy resolution of commercial disputes.
+
+## 9. References
+
+* **Citations:** The text file provided citations for all relevant statutes, cases, and legal texts, as mentioned in the legal principles section.
+* **Further Reading:** 
+    * The Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015.
+    * The Code of Civil Procedure, 1908.
+    * The Limitation Act.
+    * Additional case law regarding statutory interpretation, mandatory vs. directory provisions, and forfeiture of rights. 

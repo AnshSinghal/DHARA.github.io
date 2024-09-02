@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A construction company filed an arbitration petition against a government agency for a dispute regarding a construction project worth over Rs. 5 crores. The government agency argued that the High Court lacked jurisdiction to hear the matter as a Commercial Division had not been constituted. How does the court determine jurisdiction in such a case, and what is the effect of a Commercial Division's constitution on pending cases?",
+    "Legal Principles": "Jurisdiction of High Court in commercial disputes, constitution of Commercial Division under the Commercial Disputes Act, 2015, transfer of pending cases to Commercial Division, determination of 'Specified Value' under the Act.",
+    "Relevant Sections": "Section 4, Section 12, Section 15 of the Commercial Disputes Act, 2015; Section 9 of the Arbitration and Conciliation Act, 1996; Section 11 of the Civil Courts Act, 1977",
+    "Context": "Jurisdiction of High Court in a commercial dispute involving an arbitration petition under the Arbitration and Conciliation Act, 1996, where the specified value exceeds Rs. 3 lakhs and a Commercial Division has been constituted."
+  },
+  {
+    "Query": "A small business owner filed a claim for breach of contract against a supplier for the supply of defective goods worth Rs. 2 lakhs. The supplier argued that the case should be heard in a Commercial Court, but the business owner wants it to be heard in the High Court's Commercial Division. What factors determine the appropriate forum for this case?",
+    "Legal Principles": "Jurisdiction of Commercial Courts and Commercial Divisions, determination of 'Specified Value' under the Commercial Disputes Act, 2015, transfer of pending cases to Commercial Courts or Divisions.",
+    "Relevant Sections": "Section 4, Section 12, Section 15 of the Commercial Disputes Act, 2015; Section 2(1)(i) of the Act.",
+    "Context": "Jurisdiction in a commercial dispute involving a breach of contract claim where the specified value falls below the threshold for Commercial Division jurisdiction."
+  },
+  {
+    "Query": "A company filed an arbitration petition against another company for a commercial dispute related to a joint venture agreement. The dispute involves a claim of Rs. 10 crores and was filed before the constitution of a Commercial Division. After the constitution, the respondent company filed an application seeking dismissal due to lack of jurisdiction. What legal arguments can be made in this case?",
+    "Legal Principles": "Transfer of pending cases to Commercial Division under the Commercial Disputes Act, 2015, jurisdiction of Commercial Division in commercial disputes exceeding the 'Specified Value'.",
+    "Relevant Sections": "Section 4, Section 12, Section 15 of the Commercial Disputes Act, 2015; Section 9 of the Arbitration and Conciliation Act, 1996.",
+    "Context": "Jurisdictional dispute arising from the transfer of a pending arbitration petition to a Commercial Division after its constitution, where the specified value exceeds the threshold for Commercial Division jurisdiction."
+  },
+  {
+    "Query": "A bank filed a suit against a borrower for recovery of a loan amount of Rs. 1 crore. The borrower argued that the bank should have filed the suit in the Commercial Division as it is a commercial dispute involving a high value. How does the court determine the appropriate forum for this case?",
+    "Legal Principles": "Jurisdiction of Commercial Division under the Commercial Disputes Act, 2015, determination of 'Specified Value' in a suit for recovery of money.",
+    "Relevant Sections": "Section 4, Section 12, Section 15 of the Commercial Disputes Act, 2015.",
+    "Context": "Jurisdictional dispute in a suit for recovery of money where the amount involved exceeds the threshold for Commercial Division jurisdiction."
+  },
+  {
+    "Query": "Two companies entered into a contract for the supply of goods. A dispute arose regarding the quality of goods supplied, with a claim of Rs. 50 lakhs being made. The dispute was referred to arbitration, but before the constitution of a Commercial Division, the arbitrator passed an award in favor of the claimant. Is the award valid?",
+    "Legal Principles": "Effect of constitution of Commercial Division on pending arbitrations, validity of arbitral awards passed before the constitution of a Commercial Division.",
+    "Relevant Sections": "Section 4, Section 15 of the Commercial Disputes Act, 2015; Section 34 of the Arbitration and Conciliation Act, 1996.",
+    "Context": "Validity of an arbitral award passed in a commercial dispute exceeding the 'Specified Value' before the constitution of a Commercial Division."
+  },
+  {
+    "Query": "A company filed a suit for specific performance against another company for a contract involving the sale of land. The land value was estimated to be Rs. 2 crores, and the suit was filed before the constitution of a Commercial Division. After the constitution, the defendant argued that the suit should be transferred to the Commercial Division. What factors would the court consider in determining the transfer?",
+    "Legal Principles": "Transfer of pending suits to Commercial Division under the Commercial Disputes Act, 2015, determination of 'Specified Value' in a suit for specific performance involving immovable property.",
+    "Relevant Sections": "Section 4, Section 12, Section 15 of the Commercial Disputes Act, 2015.",
+    "Context": "Jurisdictional dispute in a suit for specific performance involving immovable property exceeding the 'Specified Value', where the suit was filed before the constitution of a Commercial Division."
+  },
+  {
+    "Query": "A company filed an application under Section 9 of the Arbitration and Conciliation Act, 1996, seeking appointment of an arbitrator for a dispute involving a technology licensing agreement. The dispute involved a claim of Rs. 1 crore, and the application was filed before the constitution of a Commercial Division. After the constitution, the company argued that the application should be transferred to the Commercial Division. What are the legal arguments in favor and against such transfer?",
+    "Legal Principles": "Transfer of pending applications under the Arbitration and Conciliation Act, 1996, to Commercial Division under the Commercial Disputes Act, 2015, jurisdiction of Commercial Division in commercial disputes exceeding the 'Specified Value'.",
+    "Relevant Sections": "Section 4, Section 12, Section 15 of the Commercial Disputes Act, 2015; Section 9 of the Arbitration and Conciliation Act, 1996.",
+    "Context": "Jurisdictional dispute arising from the transfer of a pending application under the Arbitration and Conciliation Act, 1996, to a Commercial Division after its constitution, where the specified value exceeds the threshold for Commercial Division jurisdiction."
+  },
+  {
+    "Query": "A partnership firm filed a suit against a company for recovery of a debt amounting to Rs. 75 lakhs. The company argued that the suit should be heard in the Commercial Division as it is a commercial dispute involving a significant value. Is the partnership firm's suit subject to Commercial Division jurisdiction?",
+    "Legal Principles": "Jurisdiction of Commercial Division under the Commercial Disputes Act, 2015, determination of 'Specified Value' in a suit for recovery of money, applicability to suits filed by partnerships.",
+    "Relevant Sections": "Section 4, Section 12, Section 15 of the Commercial Disputes Act, 2015.",
+    "Context": "Jurisdictional dispute in a suit for recovery of money where the amount involved exceeds the threshold for Commercial Division jurisdiction, involving a partnership firm as a party."
+  },
+  {
+    "Query": "A software company filed a claim against a client for non-payment of fees for software development services amounting to Rs. 25 lakhs. The client argued that the claim should be filed in a Commercial Court as the specified value does not exceed the threshold for Commercial Division jurisdiction. What factors would the court consider in determining the appropriate forum for this case?",
+    "Legal Principles": "Jurisdiction of Commercial Courts and Commercial Divisions, determination of 'Specified Value' under the Commercial Disputes Act, 2015, transfer of pending cases to Commercial Courts or Divisions.",
+    "Relevant Sections": "Section 4, Section 12, Section 15 of the Commercial Disputes Act, 2015; Section 2(1)(i) of the Act.",
+    "Context": "Jurisdictional dispute in a commercial dispute involving a claim for non-payment of fees for services, where the specified value falls below the threshold for Commercial Division jurisdiction."
+  },
+  {
+    "Query": "A company filed a suit for injunction against another company to prevent it from using a particular trademark. The trademark was valued at Rs. 1 crore, and the suit was filed before the constitution of a Commercial Division. After the constitution, the defendant argued that the suit should be transferred to the Commercial Division. How does the court determine the transfer in this case?",
+    "Legal Principles": "Transfer of pending suits to Commercial Division under the Commercial Disputes Act, 2015, determination of 'Specified Value' in a suit for injunction involving a trademark.",
+    "Relevant Sections": "Section 4, Section 12, Section 15 of the Commercial Disputes Act, 2015.",
+    "Context": "Jurisdictional dispute in a suit for injunction involving a trademark exceeding the 'Specified Value', where the suit was filed before the constitution of a Commercial Division."
+  }
+]
+```

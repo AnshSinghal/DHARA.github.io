@@ -1,0 +1,87 @@
+## Devarpan Foods Private Limited vs. Sukhwant Singh & Ors.
+
+**1. Case Title**
+
+* **Case Name:** Devarpan Foods Private Limited vs. Sukhwant Singh & Ors.
+* **Court:** Delhi High Court
+* **Date of Judgment:** 17th August 2022
+* **Citation:** FAO (COMM) 116/2022 & CM APPL. 34735/2022
+
+**2. Background and Context**
+
+* **Brief Overview:** Devarpan Foods Private Limited (appellant) filed a suit against Sukhwant Singh & Ors. (respondents) for infringement of copyright and passing off. The appellant claimed that the respondents were using a deceptively similar trademark "DEV-ARPA (Device)" to their registered trademark "DEVARPAN" and artistic work "DEVARPAN". The appellant's registered office was located within the jurisdiction of the Commercial Court. The respondents filed an application under Order VII Rules 10 and 11 of the CPC challenging the court's jurisdiction. 
+* **Key Issues:**  
+    * Whether the Commercial Court had jurisdiction to entertain the suit for passing off.
+    * Whether the plaintiff's pleadings sufficiently established that a cause of action for passing off had arisen within the jurisdiction of the court.
+
+**3. Legal Principles Involved**
+
+* **Relevant Statutes and Provisions:**
+    * Trademarks Act, 1999: Sections 134, 135, 27(2)
+    * Indian Copyright Act, 1957: Section 51
+    * Code of Civil Procedure, 1908 (CPC): Order VII Rule 10, Order VII Rule 11, Section 19, Section 20, Section 62(2)
+* **Precedents Cited:**
+    * Exphar Sa and Anr. v. Eupharma Laboratories Ltd. and Anr. (2004) 3 SCC 688
+    * M/s RSPL Limited v. Mukesh Sharma & Anr. 2016 SCC OnLine Del 4285
+    * M/s Allied Blenders & Distillers Pvt. Ltd. v. Prag Distillery Pvt. Ltd. and Anr. 2017 SCC OnLine Del 7225
+* **Legal Doctrines:**
+    * Territorial Jurisdiction: The concept of jurisdiction based on the location where the cause of action arises.
+    * Demurrer: A legal principle where the court accepts the facts alleged in the plaint as true for the purpose of determining jurisdiction.
+
+**4. Arguments Presented**
+
+* **Plaintiff’s Argument:**
+    * The appellant argued that they had established jurisdiction based on the respondents' alleged sale of goods under the infringing mark in various markets within the jurisdiction of the Commercial Court.
+    * They pointed to paragraph 41 of the plaint, which specifically mentioned the markets where the respondents were allegedly selling their goods.
+    * The appellant claimed that their registered office was located within the jurisdiction and that they sold their goods in the same markets, indicating a strong connection to the area.
+    * The appellant further argued that the Commercial Court had jurisdiction under Section 62(2) of the Copyright Act, 1957, due to their business activities and goodwill in the area.
+* **Defendant’s Argument:**
+    * The respondents argued that the appellant had not produced sufficient evidence to prove that they were actually selling goods within the jurisdiction. 
+    * They claimed that the allegations in paragraph 41 of the plaint were vague and unsubstantiated.
+    * The respondents emphasized the need for specific instances of sale and documentary evidence to establish jurisdiction.
+
+**5. Court’s Analysis and Reasoning**
+
+* **Key Findings:**
+    * The court found that the Commercial Court erred in concluding that it lacked jurisdiction based on the appellant's pleadings.
+    * The court emphasized the principle of demurrer, requiring the court to accept the statements in the plaint as true for the purpose of determining jurisdiction.
+    * The court held that the appellant's averments in paragraph 41 of the plaint, if accepted as true, sufficiently established that a cause of action for passing off had arisen within the court's jurisdiction.
+    * The court rejected the Commercial Court's reasoning that the appellant needed to provide specific evidence at this stage, as it is the defendant's responsibility to disprove the allegations at trial.
+    * The court clarified that while the appellant's averments in the plaint were sufficient for jurisdiction under Order VII Rule 10, the respondents could still raise the issue of jurisdiction as a matter of trial.
+* **Interpretation of Law:**
+    * The court strictly applied the legal principle of demurrer, emphasizing the need to accept the plaint's allegations as true when determining jurisdiction at the initial stage.
+    * The court interpreted the relevant sections of the CPC and Trademarks Act, 1999 to support the appellant's claim of jurisdiction based on the alleged activities of the respondents within the court's jurisdiction.
+* **Application of Law:**
+    * The court applied the principle of demurrer to the facts of the case, concluding that the appellant's pleadings, if accepted as true, sufficiently established a cause of action within the court's jurisdiction.
+    * The court applied relevant legal precedents to support its reasoning, particularly focusing on the need for a robust approach to jurisdiction at the initial stage.
+
+**6. Judgment**
+
+* **Final Decision:** The Delhi High Court allowed the appeal and set aside the order of the Commercial Court.
+* **Relief Granted:** The appellant was permitted to proceed with its suit for passing off in the Commercial Court.
+* **Orders:** The court ordered the respondents to bear their own costs.
+
+**7. Implications**
+
+* **Impact on Law:** The judgment reaffirms the principle of demurrer and emphasizes the need for courts to accept the allegations in the plaint as true when determining jurisdiction at the initial stage. This ruling strengthens the presumption in favor of maintaining a suit at the early stages.
+* **Future Relevance:** This case provides valuable guidance on the requirements for establishing jurisdiction in passing off cases, particularly where the allegations of infringing activity are made within a specific geographical area. 
+* **Broader Context:** The judgment highlights the importance of clear and specific pleadings in establishing jurisdiction. It also underscores the need for courts to carefully consider the principle of demurrer and avoid prematurely dismissing suits on the basis of insufficient evidence at the early stages of litigation.
+
+**8. Summary Points**
+
+* A suit cannot be dismissed for lack of jurisdiction at the initial stage if the plaint, taken as true, discloses a cause of action within the court's jurisdiction.
+* The principle of demurrer requires courts to accept the factual allegations in the plaint as true when determining jurisdiction.
+* The court emphasized the burden on the defendant to disprove the allegations at trial, not on the plaintiff to provide extensive evidence at the initial stages.
+
+**9. References**
+
+* **Citations:**
+    * Trademarks Act, 1999
+    * Indian Copyright Act, 1957
+    * Code of Civil Procedure, 1908
+    * Exphar Sa and Anr. v. Eupharma Laboratories Ltd. and Anr. (2004) 3 SCC 688
+    * M/s RSPL Limited v. Mukesh Sharma & Anr. 2016 SCC OnLine Del 4285
+    * M/s Allied Blenders & Distillers Pvt. Ltd. v. Prag Distillery Pvt. Ltd. and Anr. 2017 SCC OnLine Del 7225
+* **Further Reading:**
+    * Cases dealing with territorial jurisdiction in intellectual property disputes. 
+    * Legal texts on the Code of Civil Procedure, 1908. 

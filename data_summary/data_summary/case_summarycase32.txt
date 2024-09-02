@@ -1,0 +1,99 @@
+## 1. Case Title
+
+* **Case Name:** Jaycee Housing Pvt. Ltd. & Ors. vs Registrar (General), Orissa High Court, Cuttack & Ors. 
+* **Court:** Supreme Court of India
+* **Date of Judgment:** 19th October 2022
+* **Citation:**  Civil Appeal No. 6876 of 2022 (with CA No. 6878/2022 and CA No. 6877/2022) 
+
+## 2. Background and Context
+
+* **Brief Overview:** The appellants, Jaycee Housing Pvt. Ltd. and others, challenged a notification issued by the State of Odisha establishing the Court of Civil Judge (Senior Division) as Commercial Courts to exercise jurisdiction under the Commercial Courts Act, 2015 (Act, 2015). This challenge arose because the appellants' arbitration proceedings, initially filed in the District Judge's court, were transferred to the newly designated Commercial Court. The appellants argued that this transfer violated Section 2(1)(e) of the Arbitration and Conciliation Act, 1996 (Arbitration Act, 1996), which, they claimed, reserved such jurisdiction for the Principal Civil Court of original jurisdiction in a district. 
+* **Key Issues:** 
+    * Whether the designation of the Court of Civil Judge (Senior Division) as a Commercial Court under the Act, 2015, conflicts with Section 2(1)(e) of the Arbitration Act, 1996.
+    * Whether the Commercial Courts Act, 2015, being a later enactment, overrides the provisions of the Arbitration Act, 1996, in case of conflict. 
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * **Arbitration and Conciliation Act, 1996 (Act, 1996):**
+        * Section 2(1)(e): Defines "Court" in the context of arbitration, specifying the jurisdiction of the Principal Civil Court and excluding inferior courts.
+    * **Commercial Courts Act, 2015 (Act, 2015):**
+        * Section 3: Empowers the State Government to establish Commercial Courts.
+        * Section 10: Defines the jurisdiction of Commercial Courts in relation to arbitration matters, including applications and appeals.
+        * Section 15: Provides for transfer of pending cases to Commercial Courts.
+        * Section 21: States that the Act, 2015 has overriding effect over other laws, except as otherwise provided. 
+* **Precedents Cited:**
+    * **State of Maharashtra and Anr. Vs. Atlanata Ltd.; (2014) 11 SCC 619:**  Addresses the supervisory role of courts in arbitration proceedings.
+    * **State of West Bengal and Ors. Vs. Associated Contractors; (2015) 1 SCC 32:**  Also deals with the supervisory role of courts in arbitration proceedings.
+    * **Fuerst Day Lawson Ltd. Vs. Jindal Exports Ltd.; (2011) 8 SCC 333:**  Highlights the self-contained and exhaustive nature of the Arbitration Act.
+    * **Kandla Export Corporation and Anr. Vs. OCI Corporation and Anr.; (2018) 14 SCC 715:**  Confirms the precedence of the Arbitration Act over other laws in case of conflict.
+    * **BGS SGS SOMA JV Vs. NHPC Ltd.; (2020) 4 SCC 234:**  Reaffirms the principle of the Arbitration Act being a complete code and a special Act. 
+* **Legal Doctrines:**
+    * **Special Statute vs. General Law:**  The principle that a special statute (in this case, the Arbitration Act) prevails over a general statute (the Commercial Courts Act) in case of conflicting provisions.
+    * **Interpretation of Statutes:** The court's approach to interpreting the relevant statutory provisions and resolving inconsistencies.
+    * **Legislative Intent:** The court's consideration of the purpose and intent of the legislature in enacting the relevant statutes. 
+
+## 4. Arguments Presented
+
+* **Appellants' Argument:**
+    * Section 2(1)(e) of the Arbitration Act, 1996, explicitly restricts the jurisdiction over arbitration matters to the Principal Civil Court of original jurisdiction in a district, excluding any inferior court.
+    * The designation of the Court of Civil Judge (Senior Division) as a Commercial Court to handle arbitration matters violates this restriction.
+    * The Arbitration Act, 1996, being a special statute, prevails over the Commercial Courts Act, 2015, in case of conflict, as established by precedents.
+    * Conferring jurisdiction on a subordinate court creates unnecessary delays and challenges to the High Court, defeating the purpose of speedy disposal in arbitration proceedings.
+* **Respondent's Argument:**
+    * The Commercial Courts Act, 2015, is a later enactment specifically aimed at expediting commercial disputes, including arbitration proceedings.
+    * Section 10 of the Act, 2015, explicitly provides for Commercial Courts to handle applications and appeals arising from arbitration matters, superseding any conflicting provisions in the Arbitration Act, 1996.
+    * The establishment of Commercial Courts promotes efficiency and reduces the workload on the Principal Civil Courts.
+    * Interpreting Section 2(1)(e) of the Arbitration Act, 1996, to exclude Commercial Courts would render Section 10 of the Act, 2015, redundant and violate the principle of statutory interpretation. 
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The court acknowledges the conflicting provisions of the Arbitration Act, 1996, and the Commercial Courts Act, 2015, regarding jurisdiction in arbitration matters.
+    * The court emphasizes the objective of the Commercial Courts Act, 2015, in providing for a speedy resolution of commercial disputes, including arbitration proceedings.
+    * The court recognizes the specific provisions of Section 10 of the Act, 2015, explicitly conferring jurisdiction over arbitration matters on Commercial Courts.
+    * The court highlights the overriding effect of the Commercial Courts Act, 2015, as established by Section 21.
+* **Interpretation of Law:** 
+    * The court interprets Section 2(1)(e) of the Arbitration Act, 1996, as not specifically excluding Commercial Courts designated under the Act, 2015.
+    * The court interprets Section 10 of the Act, 2015, as a clear and specific provision conferring jurisdiction on Commercial Courts in arbitration matters.
+    * The court emphasizes the legislative intent behind the Commercial Courts Act, 2015, in expediting commercial disputes, and deems it crucial to uphold this intent.
+* **Application of Law:**
+    * The court applies the principle of special statute vs. general law, finding that the Commercial Courts Act, 2015, being a later and more specific enactment, overrides the conflicting provisions of the Arbitration Act, 1996. 
+    * The court applies the principle of statutory interpretation, considering the purpose and intent of the legislature in enacting the Commercial Courts Act, 2015, and ensuring that its provisions are not rendered nugatory.
+
+## 6. Judgment
+
+* **Final Decision:** The Supreme Court dismissed the appeals, upholding the High Court's decision. 
+* **Relief Granted:** No relief was granted to the appellants.
+* **Orders:** The notification issued by the State of Odisha establishing the Court of Civil Judge (Senior Division) as a Commercial Court was upheld.
+
+## 7. Implications
+
+* **Impact on Law:**  The judgment clarifies the precedence of the Commercial Courts Act, 2015, over the Arbitration Act, 1996, in relation to arbitration proceedings. It establishes that the Commercial Courts Act, 2015, empowers the designation of Commercial Courts, including those below the rank of Principal Civil Judge, to handle arbitration matters. 
+* **Future Relevance:** The judgment provides a significant precedent for future cases involving conflicts between the Arbitration Act, 1996, and the Commercial Courts Act, 2015.  
+* **Broader Context:** The judgment reinforces the government's objective of expediting commercial dispute resolution, including arbitration proceedings, through the establishment of specialized Commercial Courts. 
+
+## 8. Summary Points
+
+* The Supreme Court upheld the notification designating the Court of Civil Judge (Senior Division) as a Commercial Court under the Commercial Courts Act, 2015.
+* The court determined that the later and more specific provisions of the Commercial Courts Act, 2015, override conflicting provisions in the Arbitration Act, 1996, in relation to arbitration matters.
+* This judgment reaffirms the precedence of the Commercial Courts Act, 2015, and its objective of expediting commercial dispute resolution.
+
+## 9. References
+
+* **Arbitration and Conciliation Act, 1996 (Act, 1996):**
+    * Section 2(1)(e)
+* **Commercial Courts Act, 2015 (Act, 2015):**
+    * Section 3
+    * Section 10
+    * Section 15
+    * Section 21
+* **Precedents Cited:**
+    * State of Maharashtra and Anr. Vs. Atlanata Ltd.; (2014) 11 SCC 619
+    * State of West Bengal and Ors. Vs. Associated Contractors; (2015) 1 SCC 32
+    * Fuerst Day Lawson Ltd. Vs. Jindal Exports Ltd.; (2011) 8 SCC 333
+    * Kandla Export Corporation and Anr. Vs. OCI Corporation and Anr.; (2018) 14 SCC 715
+    * BGS SGS SOMA JV Vs. NHPC Ltd.; (2020) 4 SCC 234
+* **Further Reading:**
+    * The Law Commission of India's 188th and 253rd Reports on Commercial Courts.
+    * Other judgments related to the interpretation of the Arbitration and Conciliation Act, 1996, and the Commercial Courts Act, 2015. 

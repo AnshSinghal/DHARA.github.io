@@ -1,0 +1,109 @@
+## 1. Case Title
+
+* **Case Name:** Smt. Padma Mahadev vs. M/S. Sierra Constructions Private Limited
+* **Court:** Karnataka High Court
+* **Date of Judgment:** 22nd March, 2021
+* **Citation:** AIRONLINE 2021 KAR 248, 2021 (2) AKR 648
+
+
+## 2. Background and Context
+
+* **Brief Overview:** This case involves a dispute between the owners of a property (Appellants) and the developer (Respondent) over a Joint Development Agreement (JDA) for constructing a commercial complex. After the developer failed to complete the construction within agreed timelines, the owners terminated the JDA. The developer then filed an arbitration claim, seeking possession of a share in the property and damages. The Arbitrator dismissed the developer's claim and upheld the termination of the JDA. The developer subsequently filed an application under Section 34 of the Arbitration and Conciliation Act, 1996 (Arbitration Act) to challenge the award. Pending the outcome of this application, the developer also filed an application under Section 9 of the Arbitration Act seeking a temporary injunction to restrain the owners from further construction activities on the property. The High Court granted this injunction, prompting the owners to appeal the order. 
+* **Key Issues:**
+    * Can an unsuccessful claimant in an arbitration proceeding obtain a temporary injunction under Section 9 of the Arbitration Act while challenging the award under Section 34? 
+    * Does the Court have the power to grant relief under Section 9 of the Arbitration Act when third-party interests have already been created in the property?
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * Arbitration and Conciliation Act, 1996 (Arbitration Act)
+        * Section 9: Interim measures by Courts
+        * Section 17: Power of the Arbitral Tribunal to grant interim measures
+        * Section 34: Application for setting aside an arbitral award
+        * Section 36: Enforcement of arbitral award
+        * Section 43: Limitation
+    * Code of Civil Procedure, 1908 (Code)
+        * Order XXXIX: Injunctions
+        * Section 115: Revision
+* **Precedents Cited:**
+    * McDermott International INC vs. Burn Standard Co. Ltd and others (2006) 11 SCC 181
+    * Dirk India Private Limited vs. Maharashtra State Electricity Generation Company Limited (2013 SCC OnLine Bom-481)
+    * Wind World (India) Ltd. vs. Enercon GmbH and others (2017 SCC OnLine Bom 1147)
+    * Nussli Switzerland Ltd. vs. Organizing Committee Commonwealth Games (2014 SCC OnLine Del 4834)
+    * Singhania Horizons vs. HRC Engineers Estate Private Limited and another (2016 SCC OnLine Del 550)
+    * Hindustan Construction Company Limited and another vs. Union of India and others (2019 SCC OnLine SC 1520)
+    * Gayatri Balaswamy vs. ISG Novasoft Technologies Ltd (Original petition No.463/2012 decided on 02.09.2014)
+    * Gail (India) Ltd vs. Latin Rasayani Private Ltd (2014 SCC OnLine Guj 14836)
+    * Saptarishi Hotels Pvt. Ltd and another vs. National Institute of Tourism and Hospitality Management (NITHM) (2019 SCC OnLine TS 1765)
+    * Sudershan Rao and others vs. Evershine Builders Pvt Ltd (2012 SCC Online AP 682)
+    * Kinnari Mullick and another vs. Ghanshyam Das Damani (2018) 11 SCC 328
+    * Bhaskar Industrial Development Limited vs. South Western Railway, Hubballi (2016 SCC OnLine Kar 8330)
+    * Steel Authority of India Limited vs Gupta Brother Steel Tubes Limited (2009) 10 SCC 63
+    * Masjid Kacha Tank, Nahan vs. Tuffail Mohammed (AIR 1991 SC 455)
+* **Legal Doctrines:**
+    * **Interpretation of Statutes:** The court analyzes the language and purpose of the relevant statutory provisions.
+    * **Judicial Precedent:** The court relies on and applies principles established in previous judgments.
+    * **Principles of Equity and Fairness:** The court emphasizes the importance of ensuring fairness and preventing injustice.
+    * **Principles of Res Judicata:** The court considers the potential impact of the judgment on future legal proceedings.
+
+## 4. Arguments Presented
+
+* **Appellants’ Argument:**
+    * The respondent, having lost its claim before the Arbitrator, cannot seek interim relief under Section 9 of the Arbitration Act while challenging the award under Section 34.
+    * The court cannot grant relief under Section 9 when third-party interests have already been created in the property, as in this case, due to the execution of a second JDA with a new developer.
+    * Even if the respondent succeeds in its Section 34 application, the court cannot grant a decree in its favor. The only option is to set aside the award and allow the parties to resume arbitration.
+* **Respondent’s Argument:**
+    * The court has the power to modify or vary an award under Section 34 of the Arbitration Act.
+    * Section 9 of the Arbitration Act makes no distinction between successful and unsuccessful parties.
+    * The second JDA is a litigation tactic, and allowing the new developer to proceed with construction would frustrate the purpose of the respondent's Section 34 application. 
+    * The court's power to grant interim relief under Section 9 is not limited to cases where the party seeking relief is likely to succeed in the main proceedings.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The court found that the respondent's application under Section 9 was not maintainable in this case.
+    * The court emphasized that the court's role under Section 34 is limited to setting aside the award, not correcting errors or making new awards.
+    * The court recognized that the respondent's Section 9 application was seeking an injunction in aid of a relief (modification of the award) that the court could not grant under Section 34.
+    * The court also highlighted the fact that the appellants had already created third-party interests in the property by executing the second JDA, which significantly impacts the court's ability to grant injunctive relief.
+* **Interpretation of Law:**
+    * The court relied heavily on the Supreme Court's decision in McDermott International Inc. vs. Burn Standard Co. Ltd (2006) 11 SCC 181, which held that courts cannot correct errors made by arbitrators. 
+    * The court also reviewed the language and purpose of Sections 9 and 34 of the Arbitration Act, emphasizing the limited scope of the court's power under both provisions.
+    * The court distinguished the court's supervisory jurisdiction under the Arbitration Act from its revisional jurisdiction under Section 115 of the Code of Civil Procedure.
+* **Application of Law:**
+    * The court applied the principles established in McDermott International Inc. vs. Burn Standard Co. Ltd (2006) 11 SCC 181 to conclude that the respondent's Section 9 application was inappropriate.
+    * The court found that the respondent's Section 9 application was not in aid of a relief that the court could grant under Section 34.
+    * The court considered the practical implications of granting the injunction and the potential harm it would cause to the new developer, whose interests were already established in the property.
+
+## 6. Judgment
+
+* **Final Decision:** The court allowed the appeal and set aside the order granting the injunction.
+* **Relief Granted:** The court dismissed the respondent's application for a temporary injunction under Section 9 of the Arbitration Act.
+* **Orders:**
+    * The order granting the temporary injunction in IA No. I filed in Com.A.A. No.45/2020 was set aside.
+    * The application IA No. I was dismissed.
+    * The court directed that the arbitration suit in Com. A.S. No. 144/2019 be heard expeditiously.
+
+## 7. Implications
+
+* **Impact on Law:** The judgment reaffirms the limited scope of the court's power under Section 34 of the Arbitration Act and reinforces the principle that courts cannot correct errors made by arbitrators. It also clarifies the limitations of seeking interim relief under Section 9 in cases where the party seeking relief has lost their claim in the arbitration proceedings.
+* **Future Relevance:** The judgment provides guidance to courts on how to approach applications under Section 9 of the Arbitration Act in situations where third-party interests have been created in the subject matter of the dispute. It also highlights the importance of considering the practical implications of granting injunctive relief, particularly when it could harm the rights of parties who are not directly involved in the dispute.
+* **Broader Context:** This judgment reflects the broader trend of courts seeking to ensure the finality and efficiency of arbitration proceedings. It emphasizes the importance of minimizing judicial intervention in arbitration and encourages parties to resolve their disputes through the arbitration process.
+
+## 8. Summary Points
+
+* The court ruled that an unsuccessful claimant in arbitration cannot obtain a temporary injunction under Section 9 of the Arbitration Act while challenging the award under Section 34.
+* The court cannot grant relief under Section 9 when third-party interests have been established in the property.
+* The court cannot correct errors made by arbitrators under Section 34; it can only set aside the award.
+* The court's decision reflects a commitment to ensuring the finality and efficiency of arbitration proceedings.
+
+## 9. References
+
+* **Citations:**
+    * Arbitration and Conciliation Act, 1996
+    * Code of Civil Procedure, 1908
+    * All case citations mentioned in the summary.
+* **Further Reading:**
+    * Articles and commentaries on Section 9 and Section 34 of the Arbitration Act
+    * Cases dealing with the intersection of Section 9 and Section 34 of the Arbitration Act
+    * Judgments on the power of courts to grant interim relief in arbitration cases
+

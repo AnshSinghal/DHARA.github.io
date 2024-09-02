@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A company, 'TechSolutions Inc.', based in the US, alleges that a competitor, 'SoftwareCorp' based in India, has been engaging in unfair competition by making false statements about TechSolutions Inc.'s products and services on its website and social media platforms. TechSolutions Inc. seeks damages and an injunction to stop SoftwareCorp from further dissemination of these false statements.",
+    "Legal Principles": "Jurisdiction in tort cases, defamation, unfair competition,  international jurisdiction,  remedies for defamation (damages, injunctions),  grounds for injunctive relief.",
+    "Relevant Sections": "Section 20 of the Code of Civil Procedure,  Section 41 of the Specific Relief Act,  Order 7, Rule 11 of the Code of Civil Procedure",
+    "Context": "Jurisdiction in tort cases with international elements,  Indian law on defamation and unfair competition"
+  },
+  {
+    "Query": "A local bakery, 'Sweet Delights', is suing a national chain, 'Baker's Paradise', for trademark infringement.  Sweet Delights alleges that Baker's Paradise has adopted a similar name and logo that is confusingly similar to their own, causing customer confusion and impacting their business.",
+    "Legal Principles": "Trademark infringement, likelihood of confusion,  remedy for trademark infringement (damages, injunctions),  trademark registration",
+    "Relevant Sections": "The Trade Marks Act, 1999,  Order 7, Rule 11 of the Code of Civil Procedure",
+    "Context": "Trademark infringement dispute in India,  remedy for trademark infringement"
+  },
+  {
+    "Query": "A couple is divorcing, and they are in dispute over the custody of their child. The husband wants sole custody, while the wife wants joint custody. The parties also disagree on the child's religious upbringing and education.",
+    "Legal Principles": "Custody in divorce,  best interests of the child,  parental rights,  religious freedom,  joint custody,  sole custody",
+    "Relevant Sections": "The Hindu Marriage Act, 1955,  The Guardians and Wards Act, 1890,  The Indian Penal Code, 1860",
+    "Context": "Custody dispute in a divorce case in India,  balancing parental rights and child's welfare"
+  },
+  {
+    "Query": "A tenant is being evicted from their apartment by their landlord for allegedly breaking the lease agreement.  The tenant claims they were wrongfully evicted and that the landlord violated the terms of the lease.",
+    "Legal Principles": "Landlord-tenant law,  breach of lease,  eviction,  rights of tenants,  remedies for wrongful eviction",
+    "Relevant Sections": "The Transfer of Property Act, 1882,  The Rent Control Act,  Order 7, Rule 11 of the Code of Civil Procedure",
+    "Context": "Eviction dispute in India,  application of Indian landlord-tenant law"
+  },
+  {
+    "Query": "A construction company, 'Buildwell', is suing a property owner, 'Mr. Singh', for breach of contract. Buildwell alleges that Mr. Singh failed to pay the agreed-upon amount for construction services rendered.",
+    "Legal Principles": "Breach of contract,  remedies for breach of contract (damages, specific performance),  contract interpretation",
+    "Relevant Sections": "The Indian Contract Act, 1872,  Order 7, Rule 11 of the Code of Civil Procedure",
+    "Context": "Breach of contract dispute in India,  remedies for breach of contract"
+  },
+  {
+    "Query": "A doctor is being sued for medical negligence by a patient who claims that the doctor's treatment caused them harm. The doctor argues that the treatment was appropriate and that the patient's injury was not caused by their actions.",
+    "Legal Principles": "Medical negligence,  duty of care,  standard of care,  causation,  damages,  informed consent",
+    "Relevant Sections": "The Indian Medical Council Act, 1956,  The Consumer Protection Act, 1986,  The Indian Penal Code, 1860",
+    "Context": "Medical negligence case in India,  application of Indian legal principles to medical malpractice"
+  },
+  {
+    "Query": "A company, 'GreenTech', is seeking to enforce a contract with a supplier, 'SolarPower', for the delivery of solar panels.  SolarPower has refused to deliver the panels, citing unforeseen circumstances. GreenTech argues that SolarPower's reasons are insufficient and that they are in breach of contract.",
+    "Legal Principles": "Contract enforcement,  force majeure,  breach of contract,  remedy for breach of contract",
+    "Relevant Sections": "The Indian Contract Act, 1872,  Order 7, Rule 11 of the Code of Civil Procedure",
+    "Context": "Contract enforcement dispute in India,  application of Indian contract law"
+  },
+  {
+    "Query": "A software developer, 'CodeCraft', claims copyright infringement against a competitor, 'TechSolutions', alleging that TechSolutions has copied their source code. TechSolutions argues that their software is original and that there is no evidence of copying.",
+    "Legal Principles": "Copyright infringement,  fair use,  originality,  remedy for copyright infringement (damages, injunctions)",
+    "Relevant Sections": "The Copyright Act, 1957,  Order 7, Rule 11 of the Code of Civil Procedure",
+    "Context": "Copyright infringement dispute in India,  application of Indian copyright law"
+  },
+  {
+    "Query": "A small business owner, 'Mr. Sharma', is facing financial difficulties and is considering filing for bankruptcy. He wants to understand the process of filing for bankruptcy and the implications for his business and personal assets.",
+    "Legal Principles": "Bankruptcy law,  types of bankruptcy proceedings,  debtor-creditor rights,  discharge of debts,  asset protection",
+    "Relevant Sections": "The Insolvency and Bankruptcy Code, 2016,  Order 7, Rule 11 of the Code of Civil Procedure",
+    "Context": "Bankruptcy law in India,  understanding the bankruptcy process and implications"
+  },
+  {
+    "Query": "A woman is claiming that her husband, who is a high-profile businessman, has been engaging in extramarital affairs and has been diverting company funds.  She seeks a divorce, alimony, and a share in the company assets.",
+    "Legal Principles": "Divorce,  adultery,  financial misconduct,  alimony,  division of marital property,  grounds for divorce",
+    "Relevant Sections": "The Hindu Marriage Act, 1955,  The Indian Divorce Act, 1869,  The Companies Act, 2013",
+    "Context": "Divorce case in India,  complex financial and legal issues related to a high-profile businessman"
+  }
+]
+```

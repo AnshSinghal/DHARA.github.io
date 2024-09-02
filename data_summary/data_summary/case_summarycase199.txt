@@ -1,0 +1,122 @@
+## Case Title
+
+* **Case Name:** State of Uttarakhand vs. M/s Hydel Construction Private Ltd. and another
+* **Court:** Uttarakhand High Court
+* **Date of Judgment:** 7th March, 2024
+* **Citation:**  (Citation not available in the provided text)
+
+## Background and Context
+
+**Brief Overview:** The case involves a dispute arising from a construction contract for a Head Race Tunnel in the Maneri Bhali Hydroelectric Project Stage-II in Uttarakhand. The original agreement was signed between the State of Uttar Pradesh and M/s Hydel Construction Private Ltd. (respondent no. 1) in 1981. After the formation of Uttarakhand, a supplementary agreement was signed in 2002, and the work was completed in 2007. A subsequent agreement was made for the construction of a safety wall, but respondent no. 1 failed to complete it within the stipulated time. The matter was referred to arbitration, and the Arbitral Tribunal awarded a sum in favor of respondent no. 1. The State of Uttarakhand (through its successor company, UJVN Ltd.) challenged this award in the Commercial Court, which upheld the award. The State of Uttarakhand then appealed the decision to the High Court. 
+
+**Key Issues:**
+
+* Whether the State of Uttarakhand (represented by UJVN Ltd.) had the right to file a petition under Section 34 of the Arbitration and Conciliation Act, 1996, to challenge the arbitral award, given that it was not a party to the original agreement or the arbitration proceedings.
+* Whether the State of Uttarakhand's appeal against the Commercial Court's decision was maintainable under Section 37 of the Arbitration and Conciliation Act, 1996, given the delay in filing the appeal and the acceptance of the arbitral award by UJVN Ltd.
+* Whether the Commercial Court's decision to reject the State of Uttarakhand's application for impleadment as a party was correct.
+
+## Legal Principles Involved
+
+**Relevant Statutes and Provisions:**
+
+* **Arbitration and Conciliation Act, 1996:**
+    * Section 8: Refusal to refer parties to arbitration
+    * Section 9: Granting measures for preservation of property
+    * Section 16: Powers of the arbitral tribunal
+    * Section 17: Interim measures by the arbitral tribunal
+    * Section 34: Setting aside arbitral awards
+    * Section 37: Appealable orders
+* **Commercial Courts Act, 2015:**
+    * Section 13(1A): Forum and limitation period for appeals under Section 37 of the Arbitration Act
+* **Code of Civil Procedure, 1908:**
+    * Order 1 Rule 10(2): Impleadment of parties
+
+**Precedents Cited:**
+
+* **Chintels India Limited v. Bhayana Builders Private Limited, (2021) 4 SCC 602:**  Interpretation of the limitation period for filing petitions under Section 34 of the Arbitration Act.
+* **State of Himachal Pradesh and another v. Himachal Techno Engineers and another, (2010) 12 SCC 210:**  Interpretation of the condonation of delay provision in Section 34 of the Arbitration Act.
+* **Government of Maharashtra (Water Resources Department) Represented by Executive Engineer v. Borse Brothers Engineers and Contractors Private Limited, (2021) 6 SCC 460:**  Application of Section 13(1A) of the Commercial Courts Act to appeals under Section 37 of the Arbitration Act.
+* **Postmaster General v. Living Media India Ltd., (2012) 3 SCC 563:**  Interpretation of "sufficient cause" for condoning delay in filing appeals involving government entities.
+* **The State of Madhya Pradesh and others v. Bherulal, (2020) 10 SCC 654:**  Importance of timely filing of appeals by government entities and consequences of delay.
+
+**Legal Doctrines:**
+
+* **Res judicata:** The principle that a matter once decided by a competent court cannot be re-litigated.
+* **Limitation:** The principle that legal actions must be filed within a specified time period.
+* **Condonation of Delay:** The power of the court to excuse a delay in filing a legal action, subject to sufficient cause being shown.
+
+## Arguments Presented
+
+**Appellant’s Argument:**
+
+* UJVN Ltd. was a separate entity from the State of Uttarakhand and was not a party to the original agreement or the arbitration proceedings.
+* UJVN Ltd.'s petition under Section 34 of the Arbitration Act was dismissed by the Commercial Court, and no appeal was filed against that decision.
+* The State of Uttarakhand, as a party respondent in the Commercial Court proceedings, had accepted the arbitral award by not filing an appeal against it.
+* The application for impleadment filed by the State of Uttarakhand was rightly rejected by the Commercial Court, as it was filed beyond the prescribed limitation period.
+
+**Respondent’s Argument:**
+
+* The State of Uttarakhand had contested the arbitral award and should have filed a petition under Section 34 within the prescribed time period.
+* The State of Uttarakhand's failure to file a petition under Section 34 within 120 days led to the award becoming final.
+* The application for impleadment filed by the State of Uttarakhand was correctly dismissed as it was filed after an unreasonable delay.
+
+## Court’s Analysis and Reasoning
+
+**Key Findings:**
+
+* The court acknowledged that UJVN Ltd. was a separate entity from the State of Uttarakhand and that it had not filed an appeal against the Commercial Court's decision dismissing its petition under Section 34 of the Arbitration Act.
+* The court held that the State of Uttarakhand, by not filing an appeal against the arbitral award, had effectively accepted it, even though it had contested the award in the arbitration proceedings.
+* The court cited various Supreme Court judgments on the interpretation of the limitation period and condonation of delay provisions in the Arbitration Act and the Commercial Courts Act. 
+* The court emphasized the importance of timely filing of appeals and the need for a strict interpretation of "sufficient cause" for condoning delay, particularly in cases involving government entities.
+* The court concluded that the State of Uttarakhand's delay in filing the appeal was unjustified and that its application for impleadment was rightly dismissed due to the inordinate delay.
+
+**Interpretation of Law:**
+
+* The court interpreted Section 34(3) of the Arbitration Act and the proviso thereto to hold that the limitation period for filing petitions under Section 34 is 120 days and that this provision is mandatory in nature.
+* The court interpreted Section 37 of the Arbitration Act to determine that the State of Uttarakhand's appeal was not maintainable, given that it had effectively accepted the arbitral award by not filing an appeal within the prescribed time period.
+* The court interpreted Section 13(1A) of the Commercial Courts Act to determine the applicable limitation period for appeals under Section 37 of the Arbitration Act.
+
+**Application of Law:**
+
+* The court applied the legal principles relating to limitation, condonation of delay, and res judicata to the specific facts of the case.
+* The court considered the arguments and evidence presented by both parties, including the precedents cited by them.
+* The court applied the principle of res judicata to conclude that the State of Uttarakhand, having not filed an appeal against the Commercial Court's decision dismissing UJVN Ltd.'s petition under Section 34, was barred from challenging the arbitral award again in this appeal.
+
+## Judgment
+
+**Final Decision:** The appeal filed by the State of Uttarakhand was dismissed.
+
+**Relief Granted:** No relief was granted to the appellant.
+
+**Orders:** The pending applications, if any, were also disposed of accordingly.
+
+## Implications
+
+**Impact on Law:** The judgment reaffirms the importance of adhering to the statutory limitation periods for filing petitions and appeals under the Arbitration and Conciliation Act, 1996, and the Commercial Courts Act, 2015. It highlights the strict interpretation applied to "sufficient cause" for condoning delay, especially in cases involving government entities.
+
+**Future Relevance:** The case serves as a reminder of the importance of timely legal action and the potential consequences of delay in challenging arbitral awards. It further emphasizes the limitations on the court's discretion to condone delay in such cases.
+
+**Broader Context:** The judgment highlights the importance of adhering to legal processes and the consequences of procedural lapses, particularly in cases involving public entities and large infrastructure projects. 
+
+## Summary Points
+
+* The State of Uttarakhand was barred from challenging the arbitral award because it had not filed a petition under Section 34 within the prescribed time period and had effectively accepted the award by not appealing the Commercial Court's decision dismissing UJVN Ltd.'s petition.
+* The court applied a strict interpretation of "sufficient cause" for condoning delay in government-related cases and dismissed the appeal due to the inordinate delay. 
+* The judgment emphasizes the need for government entities to be diligent in pursuing legal actions and adhering to statutory limitations.
+
+## References
+
+* **Arbitration and Conciliation Act, 1996**
+* **Commercial Courts Act, 2015**
+* **Code of Civil Procedure, 1908**
+* **Chintels India Limited v. Bhayana Builders Private Limited, (2021) 4 SCC 602**
+* **State of Himachal Pradesh and another v. Himachal Techno Engineers and another, (2010) 12 SCC 210**
+* **Government of Maharashtra (Water Resources Department) Represented by Executive Engineer v. Borse Brothers Engineers and Contractors Private Limited, (2021) 6 SCC 460**
+* **Postmaster General v. Living Media India Ltd., (2012) 3 SCC 563**
+* **The State of Madhya Pradesh and others v. Bherulal, (2020) 10 SCC 654** 
+
+**Further Reading:**
+
+* **Arbitration Law in India: A Practical Guide** by  K.N. Chandrasekharan Pillai
+* **The Law of Limitation** by  P.S. Achuthan Pillai
+* **The Commercial Courts Act, 2015: A Commentary** by  M.P. Tandon

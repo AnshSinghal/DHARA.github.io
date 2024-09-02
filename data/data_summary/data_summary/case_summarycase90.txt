@@ -1,0 +1,105 @@
+##  1. Case Title
+
+  * **Case Name:** Lord Sai Maa Pvt Ltd Thr Director ... vs Hotel Goradias Pvt. Ltd Thr Its Director ...
+  * **Court:** Bombay High Court, Bench at Aurangabad
+  * **Date of Judgment:** 7th May 2021
+  * **Citation:**  Commercial Appeal No. 1 & 2 - 2021
+
+## 2. Background and Context
+
+  * **Brief Overview:** The dispute arose from a Leave and License Agreement between Hotel Goradias Pvt. Ltd. (the Plaintiff/Respondent) and Lord Sai Maa Pvt. Ltd. (the Defendant/Appellant) concerning a hotel property in Shirdi.  The Appellant was granted a license to operate the hotel from December 2015 to December 2019.  A disagreement emerged when the Defendant allegedly failed to pay license fees, prompting the Plaintiff to file a lawsuit for possession, settlement of accounts, compensation, mesne profits, and recovery of dues.
+  * **Key Issues:**
+    * Jurisdiction of the Commercial Court:  Whether the dispute fell within the purview of the Commercial Courts Act, 2015, considering the applicability of the Maharashtra Rent Control Act, 1999.
+    * Maintainability of the Suit:  Whether the suit was barred by limitation and if the Plaintiff had exhausted pre-institution mediation as required by Section 12-A of the Commercial Courts Act, 2015.
+    * Grant of Interim Relief:  Whether the Commercial Court correctly granted interim mandatory injunction, compelling the Appellant to handover possession of the hotel property to the Respondent.
+
+## 3. Legal Principles Involved
+
+  * **Relevant Statutes and Provisions:**
+    * Commercial Courts Act, 2015 (Sections 2, 3, 11, 12-A)
+    * Maharashtra Rent Control Act, 1999 (Sections 3, 47, 49, 51)
+    * Specific Relief Act, 1963 (Sections 39, 41)
+    * Code of Civil Procedure, 1908 (Order XXXIX)
+    * Limitation Act, 1963 (Article 113)
+  * **Precedents Cited:**
+    * Royal Orchid Hotels Ltd. Vs. Rock Realty Pvt. Ltd., Civil Revision Application (Stamp) No.15282 of 2019 
+    * Mahadev P Kambekar (D) TR. LRs., Vs. Shree Krishna Woolen Mills Pvt. Ltd., Civil Appeal Nos. 5753- 5754 of 2011
+    * Dorab Cawasji Warden vs. Coomi Sorab Warden & Ors.
+    * Kishore Kumar and Ors., vs. Parveen Kumar Singh
+    * Metro Marins & Anr. Vs. Bonus Watch Co. Pvt. Ltd. & Ors. 
+    * Ganga Taro Vazirani Vs. Deepak Raheja
+    * Sathyam Wood Industries Vs. Adoniss (P) Ltd., and anr.
+    * GSD Constructions Pvt. Ltd., Vs. Balaji Febtech Engineering Pvt. Ltd.
+    * Terai Overseas Private Limited & Ors. Vs. Kejriwal Sugar Agencies Private Limited & Ors.
+    * M/s Amit Motorcycles Pvt. Ltd., Vs. M/s Axis Bank Ltd.
+    * Deoraj Vs. State of Maharashtra and ors.
+    * Sanjeev Pillai Vs. Venu Kunnapalli
+    * Saregama India Limited Vs. Balaji Motion Pictures Limited & Ors. 
+    * Kirtibhai Vs. Raghuram 
+  * **Legal Doctrines:**
+    * Jurisdiction and Maintainability of Suits
+    * Interim Injunctions and Mandatory Injunctions
+    *  Interpretation of Statutory Provisions
+    * Limitation of Actions
+    * Principles of Equity
+
+## 4. Arguments Presented
+
+  * **Plaintiff's Argument (Hotel Goradias Pvt. Ltd.):**
+    * The dispute was commercial in nature and therefore fell within the jurisdiction of the Commercial Court.
+    * The suit was maintainable as it was not barred by limitation.
+    * The Plaintiff had the right to seek interim mandatory injunction as the Appellant was in illegal possession of the hotel property, and the license period had expired.
+  * **Defendant's Argument (Lord Sai Maa Pvt. Ltd.):**
+    *  The dispute was governed by the Maharashtra Rent Control Act, 1999, and the Commercial Court lacked jurisdiction.
+    * The suit was barred by limitation and the Plaintiff had not complied with Section 12-A of the Commercial Courts Act, 2015 (pre-institution mediation).
+    * The grant of interim mandatory injunction was premature and amounted to granting final relief at an interim stage. The Defendant argued that triable issues remained, such as settlement of accounts.
+
+## 5. Court’s Analysis and Reasoning
+
+  * **Key Findings:**
+    * The Bombay High Court found that the dispute was commercial in nature, falling within the ambit of the Commercial Courts Act, 2015, and not governed by the Maharashtra Rent Control Act, 1999.
+    * The court held that the suit was not barred by limitation.
+    * The court accepted that the Plaintiff had a prima facie case for possession as the license period had ended, and the Defendant was in illegal occupation. However, the court disagreed with the granting of interim mandatory injunction, stating that it amounted to granting final relief at an interim stage, particularly in the presence of triable issues. 
+  * **Interpretation of Law:** 
+    * The court interpreted Section 3 of the Maharashtra Rent Control Act, 1999, finding that it did not apply to the Appellant due to its share capital exceeding Rs. 1 Crore.
+    * The court interpreted Section 12-A of the Commercial Courts Act, 2015, as directory and not mandatory, particularly since the Appellant had not raised this objection before the trial court.
+    * The court interpreted Order XXXIX of the Code of Civil Procedure and Section 39 of the Specific Relief Act, highlighting the court's inherent power to grant interim injunctions, but also emphasizing that such relief should not be used to grant final relief prematurely.
+  * **Application of Law:**
+    * The court applied the above legal provisions to the facts of the case, concluding that the Commercial Court had jurisdiction to hear the case, and that the suit was not barred by limitation. 
+    * The court applied the principles of equity, recognizing the Respondent's legitimate right to receive license fees, but also acknowledging the Appellant's investment in renovations.
+
+## 6. Judgment
+
+  * **Final Decision:** The Court upheld the Commercial Court's jurisdiction to hear the case, but modified the order granting interim mandatory injunction.
+  * **Relief Granted:**
+    * The Court directed the Appellant to deposit Rs. 4 Crore within six weeks, representing a significant portion of the alleged arrears owed to the Respondent.
+    * The Appellant was further directed to continue paying regular license fees at the rate of Rs. 14,25,000/- per month until the final decision of the Commercial Suit. 
+    * The Respondent was entitled to withdraw the amount deposited by the Appellant.
+    * If the Appellant failed to comply with these orders, the original order granting interim mandatory injunction (Exh.77) would become operative, allowing the Respondent to proceed with execution and legal recourse.
+  * **Orders:** The court dismissed the Appeals and also dismissed the accompanying Civil Applications. 
+
+## 7. Implications
+
+  * **Impact on Law:**
+    * The judgment reiterates the principles governing the grant of interim injunctions, emphasizing that such relief should be used with caution, and should not be used to decide final relief prematurely.
+    * The judgment clarifies the applicability of the Maharashtra Rent Control Act, 1999, in cases involving companies with large share capital.
+  * **Future Relevance:** This judgment can serve as a precedent for future cases concerning the intersection of commercial disputes and the Maharashtra Rent Control Act, as well as the application of interim injunctions in similar situations.
+  * **Broader Context:** This case demonstrates the challenges arising from commercial lease disputes and the need for the courts to balance the rights of both landlords and tenants, while ensuring fair and timely resolution of such disputes.
+
+## 8. Summary Points
+
+  * The Bombay High Court upheld the jurisdiction of the Commercial Court to hear the case, rejecting the Appellant's argument that the Maharashtra Rent Control Act, 1999 applied.
+  * The Court found that the suit was not barred by limitation.
+  * While the Court recognized the Respondent's right to possession, it modified the interim mandatory injunction, requiring the Appellant to make a substantial deposit and continue paying license fees, thus protecting the Respondent's interests while ensuring a fair trial.
+  * The judgment provides guidance on the appropriate application of interim injunctions in commercial disputes, cautioning against premature grant of final relief.
+
+## 9. References
+
+  *  **Citations:** All the statutes and cases mentioned in this summary are cited within the text for easy reference.
+  * **Further Reading:** 
+    *  Commercial Courts Act, 2015
+    *  Maharashtra Rent Control Act, 1999
+    *  Specific Relief Act, 1963
+    *  Code of Civil Procedure, 1908 
+    *  Limitation Act, 1963 
+    *  The judgment itself is the best source for detailed information. 

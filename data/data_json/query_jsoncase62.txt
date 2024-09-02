@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A company (Plaintiff) filed a suit against another company (Defendant) for breach of contract. The Defendant argued that the suit was filed in violation of the Commercial Courts Act, 2015, as the Plaintiff failed to undergo pre-institution mediation. The Plaintiff, however, contends that the mandatory pre-institution mediation requirement was not applicable at the time of filing the suit because the mechanism for pre-institution mediation was not yet in place.  Should the suit be dismissed for non-compliance with the Commercial Courts Act?",
+    "Legal Principles": "The applicability of the mandatory pre-institution mediation requirement under Section 12-A of the Commercial Courts Act, 2015, depends on the stage of the litigation. It applies at the time of 'institution' of the suit, meaning when the suit is filed or presented in the Court. If, at the time of institution, a mechanism for pre-institution mediation is not in place, the requirement is not applicable.",
+    "Relevant Sections": "Section 12-A of the Commercial Courts Act, 2015, Section 153 of the Code of Civil Procedure, 1908",
+    "Context": "Commercial Law, Contract Law, Jurisdiction: India, Case Type: Suit for breach of contract"
+  },
+  {
+    "Query": "A plaintiff filed a suit seeking recovery of money owed to him by the defendant. The defendant raised an objection, stating that the plaintiff should have undergone pre-institution mediation under the Commercial Courts Act, 2015, before filing the suit. The plaintiff, however, argued that the pre-institution mediation requirement was not applicable in this case as it falls under the exception of 'urgent interim relief'. Is the plaintiff's argument valid, considering the exception for urgent interim relief?",
+    "Legal Principles": "Section 12-A of the Commercial Courts Act, 2015, does not apply to suits seeking 'urgent interim relief'. If a suit seeks such relief, the pre-institution mediation requirement is not mandatory.",
+    "Relevant Sections": "Section 12-A of the Commercial Courts Act, 2015",
+    "Context": "Commercial Law, Debt Recovery, Jurisdiction: India, Case Type: Suit for recovery of money"
+  },
+  {
+    "Query": "A company (Plaintiff) filed a suit against another company (Defendant) for patent infringement. The Defendant argued that the Plaintiff should have undergone pre-institution mediation before filing the suit as per the Commercial Courts Act, 2015. However, the Plaintiff contends that the pre-institution mediation requirement is not applicable to intellectual property disputes. Is the Plaintiff's argument valid, considering the exclusion of intellectual property disputes?",
+    "Legal Principles": "The pre-institution mediation requirement under Section 12-A of the Commercial Courts Act, 2015, is not applicable to all types of commercial disputes. Certain categories of disputes, including intellectual property disputes, are excluded from the requirement.",
+    "Relevant Sections": "Section 12-A of the Commercial Courts Act, 2015",
+    "Context": "Commercial Law, Intellectual Property Law, Jurisdiction: India, Case Type: Suit for patent infringement"
+  },
+  {
+    "Query": "A plaintiff filed a suit against a defendant for a breach of contract. The defendant argued that the suit was filed prematurely as the plaintiff had not yet exhausted all remedies of pre-institution mediation under the Commercial Courts Act, 2015. However, the plaintiff stated that the pre-institution mediation requirement does not apply retrospectively and should not be enforced on a suit already filed. Can the defendant successfully argue that the pre-institution mediation requirement applies retrospectively?",
+    "Legal Principles": "The pre-institution mediation requirement under Section 12-A of the Commercial Courts Act, 2015, does not apply retrospectively. If a suit was filed before the mechanism for pre-institution mediation was put in place, the requirement is not applicable.",
+    "Relevant Sections": "Section 12-A of the Commercial Courts Act, 2015",
+    "Context": "Commercial Law, Contract Law, Jurisdiction: India, Case Type: Suit for breach of contract"
+  },
+  {
+    "Query": "A plaintiff filed a suit for specific performance of a contract. The defendant argued that the plaintiff should have undergone pre-institution mediation under the Commercial Courts Act, 2015, before filing the suit. The plaintiff, however, stated that the requirement does not apply to suits seeking equitable relief, such as specific performance. Is the plaintiff's argument valid, considering the applicability of the requirement to suits seeking equitable relief?",
+    "Legal Principles": "The pre-institution mediation requirement under Section 12-A of the Commercial Courts Act, 2015, may not apply to all suits seeking equitable relief. The specific applicability of the requirement to such suits depends on the nature of the relief sought and the specific provisions of the Act.",
+    "Relevant Sections": "Section 12-A of the Commercial Courts Act, 2015",
+    "Context": "Commercial Law, Contract Law, Jurisdiction: India, Case Type: Suit for specific performance"
+  },
+  {
+    "Query": "A plaintiff filed a suit for recovery of money owed to him by the defendant. The defendant argued that the plaintiff should have undergone pre-institution mediation before filing the suit as per the Commercial Courts Act, 2015. The plaintiff, however, contends that the pre-institution mediation requirement is not applicable to suits involving small monetary claims. Is the plaintiff's argument valid, considering the exclusion of small monetary claims?",
+    "Legal Principles": "The pre-institution mediation requirement under Section 12-A of the Commercial Courts Act, 2015, may not apply to all suits involving small monetary claims. The Act may provide exceptions or thresholds for the applicability of the requirement.",
+    "Relevant Sections": "Section 12-A of the Commercial Courts Act, 2015",
+    "Context": "Commercial Law, Debt Recovery, Jurisdiction: India, Case Type: Suit for recovery of money"
+  },
+  {
+    "Query": "A plaintiff filed a suit for declaration of title to land. The defendant argued that the plaintiff should have undergone pre-institution mediation under the Commercial Courts Act, 2015, before filing the suit. The plaintiff, however, stated that the pre-institution mediation requirement is not applicable to suits involving immovable property. Is the plaintiff's argument valid, considering the applicability of the requirement to suits involving immovable property?",
+    "Legal Principles": "The pre-institution mediation requirement under Section 12-A of the Commercial Courts Act, 2015, may not apply to all suits involving immovable property. The specific applicability of the requirement to such suits depends on the nature of the dispute and the specific provisions of the Act.",
+    "Relevant Sections": "Section 12-A of the Commercial Courts Act, 2015",
+    "Context": "Commercial Law, Real Estate Law, Jurisdiction: India, Case Type: Suit for declaration of title to land"
+  },
+  {
+    "Query": "A plaintiff filed a suit against a defendant for a breach of a contract for the supply of goods. The defendant argued that the plaintiff should have undergone pre-institution mediation under the Commercial Courts Act, 2015, before filing the suit. The plaintiff, however, stated that the requirement is not applicable to contracts involving the supply of goods. Is the plaintiff's argument valid, considering the applicability of the requirement to contracts for the supply of goods?",
+    "Legal Principles": "The pre-institution mediation requirement under Section 12-A of the Commercial Courts Act, 2015, may not apply to all contracts involving the supply of goods. The specific applicability of the requirement depends on the nature of the contract and the specific provisions of the Act.",
+    "Relevant Sections": "Section 12-A of the Commercial Courts Act, 2015",
+    "Context": "Commercial Law, Contract Law, Jurisdiction: India, Case Type: Suit for breach of contract for the supply of goods"
+  },
+  {
+    "Query": "A plaintiff filed a suit against a defendant for a breach of a contract for the provision of services. The defendant argued that the plaintiff should have undergone pre-institution mediation under the Commercial Courts Act, 2015, before filing the suit. The plaintiff, however, stated that the requirement is not applicable to contracts involving the provision of services. Is the plaintiff's argument valid, considering the applicability of the requirement to contracts for the provision of services?",
+    "Legal Principles": "The pre-institution mediation requirement under Section 12-A of the Commercial Courts Act, 2015, may not apply to all contracts involving the provision of services. The specific applicability of the requirement depends on the nature of the contract and the specific provisions of the Act.",
+    "Relevant Sections": "Section 12-A of the Commercial Courts Act, 2015",
+    "Context": "Commercial Law, Contract Law, Jurisdiction: India, Case Type: Suit for breach of contract for the provision of services"
+  },
+  {
+    "Query": "A plaintiff filed a suit for the recovery of a debt owed to him by the defendant. The defendant argued that the plaintiff should have undergone pre-institution mediation under the Commercial Courts Act, 2015, before filing the suit. The plaintiff, however, stated that the requirement is not applicable to suits involving debts that are secured by a mortgage. Is the plaintiff's argument valid, considering the applicability of the requirement to secured debts?",
+    "Legal Principles": "The pre-institution mediation requirement under Section 12-A of the Commercial Courts Act, 2015, may not apply to all suits involving debts that are secured by a mortgage. The specific applicability of the requirement depends on the nature of the debt and the specific provisions of the Act.",
+    "Relevant Sections": "Section 12-A of the Commercial Courts Act, 2015",
+    "Context": "Commercial Law, Debt Recovery, Jurisdiction: India, Case Type: Suit for the recovery of a secured debt"
+  }
+]
+```

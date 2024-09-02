@@ -1,0 +1,109 @@
+## 1. Case Title
+
+* **Case Name:** Ascot Estates Pvt. Ltd. vs. Bon Vivant Life Style Pvt. Ltd.
+* **Court:** Delhi High Court
+* **Date of Judgment:** December 10, 2015
+* **Citation:**  OMP (I) (Comm.) 16/2015 
+
+## 2. Background and Context
+
+* **Brief Overview:** Ascot Estates Pvt. Ltd. (Petitioner) filed an application under Section 9 of the Arbitration and Conciliation Act, 1996, seeking appointment of a receiver to take possession of assets hired by Bon Vivant Life Style Pvt. Ltd. (Respondent) under a hire agreement. The agreement had been terminated due to non-payment of hire charges by the Respondent. This dispute arose after the promulgation of the Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Ordinance, 2015 (Ordinance), which established specialized courts for commercial disputes.
+* **Key Issues:**
+    * **Jurisdiction:** Whether the dispute should be heard by the Commercial Division or the Commercial Appellate Division under the Ordinance.
+    * **Right of Appeal:** Whether Section 10 of the Ordinance takes away the right of appeal conferred by Section 37 of the Arbitration and Conciliation Act, 1996.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * **Arbitration and Conciliation Act, 1996:**
+        * Section 9:  Provisions for interim measures in arbitration proceedings.
+        * Section 37:  Provides for appeals against certain orders in arbitration proceedings.
+    * **Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Ordinance, 2015 (Ordinance):**
+        * Section 10: Deals with jurisdiction over arbitration applications and appeals, particularly in cases of commercial disputes of Specified Value.
+        * Section 13:  Provides for appeals from the Commercial Court or Commercial Division.
+        * Section 15: Deals with the transfer of pending suits and applications, including those under the Arbitration and Conciliation Act, 1996, to the Commercial Division or Commercial Court.
+    * **Delhi High Court Act, 1966:** Section 5 vests the Delhi High Court with ordinary original civil jurisdiction.
+* **Precedents Cited:**
+    * **Garikapati Veeraya v. N. Subbiah Choudhry & Others (AIR 1957 SC 540):** Established that the right to appeal is a substantive legal right and can only be taken away by a subsequent enactment expressly or by necessary intendment.
+    * **The Colonial Sugar Refining Company Limited v. Irving ([1905] A.C. 369):** Held that the right to appeal is not merely procedural but qualitatively different.
+    * **Eileen Louise Nicolle v. John Winter Nicolle ([1922] 1 A.C. 284):** Explained the principle that a prior specific law is not easily abrogated by a later law expressed in general terms.
+    * **Barker v. Edger & Others ([1898] A.C. 748):**  Expounded on the presumption that a subsequent general enactment is not intended to interfere with a special provision unless it clearly manifests such intention.
+    * **The U.P. State Electricity Board & Anr. v. Hari Shankar Jain & Ors. (1978) 4 SCC 16):**  Reinforced the rule that a general provision should yield to a specific provision.
+    * **A.B. Krishna & Ors. v. State of Karnataka & Ors. (1998) 3 SCC 495):** Repelled the argument of implied supersession and reiterated that an earlier special law cannot be abrogated by implication.
+    * **Maharaja Pratap Singh Bahadur v. Thakur Manmohan Dey (AIR 1966 SC 1931):**  Held that an earlier special law cannot be abrogated by mere implication.
+    * **Vasudev Ramchandra Shelat v. Pranlal Jayanand Thakar & Ors. (1974) 2 SCC 323):** Emphasized that provisions of two Acts should be read consistently with each other.
+* **Legal Doctrines:**
+    * **Generalia specialibus non derogant:** A general provision does not derogate a special one.
+    * **Presumption against ouster of jurisdiction:**  There is a strong presumption against construing a statute to oust or restrict the jurisdiction of superior Courts.
+
+## 4. Arguments Presented
+
+* **Petitioner’s Argument:** 
+    * The Petitioner argued that the dispute was a commercial dispute of specified value as defined in the Ordinance and, therefore, fell under the jurisdiction of the Commercial Court. 
+    * The Petitioner also argued that the Ordinance did not take away the right of appeal provided under Section 37 of the Arbitration and Conciliation Act, 1996, and that the right of appeal was a substantive right that could not be taken away implicitly.
+* **Respondent’s Argument:** 
+    * The Respondent did not file a reply to the petition, but the learned Additional Solicitor General of India argued on behalf of the government.
+    * The Additional Solicitor General argued that Section 10 of the Ordinance clearly intended to vest exclusive jurisdiction over arbitration applications and appeals in the Commercial Appellate Division.
+    * The Additional Solicitor General argued that Section 37 of the Arbitration and Conciliation Act, 1996 was impliedly repealed by the Ordinance.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The Court recognized that there was a conflict between Section 10 and Section 15 of the Ordinance.
+    * The Court observed that Section 10 of the Ordinance, if read literally, would render Section 37 of the Arbitration and Conciliation Act, 1996 otiose by removing the right of appeal.
+    * The Court noted the well-established principle that the right to appeal is a substantive legal right that cannot be taken away by implication.
+* **Interpretation of Law:**
+    * The Court applied the principle of "generalia specialibus non derogant" to interpret the provisions of the Ordinance and the Arbitration and Conciliation Act, 1996.
+    * The Court held that the Arbitration and Conciliation Act, 1996 is a special law that comprehensively deals with arbitration, while the Ordinance is a general law establishing commercial courts.
+    * The Court noted that the Ordinance itself contained provisions, such as the proviso to sub-Section 1 of Section 13 and sub-Section 1 of Section 15, which supported the continued existence of the right of appeal under Section 37 of the Arbitration and Conciliation Act, 1996.
+    * The Court also considered the presumption against ouster of jurisdiction of superior courts.
+* **Application of Law:**
+    * The Court concluded that Section 10 of the Ordinance should be read down to avoid an implied repeal of Section 37 of the Arbitration and Conciliation Act, 1996.
+    * The Court held that the words "Commercial Appellate Division" in Section 10 should be read as "Commercial Division" in relation to applications or petitions against which an appeal lies under Section 37 of the Arbitration and Conciliation Act, 1996.
+
+## 6. Judgment
+
+* **Final Decision:** 
+    * The Court held that the Petitioner's application should be heard by the Commercial Division of the Delhi High Court, not by the Commercial Appellate Division.
+* **Relief Granted:**
+    * No specific relief was granted at this stage. The matter was placed before the Commercial Division for further proceedings.
+* **Orders:**
+    * The Court ordered the Respondent to file a reply to the petition within three days.
+
+## 7. Implications
+
+* **Impact on Law:**
+    * The judgment clarifies the interplay between the provisions of the Commercial Courts Ordinance and the Arbitration and Conciliation Act, 1996, particularly with regard to the right of appeal. 
+    * It affirms the principle that a general law cannot implicitly repeal a special law.
+* **Future Relevance:** 
+    * The judgment serves as a precedent in resolving jurisdictional issues arising in similar cases where there is a potential conflict between the Ordinance and the Arbitration and Conciliation Act, 1996.
+* **Broader Context:**
+    * The case underscores the importance of ensuring that the right to appeal is preserved in legislation.
+    * It demonstrates how courts interpret legislation to prevent unintended consequences and to uphold existing legal rights.
+
+## 8. Summary Points
+
+* **Key Takeaways:**
+    * The Ordinance does not implicitly repeal Section 37 of the Arbitration and Conciliation Act, 1996, which guarantees a right of appeal.
+    * The jurisdiction over arbitration applications under the Arbitration and Conciliation Act, 1996, where appeals are possible under Section 37, lies with the Commercial Division, not the Commercial Appellate Division, under the Ordinance.
+    * The principle of "generalia specialibus non derogant" applies to interpreting conflicting provisions in different statutes.
+    * The right to appeal is a substantive legal right that cannot be taken away implicitly.
+
+## 9. References
+
+* **Citations:** 
+    *  Arbitration and Conciliation Act, 1996 
+    *  Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Ordinance, 2015
+    *  Delhi High Court Act, 1966
+    *  Garikapati Veeraya v. N. Subbiah Choudhry & Others (AIR 1957 SC 540)
+    *  The Colonial Sugar Refining Company Limited v. Irving ([1905] A.C. 369)
+    *  Eileen Louise Nicolle v. John Winter Nicolle ([1922] 1 A.C. 284)
+    *  Barker v. Edger & Others ([1898] A.C. 748)
+    *  The U.P. State Electricity Board & Anr. v. Hari Shankar Jain & Ors. (1978) 4 SCC 16)
+    *  A.B. Krishna & Ors. v. State of Karnataka & Ors. (1998) 3 SCC 495)
+    *  Maharaja Pratap Singh Bahadur v. Thakur Manmohan Dey (AIR 1966 SC 1931)
+    *  Vasudev Ramchandra Shelat v. Pranlal Jayanand Thakar & Ors. (1974) 2 SCC 323)
+* **Further Reading:** 
+    *  Maxwell on The Interpretation of Statutes, 12th Edition by P. St. J. Langan
+    *  Bennion on Statutory Interpretation, 5th Edition, Lexis Nexis
+    *  Craies on Statute Law, 7th Edition, Sweet and Maxwell- London, 1971 

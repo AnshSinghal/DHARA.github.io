@@ -1,0 +1,89 @@
+## 1. Case Title
+
+* **Case Name:** Ane Industries Private Limited vs. J.K. Engineering Private Limited
+* **Court:** Calcutta High Court (Ordinary Original Civil Jurisdiction)
+* **Date of Judgment:** 08 September, 2023
+* **Citation:** Not provided in the text.
+
+## 2. Background and Context
+
+* **Brief Overview:** The case revolves around a commercial dispute between Ane Industries Private Limited (the plaintiff) and J.K. Engineering Private Limited (the defendant), with the plaintiff seeking transfer of their lawsuit to the Commercial Division of the Calcutta High Court. The defendant contested this transfer, arguing that the Commercial Division was not the appropriate forum.
+* **Key Issues:** 
+    * The applicability of the Commercial Courts Act, 2015, specifically Section 15, regarding the transfer of pending suits to the Commercial Division.
+    * The timing of the establishment of the Commercial Division in Calcutta High Court in relation to the date of the suit filing. 
+    * The notification of the "Specified Value" under the Commercial Courts Act, 2015 and its impact on the transfer provision.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * **Commercial Courts Act, 2015:** Sections 1 (3), 2 (1) (i), 3 (1A), 4, 5, 6, 7, 15.
+    * **Commercial Courts, Commercial Division and Commercial Appellate Division of High Court Act, 2015:** Sections 4, 5.
+    * **Code of Civil Procedure, 1908:** Order VII, Rule 10.
+* **Precedents Cited:** Laxmi Polyfab Private Limited -vs- Eden Realty Ventures Private Limited (AIR 2021 Cal 190).
+* **Legal Doctrines:** 
+    * **Jurisdiction:** The power of a court to hear and decide a case.
+    * **Statutory Interpretation:** How courts interpret the meaning of statutory provisions.
+    * **Delegated Legislation:** The process of granting power to an administrative body to create regulations.
+    * **Transfer of Pending Suits:** The process of moving a case from one court to another.
+
+## 4. Arguments Presented
+
+* **Plaintiff’s Argument:**
+    * The suit was filed on 18th August, 2016, before the notification of the Specified Value.
+    * The Commercial Courts Act, 2015, does not specify the Specified Value itself, leaving it to be determined by the State Government.
+    * As the Specified Value was notified on 20th March, 2020, the suit was "pending" at that time, making it eligible for transfer under Section 15 of the Act. 
+    * The Commercial Division was established by Notification dated 16th July, 2016, and the suit was filed after that, therefore, the suit was pending in the Ordinary Original Civil Jurisdiction at the time of establishment.
+    * The judgment in Laxmi Polyfab Private Limited case supports the plaintiff's argument regarding the applicability of Section 15.
+
+* **Defendant’s Argument:**
+    * The suit was filed after the Commercial Courts Act, 2015 came into force (23rd October, 2015) and after the establishment of the Commercial Division in Calcutta (16th July, 2016). 
+    * The Notification dated 20th March, 2020, only specified the pecuniary jurisdiction of the Commercial Court and did not establish it.
+    * The defendant’s counterclaim should be withdrawn and filed in the appropriate forum. 
+    * The order dated 2nd March, 2023, transferring the suit to the Commercial Division was based on an error apparent on the face of record as the court mistakenly considered the Commercial Courts Act coming into force in December 2015 and the establishment of the Commercial Court in March 2020. 
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The Commercial Division of Calcutta High Court was established by the Notification dated 16th July, 2016.
+    * The Specified Value, determined by the State Government, was not fixed at the time of suit filing.
+    * The Notification dated 20th March, 2020, only fixed the pecuniary jurisdiction of the Commercial Division, not its establishment.
+    * The suit was filed after the establishment of the Commercial Division.
+    * The order dated 2nd March, 2023, was based on a misunderstanding of facts.
+* **Interpretation of Law:**
+    * The court interpreted the relevant sections of the Commercial Courts Act, 2015, particularly Section 15, which governs the transfer of pending suits.
+    * The court recognized that the Specified Value is not defined in the Act itself but delegated to be determined by the State Government.
+* **Application of Law:**
+    * The court found that the suit was filed after the establishment of the Commercial Division, therefore, the suit was not "pending" at the time of the division's establishment.
+    * The court concluded that the suit was not eligible for transfer under Section 15 of the Act.
+    * The court applied Order VII Rule 10 of the Code of Civil Procedure, 1908, to return the plaint to the plaintiff for filing in the appropriate court.
+
+## 6. Judgment
+
+* **Final Decision:** The court recalled the previous order dated 2nd March, 2023, and dismissed the plaintiff's application for transfer to the Commercial Division.
+* **Relief Granted:** The plaint was returned to the plaintiff for filing in the appropriate court.
+* **Orders:** The defendant was allowed to withdraw their counterclaim. The judgment dated 7th February, 2019, was recalled.
+
+## 7. Implications
+
+* **Impact on Law:** The judgment clarifies the interpretation of Section 15 of the Commercial Courts Act, 2015, regarding the transfer of suits to the Commercial Division. It emphasizes that the suit must be pending at the time of the Commercial Division's establishment to be eligible for transfer.
+* **Future Relevance:** The case serves as a precedent for future cases involving similar issues regarding the transfer of suits under the Commercial Courts Act, 2015.
+* **Broader Context:** The decision underscores the importance of clearly defined jurisdictional rules and the need for accurate factual understanding in judicial proceedings.
+
+## 8. Summary Points
+
+* The suit was filed after the establishment of the Commercial Division in Calcutta High Court.
+* The suit was not "pending" at the time of the division's establishment, making it ineligible for transfer under Section 15 of the Commercial Courts Act, 2015. 
+* The court recalled the previous order transferring the suit and returned the plaint to the plaintiff. 
+* The defendant was allowed to withdraw their counterclaim.
+
+## 9. References
+
+* **Citations:**
+    * Commercial Courts Act, 2015
+    * Commercial Courts, Commercial Division and Commercial Appellate Division of High Court Act, 2015
+    * Code of Civil Procedure, 1908
+    * Laxmi Polyfab Private Limited -vs- Eden Realty Ventures Private Limited (AIR 2021 Cal 190)
+* **Further Reading:** 
+    * The Commercial Courts Act, 2015
+    * The Code of Civil Procedure, 1908
+    * Cases related to the transfer of pending suits under the Commercial Courts Act, 2015. 

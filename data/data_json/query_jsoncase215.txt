@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A plaintiff filed a suit for copyright infringement and passing off against a defendant. The defendant filed a written statement but did not include any documents. Subsequently, the defendant sought to file additional documents after the plaintiff filed a replication. Can the defendant be allowed to file these documents, and what are the legal principles involved?",
+    "Legal Principles": "Order XI Rule 1(10) of the Code of Civil Procedure, 1908 (CPC) as amended by the Commercial Courts Act, 2015, requires a defendant to establish reasonable cause for non-disclosure of documents with the written statement if they wish to file additional documents later. The court has the discretion to grant leave for filing additional documents, but it should consider factors such as whether the delay is bona fide, whether the documents are relevant, and whether the plaintiff will be prejudiced.",
+    "Relevant Sections": "Order XI Rule 1(10) CPC",
+    "Context": "Commercial suit, copyright infringement and passing off, filing of additional documents after replication"
+  },
+  {
+    "Query": "A defendant filed a written statement and supporting documents within the statutory period, but not together. The plaintiff argues that the documents should not be taken on record because they were not filed with the written statement. What is the legal position on this issue?",
+    "Legal Principles": "The Supreme Court, in cases like Re : Cognizance for Extension of Limitation Suo Motu Writ Petition (C) 3/2020 and Centaur Pharmaceuticals Pvt. Ltd. v. Stanford Laboratories Pvt. Ltd., extended the limitation period for filing pleadings during the COVID-19 pandemic. This extended period would apply to both the written statement and the supporting documents. Even if the documents were not filed together, as long as they were filed within the extended statutory period, they can be taken on record.",
+    "Relevant Sections": "Order VIII Rule 1 CPC, Supreme Court Orders in Re : Cognizance for Extension of Limitation Suo Motu Writ Petition (C) 3/2020 and Centaur Pharmaceuticals Pvt. Ltd. v. Stanford Laboratories Pvt. Ltd.",
+    "Context": "Commercial suit, filing of written statement and supporting documents within statutory period but not together"
+  },
+  {
+    "Query": "A plaintiff argues that the Delhi High Court (Original Side) Rules, 2018, apply to Commercial Courts and prohibit the filing of documents after completion of pleadings. Can the Original Side Rules be applied to Commercial Courts in this manner?",
+    "Legal Principles": "Rule 4(e) of the Delhi High Court (Original Side) Rules, 2018, clearly defines “The Court” as the Delhi High Court and not Commercial Courts. The Original Side Rules only apply to proceedings on the original side of the Delhi High Court and not to Commercial Courts.",
+    "Relevant Sections": "Rule 4(e) of the Delhi High Court (Original Side) Rules, 2018",
+    "Context": "Commercial suit, applicability of Delhi High Court (Original Side) Rules, 2018 to Commercial Courts"
+  },
+  {
+    "Query": "A defendant cites the COVID-19 pandemic as a reason for not filing documents with the written statement. Is this a sufficient reason for the court to allow the defendant to file the documents later?",
+    "Legal Principles": "The Supreme Court has advocated a liberal approach to accepting additional documents, especially during the COVID-19 pandemic. The court should consider whether the defendant has shown reasonable cause for the non-disclosure of documents and whether the plaintiff will be prejudiced. Courts have generally accepted the COVID-19 pandemic as a valid reason for delays and have adopted a more lenient approach in such cases.",
+    "Relevant Sections": "Order XI Rule 1(10) CPC, Supreme Court Orders in Sugandhi v. P. Raj Kumar",
+    "Context": "Commercial suit, filing of documents during COVID-19 pandemic, reasonable cause for non-disclosure"
+  },
+  {
+    "Query": "A plaintiff argues that the defendant's application to file additional documents is insufficient because it lacks specific details about the impact of the COVID-19 pandemic. What is the standard for assessing the sufficiency of such an application?",
+    "Legal Principles": "The application should demonstrate a genuine and reasonable cause for the non-disclosure of documents. While specific details about the impact of the COVID-19 pandemic are helpful, the court should consider the context and the overall circumstances. The court should exercise its discretion based on the facts of the case, the nature of the documents, and the potential prejudice to the plaintiff.",
+    "Relevant Sections": "Order XI Rule 1(10) CPC",
+    "Context": "Commercial suit, sufficiency of application for filing additional documents during COVID-19 pandemic"
+  },
+  {
+    "Query": "A defendant seeks to file additional documents after the plaintiff has already filed a replication. Can the defendant be allowed to file these documents?",
+    "Legal Principles": "The court should consider the stage of the proceedings and the potential prejudice to the plaintiff. Filing additional documents after the plaintiff has filed a replication can be considered an abuse of process if it causes significant prejudice or delays the proceedings. However, the court may still allow the documents if the defendant establishes good cause and demonstrates that the documents are essential to their defense.",
+    "Relevant Sections": "Order XI Rule 1(10) CPC, Order XIII Rule 2 CPC",
+    "Context": "Commercial suit, filing of additional documents after replication, potential abuse of process"
+  },
+  {
+    "Query": "A plaintiff argues that the defendant's documents should not be taken on record because the defendant's statement of truth did not include the documents. Is this a valid argument?",
+    "Legal Principles": "The statement of truth is a representation by the defendant that all documents within their power, possession, control, or custody have been placed on record.  Failing to include documents in the statement of truth can be a procedural irregularity. However, it does not automatically bar the defendant from filing additional documents. The court has the discretion to allow the documents if the defendant can show good cause for not including them in the statement of truth.",
+    "Relevant Sections": "Order XI Rule 1(10) CPC, Statement of Truth",
+    "Context": "Commercial suit, filing of additional documents, statement of truth, procedural irregularities"
+  },
+  {
+    "Query": "A defendant seeks to file additional documents in support of their written statement. Can the defendant be allowed to file these documents after the statutory period for filing the written statement has expired?",
+    "Legal Principles": "The statutory period for filing the written statement can be extended for reasonable cause. The COVID-19 pandemic has been recognized as a valid reason for extending the statutory period for filing pleadings. In such cases, if the defendant filed their written statement and supporting documents within the extended statutory period, the court can take the documents on record, even if they were not filed together.",
+    "Relevant Sections": "Order VIII Rule 1 CPC, Order XI Rule 1(10) CPC, Supreme Court Orders in Re : Cognizance for Extension of Limitation Suo Motu Writ Petition (C) 3/2020 and Centaur Pharmaceuticals Pvt. Ltd. v. Stanford Laboratories Pvt. Ltd.",
+    "Context": "Commercial suit, filing of additional documents after statutory period, extension of limitation period, COVID-19 pandemic"
+  },
+  {
+    "Query": "A plaintiff argues that the defendant’s documents should be struck off because they were filed after the replication was filed. Is this argument valid?",
+    "Legal Principles": "The Delhi High Court (Original Side) Rules, 2018, may restrict the filing of documents after the completion of pleadings, but they do not apply to Commercial Courts. The court has discretion to allow the filing of documents after the replication if the defendant can demonstrate reasonable cause and the plaintiff will not be prejudiced. The COVID-19 pandemic can be considered a valid reason for delays in filing documents.",
+    "Relevant Sections": "Rule 14 of the Delhi High Court (Original Side) Rules, 2018, Order XI Rule 1(10) CPC, Order XIII Rule 2 CPC",
+    "Context": "Commercial suit, filing of documents after replication, Delhi High Court (Original Side) Rules, 2018, COVID-19 pandemic"
+  },
+  {
+    "Query": "What is the scope of the High Court's supervisory jurisdiction under Article 227 of the Constitution of India when reviewing an order of a Commercial Court?",
+    "Legal Principles": "The High Court’s supervisory jurisdiction under Article 227 is limited to ensuring that the lower court acted within its jurisdiction and did not violate fundamental principles of law or justice. The High Court cannot act as an appellate court and cannot re-appreciate evidence or substitute its own judgment for that of the lower court. The High Court should only interfere with an order of a Commercial Court in exceptional cases where there is a serious dereliction of duty or a flagrant violation of law.",
+    "Relevant Sections": "Article 227 of the Constitution of India",
+    "Context": "Supervisory jurisdiction of High Court under Article 227 of the Constitution of India, review of Commercial Court orders"
+  }
+]
+```

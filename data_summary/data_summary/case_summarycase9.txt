@@ -1,0 +1,121 @@
+## 1. Case Title
+
+* **Case Name:** Arcelor Mittal Nippon Steel India Ltd. vs. Essar Bulk Terminal Ltd.
+* **Court:** Supreme Court of India
+* **Date of Judgment:** 14th September, 2021
+* **Citation:** AIR 2021 SUPREME COURT 4350, AIRONLINE 2021 SC 718
+
+## 2. Background and Context
+
+* **Brief Overview:** Arcelor Mittal Nippon Steel India Ltd. (Appellant) and Essar Bulk Terminal Ltd. (Respondent) were parties to a Cargo Handling Agreement for services at Hazira Port. Disputes arose between the parties, leading the Appellant to invoke the arbitration clause in the agreement. The Appellant then approached the Gujarat High Court for appointment of an Arbitral Tribunal. The Respondent objected to arbitration and filed a counter-claim. Both parties also filed applications for interim relief under Section 9 of the Arbitration and Conciliation Act, 1996 (Arbitration Act). While the High Court ordered the appointment of an Arbitral Tribunal, it also upheld the Commercial Court's decision to entertain the Section 9 applications despite the constitution of the Tribunal. This appeal challenges the High Court's order.
+* **Key Issues:**
+    * Whether the Court retains the power to entertain Section 9 applications for interim relief after an Arbitral Tribunal has been constituted.
+    * The true meaning of "entertain" in the context of Section 9(3) of the Arbitration Act.
+    * Whether the Court must examine the efficacy of Section 17 remedy (arbitral tribunal's power to grant interim relief) before granting Section 9 relief.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * Arbitration and Conciliation Act, 1996 (Arbitration Act)
+        * Section 9(1): Grants power to the Court to grant interim relief before, during, or after arbitral proceedings.
+        * Section 9(3): Restricts the Court's power to entertain Section 9(1) applications after the Arbitral Tribunal is constituted, unless the remedy under Section 17 is inefficacious.
+        * Section 11: Deals with the appointment of Arbitral Tribunals.
+        * Section 17: Grants the Arbitral Tribunal power to order interim measures of protection.
+        * Section 36: Deals with the enforcement of arbitral awards.
+    * Code of Civil Procedure, 1908 (5 of 1908): Applicable for enforcement of orders passed by the Arbitral Tribunal under Section 17.
+    * Article 227 of the Constitution of India: Allows the High Court to issue writs for the purpose of superintendence over subordinate courts.
+
+* **Precedents Cited:**
+    * Amazon.com NV Investment Holdings LLC v. Future Retail Limited & Ors. (2021 SCC Online SC 557)
+    * State Bank of India and Ors. v. S. N. Goyal (2008) 8 SCC 92: AIR 2008 SC 2594
+    * Deep Chand & Ors v. Land Acquisition Officer & Others (1994) 4 SCC 99: AIR 1994 SC 1901
+    * A.V. Venkateswaran, Collector of Customs, Bombay v. Ramchand Sobhraj Wadhwani & Anr. (AIR 1961 SC 1506)
+    * Manbhupinder Singh Atwal v. Neeraj Kumarpal Shah (2019 GLH (3) 234)
+    * Firm Ashok Traders and Anr. v. Gurumukh Das Saluja and Ors. (2004) 3 SCC 155
+    * Sri. Tufan Chatterjee v. Sri. Rangan Dhar (2016 SCC Online Cal 483)
+    * Energo Engineering Projects Limited v. TRF Ltd. (2016 SCC Online Del 6560)
+    * Lakshmi Rattan Engineering Works Ltd. v. Asstt. Commissioner Sales Tax, Kanpur and Anr. (1968) 1 SCR 505: AIR 1968 SC 488
+    * Kundan Lal v. Jagan Nath Sharma (AIR 1962 All 547)
+    * Hindustan Commercial Bank Ltd. v. Punnu Sahu (1971) 3 SCC 124
+    * Martin & Harris Ltd. v. VIth Additional District Judge and Others (1998) 1 SCC 732
+    * Benara Bearings and Pistons Limited v. Mahle Engine Components India Private Limited (2017) SCC Online Del 7226
+    * Anil Kunj Bihari Saraf v. Namboodas S/o Shankarlal and Ors. (1996) SCC Online MP 112
+    * M. Ashraf v. Kasim V.K. (2018) SCC OnLine Ker 4913
+    * Srei Equipment Finance Limited (Sefl) v. Ray Infra Services Private Limited & Anr. (2016) SCC OnLine Cal 6765
+    * Avantha Holdings Limited v. Vistra ITCL India Limited (2020 SCC OnLine Del 1717)
+    * Union of India and Ors. v. Uttar Pradesh State Bridge Corporation Limited (2015) 2 SCC 52
+    * Chloro Controls India Private Limited v. Severn Trent Water Purification Inc. (2013) 1 SCC 641
+    * Vidya Drolia and Ors. v. Durga Trading Corporation (2021) 2 SCC 1
+
+* **Legal Doctrines:**
+    * Kompetenz-Kompetenz: The principle that an arbitral tribunal has the authority to determine its own jurisdiction.
+    * Negative Kompetenz-Kompetenz: A consequence of Kompetenz-Kompetenz, where courts are prohibited from hearing disputes covered by an arbitration agreement.
+    * Functus officio: The legal principle that a judge or tribunal loses the power to alter a judgment or decision after it has been pronounced and signed.
+
+## 4. Arguments Presented
+
+* **Appellant’s Argument:**
+    * Section 9(3) of the Arbitration Act restricts the Court's power to entertain Section 9 applications after an Arbitral Tribunal is constituted. 
+    * The purpose of Section 9(3) is to minimize judicial intervention and encourage timely resolution through arbitration.
+    * The term "entertain" in Section 9(3) means "adjudicate" or "pass an order on merits," not merely admit for consideration.
+    * The Respondent's actions in delaying the appointment of an Arbitrator demonstrate an intention to avoid the Arbitral Tribunal and render the Section 17 remedy inefficacious.
+    * The Respondent is not ready and willing to go to arbitration, having filed objections and counterclaims while delaying the appointment of a substitute Arbitrator.
+    * The High Court's interpretation of "entertain" is consistent with previous rulings by the Supreme Court and various High Courts.
+
+* **Respondent’s Argument:**
+    * The Section 9 applications were fully heard and reserved for orders before the Arbitral Tribunal was constituted, thus the bar under Section 9(3) does not apply.
+    * Article 227 of the Constitution is not applicable in this case as the Arbitration Act provides sufficient remedies.
+    * The High Court's order is maintainable, as the Commercial Court is still within its jurisdiction to pass orders on the Section 9 applications.
+    * Section 9(3) is not a non-obstante clause or an ouster clause that completely removes the Court's jurisdiction.
+    * The term "entertain" in Section 9(3) means "admit into consideration," and the Section 9 applications had already passed this stage before the Tribunal's constitution.
+    * The Appellant's application to refer the Section 9 applications to the Arbitral Tribunal was not permissible under the Arbitration Act.
+    * The Respondent has not delayed arbitration; the disputes raised in the notice of arbitration differ from the Section 9 applications, and the Respondent has actively participated in the appointment of Arbitrators.
+    * The Respondent is suffering financial losses due to the delayed resolution of the disputes.
+    * The High Court correctly directed the Commercial Court to proceed with adjudicating the Section 9 applications.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The Court recognized the purpose of Section 9(3) to reduce the burden on courts and encourage timely resolution by Arbitral Tribunals.
+    * The Court analyzed the meaning of "entertain" in Section 9(3) and concluded it refers to the initial stage where the Court takes an application up for consideration and applies its mind to it.
+    * The Court acknowledged that the Court does not become functus officio simply by reserving a matter for orders, and can continue to consider the case until the judgment is pronounced, signed, and dated.
+    * The Court found that the Respondent did not demonstrate an intention to avoid the Arbitral Tribunal or render the Section 17 remedy inefficacious.
+    * The Court recognized that the Court may have to entertain Section 9 applications for interim relief even after the Arbitral Tribunal is constituted, if circumstances render the Section 17 remedy ineffective.
+
+* **Interpretation of Law:**
+    * The Court emphasized that Section 9(3) does not completely oust the Court's jurisdiction, but rather limits its power to entertain Section 9 applications after the Arbitral Tribunal is constituted.
+    * The Court interpreted "entertain" in the context of Section 9(3) to mean the initial stage of consideration by the Court.
+    * The Court examined and distinguished the various precedents cited by both parties, focusing on the specific context of each case.
+
+* **Application of Law:**
+    * The Court applied the interpretation of "entertain" to the facts of the case, finding that the Section 9 applications were already entertained and considered by the Commercial Court before the Arbitral Tribunal was constituted.
+    * The Court concluded that the bar in Section 9(3) did not apply to the Section 9 applications in this case.
+    * The Court found no evidence to support the Appellant's claim that the Respondent was intentionally hindering the arbitral process.
+
+## 6. Judgment
+
+* **Final Decision:** The appeal was allowed in part.
+* **Relief Granted:** The Court clarified that the Commercial Court was not required to examine the efficacy of the Section 17 remedy, as the Section 9 applications were already entertained.
+* **Orders:** The Court directed the Commercial Court to proceed with adjudicating the Section 9 applications.
+
+## 7. Implications
+
+* **Impact on Law:** The judgment clarifies the application of Section 9(3) of the Arbitration Act, particularly in cases where the Court has already entertained and considered Section 9 applications before the Arbitral Tribunal is constituted.
+* **Future Relevance:** The judgment provides valuable guidance for future cases dealing with interim relief under Section 9 of the Arbitration Act, especially in situations where the Arbitral Tribunal's functionality is potentially compromised.
+* **Broader Context:** The judgment underscores the importance of balancing the principles of Kompetenz-Kompetenz with the need to provide effective and timely interim relief. It also highlights the Court's role in preventing parties from abusing the judicial process to delay or obstruct arbitration proceedings.
+
+## 8. Summary Points
+
+* The Supreme Court clarified the meaning of "entertain" in Section 9(3) of the Arbitration Act, holding that it refers to the initial stage of consideration by the Court.
+* The Court found that once an application under Section 9 is entertained and considered by the Court, the bar in Section 9(3) does not apply, even if the Arbitral Tribunal is constituted later.
+* The Court upheld the High Court's order directing the Commercial Court to proceed with adjudicating the Section 9 applications.
+* The judgment emphasizes the Court's responsibility to balance the principle of Kompetenz-Kompetenz with the need to provide effective and timely interim relief.
+
+## 9. References
+
+* **Citations:**
+    * All citations listed in the "Legal Principles Involved" section.
+
+* **Further Reading:**
+    * Other judgments cited in the judgment, particularly those dealing with the interpretation of "entertain" and the applicability of Section 9(3).
+    * Texts on arbitration law in India, such as "The Law of Arbitration and Conciliation in India" by Avtar Singh.

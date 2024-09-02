@@ -1,0 +1,107 @@
+##  Reliance Healthcare Pvt Ltd vs. Reliance Medipharma
+
+**1. Case Title**
+
+* **Case Name:** Reliance Healthcare Pvt Ltd vs. Reliance Medipharma
+* **Court:** Gujarat High Court
+* **Date of Judgment:** 12 June 2018
+* **Citation:** C/AO/65/2018, CAV JUDGMENT
+
+**2. Background and Context**
+
+* **Brief Overview:** Reliance Healthcare Pvt Ltd (plaintiff) filed two trademark suits against Reliance Medipharma (defendant) alleging trademark infringement and passing off. The plaintiff claimed to be the registered proprietor of the trademarks "RELIANCE" and "RELIANCE Rx" logo, while the defendant was using similar names and logos for its pharmaceutical products. 
+* **Key Issues:**
+    * Whether the plaintiff had exclusive rights to use the generic word "RELIANCE" despite it being registered as a trademark.
+    * Whether the defendant's use of similar names and logos constituted trademark infringement and passing off.
+    * Whether the learned Judge, Commercial Court, Vadodara, erred in rejecting the plaintiff's application for injunction.
+
+**3. Legal Principles Involved**
+
+* **Relevant Statutes and Provisions:**
+    * The Trade Marks Act, 1999 (hereinafter referred to as the "Act, 1999")
+        * Section 2(1)(v) - Definition of "registered proprietor"
+        * Section 28 - Exclusive right to use a registered trademark
+        * Section 29 - Infringement of a registered trademark
+        * Section 31 - Registration as prima facie evidence of validity
+        * Section 17(2) - Non-distinctive matter in trademarks
+* **Precedents Cited:**
+    * Hindustan Embroidery Mills Pvt Ltd vs. K Ravindra & Co (76 BLR 146) -  Validity of trademark registration cannot be considered in proceedings seeking temporary injunction.
+    * Cadila Healthcare Ltd vs. Cadila Pharmaceuticals Ltd (2005) 5 SCC 73 -  Passing off action is maintainable when a defendant uses a trademark similar to the plaintiff's.
+    * T.V. Venugopal vs. Ushodaya Enterprise Ltd & Anr (2011) 4 SCC 85 - Descriptive words can acquire secondary meaning and be protected against passing off.
+    * Satyam Infoway Ltd vs. Siffynet Solution Ltd (2004) 6 SCC 145 - Passing off action is applicable when a defendant uses a similar name to deceive consumers.
+    * Mahendra and Mahendra Paper Mills Ltd vs. Mahindra and Mahindra Ltd (2002) 2 SCC 147 - Passing off action is applicable when a defendant uses a similar name to exploit the goodwill of another company.
+    * Aviat Chemicals Pvt. Ltd Vs. Intas Pharmaceuticals Limited (2001 Lawsuit (Del) 881) -  Generic terms cannot be exclusively claimed as trademarks.
+    * Apex Laboratories Ltd vs. Zuventus Health Care Ltd (200&0 1 MLJ 657) -  Generic terms cannot be exclusively claimed as trademarks.
+    * Three ­N­Products Private Limited vs. Emami Limited (APO No.248 of 2008 in CA No. 204 of 2007 of the Calcutta High Court) -  Generic terms cannot be exclusively claimed as trademarks.
+    * J R Kapoor vs. Mirconix India (1994(14) PTC 260 (SC) -  Generic terms cannot be exclusively claimed as trademarks.
+    * Cadila Healthcare Ltd vs. Swiss Pharma Pvt Ltd and Anr (2002 GLH (1) 234) -  Generic terms cannot be exclusively claimed as trademarks.
+* **Legal Doctrines:**
+    * Trademark Infringement - Unauthorized use of a registered trademark.
+    * Passing Off -  Using a mark or name that is deceptively similar to another's mark to create confusion among consumers.
+    * Publici Juris -  Something that is public knowledge or belongs to the public domain.
+
+**4. Arguments Presented**
+
+* **Plaintiff’s Argument:**
+    * The plaintiff was the registered proprietor of the trademarks "RELIANCE" and "RELIANCE Rx" logo, and had a statutory right to use them exclusively.
+    * The defendant's use of similar names and logos constituted trademark infringement and passing off, as it was likely to cause confusion among consumers.
+    * The defendant's use of the word "RELIANCE" was dishonest and intended to exploit the plaintiff's goodwill.
+* **Defendant’s Argument:**
+    * The word "RELIANCE" was a common, generic term, and the plaintiff could not claim exclusive rights to it simply because it was registered.
+    * The plaintiff's reliance on the goodwill of the Ambani's "Reliance" company was improper, as it had no right to exploit someone else's goodwill.
+    * The defendant had been using the name "Reliance Medipharma" since 2011, and the plaintiff was aware of their activities.
+    * The plaintiff's claim of passing off was weak, as the pharmaceutical products were prescription drugs, and consumers were unlikely to be confused.
+    * The plaintiff's application for injunction was not merited, as they had not proven a clear case of infringement or passing off.
+
+**5. Court’s Analysis and Reasoning**
+
+* **Key Findings:**
+    * The court noted that the plaintiff had not pressed the claim of passing off and was primarily focused on the use of the word "RELIANCE" and the "RELIANCE Rx" logo.
+    * The court found that the word "RELIANCE" was a generic and common word in usage, and could not be exclusively claimed as a trademark.
+    * The court considered the arguments regarding the plaintiff's prior use and the defendant's use of similar trademarks but concluded that the plaintiff was not entitled to injunction solely based on the registration of the generic term "RELIANCE".
+    * The court accepted the defendant's statement that they would not use the "Reliance Rx.M" logo or "Reliance Rx M" label with respect to pharmaceutical products.
+* **Interpretation of Law:**
+    * The court interpreted the relevant provisions of the Trade Marks Act, 1999, particularly Section 2(1)(v), Section 28, Section 29, Section 31, and Section 17(2), to determine the rights of the registered proprietor.
+    * The court referred to various precedents cited by both parties and applied the legal doctrines of trademark infringement, passing off, and publici juris to the facts of the case.
+* **Application of Law:**
+    * The court applied the principles of trademark law to the case, recognizing that generic terms cannot be exclusively claimed as trademarks.
+    * The court considered the fact that the plaintiff had not pressed its claim of passing off and that the defendant had agreed not to use the specific logos in question.
+
+**6. Judgment**
+
+* **Final Decision:** The appeals were partly allowed.
+* **Relief Granted:** The impugned orders passed by the learned Judge, Commercial Court, Vadodara, were modified to the extent that the defendants were restrained from using the "Reliance Rx M" logo or "Reliance Rx M" label with respect to pharmaceutical products. The rest of the order refusing to grant injunction against the defendants restraining them from using the name "Reliance" was confirmed.
+* **Orders:** The court directed the parties to maintain the interim arrangement in place until 09.07.2018.
+
+**7. Implications**
+
+* **Impact on Law:** The judgment reaffirms the principle that generic terms cannot be exclusively claimed as trademarks. It highlights the importance of considering the nature of the trademark in question, particularly when it involves common or descriptive words.
+* **Future Relevance:** The case serves as a precedent for future cases involving trademark disputes involving generic terms. It emphasizes the need for a plaintiff to demonstrate a clear case of infringement or passing off when seeking injunctions against the use of common words.
+* **Broader Context:** The judgment reflects the ongoing challenges of protecting trademarks in a digital age, where businesses are increasingly competing for attention and consumers are exposed to a wide range of brands and products.
+
+**8. Summary Points**
+
+* The Gujarat High Court held that the plaintiff was not entitled to exclusive rights to the word "RELIANCE" solely because it was registered as a trademark.
+* The court found that the word "RELIANCE" was a common and generic term and could not be exclusively claimed by the plaintiff.
+* The court modified the lower court's order to restrain the defendants from using specific logos related to the "RELIANCE" brand, while confirming the refusal to grant injunction against the use of the name "RELIANCE" itself.
+* The case emphasizes the importance of demonstrating a clear case of infringement or passing off when seeking injunctions against the use of generic terms.
+
+**9. References**
+
+* Trade Marks Act, 1999
+* Hindustan Embroidery Mills Pvt Ltd vs. K Ravindra & Co (76 BLR 146)
+* Cadila Healthcare Ltd vs. Cadila Pharmaceuticals Ltd (2005) 5 SCC 73
+* T.V. Venugopal vs. Ushodaya Enterprise Ltd & Anr (2011) 4 SCC 85
+* Satyam Infoway Ltd vs. Siffynet Solution Ltd (2004) 6 SCC 145
+* Mahendra and Mahendra Paper Mills Ltd vs. Mahindra and Mahindra Ltd (2002) 2 SCC 147
+* Aviat Chemicals Pvt. Ltd Vs. Intas Pharmaceuticals Limited (2001 Lawsuit (Del) 881)
+* Apex Laboratories Ltd vs. Zuventus Health Care Ltd (200&0 1 MLJ 657)
+* Three ­N­Products Private Limited vs. Emami Limited (APO No.248 of 2008 in CA No. 204 of 2007 of the Calcutta High Court)
+* J R Kapoor vs. Mirconix India (1994(14) PTC 260 (SC)
+* Cadila Healthcare Ltd vs. Swiss Pharma Pvt Ltd and Anr (2002 GLH (1) 234)
+
+**Further Reading:**
+
+* The Trade Marks Act, 1999
+* Cases on Trademark Infringement and Passing Off
+* Articles on Intellectual Property Law in India

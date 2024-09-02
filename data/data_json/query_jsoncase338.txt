@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A plaintiff filed a suit for recovery of money against the defendant. The defendant filed a written statement that did not comply with the requirements of Order VI Rule 15A of the CPC. The plaintiff filed an application to strike off the defendant's written statement. The defendant argued that the defects in his written statement were curable and that he should be allowed to file an amended written statement. The court dismissed the defendant's application. The defendant now seeks to appeal the court's order. Can the defendant's written statement be allowed to be taken on record?",
+    "Legal Principles": "Order VI Rule 15A of the CPC requires pleadings in commercial disputes to be verified by an affidavit. The statement of truth accompanying a pleading must be sworn by the deponent who on oath undertakes that the contents of the accompanying pleading have been drafted as under his directions and instructions and moreso are true and correct to his knowledge. The said affidavit has to be attested, signed and to be filed along with the pleading. Defects in verification of an affidavit in the nature of Statement of truth are curable.",
+    "Relevant Sections": "Order VI Rule 15A of the CPC",
+    "Context": "Commercial dispute in India"
+  },
+  {
+    "Query": "A defendant was proceeded ex-parte in a suit for recovery of money. The defendant then filed an application to set aside the ex-parte order. The court allowed the application and gave the defendant time to file a written statement. However, the defendant failed to file the written statement within the time granted. The plaintiff filed an application to strike off the defendant's defence. The defendant argued that he was unable to file the written statement due to unforeseen circumstances. Should the court allow the defendant to file the written statement?",
+    "Legal Principles": "Order IX Rule 7 CPC allows the court to set aside an ex-parte order if the defendant is able to show sufficient cause for his non-appearance. The court has the power to condone delay in filing a written statement. The court should consider the facts and circumstances of each case to determine whether or not to condone the delay.",
+    "Relevant Sections": "Order IX Rule 7 CPC",
+    "Context": "Civil dispute in India"
+  },
+  {
+    "Query": "A plaintiff filed a suit for specific performance of a contract. The defendant filed a written statement denying the existence of the contract. The plaintiff filed an application to strike off the defendant's defence on the ground that the defendant's denial was not supported by any evidence. The defendant argued that he had a good defence and that the court should not strike off his defence without giving him an opportunity to present his evidence. Should the court strike off the defendant's defence?",
+    "Legal Principles": "The court should not strike off a defendant's defence without giving him an opportunity to present his evidence unless the defence is clearly frivolous or vexatious. A defendant must be allowed to present his defence if he has a bona fide and substantial defence to the plaintiff's claim. The court should consider all the facts and circumstances of the case before deciding whether or not to strike off a defendant's defence.",
+    "Relevant Sections": "Order VI Rule 16 CPC",
+    "Context": "Civil dispute in India"
+  },
+  {
+    "Query": "A plaintiff filed a suit for recovery of money against a company. The company filed a written statement denying liability. The plaintiff filed an application to strike off the company's defence on the ground that the company had not been properly constituted. The company argued that it was a properly constituted company and that the plaintiff's application was frivolous and vexatious. Should the court strike off the company's defence?",
+    "Legal Principles": "A company's defence should not be struck off unless it is clear that the company is not a properly constituted company. The court should consider the evidence presented by the parties before deciding whether or not to strike off the company's defence. The court should ensure that a party is not deprived of a fair opportunity to present its case.",
+    "Relevant Sections": "Companies Act, 2013",
+    "Context": "Commercial dispute in India"
+  },
+  {
+    "Query": "A plaintiff filed a suit for damages for breach of contract. The defendant filed a written statement denying liability. The plaintiff filed an application to strike off the defendant's defence on the ground that the defendant's denial was not supported by any evidence. The defendant argued that he had a good defence and that the court should not strike off his defence without giving him an opportunity to present his evidence. Should the court strike off the defendant's defence?",
+    "Legal Principles": "The court should not strike off a defendant's defence without giving him an opportunity to present his evidence unless the defence is clearly frivolous or vexatious. A defendant must be allowed to present his defence if he has a bona fide and substantial defence to the plaintiff's claim. The court should consider all the facts and circumstances of the case before deciding whether or not to strike off a defendant's defence.",
+    "Relevant Sections": "Indian Contract Act, 1872",
+    "Context": "Civil dispute in India"
+  },
+  {
+    "Query": "A plaintiff filed a suit for injunction against the defendant. The defendant filed a written statement denying the plaintiff's claim. The plaintiff filed an application to strike off the defendant's defence on the ground that the defendant's denial was not supported by any evidence. The defendant argued that he had a good defence and that the court should not strike off his defence without giving him an opportunity to present his evidence. Should the court strike off the defendant's defence?",
+    "Legal Principles": "The court should not strike off a defendant's defence without giving him an opportunity to present his evidence unless the defence is clearly frivolous or vexatious. A defendant must be allowed to present his defence if he has a bona fide and substantial defence to the plaintiff's claim. The court should consider all the facts and circumstances of the case before deciding whether or not to strike off a defendant's defence.",
+    "Relevant Sections": "Specific Relief Act, 1963",
+    "Context": "Civil dispute in India"
+  },
+  {
+    "Query": "A plaintiff filed a suit for recovery of money against a partnership firm. The partnership firm filed a written statement denying liability. The plaintiff filed an application to strike off the partnership firm's defence on the ground that the partnership firm had not been properly constituted. The partnership firm argued that it was a properly constituted partnership firm and that the plaintiff's application was frivolous and vexatious. Should the court strike off the partnership firm's defence?",
+    "Legal Principles": "A partnership firm's defence should not be struck off unless it is clear that the partnership firm is not a properly constituted partnership firm. The court should consider the evidence presented by the parties before deciding whether or not to strike off the partnership firm's defence. The court should ensure that a party is not deprived of a fair opportunity to present its case.",
+    "Relevant Sections": "Indian Partnership Act, 1932",
+    "Context": "Commercial dispute in India"
+  },
+  {
+    "Query": "A plaintiff filed a suit for declaration of title to a property. The defendant filed a written statement denying the plaintiff's claim. The plaintiff filed an application to strike off the defendant's defence on the ground that the defendant's denial was not supported by any evidence. The defendant argued that he had a good defence and that the court should not strike off his defence without giving him an opportunity to present his evidence. Should the court strike off the defendant's defence?",
+    "Legal Principles": "The court should not strike off a defendant's defence without giving him an opportunity to present his evidence unless the defence is clearly frivolous or vexatious. A defendant must be allowed to present his defence if he has a bona fide and substantial defence to the plaintiff's claim. The court should consider all the facts and circumstances of the case before deciding whether or not to strike off a defendant's defence.",
+    "Relevant Sections": "Transfer of Property Act, 1882",
+    "Context": "Civil dispute in India"
+  },
+  {
+    "Query": "A plaintiff filed a suit for divorce against the defendant. The defendant filed a written statement denying the plaintiff's claim. The plaintiff filed an application to strike off the defendant's defence on the ground that the defendant's denial was not supported by any evidence. The defendant argued that he had a good defence and that the court should not strike off his defence without giving him an opportunity to present his evidence. Should the court strike off the defendant's defence?",
+    "Legal Principles": "The court should not strike off a defendant's defence without giving him an opportunity to present his evidence unless the defence is clearly frivolous or vexatious. A defendant must be allowed to present his defence if he has a bona fide and substantial defence to the plaintiff's claim. The court should consider all the facts and circumstances of the case before deciding whether or not to strike off a defendant's defence.",
+    "Relevant Sections": "Hindu Marriage Act, 1955",
+    "Context": "Family law dispute in India"
+  },
+  {
+    "Query": "A plaintiff filed a suit for damages for defamation against the defendant. The defendant filed a written statement denying liability. The plaintiff filed an application to strike off the defendant's defence on the ground that the defendant's denial was not supported by any evidence. The defendant argued that he had a good defence and that the court should not strike off his defence without giving him an opportunity to present his evidence. Should the court strike off the defendant's defence?",
+    "Legal Principles": "The court should not strike off a defendant's defence without giving him an opportunity to present his evidence unless the defence is clearly frivolous or vexatious. A defendant must be allowed to present his defence if he has a bona fide and substantial defence to the plaintiff's claim. The court should consider all the facts and circumstances of the case before deciding whether or not to strike off a defendant's defence.",
+    "Relevant Sections": "Indian Penal Code, 1860",
+    "Context": "Criminal law dispute in India"
+  }
+]
+```

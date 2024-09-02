@@ -1,0 +1,140 @@
+## 1. Case Title
+
+* **Case Name:** Binaya Kumar Naik vs. Sanjay Kumar Naik & another
+* **Court:** Orissa High Court, Cuttack
+* **Date of Judgment:** 12th August 2024
+* **Citation:** W.P.(C) No.18217 of 2024
+
+## 2. Background and Context
+
+**Brief Overview:**
+
+The case revolves around a dispute between Binaya Kumar Naik (Petitioner) and Sanjay Kumar Naik (Opposite Party No. 1) regarding a partnership agreement concerning their movie business, M/s. Brajaraj Movies. The partnership was established in 2022 to continue the movie business inherited from their father. The dispute arose when Opposite Party No. 1 allegedly violated the partnership agreement, breached trust, and refused to cooperate in running the business.
+
+**Key Issues:**
+
+* The appropriate forum for deciding an application under Section 9 of the Arbitration and Conciliation Act, 1996 (Act, 1996), in the absence of a specific valuation.
+* Whether the District Judge was justified in transferring the application to the Commercial Court, Cuttack, as per the provisions of the Commercial Courts Act, 2015 (CC Act, 2015).
+
+## 3. Legal Principles Involved
+
+**Relevant Statutes and Provisions:**
+
+* **The Arbitration and Conciliation Act, 1996 (Act, 1996):**
+    * Section 2(1)(e)(i): Defines "Court" for arbitration matters.
+    * Section 9: Deals with interim measures, including injunctions, that can be sought by a party in arbitration proceedings.
+* **The Commercial Courts Act, 2015 (CC Act, 2015):**
+    * Section 2(1)(b): Defines "Commercial Court."
+    * Section 2(1)(c): Defines "commercial dispute."
+    * Section 2(1)(i): Defines "Specified Value."
+    * Section 3: Deals with the constitution of Commercial Courts.
+    * Section 6: Determines the jurisdiction of the Commercial Court.
+    * Section 10: Specifies jurisdiction regarding arbitration matters.
+    * Section 12: Determines the specified value of a commercial dispute.
+    * Section 15: Deals with the transfer of pending cases.
+    * Section 21:  States the overriding effect of the CC Act, 2015.
+
+**Precedents Cited:**
+
+* **Jaycee Housing Pvt. Ltd. & others Vrs. Registrar (General), Orissa High Court, Cuttack & others (2022 Live Law (SC) 860):** This Supreme Court judgment dealt with the jurisdiction of Commercial Courts in arbitration matters.
+* **Yashwardhan Raghuwanshi Vs. District & Sessions Judge and Another (2021 SCC OnLine MP 457):** This Madhya Pradesh High Court decision considered the jurisdiction of the District Judge in arbitration matters.
+* **Gaurang Manguesh Suctancar Vs. Sonia Gaurang Suctancar (MANU/MH/2578/2020):** This Bombay High Court case examined the forum for adjudicating applications under Section 9 of the Act, 1996.
+* **M.G. Mohanty and others Vs. State of Odisha and others (2022(III)ILR-CUT-992):** This Orissa High Court Division Bench judgment addressed the constitutional validity of Section 10(3) of the CC Act, 2015.
+
+**Legal Doctrines:**
+
+* **Harmonious interpretation:** The court attempts to reconcile the provisions of the Act, 1996 and the CC Act, 2015.
+* **Overriding effect:** The court considers the applicability of the non-obstante clause in Section 21 of the CC Act, 2015.
+* **Jurisdiction:** The court examines the legal basis for determining the appropriate forum for resolving the dispute.
+
+## 4. Arguments Presented
+
+**Plaintiff’s Argument (Petitioner):**
+
+* The District Judge, Cuttack, being the Principal Civil Court, is the only competent forum to hear the application under Section 9 of the Act, 1996, as the application does not have a specific valuation.
+* The District Judge misinterpreted the Supreme Court's decision in Jaycee Housing Pvt. Ltd. (supra).
+* The District Judge wrongly assumed that the case involved intellectual property rights, overlooking that the application was for interim relief pending arbitration, which has no specified value.
+* The impugned order violates Sections 6, 10, 12, and 15 of the CC Act, 2015.
+* The Commercial Court lacks jurisdiction to hear the application as it involves no specified value.
+
+**Defendant’s Argument (Opposite Party No. 1):**
+
+* The Petitioner wrongly filed the application before the District Judge, Cuttack, instead of the Commercial Court, Cuttack, as the dispute falls under the definition of a "commercial dispute" in the CC Act, 2015.
+* The District Judge, Cuttack, was right to transfer the matter to the Commercial Court, Cuttack, based on the provisions of the CC Act, 2015.
+* The District Judge was right to transfer the matter to the Commercial Court, Cuttack, relying on the Supreme Court's decision in Jaycee Housing Pvt. Ltd. (supra).
+* Section 10(3) of the CC Act, 2015 mandates that applications arising from arbitration regarding a commercial dispute be filed in and heard by the Commercial Court.
+
+## 5. Court’s Analysis and Reasoning
+
+**Key Findings:**
+
+* The court acknowledges that the purpose of Section 9 applications under the Act, 1996 is to protect rights under arbitration from being undermined.
+* The court recognizes that the Commercial Courts Act, 2015 is a later enactment and its provisions are intended to expedite the resolution of commercial disputes, including arbitration matters.
+* The court accepts the principle of "harmonious interpretation" to reconcile the provisions of the Act, 1996 and the CC Act, 2015.
+
+**Interpretation of Law:**
+
+* The court interprets "commercial dispute" and "Specified Value" as defined in Section 2(1)(c) and (i) of the CC Act, 2015.
+* The court concludes that Section 10(3) of the CC Act, 2015, when read with the definitions of "commercial dispute" and "Specified Value," mandates that applications arising from arbitration involving a commercial dispute be filed in the Commercial Court.
+
+**Application of Law:**
+
+* The court applies the principles of statutory interpretation and the overriding effect of the CC Act, 2015.
+* The court analyzes the relevant judgments cited by both parties, particularly emphasizing the Supreme Court's decision in Jaycee Housing Pvt. Ltd. (supra).
+* The court concludes that the Commercial Court, Cuttack, is the appropriate forum to adjudicate the application under Section 9 of the Act, 1996, as the dispute involves a "commercial dispute" as defined by the CC Act, 2015.
+
+## 6. Judgment
+
+**Final Decision:**
+
+* The Writ Petition is dismissed.
+
+**Relief Granted:**
+
+* No specific relief is granted.
+
+**Orders:**
+
+* The impugned order passed in ARBP No.02 of 2024 is upheld.
+* The case is to be transferred to the Commercial Court, Cuttack.
+
+## 7. Implications
+
+**Impact on Law:**
+
+* The judgment reaffirms the overriding effect of the CC Act, 2015, in matters related to commercial disputes, including arbitration matters.
+* The judgment clarifies that applications under Section 9 of the Act, 1996, even if they lack a specific valuation, fall under the jurisdiction of the Commercial Court when the dispute constitutes a "commercial dispute" as defined by the CC Act, 2015.
+
+**Future Relevance:**
+
+* This judgment will likely guide future court decisions regarding the jurisdiction of Commercial Courts in arbitration matters.
+* This judgment sets a precedent for determining the appropriate forum for resolving disputes involving a "commercial dispute" as defined by the CC Act, 2015, even when the specific value of the claim is not initially known.
+
+**Broader Context:**
+
+* This judgment reflects the Indian government's efforts to establish specialized courts for expediting the resolution of commercial disputes.
+* The judgment highlights the importance of legislative intent and harmonious interpretation in resolving legal conflicts.
+
+## 8. Summary Points
+
+* The petitioner filed an application under Section 9 of the Act, 1996, seeking interim relief pending arbitration.
+* The District Judge, Cuttack, incorrectly transferred the case to the Commercial Court, Cuttack, based on the provisions of the CC Act, 2015.
+* The court upheld the District Judge's order, emphasizing the overriding effect of the CC Act, 2015, and its provisions for commercial disputes, including arbitration matters.
+* The court held that the Commercial Court has jurisdiction even in cases lacking specific valuation when the dispute falls under the definition of "commercial dispute" in the CC Act, 2015.
+
+## 9. References
+
+**Citations:**
+
+* The Arbitration and Conciliation Act, 1996 (Act, 1996)
+* The Commercial Courts Act, 2015 (CC Act, 2015)
+* Jaycee Housing Pvt. Ltd. & others Vrs. Registrar (General), Orissa High Court, Cuttack & others (2022 Live Law (SC) 860)
+* Yashwardhan Raghuwanshi Vs. District & Sessions Judge and Another (2021 SCC OnLine MP 457)
+* Gaurang Manguesh Suctancar Vs. Sonia Gaurang Suctancar (MANU/MH/2578/2020)
+* M.G. Mohanty and others Vs. State of Odisha and others (2022(III)ILR-CUT-992)
+
+**Further Reading:**
+
+* The Arbitration and Conciliation Act, 1996
+* The Commercial Courts Act, 2015
+* Law journals and online legal resources discussing the application of the CC Act, 2015 in arbitration matters. 

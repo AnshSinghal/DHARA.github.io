@@ -1,0 +1,109 @@
+##  M/S Triveni Brokers vs M/S Hira Ram Hansa Ram 
+
+**1. Case Title**
+
+* **Case Name:** M/S Triveni Brokers vs M/S Hira Ram Hansa Ram 
+* **Court:** Rajasthan High Court - Jodhpur
+* **Date of Judgment:** 19th March 2024
+* **Citation:** [2024:RJ-JD:12253]
+
+**2. Background and Context**
+
+* **Brief Overview:** The case involved a commercial suit filed by M/S Hira Ram Hansa Ram (respondent) against M/S Triveni Brokers (petitioner), seeking recovery of Rs. 17,86,774/-. The respondent alleged that the petitioner, acting as a broker, had collected money from traders for goods supplied by the respondent, but failed to remit the payment. An FIR was registered against the petitioner for fraud, and the chargesheet was filed in 2018. 
+* **Key Issues:** The main legal issues raised in the case were: 
+    * Whether the respondent had successfully disclosed a cause of action in the plaint.
+    * Whether the respondent's application for admitting secondary evidence under Section 65 of the Indian Evidence Act, 1872, was maintainable, even after a prior application under Order XI Rule 12 and 14 of the CPC was dismissed.
+    * Whether the respondent was required to provide notice to the petitioner before seeking admission of secondary evidence.
+
+**3. Legal Principles Involved**
+
+* **Relevant Statutes and Provisions:**
+    * **Indian Evidence Act, 1872:** Section 65 (Secondary evidence of documents), Section 66 (Rules as to notice to produce)
+    * **Code of Civil Procedure, 1908 (CPC):** Order VII Rule 11 (Rejection of plaint), Order XI Rule 12 and 14 (Discovery and inspection of documents)
+    * **Commercial Courts Act, 2015:** Section 8 (Bar on revision application)
+* **Precedents Cited:** 
+    * **Arun Kumar v. Special Judge, NDPS [S.B.C.W.P. No. 3322 of 2018 decided on 13.03.2018]**
+    * **Mahboob Hussan v. Smt. Vidya Sharma and Anr. [C.R. No. 74 of 2014 decided on 14.03.2017]**
+    * **Rajeev Khanna urf Raju s/o (late) Shri Azad Khanna v. Smt. Anita Tripathi D/0 (late) Shri Suraj Prakash Tripathi [S.B.C.W.P No. 22718 of 2017 decided on 03.01.2018]**
+    * **Ashok Dulichand v. Madahavlal Dube : (1975) 4 SCC 664**
+    * **Virendra Kumar v. Neeraj Garg : S.B. Civil Writ Petition No.10391/2023 decided on 01.03.2024**
+    * **Rakesh Mohindra v. Anita Beri and Ors. : (2016) 16 SCC 483**
+    * **Mukesh Kumar v. Prithvi Raj : S.B. Civil Writ Petition No.12845/2019 decided on 28.07.2023**
+    * **Sardar Khan Khokhar versus Shri Devji Patel and Ors reported in 2011(3)DNJ (Raj) 1563**
+    * **Late Dhanpat Kanwar and Anr versus Smt Shanti and Ors (SBCWP No. 9794/2017)**
+    * **T. Arivandandam vs T. V. Satyapal & Another reported in 1977 (4) SCC 467**
+    * **Sopan Sukhdeo Sable & Ors vs Assistant Charity Commissioner & Ors reported in 2004(2) WLC(SC)CVL122**
+    * **Innovative Textiles Ltd versus Nitin spinners Ltd (D.B. CWP No.8119/2023)**
+    * **Rajasthan State Mines And Minerals Ltd vs Ankur Minmine Product Private Limited (S.B.C.W.P 920/2019)**
+    * **Azhar Hussain v. Rajiv Gandhi : 1996 Supp SCC 315**
+    * **Liverpool & London S.P. & I Assn. Ltd. v. M.V. Sea Success I : (2004) 9 SCC 512**
+    * **Church of Christ Charitable Trust & Educational Charitable Society v. Ponniamman Educational Trust : (2012) 8 SCC 706**
+    * **ABC Laminart (P) Ltd. v. A.P. Agencies : (1989) 2 SCC 163**
+    * **ITC Ltd. vs. Debts Recovery Appellate Tribunal : (1998) 2 SCC 70**
+    * **Madanuri Sri Rama Chandra Murthy v. Syed Jalal : (2017) 13 SCC 174**
+    * **Rajendra Bijoria & Ors. v. Hemant Kumar Jalan & Anr. : (2022) 12 SCC 641**
+
+* **Legal Doctrines:** 
+    * **Cause of Action:** The court examined whether the plaint contained sufficient information about the alleged wrongdoing by the defendant, including the date of the events, the nature of the actions, and the resulting harm.
+    * **Secondary Evidence:** The court analyzed the admissibility of secondary evidence under Section 65 of the Indian Evidence Act, 1872. This doctrine governs when copies of documents can be used in court if the original documents are unavailable.
+    * **Notice:** The court considered the requirements of Section 66 of the Indian Evidence Act, 1872, which deals with the requirement of notice to the opposing party before presenting secondary evidence.
+
+**4. Arguments Presented**
+
+* **Plaintiff’s Argument (M/S Hira Ram Hansa Ram):**
+    * The respondent argued that the plaint sufficiently disclosed a cause of action, as it clearly outlined the alleged fraud committed by the petitioner by not remitting the collected money.
+    * The respondent claimed that the original receipts for the payments made by traders were in the possession of the petitioner, and therefore, it was justified in seeking admission of secondary evidence under Section 65 of the Evidence Act.
+    * The respondent argued that the application under Order XI Rule 12 and 14 of CPC was a different procedure for discovery and inspection of documents and did not preclude it from seeking secondary evidence under Section 65.
+    * The respondent claimed that the petitioner was aware of the respondent's intent to present the photostat copies of the receipts and therefore, notice under Section 66 was not required.
+
+* **Defendant’s Argument (M/S Triveni Brokers):**
+    * The petitioner argued that the plaint did not disclose a cause of action as it lacked specific details about the transactions, including the names of the buyers.
+    * The petitioner argued that the respondent failed to fulfill the requirements of Section 65 of the Indian Evidence Act, 1872, as it did not prove the original receipts were lost or destroyed.
+    * The petitioner argued that the respondent could not seek secondary evidence under Section 65 after the application under Order XI Rule 12 and 14 of the CPC was dismissed.
+    * The petitioner argued that the respondent failed to provide proper notice under Section 66 of the Indian Evidence Act, 1872, before presenting the secondary evidence. 
+
+**5. Court’s Analysis and Reasoning**
+
+* **Key Findings:**
+    * The court found that the respondent's plaint contained sufficient details about the transactions and the alleged fraud committed by the petitioner, thus disclosing a cause of action. 
+    * The court determined that the respondent had taken sufficient steps to obtain the original receipts by filing an application under Order XI Rule 12 and 14 of the CPC, even though it was dismissed. 
+    * The court observed that the original receipts were likely in the possession of the petitioner, fulfilling the requirements of Section 65 of the Indian Evidence Act, 1872.
+    * The court ruled that the petitioner was aware of the respondent's intent to present secondary evidence and therefore, notice under Section 66 was not required.
+    
+* **Interpretation of Law:** The court interpreted the relevant provisions of the Indian Evidence Act, 1872, and the CPC in light of previous judgments cited by both parties. The court focused on the distinction between discovery and inspection procedures (Order XI Rule 12 and 14) and the admission of secondary evidence (Section 65). 
+* **Application of Law:** The court applied the relevant legal principles to the specific facts of the case, finding that the respondent had fulfilled the necessary conditions to present secondary evidence and that the plaint disclosed a cause of action.
+
+**6. Judgment**
+
+* **Final Decision:** The Rajasthan High Court dismissed both writ petitions filed by the petitioner, upholding the orders of the Commercial Court. 
+* **Relief Granted:** The court did not grant any specific relief to the respondent, as the petitioner's attempt to challenge the orders of the Commercial Court was unsuccessful.
+* **Orders:** The court ordered the dismissal of both writ petitions, as well as all pending applications related to the case.
+
+**7. Implications**
+
+* **Impact on Law:** The judgment reaffirms the requirements for disclosing a cause of action in a plaint and the conditions under which secondary evidence can be presented in court. It clarifies the application of Order XI Rule 12 and 14 of the CPC and Section 65 of the Indian Evidence Act, 1872, in similar situations.
+* **Future Relevance:** This case provides a useful precedent for similar disputes involving allegations of fraud and the use of secondary evidence in commercial suits.
+* **Broader Context:** The judgment underscores the importance of proper documentation in commercial transactions and highlights the role of courts in ensuring that parties are provided a fair opportunity to present their evidence.
+
+**8. Summary Points**
+
+* The Rajasthan High Court upheld the orders of the Commercial Court in the case of M/S Triveni Brokers vs M/S Hira Ram Hansa Ram.
+* The court found that the respondent's plaint sufficiently disclosed a cause of action.
+* The court permitted the respondent to present secondary evidence under Section 65 of the Indian Evidence Act, 1872, as the original receipts were likely in the possession of the petitioner.
+* The court determined that notice under Section 66 of the Indian Evidence Act, 1872, was not required because the petitioner was aware of the respondent's intent to present secondary evidence.
+
+**9. References**
+
+* **Indian Evidence Act, 1872:**
+    * Section 65: https://indiankanoon.org/doc/1219878/
+    * Section 66: https://indiankanoon.org/doc/1219879/
+* **Code of Civil Procedure, 1908 (CPC):**
+    * Order VII Rule 11: https://indiankanoon.org/doc/1219696/
+    * Order XI Rule 12 and 14: https://indiankanoon.org/doc/1219708/
+* **Commercial Courts Act, 2015:**
+    * Section 8: https://indiankanoon.org/doc/1429153/
+* **Cases cited in the judgment:** Full citations are provided in the "Precedents Cited" section above.
+
+**Further Reading:**
+* For a comprehensive understanding of the Indian Evidence Act, 1872, refer to legal textbooks and commentaries on the subject.
+* For further exploration of legal precedents related to cause of action, secondary evidence, and notice, research relevant judgments on the Indian Kanoon website.

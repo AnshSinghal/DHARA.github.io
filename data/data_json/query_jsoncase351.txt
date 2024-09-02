@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A real estate developer is seeking to enforce an arbitration award against a property owner. The developer claims the land was used exclusively in trade and commerce, making the dispute a commercial dispute under the Commercial Courts Act. The property owner argues that the land was not exclusively used in trade or commerce and therefore the dispute should not be considered a commercial dispute.",
+    "Legal Principles": "Definition of 'commercial dispute' under the Commercial Courts Act, 2015, specifically the requirement of 'exclusive use in trade or commerce' for immovable property. Interpretation of the word 'used' as denoting 'actually used' and not 'ready for use' or 'likely to be used'.",
+    "Relevant Sections": "Section 2(1)(c) of the Commercial Courts Act, 2015, defining 'commercial dispute', particularly sub-clause (vii) concerning agreements related to immovable property. Section 2(1)(i) defining 'specified value' in relation to commercial disputes. Section 10(3) of the Act regarding jurisdiction in arbitration matters.",
+    "Context": "Jurisdiction: India. Case Type: Commercial Dispute, Arbitration Appeal. Act: Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015, and Arbitration and Conciliation Act, 1996."
+  },
+  {
+    "Query": "A dispute arose over a construction contract involving a government agency and a private contractor. The contract was valued over Rs. 1 crore. The arbitrator ruled in favor of the contractor, but the government agency challenged the award in the Commercial Court. The Commercial Court upheld the award, and the government agency is now appealing the decision.",
+    "Legal Principles": "Jurisdiction of Commercial Courts for arbitration matters involving a 'specified value'. Right of appeal from Commercial Court decisions under Section 13 of the Commercial Courts Act, 2015, specifically the scope of appealable orders under the Act.",
+    "Relevant Sections": "Section 6 of the Commercial Courts Act, 2015, outlining the jurisdiction of Commercial Courts. Section 10(3) of the Act regarding jurisdiction in arbitration matters. Section 13 of the Act regarding appeals from Commercial Courts and Commercial Divisions.",
+    "Context": "Jurisdiction: India. Case Type: Commercial Dispute, Arbitration Appeal. Act: Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015, and Arbitration and Conciliation Act, 1996."
+  },
+  {
+    "Query": "A company is seeking to enforce an arbitration award against a supplier. The company claims the award was validly passed under Section 34 of the Arbitration and Conciliation Act. The supplier argues that the award was invalid and should be set aside. The Commercial Court upheld the award, and the supplier is now appealing the decision.",
+    "Legal Principles": "Grounds for setting aside an arbitral award under Section 34 of the Arbitration and Conciliation Act. Right of appeal from orders passed under Section 34 of the Arbitration Act, as per Section 37 of the Act. Applicability of Section 13 of the Commercial Courts Act in such appeals.",
+    "Relevant Sections": "Section 34 of the Arbitration and Conciliation Act, 1996, outlining grounds for setting aside an arbitral award. Section 37 of the Act regarding appealable orders, specifically regarding orders under Section 34. Section 13 of the Commercial Courts Act regarding appeals from Commercial Courts.",
+    "Context": "Jurisdiction: India. Case Type: Commercial Dispute, Arbitration Appeal. Act: Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015, and Arbitration and Conciliation Act, 1996."
+  },
+  {
+    "Query": "A partnership entered into a contract for the sale of a commercial property. The contract was valued over Rs. 1 crore. The partnership filed a suit in the Commercial Court for breach of contract. The defendant sought to refer the dispute to arbitration. The Commercial Court declined the request for arbitration, and the defendant is appealing the decision.",
+    "Legal Principles": "Jurisdiction of Commercial Courts for commercial disputes involving immovable property. Right of a party to refer a dispute to arbitration, as per the Arbitration and Conciliation Act. Appealability of orders refusing to refer parties to arbitration under Section 8 of the Arbitration Act.",
+    "Relevant Sections": "Section 6 of the Commercial Courts Act, 2015, outlining the jurisdiction of Commercial Courts. Section 8 of the Arbitration and Conciliation Act, 1996, regarding referral to arbitration. Section 37 of the Arbitration Act regarding appealable orders, specifically regarding orders under Section 8.",
+    "Context": "Jurisdiction: India. Case Type: Commercial Dispute, Arbitration Appeal. Act: Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015, and Arbitration and Conciliation Act, 1996."
+  },
+  {
+    "Query": "A company filed a suit in the Commercial Court seeking to recover a debt from another company. The defendant counterclaimed, alleging breach of contract and seeking damages. The counterclaim involved a value exceeding the specified value for commercial disputes. The court decided to transfer the case to the Commercial Court for adjudication. The plaintiff is appealing the decision.",
+    "Legal Principles": "Jurisdiction of Commercial Courts for counterclaims in commercial disputes involving a 'specified value'. Transfer of cases to Commercial Courts under Section 9 of the Commercial Courts Act, 2015. Appealability of orders transferring cases under Section 9 of the Act.",
+    "Relevant Sections": "Section 6 of the Commercial Courts Act, 2015, outlining the jurisdiction of Commercial Courts. Section 9 of the Act regarding transfer of suits in cases of counterclaims involving a 'specified value'. Section 13 of the Act regarding appeals from Commercial Courts and Commercial Divisions.",
+    "Context": "Jurisdiction: India. Case Type: Commercial Dispute, Appeal against Transfer Order. Act: Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015."
+  },
+  {
+    "Query": "A dispute arose over a supply contract between two companies. The companies agreed to refer the dispute to arbitration. The arbitrator issued an interim award granting an injunction against the defendant company. The defendant is challenging the interim award in the Commercial Court, arguing that the arbitrator lacked jurisdiction to grant such an award.",
+    "Legal Principles": "Jurisdiction of arbitral tribunals to grant interim measures under the Arbitration and Conciliation Act. Appealability of orders granting or refusing to grant interim measures under Section 17 of the Arbitration Act.",
+    "Relevant Sections": "Section 17 of the Arbitration and Conciliation Act, 1996, regarding interim measures. Section 37 of the Act regarding appealable orders, specifically regarding orders under Section 17.",
+    "Context": "Jurisdiction: India. Case Type: Commercial Dispute, Arbitration Appeal. Act: Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015, and Arbitration and Conciliation Act, 1996."
+  },
+  {
+    "Query": "A company filed a suit in the Commercial Court seeking to recover a debt from another company. The defendant argued that the debt was already subject to an ongoing arbitration proceeding. The court dismissed the suit on the grounds of 'res judicata'. The plaintiff is appealing the decision, arguing that the arbitration proceeding did not preclude the court's jurisdiction.",
+    "Legal Principles": "Doctrine of 'res judicata' and its application in commercial disputes. Concurrent jurisdiction of Commercial Courts and arbitral tribunals. Appealability of orders dismissing suits on the grounds of 'res judicata'.",
+    "Relevant Sections": "Section 10 of the Commercial Courts Act, 2015, regarding jurisdiction in arbitration matters. Section 11 of the Act regarding bar on concurrent proceedings. Section 13 of the Act regarding appeals from Commercial Courts and Commercial Divisions.",
+    "Context": "Jurisdiction: India. Case Type: Commercial Dispute, Appeal against Dismissal Order. Act: Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015."
+  },
+  {
+    "Query": "A construction company entered into a contract with a government agency for the construction of a public infrastructure project. The contract was valued over Rs. 1 crore. The construction company filed a suit in the Commercial Court seeking to enforce a payment clause in the contract. The government agency argued that the court lacked jurisdiction since the dispute fell under the ambit of the Arbitration and Conciliation Act. The court dismissed the suit, and the construction company is appealing the decision.",
+    "Legal Principles": "Jurisdiction of Commercial Courts for disputes arising from contracts involving government agencies. Applicability of the Arbitration and Conciliation Act in such disputes. Appealability of orders dismissing suits on the grounds of lack of jurisdiction.",
+    "Relevant Sections": "Section 6 of the Commercial Courts Act, 2015, outlining the jurisdiction of Commercial Courts. Section 10 of the Act regarding jurisdiction in arbitration matters. Section 13 of the Act regarding appeals from Commercial Courts and Commercial Divisions.",
+    "Context": "Jurisdiction: India. Case Type: Commercial Dispute, Appeal against Dismissal Order. Act: Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015, and Arbitration and Conciliation Act, 1996."
+  },
+  {
+    "Query": "A company filed a suit in the Commercial Court seeking to recover a debt from another company. The defendant argued that the debt was not a commercial dispute as it arose from a personal loan agreement and not a trade or business transaction. The court dismissed the suit on the grounds that the debt was not a 'commercial dispute' as defined under the Act. The plaintiff is appealing the decision.",
+    "Legal Principles": "Definition of 'commercial dispute' under the Commercial Courts Act, 2015. Distinction between commercial disputes and personal loans or non-commercial transactions. Appealability of orders dismissing suits on the grounds of lack of jurisdiction.",
+    "Relevant Sections": "Section 2(1)(c) of the Commercial Courts Act, 2015, defining 'commercial dispute'. Section 6 of the Act outlining the jurisdiction of Commercial Courts. Section 13 of the Act regarding appeals from Commercial Courts and Commercial Divisions.",
+    "Context": "Jurisdiction: India. Case Type: Commercial Dispute, Appeal against Dismissal Order. Act: Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015."
+  },
+  {
+    "Query": "A company filed a suit in the Commercial Court seeking to recover a debt from another company. The defendant argued that the debt was subject to a valid arbitration agreement. The court stayed the proceedings, pending the outcome of the arbitration. The plaintiff is appealing the decision, arguing that the arbitration agreement was not valid.",
+    "Legal Principles": "Validity of arbitration agreements and their effect on court proceedings. Stay of proceedings pending arbitration under the Arbitration and Conciliation Act. Appealability of orders staying court proceedings.",
+    "Relevant Sections": "Section 7 of the Arbitration and Conciliation Act, 1996, regarding validity of arbitration agreements. Section 9 of the Act regarding stay of court proceedings. Section 37 of the Act regarding appealable orders, specifically regarding orders under Section 9.",
+    "Context": "Jurisdiction: India. Case Type: Commercial Dispute, Appeal against Stay Order. Act: Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015, and Arbitration and Conciliation Act, 1996."
+  }
+]
+```

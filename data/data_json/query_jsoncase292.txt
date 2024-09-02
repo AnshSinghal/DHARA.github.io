@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A company seeks to challenge an interim arbitral award issued against them. The company argues that the award is illegal because the arbitral tribunal misinterpreted the shareholders' agreement and imposed non-compete obligations that weren't actually included in the agreement. They've filed an objection petition under Section 34 of the Arbitration and Conciliation Act, 1996, and request a stay on the interim award pending the outcome of their challenge.",
+    "Legal Principles": "Section 34 of the Arbitration and Conciliation Act, 1996 allows parties to challenge arbitral awards. Section 36(2) and (3) outline the criteria and process for seeking a stay on an award pending the outcome of a challenge. Courts must consider whether a prima facie case exists for fraud or corruption in the arbitration process when granting a stay.",
+    "Relevant Sections": "Section 34, Section 36(2), Section 36(3) of the Arbitration and Conciliation Act, 1996.",
+    "Context": "Jurisdiction: India, Case type: Application for stay of interim arbitral award under Section 36 of the Arbitration and Conciliation Act, 1996."
+  },
+  {
+    "Query": "A business dispute arises between two parties, where one party seeks to enforce a non-compete clause in a shareholder agreement. The other party argues that the clause is unenforceable as it wasn't clearly defined in the agreement. The dispute is currently being considered in a commercial court under the Commercial Courts Act, 2015.",
+    "Legal Principles": "The enforceability of non-compete clauses in shareholder agreements is determined by the clarity and specificity of the clause, its reasonableness, and the context of the agreement. Courts may consider precedents related to the interpretation and application of non-compete clauses under Indian contract law.",
+    "Relevant Sections": "Relevant sections of the Indian Contract Act, 1872, and provisions related to non-compete clauses under the Commercial Courts Act, 2015.",
+    "Context": "Jurisdiction: India, Case type: Commercial dispute involving the interpretation and enforceability of a non-compete clause in a shareholder agreement."
+  },
+  {
+    "Query": "A partnership agreement between two parties contains a clause regarding the distribution of profits. One party claims that the agreement was entered into under duress and seeks to invalidate the profit distribution clause. The dispute is being heard by an arbitral tribunal under the Arbitration and Conciliation Act, 1996.",
+    "Legal Principles": "The concept of duress under Indian Contract law allows for the invalidation of agreements entered into under undue influence or coercion. The burden of proof lies with the party alleging duress.  Arbitral tribunals must consider precedents related to duress and contractual validity.",
+    "Relevant Sections": "Relevant sections of the Indian Contract Act, 1872 related to duress and contractual validity. Section 16 of the Arbitration and Conciliation Act, 1996.",
+    "Context": "Jurisdiction: India, Case type: Arbitration dispute involving the interpretation and enforceability of a profit distribution clause in a partnership agreement."
+  },
+  {
+    "Query": "A landlord sues a tenant for breach of a lease agreement, claiming unpaid rent and damages to the property. The tenant claims that the landlord violated certain terms of the agreement, leading to a breach of contract on the landlord's side. The case is heard in a civil court under the Code of Civil Procedure, 1908.",
+    "Legal Principles": "The Code of Civil Procedure, 1908 governs the process of civil litigation in India. The plaintiff (landlord) bears the burden of proving breach of contract and damages. The defendant (tenant) may raise counter-claims and defenses based on the terms of the lease agreement and relevant legal principles.",
+    "Relevant Sections": "Relevant sections of the Code of Civil Procedure, 1908, and relevant sections of the Transfer of Property Act, 1882, related to lease agreements.",
+    "Context": "Jurisdiction: India, Case type: Civil suit for breach of lease agreement."
+  },
+  {
+    "Query": "A company faces accusations of insider trading, with authorities alleging that company executives used confidential information to profit from stock transactions. The company denies the allegations and seeks to challenge the charges in a criminal court under the Securities and Exchange Board of India Act, 1992.",
+    "Legal Principles": "Insider trading is a criminal offense under the Securities and Exchange Board of India Act, 1992. Prosecutors must prove beyond a reasonable doubt that the executives used non-public information for personal gain. The company can present evidence to refute the charges and demonstrate the absence of intent to defraud.",
+    "Relevant Sections": "Relevant sections of the Securities and Exchange Board of India Act, 1992 related to insider trading and penalties.",
+    "Context": "Jurisdiction: India, Case type: Criminal case involving allegations of insider trading."
+  },
+  {
+    "Query": "A dispute arises between a technology company and a software developer regarding the ownership and licensing rights of a proprietary software program. The developer claims that they developed the software independently and did not infringe on any existing intellectual property rights. The company contends that the developer breached their employment contract and misappropriated trade secrets. The case is brought before an arbitral tribunal under the Arbitration and Conciliation Act, 1996.",
+    "Legal Principles": "Intellectual property rights, including copyright and trade secrets, are protected under Indian law. The burden of proof lies with the party alleging infringement. The arbitral tribunal must determine if the developer's software infringes on the company's proprietary rights and if the developer violated any employment contract obligations.",
+    "Relevant Sections": "Relevant sections of the Indian Copyright Act, 1957, and the Trade Secrets Act, 1992, along with Section 16 of the Arbitration and Conciliation Act, 1996.",
+    "Context": "Jurisdiction: India, Case type: Arbitration dispute involving intellectual property rights and breach of contract."
+  },
+  {
+    "Query": "A company is sued for product liability after a consumer alleges that a product they purchased caused them injury. The company claims that the consumer misused the product and that their design and manufacturing processes meet safety standards. The case is brought in a civil court under the Consumer Protection Act, 1986.",
+    "Legal Principles": "The Consumer Protection Act, 1986 protects consumers from defective products and unfair trade practices. The plaintiff (consumer) must demonstrate that the product caused injury and that the company was negligent in its design or manufacturing. The company can raise defenses based on product misuse or compliance with safety regulations.",
+    "Relevant Sections": "Relevant sections of the Consumer Protection Act, 1986 related to product liability and remedies.",
+    "Context": "Jurisdiction: India, Case type: Civil suit for product liability under the Consumer Protection Act, 1986."
+  },
+  {
+    "Query": "A real estate developer enters into a contract to purchase a piece of land but later backs out of the deal. The landowner sues the developer for breach of contract and seeks specific performance to force the developer to complete the purchase. The case is heard in a civil court under the Specific Relief Act, 1877.",
+    "Legal Principles": "The Specific Relief Act, 1877 outlines the circumstances under which courts can grant specific performance, compelling a party to fulfill a contractual obligation. Courts must consider whether damages would be an adequate remedy and whether specific performance is equitable in the given circumstances.",
+    "Relevant Sections": "Relevant sections of the Specific Relief Act, 1877 related to specific performance and the doctrine of equitable relief.",
+    "Context": "Jurisdiction: India, Case type: Civil suit for specific performance under the Specific Relief Act, 1877."
+  },
+  {
+    "Query": "A construction company fails to complete a project on time and within budget, leading to significant delays and financial losses for the client. The client sues the company for breach of contract and seeks damages for the incurred losses. The case is heard in a commercial court under the Commercial Courts Act, 2015.",
+    "Legal Principles": "Breach of contract occurs when a party fails to fulfill the terms of an agreement. The client (plaintiff) must demonstrate the breach and the resulting damages. The construction company (defendant) can raise defenses related to unforeseen circumstances or the client's own contributions to the delays.",
+    "Relevant Sections": "Relevant sections of the Indian Contract Act, 1872 related to breach of contract and remedies. Provisions related to construction contracts under the Commercial Courts Act, 2015.",
+    "Context": "Jurisdiction: India, Case type: Commercial dispute involving breach of a construction contract."
+  },
+  {
+    "Query": "A company is accused of violating environmental regulations by releasing hazardous waste into a nearby river. The government agency responsible for enforcing environmental laws brings charges against the company under the Environment Protection Act, 1986. The company seeks to contest the charges and argue that their actions were compliant with regulations.",
+    "Legal Principles": "The Environment Protection Act, 1986 governs environmental protection in India. The government agency must prove beyond a reasonable doubt that the company violated specific regulations. The company can present evidence to demonstrate compliance with regulations and challenge the government's interpretation of the law.",
+    "Relevant Sections": "Relevant sections of the Environment Protection Act, 1986 related to pollution control and penalties.",
+    "Context": "Jurisdiction: India, Case type: Environmental law case involving allegations of pollution and violation of environmental regulations."
+  }
+]
+```

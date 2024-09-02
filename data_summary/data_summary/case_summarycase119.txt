@@ -1,0 +1,184 @@
+## 1. Case Title
+
+* **Case Name:** M/S. Baadar Schulz Laboratories vs Piramal Enterprises Ltd
+* **Court:** Bombay High Court
+* **Date of Judgment:** 27th February 2019
+* **Citation:** Not provided in the document.
+
+## 2. Background and Context
+
+* **Brief Overview:** This case arose from a series of commercial suits filed in the Bombay High Court's Commercial Division. Multiple defendants failed to file their written statements within the 120-day time limit prescribed by the Commercial Courts Act, 2015 (amended Order VIII Rule 1). They subsequently sought condonation of delay.
+* **Key Issues:**
+    * Whether the amended Order VIII Rule 1, introduced by the Commercial Courts Act, 2015, is mandatory or directory in nature.
+    * Whether the Bombay High Court (Original Side) Rules, 1980, can override the provisions of the Commercial Courts Act in commercial suits.
+    * Whether the court retains discretion under Order VIII Rule 9 of the CPC to accept a written statement beyond the 120-day limit.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015 (4 of 2016)
+    * Code of Civil Procedure, 1908 (CPC)
+        * Order V, Rule 1
+        * Order VIII, Rule 1
+        * Order VIII, Rule 9
+        * Order VIII, Rule 10
+        * Order XI, Rule 1
+        * Order VII, Rule 11(d)
+        * Order XV-A
+    * Bombay High Court (Original Side) Rules, 1980
+    * Letters Patent of the Bombay High Court
+    * Companies Act, 1956
+    * Arbitration & Conciliation Act, 1996
+    * General Clauses Act, 1897
+    * Goa Daman and Diu Reorganization Act, 1987
+* **Precedents Cited:**
+    * M/s SCG Contracts India Pvt. Ltd. Vs. K.S. Chamankar Infrastructure Pvt. Ltd. & Ors. (Civil Appeal No. 1638 of 2019)
+    * State of Bihar and Others vs. Bihar Rajya Bhumi Vikas Bank Samiti, (2018) 9 SCC 472
+    * Canara Bank vs. N.G. Subbaraya Setty and Anr. AIR 2018 SC 3395
+    * Bhanu Kumar Jain vs. Archana Kumar and Another, (2005) 1 SCC 787
+    * Shaikh Salim Haji Abdul Khayumsab vs. Kumar and Others, (2006) 1 SCC 46
+    * R.K. Roja vs. U.S. Rayudu and Another, (2016) 14 SCC 275
+    * Gulf DTH FZ LLC vs Dish TV Limited & Ors. [2016 SCC OnLine Del 5005]
+    * Saregama India Limited vs Jai Manjit Singh 2017 [SCC Online Del 12169]
+    * AIS Glass Solutions Limited vs Moser Baer Solar Limited & Ors[2017 SCC Online Del 11467]
+    * System Air India Private Limited vs ETA Engineering Private Limited [CS (COMM) 56/2016]
+    * Oku Tech Private Limited vs Sangeet Agarwal & Ors. [CS(OS) 3390/2015]
+    * Maja Cosmetics vs Oasis Commercial Pvt. Ltd. [2018 SCC online Del 6698]
+    * Rayco Engineering Services Vs. R.K. Hoteliers And Developers Pvt Ltd [CS (Comm) 321/2017]
+    * Iridium India Telecom Ltd vs Motorola INC [(2005) 2 SCC 145]
+    * Printpak Machinery Ltd. v. Jay Kay Paper Congeters [AIR 1979 Del 217]
+    * Newab Behram Jung v. Haji Sultan Ali Shustry [ILR (1913) 37 Bom 572]
+    * Virupaksha Rao Naidu v. M. Ranganayaki Ammal[AIR 1925 Mad 1132]
+    * Umeshchandra Banerji v. Kunjilal Biswas [AIR 1930 Cal 685]
+    * Gowal Das Sidany v. Luchmi Chand Jhawar [AIR 1930 Cal 324]
+    * Manickchand Durgaprasad v. Pratabmull Rameswar [AIR 1961 Cal 483 (FB)]
+    * Mool Chand v. Kamta Prasad [AIR 1961 All 595]
+    * Mishri Lal v. Dhirendra Nath [(1999) 4 SCC 11]
+    * Maktul v. Manbhari [1959 SCR 1099]
+    * Ganpat Giri v. Second ADJ [(1986) 1 SCC 615]
+    * Kulwant Kaur v. Gurdial Singh Mann [(2001) 4 SCC 262]
+    * P.S. Sathappan v. Andhra Bank Ltd. [(2004) 11 SCC 672]
+    * Vinita M. Khanolkar v. Pragna M. Pai, (1998) 1 SCC 500
+    * Sharda Devi v. State of Bihar, (2002) 3 SCC 705
+    * Shah Babulal Khimji v. Jayaben D. Kania, (1981) 4 SCC 8
+    * Dashrath B. Rathod & Ors. v. Fox Star Studios India Pvt. Ltd. & Ors. [2017 SCC OnLine Bom 345]
+    * RDB Textiles Limited vs. Union of India & Ors. C.S. 214 of 2016
+    * Solidaire India Ltd. v. Fairgrowth Financial Services Ltd. , [(2001) 3 SCC 71]
+    * Maharashtra Tubes Ltd. v. State Industrial & Investment Corpn. of Maharashtra Ltd. [(1993) 2 SCC 144]
+    * Sarwan Singh v. Kasturi Lal [(1977) 1 SCC 750]
+    * Allahabad Bank v. Canara Bank [(2000) 4 SCC 406]
+    * Ram Narain v. Simla Banking & Industrial Co. Ltd. [AIR 1956 SC 614]
+    * Iridium India Telecom Ltd. Versus Motorola Inc. & Anr. [(2004) 1 Mah LJ 532]
+    * Shailaja A. Sawant (Dr.) Vs. Sayajirao G. Patil [2004 (2) Mh. L.J. 419]
+    * Chintaman Sukhdeo Vs. Shivaji Bhausaheb [ 2004 (4) Mh L.J. 739]
+    * Shri Prasanna Parvathamba v. Shri M.S. Radhakrishna Dixit, AIR 2003 Karnataka 345
+    * Smt. Gupte v. Smt. Nagartha, AIR 2003 Karnataka 426
+    * Kalipado Sharma v. Surendra Mohta, AIR 1975 Patna 34
+    * Nachipeddy Ramasawamy v. P. Buchi Reddy, AIR 2003 A.P. 409
+    * Sangram Singh [citation needed]
+    * Balaraj Tanreja's case [citation needed]
+    * India Handicraft Emporium case [citation needed]
+    * Topline Shoes Ltd. [citation needed]
+    * Dr. Sukhdev Singh Gambhir v. Amrit Pal Singh, AIR 2003 Del. 280
+    * Ponnamma v. Subburaman, 2003 (11) I.L.D. 90
+    * A. Sathyapal v. Yasmin Banu Ansari, AIR 2004 Kant. 246
+    * Kailash vs. Nankhu [2005 (4) SCC 480]
+    * Raza Buland Sugar Co. Ltd vs Municipal Board, Rampur [AIR 1965 SC 895]
+    * Sushil Kumar Sen v. State of Bihar [(1975) 1 SCC 774]
+    * J.K. Cotton Spinning & Weaving Mills Co. Ltd. vs. State of U.P., AIR 1961 SC 1170
+    * Pretty v. Solly [citation needed]
+    * De Winton v. Brecon [28 LJ Ch 598]
+    * Churchill v. Crease [5 Bing 177]
+    * United States v. Chase [135 US 255]
+    * Carroll v. Greenwich Ins. Co. [199 US 401]
+    * Raghunath Rai Bareja & Anr vs Punjab National Bank & Ors, (2007) 2 SCC 230
+    * Madamanchi Ramappa and Anr. v. Muthaluru Bojjappa [citation needed]
+    * Council for Indian School Certificate Examination v. Isha Mittal and Anr. [citation needed]
+    * P.M. Latha v. State of Kerala [citation needed]
+    * Laxminarayan R. Bhattad v. State of Maharashtra [citation needed]
+    * Nasiruddin v. Sita Ram Agarwal [citation needed]
+    * E. Palanisamy v. Palanisamy [citation needed]
+    * India House v. Kishan N. Lalwani [citation needed]
+    * B. Banerjee v. Anita Pan, (1975) 1 SCC 166
+    * Martin Burn Ltd. v. Corpn. of Calcutta [AIR 1966 SC 529]
+    * Basawaraj & Anr v. Special Land Acquisition Officer, (2013) 14 SCC 81
+    * Lacchhman Das Arora v. Ganesh Lal & Ors, (1999) 8 SCC 532
+    * Manohar Lal Chopra vs. Rai Bahadur Rao Raja Seth Hiralal, [1962] Suppl 1 SCR 450
+    * Shailendra Bhadauria & Ors v. Matrix Partners India Investment Holdings LLC & Ors (Comm. Appeal No. 327 of 2018)
+    * Suo Motu Writ Petition (Civil) No. 8/2017 Re: Case Management of Original Suits
+* **Legal Doctrines:**
+    * **Harmonious Construction:** Interpreting statutes to give effect to all provisions, avoiding conflict where possible.
+    * **Mischief Rule:** Interpreting statutes to suppress the mischief and advance the remedy intended by the legislature.
+    * **Stare Decisis:** Adhering to previous judicial decisions on similar issues.
+    * **Dura lex sed lex:**  "The law is harsh, but it is the law." This principle emphasizes that courts must apply the law as written, even if it leads to harsh consequences.
+    * **Generalia specialibus non derogant:**  "General provisions do not derogate from special provisions."  This rule suggests that when there is a conflict between a general provision and a more specific provision, the specific provision prevails.
+
+## 4. Arguments Presented
+
+###  Plaintiff’s Argument:
+
+* The Commercial Courts Act was enacted to address the issue of delays in commercial litigation and provide a streamlined mechanism for resolving disputes.
+* The mandatory language of the amended Order VIII Rule 1 clearly indicates the legislative intent to impose a strict 120-day deadline for filing written statements.
+* The provisions of the Commercial Courts Act override conflicting rules of the Bombay High Court (Original Side) Rules, 1980, as evidenced by Sections 16 and 21 of the Act.
+* The wide interpretation of Order VIII Rule 9 advocated by the defendants would render the amendments in the Commercial Courts Act meaningless and contradict its purpose.
+*  The Delhi High Court's consistent interpretation of the Commercial Courts Act, affirmed by the Supreme Court, establishes a precedent against accepting written statements beyond the 120-day limit.
+
+### Defendant’s Argument:
+
+* The Bombay High Court (Original Side) Rules, 1980, are a special law and, under the *Iridium* judgment, prevail over the CPC in original suits.
+*  Section 16 of the Commercial Courts Act, when interpreted in light of the definition of "rules" under the CPC, does not apply to the Bombay High Court's Original Side Rules.
+* The court retains discretion under Order VIII Rule 9 to call for a written statement at any time, even after the 120-day limit, as this provision is directory and not mandatory.
+* The court can exercise its inherent powers under Section 151 of the CPC to address exceptional circumstances where a rigid interpretation of the 120-day deadline would lead to injustice.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The court recognized the paramount intent of the legislature in enacting the Commercial Courts Act to expedite commercial litigation and reduce delays.
+    * The court acknowledged the mandatory nature of the amendments introduced to Order VIII Rule 1 by the Commercial Courts Act.
+    * The court accepted the distinction between the 2002 amendment to the CPC and the Commercial Courts Act, recognizing the latter's specific intent to override conflicting provisions.
+    *  The court held that the *Iridium* judgment does not apply in this case because it involved a conflict between a general act and a special act, while this case involves a conflict between two special acts.
+    * The court interpreted the word "Rule" in Section 16(3) of the Commercial Courts Act to include the Bombay High Court (Original Side) Rules, finding that the act intended to override any conflicting rule of the jurisdictional high court.
+    * The court ruled that the proviso to Order VIII Rule 10, which bars extending the time to file written statements beyond 120 days, specifically relates to Order VIII Rule 1 and does not limit the court's discretion under Order VIII Rule 9. 
+    * The court found that the defendants' interpretation of Order VIII Rule 9 would render the 120-day limit in the Commercial Courts Act meaningless and result in a situation where commercial suits would be treated no differently than non-commercial suits.
+    * The court acknowledged that the court retains discretion under Order VIII Rule 9 to call for a written statement, but only in exceptional circumstances and for reasons recorded in writing.
+    *  The court concluded that considerations of equity cannot override clear statutory provisions, citing various precedents where the court upheld the principle of "dura lex sed lex."
+* **Interpretation of Law:**
+    * The court emphasized the legislative intent behind the Commercial Courts Act to create a system for the expeditious disposal of commercial disputes, and interpreted the amendments to Order VIII Rule 1 and other provisions accordingly.
+    * The court interpreted the "non obstante" clause in Section 21 of the Commercial Courts Act as clearly indicating the legislature's intention to override any inconsistent provisions of other laws.
+    * The court distinguished the *Iridium* judgment, finding that its ratio does not apply when dealing with a conflict between two special acts, as in this case.
+    * The court interpreted the word "Rule" in Section 16(3) of the Commercial Courts Act to include the Bombay High Court (Original Side) Rules.
+* **Application of Law:**
+    * The court applied the rule of "generalia specialibus non derogant" to conclude that the provisions of the Commercial Courts Act, being a special law, would override the general provisions of Order VIII Rule 9 in commercial suits.
+    *  The court applied the principle of "dura lex sed lex" to reject the defendants' arguments based on equity and fairness, emphasizing that the court must follow the law as written, even if it leads to harsh consequences.
+
+## 6. Judgment
+
+* **Final Decision:**  The court held that the amended Order VIII Rule 1, introduced by the Commercial Courts Act, 2015, is mandatory in nature and that a written statement cannot be taken on record after the expiry of 120 days from the date of service of the Writ of Summons in Commercial Suits.
+* **Relief Granted:** No specific relief was granted in this Order as it was focused on deciding the question of law.
+* **Orders:** The court ordered that the Commercial Division of the Bombay High Court must adhere to the provisions of the Commercial Courts Act in its entirety while adjudicating Commercial Suits. The court also recommended that the High Court revise its Original Side Rules to harmonize them with the Commercial Courts Act.
+
+## 7. Implications
+
+* **Impact on Law:** This judgment clarifies the mandatory nature of the amended Order VIII Rule 1 introduced by the Commercial Courts Act, 2015, and its application to commercial suits. It further clarifies that the provisions of the Commercial Courts Act override conflicting provisions of the Bombay High Court (Original Side) Rules.
+* **Future Relevance:** This case will likely serve as a precedent for other courts interpreting the Commercial Courts Act and its amendments to the CPC. It will also likely influence future decisions on the interplay between special laws and general laws.
+* **Broader Context:** This case highlights the increasing importance of ensuring the efficient and expeditious disposal of commercial disputes in India, a crucial aspect of attracting investment and promoting economic growth.
+
+## 8. Summary Points
+
+* The Commercial Courts Act's amendments to the CPC are mandatory, not directory, and impose a strict 120-day deadline for filing written statements in commercial suits.
+* The Commercial Courts Act overrides conflicting provisions of the Bombay High Court (Original Side) Rules.
+* The court retains discretion under Order VIII Rule 9 to call for a written statement beyond the 120-day limit, but only in exceptional circumstances and for reasons recorded in writing.
+* Courts cannot bend the law on equitable grounds. "Dura lex sed lex" applies.
+* To ensure uniformity in the application of the Commercial Courts Act, the Bombay High Court should revise its Original Side Rules to harmonize them with the Act.
+
+## 9. References
+
+* **Citations:**  Refer to the "Relevant Statutes and Provisions" and "Precedents Cited" sections for full citations of statutes, cases, and legal texts referenced in the summary.
+* **Further Reading:**
+    * **The Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015.** 
+    * **The Code of Civil Procedure, 1908 (CPC).**
+    * **The Bombay High Court (Original Side) Rules, 1980.**
+    * **M/s SCG Contracts India Pvt. Ltd. Vs. K.S. Chamankar Infrastructure Pvt. Ltd. & Ors. (Civil Appeal No. 1638 of 2019).**
+    * **Iridium India Telecom Ltd vs Motorola INC [(2005) 2 SCC 145].**
+
+This detailed summary provides a comprehensive overview of the case, including the facts, legal principles involved, arguments presented, court's analysis and reasoning, judgment, and implications. 

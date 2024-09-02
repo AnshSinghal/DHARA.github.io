@@ -1,0 +1,115 @@
+##  1. Case Title
+
+* **Case Name:** Barminco Indian Underground Mining Services LLP vs. Hindustan Zinc Limited
+* **Court:** Rajasthan High Court - Jodhpur
+* **Date of Judgment:** 20th July 2020
+* **Citation:** S.B. Arbitration Application No. 10/2020 
+
+## 2. Background and Context
+
+* **Brief Overview:** Barminco Indian Underground Mining Services LLP (Barminco), an LLP registered under Indian law, entered into a contract with Hindustan Zinc Limited (HZL), an Indian company, to provide services for the development of the Rampura Agucha Mine.  Disputes arose regarding payments for work done and HZL unilaterally terminated the contract.  Barminco sought an injunction to prevent HZL from invoking a bank guarantee of Rs. 5 crores, claiming the arbitration agreement stipulated in the contract made it an "International Commercial Arbitration" and allowed them to approach the High Court under Section 9 of the Arbitration & Conciliation Act, 1996 (the Act of 1996).
+
+* **Key Issues:**
+    *  Whether the arbitration in question qualifies as an "International Commercial Arbitration" under the Act of 1996.
+    *  Whether the High Court has jurisdiction to entertain an application under Section 9 of the Act of 1996 in this case.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * **Arbitration & Conciliation Act, 1996 (Act of 1996):**
+        * Section 2(1)(e) – Definition of "Court"
+        * Section 2(1)(f) – Definition of "International Commercial Arbitration" 
+        * Section 2(2) – Applicability of Part I (domestic arbitration)
+        * Section 9 – Interim Measures by Courts
+    * **Limited Liability Partnership Act, 2008 (LLP Act):**
+        * Section 2(1)(d) – Definition of "body corporate"
+        * Section 2(1)(n) – Definition of "limited liability partnership"
+    * **Commercial Courts Act, 2015:**
+        * Section 10(3) – Jurisdiction of Commercial Courts in arbitration matters
+
+* **Precedents Cited:** 
+    * **TDM Infrastructure Pvt. Ltd. Vs. UE Development India Private Limited [(2008) 14 SCC 271]:** Interpreted the concept of "International Commercial Arbitration"
+    * **M/s Larsen & Toubro Ltd. Vs. Mumbai Metropolitan Region [(2019) 2 SCC 271]:** Similar interpretation of "International Commercial Arbitration"
+    * **P.T.C. Techno Pvt. Ltd. Vs. Samsung India Electronics Pvt. Ltd. [2019 SCC Online Allahabad 3881]:**  Further interpretation of "International Commercial Arbitration"
+    * **Bharat Aluminium Company & (2012) 9 SCC 552:**  On territoriality principle in international commercial arbitration.
+    * **State of West Bengal Vs. Associated Contractors; (2015) 1 SCC 32:**  On the binding nature of decisions under Section 11 of the Act of 1996.
+    * **Sassan Power Limited Vs. North American Coal Corporation India Pvt. Ltd., 2015 SCC MP 1747:**  On the applicability of Part I of the Act of 1996 in cases where the seat of arbitration is outside India.
+    * **GMR Energy Limited Vs. Doosan Power Systems India Pvt. Ltd., 2017 SCC Online Del 11625:** Similar interpretation of the Act of 1996.
+
+* **Legal Doctrines:**
+    * **Statutory Interpretation:**  The court had to interpret the relevant provisions of the Act of 1996 and the LLP Act to determine whether the arbitration was international.
+    * **Jurisdictional Analysis:**  The court had to analyze the provisions of the Act of 1996 and the Commercial Courts Act, 2015 to determine the correct court for the case.
+
+## 4. Arguments Presented
+
+* **Plaintiff’s Argument (Barminco):**
+    * Barminco argued that the arbitration agreement in the contract, which stipulated Singapore as the seat of arbitration,  made it an "International Commercial Arbitration" under the Act of 1996.
+    * They emphasized that the seat of arbitration being outside India,  Part I of the Act of 1996 did not apply, thus rendering the definition of "International Commercial Arbitration" in Section 2(1)(f) irrelevant.
+    * They relied on the amendment made in Section 2(2) of the Act of 1996, allowing Indian courts to intervene in certain cases of international commercial arbitration even if the seat of arbitration was outside India.
+    * They claimed the High Court had jurisdiction under Section 9 of the Act of 1996 based on its ordinary original civil jurisdiction and the fact that the dispute involved a foreign award.
+
+* **Defendant’s Argument (HZL):**
+    * HZL argued that the arbitration was not "International Commercial Arbitration" because both parties were incorporated in India and thus had Indian nationality.
+    * They claimed that the "International Commercial Arbitration" criteria under Section 2(1)(f) of the Act of 1996 were not met.
+    * They pointed out that the seat of arbitration alone was not sufficient to determine the nature of the arbitration.
+    * They asserted that the High Court did not have jurisdiction based on the interpretation of the Act of 1996 by the Supreme Court in the cited cases.
+    * They argued that Barminco's non-disclosure of its status as an Indian LLP constituted a material misrepresentation.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:** 
+    * The Court acknowledged that the seat of arbitration being outside India would make the resulting award a foreign award.
+    * It found that the definition of "International Commercial Arbitration" in the Act of 1996, despite being part of Part I, applied to the entire Act.
+    * The Court emphasized that the nationality of the parties is the primary determinant for classifying an arbitration as "International Commercial Arbitration."
+    * It recognized that the amendment in Section 2(2) of the Act of 1996 addressed certain jurisdictional concerns regarding international arbitration. 
+    * The Court acknowledged that the High Court of Rajasthan does not exercise original civil jurisdiction.
+
+* **Interpretation of Law:** 
+    * The Court interpreted the provisions of Section 2(1)(e) and 2(1)(f) of the Act of 1996 to determine the jurisdictional framework for applications under Section 9.
+    * It acknowledged the principle of statutory interpretation and applied it to resolve the anomaly arising from the definition clause in the Act of 1996.
+
+* **Application of Law:** 
+    * The Court applied the definition of "International Commercial Arbitration" to the facts of the case, finding that both parties' Indian nationality meant the arbitration was not international.
+    * It applied the provision of Section 2(1)(e) of the Act of 1996 to conclude that the High Court did not have jurisdiction as the arbitration was not "International Commercial Arbitration."
+    * It also applied Section 10(3) of the Commercial Courts Act, 2015, concluding that the Commercial Court in Udaipur would have jurisdiction.
+
+## 6. Judgment
+
+* **Final Decision:**  The court ruled that the High Court did not have jurisdiction to entertain the application under Section 9 of the Act of 1996. 
+* **Relief Granted:** The application was returned to Barminco to be filed in the competent Commercial Court in Udaipur.
+* **Orders:**
+    * The interim order issued by the Coordinate Bench on 14th May 2020 was extended till 14th August 2020.
+    * The parties were directed to appear before the Commercial Court, Udaipur on 31st July 2020.
+    * Barminco was instructed to file either a fresh application or the returned application before the Commercial Court by 31st July 2020. 
+
+## 7. Implications
+
+* **Impact on Law:** The judgment clarified the interpretation of "International Commercial Arbitration" under the Act of 1996, emphasizing the relevance of nationality of the parties over the seat of arbitration. It also provided guidance on the jurisdictional framework for applications under Section 9 of the Act of 1996.
+* **Future Relevance:**  The case will be influential in future cases involving the interpretation of "International Commercial Arbitration" and in determining jurisdiction under Section 9 of the Act of 1996. 
+* **Broader Context:** This judgment highlights the complexities arising from the interplay between domestic and international arbitration under Indian law.  It also reflects the increasing role of Commercial Courts in resolving commercial disputes. 
+
+## 8. Summary Points
+
+* **Key Takeaways:** 
+    * The nationality of the parties is the decisive factor for determining whether an arbitration is "International Commercial Arbitration."
+    * The seat of arbitration alone does not automatically make an arbitration international.
+    * The High Court of Rajasthan does not have original civil jurisdiction, and the jurisdiction under Section 9 of the Act of 1996 for non-international commercial arbitration lies with the Principal Civil Court or the Commercial Court.
+    * The definition clause in the Act of 1996 applies to the entire Act.
+
+## 9. References
+
+* **Citations:** 
+    * Arbitration & Conciliation Act, 1996 (Act of 1996)
+    * Limited Liability Partnership Act, 2008 (LLP Act)
+    * Commercial Courts Act, 2015
+    * TDM Infrastructure Pvt. Ltd. Vs. UE Development India Private Limited [(2008) 14 SCC 271]
+    * M/s Larsen & Toubro Ltd. Vs. Mumbai Metropolitan Region [(2019) 2 SCC 271]
+    * P.T.C. Techno Pvt. Ltd. Vs. Samsung India Electronics Pvt. Ltd. [2019 SCC Online Allahabad 3881]
+    * Bharat Aluminium Company & (2012) 9 SCC 552
+    * State of West Bengal Vs. Associated Contractors; (2015) 1 SCC 32
+    * Sassan Power Limited Vs. North American Coal Corporation India Pvt. Ltd., 2015 SCC MP 1747
+    * GMR Energy Limited Vs. Doosan Power Systems India Pvt. Ltd., 2017 SCC Online Del 11625
+
+* **Further Reading:**
+    * **Principles of Statutory Interpretation** by Justice G.P. Singh (14th Edition - 2016 Lexis Nexis) 
+    * **Afcons Infrastructure Ltd. Vs. Cherian Varkey Construction Company: (2010) 8 SCC 24** 

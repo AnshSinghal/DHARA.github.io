@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A landlord filed a suit for possession of a commercial property against a tenant. The tenant claims that the suit is not maintainable as the landlord failed to initiate pre-institution mediation as required by the Commercial Courts Act, 2015. The tenant also argues that the landlord incorrectly valued the relief of possession.  The court has passed a decree of possession in favor of the landlord. Can the tenant challenge this decree?",
+    "Legal Principles": "The Commercial Courts Act, 2015 mandates pre-institution mediation in commercial disputes, but this requirement is not applicable where urgent interim relief is sought.  The valuation of a suit for possession is governed by Section 7(xi) of the Court Fees Act, 1870, which prescribes valuation based on the annual rent.  A challenge to the jurisdiction of a court must be raised promptly, and a decree of possession cannot be set aside based on a belated jurisdictional objection.",
+    "Relevant Sections": "Section 12-A of the Commercial Courts Act, 2015, Section 7(xi) of the Court Fees Act, 1870, Order VIII Rule 3A (5) of CPC as amended by the Act of 2015, Order XXXIX Rule 1 and 2 of CPC, Section 96 read with Order XLI of CPC",
+    "Context": "This case concerns the application of the Commercial Courts Act, 2015 in a landlord-tenant dispute, specifically relating to pre-institution mediation and valuation of the suit. The tenant is challenging the decree of possession issued by the Commercial Court."
+  },
+  {
+    "Query": "A company filed a suit against another company for breach of contract.  The defendant company filed an application challenging the jurisdiction of the Commercial Court, arguing that the dispute did not fall under the definition of a commercial dispute as per the Commercial Courts Act, 2015. The Commercial Court dismissed the application, finding that the dispute did fall within its jurisdiction. Can the defendant company appeal against this order?",
+    "Legal Principles": "The Commercial Courts Act, 2015 provides a specific appeal mechanism for decisions of Commercial Courts.  Appeals are allowed against judgments and orders, including those related to jurisdiction, as per Section 13(1A) of the Act.  The Commercial Appellate Division of the High Court has jurisdiction to hear these appeals.",
+    "Relevant Sections": "Section 13(1A) of the Commercial Courts Act, 2015",
+    "Context": "This case involves a jurisdictional challenge in a commercial dispute under the Commercial Courts Act, 2015. The defendant company is seeking to appeal the Commercial Court's decision on jurisdiction."
+  },
+  {
+    "Query": "A business partner filed a suit for dissolution of a partnership firm, claiming that the other partner had breached the partnership agreement. The defendant partner filed a counterclaim alleging that the plaintiff partner had misappropriated partnership funds. The court ordered the dissolution of the partnership but did not address the counterclaim.  Can the defendant partner appeal against this order?",
+    "Legal Principles": "A party aggrieved by a judgment or order of a court can appeal the decision if provided by law.  In India, the Code of Civil Procedure (CPC) governs appeals in civil matters.  Section 96 of the CPC allows for appeals against decrees, which include judgments and orders that determine the rights of parties.  The scope of an appeal can be restricted, so the defendant partner must ascertain if the specific order related to the counterclaim is appealable.",
+    "Relevant Sections": "Section 96 of the Code of Civil Procedure, 1908 (CPC)",
+    "Context": "This case involves a partnership dispute where the court has ordered dissolution but not addressed a counterclaim. The defendant partner is seeking clarification on their right to appeal."
+  },
+  {
+    "Query": "A company filed a suit for recovery of a debt against another company. The defendant company raised a technical objection, arguing that the suit was not properly presented as it lacked a specific document required under the law. The court dismissed the suit on this technical ground.  Can the plaintiff company appeal this decision?",
+    "Legal Principles": "Parties have a right to appeal against judgments or orders of lower courts if provided by law.  The grounds for appeal typically include errors in law, procedure, or fact.  A dismissal based on a technical objection can be appealable if the objection was not substantial or if the court erred in applying the law.",
+    "Relevant Sections": "Section 96 of the Code of Civil Procedure, 1908 (CPC), Order VII Rule 11 of the CPC (relating to technical defects)",
+    "Context": "This case involves a debt recovery suit dismissed on a technical ground. The plaintiff company is seeking to appeal the decision."
+  },
+  {
+    "Query": "A seller filed a suit for breach of contract against a buyer for failing to pay for goods delivered. The buyer claimed that the goods were defective and filed a counterclaim for damages.  The court ordered the buyer to pay for the goods but did not address the counterclaim. Can the buyer appeal the court's decision?",
+    "Legal Principles": "A party aggrieved by a judgment or order of a court can appeal the decision if provided by law.  The Code of Civil Procedure (CPC) governs appeals in civil matters.  Section 96 of the CPC allows for appeals against decrees, which include judgments and orders that determine the rights of parties. The scope of an appeal can be restricted, so the buyer must ascertain if the specific order related to the counterclaim is appealable.",
+    "Relevant Sections": "Section 96 of the Code of Civil Procedure, 1908 (CPC)",
+    "Context": "This case involves a breach of contract dispute where the court ordered payment for goods but did not address a counterclaim. The buyer is seeking clarification on their right to appeal."
+  },
+  {
+    "Query": "A company filed a suit against its former employee for breach of confidentiality agreement. The employee argued that the agreement was not enforceable because it was not properly signed. The court dismissed the suit. Can the company appeal this decision?",
+    "Legal Principles": "Parties have a right to appeal against judgments or orders of lower courts if provided by law. The grounds for appeal typically include errors in law, procedure, or fact.  A dismissal based on a technical objection can be appealable if the objection was not substantial or if the court erred in applying the law.",
+    "Relevant Sections": "Section 96 of the Code of Civil Procedure, 1908 (CPC)",
+    "Context": "This case involves a breach of confidentiality agreement dispute where the court dismissed the suit on a technical ground. The company is seeking to appeal the decision."
+  },
+  {
+    "Query": "A tenant filed a suit against his landlord for refusing to renew the lease agreement. The landlord argued that the tenant had breached the lease terms and was not entitled to renewal. The court ruled in favor of the landlord. Can the tenant appeal this decision?",
+    "Legal Principles": "Parties have a right to appeal against judgments or orders of lower courts if provided by law. The grounds for appeal typically include errors in law, procedure, or fact. The tenant may appeal if they believe the court erred in its interpretation of the lease agreement or its application of the law.",
+    "Relevant Sections": "Section 96 of the Code of Civil Procedure, 1908 (CPC)",
+    "Context": "This case involves a lease dispute where the court ruled in favor of the landlord. The tenant is seeking to appeal the decision."
+  },
+  {
+    "Query": "A customer filed a suit against a company for defective products. The company argued that the customer had not followed the proper procedures for returning the products. The court dismissed the suit. Can the customer appeal this decision?",
+    "Legal Principles": "Parties have a right to appeal against judgments or orders of lower courts if provided by law. The grounds for appeal typically include errors in law, procedure, or fact. The customer may appeal if they believe the court erred in its interpretation of the product warranty or its application of the law.",
+    "Relevant Sections": "Section 96 of the Code of Civil Procedure, 1908 (CPC)",
+    "Context": "This case involves a product defect dispute where the court dismissed the customer's suit on a procedural ground. The customer is seeking to appeal the decision."
+  },
+  {
+    "Query": "A company filed a suit against its competitor for unfair competition. The competitor argued that the company's claims were baseless and the court dismissed the suit. Can the company appeal this decision?",
+    "Legal Principles": "Parties have a right to appeal against judgments or orders of lower courts if provided by law. The grounds for appeal typically include errors in law, procedure, or fact. The company may appeal if they believe the court erred in its interpretation of unfair competition law or its application of the law.",
+    "Relevant Sections": "Section 96 of the Code of Civil Procedure, 1908 (CPC)",
+    "Context": "This case involves an unfair competition dispute where the court dismissed the company's suit. The company is seeking to appeal the decision."
+  },
+  {
+    "Query": "A business owner filed a suit against a customer for non-payment of services rendered. The customer argued that the services were not provided as agreed upon. The court ruled in favor of the business owner. Can the customer appeal this decision?",
+    "Legal Principles": "Parties have a right to appeal against judgments or orders of lower courts if provided by law. The grounds for appeal typically include errors in law, procedure, or fact. The customer may appeal if they believe the court erred in its interpretation of the service agreement or its application of the law.",
+    "Relevant Sections": "Section 96 of the Code of Civil Procedure, 1908 (CPC)",
+    "Context": "This case involves a service contract dispute where the court ruled in favor of the business owner. The customer is seeking to appeal the decision."
+  }
+]
+```

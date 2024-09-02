@@ -31,12 +31,12 @@ export default function SearchPage() {
     
         try {
           console.log("query", query);
-          const response = await fetch("https://468d-34-41-30-106.ngrok-free.app/query", {
+          const response = await fetch("https://6630-34-69-94-154.ngrok-free.app/predict", {
             method: "POST",
             headers: {
               "Content-Type": "application/json",
             },
-            body: JSON.stringify({ question: query }), // Send the query state in the request
+            body: JSON.stringify({ case: query }), // Send the query state in the request
           });
     
           if (!response.ok) {

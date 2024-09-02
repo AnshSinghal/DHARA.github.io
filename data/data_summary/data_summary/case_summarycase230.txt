@@ -1,0 +1,109 @@
+## 1. Case Title
+
+* **Case Name:** Bhartia Infra Projects Limited. A ... vs The State Of Tripura
+* **Court:** Tripura High Court
+* **Date of Judgment:** 10th January, 2024
+* **Citation:** ARB A No.02 of 2022
+
+## 2. Background and Context
+
+* **Brief Overview:** Bhartia Infra Projects Limited (Bhartia) contracted with the State of Tripura (Tripura) to construct a permanent bridge over river Manu.  The project was delayed, and eventually, Tripura rescinded the agreement. Bhartia filed for arbitration, claiming various damages including final bills, extra work costs, loss of profit, price escalation, idle establishment compensation, refund of security money, litigation/arbitration costs, and interest.
+* **Key Issues:**
+    * Whether the Arbitrator's decision on specific claims (extra work, loss of profit, and idle establishment) was patently illegal.
+    * Whether the entire award should be set aside based on the alleged illegality of the Arbitrator's decisions.
+    * Whether the case should be remanded to the Arbitrator for further adjudication on the entire dispute.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * Arbitration and Conciliation Act, 1996 (Act of 1996):
+        * Section 34: Application for setting aside an arbitral award.
+        * Section 37: Appeal against an order under Section 34.
+    * Companies Act, 1956: Relevant for the incorporation of Bhartia.
+* **Precedents Cited:**
+    * S.V. Samudram versus State of Karnataka and another (2024 SCC Online SC 19)
+    * MMTC Ltd. v. Vedanta Ltd. 
+    * UHL Power Company Ltd v. State of Himachal Pradesh 
+    * Ssangyong Engineering and Construction Company Limited Vs National Highways Authority of India (NHAI), (2019) 15 SCC 131
+    * Seth Thawardas Pherumal VS Union of India (1955) 2 SCR 48
+    * Union of India VS V. Pundarikakshudu and Sons & Another (2003) 8 SCC 168 
+    * Delhi Airport Metro Express Pvt. Ltd.
+    * Union of India Vs. Alcon Builders and Engineer Private Limited, 2023 SCC OnLine Del 160
+    * MBL Infrastructures Limited Vs. Delhi Metro Rail Corporation (OMP (Comm) 311/2021)
+    * NHAI v. Trichy Thanjavur Expressway Ltd. 2023 SCC OnLine Del 5183
+* **Legal Doctrines:**
+    * **Patent illegality:** An error in the arbitral award so fundamental that it invalidates the entire award.
+    * **Perversity:** A finding made by the Arbitrator that is unreasonable, based on no evidence, or ignores vital evidence.
+    * **Public Policy:**  A concept that limits the Arbitrator's ability to make decisions that are contrary to the fundamental principles of Indian law or morality.
+    * **Minimalist intervention:** The principle that courts should interfere with arbitral awards only in limited circumstances.
+    * **Severability:** The ability to separate parts of an award that are independent of each other, allowing for partial setting aside.
+
+## 4. Arguments Presented
+
+* **Appellant's Argument (Bhartia):**
+    * The learned Commercial Court erred in setting aside the entire award when the challenge was limited to specific claims.
+    * Remanding the matter to the Arbitrator for fresh adjudication on the entire dispute was not justified.
+    * The Arbitrator's decisions on extra work and loss of profit were not patently illegal and should have been upheld.
+* **Respondent's Argument (Tripura):**
+    * The Arbitrator's findings on extra work, loss of profit, and idle establishment were sound and supported by reasoning.
+    * Remanding the matter to the Arbitrator was appropriate as the challenged claims were intertwined with the rest of the dispute.
+    * Bhartia's argument about the inadmissibility of remanding the case was legally untenable.
+
+## 5. Court's Analysis and Reasoning
+
+* **Key Findings:**
+    * The Tripura High Court found that the Arbitrator's decisions on extra work and loss of profit did not suffer from patent illegality.
+    * The Arbitrator's decision on idle establishment was found to be devoid of reason and, therefore, patently illegal.
+    * The Court acknowledged the principle of minimalist intervention and the limited scope of interference under Section 34 of the Act of 1996.
+    * The Court recognized that partial setting aside of an award is permissible under specific circumstances.
+* **Interpretation of Law:**
+    * The Court thoroughly analyzed the legal principles governing the scope of interference with arbitral awards, particularly under Section 34 of the Act of 1996.
+    * The Court distinguished between "patent illegality" and "erroneous application of law," highlighting the narrow interpretation of the former.
+    * The Court emphasized the limited powers of a court under Section 37, which is an appeal against a Section 34 order.
+* **Application of Law:**
+    * The Court applied the principles of "patent illegality" and "perversity" to evaluate the Arbitrator's findings on each claim.
+    * The Court applied the principle of "severability" to determine whether the challenged claims could be separated from the rest of the award.
+    * The Court considered the relevant precedents, particularly those dealing with the grounds for setting aside an award under Section 34 and the power to partially set aside an award.
+
+## 6. Judgment
+
+* **Final Decision:**
+    * The Tripura High Court allowed the appeal partially.
+    * The impugned order of the Commercial Court setting aside the entire award was set aside.
+    * The matter was remitted to the Arbitrator to decide the claim for compensation for idle establishment afresh.
+* **Relief Granted:**
+    * The Arbitrator's findings on extra work and loss of profit were upheld.
+    * The claim for idle establishment compensation was remanded for fresh adjudication.
+* **Orders:**
+    * The Arbitrator was directed to decide the claim under item No. 5 (idle establishment) within a reasonable period of 3 months from the date of receipt of the judgment.
+
+## 7. Implications
+
+* **Impact on Law:**
+    * The judgment reiterates the principles governing judicial intervention in arbitral awards, emphasizing the limited scope for setting aside awards and the preference for minimalist intervention.
+    * The judgment clarifies the application of the concept of "patent illegality" and its distinction from "erroneous application of law."
+    * The judgment strengthens the principle of "severability," allowing for partial setting aside of awards where the challenged parts are distinct and independent.
+* **Future Relevance:**
+    * This case provides guidance to courts and parties on the appropriate approach to challenging arbitral awards under Section 34 and 37 of the Act of 1996.
+    * The judgment could influence future decisions on the scope of judicial review in arbitration cases, particularly in cases involving partial setting aside of awards.
+* **Broader Context:**
+    * The judgment reflects the increasing importance of arbitration as an alternative dispute resolution mechanism.
+    * The Court's emphasis on minimizing judicial intervention reinforces the goal of ensuring efficiency and finality in arbitral proceedings.
+
+## 8. Summary Points
+
+* The Tripura High Court partially allowed the appeal, upholding the Arbitrator's findings on extra work and loss of profit, while remanding the claim for idle establishment compensation for fresh adjudication.
+* The Court applied the principle of "patent illegality" to find the Arbitrator's decision on idle establishment compensation as being devoid of reason and, therefore, illegal.
+* The judgment reinforces the principle of "minimal intervention" in arbitral awards and highlights the importance of "severability" in allowing for partial setting aside.
+* The case offers valuable insights into the scope of judicial review in arbitration proceedings under the Arbitration and Conciliation Act, 1996.
+
+## 9. References
+
+* **Citations:**
+    * Arbitration and Conciliation Act, 1996
+    * Companies Act, 1956
+    * All cases cited in the judgment, such as S.V. Samudram versus State of Karnataka, Ssangyong Engineering and Construction Company Limited Vs National Highways Authority of India, etc.
+* **Further Reading:**
+    * Associate Builders v. DDA, (2015) 3 SCC 49 
+    * J.G Engineers (P) Ltd. v. UOI 
+    * Relevant articles and publications on the Arbitration and Conciliation Act, 1996, judicial review of arbitral awards, and the concept of "patent illegality." 

@@ -1,0 +1,108 @@
+## 1. Case Title
+
+* **Case Name:** Fia Technology Services Pvt Ltd & Ors. vs. Sameer Kumar Mathur
+* **Court:** Punjab-Haryana High Court
+* **Date of Judgment:** 22nd December 2022
+* **Citation:** CR No. 5181 of 2022 (O&M)
+
+## 2. Background and Context
+
+* **Brief Overview:** This case involved a dispute between FIA Technology Services Pvt Ltd (Petitioner) and Sameer Kumar Mathur (Respondent), former CEO and shareholder of the company, regarding a Shareholder Agreement (SHA) and an interim award passed by an arbitral tribunal. The petitioner alleged that the respondent violated the SHA by starting a competing business, ROINET, and sought to terminate his shareholding and restrain his activities. The respondent challenged the interim award and sought compensation for various claims, including loss of livelihood and damage to reputation.
+
+* **Key Issues:** 
+    * The validity and enforceability of the interim award passed by the arbitral tribunal.
+    * The interpretation of the SHA and whether it contained non-competitive clauses.
+    * The applicability of the Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015 (Commercial Courts Act) and the provisions regarding stay of arbitral awards under the Arbitration and Conciliation Act, 1996 (Arbitration Act).
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * **Arbitration and Conciliation Act, 1996:**
+        * Section 34: Challenge to an arbitral award.
+        * Section 36: Stay of execution of an arbitral award.
+    * **Commercial Courts Act, 2015:**
+        * Section 8: Provisions regarding jurisdiction of Commercial Courts.
+
+* **Precedents Cited:**
+    * **Pam Developments Private Limited vs. State of West Bengal, (2019) 8 SCC 112:**  Case regarding the application of the Arbitration Act to government entities.
+    * **Sepco Electric Power Construction Corporation vs. Power Mech Projects Ltd., 2022 SCC OnLine SC 1243:**  Case dealing with the interpretation of Section 36 of the Arbitration Act regarding the grant of stay of an award.
+    * **Board of Control for Cricket in India vs. Kochi Cricket Private Limited & Ors., (2018) 6 SCC 287:**  Case regarding the interpretation of the Arbitration Act.
+    * **Bharat Broadband Network Limited vs. United Telecoms Limited (Civil Appeal No.3972 of 2019, decided on 16.04.2019):** Case regarding the application of the Arbitration Act amendments to pending cases.
+    * **State of Gujarat vs. Union of India, R/Special Civil Application No.737 of 2018, decided on 07.05.2018:**  Case regarding the jurisdiction of Commercial Courts.
+    * **M/s Harpreet Singh Chhabra & Four others vs. Mrs. Suneet Kaur Sahney & Eight others, 2019(1) ArbiLR 127:**  Case dealing with the application of the Arbitration Act.
+    * **Surya Dev Rai vs. Ram Chander Rai & Ors., 2003(6) SCC 675:**  Case regarding the scope of revision petitions.
+    * **Black Diamond Trackparst Pvt. Ltd. vs. Black Diamond Motors Pvt. Ltd., 2021(87) PTC 480:**  Case regarding the jurisdiction of Commercial Courts.
+    * **Pari Agro Exports vs. Soufflet Alimentaire & another, (2020) 4 RCR (Civil) 377:**  Case dealing with the applicability of the Commercial Courts Act.
+
+* **Legal Doctrines:**
+    * **Interpretation of Contracts:** The court applied principles of contract interpretation to analyze the SHA.
+    * **Principle of Non-Competitive Clauses:** The court considered the legal principles surrounding non-competitive clauses in contracts.
+    * **Judicial Review of Arbitral Awards:** The court reviewed the arbitral tribunal’s decision within the confines of its jurisdiction.
+
+## 4. Arguments Presented
+
+* **Petitioner’s Argument:** 
+    * The interim award regarding the determination of issues was final and the respondent's challenge under Section 34 of the Arbitration Act was limited to the valuation of the shares.
+    * The respondent's conduct violated the SHA's non-competitive clauses, and his actions should be restrained.
+    * The commercial court's order granting an unconditional stay of the interim award violated Section 36(2) of the Arbitration Act.
+    * The commercial court was not required to grant an unconditional stay without proper grounds under the Arbitration Act.
+
+* **Respondent’s Argument:**
+    * The SHA did not contain non-competitive clauses, and his actions were not in breach of the agreement.
+    * The interim award was patently illegal, as it erroneously interpreted the SHA and imposed non-competitive obligations.
+    * The commercial court was justified in staying the award as it was necessary to ensure the validity of the petition under Section 34 of the Arbitration Act. 
+    * The revision petition was not maintainable under Section 8 of the Commercial Courts Act.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The court found that the commercial court's order granting an unconditional stay of the interim award was not in accordance with the provisions of Section 36(2) of the Arbitration Act.
+    * The court observed that the commercial court failed to consider the provisions for granting stay under the Arbitration Act and disregarded the provisions for imposing conditions as stipulated in Section 36(3).
+    * The court held that the commercial court's order was also not in consonance with the previous order passed by the High Court in CR No. 4003 of 2022, which had directed the commercial court to decide the application under Section 36 of the Arbitration Act in accordance with law.
+
+* **Interpretation of Law:**
+    * The court interpreted the provisions of Section 36(2) and (3) of the Arbitration Act to emphasize that the court has the discretion to grant stay of an award subject to conditions and that it can only grant unconditional stay if it is satisfied that there is a prima facie case of fraud or corruption in the arbitration agreement or the award.
+    * The court also interpreted the precedents regarding the application of the Arbitration Act to government entities to emphasize that there is no special treatment for government entities in this context.
+
+* **Application of Law:**
+    * The court applied the legal principles regarding the grant of stay of an award to the specific facts of the case, finding that the commercial court failed to follow the proper legal framework. 
+    * The court also considered the arguments regarding the maintainability of the revision petition and found that it was maintainable in this instance.
+
+## 6. Judgment
+
+* **Final Decision:** The High Court set aside the impugned order dated 21.10.2022 passed by the commercial court.
+
+* **Relief Granted:** The High Court directed the commercial court to revisit the issue and pass appropriate orders in accordance with the provisions of the Arbitration Act.
+
+* **Orders:**
+    * The commercial court was directed to decide the application under Section 36(2) of the Arbitration Act in accordance with the law.
+    * The commercial court was given liberty to fix a date for arguments on the main petition under Section 34 of the Arbitration Act and decide the same at the earliest.
+
+## 7. Implications
+
+* **Impact on Law:**  This judgment reinforces the proper application of Section 36 of the Arbitration Act regarding the grant of stay of arbitral awards. It emphasizes the need for commercial courts to follow the specific provisions for granting stay and to consider the relevant legal principles before granting an unconditional stay.
+
+* **Future Relevance:** This case provides guidance for future cases regarding the application of Section 36 of the Arbitration Act, particularly in situations where a petitioner seeks to challenge an interim award. 
+
+* **Broader Context:** The judgment highlights the importance of adhering to the legal framework for handling arbitral disputes and challenges to arbitral awards. It also emphasizes the need for courts to provide clear and reasoned orders based on the relevant legal provisions.
+
+## 8. Summary Points
+
+* The commercial court's unconditional stay of the interim award violated the provisions of the Arbitration Act.
+* The commercial court's order was not in consonance with the High Court's previous order in CR No. 4003 of 2022.
+* The High Court set aside the commercial court's order and directed it to reconsider the issue.
+* The High Court upheld the maintainability of the revision petition.
+
+## 9. References
+
+* **Arbitration and Conciliation Act, 1996**
+* **Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015**
+* **Pam Developments Private Limited vs. State of West Bengal, (2019) 8 SCC 112**
+* **Sepco Electric Power Construction Corporation vs. Power Mech Projects Ltd., 2022 SCC OnLine SC 1243**
+* **Board of Control for Cricket in India vs. Kochi Cricket Private Limited & Ors., (2018) 6 SCC 287**
+* **Bharat Broadband Network Limited vs. United Telecoms Limited (Civil Appeal No.3972 of 2019, decided on 16.04.2019)**
+* **State of Gujarat vs. Union of India, R/Special Civil Application No.737 of 2018, decided on 07.05.2018**
+* **M/s Harpreet Singh Chhabra & Four others vs. Mrs. Suneet Kaur Sahney & Eight others, 2019(1) ArbiLR 127**
+* **Surya Dev Rai vs. Ram Chander Rai & Ors., 2003(6) SCC 675**
+* **Black Diamond Trackparst Pvt. Ltd. vs. Black Diamond Motors Pvt. Ltd., 2021(87) PTC 480**
+* **Pari Agro Exports vs. Soufflet Alimentaire & another, (2020) 4 RCR (Civil) 377**

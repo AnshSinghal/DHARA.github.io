@@ -1,0 +1,97 @@
+## 1. Case Title
+
+* **Case Name:** Namita Gupta vs Suraj Holdings Limited
+* **Court:** Delhi High Court
+* **Date of Judgment:** 9 January, 2024
+* **Citation:**  (Not provided in the text)
+
+## 2. Background and Context
+
+* **Brief Overview:** Namita Gupta (defendant) filed a petition challenging two orders passed by the lower courts regarding a Suit filed against her by Suraj Holdings Limited (plaintiff) for recovery of Rs. 1,07,37,545.07. The first order transferred the Suit from the Additional District Judge to the Principal District and Sessions Judge, citing the dispute's commercial nature. The second order transferred the Suit from the Principal District and Sessions Judge to the District Judge (Commercial Court).
+* **Key Issues:**
+    * Whether the Commercial Courts Act, 2015 (the "Act") excludes the application of Section 24 of the Code of Civil Procedure, 1908 (CPC) to commercial disputes with specified value?
+    * If not, does the District and Sessions Judge have the power under Section 24 of the CPC to transfer a Suit to a Commercial Court?
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * **Commercial Courts Act, 2015 (CCA):** Sections 2, 3, 3A, 4, 5, 6, 7, 11, 12A, 15, 16, 18.
+    * **Code of Civil Procedure, 1908 (CPC):** Sections 24, 151, Order VII Rule 10, Order VII Rule 10A, Order XXXVII.
+    * **Punjab Courts Act, 1918**
+    * **Arbitration and Conciliation Act, 1996**
+* **Precedents Cited:**
+    * Ambalal Sarabhai Enterprises Ltd. v. K.S. Infraspace LLP & Anr. (2020) 15 SCC 585
+    * Satyanarain Khandelwal v. Prem Arora, 2022 SCC OnLine Del 2142
+    * Narendra Kumar v. Om Daily Needs Retailing Pvt. Ltd. and Anr., Neutral Citation no.2023:DHC:6474-DB
+    * M/s AV Industries v. M/s Neo Neon Electrical Pvt. Ltd., Neutral Citation no.2023:DHC:6230-DB
+    * Virender Kumar v. Rekha Bhayana, 2022 SCC OnLine Del 2678
+    * Laxmi Plyfab Pvt. Ltd. and Ors. v. Eden Realty Ventures Pvt. Ltd. and Ors., 2021 SCC OnLine Cal 1457
+    * Maharshi Commerce Limited v. Rajiv R. Balani and Ors. (Order dated 10.11.2022 in CS/3/2019 OD-13)
+    * ANE Industries Private Limited v. J.K. Engineering Private Limited, 2023 SCC OnLine Cal 3331
+    * Andhra Pradesh Industrial Infrastructure Corporation (APIIC) v. Meghavaram Power Pvt. Ltd., 2023 SCC OnLine AP 794
+    * Life Shine Medical Services Pvt. Ltd. v. Dr. Alety Jeevan Reddy & Anr. (Order Dated 13.04.2023 in Civil Revision Petition No.689 of 2023)
+    * Gaurang Manguesh Suctancar v. Sonia Gaurang Suctancar (in LD-VC-CW-88/2020 decided on 20.07.2020)
+    * Jaycee Housing Private Limited and Others v. Registrar (General), Orissa High Court, Cuttack and Others, (2023) 1 SCC 549
+    * Shankar Lal Jaiswal v. Asha Devi & Ors., Neutral Citation No.2018:AHC:177160
+    * Suraj Prakash v. Neeraj Kumar and Others, 2023 SCC OnLine Del 4563
+    * Mahesh Gupta v. Ranjit Singh and Ors., 2009 SCC OnLine Del 1418
+    * EXL Careers & Anr. v. Frankfinn Aviation Services Pvt. Ltd. (2020) 12 SCC 667
+    * Life Insurance Corporation of India v. Nandini J. Shah & Ors., (2018) 15 SCC 356
+    * Riveria Commercial Developers Ltd. v. Brompton Lifestyle Brands Pvt. Ltd., NC:2022/DHC/005823
+* **Legal Doctrines:**
+    * **Jurisdiction:**  The court's authority to hear and decide a case.
+    * **Transfer of Suits:** Legal provisions governing the movement of cases between courts.
+    * **Special Laws and General Laws:**  The interplay between specific legislation and general legal provisions.
+    * **Interpretation of Statutes:** Rules of statutory interpretation used by the court to understand the intent of the legislature.
+
+## 4. Arguments Presented
+
+* **Plaintiff's Argument:** The plaintiff, Suraj Holdings Limited, argued that the District and Sessions Judge had the power to transfer the Suit to the Commercial Court under Section 24 of the CPC. They contended that the Commercial Court, though established under the Act, is staffed by officers of the District Judiciary and is thus subordinate to the District Court. 
+* **Defendant's Argument:** Namita Gupta argued that the lower courts lacked the power to transfer the Suit to a Commercial Court. She asserted that the Act provided a specific mechanism for transferring suits to Commercial Courts (Section 15), which only applies to suits pending before the constitution of Commercial Courts. She further stated that the Act, being a special statute, overrides the general provisions of the CPC, including Section 24.  Gupta also argued that the Commercial Court, being a separate hierarchy of courts under the Act, is not subordinate to the District Court. 
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The Commercial Courts Act, 2015 does not explicitly exclude the application of Section 24 of the CPC.
+    * The Commercial Court, though established under the Act, does not become a court subordinate to the District Court for the purposes of Section 24 of the CPC.
+    * The power to transfer suits between Commercial Courts within a district rests with the High Court, delegated to the District Judge.
+    * Returning a plaint under Order VII Rule 10 of the CPC does not negate the power of the High Court to transfer the suit under Section 24 of the CPC.
+* **Interpretation of Law:**
+    * The court analyzed the scheme of the Commercial Courts Act, noting its intent to establish a distinct hierarchy of courts for commercial disputes.
+    * The court interpreted Section 15 of the Act as a specific provision for transferring pending cases to Commercial Courts, not applicable to suits filed after their establishment.
+    * The court determined that the Act does not explicitly amend or repeal Section 24 of the CPC, thus maintaining its applicability to commercial disputes.
+* **Application of Law:**
+    * The court applied the principles of statutory interpretation to conclude that the Act does not exclude the application of Section 24 of the CPC.
+    * The court applied the principle of the special law overriding general law to determine that the Act, as a specific law dealing with commercial disputes, would prevail over the general provisions of the CPC.
+    * The court applied the principle of hierarchy of courts to ascertain that while the Commercial Courts are staffed by officers of the District Judiciary, they are not subordinate to the District Court within the hierarchy established by the Act.
+
+## 6. Judgment
+
+* **Final Decision:** The court set aside the orders of the lower courts transferring the Suit to the Commercial Court.
+* **Relief Granted:** The court, exercising its power under Section 24 of the CPC, transferred the Suit from the Court of the Additional District Judge to the Court of the District Judge (Commercial), South-East District, Saket District Court.
+* **Orders:** The parties were directed to appear before the Transferee Court on the date already fixed. 
+
+## 7. Implications
+
+* **Impact on Law:** The judgment clarifies the interplay between the Commercial Courts Act, 2015 and Section 24 of the CPC regarding the transfer of suits. It establishes that the High Court, not the District and Sessions Judge, possesses the power to transfer suits between Commercial Courts.
+* **Future Relevance:** The case sets a precedent for future cases involving the transfer of suits between different types of courts under the Commercial Courts Act and the CPC. It provides clarity on the jurisdiction and power of different courts in handling commercial disputes.
+* **Broader Context:** The judgment emphasizes the importance of adhering to the specific procedures and rules laid down by the Commercial Courts Act for handling commercial disputes, highlighting the specialized nature of commercial litigation.
+
+## 8. Summary Points
+
+* The Delhi High Court upheld the defendant's argument that the lower courts lacked the power to transfer the Suit to a Commercial Court under Section 24 of the CPC.
+* The court ruled that the Commercial Courts Act does not explicitly exclude the application of Section 24 of the CPC, but the District and Sessions Judge does not have the power to transfer suits to Commercial Courts.
+* The court held that the power to transfer suits between Commercial Courts rests with the High Court, delegated to the District Judge.
+* The court transferred the Suit to the Commercial Court, exercising its power under Section 24 of the CPC.
+
+## 9. References
+
+* **Citations:**
+    * Commercial Courts Act, 2015
+    * Code of Civil Procedure, 1908 (CPC)
+    * Punjab Courts Act, 1918
+    * Arbitration and Conciliation Act, 1996
+    * All precedents cited in the judgment.
+* **Further Reading:** 
+    * Other cases concerning the transfer of suits under the Commercial Courts Act and the CPC.
+    * Legal texts and commentaries on the Commercial Courts Act and the CPC. 

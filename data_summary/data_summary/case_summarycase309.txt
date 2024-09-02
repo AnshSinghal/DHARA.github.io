@@ -1,0 +1,129 @@
+## 1. Case Title
+
+* **Case Name:** M/S Nutrica Pusti Healthcare Pvt. Ltd. & Ors. vs. M/S Morepen Laboratories Ltd.
+* **Court:** Delhi High Court
+* **Date of Judgment:** 9th April, 2021
+* **Citation:** AIRONLINE 2021 DEL 545
+
+## 2. Background and Context
+
+* **Brief Overview:** This case involved a dispute between Nutrica Pusti Healthcare Pvt. Ltd. (hereinafter "Nutrica") and Morepen Laboratories Ltd. (hereinafter "Morepen") over trademark infringement and passing off. Morepen, the registered owner of the trademarks "SALTUM", "REGERMINA", and "NEOMUST", sued Nutrica for using deceptively similar marks, "SULTICA", "NUGERMINA", and "DOCOMUST".
+* **Key Issues:**
+    * Whether Nutrica's trademarks were deceptively similar to Morepen's registered trademarks.
+    * The legal principles applicable to the assessment of deceptive similarity in pharmaceutical products.
+    * Whether the fact that the products were Schedule H drugs, available only on prescription, was relevant to the assessment of deceptive similarity.
+    * The impact of the fact that one of the defendants (Pawan Kumar Singh) was a former employee of the plaintiff (Morepen).
+    * The relevance of the report of the Court Commissioner concerning alleged passing off by Nutrica.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * Order XLIII Rule 1(r) of the Code of Civil Procedure, 1908 (CPC)
+    * Section 13(1A) of the Commercial Courts Act, 2015
+    * Order XXXIX Rules 1&2 of the CPC
+    * Trade Marks Act
+* **Precedents Cited:**
+    * Astrazeneca UK Limited Vs. Orchid Chemicals and Pharmaceuticals Ltd. MANU/DE/0869/2007 (DB)
+    * Sun Pharmaceutical Industries Ltd. V. Anglo French Drugs & Industries Ltd. MANU/DE/2261/2014 (DB)
+    * Macleods Pharmaceuticals Ltd. Vs. Swisskem Healthcare MANU/MH/1771/2019
+    * M.K. Petro Products India Pvt. Ltd. Vs. M.K. Bitumen Products 2011 (182) DLT 86
+    * Himalaya Drug Company Vs. S.B.L. Limited 2012 (194) DLT 536
+    * Cadila Health Care Ltd. Vs. Cadila Pharmaceuticals Ltd. (2001) 5 SCC 73
+    * Wander Ltd. Vs. Antox India P. Ltd. 1990 Supp SCC 727
+    * Printers (Mysore) Private Ltd. Vs. Pothan Joseph AIR 1960 SC 1156
+    * N.R. Dongre Vs. Whirlpool Corporation (1996) 5 SCC 714
+    * Ramdev Food Products (P) Ltd. Vs. Arvindbhai Rambhai Patel (2006) 8 SCC 726
+    * Skyline Education Institute (India) Private Limited Vs. S.L. Vaswani (2010) 2 SCC 142
+    * Purshottam Vishandas Raheja Vs. Srichand Vishandas Raheja (2011) 6 SCC 73
+    * Mohd. Mehtab Khan Vs. Khushnuma Ibrahim Khan (2013) 9 SCC 221
+    * Neon Laboratories Limited Vs. Medical Technologies Limited (2016) 2 SCC 672
+    * Heinz Italia Vs. Dabur India Ltd. (2007) 6 SCC 1
+    * The British India Corporation Ltd. Vs. Khairati Ram AIR 2000 Del 289
+    * Midas Hygiene Industries (P) Ltd. Vs. Sudhir Bhatia (2004) 3 SCC 90
+    * Shree Sainath Industries Vs. Sainath Auto Industries 2004 SCC OnLine Guj 25
+    * Sirmour Remedies Pvt. Ltd. Vs. Kepler Healthcare Pvt. Ltd. 2014 SCC OnLine Cal 2703
+    * Sanofi India Ltd. Vs. Universal Neutraceuticals Pvt. Ltd. 215 (2014) DLT 585
+    * Cadila Healthcare Ltd. Vs. Uniza Healthcare LLP MANU/DE/0346/2021
+    * National Bello Vs. Metal Goods Mfg. Co. P. Ltd. (1970) 3 SCC 665
+    * Dr. Reddy's Laboratories Ltd. Vs. Reddy Pharmaceuticals Ltd. 2004 (76) DRJ 616
+    * Pankaj Goel Vs. Dabur India Ltd. 2008 (38) PTC 49 (Del) (DB)
+    * Novartis AG Vs. Crest Pharma Pvt. Ltd. 2009 (41) PTC 57 (Del)
+    * Cadila Healthcare Ltd. Vs. Aureate Healthcare Pvt. Ltd. 2012 SCC OnLine Del 3940
+    * Nuvoco Vistas Corporation Ltd. Vs. J.K. Laxmi Cement Ltd. 2019 SCC OnLine Del 8057
+    * Remidex Pharma Private Limited Vs. Savita Pharmaceuticals P. Ltd. (2006) 131 DLT 350
+    * United Biotech Pvt. Ltd. Vs. Orchid Chemicals & Pharmaceuticals Ltd. 2012 SCC OnLine Del 2942 (DB)
+    * Merck Kgaa Vs. Emil Pharmaceutical Inds. Pvt. Ltd. 2014 SCC OnLine Del 6733
+    * Merck Kgaa Vs. Hasmukh N. Thakkar 2014 SCC OnLine Del 1938
+    * Mankind Pharma Ltd. Vs. Cadila Pharmaceuticals Ltd. 2015 SCC OnLine Del 6914
+    * Sun Pharma Laboratories Ltd. Vs. Intas Pharamceuticals Limited 2019 SCC OnLine Del 8899
+    * Charak Pharma Pvt. Ltd. Vs. Glenmark Pharmaceuticals Ltd. 2014 SCC OnLine Bom 98
+    * Lupin Limited Vs. Eris Lifesciences Pvt. Ltd. 2015 SCC Online Bom 6807
+    * S. Syed Mohideen Vs. P. Sulochana Bai (2016) 2 SCC 683
+* **Legal Doctrines:**
+    * **Deceptive Similarity:** The principle that a mark is deceptively similar to another if it is likely to cause confusion in the minds of consumers.
+    * **Passing Off:** The tort where a person passes off their goods as those of another, leading to damage to the reputation and goodwill of the original owner.
+    * **Dishonest Intent:** The requirement for a plaintiff to establish that the defendant's adoption of a similar trademark was done with dishonest intent to mislead consumers.
+    * **Prima Facie Case:** The requirement for a plaintiff seeking interlocutory injunction to establish a prima facie case of infringement or passing off.
+    * **Balance of Convenience:** The court's assessment of which party would suffer greater hardship if an injunction is not granted.
+    * **Public Juris:** The principle that generic words or common elements cannot be exclusively owned as trademarks.
+
+## 4. Arguments Presented
+
+* **Plaintiff’s Argument (Morepen):**
+    * Their trademarks were registered and they were the prior users.
+    * Nutrica's marks were phonetically and visually similar to their marks, creating a likelihood of confusion.
+    * Even though the drugs were Schedule H drugs, they were still often sold over the counter.
+    * One of the defendants, Pawan Kumar Singh, was a former employee of Morepen, which increased the likelihood of dishonest intent.
+    * They had a prima facie case and the balance of convenience favored them.
+* **Defendant’s Argument (Nutrica):**
+    * The Commercial Court misapplied the test for deceptive similarity.
+    * The marks were not deceptively similar, as the pharmaceutical industry commonly uses the name of the salt or active ingredient in trademarks.
+    * Their marks were different in packaging, form, and strength, making confusion unlikely.
+    * The differences in price and the fact that the products were Schedule H drugs also made confusion unlikely.
+    * The marks were derived from the active ingredient Sultamicillin Tosylate.
+    * The Court Commissioner's report was an afterthought and should not be given weight.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The report of the Court Commissioner, which found packaging materials of Morepen in Nutrica's warehouse, suggested that Nutrica was passing off their goods as those of Morepen.
+    * The fact that Pawan Kumar Singh was a former employee of Morepen increased the burden on Nutrica to show bona fide intent in adopting similar marks.
+    * The test for deceptive similarity in pharmaceutical products was not as stringent as for daily use goods, as patients might not pay close attention to packaging when purchasing medicine.
+    * The court found that the "GERMINA" and "MUST" suffixes in Nutrica's marks were not derived from the chemical composition, the disease they cured, or the organ with which they were related, making their adoption arbitrary and potentially dishonest.
+    * The court distinguished the precedent cases cited by Nutrica, finding that they were not applicable to the facts of this case.
+* **Interpretation of Law:**
+    * The court interpreted the precedents regarding deceptive similarity in pharmaceutical products, emphasizing that the test is not as rigid as for consumer goods.
+    * The court highlighted the importance of dishonest intent in assessing deceptive similarity, particularly when a defendant is a former employee of the plaintiff.
+* **Application of Law:**
+    * The court applied the legal principles of deceptive similarity, passing off, and dishonest intent to the facts of the case, considering the specific circumstances, including the report of the Court Commissioner and the former employee relationship.
+
+## 6. Judgment
+
+* **Final Decision:** The appeal was dismissed.
+* **Relief Granted:** The injunction granted by the Commercial Court was upheld.
+* **Orders:** Nutrica was ordered to pay costs of Rs. 50,000/- to Morepen.
+
+## 7. Implications
+
+* **Impact on Law:** The judgment reinforces the legal principles regarding deceptive similarity in pharmaceutical products, emphasizing the importance of considering the context, including the nature of the products, the intent of the defendant, and the presence of any special circumstances.
+* **Future Relevance:** The case provides a valuable precedent for future trademark infringement disputes involving pharmaceutical products, particularly those where there is a former employee relationship and evidence of passing off.
+* **Broader Context:** The judgment underscores the need for careful consideration of trademark protection in the pharmaceutical industry to prevent consumer confusion and safeguard the reputation of original brands.
+
+## 8. Summary Points
+
+* The Delhi High Court upheld the injunction against Nutrica for using deceptively similar trademarks, finding that they were likely to cause confusion.
+* The court considered the fact that one of the defendants was a former employee of the plaintiff, which increased the burden on the defendants to show bona fide intent.
+* The report of the Court Commissioner, which found packaging materials of the plaintiff in the defendant's warehouse, strengthened the plaintiff's case for passing off.
+* The court distinguished the precedent cases cited by the defendant, emphasizing that the test for deceptive similarity in pharmaceutical products is not as rigid as for consumer goods.
+* The case provides a valuable precedent for future trademark infringement disputes involving pharmaceutical products, especially those with former employee relationships and evidence of passing off.
+
+## 9. References
+
+* **Citations:** All the cases mentioned in this summary are cited within the summary.
+* **Further Reading:**
+    * Trade Marks Act
+    * Code of Civil Procedure, 1908 (CPC)
+    * Commercial Courts Act, 2015
+    * Relevant case law on deceptive similarity, passing off, and dishonest intent in trademark infringement cases.
+
+This detailed summary provides a comprehensive overview of the case, including the factual background, legal principles involved, arguments presented, court's analysis, and the final judgment. It highlights the key takeaways and implications of the case for future legal decisions and the broader context of trademark protection in the pharmaceutical industry. 

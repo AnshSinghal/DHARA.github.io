@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A plaintiff filed a suit for recovery of money. The defendant, in their written statement, claimed a set-off for damages due to the plaintiff's breach of contract. The plaintiff argues that the defendant's claim for set-off is time-barred. Is the defendant's claim for set-off barred by the Limitation Act?",
+    "Legal Principles": "The Limitation Act, 1963 governs the time period within which legal claims must be filed.  A set-off is a claim by a defendant against the plaintiff to reduce or extinguish the plaintiff's claim. An equitable set-off may be available even where a legal set-off is time-barred, but it is discretionary and may be refused by the court.",
+    "Relevant Sections": "Section 3(2)(b)(i) of the Limitation Act, 1963: \"The period of limitation for an action by a defendant for the recovery of any sum of money due to him from the plaintiff shall be the same period as is prescribed for an action by the plaintiff for the recovery of the sum of money due to him from the defendant, or such shorter period as may be prescribed by any law for the time being in force.\"",
+    "Context": "Civil suit for recovery of money, defence of set-off, application of the Limitation Act, jurisdiction of the Commercial Court"
+  },
+  {
+    "Query": "A company filed a suit for breach of contract against another company. The defendant sought to amend their written statement to include a counterclaim for damages. The plaintiff argues that the counterclaim is time-barred and that the court should not allow the amendment. Can the court allow the amendment to include a time-barred counterclaim?",
+    "Legal Principles": "The court has discretion to allow amendments to pleadings, but this discretion should be exercised judiciously. Generally, amendments that would introduce time-barred claims should not be permitted. However, the court may consider factors such as the reason for the delay, the prejudice to the parties, and whether the amendment would serve the interests of justice.",
+    "Relevant Sections": "Order VI, Rule 17 of the Code of Civil Procedure, 1908: \"The Court may at any stage of the proceedings, allow either party to alter or amend his pleading in such manner and on such terms as may be just, and all such amendments shall be made as may be necessary for the purpose of determining the real questions in controversy between the parties.\"",
+    "Context": "Civil suit for breach of contract, application for amendment of pleading, counterclaim, time-barred claim, discretion of the court"
+  },
+  {
+    "Query": "A landlord filed a suit for eviction against a tenant. The tenant argued that the landlord's claim was barred by the terms of a lease agreement. The landlord sought to amend their pleading to include a new argument based on a different provision of the lease agreement. Should the court allow the amendment?",
+    "Legal Principles": "The court has broad discretion to allow amendments to pleadings, but this discretion is not unlimited. The court should consider the stage of the proceedings, the reason for the amendment, the prejudice to the parties, and whether the amendment would serve the interests of justice.",
+    "Relevant Sections": "Order VI, Rule 17 of the Code of Civil Procedure, 1908: \"The Court may at any stage of the proceedings, allow either party to alter or amend his pleading in such manner and on such terms as may be just, and all such amendments shall be made as may be necessary for the purpose of determining the real questions in controversy between the parties.\"",
+    "Context": "Civil suit for eviction, application for amendment of pleading, lease agreement, discretion of the court"
+  },
+  {
+    "Query": "A company filed a suit for recovery of money against a debtor. The debtor claimed that the debt was already paid and filed a written statement to this effect. The company later discovered that the debtor had actually used a forged payment receipt and sought to amend their pleading to allege this fraud. Should the court allow the amendment?",
+    "Legal Principles": "The court may allow amendments to pleadings even after the expiry of the limitation period if the amendment is based on a new fact that was not previously known to the party seeking the amendment. However, the court must consider the reason for the delay, the prejudice to the other party, and whether the amendment would serve the interests of justice.",
+    "Relevant Sections": "Order VI, Rule 17 of the Code of Civil Procedure, 1908: \"The Court may at any stage of the proceedings, allow either party to alter or amend his pleading in such manner and on such terms as may be just, and all such amendments shall be made as may be necessary for the purpose of determining the real questions in controversy between the parties.\"",
+    "Context": "Civil suit for recovery of money, application for amendment of pleading, fraud, newly discovered facts, discretion of the court"
+  },
+  {
+    "Query": "A party filed a suit for specific performance of a contract. The other party argued that the contract was voidable due to misrepresentation. After the suit was filed, the party seeking specific performance discovered additional evidence of misrepresentation and sought to amend their pleading to add a claim for rescission of the contract. Can the court allow this amendment?",
+    "Legal Principles": "The court may allow amendments to pleadings to reflect new facts or legal arguments discovered after the initial filing of the pleading. However, the court must consider the stage of the proceedings, the reason for the amendment, the prejudice to the parties, and whether the amendment would serve the interests of justice.",
+    "Relevant Sections": "Order VI, Rule 17 of the Code of Civil Procedure, 1908: \"The Court may at any stage of the proceedings, allow either party to alter or amend his pleading in such manner and on such terms as may be just, and all such amendments shall be made as may be necessary for the purpose of determining the real questions in controversy between the parties.\"",
+    "Context": "Civil suit for specific performance, application for amendment of pleading, misrepresentation, rescission of contract, discretion of the court"
+  },
+  {
+    "Query": "A plaintiff filed a suit for damages against a defendant for breach of contract. The defendant sought to amend their written statement to add a plea of contributory negligence. The plaintiff argues that this plea is not available to the defendant under the circumstances of the case. Should the court allow the amendment?",
+    "Legal Principles": "The court has discretion to allow amendments to pleadings, but this discretion should be exercised judiciously. The court should consider the stage of the proceedings, the reason for the amendment, the prejudice to the parties, and whether the amendment would serve the interests of justice.",
+    "Relevant Sections": "Order VI, Rule 17 of the Code of Civil Procedure, 1908: \"The Court may at any stage of the proceedings, allow either party to alter or amend his pleading in such manner and on such terms as may be just, and all such amendments shall be made as may be necessary for the purpose of determining the real questions in controversy between the parties.\"",
+    "Context": "Civil suit for damages, application for amendment of pleading, contributory negligence, discretion of the court"
+  },
+  {
+    "Query": "A company filed a suit for copyright infringement against another company. The defendant sought to amend their written statement to add a defense of fair use. The plaintiff argues that the defendant's claim of fair use is not supported by the facts of the case. Should the court allow the amendment?",
+    "Legal Principles": "The court has discretion to allow amendments to pleadings, but this discretion should be exercised judiciously. The court should consider the stage of the proceedings, the reason for the amendment, the prejudice to the parties, and whether the amendment would serve the interests of justice.",
+    "Relevant Sections": "Order VI, Rule 17 of the Code of Civil Procedure, 1908: \"The Court may at any stage of the proceedings, allow either party to alter or amend his pleading in such manner and on such terms as may be just, and all such amendments shall be made as may be necessary for the purpose of determining the real questions in controversy between the parties.\"",
+    "Context": "Civil suit for copyright infringement, application for amendment of pleading, fair use, discretion of the court"
+  },
+  {
+    "Query": "A plaintiff filed a suit for personal injury against a defendant. The defendant sought to amend their written statement to add a defense of assumption of risk. The plaintiff argues that the defendant's claim of assumption of risk is not supported by the evidence. Should the court allow the amendment?",
+    "Legal Principles": "The court has discretion to allow amendments to pleadings, but this discretion should be exercised judiciously. The court should consider the stage of the proceedings, the reason for the amendment, the prejudice to the parties, and whether the amendment would serve the interests of justice.",
+    "Relevant Sections": "Order VI, Rule 17 of the Code of Civil Procedure, 1908: \"The Court may at any stage of the proceedings, allow either party to alter or amend his pleading in such manner and on such terms as may be just, and all such amendments shall be made as may be necessary for the purpose of determining the real questions in controversy between the parties.\"",
+    "Context": "Civil suit for personal injury, application for amendment of pleading, assumption of risk, discretion of the court"
+  },
+  {
+    "Query": "A party filed a suit for breach of contract against another party. The defendant sought to amend their written statement to add a defense of frustration of contract. The plaintiff argues that the doctrine of frustration of contract is not applicable to the facts of the case. Should the court allow the amendment?",
+    "Legal Principles": "The court has discretion to allow amendments to pleadings, but this discretion should be exercised judiciously. The court should consider the stage of the proceedings, the reason for the amendment, the prejudice to the parties, and whether the amendment would serve the interests of justice.",
+    "Relevant Sections": "Order VI, Rule 17 of the Code of Civil Procedure, 1908: \"The Court may at any stage of the proceedings, allow either party to alter or amend his pleading in such manner and on such terms as may be just, and all such amendments shall be made as may be necessary for the purpose of determining the real questions in controversy between the parties.\"",
+    "Context": "Civil suit for breach of contract, application for amendment of pleading, frustration of contract, discretion of the court"
+  },
+  {
+    "Query": "A company filed a suit for patent infringement against another company. The defendant sought to amend their written statement to add a defense of invalidity of the patent. The plaintiff argues that the defendant's claim of patent invalidity is not supported by the evidence. Should the court allow the amendment?",
+    "Legal Principles": "The court has discretion to allow amendments to pleadings, but this discretion should be exercised judiciously. The court should consider the stage of the proceedings, the reason for the amendment, the prejudice to the parties, and whether the amendment would serve the interests of justice.",
+    "Relevant Sections": "Order VI, Rule 17 of the Code of Civil Procedure, 1908: \"The Court may at any stage of the proceedings, allow either party to alter or amend his pleading in such manner and on such terms as may be just, and all such amendments shall be made as may be necessary for the purpose of determining the real questions in controversy between the parties.\"",
+    "Context": "Civil suit for patent infringement, application for amendment of pleading, patent invalidity, discretion of the court"
+  }
+]
+```

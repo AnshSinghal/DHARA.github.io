@@ -1,0 +1,104 @@
+## Case Title
+
+* **Case Name:** M/S Sadbhav Engineering Limited vs Efftech Infra Engineers
+* **Court:** Gujarat High Court
+* **Date of Judgment:** 8 January, 2024
+* **Citation:** C/FA/4806/2023
+
+## Background and Context
+
+* **Brief Overview:**  M/S Sadbhav Engineering Limited (Appellant) subcontracted road construction work to Efftech Infra Engineers (Respondent). The Respondent completed the work but was not paid the agreed upon amount by the Appellant. The Respondent sought to enforce payment through an arbitration clause in the contract.  
+* **Key Issues:** 
+    * Can the Court grant interim protection (bank guarantee) under Section 9 of the Arbitration and Conciliation Act, 1996 (Act of 1996) to secure the amount in dispute in arbitration?
+    * What are the specific conditions under which such interim protection can be granted?
+    * Whether the Appellant's financial difficulties and potential diminution of assets warrant a bank guarantee.
+
+## Legal Principles Involved
+
+* **Relevant Statutes and Provisions:** 
+    * **Arbitration and Conciliation Act, 1996:**
+        * Section 9:  Provides for interim measures, including securing the amount in dispute, by a Court before or during arbitration proceedings. 
+    * **Code of Civil Procedure, 1908 (CPC):**
+        * Order XXXVIII Rule 5: Deals with attachment before judgment and lays out specific grounds for its application.
+
+* **Precedents Cited:** 
+    * **Sanghi Industries Ltd. v. Ravin Cables Ltd. & Anr. [2022 SCC Online SC 1329]:** Emphasized that Order XXXVIII Rule 5 of the CPC must be satisfied before granting an order under Section 9 of the Act of 1996.
+    * **Essar House Private Ltd. v. Arcelor Mittal Nippon Steel India Ltd. [(2022) SCC Online 1219]:**  Held that  technicalities of the CPC should not prevent courts from securing justice and that a "strong possibility of diminution of assets" could suffice for granting interim protection.
+    * **Dr. Vivek Jain v. Prepladder Private Ltd., 2023 SCC OnLine Del 6370:** Distinguished Essar House (supra),  emphasizing that Sanghi Industries (supra) being a later judgment would prevail.
+    * **Arvind Constructions Co. (P) Ltd. versus Kalinga Mining Corporation, (2007) 6 SCC 798:** Emphasized that the principles of the Specific Relief Act and general rules of procedure apply when exercising power under Section 9 of the Act of 1996.
+    * **Adhunik Steels Ltd. versus Orissa Manganese and Minerals (P) Ltd., (2007) 7 SCC 125:**  Affirmed that principles governing interim injunctions (balance of convenience, prima facie case, irreparable injury, etc.) are relevant when applying Section 9 of the Act of 1996.
+    * **Raman Tech & Process Engg. Co. and Another versus Solanki Traders, (2008) 2 SCC 302:**  Highlighted that the power under Order XXXVIII Rule 5 of the CPC should be exercised sparingly and not to convert unsecured debts into secured debts.
+    * **Tahal Consulting Engineers India Pvt. Ltd. versus Promax Power Ltd., 2023 SCC OnLine Del 2069:** Affirmed that while not strictly bound by the CPC, the principles of Order XXXVIII Rule 5 should be considered when invoking attachment before award.
+
+* **Legal Doctrines:** 
+    * **Balance of Convenience:** The court must weigh the consequences of granting or denying interim relief.
+    * **Prima Facie Case:** The applicant must establish a plausible and credible claim.
+    * **Irreparable Injury:**  The applicant must demonstrate the potential for significant harm if relief is not granted.
+
+## Arguments Presented
+
+* **Appellant’s Argument:** 
+    * The Respondent failed to prove the necessity of attachment before judgment under Order XXXVIII Rule 5 of the CPC.
+    * The Respondent was seeking to prioritize their unsecured debt over other creditors, which is impermissible under Section 9 of the Act of 1996.
+    * The Appellant's financial difficulties are not grounds for granting a bank guarantee, especially as restructuring efforts are underway.
+    * The Appellant is not in a position to furnish a bank guarantee due to its financial condition.
+
+* **Respondent’s Argument:** 
+    * The Appellant acknowledged the outstanding dues and had received full payment from NHAI for the work completed.
+    * The Appellant's financial status, including significant losses, negative balance sheet, and pending insolvency proceedings, raised serious concerns about the ability to pay. 
+    *  The Appellant's actions threatened the Respondent's ability to recover their dues through arbitration.
+    * The dispute was arbitrable and covered by the arbitration clause in the contract.
+
+## Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The Appellant admitted to the outstanding dues and payment certificates.
+    * The Appellant's financial condition was precarious, with significant losses and multiple insolvency proceedings pending.
+    * The Respondent demonstrated a credible claim and potential harm due to the Appellant's financial situation.
+
+* **Interpretation of Law:**
+    * The Court thoroughly reviewed relevant precedents, particularly Essar House (supra) and Sanghi Industries (supra), to determine the application of Order XXXVIII Rule 5 of the CPC in Section 9 of the Act of 1996 proceedings.
+    * The court emphasized that while not strictly bound by CPC provisions, the principles of Order XXXVIII Rule 5 should guide the Court's decision in such cases.
+    * The court acknowledged that a "strong possibility of diminution of assets" could suffice, but this should not be interpreted broadly, and actual evidence of intended asset dissipation or removal would be essential.
+    *  The Court reiterated the importance of "balance of convenience," considering the potential harm to both parties if interim protection were granted or denied.
+
+* **Application of Law:** 
+    * The court found that the Respondent had established a strong prima facie case due to the admitted outstanding dues and the Appellant's financial difficulties.
+    * The court deemed the financial situation of the Appellant as a serious threat to the Respondent's ability to recover their dues. 
+    * The court concluded that the "balance of convenience" favored granting interim protection to secure the Respondent's interest in the arbitration proceedings.
+
+## Judgment
+
+* **Final Decision:**  The First Appeal was dismissed.
+* **Relief Granted:** The order of the Commercial Court granting the interim protection (bank guarantee) under Section 9 of the Act of 1996 was upheld. 
+* **Orders:** The Appellant was directed to furnish a bank guarantee of Rs.29,61,159/- within 30 days from the date of the order.
+
+## Implications
+
+* **Impact on Law:** This judgment reaffirms the importance of  considering the principles of Order XXXVIII Rule 5 of the CPC when applying Section 9 of the Act of 1996, even if not strictly bound by those rules.
+* **Future Relevance:** This case provides guidance on the application of Section 9 of the Act of 1996 for securing the amount in dispute during arbitration, especially where financial instability of one party poses a risk to the other party's recovery.
+* **Broader Context:**  This case highlights the challenges faced by creditors in recovering debts from financially distressed companies and underscores the significance of interim protection measures to ensure the effectiveness of arbitration proceedings.
+
+## Summary Points
+
+* **Key Takeaways:**
+    *  While technicalities of CPC should not be emphasized over the pursuit of justice, the principles of Order XXXVIII Rule 5 should be considered when granting interim protection under Section 9 of the Act of 1996.
+    *  "Strong possibility of diminution of assets" does not simply mean financial difficulty but requires evidence of a potential attempt to dispose of assets to avoid paying a future award. 
+    * The court will consider the "balance of convenience" in granting interim protection and ensure the effectiveness of the arbitration process.
+
+## References
+
+* **Citations:**  
+    * Arbitration and Conciliation Act, 1996
+    * Code of Civil Procedure, 1908 (CPC)
+    * Sanghi Industries Ltd. v. Ravin Cables Ltd. & Anr. [2022 SCC Online SC 1329]
+    * Essar House Private Ltd. v. Arcelor Mittal Nippon Steel India Ltd. [(2022) SCC Online 1219]
+    * Dr. Vivek Jain v. Prepladder Private Ltd., 2023 SCC OnLine Del 6370
+    * Arvind Constructions Co. (P) Ltd. versus Kalinga Mining Corporation, (2007) 6 SCC 798
+    * Adhunik Steels Ltd. versus Orissa Manganese and Minerals (P) Ltd., (2007) 7 SCC 125
+    * Raman Tech & Process Engg. Co. and Another versus Solanki Traders, (2008) 2 SCC 302
+    * Tahal Consulting Engineers India Pvt. Ltd. versus Promax Power Ltd., 2023 SCC OnLine Del 2069
+
+* **Further Reading:**  
+    *  Research relevant case law on Section 9 of the Act of 1996 and its application to interim protection orders.
+    * Review scholarly articles on the principles of Order XXXVIII Rule 5 of the CPC and their interplay with arbitration proceedings. 

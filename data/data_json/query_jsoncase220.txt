@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A company is appealing an arbitral tribunal's decision but filed it in the wrong court. They request the court to transfer the appeal to the correct jurisdiction. Can the court transfer the appeal, even though it doesn't have jurisdiction to hear it?",
+    "Legal Principles": "Section 24 of the Code of Civil Procedure (C.P.C.) regulates the transfer of cases between courts. Section 24(5) of C.P.C. specifically addresses the transfer of suits or proceedings from a court lacking jurisdiction to a competent court. The question is whether 'proceeding' includes appeals under this section.",
+    "Relevant Sections": "Section 24 of C.P.C., particularly Section 24(5).",
+    "Context": "Jurisdiction in civil matters, transfer of cases, interpretation of 'proceeding' in legal context."
+  },
+  {
+    "Query": "An individual is appealing a lower court's decision, but they missed the deadline to file the appeal.  They are seeking an extension of time from the higher court. Does the court have the power to extend the appeal deadline in this case?",
+    "Legal Principles": "The Limitation Act governs the time limits for filing legal actions and appeals. Section 14 of the Limitation Act deals with the exclusion of time spent in pursuing legal remedies when a prior action was dismissed due to lack of jurisdiction. This principle can be relevant when determining if the delay in filing an appeal should be condoned.",
+    "Relevant Sections": "Section 14 of the Limitation Act",
+    "Context": "Condonation of delay, limitation periods, appeal deadlines, jurisdiction."
+  },
+  {
+    "Query": "Two parties entered into a contract that includes an arbitration clause. After an arbitral award is issued, one party seeks to challenge it in court. Does the court have jurisdiction to review the arbitral award, or is it bound by the arbitration agreement?",
+    "Legal Principles": "The Arbitration and Conciliation Act, 1996 governs arbitration proceedings in India. Section 34 of this Act outlines the grounds under which a court can review an arbitral award.  The scope of judicial review of arbitral awards is limited. Courts are generally expected to uphold the arbitral award unless there are serious procedural or legal flaws.",
+    "Relevant Sections": "Section 34 of the Arbitration and Conciliation Act, 1996",
+    "Context": "Arbitration, arbitral awards, judicial review, contract law."
+  },
+  {
+    "Query": "A business is seeking a court order to compel another party to participate in arbitration as per their contract. What are the legal requirements for a court to grant such an order?",
+    "Legal Principles": "The Arbitration and Conciliation Act, 1996 provides the legal framework for enforcing arbitration agreements. Section 8 of the Act outlines the process for obtaining a court order to compel arbitration. This involves demonstrating the existence of a valid arbitration agreement and a dispute falling within the scope of that agreement.",
+    "Relevant Sections": "Section 8 of the Arbitration and Conciliation Act, 1996",
+    "Context": "Arbitration, enforcement of contracts, court orders, specific performance."
+  },
+  {
+    "Query": "A party is challenging the validity of an arbitral award based on alleged bias on the part of the arbitrator. Does this argument have merit under Indian law?",
+    "Legal Principles": "The Arbitration and Conciliation Act, 1996 addresses the issue of bias in arbitration. Section 12 of the Act outlines grounds for challenging an arbitrator's appointment, including bias. Courts scrutinize claims of bias to ensure procedural fairness and integrity in arbitration proceedings.",
+    "Relevant Sections": "Section 12 of the Arbitration and Conciliation Act, 1996",
+    "Context": "Arbitration, impartiality of arbitrators, grounds for challenging awards, due process."
+  },
+  {
+    "Query": "A company is facing a lawsuit for breach of contract. The contract contains a choice of law clause specifying a foreign jurisdiction. Should the Indian court dismiss the case based on this clause?",
+    "Legal Principles": "The principle of 'forum non conveniens' allows courts to decline jurisdiction in cases where another jurisdiction is more appropriate.  This principle is often considered in the context of choice of law clauses.  Indian courts have discretion in applying this doctrine, considering factors such as the convenience of witnesses and parties, the location of evidence, and the applicable law.",
+    "Relevant Sections": "No specific section, but relevant case law on forum non conveniens and choice of law clauses.",
+    "Context": "Jurisdiction, choice of law, international litigation, forum non conveniens."
+  },
+  {
+    "Query": "A landlord is seeking to evict a tenant for non-payment of rent. The tenant argues they are protected by a government scheme providing rent relief.  Can the landlord proceed with the eviction?",
+    "Legal Principles": "The legal framework for landlord-tenant relationships is governed by specific laws, such as the Rent Control Act in different states. These laws may provide tenant protections and limitations on landlord's rights to evict.  The court needs to determine the applicability of such protections and any potential exceptions.",
+    "Relevant Sections": "Relevant sections of the Rent Control Act or other applicable legislation governing landlord-tenant relations in the specific jurisdiction.",
+    "Context": "Landlord-tenant law, eviction proceedings, government schemes, rent relief, property rights."
+  },
+  {
+    "Query": "A company is seeking a court order to restrain another company from using a similar trademark. What are the legal principles for determining trademark infringement?",
+    "Legal Principles": "The Trade Marks Act, 1999 governs the registration and protection of trademarks in India. This Act defines infringement and outlines the criteria for determining if one trademark is confusingly similar to another.  The court considers factors such as the likelihood of confusion, the strength of the mark, and the nature of the goods or services involved.",
+    "Relevant Sections": "The Trade Marks Act, 1999, particularly provisions related to infringement.",
+    "Context": "Trademark law, infringement, passing off, intellectual property rights."
+  },
+  {
+    "Query": "Two parties are disputing the ownership of a piece of land. One party claims possession based on adverse possession, while the other relies on a registered title deed. How does the court adjudicate this dispute?",
+    "Legal Principles": "The Transfer of Property Act, 1882 deals with the transfer of ownership of property. The concept of adverse possession allows a person to acquire ownership of land through continuous, open, and exclusive possession for a certain period.  The court needs to analyze the evidence presented by both parties to determine if the requirements for adverse possession have been met.",
+    "Relevant Sections": "The Transfer of Property Act, 1882, particularly sections dealing with adverse possession and registration of title."
+    "Context": "Property law, land ownership, adverse possession, registration of titles, property disputes."
+  },
+  {
+    "Query": "A construction company is seeking to enforce a lien on a property for unpaid work. Does the court have the power to enforce this lien, and what are the legal requirements?",
+    "Legal Principles": "The law governing liens, such as the Indian Contract Act, 1872, and specific state legislation, provides a mechanism for securing payment for work done on property. The court will examine the validity of the lien and the steps taken to perfect it.  The court also considers the rights of all parties involved, including the property owner.",
+    "Relevant Sections": "Relevant sections of the Indian Contract Act, 1872, or other applicable legislation dealing with liens."
+    "Context": "Contract law, lien enforcement, construction law, property rights."
+  }
+]
+```

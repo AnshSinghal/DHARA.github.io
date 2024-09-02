@@ -1,0 +1,96 @@
+##  Case Title
+
+* **Case Name:** S.D. Containers Indore vs. M/S. Mold Tek Packaging Ltd.
+* **Court:** Supreme Court of India
+* **Date of Judgment:** 1st December 2020
+* **Citation:** AIR 2021 SUPREME COURT 424, AIRONLINE 2020 SC 902
+
+## Background and Context
+
+* **Brief Overview:**  S.D. Containers Indore (Appellant) filed a suit against M/S. Mold Tek Packaging Ltd. (Respondent) seeking a declaration and permanent injunction to prevent them from copying the Respondent's registered designs for containers and lids. The Appellant filed a counterclaim seeking cancellation of the designs on grounds of lack of originality. The Commercial Court transferred the suit to the Calcutta High Court under Section 22(4) of the Design Act, 2000, but the High Court reversed this decision, holding that the Commercial Court in Indore had jurisdiction. The Appellant appealed this decision to the Supreme Court.
+* **Key Issues:** 
+    * Whether the Commercial Court at Indore had jurisdiction to hear the case under the Commercial Courts Act, 2015.
+    * Whether the transfer of the suit to the High Court under Section 22(4) of the Design Act, 2000 was valid, considering the High Court's jurisdiction to hear appeals against the Controller's decisions on design cancellation.
+
+## Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * **Design Act, 2000:**  Sections 4, 19, 22(4)
+    * **Commercial Courts Act, 2015:** Sections 2(c)(xvii), 3, 4, 5, 7, 21
+* **Precedents Cited:**
+    * **Godrej Sara Lee Ltd. vs Reckitt Benckiser Australia Pty. Ltd. and another (2010) 2 SCC 535:** This case established that the Controller has exclusive jurisdiction to entertain applications for cancellation of design registration, and the High Court's jurisdiction is limited to appeals.
+    * **M/s Astral Polytechnic Limited v. M/s Ashirwad Pipes Private Ltd. (ILR 2008 Kar 2533):** This case dealt with the interpretation of Section 22(4) of the Design Act, 2000, emphasizing the mandatory nature of transferring a suit to the High Court when a defense for revocation of registration is raised.
+    * **R. N. Gupta and Co. Ltd. Jasola New Delhi v. M/s Action Construction Equipments Ltd. Dudhohla and 3 others (2016 SCC OnLine All 975):**  This case further clarified the role of the District Court in transferring suits to the High Court under Section 22(4), stating they can only verify if a ground for revocation is raised.
+    * **M/s. Escorts Construction Equipment Ltd. v. M/s Gautam Engineering Company and another (AIR 2010 J&K 13):**  This case affirmed the necessity of transferring suits involving revocation of design registration to the High Court.
+    * **Salutri Remedies v. Unim Pharma Lab Pvt. Ltd (2009 SCC OnLine Guj 9488):** This case dealt with the transfer of suits under the 1911 Act, relevant to understanding the principle of mandatory transfer in cases of design revocation.
+    * **Standard Glass Beads Factory and another v. Shri Dhar and Ors (AIR 1961 All 101):** This case provided insights into the meaning of “shall be transferred” in the context of statutory provisions.
+    * **Whirlpool of India v. Videocon Industries Ltd. (2014 SCC OnLine Bom 565):** This case clarified the distinct nature of Section 19 and 22 of the Design Act, 2000, emphasizing the availability of separate remedies for cancellation of registration and infringement.
+* **Legal Doctrines:**
+    * **Jurisdiction of Courts:**  The Court examined the respective jurisdictions of the Commercial Court, the High Court, and the Controller under the relevant Acts.
+    * **Interpretation of Statutes:**  The Court interpreted the provisions of the Design Act, 2000 and the Commercial Courts Act, 2015, paying particular attention to the use of "shall be transferred" in Section 22(4).
+    * **Overriding Effect of Special Enactments:** The Court considered the overriding effect of the Commercial Courts Act, 2015, over other laws, as per Section 21.
+    * **Ministerial Act:** The Court recognized the transfer of the suit as a ministerial act when a prayer for cancellation of registration is made.
+
+## Arguments Presented
+
+* **Appellant's Argument:**
+    * The Commercial Court at Indore was wrongly deemed competent to hear the case, as the suit should have been transferred to the High Court under Section 22(4) of the Design Act, 2000.
+    * The High Court erred in holding that the Commercial Courts Act, 2015 overruled the transfer provision in the Design Act, 2000.
+    * The High Court wrongly relied on Godrej Sara Lee, as that case dealt with appeals against the Controller's decisions, not suits for infringement where a revocation defense is raised.
+    * The precedents in Astral Polytechnic, R. N. Gupta, and Escorts Construction Equipment supported the mandatory transfer of suits to the High Court when revocation of registration is sought.
+* **Respondent's Argument:**
+    * The Commercial Court at Indore was the appropriate forum, as the Commercial Courts Act, 2015, in its overriding effect, provided for the resolution of commercial disputes, including design matters, at the District Level.
+    * Godrej Sara Lee supported the High Court's decision, as it established that the High Court's jurisdiction is limited to appeals against the Controller's decisions.
+    * The Appellant's reliance on cases like Astral Polytechnic was misplaced, as these cases dealt with the transfer of suits to the High Court in areas where the High Court has original jurisdiction.
+
+## Court's Analysis and Reasoning
+
+* **Key Findings:**
+    * The Commercial Courts Act, 2015, did not specifically address the transfer of suits under Section 22(4) of the Design Act, 2000, in High Courts without ordinary original jurisdiction.
+    * The overriding effect of the Commercial Courts Act, 2015, applied only to inconsistent provisions, and no such inconsistency existed regarding the transfer mandate under Section 22(4).
+    * The Godrej Sara Lee case dealt with a different situation, involving appeals against the Controller's orders, not suits for infringement with a revocation defense.
+    * The precedents cited by the Appellant were relevant, as they highlighted the mandatory nature of transferring suits involving a plea for cancellation of registration to the High Court.
+* **Interpretation of Law:**
+    * The Court interpreted Section 22(4) of the Design Act, 2000, as a mandatory provision requiring transfer of the suit to the High Court when a revocation defense is raised.
+    * The Court recognized the distinction between the Controller's jurisdiction to entertain cancellation applications and the High Court's jurisdiction to decide suits involving revocation defenses.
+    * The Court interpreted the term "shall be transferred" as implying a ministerial act by the lower court.
+* **Application of Law:**
+    * The Court found that the High Court had erred in relying on Godrej Sara Lee and in interpreting the Commercial Courts Act, 2015, as overriding the transfer provision in the Design Act, 2000.
+    * The Court held that the transfer of the suit to the High Court under Section 22(4) was mandatory, even though the High Court did not have ordinary original jurisdiction.
+    * The Court emphasized that the jurisdiction to determine revocation of a design registration lay with the High Court, not the Commercial Court.
+
+## Judgment
+
+* **Final Decision:** The Supreme Court set aside the High Court's order and remitted the matter to the High Court of Madhya Pradesh, Indore Bench.
+* **Relief Granted:**  The Supreme Court did not grant any specific relief, but remitted the case for further proceedings in accordance with law.
+* **Orders:** The Supreme Court directed the High Court of Madhya Pradesh, Indore Bench, to decide the suit in accordance with law.
+
+## Implications
+
+* **Impact on Law:** The judgment reinforces the mandatory nature of transferring suits involving a plea for cancellation of design registration to the High Court under Section 22(4) of the Design Act, 2000. It also clarifies the distinction between the Controller's jurisdiction and the High Court's jurisdiction in such cases.
+* **Future Relevance:** This judgment will be relevant in future cases where a defense for revocation of design registration is raised in infringement suits.
+* **Broader Context:** The judgment underscores the importance of correctly identifying the relevant jurisdiction and procedural requirements in intellectual property disputes.
+
+## Summary Points
+
+* The Supreme Court held that the Commercial Court at Indore did not have jurisdiction to hear the case.
+* The transfer of the suit to the High Court under Section 22(4) of the Design Act, 2000, was mandatory, even though the High Court did not have ordinary original jurisdiction.
+* The Commercial Courts Act, 2015, did not supersede the transfer provision in the Design Act, 2000.
+
+## References
+
+* **Design Act, 2000:** [Full Citation]
+* **Commercial Courts Act, 2015:** [Full Citation]
+* **Godrej Sara Lee Ltd. vs Reckitt Benckiser Australia Pty. Ltd. and another (2010) 2 SCC 535:** [Full Citation]
+* **M/s Astral Polytechnic Limited v. M/s Ashirwad Pipes Private Ltd. (ILR 2008 Kar 2533):** [Full Citation]
+* **R. N. Gupta and Co. Ltd. Jasola New Delhi v. M/s Action Construction Equipments Ltd. Dudhohla and 3 others (2016 SCC OnLine All 975):** [Full Citation]
+* **M/s. Escorts Construction Equipment Ltd. v. M/s Gautam Engineering Company and another (AIR 2010 J&K 13):** [Full Citation]
+* **Salutri Remedies v. Unim Pharma Lab Pvt. Ltd (2009 SCC OnLine Guj 9488):** [Full Citation]
+* **Standard Glass Beads Factory and another v. Shri Dhar and Ors (AIR 1961 All 101):** [Full Citation]
+* **Whirlpool of India v. Videocon Industries Ltd. (2014 SCC OnLine Bom 565):** [Full Citation]
+
+## Further Reading
+
+* **Design Act, 2000:** [Official Website/Legal Database]
+* **Commercial Courts Act, 2015:** [Official Website/Legal Database]
+* **Cases dealing with Section 22(4) of the Design Act, 2000:** [Legal Database search]

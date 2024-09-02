@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "Essar Bulk Terminal Limited (EBTL) and ArcelorMittal Nippon Steel India Limited (AMNS) have a cargo handling agreement (CHA) that includes a clause for USD denominated tariff. AMNS is refusing to pay the USD denominated tariff, arguing it's 'onerous' and that the contract should revert to the original INR tariff. Can the EBTL enforce the USD denominated tariff under the CHA, considering the AMNS's objections? ",
+    "Legal Principles": "Contractual interpretation, enforceability of contracts, party autonomy, natural hedge, kompetenz-competence, Arbitration and Conciliation Act, 1996 (Arbitration Act), Section 9 (Interim measures), Section 17 (Interim measures by arbitral tribunal), Section 37 (Appeals from interim orders), Specific Relief Act, 1963.",
+    "Relevant Sections": "Section 9 of the Arbitration Act, Section 17 of the Arbitration Act, Section 37 of the Arbitration Act, Section 20 of the Specific Relief Act.",
+    "Context": "Jurisdiction: India; Case type: Commercial dispute, arbitration, appeal from interim order."
+  },
+  {
+    "Query": "A real estate developer has entered into a contract with a buyer for the sale of a property. The contract has a clause for escalation of the price based on a specific index. The developer claims that the index has increased significantly, but the buyer disputes the increase. The developer seeks to enforce the escalation clause and the buyer seeks to challenge the index's validity. What are the legal principles that govern the application of escalation clauses in contracts?",
+    "Legal Principles": "Contractual interpretation, enforceability of contracts, validity of clauses, escalation clauses, indexation, good faith, reasonable reliance, burden of proof, specific performance, remedies for breach of contract.",
+    "Relevant Sections": "Indian Contract Act, 1872 (Contract Act), Specific Relief Act, 1963.",
+    "Context": "Jurisdiction: India; Case type: Contractual dispute, specific performance, interpretation of contract."
+  },
+  {
+    "Query": "A company has a license agreement with a technology provider. The license agreement has a clause for termination based on certain events, including breach of contract. The company alleges that the technology provider has breached the agreement, and seeks to terminate the agreement based on this alleged breach. The technology provider disputes the breach and seeks to continue the agreement. What are the legal principles governing the termination of license agreements for breach of contract?",
+    "Legal Principles": "Contractual interpretation, termination of contracts, breach of contract, material breach, substantial performance, notice of default, right to cure, remedies for breach of contract, specific performance, injunction.",
+    "Relevant Sections": "Indian Contract Act, 1872 (Contract Act), Specific Relief Act, 1963.",
+    "Context": "Jurisdiction: India; Case type: Contractual dispute, termination of contract, breach of contract."
+  },
+  {
+    "Query": "A software company has developed a new software product and entered into a non-disclosure agreement (NDA) with a potential investor. The NDA prohibits the company from disclosing confidential information to third parties. The investor later accuses the company of disclosing confidential information to a competitor, breaching the NDA. The company denies the allegation and argues that the information disclosed was not confidential. What are the legal principles governing the enforceability of NDAs and what constitutes confidential information?",
+    "Legal Principles": "Contractual interpretation, non-disclosure agreements (NDAs), confidentiality, trade secrets, confidential information, breach of contract, remedies for breach of contract, injunction, damages.",
+    "Relevant Sections": "Indian Contract Act, 1872 (Contract Act), Specific Relief Act, 1963.",
+    "Context": "Jurisdiction: India; Case type: Contractual dispute, breach of contract, confidentiality."
+  },
+  {
+    "Query": "A manufacturing company has a supply agreement with a raw material supplier. The supply agreement has a clause for price adjustment based on fluctuations in the market price of the raw material. The supplier claims that the market price has increased significantly, but the manufacturer disputes the increase and alleges that the supplier is manipulating the market. The manufacturer seeks to challenge the price adjustment clause and the supplier seeks to enforce it. What are the legal principles governing the interpretation and enforceability of price adjustment clauses in supply agreements?",
+    "Legal Principles": "Contractual interpretation, price adjustment clauses, market fluctuations, good faith, reasonable reliance, burden of proof, specific performance, remedies for breach of contract.",
+    "Relevant Sections": "Indian Contract Act, 1872 (Contract Act), Specific Relief Act, 1963.",
+    "Context": "Jurisdiction: India; Case type: Contractual dispute, price adjustment clause, interpretation of contract."
+  },
+  {
+    "Query": "A company has been accused of infringing a patent held by another company. The patent holder seeks an injunction to prevent the company from continuing to manufacture and sell the allegedly infringing product. The accused company denies infringement and argues that the patent is invalid. What are the legal principles governing patent infringement and the grant of injunctions in patent cases?",
+    "Legal Principles": "Patent infringement, validity of patents, scope of patent claims, injunctions, balance of convenience, irreparable harm, remedies for patent infringement, damages.",
+    "Relevant Sections": "The Patents Act, 1970.",
+    "Context": "Jurisdiction: India; Case type: Intellectual property dispute, patent infringement, injunction."
+  },
+  {
+    "Query": "Two companies have entered into a joint venture agreement to develop a new product. The agreement has a clause for dispute resolution through arbitration. One of the companies alleges that the other company has breached the agreement and seeks to terminate the joint venture. The breaching company disputes the allegation and invokes the arbitration clause. Can the company seeking to terminate the joint venture bypass the arbitration clause and proceed with a lawsuit?",
+    "Legal Principles": "Joint venture agreements, arbitration clauses, enforceability of arbitration clauses, party autonomy, Kompetenz-competence, Arbitration and Conciliation Act, 1996 (Arbitration Act), Section 9 (Interim measures), Section 17 (Interim measures by arbitral tribunal).",
+    "Relevant Sections": "Section 9 of the Arbitration Act, Section 17 of the Arbitration Act.",
+    "Context": "Jurisdiction: India; Case type: Contractual dispute, joint venture, arbitration, enforceability of arbitration clause."
+  },
+  {
+    "Query": "A shareholder of a company is alleging that the board of directors has acted in a manner that is detrimental to the interests of the company and its shareholders. The shareholder seeks to file a derivative action on behalf of the company to hold the directors accountable. What are the legal principles governing derivative actions and the requirements for bringing such an action?",
+    "Legal Principles": "Derivative actions, shareholder rights, fiduciary duty of directors, corporate governance, standing, demand requirement, futility doctrine, remedies for corporate wrongdoing, damages, injunction.",
+    "Relevant Sections": "The Companies Act, 2013.",
+    "Context": "Jurisdiction: India; Case type: Corporate law, shareholder rights, derivative action."
+  },
+  {
+    "Query": "A company is facing financial difficulties and is considering filing for insolvency. The company has several creditors, including secured and unsecured creditors. What are the legal principles governing insolvency proceedings and the priority of creditors in such proceedings?",
+    "Legal Principles": "Insolvency proceedings, corporate insolvency resolution process (CIRP), liquidation, creditors' rights, secured creditors, unsecured creditors, priority of claims, distribution of assets, stay of proceedings.",
+    "Relevant Sections": "The Insolvency and Bankruptcy Code, 2016 (IBC).",
+    "Context": "Jurisdiction: India; Case type: Corporate law, insolvency, creditors' rights."
+  },
+  {
+    "Query": "A company has been accused of unfair trade practices by its competitor. The competitor seeks an injunction to prevent the company from continuing to engage in these practices. What are the legal principles governing unfair trade practices and the grant of injunctions in such cases?",
+    "Legal Principles": "Unfair trade practices, competition law, misleading advertisements, deceptive marketing, price discrimination, predatory pricing, injunctions, balance of convenience, irreparable harm, remedies for unfair trade practices, damages.",
+    "Relevant Sections": "The Competition Act, 2002.",
+    "Context": "Jurisdiction: India; Case type: Competition law, unfair trade practices, injunction."
+  }
+]
+```

@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A construction company, based in Delhi, has filed a petition under Section 9 of the Arbitration and Conciliation Act, 1996, against a government agency, seeking an injunction to stop the agency from awarding a contract to another company. The government agency's principal office is in Mumbai, but it has a regional office in Delhi.  The construction contract involves building a bridge in Kolkata. Which court has jurisdiction to hear the case?",
+    "Legal Principles": "Jurisdiction in arbitration cases is determined by the court that would have jurisdiction if the dispute were a civil suit. Section 20 of the Code of Civil Procedure (CPC) determines jurisdiction based on the defendant's residence, business operations, or where the cause of action arises. Corporations are deemed to carry on business at their principal office and, in respect of any cause of action arising at a place where they have a subordinate office, at such place.",
+    "Relevant Sections": "Section 9 of the Arbitration and Conciliation Act, 1996; Section 20 of the Code of Civil Procedure (CPC)",
+    "Context": "Jurisdiction in arbitration cases, application of Section 20 CPC to determine jurisdiction, corporate defendants, cause of action"
+  },
+  {
+    "Query": "A software company in Bangalore is in a dispute with a client in Chennai over the implementation of a software project. The contract includes an arbitration clause specifying arbitration in Mumbai. The Bangalore company files a petition under Section 9 of the Act in Bangalore seeking an injunction against the client. Does the Bangalore court have jurisdiction?",
+    "Legal Principles": "The court's jurisdiction in Section 9 applications is determined by the court that would have jurisdiction in a civil suit. The cause of action, not the location of the arbitration, determines jurisdiction. ",
+    "Relevant Sections": "Section 9 of the Arbitration and Conciliation Act, 1996; Section 20 of the Code of Civil Procedure (CPC)",
+    "Context": "Jurisdiction in arbitration cases, cause of action determining jurisdiction, location of arbitration vs. cause of action"
+  },
+  {
+    "Query": "A real estate developer based in Hyderabad is in a dispute with a property buyer from Delhi. The dispute arose from a contract signed in Delhi for a property in Goa. The contract has an arbitration clause specifying arbitration in Mumbai. The buyer filed a Section 9 petition in Delhi seeking an injunction against the developer. Does the Delhi court have jurisdiction?",
+    "Legal Principles": "The court's jurisdiction in Section 9 applications is determined by the court that would have jurisdiction in a civil suit. The cause of action, in this case, likely arises in Delhi, where the contract was signed. ",
+    "Relevant Sections": "Section 9 of the Arbitration and Conciliation Act, 1996; Section 20 of the Code of Civil Procedure (CPC)",
+    "Context": "Jurisdiction in arbitration cases, cause of action arising where contract signed, location of property vs. cause of action"
+  },
+  {
+    "Query": "A pharmaceutical company with its headquarters in Kolkata has a manufacturing facility in Ahmedabad. A dispute arises with a supplier in Mumbai regarding the supply of raw materials. The contract includes an arbitration clause specifying arbitration in Delhi. The pharmaceutical company files a Section 9 petition in Ahmedabad seeking an injunction against the supplier. Does the Ahmedabad court have jurisdiction?",
+    "Legal Principles": "The court's jurisdiction in Section 9 applications is determined by the court that would have jurisdiction in a civil suit. The cause of action likely arises in Mumbai, where the supplier is based and the supply issue arose.",
+    "Relevant Sections": "Section 9 of the Arbitration and Conciliation Act, 1996; Section 20 of the Code of Civil Procedure (CPC)",
+    "Context": "Jurisdiction in arbitration cases, cause of action arising where supplier is based, location of manufacturing facility vs. cause of action"
+  },
+  {
+    "Query": "A music production company based in Mumbai is in a dispute with a musician from Bangalore over a contract signed in Mumbai. The contract contains an arbitration clause specifying arbitration in London. The musician files a Section 9 petition in Bangalore seeking an injunction against the music company. Does the Bangalore court have jurisdiction?",
+    "Legal Principles": "The court's jurisdiction in Section 9 applications is determined by the court that would have jurisdiction in a civil suit. The cause of action likely arises in Mumbai where the contract was signed, not in Bangalore where the musician resides.",
+    "Relevant Sections": "Section 9 of the Arbitration and Conciliation Act, 1996; Section 20 of the Code of Civil Procedure (CPC)",
+    "Context": "Jurisdiction in arbitration cases, cause of action arising where contract signed, location of musician vs. cause of action, international arbitration"
+  },
+  {
+    "Query": "A technology company in Hyderabad is in a dispute with a client in New York over the development of a mobile application. The contract has an arbitration clause specifying arbitration in Geneva. The technology company files a Section 9 petition in Hyderabad seeking an injunction against the client. Does the Hyderabad court have jurisdiction?",
+    "Legal Principles": "The court's jurisdiction in Section 9 applications is determined by the court that would have jurisdiction in a civil suit. The cause of action likely arises in New York, where the client is based and the development issue arose.",
+    "Relevant Sections": "Section 9 of the Arbitration and Conciliation Act, 1996; Section 20 of the Code of Civil Procedure (CPC)",
+    "Context": "Jurisdiction in arbitration cases, cause of action arising where client is based, international arbitration"
+  },
+  {
+    "Query": "A transportation company based in Chennai is in a dispute with a logistics company based in Kolkata over a contract for the transportation of goods from Delhi to Mumbai. The contract includes an arbitration clause specifying arbitration in Singapore. The transportation company files a Section 9 petition in Chennai seeking an injunction against the logistics company. Does the Chennai court have jurisdiction?",
+    "Legal Principles": "The court's jurisdiction in Section 9 applications is determined by the court that would have jurisdiction in a civil suit. The cause of action likely arises in Delhi, where the transportation of goods began, not in Chennai where the transportation company is based.",
+    "Relevant Sections": "Section 9 of the Arbitration and Conciliation Act, 1996; Section 20 of the Code of Civil Procedure (CPC)",
+    "Context": "Jurisdiction in arbitration cases, cause of action arising where transportation began, location of parties vs. cause of action, international arbitration"
+  },
+  {
+    "Query": "A manufacturing company in Pune is in a dispute with a distributor in Bangalore over the distribution of its products in Karnataka. The contract includes an arbitration clause specifying arbitration in London. The manufacturing company files a Section 9 petition in Pune seeking an injunction against the distributor. Does the Pune court have jurisdiction?",
+    "Legal Principles": "The court's jurisdiction in Section 9 applications is determined by the court that would have jurisdiction in a civil suit. The cause of action likely arises in Bangalore, where the distribution issue arose, not in Pune where the manufacturing company is based.",
+    "Relevant Sections": "Section 9 of the Arbitration and Conciliation Act, 1996; Section 20 of the Code of Civil Procedure (CPC)",
+    "Context": "Jurisdiction in arbitration cases, cause of action arising where distribution issue arose, location of parties vs. cause of action, international arbitration"
+  },
+  {
+    "Query": "A publishing company based in Mumbai is in a dispute with a freelance writer from Kolkata over a contract for writing a book. The contract includes an arbitration clause specifying arbitration in New York. The publishing company files a Section 9 petition in Mumbai seeking an injunction against the writer. Does the Mumbai court have jurisdiction?",
+    "Legal Principles": "The court's jurisdiction in Section 9 applications is determined by the court that would have jurisdiction in a civil suit. The cause of action likely arises in Mumbai where the publishing company is based and the contract was likely signed.",
+    "Relevant Sections": "Section 9 of the Arbitration and Conciliation Act, 1996; Section 20 of the Code of Civil Procedure (CPC)",
+    "Context": "Jurisdiction in arbitration cases, cause of action arising where publishing company is based, location of writer vs. cause of action, international arbitration"
+  },
+  {
+    "Query": "An insurance company with its head office in Delhi has a branch office in Chennai. A policyholder from Chennai files a claim for insurance benefits, which is denied. The policyholder files a Section 9 petition in Chennai seeking an injunction against the insurance company to prevent it from proceeding with arbitration in Delhi as per the policy terms. Does the Chennai court have jurisdiction?",
+    "Legal Principles": "The court's jurisdiction in Section 9 applications is determined by the court that would have jurisdiction in a civil suit. The cause of action likely arises in Chennai, where the policyholder resides and the claim was denied. The existence of a branch office of the insurance company in Chennai would likely give the Chennai court jurisdiction.",
+    "Relevant Sections": "Section 9 of the Arbitration and Conciliation Act, 1996; Section 20 of the Code of Civil Procedure (CPC)",
+    "Context": "Jurisdiction in arbitration cases, cause of action arising where policyholder resides, location of branch office and head office"
+  }
+]
+```

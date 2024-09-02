@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A real estate developer is suing a property owner for breach of contract. The developer claims the owner agreed to sell a parcel of land for a specific price, but the owner now refuses to sell. The owner argues that the agreement was not validly formed, and that the developer's claims are barred by the statute of frauds. ",
+    "Legal Principles": "Statute of frauds, contract formation, real estate contracts, breach of contract, specific performance",
+    "Relevant Sections": "Sections 2(1)(c)(vii), 12A of the Commercial Courts Act, 2015; Order VII Rule 11 of the Code of Civil Procedure",
+    "Context": "Jurisdiction: Commercial Court, Case type: Breach of contract, real estate dispute"
+  },
+  {
+    "Query": "A construction company is suing a homeowner for non-payment of invoices. The homeowner claims that the work was not completed to the agreed-upon standards and refuses to pay. The construction company claims that the homeowner's objections are unreasonable and that the work was completed according to the contract. ",
+    "Legal Principles": "Breach of contract, construction contracts, payment obligations, warranty claims, quantum meruit",
+    "Relevant Sections": "Order VII Rule 11 of the Code of Civil Procedure, Sections 2(1)(c)(vii), 12A of the Commercial Courts Act, 2015",
+    "Context": "Jurisdiction: Commercial Court, Case type: Breach of contract, construction dispute"
+  },
+  {
+    "Query": "A business owner is suing a former employee for breach of a non-compete agreement. The employee has started a new business that is directly competitive with the former employer's business. The employee argues that the non-compete agreement is unenforceable because it is overly broad and unreasonable. ",
+    "Legal Principles": "Non-compete agreements, restrictive covenants, employment contracts, enforceability, reasonableness",
+    "Relevant Sections": "Order VII Rule 11 of the Code of Civil Procedure, Sections 2(1)(c)(vii), 12A of the Commercial Courts Act, 2015",
+    "Context": "Jurisdiction: Commercial Court, Case type: Breach of contract, employment dispute"
+  },
+  {
+    "Query": "A tenant is suing a landlord for breach of the lease agreement. The landlord has failed to maintain the property, leading to unsafe conditions for the tenant. The landlord argues that the tenant has not provided adequate notice of the problems and that the landlord is not responsible for the conditions. ",
+    "Legal Principles": "Landlord-tenant law, lease agreements, duty to repair, warranty of habitability, implied covenants",
+    "Relevant Sections": "Order VII Rule 11 of the Code of Civil Procedure, Sections 2(1)(c)(vii), 12A of the Commercial Courts Act, 2015",
+    "Context": "Jurisdiction: Commercial Court, Case type: Breach of contract, landlord-tenant dispute"
+  },
+  {
+    "Query": "A manufacturer is suing a distributor for breach of a distribution agreement. The distributor has failed to meet its sales targets and has been selling products to unauthorized retailers. The distributor argues that the manufacturer has not provided adequate support and that the market conditions have been unfavorable. ",
+    "Legal Principles": "Distribution agreements, breach of contract, sales targets, exclusive distribution, termination clauses",
+    "Relevant Sections": "Order VII Rule 11 of the Code of Civil Procedure, Sections 2(1)(c)(vii), 12A of the Commercial Courts Act, 2015",
+    "Context": "Jurisdiction: Commercial Court, Case type: Breach of contract, commercial distribution dispute"
+  },
+  {
+    "Query": "A software developer is suing a client for non-payment of services. The client claims that the software does not meet the agreed-upon specifications and refuses to pay. The software developer argues that the software is fully functional and that the client's complaints are unfounded. ",
+    "Legal Principles": "Software contracts, intellectual property, breach of contract, payment obligations, acceptance testing",
+    "Relevant Sections": "Order VII Rule 11 of the Code of Civil Procedure, Sections 2(1)(c)(vii), 12A of the Commercial Courts Act, 2015",
+    "Context": "Jurisdiction: Commercial Court, Case type: Breach of contract, software development dispute"
+  },
+  {
+    "Query": "A small business owner is suing a bank for wrongful foreclosure. The bank claims that the business owner defaulted on its loan payments, but the business owner argues that the bank failed to properly notify them of the default and that the foreclosure was illegal. ",
+    "Legal Principles": "Foreclosure, mortgages, default, notice requirements, wrongful foreclosure, remedies",
+    "Relevant Sections": "Order VII Rule 11 of the Code of Civil Procedure, Sections 2(1)(c)(vii), 12A of the Commercial Courts Act, 2015",
+    "Context": "Jurisdiction: Commercial Court, Case type: Wrongful foreclosure, banking dispute"
+  },
+  {
+    "Query": "A shareholder is suing a corporation for breach of fiduciary duty. The shareholder claims that the corporation's directors have been making decisions that benefit themselves at the expense of the shareholders. The corporation argues that the directors have acted in good faith and in the best interests of the company. ",
+    "Legal Principles": "Corporate law, fiduciary duty, shareholder rights, director liability, business judgment rule",
+    "Relevant Sections": "Order VII Rule 11 of the Code of Civil Procedure, Sections 2(1)(c)(vii), 12A of the Commercial Courts Act, 2015",
+    "Context": "Jurisdiction: Commercial Court, Case type: Shareholder derivative action, corporate governance dispute"
+  },
+  {
+    "Query": "A supplier is suing a buyer for breach of a supply agreement. The buyer has failed to make timely payments for goods received. The buyer argues that the goods were defective and that they are entitled to a price reduction. ",
+    "Legal Principles": "Supply agreements, breach of contract, payment terms, warranties, remedies",
+    "Relevant Sections": "Order VII Rule 11 of the Code of Civil Procedure, Sections 2(1)(c)(vii), 12A of the Commercial Courts Act, 2015",
+    "Context": "Jurisdiction: Commercial Court, Case type: Breach of contract, commercial supply dispute"
+  },
+  {
+    "Query": "A franchisor is suing a franchisee for breach of a franchise agreement. The franchisee has failed to comply with the franchisor's operating standards and has been using the franchisor's trademarks without authorization. The franchisee argues that the franchisor has not provided adequate support and that the franchise agreement is overly restrictive. ",
+    "Legal Principles": "Franchise agreements, intellectual property, trademark infringement, breach of contract, termination clauses",
+    "Relevant Sections": "Order VII Rule 11 of the Code of Civil Procedure, Sections 2(1)(c)(vii), 12A of the Commercial Courts Act, 2015",
+    "Context": "Jurisdiction: Commercial Court, Case type: Breach of contract, franchise dispute"
+  }
+]
+```

@@ -1,0 +1,109 @@
+## Case Title
+
+•	Case Name: Chief Engineer (NH) PWD (Roads) vs. M/S BSC&C and C JV
+•	Court: High Court of Meghalaya
+•	Date of Judgment: 22nd April 2024
+•	Citation: CRP No. 2 of 2024
+
+## Background and Context
+
+•	**Brief Overview:** This case revolves around a dispute between the Chief Engineer (NH) PWD (Roads) (Petitioner) and M/S BSC&C and C JV (Respondent) regarding the jurisdiction of the Commercial Court, East Khasi Hills, Shillong, to extend the mandate of an arbitral tribunal under Section 29A of the Arbitration and Conciliation Act, 1996 (A&C Act). The arbitral tribunal, constituted in 2019, failed to render an award within the stipulated time. Subsequently, the Respondent applied for an extension of the mandate before the Commercial Court. The Petitioner challenged the jurisdiction of the Commercial Court, leading to this revision application before the High Court of Meghalaya.
+
+•	**Key Issues:**
+    * Whether the expression 'Court' in Section 29A of the A&C Act refers to the High Court or the Principal Civil Court of a district.
+    * Whether the Commercial Court, as the Principal Civil Court, has the jurisdiction to extend the mandate of an arbitral tribunal and potentially substitute arbitrators under Section 29A(6) of the A&C Act.
+
+## Legal Principles Involved
+
+•	**Relevant Statutes and Provisions:**
+    * **Arbitration and Conciliation Act, 1996 (A&C Act):**
+        * Section 2(1)(e): Defines "Court" for domestic and international commercial arbitration.
+        * Section 11: Deals with appointment of arbitrators by the High Court or Supreme Court.
+        * Section 29A: Deals with the time limit for an arbitral award and the power of the Court to extend the mandate.
+    * **Commercial Courts Act:**
+        * Order 7 Rule 11 CPC
+
+•	**Precedents Cited:**
+    * DDA v. Tara Chand Sumit Construction Co. (2020 SCC Online Del 2501)
+    * Cabra Instalaciones Y Servicios vs. Maharashtra State Electricity Distribution Co. Ltd. (2019 SCC OnLine Bom 1437)
+    * A'Xykno Capital Services Private Ltd. etc. vs. State of U.P. etc. (Neutral Citation No. - 2023:AHC-LKO:37194)
+    * Aplus Projects and Technology (P.) Ltd. vs. Oil India Ltd. (2020) 1 Guwahati Law Reports 99
+    * M/s URC Construction (Pvt.) Ltd. vs. M/s BEML Ltd. (2017 SCC OnLine Ker 20520)
+    * Nimet Resources Inc. and Anr. vs. Essar Steels Limited (2009) 17 SCC 313
+    * Garhwal Mandal Vikas Nigam Limited vs. Krishna Travel Agency (2008) 6 SCC 741
+    * Indian Farmers Fertilizers Cooperative Limited vs. Manish Engineering Enterprises (2022 SCC OnLine All 150)
+    * Magnum Opus IT consulting Private Limited vs. Artcad Systems (2022) SCC OnLine Bom 2861
+
+•	**Legal Doctrines:**
+    * **Interpretation of Statutes:** The court relied on principles of textual and contextual interpretation, emphasizing the use of the phrase "unless the context otherwise requires" in Section 2 of the A&C Act.
+    * **Purposive Interpretation:** The court aimed to interpret the law in a way that aligns with the overall purpose and objectives of the statute.
+    * **Jurisdiction:** The court analyzed the specific jurisdiction of the Commercial Court, the High Court, and the Supreme Court in relation to appointing and substituting arbitrators under the A&C Act.
+
+## Arguments Presented
+
+•	**Plaintiff's Argument:**
+    * The Petitioner argued that the term "Court" in Section 29A of the A&C Act refers to the High Court, as the power of extending the mandate is intertwined with the power of appointing arbitrators, which is vested with the High Court under Section 11(6) of the A&C Act.
+    * They contended that Section 29A(6) indicates a contrary intention by enabling the Court to substitute arbitrators, a power that only the High Court possesses.
+    * They argued that the interpretation of the Commercial Court as the Principal Civil Court under Section 2(1)(e) would render the phrase "unless the context otherwise requires" superfluous and lead to anomalous situations where the Principal Civil Court would have the power to appoint a new arbitrator, conflicting with Section 11 of the A&C Act.
+
+•	**Defendant's Argument:**
+    * The Respondent argued that the term "Court" in Section 2(1)(e) of the A&C Act, when read in conjunction with Section 29A(4), refers to the Principal Civil Court of original jurisdiction in a district, including the High Court, only if it exercises ordinary civil jurisdiction.
+    * They argued that the High Court of Meghalaya does not exercise ordinary original civil jurisdiction, hence, the Principal Civil Court, i.e., the Commercial Court, Shillong, has the jurisdiction to extend the mandate under Section 29A.
+    * They emphasized the clear and unambiguous definition of "Court" in Section 2(1)(e) and pointed out that the legislature has not specifically excluded the Principal Civil Court from the meaning of "Court" in Section 29A. 
+    * They argued that the Petitioner's argument presupposes that all appointments of arbitrators are done under Section 11(6) and ignores arbitrators appointed by mutual consent under Section 11(2).
+    * They pointed out that Section 34 of the A&C Act allows the Principal Civil Court to set aside awards even if they are passed by arbitrators appointed by the High Court or Supreme Court, which indicates a lack of anomaly in allowing the Principal Civil Court to substitute arbitrators under Section 29A.
+
+## Court’s Analysis and Reasoning
+
+•	**Key Findings:**
+    * The court acknowledged the conflicting interpretations of "Court" in Section 29A and analyzed various precedents presented by both parties. 
+    * The court recognized the potential for an anomalous situation if the Principal Civil Court were to have the power to substitute arbitrators appointed by the High Court, as it would contradict the provisions of Section 11(6). 
+    * However, the court also considered the fact that the High Court of Meghalaya does not exercise ordinary original civil jurisdiction and that the arbitrators in this case were not appointed by the High Court under Section 11.
+
+•	**Interpretation of Law:**
+    * The court emphasized the importance of applying both textual and contextual interpretation, particularly in light of the phrase "unless the context otherwise requires" in Section 2 of the A&C Act.
+    * The court concluded that the definition of "Court" in Section 2(1)(e) should be interpreted in a way that aligns with the overall purpose and objectives of the A&C Act, avoiding anomalous results.
+
+•	**Application of Law:**
+    * The court held that, in cases where arbitrators are not appointed by the High Court, the Principal Civil Court of original jurisdiction, in this case, the Commercial Court, Shillong, has the jurisdiction to extend the mandate and potentially substitute arbitrators under Section 29A of the A&C Act. 
+    * This interpretation, according to the court, does not create an anomalous situation as the Commercial Court is not substituting arbitrators appointed by the High Court.
+
+## Judgment
+
+•	**Final Decision:** The High Court of Meghalaya dismissed the Revision Petition, upholding the jurisdiction of the Commercial Court, East Khasi Hills, Shillong, to extend the mandate under Section 29A of the A&C Act.
+
+•	**Relief Granted:** No relief was granted to the Petitioner.
+
+•	**Orders:** The Revision Petition was dismissed.
+
+## Implications
+
+•	**Impact on Law:** This judgment provides a specific interpretation of the term "Court" in Section 29A of the A&C Act, particularly in the context of the High Court not exercising original civil jurisdiction. 
+    * This interpretation may impact future cases involving similar circumstances where the High Court does not have original jurisdiction, particularly regarding the power to extend the mandate and potentially substitute arbitrators under Section 29A.
+
+•	**Future Relevance:** This case might serve as a precedent for future cases dealing with the application of Section 29A of the A&C Act in states where the High Court does not exercise original civil jurisdiction.
+    * The judgment may be cited as a reference in cases involving jurisdictional disputes regarding the extension of the mandate of arbitral tribunals.
+
+•	**Broader Context:** This case highlights the importance of carefully interpreting statutory provisions, considering both textual and contextual elements to avoid anomalous results and uphold the overall purpose of the law.
+    * It also sheds light on the complexities of navigating different jurisdictions within the Indian legal system, particularly in relation to arbitration proceedings.
+
+## Summary Points
+
+•	The High Court of Meghalaya upheld the jurisdiction of the Commercial Court, Shillong, to extend the mandate of an arbitral tribunal under Section 29A of the A&C Act.
+•	The court emphasized the importance of contextual interpretation, considering the specific circumstances and the overall purpose of the statute.
+•	The judgment clarifies that the Commercial Court has jurisdiction to extend the mandate and substitute arbitrators under Section 29A when the High Court does not have original jurisdiction and the arbitrators are not appointed by the High Court.
+
+## References
+
+•	**Statutes:**
+    * The Arbitration and Conciliation Act, 1996 (A&C Act)
+    * The Commercial Courts Act
+
+•	**Cases:**
+    * All the cases cited in the judgment are listed above in the "Precedents Cited" section.
+
+•	**Further Reading:**
+    * For a broader understanding of the A&C Act and its application, refer to legal textbooks and commentaries on the subject.
+    * Search for legal databases for additional case law related to Section 29A of the A&C Act.
+
+This summary provides a comprehensive analysis of the Chief Engineer (NH) PWD (Roads) vs. M/S BSC&C and C JV case, including its background, legal principles, arguments, court analysis, judgment, and implications. 

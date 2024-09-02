@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A plaintiff filed a suit for recovery of Rs. 1 crore against the defendant for breach of contract. The defendant did not file a written statement within the stipulated time. The defendant now seeks an extension of time to file the written statement, citing financial difficulties and the complexity of the case. Can the court grant an extension of time under the Commercial Courts Act, 2015?",
+    "Legal Principles": "The court has the discretion to grant an extension of time to file a written statement in a commercial suit under the Commercial Courts Act, 2015, but only on just cause being shown. The court considers factors such as the complexity of the case, the defendant's explanation for the delay, and the potential prejudice to the plaintiff.",
+    "Relevant Sections": "Section 15(4) of the Commercial Courts Act, 2015 provides that the Commercial Division may prescribe a new time period within which the written statement shall be filed in a transferred suit.",
+    "Context": "Commercial suit, extension of time to file a written statement, Commercial Courts Act, 2015, jurisdiction of the Commercial Division."
+  },
+  {
+    "Query": "A company filed a suit against its former director for misappropriation of funds. The suit was filed before the enactment of the Commercial Courts Act, 2015. The suit involves a commercial dispute of a specified value. Should the suit be transferred to the Commercial Division of the High Court?",
+    "Legal Principles": "All suits relating to a commercial dispute of a specified value pending in a High Court where a Commercial Division has been constituted shall be transferred to the Commercial Division under Section 15(1) of the Commercial Courts Act, 2015.",
+    "Relevant Sections": "Section 15(1) of the Commercial Courts Act, 2015 mandates the transfer of pending commercial suits to the Commercial Division.",
+    "Context": "Transfer of pending suits, Commercial Courts Act, 2015, Commercial Division, jurisdiction of the Commercial Division."
+  },
+  {
+    "Query": "Two companies entered into a joint venture agreement. A dispute arose between the companies regarding the terms of the agreement. The dispute involves a substantial amount of money. Can the dispute be classified as a 'commercial dispute' under the Commercial Courts Act, 2015, and if so, what are the implications?",
+    "Legal Principles": "A dispute arising out of a joint venture agreement is considered a 'commercial dispute' under Section 2(1)(c)(xi) of the Commercial Courts Act, 2015. This means that the dispute will be subject to the specialized procedures and timelines laid down under the Act.",
+    "Relevant Sections": "Section 2(1)(c)(xi) of the Commercial Courts Act, 2015 defines 'commercial dispute' to include disputes arising out of joint venture agreements.",
+    "Context": "Commercial dispute, joint venture agreement, Commercial Courts Act, 2015, jurisdiction of the Commercial Division."
+  },
+  {
+    "Query": "A plaintiff filed a suit for breach of contract against a defendant. The defendant sought an extension of time to file a written statement, arguing that they were undergoing financial difficulties and had to restructure their business. Can the court grant an extension of time?",
+    "Legal Principles": "The court has discretion to grant an extension of time to file a written statement under the Code of Civil Procedure, 1908, but only on just cause being shown. The court will consider the defendant's explanation for the delay and the potential prejudice to the plaintiff.",
+    "Relevant Sections": "Order VIII Rule 1 of the Code of Civil Procedure, 1908, deals with the filing of a written statement and provides the court with the power to extend time.",
+    "Context": "Extension of time, written statement, Code of Civil Procedure, 1908, financial difficulties."
+  },
+  {
+    "Query": "A company filed a suit against its former employee for breach of confidentiality agreement. The suit was filed before the establishment of the Commercial Division in the High Court. The suit involves a commercial dispute of a specified value. Can the suit be transferred to the Commercial Division?",
+    "Legal Principles": "The Commercial Division of the High Court has jurisdiction over commercial disputes of a specified value under the Commercial Courts Act, 2015. Pending suits may be transferred to the Commercial Division under Section 15 of the Act.",
+    "Relevant Sections": "Section 15 of the Commercial Courts Act, 2015 deals with the transfer of pending cases to the Commercial Division.",
+    "Context": "Transfer of pending suits, Commercial Courts Act, 2015, Commercial Division, jurisdiction of the Commercial Division, confidentiality agreement."
+  },
+  {
+    "Query": "A company filed a suit against its supplier for failing to deliver goods as per the contract. The supplier filed a counterclaim against the company for breach of contract. The dispute involves a significant amount of money. Can the dispute be classified as a 'commercial dispute' under the Commercial Courts Act, 2015?",
+    "Legal Principles": "A dispute arising out of a contract for the sale of goods is generally considered a 'commercial dispute' under Section 2(1)(c)(i) of the Commercial Courts Act, 2015. This means that the dispute will be subject to the specialized procedures and timelines laid down under the Act.",
+    "Relevant Sections": "Section 2(1)(c)(i) of the Commercial Courts Act, 2015 defines 'commercial dispute' to include disputes arising out of contracts for the sale of goods.",
+    "Context": "Commercial dispute, contract for sale of goods, Commercial Courts Act, 2015, jurisdiction of the Commercial Division."
+  },
+  {
+    "Query": "A partnership firm filed a suit against its former partner for breach of partnership agreement. The suit was filed before the establishment of the Commercial Division in the High Court. The suit involves a commercial dispute of a specified value. Can the suit be transferred to the Commercial Division?",
+    "Legal Principles": "All suits relating to a commercial dispute of a specified value pending in a High Court where a Commercial Division has been constituted shall be transferred to the Commercial Division under Section 15(1) of the Commercial Courts Act, 2015.",
+    "Relevant Sections": "Section 15(1) of the Commercial Courts Act, 2015 mandates the transfer of pending commercial suits to the Commercial Division.",
+    "Context": "Transfer of pending suits, Commercial Courts Act, 2015, Commercial Division, jurisdiction of the Commercial Division, partnership agreement."
+  },
+  {
+    "Query": "A company filed a suit against its former employee for breach of employment contract. The employee claimed that the company had not paid their full salary. The dispute involves a substantial amount of money. Can the dispute be classified as a 'commercial dispute' under the Commercial Courts Act, 2015?",
+    "Legal Principles": "A dispute arising out of an employment contract can be considered a 'commercial dispute' under Section 2(1)(c)(i) of the Commercial Courts Act, 2015, if it involves a significant commercial element, such as a substantial amount of money or a complex business relationship.",
+    "Relevant Sections": "Section 2(1)(c)(i) of the Commercial Courts Act, 2015 defines 'commercial dispute' to include disputes arising out of contracts.",
+    "Context": "Commercial dispute, employment contract, Commercial Courts Act, 2015, jurisdiction of the Commercial Division."
+  },
+  {
+    "Query": "A company filed a suit against its competitor for unfair competition. The competitor filed a counterclaim for defamation. The dispute involves a significant amount of money. Can the dispute be classified as a 'commercial dispute' under the Commercial Courts Act, 2015?",
+    "Legal Principles": "A dispute involving unfair competition and defamation may not always be classified as a 'commercial dispute' under the Commercial Courts Act, 2015, unless it involves a significant commercial element, such as a substantial amount of money or a complex business relationship. The court will consider the nature of the dispute and the underlying commercial transaction.",
+    "Relevant Sections": "Section 2(1)(c) of the Commercial Courts Act, 2015 defines 'commercial dispute'.",
+    "Context": "Commercial dispute, unfair competition, defamation, Commercial Courts Act, 2015, jurisdiction of the Commercial Division."
+  },
+  {
+    "Query": "A company filed a suit against its landlord for breach of lease agreement. The landlord filed a counterclaim for non-payment of rent. The dispute involves a significant amount of money. Can the dispute be classified as a 'commercial dispute' under the Commercial Courts Act, 2015?",
+    "Legal Principles": "A dispute arising out of a lease agreement can be considered a 'commercial dispute' under Section 2(1)(c)(i) of the Commercial Courts Act, 2015, if it involves a significant commercial element, such as a substantial amount of money or a complex business relationship.",
+    "Relevant Sections": "Section 2(1)(c)(i) of the Commercial Courts Act, 2015 defines 'commercial dispute' to include disputes arising out of contracts.",
+    "Context": "Commercial dispute, lease agreement, Commercial Courts Act, 2015, jurisdiction of the Commercial Division."
+  }
+]
+```

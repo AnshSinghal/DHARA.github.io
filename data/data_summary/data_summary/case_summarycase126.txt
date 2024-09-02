@@ -1,0 +1,151 @@
+## Case Title
+
+* **Case Name:** M/S Karan Paper Mills vs. M/S Shah Paper Pack Industries
+* **Court:** Gujarat High Court
+* **Date of Judgment:** 11th November 2022
+* **Citation:** C/SCA/21687/2022
+
+## Background and Context
+
+**Brief Overview:** This case involves a dispute between a supplier, M/S Karan Paper Mills (petitioner), and a buyer, M/S Shah Paper Pack Industries (respondent), over unpaid dues for MG Craft Papers supplied in 2013. The petitioner initiated arbitration proceedings under Section 18(3) of the Micro, Small and Medium Enterprise Development Act, 2006 (MSME Act) after the respondent failed to make payment despite numerous requests. The respondent challenged the arbitration proceedings on grounds of limitation under the Limitation Act, 1963. The Sole Arbitrator rejected the respondent's challenge. The respondent then filed a Commercial Misc. Application (CMA) under Section 34 of the Arbitration and Conciliation Act, 1996 (Arbitration Act) to stay the arbitration proceedings. The petitioner sought to quash the Commercial Court's order granting the stay through this Special Civil Application (SCA).
+
+**Key Issues:**
+
+* Whether the respondent's challenge to the arbitration proceedings on grounds of limitation under the Limitation Act, 1963 could be raised under Section 16 of the Arbitration Act.
+* Whether the Commercial Court had jurisdiction to entertain the respondent's CMA under Section 34 of the Arbitration Act.
+* Whether the order passed by the Sole Arbitrator rejecting the respondent's application under Section 16 could be considered an interim award and challenged under Section 34 of the Arbitration Act.
+* Whether the provisions of the Limitation Act, 1963 are applicable in statutory arbitrations under the MSME Act.
+
+## Legal Principles Involved
+
+**Relevant Statutes and Provisions:**
+
+* **Micro, Small and Medium Enterprise Development Act, 2006 (MSME Act):** Sections 18(2) & 18(3) deal with conciliation and reference to arbitration in disputes between suppliers and buyers.
+* **Arbitration and Conciliation Act, 1996 (Arbitration Act):** 
+    * Section 2(1)(c) defines an "interim award" as a final award on a particular issue made at an interim stage.
+    * Section 2(ca) defines an "arbitral award" as a decision by the arbitral tribunal on all or part of the dispute submitted to it.
+    * Section 16(1) empowers the Arbitral Tribunal to rule on its own jurisdiction, including objections related to the existence or validity of the arbitration agreement.
+    * Section 16(5) directs the Arbitral Tribunal to continue with the proceedings and make an arbitral award if it rejects a plea that it lacks jurisdiction.
+    * Section 16(6) allows a party aggrieved by an arbitral award to make an application for setting it aside under Section 34.
+    * Section 34 provides for challenging arbitral awards before a court.
+    * Section 37(2) allows appeals against orders accepting a plea that the Arbitral Tribunal has no jurisdiction.
+    * Section 43 makes the Limitation Act, 1963 applicable to arbitrations, unless otherwise provided.
+
+**Precedents Cited:**
+
+* **Indian Farmers Fertilizer Co-operative Limited vs. Bhadra Products [(2018) 0 AIJEL-SC 61552]:**  Held that an award deciding the issue of limitation is an interim award challengeable under Section 34 of the Arbitration Act.
+* **Pandurang Dhondi Chougule vs. Maruti Hari Jadhav [(1965) 0 GLHEL-SC 20644]:**  Held that High Courts can correct errors of law under their revisional jurisdiction only when the errors relate to the jurisdiction of the lower court to try the dispute itself. 
+* **Babasaheb Ambedkar Open University vs. Abhinav Knowledge Services Private Limited [(2019) Civil Application (for stay) No. 01/2019 in First Appeal No. 1632/2019]:** Held that requirements under Sections 34(5) and 34(6) of the Arbitration Act are directory and not mandatory.
+* **M/S. Silpi Industries vs. Kerala State Road Transport Corporation and Another [(2021) Civil Appeal Nos. 1570-1578 of 2021]:** Held that the Limitation Act, 1963 is applicable to arbitrations under Section 18(3) of the MSME Act.
+* **Deep Industries Limited vs. Oil and Natural Gas Corporation Limited and Another [(2020) 15 SCC 706]:** Held that a dismissal of a Section 16 application under the Arbitration Act cannot be interfered with by the High Court under Article 227 of the Constitution. 
+* **Fuerst Day Lawson Limited vs. Jindal Exports Limited [(2005) 8 SCC 204]:** Held that the Arbitration Act is a self-contained code and the applicability of general law procedures is impliedly excluded.
+* **Tek Singh vs. Shashi Verma and Another [(2019) 2019 SCC OnLine SC 168]:** Held that revision petitions under Section 115 CPC are not maintainable against interlocutory orders.
+* **D.L.F. Housing & Construction Company Private Ltd., New Delhi v. Sarup Singh and Others [(1970) 2 SCR 368]:** Held that the High Court's revisional jurisdiction under Section 115 CPC is only to correct jurisdictional errors.
+* **BASF Styrenics Private Limited vs. Offshore Industrial Construction Private Limited and Another [(2002) 2 Mh.L.J]:** Held that an Arbitral Tribunal's order on its own jurisdiction can only be challenged after the completion of the arbitration proceedings and the making of the award.
+* **Babar Ali vs. Union of India and Others [(2002) 2 SCC 178]:** Held that an order by the Arbitral Tribunal holding it has no jurisdiction can be challenged under Section 37(2) of the Arbitration Act.
+* **SBP & Company vs. Patel Engineering Limited and Another [(2005) 8 SCC 618]:** Held that the High Court cannot interfere with orders passed by the Arbitrator during arbitration proceedings.
+* **Bhaven Construction through authorized signatory Premjibhai K. Shah vs. Executive Engineer, Sardar Sarovar Narmada Nigam Limited and Another [(2022) 1 SCC 75]:** Held that the High Court should not interfere with the arbitral process at the stage of a Section 16 application unless exceptional circumstances or bad faith are shown.
+* **I.T.I. Limited vs. Himachal Futuristic Communications [(2008) 102 DRJ 443]:** Held that an appeal can lie from an order under Section 16(2) of the Arbitration Act only if the plea that the Arbitral Tribunal lacks jurisdiction is accepted. 
+
+**Legal Doctrines:**
+
+* **Kompetenz Principle:** The principle that an Arbitral Tribunal can rule on its own jurisdiction.
+* **Statutory Arbitration:** Arbitration proceedings initiated under a specific statute, such as the MSME Act, which may have different rules and procedures than those under the general Arbitration Act.
+
+## Arguments Presented
+
+**Plaintiff’s Argument:**
+
+* The respondent's CMA under Section 34 of the Arbitration Act challenging the Sole Arbitrator's order under Section 16 is not maintainable.
+* The respondent's remedy is to participate in the arbitral proceedings and challenge the final arbitral award under Section 34.
+* The Sole Arbitrator's order rejecting the respondent's application under Section 16 is not an interim award within the meaning of Section 2(1)(c) of the Arbitration Act.
+* The issue of limitation being a mixed question of fact and law should be decided after evidence is led and examined by the Arbitral Tribunal.
+* The Commercial Court's intervention at an intermediary stage violates the principle of non-interference in arbitral proceedings, as per Section 5 of the Arbitration Act.
+
+**Defendant’s Argument:**
+
+* The Commercial Court has jurisdiction to entertain the CMA under Section 34 of the Arbitration Act because the Sole Arbitrator's order on limitation is an interim award, being a final decision on a specific issue.
+* The respondent has a right to challenge the Sole Arbitrator's order rejecting its application under Section 16 by filing a CMA under Section 34. 
+* The respondent reserved its right to challenge the reference to arbitration under the MSME Act because it believed the petitioner's claim was barred by limitation.
+
+## Court’s Analysis and Reasoning
+
+**Key Findings:**
+
+* The Court recognized the settled position of law that the Commercial Court could not interfere with the arbitral process at an intermediary stage.
+* The Court found that the Sole Arbitrator's order rejecting the respondent's application under Section 16 was not a final determination of the issue of limitation and therefore not an interim award under Section 2(1)(c) of the Arbitration Act.
+* The Court acknowledged the principle that the Limitation Act, 1963 applies to statutory arbitrations under the MSME Act, as held in the case of M/S Silpi Industries.
+* The Court noted that the Sole Arbitrator had not definitively decided the issue of limitation and had left room for further challenge.
+
+**Interpretation of Law:**
+
+* The Court interpreted Section 16 of the Arbitration Act to mean that the Arbitral Tribunal has the power to rule on its own jurisdiction, but this does not allow for an appeal against every decision related to jurisdiction during the proceedings.
+* The Court interpreted Section 34 of the Arbitration Act to mean that it only allows for challenges to final arbitral awards or interim awards that definitively determine a specific issue.
+* The Court interpreted the MSME Act and the Arbitration Act to indicate that the Limitation Act, 1963 applies to statutory arbitrations under the MSME Act.
+
+**Application of Law:**
+
+* The Court applied the principle of judicial non-interference in arbitral proceedings to conclude that the Commercial Court's intervention was unwarranted in this case.
+* The Court applied the principle of finality of awards under the Arbitration Act to hold that the Sole Arbitrator's order rejecting the respondent's application under Section 16 was not an interim award and therefore not subject to challenge under Section 34.
+* The Court applied the principle of statutory interpretation to conclude that the Limitation Act, 1963 applies to statutory arbitrations under the MSME Act.
+
+## Judgment
+
+**Final Decision:**
+
+* The Court allowed the petitioner's SCA and quashed the interim order passed by the Commercial Court.
+
+**Relief Granted:**
+
+* The Commercial Court was prohibited from proceeding further with the respondent's CMA.
+
+**Orders:**
+
+* The parties were allowed to request the Arbitral Tribunal to decide the issue of limitation as a preliminary issue.
+
+## Implications
+
+**Impact on Law:**
+
+* The judgment reinforces the principle of limited judicial intervention in arbitral proceedings, especially at the intermediary stage.
+* It clarifies that a decision by the Arbitral Tribunal on a preliminary issue, such as limitation, is not necessarily an interim award and may not be challengeable under Section 34 of the Arbitration Act unless it definitively resolves the issue. 
+
+**Future Relevance:**
+
+* This judgment provides guidance on the proper procedure for challenging a Sole Arbitrator's decision regarding jurisdictional issues in statutory arbitrations. 
+
+**Broader Context:**
+
+* The case highlights the increasing emphasis on efficiency and finality in arbitration proceedings. 
+
+## Summary Points
+
+* The Gujarat High Court quashed the interim order by the Commercial Court that stayed arbitration proceedings initiated under the MSME Act.
+* The Court held that the respondent's challenge to the arbitration based on limitation was not an interim award and therefore not challengeable under Section 34 of the Arbitration Act.
+* The Court emphasized the importance of judicial non-interference in arbitral proceedings and the need to allow the Arbitral Tribunal to resolve disputes in accordance with the statutory framework. 
+
+## References
+
+* **Micro, Small and Medium Enterprise Development Act, 2006 (MSME Act)**
+* **Arbitration and Conciliation Act, 1996 (Arbitration Act)**
+* **Limitation Act, 1963**
+* **Indian Farmers Fertilizer Co-operative Limited vs. Bhadra Products [(2018) 0 AIJEL-SC 61552]**
+* **Pandurang Dhondi Chougule vs. Maruti Hari Jadhav [(1965) 0 GLHEL-SC 20644]**
+* **Babasaheb Ambedkar Open University vs. Abhinav Knowledge Services Private Limited [(2019) Civil Application (for stay) No. 01/2019 in First Appeal No. 1632/2019]**
+* **M/S. Silpi Industries vs. Kerala State Road Transport Corporation and Another [(2021) Civil Appeal Nos. 1570-1578 of 2021]**
+* **Deep Industries Limited vs. Oil and Natural Gas Corporation Limited and Another [(2020) 15 SCC 706]**
+* **Fuerst Day Lawson Limited vs. Jindal Exports Limited [(2005) 8 SCC 204]**
+* **Tek Singh vs. Shashi Verma and Another [(2019) 2019 SCC OnLine SC 168]**
+* **D.L.F. Housing & Construction Company Private Ltd., New Delhi v. Sarup Singh and Others [(1970) 2 SCR 368]**
+* **BASF Styrenics Private Limited vs. Offshore Industrial Construction Private Limited and Another [(2002) 2 Mh.L.J]**
+* **Babar Ali vs. Union of India and Others [(2002) 2 SCC 178]**
+* **SBP & Company vs. Patel Engineering Limited and Another [(2005) 8 SCC 618]**
+* **Bhaven Construction through authorized signatory Premjibhai K. Shah vs. Executive Engineer, Sardar Sarovar Narmada Nigam Limited and Another [(2022) 1 SCC 75]**
+* **I.T.I. Limited vs. Himachal Futuristic Communications [(2008) 102 DRJ 443]** 
+
+**Further Reading:**
+
+* The Arbitration and Conciliation Act, 1996
+* The Micro, Small and Medium Enterprise Development Act, 2006
+* Indian Farmers Fertilizer Co-operative Limited vs. Bhadra Products [(2018) 0 AIJEL-SC 61552]**
+* M/S. Silpi Industries vs. Kerala State Road Transport Corporation and Another [(2021) Civil Appeal Nos. 1570-1578 of 2021]** 

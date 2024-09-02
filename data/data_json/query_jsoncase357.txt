@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A company filed an application under Section 9 of the Arbitration Act seeking an injunction against another company. The Commercial Court granted the injunction but the company against whom the injunction was granted filed an original petition under Article 227 of the Constitution of India challenging the order. The question is whether the order of the Commercial Court is appealable under Section 13(1) of the Commercial Courts Act.",
+    "Legal Principles": "The Court held that an order passed under Section 9 of the Arbitration Act by a Commercial Court below the level of a District Judge is appealable under Section 13(1) of the Commercial Courts Act. The Court also discussed the principles of statutory interpretation and the role of headings, titles, and provisos in construing statutory provisions.",
+    "Relevant Sections": "Section 9, Section 13(1), Section 37 of the Arbitration and Conciliation Act, 1996. Section 8, Section 13(1) of the Commercial Courts Act, 2015. Order XLIII of the Code of Civil Procedure, 1908.",
+    "Context": "Original petition under Article 227 of the Constitution of India challenging an order passed under Section 9 of the Arbitration Act by a Commercial Court."
+  },
+  {
+    "Query": "A company sought to enforce an arbitration agreement through an application under Section 9 of the Arbitration Act. The Commercial Court granted the injunction restraining the other party from certain actions. The company against whom the injunction was granted argued that the Commercial Court lacked jurisdiction to hear the case and filed an original petition under Article 227 of the Constitution of India.",
+    "Legal Principles": "The High Court held that the Commercial Court had jurisdiction to hear the case under the Commercial Courts Act, and the order of the Commercial Court was appealable under Section 13(1) of the Act. The Court also discussed the limitations on the High Court's power of superintendence under Article 227.",
+    "Relevant Sections": "Section 9, Section 13(1) of the Arbitration and Conciliation Act, 1996. Section 13 of the Commercial Courts Act, 2015. Article 227 of the Constitution of India.",
+    "Context": "Original petition under Article 227 of the Constitution of India challenging an order passed under Section 9 of the Arbitration Act by a Commercial Court, arguing lack of jurisdiction."
+  },
+  {
+    "Query": "Two parties entered into a contract that included an arbitration clause. One party filed an application under Section 9 of the Arbitration Act seeking an injunction against the other party. The Commercial Court granted the injunction, but the party against whom the injunction was granted argued that the injunction was not justified. The party sought to challenge the injunction through an original petition under Article 227.",
+    "Legal Principles": "The High Court dismissed the original petition and held that the order of the Commercial Court was appealable under Section 13(1) of the Commercial Courts Act. The Court also emphasized that the High Court's power of superintendence should be exercised sparingly when an adequate remedy of appeal exists.",
+    "Relevant Sections": "Section 9, Section 13(1) of the Arbitration and Conciliation Act, 1996. Section 13(1) of the Commercial Courts Act, 2015. Article 227 of the Constitution of India.",
+    "Context": "Original petition under Article 227 of the Constitution of India challenging an order passed under Section 9 of the Arbitration Act by a Commercial Court, arguing that the injunction was not justified."
+  },
+  {
+    "Query": "A company was granted an injunction under Section 9 of the Arbitration Act by a Commercial Court, restraining another company from taking certain actions. The company against whom the injunction was granted argued that the Commercial Court lacked jurisdiction to hear the case and that the injunction was not justified. The company filed an original petition under Article 227 of the Constitution of India challenging the Commercial Court's order.",
+    "Legal Principles": "The High Court held that the Commercial Court had jurisdiction to hear the case under the Commercial Courts Act, and the order was appealable under Section 13(1) of the Act. The Court also discussed the limitations on the High Court's power of superintendence under Article 227 and held that it would not interfere with the Commercial Court's order as an adequate remedy of appeal existed.",
+    "Relevant Sections": "Section 9, Section 13(1) of the Arbitration and Conciliation Act, 1996. Section 13 of the Commercial Courts Act, 2015. Article 227 of the Constitution of India.",
+    "Context": "Original petition under Article 227 of the Constitution of India challenging an order passed under Section 9 of the Arbitration Act by a Commercial Court, arguing lack of jurisdiction and that the injunction was not justified."
+  },
+  {
+    "Query": "A company filed an application under Section 9 of the Arbitration Act seeking an injunction against another company. The Commercial Court granted the injunction. The company against whom the injunction was granted sought to challenge the injunction by filing an appeal. The company argued that the Commercial Court's order was not appealable because it was an interlocutory order.",
+    "Legal Principles": "The High Court held that the order of the Commercial Court was appealable under Section 13(1) of the Commercial Courts Act. The Court rejected the argument that the order was not appealable because it was interlocutory and emphasized that the right of appeal is a substantive right.",
+    "Relevant Sections": "Section 9, Section 13(1) of the Arbitration and Conciliation Act, 1996. Section 13(1) of the Commercial Courts Act, 2015.",
+    "Context": "Appeal against an order passed under Section 9 of the Arbitration Act by a Commercial Court, arguing that the order was not appealable because it was interlocutory."
+  },
+  {
+    "Query": "Two companies entered into a contract that contained an arbitration clause. One company filed an application under Section 9 of the Arbitration Act seeking an injunction against the other company. The Commercial Court granted the injunction. The company against whom the injunction was granted sought to challenge the injunction by filing a civil revision application. The company argued that the Commercial Court's order was not appealable because it was an interlocutory order.",
+    "Legal Principles": "The High Court held that the order of the Commercial Court was appealable under Section 13(1) of the Commercial Courts Act. The Court held that a civil revision application against an interlocutory order of a Commercial Court was barred under Section 8 of the Commercial Courts Act, and the proper remedy was an appeal under Section 13(1).",
+    "Relevant Sections": "Section 9, Section 13(1) of the Arbitration and Conciliation Act, 1996. Section 8, Section 13(1) of the Commercial Courts Act, 2015.",
+    "Context": "Civil revision application against an order passed under Section 9 of the Arbitration Act by a Commercial Court, arguing that the order was not appealable because it was interlocutory."
+  },
+  {
+    "Query": "Two companies entered into a contract that contained an arbitration clause. One company filed an application under Section 9 of the Arbitration Act seeking an injunction against the other company. The Commercial Court granted the injunction. The company against whom the injunction was granted sought to challenge the injunction by filing an original petition under Article 227 of the Constitution of India. The company argued that the Commercial Court lacked jurisdiction to hear the case.",
+    "Legal Principles": "The High Court held that the Commercial Court had jurisdiction to hear the case under the Commercial Courts Act. The Court also discussed the limitations on the High Court's power of superintendence under Article 227 and held that it would not interfere with the Commercial Court's order as an adequate remedy of appeal existed.",
+    "Relevant Sections": "Section 9, Section 13(1) of the Arbitration and Conciliation Act, 1996. Section 13 of the Commercial Courts Act, 2015. Article 227 of the Constitution of India.",
+    "Context": "Original petition under Article 227 of the Constitution of India challenging an order passed under Section 9 of the Arbitration Act by a Commercial Court, arguing lack of jurisdiction."
+  },
+  {
+    "Query": "A company filed an application under Section 9 of the Arbitration Act seeking an injunction against another company. The Commercial Court granted the injunction. The company against whom the injunction was granted sought to challenge the injunction by filing a civil revision petition. The company argued that the Commercial Court's order was not appealable because it was an interlocutory order.",
+    "Legal Principles": "The High Court held that the order of the Commercial Court was appealable under Section 13(1) of the Commercial Courts Act. The Court held that a civil revision petition against an interlocutory order of a Commercial Court was barred under Section 8 of the Commercial Courts Act, and the proper remedy was an appeal under Section 13(1).",
+    "Relevant Sections": "Section 9, Section 13(1) of the Arbitration and Conciliation Act, 1996. Section 8, Section 13(1) of the Commercial Courts Act, 2015.",
+    "Context": "Civil revision petition against an order passed under Section 9 of the Arbitration Act by a Commercial Court, arguing that the order was not appealable because it was interlocutory."
+  },
+  {
+    "Query": "Two companies entered into a contract that contained an arbitration clause. One company filed an application under Section 9 of the Arbitration Act seeking an injunction against the other company. The Commercial Court granted the injunction. The company against whom the injunction was granted sought to challenge the injunction by filing an appeal. The company argued that the Commercial Court's order was not appealable because it was an interlocutory order.",
+    "Legal Principles": "The High Court held that the order of the Commercial Court was appealable under Section 13(1) of the Commercial Courts Act. The Court rejected the argument that the order was not appealable because it was interlocutory and emphasized that the right of appeal is a substantive right.",
+    "Relevant Sections": "Section 9, Section 13(1) of the Arbitration and Conciliation Act, 1996. Section 13(1) of the Commercial Courts Act, 2015.",
+    "Context": "Appeal against an order passed under Section 9 of the Arbitration Act by a Commercial Court, arguing that the order was not appealable because it was interlocutory."
+  },
+  {
+    "Query": "A company filed an application under Section 9 of the Arbitration Act seeking an injunction against another company. The Commercial Court granted the injunction. The company against whom the injunction was granted sought to challenge the injunction by filing an original petition under Article 227 of the Constitution of India. The company argued that the Commercial Court lacked jurisdiction to hear the case.",
+    "Legal Principles": "The High Court held that the Commercial Court had jurisdiction to hear the case under the Commercial Courts Act. The Court also discussed the limitations on the High Court's power of superintendence under Article 227 and held that it would not interfere with the Commercial Court's order as an adequate remedy of appeal existed.",
+    "Relevant Sections": "Section 9, Section 13(1) of the Arbitration and Conciliation Act, 1996. Section 13 of the Commercial Courts Act, 2015. Article 227 of the Constitution of India.",
+    "Context": "Original petition under Article 227 of the Constitution of India challenging an order passed under Section 9 of the Arbitration Act by a Commercial Court, arguing lack of jurisdiction."
+  }
+]
+```

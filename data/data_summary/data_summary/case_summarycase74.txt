@@ -1,0 +1,105 @@
+## 1. Case Title
+
+* **Case Name:** M/s. BSC-C AND CJV vs. The Chief Engineer (PWD)
+* **Court:** High Court of Meghalaya
+* **Date of Judgment:** 11th February 2022
+* **Citation:** CRP. No. 2 of 2022
+
+## 2. Background and Context
+
+* **Brief Overview:** M/s. BSC-C AND CJV (Petitioner) was awarded a contract for road construction in Meghalaya under SARDP-NE-NH 44-E. The project was completed in 2017 with a delay of 45 months. Disputes arose between the parties, and the Petitioner invoked the dispute resolution clause, leading to the constitution of an Arbitral Tribunal in 2019. 
+* **Key Issues:**
+    * Whether the learned Commercial Court had jurisdiction to entertain the respondent's Section 34 application under the Arbitration and Conciliation Act, 1996 while a Section 33 application was pending before the Arbitral Tribunal.
+    * Whether the High Court could exercise its supervisory jurisdiction under Article 227 of the Constitution to set aside the orders passed by the Commercial Court.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * Article 227 of the Constitution of India
+    * Section 5, 31(6), 33, 34, 36, and 37 of the Arbitration and Conciliation Act, 1996
+    * Section 8 and 13 of the Commercial Courts Act
+* **Precedents Cited:**
+    * Prakash Atlanta v. National Highway Authority of India (2016) SCC Online Del 743
+    * Ved Prakash Mithal v. Union of India (2018) SCC Online SC 3181
+    * P.Radha Bai v. P. Ashok Kumar (2019) 13 SCC 445
+    * NTPC vs. MePDCL 2021 SCC Online Megh 134
+    * BGS SGS SOMA JV v. NHPC, (2020) 4 SCC 234
+    * Fuerst Day Lawson Ltd. V. Jindal Exports Ltd. (2011) 8 SCC 333
+    * Chintels India Ltd v Bhayana Builders 2021 SCC Online SC 80
+    * Black Diamond Track Parts Private Limited v. Black Diamond Motors Private Limited
+    * Deep Industries Ltd. v. ONGC, (2020) 15 SCC 706
+    * Bhaven Construction vs. Executive Engineer 2021 Online SC 8
+    * Navayuga Engineering Company vs. Bangalore Metro Rail Corporation Limited 2021 SCC Online SC 469
+    * Ambience Project vs. Neeraj Bindal 2021 SCC Online Del 4023
+    * Surender Kumar Singhal v. Arun Kumar Bhalotia, 2021 SCC Online Del 3708
+    * Ashok Kumar Puri and Another vs. S. Suncon Realtors Pvt. Ltd. and Another 2021 SCC Online Del 5220
+    * State of Arunachal Pradesh v. Damini Construction (2007) 10 SCC 742
+    * State of Gujarat vs. Union of India (2018) Online Guj 1515
+    * Surya Dev Rai vs. Ram Chander Rai (2003) 6SCC 675
+* **Legal Doctrines:**
+    * Principles of natural justice
+    * Interpretation of statutory provisions
+    * Principles of limitation
+    * Exercise of supervisory jurisdiction under Article 227
+
+## 4. Arguments Presented
+
+* **Petitioner’s Argument:**
+    * The Commercial Court had no jurisdiction to entertain the respondent's Section 34 application while the Section 33 application was pending before the Arbitral Tribunal.
+    * The Section 34 application was premature and infructuous as the right to challenge the award only arose after the disposal of the Section 33 application.
+    * The impugned orders passed by the Commercial Court were illegal and without jurisdiction, as they interfered with the arbitral proceedings and the award.
+    * The petitioner was deprived of the fruits of the award due to the Commercial Court's orders.
+    * Article 227 of the Constitution provided the petitioner with an efficacious remedy as the Arbitration Act did not provide any relief in this specific situation.
+* **Respondent’s Argument:**
+    * The petition was not maintainable under Article 227 as the Arbitration Act is a self-contained code, and Section 5 bars judicial interference except as prescribed under the Act.
+    * Section 37 of the Act enumerates the categories of appealable orders, and the impugned orders did not fall under any of them.
+    * Section 8 of the Commercial Courts Act bars revisions against interlocutory orders, including those on jurisdictional issues.
+    * The petitioner had submitted to the jurisdiction of the Commercial Court by filing objections in Misc. applications.
+    * The petitioner had contested the impugned orders on merits, and therefore, must pursue the remedies prescribed under the Arbitration Act.
+    * There was no statutory bar for filing a Section 34 application during the pendency of a Section 33 application.
+    * The respondent's right to challenge the award under Section 34 would have expired if the application was not filed.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The Court acknowledged the Arbitration Act as a self-contained code and the restrictions imposed by Section 5 on judicial interference.
+    * The Court recognized the limited scope of interference under Article 227 and the need to exercise this power sparingly to correct patent errors.
+    * The Court interpreted Section 34(3) to emphasize the unbreakability of the three-month limitation period for challenging an award.
+    * The Court found that the Section 34 application filed by the respondent during the pendency of the Section 33 application was premature and violated the intent of the Act, as the right to challenge the award only arose after the disposal of the Section 33 application.
+* **Interpretation of Law:**
+    * The Court interpreted Section 34(3) to mean that the three-month limitation period for challenging an award starts running from the date of disposal of the Section 33 application.
+    * The Court emphasized the "certainty and expediency" principle associated with the arbitral process and the need to avoid parallel proceedings.
+    * The Court held that the supervisory jurisdiction under Article 227 should be exercised only to correct patent errors and prevent a miscarriage of justice.
+* **Application of Law:**
+    * The Court applied the principles of statutory interpretation and precedent to determine the scope of the relevant statutory provisions.
+    * The Court applied the legal doctrines of limitation, natural justice, and supervisory jurisdiction to analyze the arguments and decide the case.
+
+## 6. Judgment
+
+* **Final Decision:** The petition was partially allowed.
+* **Relief Granted:**
+    * The impugned orders dated 29-10-2021, 17-11-2021, and 10-12-2021 were set aside as far as they related to the stay of the interim arbitral award dated 27-07-2021.
+    * The Commercial Court was directed to re-examine the respondent's Section 34 application afresh, affording an opportunity to the petitioner before passing any further orders.
+* **Orders:**
+    * The parties were directed to appear before the Commercial Court on 7th March 2022 for resumption of the proceedings.
+    * Each party was to bear their own costs.
+
+## 7. Implications
+
+* **Impact on Law:** The judgment clarifies the interpretation of Section 34(3) of the Arbitration and Conciliation Act, 1996, reaffirming the unbreakability of the three-month limitation period for challenging an award.
+* **Future Relevance:** The case provides guidance on the exercise of supervisory jurisdiction under Article 227 in the context of arbitration proceedings and emphasizes the need to avoid unnecessary interference with the arbitral process.
+* **Broader Context:** The judgment underscores the importance of adhering to the procedural framework of the Arbitration Act to ensure efficient dispute resolution and prevent delays in commercial matters.
+
+## 8. Summary Points
+
+* The Commercial Court erred in entertaining the respondent's Section 34 application while a Section 33 application was pending before the Arbitral Tribunal.
+* The High Court exercised its supervisory jurisdiction under Article 227 to set aside the Commercial Court's orders, emphasizing the need to avoid parallel proceedings and ensure adherence to the principles of the Arbitration Act.
+* The judgment reaffirms the unbreakability of the three-month limitation period for challenging an award under Section 34(3).
+
+## 9. References
+
+* **Citations:** See the list of precedents and statutory provisions mentioned in section 3 of this summary.
+* **Further Reading:**
+    * The Arbitration and Conciliation Act, 1996
+    * The Commercial Courts Act
+    * Judgments cited in the summary.

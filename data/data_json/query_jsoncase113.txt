@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A tenant is facing eviction proceedings for failing to pay rent. The tenant argues that due to the COVID-19 pandemic, they were unable to make payments and should be granted more time to pay. The landlord argues that the tenant has been in arrears for a significant period before the pandemic and that the pandemic is not a valid excuse for non-payment. How should the court decide the case?",
+    "Legal Principles": "The court should consider the impact of the COVID-19 pandemic on the tenant's ability to pay rent, balancing this against the landlord's right to receive rent. Relevant precedents may include cases dealing with hardship and force majeure, as well as cases interpreting provisions related to rent arrears and eviction.",
+    "Relevant Sections": "Order VIII Rule 1 of the CPC (dealing with the time limit for filing written statements), Order XXXIX Rules 1 & 2 of the CPC (dealing with interim injunctions), the provisions of the Rent Control Act (if applicable), and relevant case law interpreting the impact of the COVID-19 pandemic on legal proceedings.",
+    "Context": "This is a case involving a tenant facing eviction for non-payment of rent, where the COVID-19 pandemic is a key factor in the dispute. The court needs to balance the tenant's hardship against the landlord's right to receive rent and the legal framework governing eviction procedures."
+  },
+  {
+    "Query": "A business owner is suing a former employee for breach of contract. The employee signed a non-compete agreement but started working for a competitor shortly after leaving the original company. The employee argues that the non-compete agreement is unenforceable because it is too broad and unreasonable. How should the court determine the enforceability of the non-compete agreement?",
+    "Legal Principles": "The court must determine whether the non-compete agreement is reasonable in scope, duration, and geographic reach. Factors to consider include the nature of the business, the employee's role, and the potential harm to the original company if the agreement is not enforced.",
+    "Relevant Sections": "Relevant sections of the contract law, including provisions related to enforceability of contracts, restraint of trade, and the principles of reasonableness.",
+    "Context": "This case involves a legal dispute about the enforceability of a non-compete agreement in the context of a business contract. The court needs to analyze the agreement's terms and balance the employer's interest in protecting its business against the employee's right to work."
+  },
+  {
+    "Query": "A couple is going through a divorce. They have a prenuptial agreement in place. The wife argues that the agreement is unfair and should be set aside because she was pressured into signing it. How should the court decide whether the prenuptial agreement is valid?",
+    "Legal Principles": "The court will assess whether the prenuptial agreement was entered into voluntarily, without undue influence or duress. It will also review the agreement for fairness and whether both parties were fully aware of its terms and implications.",
+    "Relevant Sections": "Relevant sections of the law on family law and prenuptial agreements, including provisions related to voluntary consent, disclosure, and fairness. The court will also consider relevant case law on prenuptial agreements.",
+    "Context": "This is a divorce case involving a prenuptial agreement. The court needs to determine the validity of the agreement by assessing factors like voluntariness, fairness, and full disclosure."
+  },
+  {
+    "Query": "A driver was involved in a car accident. The driver argues that they were not at fault, as the other driver ran a red light. The other driver claims the traffic light was malfunctioning. How should the court determine liability for the accident?",
+    "Legal Principles": "The court will apply principles of negligence and traffic law. The driver who ran the red light would generally be considered negligent, unless they can prove the traffic light malfunctioned and they were not aware of it.",
+    "Relevant Sections": "Relevant sections of the traffic code and tort law, particularly those dealing with negligence, traffic light violations, and the duty of care in driving.",
+    "Context": "This is a case arising from a car accident. The court needs to determine liability based on evidence presented by both drivers regarding the cause of the accident."
+  },
+  {
+    "Query": "A homeowner sued a contractor for defective construction work. The contractor claims that the homeowner failed to properly maintain the property, leading to the defects. How should the court determine the cause of the defects and assign liability?",
+    "Legal Principles": "The court will apply principles of contract law and negligence, considering the terms of the construction contract, the contractor's standard of care, and the homeowner's potential contributory negligence.",
+    "Relevant Sections": "Relevant sections of the construction contract, provisions related to warranties and defects, and relevant case law on construction liability.",
+    "Context": "This is a case involving a homeowner's claim against a contractor for defective work. The court needs to assess the cause of the defects, considering both the contractor's workmanship and the homeowner's potential responsibility."
+  },
+  {
+    "Query": "A company is facing a class action lawsuit alleging discriminatory hiring practices. The company claims that its hiring process is objective and does not discriminate. How should the court determine whether there is evidence of discriminatory practices?",
+    "Legal Principles": "The court will apply principles of employment law and anti-discrimination legislation, examining the company's hiring process for potential bias and evaluating statistical evidence of disparities.",
+    "Relevant Sections": "Relevant sections of anti-discrimination legislation, case law on employment discrimination, and relevant statistical analysis techniques.",
+    "Context": "This is a class action lawsuit alleging discriminatory hiring practices. The court needs to analyze the company's hiring practices and determine whether there is sufficient evidence to support the claim of discrimination."
+  },
+  {
+    "Query": "A patient is suing a doctor for medical negligence. The doctor argues that the patient did not follow their post-operative instructions, leading to complications. How should the court determine the doctor's liability?",
+    "Legal Principles": "The court will apply principles of medical negligence, considering the doctor's standard of care, the patient's contribution to the complications, and the causal link between the doctor's actions and the patient's injuries.",
+    "Relevant Sections": "Relevant sections of medical negligence law, case law on medical malpractice, and provisions related to informed consent and patient responsibility.",
+    "Context": "This is a medical negligence case. The court needs to determine whether the doctor breached their duty of care and whether the breach caused the patient's injuries, taking into account the patient's actions."
+  },
+  {
+    "Query": "A property owner is seeking to develop land, but the local municipality has denied their application. The property owner argues that the denial is arbitrary and unreasonable. How should the court determine whether the municipality's decision is lawful?",
+    "Legal Principles": "The court will apply principles of administrative law and land use planning, reviewing the municipality's decision for procedural fairness, rationality, and compliance with relevant zoning regulations.",
+    "Relevant Sections": "Relevant sections of the municipal planning and zoning regulations, administrative law principles, and case law on land use disputes.",
+    "Context": "This is a case involving a challenge to a municipality's decision to deny a development application. The court needs to assess the municipality's decision for legality and fairness."
+  },
+  {
+    "Query": "A company is being sued for copyright infringement. The company claims that it used the copyrighted material fairly under the doctrine of fair use. How should the court determine whether the company's use was fair?",
+    "Legal Principles": "The court will apply the four-factor test for fair use, considering the purpose and character of the use, the nature of the copyrighted work, the amount and substantiality of the portion used, and the effect of the use on the potential market for the copyrighted work.",
+    "Relevant Sections": "Relevant sections of copyright law, case law on fair use, and the four-factor test for determining fair use."
+    "Context": "This is a copyright infringement case. The court needs to assess whether the company's use of copyrighted material qualifies as fair use under copyright law."
+  },
+  {
+    "Query": "A bank is seeking to foreclose on a mortgage. The borrower argues that the bank did not properly notify them of the default and that they have a right to cure the default. How should the court determine the validity of the foreclosure proceedings?",
+    "Legal Principles": "The court will apply principles of mortgage law and foreclosure procedures. It will review the bank's actions for compliance with applicable regulations and the borrower's right to cure the default.",
+    "Relevant Sections": "Relevant sections of the mortgage law, foreclosure regulations, and case law on foreclosure proceedings."
+    "Context": "This is a foreclosure case. The court needs to determine whether the bank has followed proper procedures in seeking foreclosure and whether the borrower has a right to cure the default."
+  }
+]
+```

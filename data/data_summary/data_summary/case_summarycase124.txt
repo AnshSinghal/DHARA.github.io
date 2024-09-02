@@ -1,0 +1,121 @@
+## 1. Case Title
+
+* **Case Name:** M/S Delhi Chemical And Pharmaceutical Works Pvt. Ltd. & Anr. vs. Himgiri Realtors Pvt. Ltd. & Anr.
+* **Court:** Delhi High Court
+* **Date of Judgment:** 5th July, 2021
+* **Citation:** AIRONLINE 2021 DEL 1955
+
+## 2. Background and Context
+
+* **Brief Overview:** This case involves a dispute over the execution of an arbitral award. The respondent, Himgiri Realtors Pvt. Ltd. (Decree Holder), had obtained an arbitral award against the appellants, Delhi Chemical and Pharmaceutical Works Pvt. Ltd. and Ameet Sharma (Judgment Debtors), for a sum of Rs. 21,17,80,487. The Decree Holder filed an execution petition seeking enforcement of the award as a decree of the court. The Judgment Debtors argued that the Decree Holder was already in possession of a valuable property belonging to them, exceeding the amount of the award, and therefore, no further disclosure of assets was required. They also challenged the procedure laid down in Bhandari Engineers & Builders Pvt. Ltd. vs. Maharia Raj Joint Venture, a prior Delhi High Court judgment, which mandated the filing of detailed affidavits of assets and income by judgment debtors in execution proceedings.
+* **Key Issues:** 
+    * Maintainability of the appeal against the order directing the filing of affidavits in execution proceedings.
+    * Whether the Commercial Division of the Delhi High Court has jurisdiction to entertain execution petitions arising from arbitral awards in commercial disputes.
+    * Whether the procedure for disclosure of assets laid down in Bhandari Engineers & Builders Pvt. Ltd. vs. Maharia Raj Joint Venture is valid and applicable in all cases.
+    * Whether the Judgment Debtors' right to privacy was infringed by the order directing them to disclose sensitive personal information.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * Commercial Courts Act, 2015, Sections 2, 6, 7, 10, 13, 13(1A)
+    * Arbitration and Conciliation Act, 1996, Sections 34, 36
+    * Code of Civil Procedure, 1908 (CPC), Orders XXI, XLIII, XLVIII, Section 47
+    * Indian Evidence Act, 1872, Sections 106, 165
+    * Constitution of India, Articles 21, 227
+* **Precedents Cited:**
+    * Bhandari Engineers & Builders Pvt. Ltd. vs. Maharia Raj Joint Venture MANU/DE/4601/2019
+    * M.L. Gupta vs. Aerens Gold Souk International Ltd. 2018 SCC OnLine Del 7621
+    * United Phosphorous Ltd. vs. A.K. Kanoria AIR 2003 Bom 97
+    * Srei Equipment Finance Pvt. Ltd. vs. Khyoda Apik AIR 2016 Cal 293 (DB)
+    * Kohinoor Transporters Vs. State of Uttar Pradesh (2018) 18 SCC 165
+    * M.V. Vali Pero Vs. Fernando Lopez AIR 1989 SC 2206
+    * Emkay Global Financial Services Ltd. Vs. Girdhar Sondhi (2018) 9 SCC 49
+    * Bachhaj Nahar Vs. Nilima Mandal (2008) 17 SCC 491
+    * D&H India Ltd. Vs. Superon Schweisstechnik India Ltd. (2020) 268 DLT 15 (DB)
+    * HPL (India) Limited Vs. QRG Enterprises (2017) 238 DLT 123 (DB)
+    * Samsung Leasing Ltd. Vs. Samsung Electronics Co. Ltd. (2017) 242 DLT 608 (DB)
+    * Rahul Gupta Vs. Pratap Singh (2014) 206 DLT 188 (DB)
+    * Shah Babulal Khimji Vs. Jayaben D. Kaniya (1981) 4 SCC 8
+    * Prasar Bharati Vs. Stracon India Limited MANU/DE/1371/2020
+    * Anirban Roy Vs. Ram Kishan Gupta MANU/DEL/3524/2017
+    * K.S. Puttaswamy Vs. Union of India (2017) 10 SCC 1
+    * Bayer Intellectual Property GMBH Vs. Symed Laboratories Ltd. 2019 SCC OnLine Del 7410
+    * Rahul S. Shah Vs. Jinendra Kumar Gandhi 2021 SCC OnLine SC 341
+    * General Manager of the Raja Durbhunga Vs. Maharaja Coomar Ramaput Singh 1872 SCC OnLine PC 16
+    * Padam Sen Vs. State of UP AIR 1961 SC 218
+    * Ram Chand and Son Sugar Mills Private Ltd. Vs. Kanhayalal Bhargava AIR 1966 SC 1899
+    * Nain Singh Vs. Koonwarjee (1970) 1 SCC 732
+    * P.A. Ahammed Ibrahim Vs. Food Corporation of India (1999) 7 SCC 39
+    * Shipping Corporation of India Ltd. Vs. Machado Brothers (2004) 11 SCC 168
+    * Durgesh Sharma Vs. Jayshree (2008) 9 SCC 648
+    * Ram Prakash Agarwal Vs. Gopi Krishan (2013) 11 SCC 296
+    * Bachubai Manjrekar Vs. Raghunath Ghanshyam Manjrekar MANU/MH/0159/1941
+    * Jolly George Varghese Vs. The Bank of Cochin (1980) 2 SCC 360
+    * Vinod Seth Vs. Devinder Bajaj (2010) 8 SCC 1
+* **Legal Doctrines:**
+    * Inherent powers of the court under Section 151 of the CPC
+    * Interpretation of statutes and rules of procedure
+    * Right to privacy under the Constitution
+    * Principles of natural justice
+    * Powers of superintendence under Article 227 of the Constitution
+
+## 4. Arguments Presented
+
+* **Appellants’ Argument:**
+    * The Commercial Division erred in directing the Judgment Debtors to file affidavits of assets without an application from the Decree Holder and without the decree remaining unsatisfied.
+    * The Decree Holder was already in possession of a property belonging to the Judgment Debtors, exceeding the amount of the award, providing sufficient security for the decretal amount.
+    * The procedure prescribed in Bhandari Engineers & Builders Pvt. Ltd. vs. Maharia Raj Joint Venture for disclosure of assets was not applicable in this case and was excessively intrusive, infringing the Judgment Debtors' right to privacy.
+    * The Commercial Division did not have jurisdiction to entertain the execution petition as it was not an application arising out of arbitration under the Arbitration Act.
+    * The appeal was maintainable under Section 13(1A) of the Commercial Courts Act, notwithstanding the proviso restricting appeals to orders enumerated in Order XLIII of the CPC.
+* **Respondents’ Argument:**
+    * The Judgment Debtors' offer to file affidavits in sealed covers in the review petition estopped them from challenging the order directing the filing of affidavits.
+    * The Commercial Division had jurisdiction to entertain the execution petition as the subject matter of the arbitration was a commercial dispute of a specified value.
+    * The procedure laid down in Bhandari Engineers & Builders Pvt. Ltd. vs. Maharia Raj Joint Venture was necessary to ensure expeditious execution of decrees and prevent delay.
+    * The Decree Holder was not aware of all the assets of the Judgment Debtors, and the affidavits were necessary to trace those assets.
+    * The appeal was not maintainable as it challenged an order passed by the Commercial Division, which was not enumerated in Order XLIII of the CPC.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The court found that the Commercial Division had jurisdiction to entertain execution petitions arising from arbitral awards in commercial disputes.
+    * The court held that the procedure laid down in Bhandari Engineers & Builders Pvt. Ltd. vs. Maharia Raj Joint Venture was not applicable in all cases and was not a valid exercise of the court's inherent powers.
+    * The court recognized the importance of protecting the right to privacy and held that the Judgment Debtors could not be compelled to disclose all the information sought in the affidavits formulated in Bhandari Engineers & Builders Pvt. Ltd. vs. Maharia Raj Joint Venture.
+    * The court found that the appeal was maintainable under Section 13(1A) of the Commercial Courts Act.
+* **Interpretation of Law:**
+    * The court interpreted Section 10 of the Commercial Courts Act broadly, holding that it encompasses execution petitions arising from arbitral awards in commercial disputes.
+    * The court held that Section 151 of the CPC and Article 227 of the Constitution do not empower a single judge to issue general directions binding on all courts.
+    * The court found that Order XXI Rule 41 of the CPC requires an application from the decree holder and the decree to remain unsatisfied before a direction for disclosure of assets can be issued.
+* **Application of Law:**
+    * The court applied the principles of natural justice and held that the Judgment Debtors should have been given an opportunity to be heard before the order directing them to file affidavits was passed.
+    * The court applied the right to privacy enshrined in the Constitution to protect the Judgment Debtors from being compelled to disclose sensitive personal information.
+    * The court applied the principles of statutory interpretation to hold that the procedure laid down in Bhandari Engineers & Builders Pvt. Ltd. vs. Maharia Raj Joint Venture was not a valid exercise of the court's inherent powers.
+
+## 6. Judgment
+
+* **Final Decision:** The appeal was allowed. The impugned orders directing the Judgment Debtors to file affidavits of assets were set aside.
+* **Relief Granted:** The Judgment Debtors were exempted from filing the affidavits.
+* **Orders:** The Commercial Division was directed to proceed with the execution of the arbitral award in accordance with law.
+
+## 7. Implications
+
+* **Impact on Law:** The judgment clarifies the scope of jurisdiction of the Commercial Division in execution matters. It also clarifies the application of the procedure laid down in Bhandari Engineers & Builders Pvt. Ltd. vs. Maharia Raj Joint Venture and emphasizes the need for a balanced approach between the decree holder's right to recover the decretal amount and the judgment debtor's right to privacy.
+* **Future Relevance:** This judgment is likely to be relevant in future cases involving the execution of arbitral awards in commercial disputes and may impact the procedure followed by courts in directing disclosure of assets by judgment debtors.
+* **Broader Context:** The judgment highlights the importance of striking a balance between the principles of procedural fairness, right to privacy, and the need for expeditious disposal of cases in the Indian legal system.
+
+## 8. Summary Points
+
+* The Commercial Division has jurisdiction over execution petitions arising from arbitral awards in commercial disputes.
+* The procedure for disclosure of assets laid down in Bhandari Engineers & Builders Pvt. Ltd. vs. Maharia Raj Joint Venture is not applicable in all cases and was not a valid exercise of the court's inherent powers.
+* A direction for disclosure of assets under Order XXI Rule 41 of the CPC requires an application from the decree holder and the decree to remain unsatisfied.
+* The court must consider the right to privacy of the judgment debtor when ordering disclosure of assets.
+* The appeal was maintainable under Section 13(1A) of the Commercial Courts Act.
+
+## 9. References
+
+* **Citations:**
+    * All statutes, cases, and legal texts cited in the summary.
+* **Further Reading:**
+    * Other judgments related to execution of decrees and arbitral awards.
+    * Legal articles discussing the right to privacy in the Indian legal system.
+
+This summary provides a comprehensive overview of the case, its legal principles, the arguments presented, the court's analysis, and the judgment. It also explores the implications of the judgment for future cases and the broader legal landscape. 

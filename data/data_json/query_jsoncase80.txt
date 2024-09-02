@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A plaintiff is seeking an injunction against a defendant for trademark infringement and passing off. The defendant argues that the plaintiff's previous suit, which was dismissed due to technical reasons, bars the current suit under Order II Rule 2 CPC.  What is the legal principle that governs the maintainability of a second suit for trademark infringement when the first suit was dismissed due to technical reasons?",
+    "Legal Principles": "The legal principle governing this situation is the principle of *res judicata* and the application of Order II Rule 2 CPC.  *Res judicata* prevents parties from relitigating the same cause of action. Order II Rule 2 CPC addresses the filing of multiple suits based on the same cause of action. The Supreme Court's decision in *Bengal Waterproof Ltd. v. Bombay Waterproof Manufacturing Company* (1997) 1 SCC 99 provides guidance on the maintainability of a second suit for trademark infringement when the first suit was dismissed for technical reasons.",
+    "Relevant Sections": "Order II Rule 2 CPC; Section 135 of the Trademarks Act, 1999; *Bengal Waterproof Ltd. v. Bombay Waterproof Manufacturing Company* (1997) 1 SCC 99",
+    "Context": "This query focuses on trademark infringement and the application of Order II Rule 2 CPC in a situation where a previous suit was dismissed for technical reasons. The jurisdiction is likely to be the High Court of India, given the mention of the Supreme Court's decision."
+  },
+  {
+    "Query": "A plaintiff filed a suit for trademark infringement and passing off in 2020. The suit is still pending, and no interim injunction has been granted. The plaintiff now seeks an injunction in a separate suit, claiming a new cause of action based on continued infringement since the filing of the first suit. What are the legal arguments against the maintainability of this second suit?",
+    "Legal Principles": "The legal principles at play include the concept of *res judicata*, the principle of *lis pendens*, and the doctrine of abuse of process. These principles aim to prevent unnecessary litigation and ensure that courts are not burdened with multiple suits based on the same cause of action.",
+    "Relevant Sections": "Order II Rule 2 CPC; Section 10 & 11 CPC; *Bengal Waterproof Ltd. v. Bombay Waterproof Manufacturing Company* (1997) 1 SCC 99; *Hari Ram v. Lichmaniya & Ors.* AIR 2003 Raj. 319",
+    "Context": "This case concerns the maintainability of a second suit for trademark infringement when the first suit is still pending. The jurisdiction is likely to be the High Court of India, as the query references arguments related to principles of *lis pendens* and abuse of process."
+  },
+  {
+    "Query": "A plaintiff has filed two suits against a defendant for trademark infringement, claiming relief for damages in one suit and rendition of accounts of profits in the other suit.  Is this permissible under the Trademarks Act, 1999, and how should the court handle this situation?",
+    "Legal Principles": "Section 135(1) of the Trademarks Act, 1999, dictates that a plaintiff can only choose one remedy for trademark infringement – either damages or an account of profits. The court must address the issue of forum shopping and prevent the abuse of legal process.",
+    "Relevant Sections": "Section 135(1) of the Trademarks Act, 1999; Order II Rule 2 CPC",
+    "Context": "This query examines the permissible remedies for trademark infringement under the Trademarks Act, 1999, and the potential for forum shopping when a plaintiff files two suits seeking different remedies for the same infringement."
+  },
+  {
+    "Query": "A plaintiff filed a suit in a District Court for trademark infringement. The suit is pending, and the plaintiff now seeks to file a second suit in a High Court for the same infringement, alleging that the District Court is causing undue delay in adjudicating the first suit. What are the legal arguments against this move?",
+    "Legal Principles": "The principles of *lis pendens*, abuse of process, and forum shopping apply to this situation.  The court must consider whether the delay in the first suit justifies the filing of a second suit in a higher court.",
+    "Relevant Sections": "Order II Rule 2 CPC; Section 10 & 11 CPC; *M/s Allied Blenders and Distillers Pvt. Ltd. & Ors. v. Amit Dahanukar & Anr.* 261 (2019) DLT 692",
+    "Context": "This query involves a plaintiff attempting to file a second suit in a higher court due to delays in the first suit. The jurisdiction is likely to be the High Court of India, as the query mentions the filing of a second suit in a higher court."
+  },
+  {
+    "Query": "Two parties are engaged in litigation over trademark infringement.  One party has filed a suit in a District Court, and the other party has filed a separate suit in a High Court on the same matter, claiming a new cause of action. The High Court finds that the second suit is not maintainable. How should the High Court address the issue of delays in the District Court proceeding?",
+    "Legal Principles": "The High Court should uphold the principle of *lis pendens* and discourage forum shopping. However, the High Court should also acknowledge the potential for delays in the District Court proceedings and provide guidance to the Plaintiff on how to address these delays.",
+    "Relevant Sections": "Order II Rule 2 CPC; Section 10 & 11 CPC; *Deepti Khera v. Siddharth Khera* [CM (M) 1637/2019, decided on 18th November, 2019]",
+    "Context": "This query involves a scenario where the High Court dismisses a second suit as not maintainable but must address the issue of delays in the first suit proceeding in the District Court. The jurisdiction is the High Court of India, as the query focuses on the High Court's actions."
+  },
+  {
+    "Query": "A plaintiff filed a suit for trademark infringement in a District Court and is now seeking to file a second suit in the same District Court, alleging a fresh cause of action due to the defendant's ongoing infringement.  Is this permissible, and what are the legal considerations?",
+    "Legal Principles": "The principle of *lis pendens* applies to this situation, meaning that a suit is pending in the same court.  The court must consider whether the plaintiff's new suit is based on a truly distinct cause of action or if it is merely an attempt to re-litigate the same issues.",
+    "Relevant Sections": "Order II Rule 2 CPC; Section 10 & 11 CPC; *Prapti Fashions Private Limited and Ors. v. Manoj Kumar Gupta* 2014 (59) PTC 667(Cal)",
+    "Context": "This query focuses on the filing of a second suit in the same District Court for trademark infringement. The jurisdiction is the District Court in India, as the query mentions the filing of a suit in the same court."
+  },
+  {
+    "Query": "A plaintiff filed a suit for trademark infringement against a defendant in 2019. The suit is still pending. The plaintiff now wants to file a fresh suit for infringement based on the defendant's continued use of the infringing mark after the filing of the first suit. What are the legal arguments for and against the maintainability of the second suit?",
+    "Legal Principles": "The maintainability of the second suit depends on whether the new suit is based on a distinct cause of action and whether it would constitute abuse of process. The court must consider the principle of *lis pendens*, res judicata, and the possibility of forum shopping.",
+    "Relevant Sections": "Order II Rule 2 CPC; Section 10 & 11 CPC; *Indian Herbs Research & Supply Co. Ltd. and Ors. v. Lalji Mal & Ors.* 95 (2002) DLT 723",
+    "Context": "This case concerns the maintainability of a second suit for trademark infringement when the first suit is still pending. The jurisdiction is likely to be a District Court or High Court in India, as the query mentions the filing of a second suit based on continued infringement."
+  },
+  {
+    "Query": "A plaintiff filed a suit for trademark infringement in a High Court and was denied an interim injunction. The plaintiff now wants to file a second suit in a District Court for the same infringement, arguing that the High Court's decision does not prevent them from seeking relief in a lower court. What are the legal arguments against this approach?",
+    "Legal Principles": "The principles of comity, forum shopping, and *lis pendens* apply to this situation. The court must consider the potential for conflict and the potential for abuse of process.",
+    "Relevant Sections": "Order II Rule 2 CPC; Section 10 & 11 CPC; *M/s Allied Blenders and Distillers Pvt. Ltd. & Ors. v. Amit Dahanukar & Anr.* 261 (2019) DLT 692",
+    "Context": "This query involves a plaintiff attempting to file a second suit in a lower court after being denied relief in a higher court. The jurisdiction is likely to be the District Court in India, as the query mentions the filing of a suit in a lower court."
+  },
+  {
+    "Query": "A defendant is accused of trademark infringement. The plaintiff filed a suit in a District Court, but the judge presiding over the case has not issued any orders for several years. The plaintiff now wants to file a second suit in the High Court, citing the delay in the District Court proceedings. Is this a valid strategy, and what are the legal implications?",
+    "Legal Principles": "The principle of *lis pendens* applies, and the court must consider whether the delay in the first suit justifies filing a second suit. The court must also consider the potential for abuse of process and forum shopping.",
+    "Relevant Sections": "Order II Rule 2 CPC; Section 10 & 11 CPC; *Deepti Khera v. Siddharth Khera* [CM (M) 1637/2019, decided on 18th November, 2019]",
+    "Context": "This query involves a plaintiff seeking to file a second suit in a higher court due to delays in the first suit. The jurisdiction is the High Court of India, as the query mentions the filing of a second suit in a higher court."
+  },
+  {
+    "Query": "A plaintiff filed a suit for trademark infringement and passing off.  The defendant argues that the plaintiff's earlier suit was dismissed for technical reasons, and therefore, the present suit is barred under the principle of res judicata. What are the arguments the plaintiff can make to counter the defendant's argument?",
+    "Legal Principles": "The principle of res judicata applies, but it does not bar subsequent suits if the earlier suit was dismissed for technical reasons.  The Supreme Court's decision in *Bengal Waterproof Ltd. v. Bombay Waterproof Manufacturing Company* (1997) 1 SCC 99 provides guidance on the maintainability of a second suit for trademark infringement when the first suit was dismissed for technical reasons.",
+    "Relevant Sections": "Order II Rule 2 CPC; Section 135 of the Trademarks Act, 1999; *Bengal Waterproof Ltd. v. Bombay Waterproof Manufacturing Company* (1997) 1 SCC 99",
+    "Context": "This query involves a defendant arguing that a prior suit bars the current suit under the principle of res judicata. The plaintiff is seeking to counter this argument. The jurisdiction is likely to be a District Court or High Court in India, as the query discusses the principle of res judicata."
+  }
+]
+```

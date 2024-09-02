@@ -1,0 +1,121 @@
+## 1. Case Title
+
+•	Case Name: State of Gujarat vs. Union of India 
+•	Court: Gujarat High Court
+•	Date of Judgment: 7th May 2018
+•	Citation: C/SCA/737/2018
+
+## 2. Background and Context
+
+•	**Brief Overview:** The State of Gujarat (plaintiff) filed a suit against the Union of India (defendant) – represented by the railway authorities – for recovery of Rs. 36,89,79,820/- with interest. This amount was claimed as due for the usage of water from the Kali river for domestic and non-domestic purposes by the railway authorities. The plaintiffs claimed an agreement was signed in 1971, but the defendants stopped paying water usage charges after June 1995. 
+
+•	**Key Issues:** 
+    * Whether the Kali river is a "notified river" under Section 5 of the Bombay Irrigation Act.
+    * The maintainability of a writ petition under Article 227 of the Constitution of India against an interlocutory order of the Commercial Court in light of the bar under Section 8 of the Commercial Courts Act.
+
+## 3. Legal Principles Involved
+
+•	**Relevant Statutes and Provisions:**
+    * Article 227 of the Constitution of India (Superintendence of High Courts over Subordinate Courts)
+    * Section 8 of the Commercial Courts Act (Bar against revision application or petition against an interlocutory order)
+    * Order VII Rule 14(3) and Order XI Rule 1(5) of the Code of Civil Procedure (CPC)
+    * Section 5 of the Bombay Irrigation Act
+    * Indian Evidence Act, 1872
+
+•	**Precedents Cited:**
+    * L. Chandra Kumar v. Union of India And Others (1997)3 SCC 261
+    * Surya Dev Rai v. Ram Chander Rai And Others (2003)6 SCC 675
+    * Shalini Shyam Shetty And Another v. Rajendra Shankar Patil (2010)8 SCC 329
+    * Kaikhusroo Phirozshah Doctor v. State of Bombay AIR 1955 Bombay 220
+    * State of Gujarat Etc. v. Vakhatsinghji Vajesinghji Vaghela (Dead) By His Legal Representatives And Others Etc. AIR 1968 SC 1481
+    * K. Kannadasan v. Ajoy Khose And Others (2009)7 SCC 1
+    * Coal India Ltd. And Others v. Saroj Kumar Mishra (2007)9 SCC 625
+    * Zee Telefilms Ltd. And Another v. Union of India And Others (2005)4 SCC 649
+    * Guruvayoor Devaswom Managing Committee And Another v. C.K.Rajan And Others (2003)7 SCC 546
+    * HPL (India) Limited & Ors. v. QRG Enterprises And Another (2017)
+    * Sigmarq Technologies Pvt. Ltd. And Ors. v. Manugrah India Limited And Ors. (2017)
+
+•	**Legal Doctrines:**
+    * Judicial Superintendence under Article 227
+    * Basic Structure of the Constitution
+    * Interpretation of Statutory Provisions
+    * Maintainability of Writs
+    * Application of Principles of Natural Justice
+    * Principle of Expeditious Justice
+    * Doctrine of Res Judicata (not directly applied, but relevant for the argument about appeal)
+
+## 4. Arguments Presented
+
+•	**Plaintiff’s Argument:**
+    * The plaintiff, the State of Gujarat, argued that the bar under Section 8 of the Commercial Courts Act does not apply to writ petitions under Article 227 of the Constitution. 
+    * They asserted that Article 227 guarantees a constitutional right and cannot be curtailed by legislation.
+    * The plaintiff further argued that the Commercial Court had wrongly refused to allow them to produce documents that were essential to prove their case, particularly the notification declaring the Kali river a "notified river."
+    * They highlighted the importance of these documents, which were over 40 years old and crucial for the outcome of the suit.
+
+•	**Defendant’s Argument:**
+    * The defendant, the Union of India (represented by the railway authorities), argued that the petition under Article 227 was not maintainable because of the bar contained in Section 8 of the Commercial Courts Act.
+    * They contended that the impugned order rejecting the application to produce documents was an interlocutory order, and the petition should be dismissed, leaving it open for the plaintiffs to raise this issue in an appeal against the final judgment. 
+    * The defendant further argued that the plaintiffs had failed to produce the documents during the trial despite having a specific issue framed on the "notified river" status. 
+    * They stated that Order VII Rule 14 of the CPC was not applicable to the Commercial Court and therefore, the plaintiffs were not entitled to rely on documents not initially produced.
+
+## 5. Court’s Analysis and Reasoning
+
+•	**Key Findings:**
+    * The Court acknowledged the crucial nature of the documents sought to be produced by the plaintiffs, particularly the government notifications concerning the Kali river.
+    * The Court found that the Commercial Court had erred in rejecting the application based solely on the non-applicability of Order VII Rule 14 of the CPC to commercial courts.
+    * The Court recognized the importance of ensuring that all relevant documents are made available for the efficient resolution of disputes.
+
+•	**Interpretation of Law:**
+    * The Court meticulously examined Section 8 of the Commercial Courts Act and concluded that it does not explicitly bar writ petitions under Article 227 of the Constitution. 
+    * The Court highlighted the wording of Section 8, which primarily addresses "civil revision application or petition" and not "writ petitions."
+    * The Court also referred to previous Supreme Court judgments that underscored the importance of the High Courts' supervisory jurisdiction under Article 227 as an integral part of the basic structure of the Constitution.
+
+•	**Application of Law:**
+    * The Court applied the legal principles established in previous Supreme Court cases, emphasizing that the High Court's power of judicial superintendence cannot be curtailed by legislation.
+    * The Court acknowledged that the bar under Section 8 of the Commercial Courts Act was designed to expedite commercial disputes. However, it also recognized that this bar should not be interpreted to completely negate the High Court's supervisory role under Article 227. 
+    * Applying these principles, the Court concluded that the Commercial Court had wrongly restricted the plaintiffs' right to produce essential documents, potentially resulting in a miscarriage of justice.
+
+## 6. Judgment
+
+•	**Final Decision:** The Court granted the petition and quashed the impugned order of the Commercial Court. 
+
+•	**Relief Granted:** The Court allowed the application filed by the plaintiffs and permitted them to produce the documents listed in Ex.72, subject to proving their authenticity and relevance according to the Indian Evidence Act and payment of costs.
+
+•	**Orders:**
+    * The impugned order dated 03.11.2017 was quashed and set aside.
+    * The plaintiffs were permitted to produce the documents vide list Ex.72.
+    * The plaintiffs were ordered to deposit Rs. 25,000/- as costs with the Commercial Court within four weeks.
+
+## 7. Implications
+
+•	**Impact on Law:**
+    * The judgment clarifies the relationship between Section 8 of the Commercial Courts Act and Article 227 of the Constitution. 
+    * It reaffirms the High Court's supervisory jurisdiction under Article 227 and its applicability even in cases involving interlocutory orders of Commercial Courts.
+    * It highlights the importance of balancing the principle of expeditious justice with ensuring that parties have a fair opportunity to present their case.
+
+•	**Future Relevance:** This judgment serves as a precedent for future cases involving similar issues, particularly in the context of commercial disputes where the application of Section 8 of the Commercial Courts Act may be challenged.
+
+•	**Broader Context:** The case underscores the importance of ensuring access to justice, even within the specialized framework of the Commercial Courts Act. It highlights the need for a balance between efficiency and fairness in judicial proceedings.
+
+## 8. Summary Points
+
+•	**Key Takeaways:**
+    * The High Court's power of superintendence under Article 227 of the Constitution cannot be curtailed by legislation, including the Commercial Courts Act.
+    * While Section 8 of the Commercial Courts Act limits civil revision applications or petitions against interlocutory orders, it does not preclude writ petitions under Article 227.
+    * The High Court can intervene under Article 227 in cases where the Commercial Court has acted in a manner that potentially leads to a miscarriage of justice, particularly when essential evidence is wrongly excluded.
+    * The judgment highlights the importance of applying the principles of natural justice and ensuring that parties have a fair opportunity to present their case, even in the context of specialized commercial courts.
+
+## 9. References
+
+•	**Citations:**
+    * Article 227 of the Constitution of India
+    * Section 8 of the Commercial Courts Act
+    * Order VII Rule 14(3) and Order XI Rule 1(5) of the Code of Civil Procedure (CPC)
+    * Section 5 of the Bombay Irrigation Act
+    * Indian Evidence Act, 1872
+
+•	**Further Reading:**
+    * L. Chandra Kumar v. Union of India And Others (1997)3 SCC 261
+    * Surya Dev Rai v. Ram Chander Rai And Others (2003)6 SCC 675
+    * Shalini Shyam Shetty And Another v. Rajendra Shankar Patil (2010)8 SCC 329 
+    * Other judgments cited in the case summary 

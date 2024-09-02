@@ -1,0 +1,74 @@
+##  M/S Lucknow Agencies Lko.Throu.Sole ... vs U.P.Avas Vikas Parishad Throu.Housing ... 
+
+**1. Case Title**
+
+* **Case Name:** M/S Lucknow Agencies Lko.Throu.Sole Proprietor And Anr. vs U.P.Avas Vikas Parishad Throu.Housing Commissioner Lko.& Ors
+* **Court:** Allahabad High Court, Lucknow Bench
+* **Date of Judgment:** 15 March, 2019
+* **Citation:**  Not provided in the text.
+
+**2. Background and Context**
+
+* **Brief Overview:**  M/S Lucknow Agencies (Applicant) filed an application under Section 29-A(4) and (5) of the Arbitration and Conciliation Act, 1996 (the "Act, 1996") seeking an extension of the time limit to complete arbitral proceedings. The arbitration was initiated by the U.P. Avas Vikas Parishad (Opposite Party) through its Housing Commissioner, who appointed the Arbitrator.
+* **Key Issues:**  The central issue was the determination of the competent court for extending the time limit for completing arbitral proceedings under Section 29-A(4) and (5) of the Act, 1996. 
+
+**3. Legal Principles Involved**
+
+* **Relevant Statutes and Provisions:**
+    * **The Arbitration and Conciliation Act, 1996 (26 of 1996):**
+        * **Section 29-A(1):** Specifies the time limit for completing arbitral proceedings.
+        * **Section 29-A(3):**  Allows for the extension of the time limit by mutual consent of the parties.
+        * **Section 29-A(4):** Terminates the Arbitrator's mandate if the award is not made within the prescribed time limit unless the Court extends the period.
+        * **Section 29-A(5):**  Permits the Court to extend the time limit upon application by any party for sufficient cause.
+        * **Section 2(1)(e):** Defines "Court" for different types of arbitrations.
+    * **Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015:**
+        * **Section 4:**  Deals with the constitution of Commercial Divisions of High Courts.
+        * **Section 7:** Defines the jurisdiction of Commercial Divisions of High Courts.
+        * **Section 10:** Specifies jurisdiction in respect of arbitration matters, particularly for international and non-international commercial arbitrations.
+* **Precedents Cited:**  None explicitly mentioned in the judgment.
+* **Legal Doctrines:**  
+    * **Jurisdiction:**  The court's authority to hear and decide a case.
+    * **Interpretation of Statutes:** How courts determine the meaning and application of legislative provisions.
+    * **Harmonious Construction:** The principle of interpreting different statutes together to achieve a consistent understanding.
+
+**4. Arguments Presented**
+
+* **Applicant’s Argument:**  The Applicant argued that the arbitral proceedings could not be concluded within the time limit specified under Section 29-A(1) and the subsequent extension granted by the parties under Section 29-A(3). Therefore, they sought an extension under Section 29-A(4) and (5).
+* **Opposite Party’s Argument:** The Opposite Party did not present specific arguments regarding the jurisdiction of the court in the judgment text provided.
+
+**5. Court’s Analysis and Reasoning**
+
+* **Key Findings:** 
+    * The court found that the Arbitrator was appointed by the Housing Commissioner and not by the court under Section 11 of the Act, 1996.
+    * The court interpreted the definition of "Court" under Section 2(1)(e) of the Act, 1996, as amended in 2016, to mean the Principal Civil Court of original jurisdiction in a District (District Judge's Court) and not the High Court.
+    * The Allahabad High Court does not have ordinary original civil jurisdiction to try commercial disputes, which is a requirement for the Commercial Division of the High Court to exercise jurisdiction under the Commercial Courts Act, 2015.
+* **Interpretation of Law:** The court interpreted the definition of "Court" under Section 2(1)(e) of the Act, 1996, and concluded that the Allahabad High Court lacked the necessary jurisdiction to extend the time limit under Section 29-A(4) and (5) of the Act, 1996.
+* **Application of Law:**  The court applied the interpretation of "Court" and the provisions of the Commercial Courts Act, 2015, to determine that the application was not maintainable before the Allahabad High Court.
+
+**6. Judgment**
+
+* **Final Decision:** The application filed by the Applicant under Section 29-A(4) and (5) of the Act, 1996 was dismissed.
+* **Relief Granted:** No relief was granted as the application was dismissed.
+* **Orders:** The court ordered that the concerned parties or the Arbitrator themselves could approach the "Court," as defined in the judgment, for seeking an extension of the time limit.
+
+**7. Implications**
+
+* **Impact on Law:**  The judgment clarifies the meaning of "Court" under Section 29-A of the Act, 1996, as it relates to non-international commercial arbitrations. It also highlights the jurisdictional limitations of the Allahabad High Court in arbitration matters.
+* **Future Relevance:** This judgment serves as a precedent for future cases involving applications for extensions of time limits in non-international commercial arbitrations in the Allahabad High Court.
+* **Broader Context:** The case highlights the importance of understanding the jurisdiction of courts in arbitration matters and the need to apply the appropriate legal framework when dealing with such cases.
+
+**8. Summary Points**
+
+* The Allahabad High Court does not have jurisdiction to extend the time limit for completing arbitral proceedings under Section 29-A(4) and (5) of the Act, 1996 in non-international commercial arbitrations.
+* The application seeking extension of the time limit was dismissed.
+* The parties or the Arbitrator were given liberty to approach the appropriate "Court" as defined in the judgment.
+
+**9. References**
+
+* **The Arbitration and Conciliation Act, 1996 (26 of 1996):**  Sections 2(1)(e), 29-A(1), 29-A(3), 29-A(4), 29-A(5), and 11.
+* **Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015:** Sections 4, 7, and 10.
+* **Allahabad High Court Rules, 1952:** Chapter VIII.
+* **Further Reading:**
+    *  **The Arbitration and Conciliation Act, 1996** 
+    * **Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015** 
+    * **Related case law on jurisdiction in arbitration matters**

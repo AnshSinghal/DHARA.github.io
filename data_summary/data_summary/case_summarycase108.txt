@@ -1,0 +1,146 @@
+## 1. Case Title
+
+* **Case Name:** M/S. Saptarishi Hotels Pvt. Ltd., vs National Institute Of Tourism And Hospitality Management (NITHM)
+* **Court:** Telangana High Court
+* **Date of Judgment:** 11th October, 2019
+* **Citation:** Not provided in the document. 
+
+## 2. Background and Context
+
+* **Brief Overview:** The case involves a dispute between M/S. Saptarishi Hotels Pvt. Ltd. (Appellants) and National Institute of Tourism & Hospitality Management (NITHM) (Respondent) arising from a failed hotel development project. The Appellants and Respondent entered into a lease and development agreement in 2010 and 2011 respectively, under a 'Build, Operate, and Transfer' (BOT) model. The project faced delays, leading to the Respondent terminating the agreements in 2016. This termination was challenged by the Appellants, resulting in arbitration proceedings. The Arbitral Tribunal issued a 'nil' Award, rejecting the claims of both parties. The Appellants subsequently sought to set aside the award and sought an injunction against the Respondent's attempt to dispossess them from the project site. 
+* **Key Issues:** 
+    *  Maintainability of a petition under Section 9 of the Arbitration and Conciliation Act, 1996 (Act of 1996) by an unsuccessful party in arbitration proceedings.
+    *  The scope of the Court's power under Section 34 of the Act of 1996 to modify an arbitral award.
+    *  Whether the Respondent's actions in taking possession of the project site were lawful. 
+    *  Whether the Appellants were entitled to an injunction against dispossession from the project site.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * **Arbitration and Conciliation Act, 1996:** 
+        * Section 9 (Interim measures, etc., by Court)
+        * Section 34 (Application for setting aside arbitral award) 
+        * Section 36 (Enforcement)
+    * **Commercial Courts Act, 2015:**
+        * Section 13(1A) (Appeal against orders of Commercial Courts)
+* **Precedents Cited:** 
+    * **DIRK INDIA PRIVATE LIMITED V/s. MAHARASHTRA STATE ELECTRICITY GENERATION COMPANY LIMITED** (Bombay High Court)
+    * **NUSSLI SWITZERLAND LTD. V/s. ORGANIZING COMMITTEE, COMMONWEALTH GAMES** (Delhi High Court)
+    * **ADHUNIK STEELS LTD. V/s. ORISSA MANGANESE AND MINERALS PVT. LTD.** (Supreme Court)
+    * **MCDERMOTT INTERNATIONAL INC. V/s. BURN STANDARD CO.LTD.** (Supreme Court)
+    * **MADHYA PRADESH POWER GENERATION COMPANY LIMITED V/s. ANSALDO ENERGIA SPA** (Supreme Court)
+    * **GAIL (INDIA) LTD. V/s. LATIN RASAYANI PRIVATE LTD.** (Gujarat High Court) 
+    * **WESTERN GECO INTERNATIONAL LTD. V/s. ONGC LTD.** (Supreme Court)
+    * **J.G. ENGINEERS PVT. LTD. V/s. UNION OF INDIA** (Supreme Court)
+    * **GAYATRI BALASWAMY V/s. ISG NOVASOFT TECHNOLOGIES LTD.** (Madras High Court)
+    * **UNION OF INDIA V/s. M/S. ARCTIC INDIA** (Bombay High Court)
+    * **ANUPAM ENGINEERS V/s. INDIA OIL CORPORATION LTD.** (Bombay High Court)
+    * **R.S.JIWANI V/s. IRCON INTERNATIONAL** (Bombay High Court) 
+    * **G.D.ANKLESARIA AND CO., RATLAM, M.P. V/s. AIRPORTS AUTHORITY OF INDIA, MUMBAI** (Bombay High Court)
+    * **UNION OF INDIA V/s. MODERN LAMINATORS LTD.** (Delhi High Court)
+    * **SUNIL VASUDEVA V/s. SUNDAR GUPTA** (Supreme Court)
+    * **GUJARAT BOTTLING CO. LTD. V/s. COCA COLA CO.** (Supreme Court)
+    * **LANCO HILLS TECHNOLOGY PARK PVT. LTD., HYDERABAD V/s. MAHABOOB ALAM KHAN** (Andhra Pradesh High Court)
+    * **UNITED COMMERCIAL BANK V/s. BANK OF INDIA** (Supreme Court)
+    * **YASHODA SUPER SPECIALITY HOSPITALS, HYDERABAD V/s. YASHODA MEDICARE AND RESEARCH CENTRE (P) LTD., NEW DELHI** (Andhra Pradesh High Court)
+    * **STATE OF U.P. V/s. MAHARAJA DHARMANDER PRASAD SINGH** (Supreme Court) 
+    * **BISHAN DAS V/s. STATE OF PUNJAB** (Supreme Court) 
+    * **MEGHMALA V/s. G.NARASIMHA REDDY** (Supreme Court)
+* **Legal Doctrines:**
+    * **Judicial Review of Arbitral Awards:** The Court's limited power to review arbitral awards, primarily focused on issues of fraud, bias, violation of natural justice, and public policy.
+    * **Principles of Granting Interim Injunctions:** The Court's discretion in granting interim injunctions, considering factors like prima facie case, balance of convenience, and irreparable injury.
+    * **Interpretation of Statutory Provisions:** The Court's interpretation of the scope and application of the relevant provisions of the Arbitration and Conciliation Act, 1996.
+    * **Doctrine of  Estoppel:** The principle of estoppel arises when the Respondent allowed the Appellants to create a charge on the leasehold rights, suggesting they could not subsequently terminate the lease without proper notice.
+
+## 4. Arguments Presented
+
+* **Appellant's Argument:**
+    * They contended that the Respondent's termination of the agreements was arbitrary and unjustified, leading to the 'nil' Award. 
+    * They argued that the delays in the project were due to the Respondent's actions and not their own.
+    * They claimed to be in possession of the project site pursuant to the agreements and had invested significantly in the project.
+    * They argued that the Respondent's forceful attempt to take possession of the site was unlawful and would cause irreparable harm to their investments.
+    * They argued that they should be granted an injunction under Section 9 of the Act of 1996 to protect their possession pending the outcome of the petitions filed under Section 34 of the Act of 1996 to set aside the 'nil' Award. 
+* **Respondent's Argument:**
+    * They asserted that the Appellants had breached the agreements, leading to their termination.
+    * They argued that the Appellants had failed to complete the project within the stipulated timeline and were in default of payment.
+    * They claimed that they had lawfully taken possession of the project site on 19th December 2018.
+    * They argued that the Appellants' petition under Section 9 of the Act of 1996 was not maintainable because they had lost the arbitration proceedings and there was no enforceable award in their favour.
+    * They claimed that the balance of convenience favored them, as granting an injunction would prevent them from completing the project and causing them financial losses.
+
+## 5. Court's Analysis and Reasoning
+
+* **Key Findings:**
+    * The Court determined that the Appellants' petition under Section 9 of the Act of 1996 was maintainable, rejecting the argument that an unsuccessful party in arbitration cannot seek such relief.
+    * The Court clarified that a Court's power under Section 34 of the Act of 1996 is not limited to simply setting aside an award but can also extend to modifying the award if necessary.
+    * The Court found the Respondent's claim of lawfully taking possession on 19th December 2018 to be invalid, as it occurred before the expiration of the period for filing a petition under Section 34 of the Act of 1996. 
+    * The Court considered the 'No Objection Certificate' issued by the Respondent allowing the Appellants to create a charge on the leasehold rights, indicating a prima facie case for the Appellants.
+    * The Court held that the balance of convenience favored the Appellants due to their significant investments in the project and the potential irreparable harm they could suffer if a third party was brought in to complete the project.
+* **Interpretation of Law:**
+    * The Court interpreted Section 9 of the Act of 1996 to allow both winning and losing parties in arbitration to seek interim relief. 
+    * The Court recognized the Court's power under Section 34 of the Act of 1996 to modify arbitral awards, citing various precedents.
+    * The Court emphasized that the Respondent's action of taking possession before the expiration of the period for filing a petition under Section 34 was not legally sound. 
+* **Application of Law:**
+    * The Court applied the principles of granting interim injunctions based on prima facie case, balance of convenience, and irreparable injury. 
+    * The Court analyzed the facts of the case and concluded that the Appellants had established all three elements necessary for granting interim protection.
+
+## 6. Judgment
+
+* **Final Decision:** The appeal was allowed to the extent indicated in the judgment.
+* **Relief Granted:** 
+    * The Appellants' petition under Section 9 of the Act of 1996 was held to be maintainable.
+    * An interim injunction was granted, ordering a status quo to be maintained pending the outcome of the petitions filed under Section 34 of the Act of 1996.
+    * The Appellants were allowed to take measures to protect the project site and constructions made therein.
+* **Orders:**
+    * The Appellants were restrained from further development or construction on the project site.
+    * The Respondent was restrained from taking any steps to bring in third party interests in the project.
+    * The Commercial Court was directed to dispose of the petitions filed under Section 34 of the Act of 1996 expeditiously.
+
+## 7. Implications
+
+* **Impact on Law:**
+    * This judgment clarifies the maintainability of petitions under Section 9 of the Act of 1996 by parties who have lost in arbitration proceedings, particularly in cases where a 'nil' award has been passed.
+    * The judgment further clarifies the scope of the Court's power under Section 34 of the Act of 1996, confirming its ability to modify awards in certain circumstances.
+* **Future Relevance:**
+    * This case is likely to be cited as precedent in future cases involving similar issues related to the maintainability of Section 9 petitions and the scope of judicial review of arbitral awards.
+* **Broader Context:**
+    * The case emphasizes the importance of adhering to proper legal procedures, particularly in cases involving possession of property.
+    * The judgment highlights the need for Courts to carefully consider the balance of convenience and potential irreparable harm to parties seeking interim relief.
+
+## 8. Summary Points
+
+* The Telangana High Court ruled that an unsuccessful party in arbitration proceedings can maintain a petition under Section 9 of the Arbitration and Conciliation Act, 1996 to seek interim relief even after a 'nil' award has been passed.
+* The Court clarified that its power under Section 34 of the Act of 1996 includes the ability to modify an arbitral award, if necessary.
+* The Court found that the Respondent's claim of taking possession of the project site before the expiration of the period for filing a petition under Section 34 was invalid.
+* The Court granted an interim injunction maintaining the status quo between the parties pending the outcome of the petitions filed under Section 34 of the Act of 1996.
+
+## 9. References
+
+* **Arbitration and Conciliation Act, 1996**
+* **Commercial Courts Act, 2015**
+* **DIRK INDIA PRIVATE LIMITED V/s. MAHARASHTRA STATE ELECTRICITY GENERATION COMPANY LIMITED** (2013 SCC OnLine Bom 481 = (2013) 7 Bom CR 493)
+* **NUSSLI SWITZERLAND LTD. V/s. ORGANIZING COMMITTEE, COMMONWEALTH GAMES** (2014 SCC OnLine Del 4834 = (2014) 145 DRJ 399)
+* **ADHUNIK STEELS LTD. V/s. ORISSA MANGANESE AND MINERALS PVT. LTD.** (AIR 2007 SC 2563)
+* **MCDERMOTT INTERNATIONAL INC. V/s. BURN STANDARD CO.LTD.** ((2006) 11 SCC 181)
+* **MADHYA PRADESH POWER GENERATION COMPANY LIMITED V/s. ANSALDO ENERGIA SPA** ((2018) 16 SCC 661)
+* **GAIL (INDIA) LTD. V/s. LATIN RASAYANI PRIVATE LTD.** (2014 SCC OnLine Guj 14836)
+* **WESTERN GECO INTERNATIONAL LTD. V/s. ONGC LTD.** ((2014) 9 SCC 263)
+* **J.G. ENGINEERS PVT. LTD. V/s. UNION OF INDIA** ((2011) 5 SCC 758)
+* **GAYATRI BALASWAMY V/s. ISG NOVASOFT TECHNOLOGIES LTD.** (2014-5-L.W. 97)
+* **UNION OF INDIA V/s. M/S. ARCTIC INDIA** (2007(5) Mh.L.J. 174)
+* **ANUPAM ENGINEERS V/s. INDIA OIL CORPORATION LTD.** (2009 SCC OnLine Bom 1791)
+* **R.S.JIWANI V/s. IRCON INTERNATIONAL** (2010(1) Mh.L.J. 547)
+* **G.D.ANKLESARIA AND CO., RATLAM, M.P. V/s. AIRPORTS AUTHORITY OF INDIA, MUMBAI** (2010(2) Mh.L.J. 921)
+* **UNION OF INDIA V/s. MODERN LAMINATORS LTD.** (2008 SCC OnLine Del 956)
+* **SUNIL VASUDEVA V/s. SUNDAR GUPTA** (2019 SCC OnLine SC 814)
+* **GUJARAT BOTTLING CO. LTD. V/s. COCA COLA CO.** ((1995) 5 SCC 545)
+* **LANCO HILLS TECHNOLOGY PARK PVT. LTD., HYDERABAD V/s. MAHABOOB ALAM KHAN** ((2012) 4 ALD 385 (DB))
+* **UNITED COMMERCIAL BANK V/s. BANK OF INDIA** (AIR 1981 SC 1426)
+* **YASHODA SUPER SPECIALITY HOSPITALS, HYDERABAD V/s. YASHODA MEDICARE AND RESEARCH CENTRE (P) LTD., NEW DELHI** (2011 (1) ALD 79)
+* **STATE OF U.P. V/s. MAHARAJA DHARMANDER PRASAD SINGH** ((1989) 2 SCC 505) 
+* **BISHAN DAS V/s. STATE OF PUNJAB** (AIR 1961 SC 1570)
+* **MEGHMALA V/s. G.NARASIMHA REDDY** ((2010) 8 SCC 383)
+
+* **Further Reading:** 
+    * **Arbitration and Conciliation Act, 1996** (Complete Act)
+    * **Commercial Courts Act, 2015** (Complete Act)
+    * Other cases related to Section 9 and Section 34 of the Arbitration and Conciliation Act, 1996. 

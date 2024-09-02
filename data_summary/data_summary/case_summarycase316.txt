@@ -1,0 +1,94 @@
+## 1. Case Title
+
+* **Case Name:** Reliance General Insurance Co. Ltd vs. Colonial Life Insurance Co. (Trinidad) Ltd. & Anr.
+* **Court:** Bombay High Court
+* **Date of Judgment:** 24th May 2019
+* **Citation:** Not provided in the text.
+
+## 2. Background and Context
+
+* **Brief Overview:** This case involved a dispute between Reliance General Insurance Company Ltd. (Plaintiff) and Colonial Life Insurance Company (Trinidad) Limited (Defendant No. 1) and K.M. Dastur Reinsurance Brokers Private Limited (Defendant No. 2). The dispute arose after the Defendant No. 1 failed to file a written statement within the mandatory 120-day timeline prescribed by the Commercial Courts Act, 2015 (the "Commercial Courts Act"). The case was initially filed as a non-commercial suit and later transferred to the Commercial Division of the Bombay High Court under the provisions of the Commercial Courts Act.
+* **Key Issues:** The main legal question was whether the mandatory 120-day timeline for filing a written statement in a Commercial Suit applies to suits that were filed before the enactment of the Commercial Courts Act and subsequently transferred to the Commercial Division.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * The Commercial Courts Act, 2015, particularly:
+        * Section 4 - Constitution of Commercial Divisions in High Courts.
+        * Section 15 - Transfer of pending cases to Commercial Divisions and Commercial Courts.
+        * Order XV-A of the Code of Civil Procedure, 1908 (CPC) - Case Management Hearings.
+    * Order V, Rule 1 of the CPC - Service of summons.
+    * Order VIII, Rule 1 of the CPC - Filing of written statement.
+    * Order VIII, Rule 10 of the CPC - Extension of time for filing written statement.
+* **Precedents Cited:**
+    * M/s SCG Contracts India Pvt. Ltd. vs. K.S. Chamankar Infrastructure Pvt. Ltd. & Ors. [2019 SCC OnLine SC 226]
+    * Axis Bank Limited vs. Mira Gehani & Ors. [2019 SCC OnLine Bom 358]
+    * Telefonaktiebolaget L.M. Ericsson vs. Lava International Limited [(2016) 226 DLT 342]
+    * Leitwind Shriram Manufacturing Limited vs. SKF India Limited & Ors. [Chamber Summons Commercial Division No. 336 of 2017 in Commercial Suit No.432 of 2016]
+    * Kailash vs. Nankhu [(2005) 4 SCC 480]
+    * Sandeep Thapar vs. SME Technologies Pvt. Ltd. [(2014) 2 SCC 302]
+    * Justice Micheal F. Saldanha (Retd) vs. Sri. M.P. Noronha [ILR 2016 Kar 4700]
+    * AIS Glass Solutions vs. Moser Baer Solar Limited [(2017) SCC Online Del 11467]
+    * OKU Tech Private Limited v. Sangeet Agarwal, CS(OS) 3390/2015
+* **Legal Doctrines:**
+    * Retrospective application of law.
+    * Harmonious construction of statutes.
+    * Interpretation of statutory provisions.
+    * Waiver of legal rights.
+    * Discretionary powers of courts.
+
+## 4. Arguments Presented
+
+* **Plaintiff’s Argument:**
+    * The mandatory 120-day timeline for filing a written statement applies to all commercial suits, including those transferred from non-commercial suits.
+    * Section 15(4) of the Commercial Courts Act does not suspend the operation of the 120-day timeline but only allows the court to prescribe new timelines within the 120-day period.
+    * The proviso to Section 15(4) does not exclude the application of Order VIII Rule 1, which prescribes the 120-day timeline.
+    * Accepting the defendant's argument would allow defendants in transferred suits to delay filing written statements indefinitely, defeating the purpose of the Commercial Courts Act.
+    * No discrimination should be allowed between fresh commercial suits and transferred commercial suits.
+    * The court had already granted an extension of time for filing the written statement on 21st September 2017.
+* **Defendant’s Argument:**
+    * Section 15(4) of the Commercial Courts Act empowers the court to prescribe new timelines for filing written statements in transferred suits, exempting them from the strict 120-day timeline.
+    * The proviso to Section 15(4) specifically excludes the application of the 120-day timeline prescribed by Order V Rule 1, which is the same as the timeline in Order VIII Rule 1.
+    * The court has the power to condone any delay in filing the written statement.
+    * The defendant's written statement should be accepted on record.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The court found that the clear language of Section 15(4) of the Commercial Courts Act grants the Commercial Division discretionary power to prescribe new timelines for filing written statements in transferred suits.
+    * The proviso to Section 15(4) specifically excludes the application of the 120-day timeline prescribed in Order V Rule 1, which is the same as the timeline in Order VIII Rule 1.
+    * Accepting the plaintiff's argument would render Section 15(4) otiose.
+* **Interpretation of Law:**
+    * The court harmoniously construed Section 15(4) with other provisions of the Commercial Courts Act, including amendments to Order V and Order VIII.
+    * The court held that the 120-day timeline does not apply to transferred suits, as the court has the power to set new timelines under Section 15(4).
+* **Application of Law:**
+    * The court applied the interpretation of Section 15(4) to the facts of the case, concluding that the 120-day timeline was not applicable to the suit.
+
+## 6. Judgment
+
+* **Final Decision:** The court held that the mandatory 120-day timeline for filing a written statement in a Commercial Suit is not applicable to suits that were filed before the enactment of the Commercial Courts Act and subsequently transferred to the Commercial Division of the Bombay High Court.
+* **Relief Granted:** The court did not grant any specific relief in this order, as the matter was remanded to the appropriate bench for further consideration of the application seeking condonation of delay.
+* **Orders:**
+    * The court directed that necessary orders regarding the application seeking condonation of delay be passed by the appropriate bench at the time of hearing.
+    * The appropriate bench was to consider whether the hearing held on 21st September 2017 and the order passed on that date constituted a 'Case Management Hearing' under Order XV-A of the CPC.
+
+## 7. Implications
+
+* **Impact on Law:** The judgment clarifies that the 120-day timeline for filing a written statement does not apply to suits transferred to the Commercial Division under Section 15 of the Commercial Courts Act. It affirms the court's power to set new timelines for such cases.
+* **Future Relevance:** This case provides valuable guidance on the interpretation and application of Section 15(4) of the Commercial Courts Act in cases involving transferred suits. It is likely to be cited in future cases concerning similar situations.
+* **Broader Context:** The case highlights the importance of ensuring fairness and efficiency in the legal process, while acknowledging the complexities arising from the retrospective application of new laws.
+
+## 8. Summary Points
+
+* The 120-day timeline for filing a written statement does not apply to suits transferred to the Commercial Division under the Commercial Courts Act.
+* Section 15(4) of the Commercial Courts Act allows the court to set new timelines for filing written statements in transferred suits.
+* The court has the power to condone delay in filing a written statement in transferred suits.
+* The judgment clarifies the application of the Commercial Courts Act to suits filed before its enactment.
+
+## 9. References
+
+* **Citations:** Refer to the section on "Legal Principles Involved" for full citations of the relevant statutes, rules, and precedents.
+* **Further Reading:** 
+    * The Commercial Courts Act, 2015.
+    * The Code of Civil Procedure, 1908.
+    * Relevant decisions of the Supreme Court and High Courts on the Commercial Courts Act and the applicability of the 120-day timeline.

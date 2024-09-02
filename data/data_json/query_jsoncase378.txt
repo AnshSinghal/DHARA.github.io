@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A company entered into a contract with a government agency for the supply of goods. The contract had a specific price clause, but the government later issued a new pricing regulation that was lower than the contractual price. The company claims that the contract should still be governed by the original price clause, while the government argues that the new regulation applies. How do courts determine which pricing rule prevails in such cases?",
+    "Legal Principles": "Contractual interpretation, government regulations, privity of contract,  implied terms,  frustration of contract, novation.",
+    "Relevant Sections": "The court will need to review the specific contract terms, the government regulation, and relevant sections of the law governing contracts and government regulations in the relevant jurisdiction. For instance, the court may refer to sections on contractual interpretation, privity of contract,  implied terms, and frustration of contract. The court might also look at the relevant government regulation and the process by which it was enacted.",
+    "Context": "This is a dispute regarding the interpretation of a contract in the context of a government regulation and applies to commercial contracts in various jurisdictions."
+  },
+  {
+    "Query": "A contractor was hired to build a building, but the project was delayed due to unforeseen circumstances. The owner claims the contractor breached the contract by not completing the project on time, while the contractor argues the delay was beyond their control. How do courts determine whether a delay in contract performance is excusable?",
+    "Legal Principles": "Breach of contract,  force majeure,  impossibility of performance,  mitigation of damages,  delay in performance.",
+    "Relevant Sections": "Relevant sections of the contract, particularly those relating to the completion date, and force majeure clauses. The court may also refer to sections of the law governing contracts on breach of contract,  impossibility of performance,  mitigation of damages, and delay in performance.",
+    "Context": "This is a common dispute arising in construction contracts and applies to cases involving contractual obligations and unforeseen circumstances."
+  },
+  {
+    "Query": "Two parties entered into a contract, but one party subsequently made changes to the contract without the other party's consent. The party who did not consent claims the contract is no longer valid due to the unauthorized changes. How do courts address situations where one party unilaterally modifies a contract?",
+    "Legal Principles": "Contractual modification,  unilateral alteration,  material breach,  waiver,  estoppel.",
+    "Relevant Sections": "The court will need to examine the specific contract terms, including those relating to modifications and amendments. The court will also refer to sections on contractual modification,  material breach,  waiver, and estoppel in the relevant jurisdiction.",
+    "Context": "This is a dispute arising from unauthorized modification of a contract and applies to various types of contractual agreements."
+  },
+  {
+    "Query": "A company filed a lawsuit against a former employee for breach of a non-compete agreement. The employee argues the non-compete agreement is overly restrictive and unenforceable. How do courts analyze the validity of non-compete agreements?",
+    "Legal Principles": "Non-compete agreements,  restraint of trade,  enforceability,  reasonableness,  public policy.",
+    "Relevant Sections": "The court will examine the non-compete agreement, relevant statutes on restraint of trade, and case law on the enforceability of non-compete agreements in the relevant jurisdiction.",
+    "Context": "This dispute involves the enforceability of a non-compete agreement and applies to employment contracts and business agreements."
+  },
+  {
+    "Query": "A landlord and tenant entered into a lease agreement, but the landlord subsequently tried to evict the tenant for violating the lease terms. The tenant claims the eviction is unjustified and the landlord's actions are retaliatory. How do courts determine whether an eviction is retaliatory?",
+    "Legal Principles": "Landlord-tenant law,  eviction,  retaliatory eviction,  good faith,  fair housing laws.",
+    "Relevant Sections": "The court will review the lease agreement, applicable landlord-tenant laws, and relevant sections on retaliatory eviction in the jurisdiction. The court may also consider applicable fair housing laws.",
+    "Context": "This is a dispute arising from a landlord-tenant relationship and involves the legal framework for evictions and retaliatory eviction claims."
+  },
+  {
+    "Query": "A plaintiff filed a lawsuit alleging negligence on the part of a defendant. The defendant claims they are not liable because the plaintiff's injuries were caused by their own negligence. How do courts apply the doctrine of contributory negligence?",
+    "Legal Principles": "Negligence,  contributory negligence,  comparative negligence,  causation,  damages.",
+    "Relevant Sections": "The court will apply the relevant sections on negligence,  contributory negligence, and comparative negligence in the jurisdiction. The court will also review the evidence on causation and damages.",
+    "Context": "This is a dispute arising from negligence claims and involves the application of contributory negligence as a defense."
+  },
+  {
+    "Query": "A business owner filed a lawsuit against a former partner for breach of a partnership agreement. The former partner claims the partnership agreement was terminated due to a material breach by the business owner. How do courts determine whether a breach of a partnership agreement justifies dissolution?",
+    "Legal Principles": "Partnership law,  partnership agreement,  material breach,  dissolution,  winding up.",
+    "Relevant Sections": "The court will examine the partnership agreement, relevant sections of the partnership law, and case law on material breaches and dissolution of partnerships in the jurisdiction.",
+    "Context": "This is a dispute arising from a partnership agreement and involves the legal framework for partnership dissolution."
+  },
+  {
+    "Query": "A property owner filed a lawsuit against a neighboring property owner for trespassing. The neighboring property owner claims they have an easement over the property owner's land. How do courts determine whether an easement exists?",
+    "Legal Principles": "Property law,  easements,  express easement,  implied easement,  prescription.",
+    "Relevant Sections": "The court will examine the evidence on the easement, including any written agreements or evidence of prior use. The court will also refer to relevant sections of property law on easements, express easements, implied easements, and prescription in the jurisdiction.",
+    "Context": "This is a dispute over property rights and involves the legal framework for easements and trespass."
+  },
+  {
+    "Query": "A homeowner filed a lawsuit against a construction company for defective construction work. The construction company claims the homeowner's claims are barred by the statute of limitations. How do courts determine the applicable statute of limitations for construction defects?",
+    "Legal Principles": "Statute of limitations,  construction defects,  tort law,  contract law.",
+    "Relevant Sections": "The court will examine the relevant statute of limitations for construction defects in the jurisdiction. The court may also consider relevant sections on tort law and contract law.",
+    "Context": "This is a dispute arising from construction defects and involves the application of the statute of limitations."
+  },
+  {
+    "Query": "A company filed a lawsuit against a competitor for unfair competition. The competitor claims the company's allegations are without merit and the company is attempting to stifle competition. How do courts analyze claims of unfair competition?",
+    "Legal Principles": "Unfair competition,  antitrust law,  trade secrets,  false advertising,  consumer protection laws.",
+    "Relevant Sections": "The court will examine the evidence of unfair competition, including any evidence of misappropriation of trade secrets, false advertising, or other unfair practices. The court will also refer to relevant antitrust laws, trade secret laws, and consumer protection laws in the jurisdiction.",
+    "Context": "This is a dispute involving business competition and involves the legal framework for unfair competition claims."
+  }
+]
+```

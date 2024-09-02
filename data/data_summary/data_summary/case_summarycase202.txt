@@ -1,0 +1,108 @@
+## 1. Case Title
+
+• **Case Name:** Mongia Steel Limited vs. Saluja Steel & Power Private Limited 
+• **Court:** Jharkhand High Court
+• **Date of Judgment:** 19th July 2024
+• **Citation:** Commercial Appeal No. 08 of 2023
+
+## 2. Background and Context
+
+• **Brief Overview:** Mongia Steel Limited (Appellant) filed a suit against Saluja Steel & Power Private Limited (Respondent) in the Commercial Court, Ranchi. The Respondent filed a petition under Order VII Rule 11 of the Code of Civil Procedure (CPC) to reject the Appellant's plaint, which was granted by the Commercial Court. The Appellant appealed this decision to the Jharkhand High Court (Commercial Appeal No. 08 of 2022). However, due to missing documents, the appeal was dismissed with liberty to file a fresh appeal within 30 days. The Appellant filed the current appeal (Commercial Appeal No. 08 of 2023) but was met with an objection based on limitation, as the filing was beyond the statutory 60-day period. 
+
+• **Key Issues:**
+    * Whether the 30-day period granted by the Court to file a fresh appeal should be considered as the new limitation period.
+    * Whether the delay of 356 days in filing the appeal is condonable under Section 5 of the Limitation Act, 1963.
+    * Whether the principle of Section 14 of the Limitation Act, 1963 is applicable in this case.
+
+## 3. Legal Principles Involved
+
+• **Relevant Statutes and Provisions:**
+    * **Commercial Courts Act, 2015:** Section 13 (deals with appeals from decrees of Commercial Courts)
+    * **Limitation Act, 1963:** Sections 5 (condonation of delay), 14 (exclusion of time of proceeding bona fide in court without jurisdiction)
+    * **Code of Civil Procedure, 1908:** Order VII Rule 11 (rejection of plaint), Order XXIII Rule 2 (fresh suit after permission)
+
+• **Precedents Cited:** 
+    * **Government of Maharashtra (Water Resources Department) represented by Executive Engineer v. Borse Brothers Engineers and Contractors Private Limited (2021) 6 SCC 460:** Interprets the applicability of Section 5 of the Limitation Act, 1963 to appeals under the Commercial Courts Act, 2015.
+    * **Basawaraj & Anr. Vrs. Spl. Land Acquisition Officer, (2013) 14 SCC 81:** Defines the meaning of 'sufficient cause' for condoning delay under Section 5 of the Limitation Act, 1963.
+    * **M/s Laxmi Srinivasa R and P Boiled Rice Mill v. The State of Andhra Pradesh & Anr. (S.L.P. No. 11225 of 2022) and Purni Devi & Anr. V. Babu Ram & Anr. 2024 SCC OnLine SC 482:** Relates to the applicability of Section 14 of the Limitation Act, 1963.
+    * **Other judgments cited:** MPPKVV Co. Ltd. v. the Commissioner (WP-5452- 2018), MPPKVV Co. Ltd. v. the Commissioner & Others (Writ Petition No.-6363-2019), MPPKVVVV Co. Ltd. v. Goods and Services Tax and Central Excise Commissioner, 2024 SCC OnLine SC 486, Plasopan Engineers (India) Private Limited v. Commissioner of Central Excise, Delhi (2015) 14 SCC 667, Commissioner of Central Excise, Bhavnagar v. Fact Paper Mills Private Limited and Others (2015) 13 SCC 614, State of West Bengal and Ors. V. Committee for Protection of Democratic Rights, West Bengal and Ors. [(2010) 3 SCC 571]
+
+• **Legal Doctrines:**
+    * **Harmonious Interpretation:** Interpretation of statutory provisions in a way that avoids conflicting meanings.
+    * **Statutory Interpretation:** Applying the plain meaning of statutory provisions unless there are clear reasons to interpret them differently. 
+    * **Due Diligence:**  The reasonable care and attention required in a particular circumstance, including legal proceedings.
+    * **Bona Fide:** In good faith, without any intention to deceive.
+
+## 4. Arguments Presented
+
+• **Appellant’s Argument:**
+    * The order granting liberty to file a fresh appeal within 30 days effectively set a new limitation period.
+    * The appeal was filed within the 30-day window and therefore, is not barred by limitation.
+    * Even if the appeal is barred by limitation, the delay should be condoned under Section 5 of the Limitation Act, 1963, due to the circumstances of the case.
+    * The period spent in the previous appeal should be excluded from the limitation period under Section 14 of the Limitation Act, 1963, as the Appellant was pursuing the same matter in a court with "defect of jurisdiction" (due to missing documents).
+
+• **Respondent’s Argument:**
+    * The 30-day period was only for filing a fresh appeal and not a new limitation period. 
+    * The delay of 356 days is significant and cannot be condoned under Section 5 unless sufficient cause is shown.
+    * The Appellant's failure to file the necessary documents in the previous appeal indicates negligence and lack of due diligence.
+    * The Appellant approached the correct forum, just with insufficient documents, which does not satisfy the conditions for applying Section 14 of the Limitation Act, 1963. 
+    * Condoning the delay in this case would frustrate the objective of the Commercial Courts Act, 2015, which aims for expeditious disposal of commercial disputes.
+
+## 5. Court’s Analysis and Reasoning
+
+• **Key Findings:**
+    * The Court acknowledges the purpose of the Commercial Courts Act, 2015, which is to expedite commercial dispute resolution. 
+    * The Court recognizes that the provision of Section 5 of the Limitation Act, 1963, has limited applicability under the Commercial Courts Act, 2015.
+    * The Court reiterates the importance of "sufficient cause" for condoning delay and emphasizes that "sufficient cause" must demonstrate bona fide intentions and lack of negligence on the Appellant's part.
+
+• **Interpretation of Law:**
+    * The Court interprets the order granting liberty to file a fresh appeal within 30 days as only a time limit for filing, not a change to the original 60-day limitation period.
+    * The Court carefully analyzes the meaning of "sufficient cause" as established in the **Basawaraj** case, emphasizing the need for diligence and bona fide behavior.
+    * The Court considers the Supreme Court's decision in the **Government of Maharashtra** case, which highlights the importance of exceptional circumstances and bona fide conduct in condoning delay under the Commercial Courts Act, 2015.
+
+• **Application of Law:**
+    * The Court finds that the Appellant's failure to file necessary documents in the previous appeal constitutes negligence and a lack of diligence. 
+    * The Court determines that the Appellant has not provided sufficient cause to condone the delay of 356 days.
+    * The Court finds that Section 14 of the Limitation Act, 1963, is not applicable in this case because the Appellant approached the correct forum, but with inadequate documents. 
+    * The Court emphasizes that granting condonation in this case would contradict the objective of the Commercial Courts Act, 2015, to ensure quick resolution of commercial disputes. 
+
+## 6. Judgment
+
+• **Final Decision:** 
+    * The Court dismissed both the interlocutory application (I.A. No. 11047 of 2023) for condoning the delay and the main commercial appeal (Commercial Appeal No. 08 of 2023) on the grounds of limitation.
+
+• **Relief Granted:** No relief was granted to the Appellant.
+
+• **Orders:** The Court ordered the dismissal of both the interlocutory application and the main appeal.
+
+## 7. Implications
+
+• **Impact on Law:** This judgment reaffirms the importance of adherence to statutory limitation periods in commercial disputes. The Court emphasizes the limited applicability of Section 5 of the Limitation Act, 1963, under the Commercial Courts Act, 2015, and clarifies that condonation of delay requires a strong demonstration of bona fide conduct and due diligence. 
+
+• **Future Relevance:** The case sets a precedent for future cases involving appeals under the Commercial Courts Act, 2015, particularly in situations where delay is involved. It highlights the critical need for diligent and proactive legal actions to avoid losing the right to appeal due to missed deadlines.
+
+• **Broader Context:** This decision underscores the importance of timely and efficient legal processes in the commercial sphere, highlighting the consequences of negligence and lack of diligence in navigating legal procedures.
+
+## 8. Summary Points
+
+• The 30-day period granted for filing a fresh appeal does not override the statutory 60-day limitation period under the Commercial Courts Act, 2015.
+• The Appellant's delay of 356 days was not condoned due to insufficient explanation for the delay and a lack of due diligence.
+• The Court strictly interprets the applicability of Section 5 of the Limitation Act, 1963, under the Commercial Courts Act, 2015, emphasizing the need for bona fide conduct and diligence.
+• The Court dismisses the argument for applying Section 14 of the Limitation Act, 1963, as the Appellant approached the correct forum but with insufficient documents.
+
+## 9. References
+
+• **Statutes:**
+    * **Commercial Courts Act, 2015**
+    * **Limitation Act, 1963**
+    * **Code of Civil Procedure, 1908**
+
+• **Cases:**
+    * **Government of Maharashtra (Water Resources Department) represented by Executive Engineer v. Borse Brothers Engineers and Contractors Private Limited (2021) 6 SCC 460**
+    * **Basawaraj & Anr. Vrs. Spl. Land Acquisition Officer, (2013) 14 SCC 81**
+    * **M/s Laxmi Srinivasa R and P Boiled Rice Mill v. The State of Andhra Pradesh & Anr. (S.L.P. No. 11225 of 2022)**
+    * **Purni Devi & Anr. V. Babu Ram & Anr. 2024 SCC OnLine SC 482**
+
+• **Further Reading:** 
+    * Articles and legal commentaries on the Commercial Courts Act, 2015, and the Limitation Act, 1963, for a deeper understanding of the legal principles involved.
+    * Related case law on the application of Section 5 and Section 14 of the Limitation Act, 1963, in different contexts. 

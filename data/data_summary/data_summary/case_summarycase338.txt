@@ -1,0 +1,123 @@
+## 1. Case Title
+
+* **Case Name:** Rajesh Wadhawan vs Sh Naveen Sabharwal
+* **Court:** Delhi High Court
+* **Date of Judgment:** 01 August, 2024
+* **Citation:**  [Citation Not Provided in the Text]
+
+## 2. Background and Context
+
+* **Brief Overview:**  Naveen Sabharwal (Respondent) filed a suit against Rajesh Wadhawan (Petitioner) in the Commercial Court for recovery of Rs. 33,50,081/-. The Petitioner failed to appear on 23.10.2021, resulting in an ex-parte order against him. He later managed to get the ex-parte order set aside and was granted time to file his written statement. The Petitioner filed his written statement on 04.01.2022 (via email) and 06.01.2022 (physically). The Respondent, however, pointed out defects in the written statement, claiming it didn't comply with Order VI Rule 15A CPC due to missing signatures on each page and lack of a statement of truth. The Commercial Court, after a series of proceedings, struck off the Petitioner's written statement, leading to the current petition before the Delhi High Court.
+* **Key Issues:**
+    * Whether the Petitioner's written statement, filed on 04.01.2022, was properly filed within the extended limitation period granted by the Supreme Court.
+    * Whether the defects in the written statement (missing signatures and lack of statement of truth) were curable, and if so, whether the Petitioner's subsequent filing of a rectified written statement after a considerable delay should be condoned.
+    * Whether the Commercial Court erred in striking off the Petitioner's written statement and preventing him from relying on it.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * Article 227 of the Constitution of India (Power of Superintendence of High Courts)
+    * Code of Civil Procedure, 1908 (CPC):
+        * Order VI Rule 15A (Verification of Pleadings in a Commercial Dispute)
+        * Order V Rule 1 (Condonation of Delay)
+        * Order IX Rule 7 (Setting Aside Ex-Parte Orders)
+    * Commercial Courts Act, 2015 (Amended Order VI Rule 15A of CPC)
+* **Precedents Cited:**
+    * Re: Cognizance for Extension of Limitation, (2021) 17 SCC 231
+    * Udai Shankar Triyar v. Ram Kalevar Prasad Singh, 2005 SCC OnLine SC
+    * Delhi Development Authority v. Durga Construction Co., (2013) SCC OnLine Del 4451
+    * M/s Unilec Engineer Ltd. v. HPL Electric and Power Ltd, 2023 SCC OnLine Del 5162
+    * SSR International through its Proprietor Abhay Kumar Singhal v. Triveni Engineering and Industries Sugar Limited, 2023 SCC OnLine Del 7779
+    * Sanjay Goel v. BKR Capital Pvt. Ltd. & Ors., 2024 SCC OnLine Del 593
+    * Prayag Polytech Pvt. Ltd. & Anr. v. Raj Kumar Tulsian, 2023 SCC OnLine Del 6058
+    * Prakash Corporates v. Dee Vee Projects Limited, 2022 SCC OnLine SC 180
+    * FMC Corporation & Anr. v. Natco Pharma, 2020 SCC OnLine Del 2074
+    * Cosco International Pvt. Ltd. v. Jagat Singh Dugar, 2022 SCC OnLine Del
+    * Haier Telecom (India) Pvt. Ltd. v. Drive India Enterprise Solutions Ltd., 2018 SCC Online Bom 2829
+    * Saptarshi Construction v. Smt. Manjusree Singh, C.O. No. 179 of 2021 / MANU/WB/0450/2021
+    * Harji Engineering Works Pvt. Ltd. v. Hindustan Steelworks Construction Ltd., 2021 SCC OnLine Cal 2457
+    * Raj Kumar Gupta vs M/s Narang Constructions & Financiers Pvt. Ltd., 2023 IV AD (Delhi) 535
+    * Oil and Natural Gas Corporation Ltd. vs Joint Venture of Sai Rama Engineering Enterprises (Sree) and Ors., MANU/DE/0049/2023
+    * Prayag Polytech Pvt. Ltd and Another vs Raj Kumar Tulsian, 2023 SCC OnLine Del 6058
+* **Legal Doctrines:**
+    * **Principles of Procedural Fairness:** Emphasizing the need for balancing procedural rules with ensuring substantive justice for both parties.
+    * **Curable Defects:**  Recognizing that certain procedural defects in pleadings are not fatal and can be rectified.
+    * **Condonation of Delay:** The Court's discretion in condoning delays, taking into account factors like the nature of the delay, the stage of proceedings, and the potential prejudice to other parties.
+    * **Relation Back Doctrine:** The concept that a rectified or amended pleading relates back to the original filing date, especially if the substance remains unchanged.
+
+## 4. Arguments Presented
+
+* **Petitioner's Argument:**
+    * The written statement filed on 04.01.2022 was within the extended limitation period granted by the Supreme Court.
+    * The defects in the written statement (lack of signatures and statement of truth) are curable under Order VI Rule 15A of CPC and do not render the filing non-est.
+    * The subsequent delay in filing a rectified written statement was due to unavoidable circumstances (medical ailment of his son) and should be condoned.
+    * Striking off the written statement is a harsh penalty, especially since the substance of the written statement remains unchanged.
+* **Respondent's Argument:**
+    * The Petitioner has exhibited a pattern of delaying tactics throughout the proceedings, including two instances of being proceeded ex-parte.
+    * The Petitioner failed to provide a satisfactory explanation for the delay in rectifying the defects in his written statement despite being aware of them for a considerable time.
+    * A second written statement is not permissible without seeking amendment, and therefore, the belated rectified statement filed on 13.01.2023 is beyond the allowed limitation period and should be rejected.
+    * Allowing the Petitioner to restart the trial after three years would be unfair and prejudice the Respondent's case, which is at a final stage.
+
+## 5. Court's Analysis and Reasoning
+
+* **Key Findings:**
+    * The Court acknowledged that the defects in the Petitioner's initial written statement (lack of signatures and statement of truth) were curable and did not make the filing non-est.
+    * The Court found that the delay in rectifying the defects, while significant, could be attributed to the Petitioner's efforts to address his son's medical emergency.
+    * The Court noted that the Respondent had already filed a replication to the initial written statement, indicating that the substance of the defense remained unchanged despite the technical defects.
+* **Interpretation of Law:**
+    * The Court emphasized that strict procedural compliance is necessary but should not overshadow the pursuit of substantive justice.
+    * The Court interpreted the provisions of Order VI Rule 15A CPC and Order V Rule 1 CPC to allow for condoning delays in certain cases, especially when procedural defects are curable and do not prejudice the other party.
+    * The Court recognized the relation back doctrine, holding that a rectified pleading can relate back to the original filing date if the substance remains the same.
+* **Application of Law:**
+    * The Court applied the principles of procedural fairness and the doctrine of condonation of delay to justify its decision.
+    * The Court considered the stage of proceedings, the nature of the defects, and the potential prejudice caused by the delay in reaching its decision.
+    * The Court applied the relation back doctrine to allow the rectified written statement to be considered as filed on the original date.
+
+## 6. Judgment
+
+* **Final Decision:** The petition filed by Rajesh Wadhawan is allowed.
+* **Relief Granted:** The impugned order of the Commercial Court dated 10.04.2023 is set aside, and the rectified written statement filed by the Petitioner on 24.01.2023 is allowed to be taken on record.
+* **Orders:** The Petitioner is ordered to pay a cost of Rs. 35,000/- to the Respondent for the delay caused by him in the proceedings.
+
+## 7. Implications
+
+* **Impact on Law:** This judgment reaffirms the principle that procedural technicalities should not become obstacles to achieving substantive justice. It demonstrates the Court's willingness to condone delays and rectify procedural defects in pleadings when the substance of the case remains unaffected and the delay is justifiable.
+* **Future Relevance:** This case could serve as a precedent for future cases involving similar issues related to curing defects in pleadings and condonation of delay. 
+* **Broader Context:** The judgment highlights the importance of striking a balance between strict procedural compliance and ensuring fair and efficient dispute resolution in commercial courts.
+
+## 8. Summary Points
+
+* The Delhi High Court reversed the Commercial Court's order striking off the Petitioner's written statement.
+* The Court found that the defects in the written statement were curable and did not render it non-est.
+* The Court condoned the delay in filing the rectified written statement due to the Petitioner's son's medical emergency.
+* The Court emphasized the principle of procedural fairness and the importance of substantive justice in commercial litigation.
+
+## 9. References
+
+* **Citations:**
+    * Article 227 of the Constitution of India
+    * Code of Civil Procedure, 1908 (CPC)
+    * Commercial Courts Act, 2015
+    * Re: Cognizance for Extension of Limitation, (2021) 17 SCC 231
+    * Udai Shankar Triyar v. Ram Kalevar Prasad Singh, 2005 SCC OnLine SC
+    * Delhi Development Authority v. Durga Construction Co., (2013) SCC OnLine Del 4451
+    * M/s Unilec Engineer Ltd. v. HPL Electric and Power Ltd, 2023 SCC OnLine Del 5162
+    * SSR International through its Proprietor Abhay Kumar Singhal v. Triveni Engineering and Industries Sugar Limited, 2023 SCC OnLine Del 7779
+    * Sanjay Goel v. BKR Capital Pvt. Ltd. & Ors., 2024 SCC OnLine Del 593
+    * Prayag Polytech Pvt. Ltd. & Anr. v. Raj Kumar Tulsian, 2023 SCC OnLine Del 6058
+    * Prakash Corporates v. Dee Vee Projects Limited, 2022 SCC OnLine SC 180
+    * FMC Corporation & Anr. v. Natco Pharma, 2020 SCC OnLine Del 2074
+    * Cosco International Pvt. Ltd. v. Jagat Singh Dugar, 2022 SCC OnLine Del
+    * Haier Telecom (India) Pvt. Ltd. v. Drive India Enterprise Solutions Ltd., 2018 SCC Online Bom 2829
+    * Saptarshi Construction v. Smt. Manjusree Singh, C.O. No. 179 of 2021 / MANU/WB/0450/2021
+    * Harji Engineering Works Pvt. Ltd. v. Hindustan Steelworks Construction Ltd., 2021 SCC OnLine Cal 2457
+    * Raj Kumar Gupta vs M/s Narang Constructions & Financiers Pvt. Ltd., 2023 IV AD (Delhi) 535
+    * Oil and Natural Gas Corporation Ltd. vs Joint Venture of Sai Rama Engineering Enterprises (Sree) and Ors., MANU/DE/0049/2023
+    * Prayag Polytech Pvt. Ltd and Another vs Raj Kumar Tulsian, 2023 SCC OnLine Del 6058
+* **Further Reading:**
+    * Order VI Rule 15A of the CPC
+    * Order V Rule 1 of the CPC
+    * Case laws on condonation of delay
+    * Case laws on procedural fairness and substantive justice in commercial litigation
+
+This detailed summary covers all the key facts, legal principles, arguments, court's analysis, judgment, and implications of the case. It provides a comprehensive understanding of the legal dispute and its significance within the Indian legal system. 

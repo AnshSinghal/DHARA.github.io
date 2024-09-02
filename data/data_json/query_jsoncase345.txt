@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A company filed a claim under Section 34 of the Arbitration Act against another company due to a delay in completion of a construction project. The defendant company is a public body and claims condonation of delay in filing its response. Can the court condone the delay considering the defendant is a public body? ",
+    "Legal Principles": "The court can condone delay in filing a response under Section 34 of the Arbitration Act, but only in exceptional circumstances and where bona fides are established. The fact that the defendant is a public body does not automatically entitle them to condonation of delay.",
+    "Relevant Sections": "Section 34 of the Arbitration and Conciliation Act, 1996",
+    "Context": "This is a case concerning condonation of delay in filing a response to a claim under Section 34 of the Arbitration Act. The defendant is a public body."
+  },
+  {
+    "Query": "A dispute arose between two parties regarding a business contract. An arbitral tribunal awarded a significant amount to one party. The other party challenged the award under Section 37 of the Arbitration Act, but there was a delay in filing the application.  Can the court condone the delay if the party provides a reasonable explanation for the delay? ",
+    "Legal Principles": "The court can condone delay in filing an application under Section 37 of the Arbitration Act if the applicant provides a reasonable explanation for the delay and demonstrates bona fides. The court has discretion to condone delay beyond 90 days in exceptional circumstances.",
+    "Relevant Sections": "Section 37 of the Arbitration and Conciliation Act, 1996",
+    "Context": "This is a case concerning condonation of delay in filing an application under Section 37 of the Arbitration Act to challenge an arbitral award."
+  },
+  {
+    "Query": "Two companies entered into a contract for the supply of goods. The supplier company failed to deliver the goods on time, and the buyer company filed a claim against them. The supplier company filed a counterclaim, but there was a delay in filing it. Can the court condone the delay considering the supplier company's counterclaim was filed within a reasonable timeframe after they received notice of the buyer's claim? ",
+    "Legal Principles": "The court can consider the time frame within which a counterclaim is filed after receiving notice of the original claim when determining whether to condone delay. The court will assess the bona fides of the party seeking condonation and the potential prejudice to the other party.",
+    "Relevant Sections": "Section 34 of the Arbitration and Conciliation Act, 1996",
+    "Context": "This is a case concerning condonation of delay in filing a counterclaim in a commercial dispute involving the supply of goods."
+  },
+  {
+    "Query": "A construction company filed a claim against a government agency for payment for completed construction work. The government agency claimed there was a delay in the completion of the project and argued for the dismissal of the claim. Can the court consider the specific reasons for delay in the project when determining the validity of the claim?",
+    "Legal Principles": "The court will consider the reasons for delay in a construction project, including factors beyond the control of the contractor, when determining the validity of the claim for payment. The burden of proof lies with the contractor to demonstrate reasonable justification for the delay.",
+    "Relevant Sections": "Commercial Courts Act, 2015",
+    "Context": "This is a case concerning a claim for payment for construction work against a government agency. The claim involves arguments regarding delay in project completion."
+  },
+  {
+    "Query": "A company filed an application under Section 34 of the Arbitration Act to set aside an arbitral award, but there was a delay in filing it.  Can the court condone the delay if the company provides evidence that they did not receive a copy of the signed award from the arbitrator?",
+    "Legal Principles": "The court may consider condoning delay in filing an application under Section 34 of the Arbitration Act if the applicant can demonstrate that they did not receive a copy of the signed award from the arbitrator within the stipulated timeframe. The applicant must provide sufficient evidence to support their claim.",
+    "Relevant Sections": "Section 34(3) of the Arbitration and Conciliation Act, 1996, Section 31(5) of the Arbitration and Conciliation Act, 1996",
+    "Context": "This is a case concerning condonation of delay in filing an application under Section 34 of the Arbitration Act to set aside an arbitral award, with a specific argument related to the non-receipt of the signed award."
+  },
+  {
+    "Query": "A business partnership entered into a contract for the sale of a property. The buyer failed to complete the purchase within the agreed timeline. The seller filed a claim for breach of contract, but there was a delay in filing the lawsuit. Can the court condone the delay if the seller provides a plausible explanation for the delay and demonstrates that they acted in good faith?",
+    "Legal Principles": "The court will consider the specific circumstances and reasons provided by the party seeking condonation of delay, including whether they acted in good faith and without negligence. The court will also weigh the potential prejudice to the other party.",
+    "Relevant Sections": "Section 5 of the Limitation Act, 1963",
+    "Context": "This is a case concerning condonation of delay in filing a lawsuit for breach of contract in a property sale agreement."
+  },
+  {
+    "Query": "A company filed a claim for payment of outstanding dues against a customer. The customer argued that the company failed to provide timely invoices and therefore the claim was time-barred. Can the court consider the company's arguments regarding the specific reasons for delay in providing invoices and the potential impact on the customer?",
+    "Legal Principles": "The court will assess the validity of the company's claim for payment based on the specific circumstances and the relevant legal provisions governing the provision of invoices. The court will also consider the impact of the delay on the customer and the potential for prejudice.",
+    "Relevant Sections": "Commercial Courts Act, 2015",
+    "Context": "This is a case concerning a claim for payment of outstanding dues, with arguments regarding the timeliness of invoices and the potential application of the limitation period."
+  },
+  {
+    "Query": "A dispute arose between a supplier and a manufacturer over a contract for the supply of raw materials. The supplier filed a claim against the manufacturer for breach of contract, but there was a delay in filing the lawsuit. Can the court condone the delay if the supplier provides evidence of ongoing negotiations between the parties and attempts to resolve the dispute amicably?",
+    "Legal Principles": "The court may consider condoning delay if the applicant can demonstrate that they were actively engaged in negotiations or efforts to resolve the dispute amicably before resorting to litigation. The court will assess the bona fides of the party and the potential prejudice to the other party.",
+    "Relevant Sections": "Section 5 of the Limitation Act, 1963",
+    "Context": "This is a case concerning condonation of delay in filing a lawsuit for breach of contract, with a specific argument related to ongoing negotiations between the parties."
+  },
+  {
+    "Query": "A company filed a claim against a government agency for compensation for losses incurred due to a breach of contract. The government agency argued that the company's claim was time-barred. Can the court consider the specific circumstances surrounding the breach and the company's efforts to mitigate losses when determining whether to condone the delay?",
+    "Legal Principles": "The court will consider the specific circumstances surrounding the breach of contract, including the company's efforts to mitigate losses and the reasonableness of the delay in filing the claim. The court will also assess the potential prejudice to the government agency.",
+    "Relevant Sections": "Commercial Courts Act, 2015",
+    "Context": "This is a case concerning a claim for compensation against a government agency for breach of contract, with arguments related to the timeliness of the claim and the specific circumstances surrounding the breach."
+  },
+  {
+    "Query": "Two parties entered into a joint venture agreement for a real estate development project. The agreement included an arbitration clause. A dispute arose between the parties, and one party filed a claim for breach of contract. The other party sought to invoke the arbitration clause but delayed in initiating arbitration proceedings. Can the court condone the delay if the party provides a reasonable explanation for the delay and demonstrates that they acted in good faith?",
+    "Legal Principles": "The court will assess the specific reasons for the delay in initiating arbitration proceedings, including whether the party acted in good faith and without negligence. The court will also consider the potential prejudice to the other party.",
+    "Relevant Sections": "Section 8 of the Arbitration and Conciliation Act, 1996",
+    "Context": "This is a case concerning a dispute arising from a joint venture agreement, with arguments related to the timeliness of invoking the arbitration clause."
+  }
+]
+```

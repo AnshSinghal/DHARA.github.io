@@ -1,0 +1,125 @@
+## 1. Case Title
+
+* **Case Name:** Hubtown Limited vs. IDBI Trusteeship Service Limited
+* **Court:** Bombay High Court
+* **Date of Judgment:** 24th October 2016
+* **Citation:**  [Citation is not provided in the document, but it would typically be something like "2016 (5) Bom. L.J. 32" or similar] 
+
+
+## 2. Background and Context
+
+* **Brief Overview:** Hubtown Limited (Appellant) was sued by IDBI Trusteeship Service Limited (Respondent) for recovery of dues under a corporate guarantee. The guarantee was part of a larger transaction involving FDI investment routed through a subsidiary company, Vinca, which the Respondent claimed was a "colourable device" to secure fixed returns on FDI in violation of FEMA regulations. The Respondent filed two summary suits, one for the entire amount owed (including FDI-related investments) and another specifically for the debt owed by a subsidiary, Rubix, to an Indian entity, DIIPL, under a separate loan agreement. The Appellant contested the claims, arguing the transactions were interconnected and the guarantee covering the Rubix loan was part of an illegal scheme to route FDI. 
+
+* **Key Issues:**
+    *  Maintainability of the Commercial Appeal filed under the Commercial Courts Act, 2015, particularly in light of the provisions regarding appeals from orders passed in summary suits.
+    * Whether the guarantee covering the Rubix loan was severable from the guarantee covering the FDI-related investments.
+    *  Whether the Appellant was entitled to unconditional leave to defend the summary suit.
+
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * The Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015 (Commercial Courts Act)
+    * The Code of Civil Procedure, 1908 (CPC) (including Order XXXVII for Summary Suits and Order XIII-A for Summary Judgments)
+    * The Arbitration and Conciliation Act, 1996
+    * The Foreign Exchange Management Act, 1999 (FEMA)
+    * The Companies Act, 1956
+
+* **Precedents Cited:**
+    * Shah Babulal Khimji v. Jayaben D. Kania & Anr. (1981) 4 SCC 8
+    * Midnapore Peoples' Co-op. Bank Ltd. v. Chunilal Nanda, AIR 2006 SC 2190
+    * Garikapati Veeraya Vs. N. Subbiah Choudhry & Ors. AIR 1957 SC 540
+    * Kamal Kumar Dutta vs. Ruby General Hospital (2006) 7 SCC 613 
+    * B.O.I. Finance Ltd. Vs. Custodian & Ors. (1997) 10 SCC 488
+    * Canbank Financial Services Ltd. Vs. The Custodian & Ors. (2004) 8 SCC 355
+    * Immami Appa Rao vs. G. Ramalingamurthi (cited but not fully referenced)
+    * Sir Chunilal V. Mehta and sons Ltd. Vs. Century Spinning and Manufacturing Co. Ltd. AIR 1962 SC 1314
+    * Hero Vinoth (Minor) Vs. Seshammal (2006) 5 SCC 545=AIR 2006 SC 2234
+    * Smt. Krishnabai Bhritar Ganpatrao Deshmukh Vs. Appasaheb Tuljaramarao Nimbalkar (1979) 4 SCC 60
+    * S.Chattanatha Karayalar Vs. The Central Bank of India Ltd. AIR 1965 SC 1856
+    * M/s. Mechelec Engineers & Manufacturers Vs. M/s. Basic Equipment Corporation (1976) 4 SCC 687
+    * Sunil Enterprises and Anr. Vs. SBI Commercial & International Bank Ltd. (1998) 5 SCC 354
+    * State Bank of Saurashtra Vs. Ashit Shipping Services (P) Ltd. (2002) 4 SCC 736 
+    * R. Savarna Prabhu and Anr. Vs. Videocon Leasing and Industrial Finance Limited & Anr. (2013) 14 SCC 606
+    * Arun Dev Upadhyaya Vs. Integrated Sales Service Ltd. & Anr. 2016 (9) SCALE 427
+
+* **Legal Doctrines:**
+    * Interpretation of contracts and documents
+    * Severability of contracts
+    * Right of appeal
+    * Vested rights
+    * Estoppel
+    * Public policy 
+    * Order XXXVII of the CPC regarding summary suits
+    * Principles for granting leave to defend a summary suit
+
+
+## 4. Arguments Presented
+
+* **Plaintiff’s Argument (IDBI):**
+    * The guarantee covering the Rubix loan was distinct and severable from the guarantee covering the FDI-related investments, making the Respondent entitled to recover the Rubix loan amount.
+    * The Rubix loan was a "plain vanilla" Indian Rupee loan and not subject to FDI regulations. 
+    * The Appellant's defense was "illusory" and "sham" as it relied on the Respondent's earlier judgment in the first summary suit, which was based on a different transaction. 
+    * The Appellant should be denied unconditional leave to defend, and the Respondent should be granted a summary judgment. 
+
+* **Defendant’s Argument (Hubtown):**
+    * The guarantee covering the Rubix loan was part of a larger, interconnected transaction designed to route FDI illegally, rendering the entire guarantee unenforceable. 
+    * The Rubix loan was an integral part of the FDI scheme, structured to circumvent FDI regulations by using a higher interest rate than the foreign investor received, making it inseparable from the FDI transaction. 
+    * The Respondent should be denied a summary judgment and unconditional leave to defend should be granted to the Appellant to fully present their defense.
+
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The Court found that the Commercial Appeal filed under Section 13 of the Commercial Courts Act was maintainable, even against an order granting conditional leave to defend in a summary suit.
+    * The Court recognized that the two summary suits involved interconnected transactions and documents, and the earlier judgment by the Single Judge regarding the inseverability of the guarantee in the first suit was relevant to the second suit. 
+    * The Court observed that the question of severability of the guarantee was a question of law, and the interpretation of documents presented a triable issue.
+    * The Court noted that the Appellant had raised a valid defense and was likely to be able to establish a defense at trial, based on the principle that a party is entitled to unconditional leave to defend if they have a good defense on its merits.
+
+* **Interpretation of Law:**
+    * The Court emphasized that the right of appeal is a substantive right that cannot be taken away implicitly or explicitly.
+    * The Court highlighted that the Commercial Courts Act aimed to expedite commercial disputes, and the bar against revision applications under Section 8 of the Act meant that the only avenue for challenging interlocutory orders was through an appeal.
+    * The Court analyzed Order XXXVII of the CPC, outlining the principles for granting leave to defend in summary suits, and concluded that the Appellant had a strong enough case to warrant unconditional leave to defend. 
+
+* **Application of Law:**
+    * The Court applied the principles laid down in various precedents regarding the interpretation of documents and the right to unconditional leave to defend.
+    * The Court acknowledged the earlier judgment by the Single Judge in the first summary suit as relevant to the current case.
+    * The Court found that the Appellant had presented sufficient evidence to suggest a potential defense on the merits, and denying them unconditional leave would have unfairly curtailed their right to a fair trial.
+
+
+## 6. Judgment
+
+* **Final Decision:** The appeal was allowed. 
+* **Relief Granted:** The impugned order granting conditional leave to defend was quashed and set aside. The Appellant was granted unconditional leave to defend the summary suit. 
+* **Orders:** 
+    * The suit was transferred to the list of commercial causes.
+    * The Appellant was directed to file its written statement within a specified timeframe.
+    * The suit was to be expedited and decided within a year.
+    * The suit was to be placed for framing of issues on a specific date.
+
+
+## 7. Implications
+
+* **Impact on Law:** 
+    * The judgment clarifies the scope of the Commercial Courts Act in relation to appeals from orders passed in summary suits. It reaffirms the right of appeal as a substantive right and the importance of granting unconditional leave to defend when a party raises a triable issue.
+* **Future Relevance:** The case provides guidance for courts when deciding on the maintainability of appeals under Section 13 of the Commercial Courts Act, particularly in matters involving summary suits. It emphasizes the need for a holistic view of transactions and documents when assessing the severability of contracts.
+* **Broader Context:** The judgment underscores the importance of fairness in legal proceedings and the need for courts to ensure that parties have an opportunity to present their full case before a judgment is reached.
+
+
+## 8. Summary Points
+
+* **Key Takeaways:**
+    * Appeals against orders granting conditional leave to defend in summary suits are maintainable under the Commercial Courts Act.
+    * The right of appeal is a substantive right and cannot be taken away implicitly or explicitly.
+    * Unconditional leave to defend should be granted in summary suits where the defendant raises a triable issue or a good defense on its merits. 
+    * Courts must consider the entire factual context and related transactions when assessing the severability of contracts.
+    * Courts should ensure that parties have a full and fair opportunity to present their case in summary suit proceedings.
+
+
+## 9. References
+
+* **Citations:** Please see the list of precedents cited in Section 3.
+* **Further Reading:**
+    * For further reading on summary suits, consult the relevant sections of the CPC and the precedents listed in Section 3.
+    * For more information on the Commercial Courts Act, refer to the Act itself and its provisions.
+    * For deeper understanding of FDI regulations, refer to FEMA and its associated regulations.

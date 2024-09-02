@@ -1,0 +1,80 @@
+## Case Title
+
+* **Case Name:** M/S Sri Balaji Metals And Minerals Pvt. Ltd. vs. South Eastern Coalfields Limited
+* **Court:** Chattisgarh High Court
+* **Date of Judgment:** 17 November 2021
+* **Citation:**  W.P.(227) No.393 of 2021 & W.P.(227) No.415 of 2021
+
+## Background and Context
+
+* **Brief Overview:**  South Eastern Coalfields Limited (SECL) awarded a work order to M/s Sri Balaji Metals & Minerals Pvt. Ltd. (Balaji) for a mining project. The contract was terminated by SECL in 2009 due to Balaji's failure to complete the work within the stipulated timeframe. SECL issued a notice of recovery for the remaining work, which Balaji contested. This dispute escalated through various legal proceedings, including a committee appointed by SECL to resolve the issue, subsequent appeals to the Chattisgarh High Court, and finally a Special Leave Petition (SLP) to the Supreme Court. The Supreme Court appointed a sole arbitrator and fixed the venue of the arbitration in New Delhi. After the arbitrator issued his award, both parties filed applications under Section 34 of the Arbitration and Conciliation Act, 1996 (Act, 1996) to challenge the award.  
+* **Key Issues:**  The primary legal issue involved determining the appropriate court's jurisdiction to decide the parties' applications under Section 34 of the Act, 1996, concerning the arbitrator's award. This was further complicated by the fact that the Supreme Court had previously fixed the venue of the arbitration in New Delhi, while the parties had originally agreed to arbitrate in Bilaspur, Chhattisgarh.
+
+## Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * **Arbitration and Conciliation Act, 1996 (Act, 1996):** Sections 20(1), 34, 37.
+    * **Constitution of India:** Article 227.
+* **Precedents Cited:**
+    * **B.G.S. S.G.S. Soma J.V. Vs. N.H.P.C. Limited (2020) 4 Supreme Court Cases 234:** This case addressed the distinction between "venue" and "seat" of arbitration proceedings.
+    * **Swastik Gases Private Limited Vs. Indian Oil Corporation Limited (2013) 9 Supreme Court Cases 32:** This case dealt with the interpretation of jurisdiction clauses in contracts and the application of the legal maxim "expression unius est exclusio alterius."
+    * **Hindustan Construction Company Limited Vs. N.H.P.C. Limited & Anr. (2020) 4 Supreme Court Cases 310:** This case reaffirmed the principle that when a seat of arbitration is designated in an agreement, only the courts of that place have jurisdiction.
+    * **Brahmani River Pellets Limited Vs. Kamachi Industries Limited (2020) 5 SCC 462:** This case further elaborated on the principles regarding jurisdiction clauses and the exclusion of other courts' jurisdiction.
+    * **Indus Mobile Distribution Pvt. Ltd. Vs. Datawind Innovations Pvt. Ltd. & Ors. (2017) 7 Supreme Court Cases 678:** This case clarified the distinction between "seat" and "venue" of arbitration.
+* **Legal Doctrines:**
+    * **Jurisdiction:**  The court's authority to hear and decide a case.
+    * **Seat of Arbitration:** The location where the arbitration proceedings are legally anchored, determining which court has jurisdiction to regulate the proceedings.
+    * **Venue of Arbitration:** The physical place where the arbitration hearings are held.
+    * **Agreement:**  The contract between the parties specifying terms and conditions, including jurisdiction clauses.
+    * **Maxim "expression unius est exclusio alterius":**  The expression of one thing is the exclusion of another;  when a contract specifies a particular court's jurisdiction, it implies the exclusion of other courts.
+
+## Arguments Presented
+
+* **Petitioner's (SECL) Argument:**
+    * The Commercial Court at Raipur, Chhattisgarh, had jurisdiction to decide the applications challenging the arbitrator's award. 
+    * The Supreme Court's decision to fix the venue in Delhi was solely for the convenience of the arbitrator and did not alter the agreed-upon seat of arbitration in Bilaspur, Chhattisgarh, as stipulated in the contract clause 32.
+    * The earlier dispute between the parties had been adjudicated by a committee in Chhattisgarh, and the subsequent legal proceedings, including the Supreme Court order, did not supersede the original agreement regarding the seat of arbitration.
+* **Respondent's (Balaji) Argument:**
+    * The Supreme Court's order setting the venue in Delhi, for the convenience of the arbitrator, established Delhi as the seat of arbitration, overriding any previous agreements.
+    * Both parties had chosen Delhi as the seat of arbitration under Section 20(1) of the Act, 1996, and the Commercial Court at Raipur lacked jurisdiction.
+    * The Commercial Court at Raipur misconstrued the venue of arbitration as the seat of arbitration, overlooking the fact that the parties had agreed to arbitrate in Bilaspur.
+    * The agreement clause 32, specifying the seat of arbitration in Bilaspur, was superseded by the Supreme Court's order. 
+
+## Court’s Analysis and Reasoning
+
+* **Key Findings:** The court acknowledged that the terms "seat of arbitration" and "venue of arbitration" have distinct meanings.  It relied on the precedent set in the B.G.S. S.G.S. Soma J.V. Vs. N.H.P.C. Limited case, which explained that the "venue" refers to the physical location of the hearings, while the "seat" denotes the legal location anchoring the arbitration proceedings.
+* **Interpretation of Law:** The court emphasized the importance of respecting parties' agreements regarding the seat of arbitration and applied the principles outlined in the Swastik Gases Private Limited Vs. Indian Oil Corporation Limited case, where the court found that specifying a court's jurisdiction in a contract impliedly excludes other courts.
+* **Application of Law:**  The court determined that the Supreme Court's order fixing the venue of arbitration in Delhi did not alter the original agreement specifying the seat of arbitration in Bilaspur. The court further emphasized that the Supreme Court's order was solely for the convenience of the arbitrator and did not intend to override the parties' agreement.
+
+## Judgment
+
+* **Final Decision:** The Chattisgarh High Court granted the petitions filed by SECL, setting aside the Commercial Court's order.
+* **Relief Granted:**  The court declared that the Commercial Court at Naya Raipur, Chhattisgarh, had jurisdiction to hear and decide the applications filed by both parties under Section 34 of the Act, 1996, challenging the arbitrator's award.
+* **Orders:** The Commercial Court at Naya Raipur, Chhattisgarh, was directed to provide a hearing opportunity to both parties and dispose of the case expeditiously.
+
+## Implications
+
+* **Impact on Law:** This judgment reaffirms the importance of respecting agreements regarding the seat of arbitration. It underscores the distinction between "seat" and "venue" and emphasizes that a court's designation of a venue for the convenience of the arbitrator does not necessarily alter the agreed-upon seat of arbitration.
+* **Future Relevance:** This case provides guidance for future legal disputes arising from arbitration agreements, particularly when there is a conflict between the parties' original agreement regarding the seat of arbitration and subsequent court orders concerning venue.
+* **Broader Context:**  The judgment reinforces the principle of upholding contractual agreements and highlights the importance of carefully defining the seat of arbitration to avoid jurisdictional conflicts.
+
+## Summary Points
+
+* The Chattisgarh High Court upheld the jurisdiction of the Commercial Court at Naya Raipur, Chhattisgarh, to decide on applications challenging an arbitrator's award, despite a previous Supreme Court order setting the venue of arbitration in Delhi.
+* The court recognized the distinction between "seat" and "venue" of arbitration, affirming that the Supreme Court's order concerning venue was intended for the arbitrator's convenience and did not override the parties' original agreement on the seat of arbitration.
+* The judgment emphasized the importance of respecting contractual agreements regarding the seat of arbitration and upheld the principle of "expression unius est exclusio alterius" concerning jurisdiction clauses.
+
+## References
+
+* **Arbitration and Conciliation Act, 1996 (Act, 1996)**
+* **Constitution of India**
+* **B.G.S. S.G.S. Soma J.V. Vs. N.H.P.C. Limited (2020) 4 Supreme Court Cases 234**
+* **Swastik Gases Private Limited Vs. Indian Oil Corporation Limited (2013) 9 Supreme Court Cases 32**
+* **Hindustan Construction Company Limited Vs. N.H.P.C. Limited & Anr. (2020) 4 Supreme Court Cases 310**
+* **Brahmani River Pellets Limited Vs. Kamachi Industries Limited (2020) 5 SCC 462**
+* **Indus Mobile Distribution Pvt. Ltd. Vs. Datawind Innovations Pvt. Ltd. & Ors. (2017) 7 Supreme Court Cases 678**
+
+## Further Reading
+
+* **Arbitration Law in India** by **Justice A.K. Sikri**
+* **The Law of Arbitration and Conciliation** by **Dr. Avtar Singh**

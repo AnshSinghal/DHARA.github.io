@@ -1,0 +1,92 @@
+## 1. Case Title
+
+* **Case Name:** M/s. Odisha Slurry Pipeline Infrastructure Ltd. & Anr. vs. IDBI Bank Ltd. & Ors. (FMAT 360 of 2022), M/s. SREI Multiple Asset Investment Trust (SMAIT) vs. M/s. Odisha Slurry Pipeline Infrastructure Ltd. & Ors. (FMAT 314 of 2022), Commit Suppliers Pvt. Ltd. vs. Dilip Kumar Rungta (FMAT 258 of 2022)
+* **Court:** Calcutta High Court (Appellete Side), Commercial Division
+* **Date of Judgment:** 09.12.2022
+* **Citation:** Not provided in the text.
+
+## 2. Background and Context
+
+* **Brief Overview:** These three appeals involved several related commercial disputes, each raising the issue of whether a suit involving commercial disputes exceeding a specific value could be instituted without exhausting the pre-litigation mediation contemplated under Section 12A of the Commercial Courts Act, 2015, even when urgent interim relief is sought. 
+* **Key Issues:**
+    * The mandatory nature of Section 12A of the Commercial Courts Act, 2015 regarding pre-institution mediation.
+    * The interpretation of the phrase "contemplate any urgent interim relief" within Section 12A.
+    * The maintainability of appeals against specific orders made by the Commercial Court.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * Commercial Courts Act, 2015 (including Section 12A, Section 13, Section 15)
+    * Code of Civil Procedure, 1908 (including Order 1 Rule 10(2), Order 7 Rule 11, Order 39 Rule 1 & 2, Order 43)
+    * Arbitration and Conciliation Act, 1996 (Section 37)
+* **Precedents Cited:**
+    * Patil Automation Private Ltd. vs. Rakheja Engineers Private Ltd. (2022 SCC Online SC 1028: (2022) 10 SCC 1)
+    * Ganga Taro (mentioned in Patil Automation)
+    * Laxmi Polyfab Pvt. Ltd. Vs. Eden Realty Ventures Pvt. Ltd. & Anr. (AIR 2021 CAL 190)
+    * Chandra Kishore Chaurasia Vs. R. A. Perfumery Works Pvt. (FAO (COMM) 128 of 2021 decided on 27.10.2022)
+* **Legal Doctrines:**
+    * Mandatory Statutory Provisions: Whether a provision is mandatory or directory.
+    * Interpretation of Statutes: Analyzing the language, object, and scheme of a statute.
+    * Waiver of Rights: The possibility of waiving statutory rights.
+    * Appealability of Orders: Whether a specific order is appealable under relevant statutory provisions.
+
+## 4. Arguments Presented
+
+* **Appellants' Arguments:**
+    * FMAT 360/2022: The appeal was maintainable against the order passed by the Commercial Court refusing interim relief. The order amounted to an implied denial of interim relief.
+    * FMAT 314/2022: The suit should have been transferred to a Commercial Court as it involved a commercial dispute. 
+    * FMAT 258/2022: The Commercial Court erred in keeping the suit pending and directing the plaintiff to exhaust pre-institution mediation as the plaintiff sought urgent interim relief.
+* **Respondents' Arguments:**
+    * FMAT 360/2022: The appeal was not maintainable as the order against which it was filed was merely a put-up order and did not constitute a substantive order.
+    * FMAT 314/2022: The denial of transfer to a Commercial Court was not appealable under the Commercial Courts Act. 
+    * FMAT 258/2022: The plaintiff had not exhausted pre-institution mediation as mandated by Section 12A of the Commercial Courts Act.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * Section 12A of the Commercial Courts Act, 2015 is mandatory, and any suit instituted without exhausting pre-institution mediation, unless urgent interim relief is contemplated, must be rejected.
+    * The phrase "contemplate any urgent interim relief" within Section 12A is to be interpreted liberally, meaning if the plaintiff seeks such relief in the plaint, they are not barred by Section 12A.
+    * The Court can't direct a suit to be kept in suspended animation while parties exhaust pre-institution mediation under Section 12A. The only course is to reject the plaint.
+    * Appeals against orders relating to put-up applications, applications under Order 1 Rule 10(2), and denials of interim relief are not maintainable under Section 13 of the Commercial Courts Act.
+
+* **Interpretation of Law:**
+    * The Court heavily relied on the Supreme Court's judgment in Patil Automation Private Ltd. vs. Rakheja Engineers Private Ltd. which declared Section 12A to be mandatory. 
+    * The Court clarified that the purpose of Section 12A is to avoid clogging the Court system and promote settlement.
+    * The Court interpreted "contemplate urgent interim relief" as a subjective criterion decided by the plaintiff in their plaint.
+
+* **Application of Law:**
+    * In FMAT 360/2022, the Court dismissed the appeal as not maintainable, finding that the order against which the appeal was filed did not involve a substantive decision.
+    * In FMAT 314/2022, the appeal was dismissed as not maintainable because the order denying transfer to a Commercial Court was not appealable under the Act.
+    * In FMAT 258/2022, the Court set aside the order of the Commercial Court keeping the suit pending and directing pre-institution mediation because the plaintiff had sought urgent interim relief. The Court directed the Commercial Court to decide the injunction application on merit.
+
+## 6. Judgment
+
+* **Final Decision:**
+    * FMAT 360/2022: Appeal dismissed as not maintainable.
+    * FMAT 314/2022: Appeal dismissed as not maintainable.
+    * FMAT 258/2022: Order of the Commercial Court set aside. 
+* **Relief Granted:**
+    * FMAT 258/2022: The appellant was directed to serve the injunction application on the defendants and the Commercial Court was to decide the application on merit.
+* **Orders:**
+    * The Commercial Court was directed to comply with the observations made in the judgment.
+
+## 7. Implications
+
+* **Impact on Law:** The judgment reiterates the mandatory nature of Section 12A of the Commercial Courts Act and clarifies the interpretation of the phrase "contemplate any urgent interim relief." 
+* **Future Relevance:** The judgment will likely be influential in future cases involving Section 12A of the Commercial Courts Act, particularly regarding the interpretation of urgent interim relief.
+* **Broader Context:** The judgment highlights the growing emphasis on pre-litigation mediation and settlement in commercial disputes in India.
+
+## 8. Summary Points
+
+* Section 12A of the Commercial Courts Act is mandatory and requires pre-institution mediation unless urgent interim relief is sought. 
+* The plaintiff's decision to seek urgent interim relief in the plaint is sufficient to bypass the mandatory pre-institution mediation under Section 12A.
+* The Court cannot direct a suit to be kept in suspended animation while parties exhaust pre-institution mediation.
+* Appeals against specific orders under the Commercial Courts Act are limited and not available for all decisions.
+
+## 9. References
+
+* **Citations:** Refer to the "Legal Principles Involved" section for full citations of statutes, cases, and legal texts.
+* **Further Reading:**
+    * Patil Automation Private Ltd. vs. Rakheja Engineers Private Ltd. (2022 SCC Online SC 1028: (2022) 10 SCC 1)
+    * Laxmi Polyfab Pvt. Ltd. Vs. Eden Realty Ventures Pvt. Ltd. & Anr. (AIR 2021 CAL 190)
+    * Chandra Kishore Chaurasia Vs. R. A. Perfumery Works Pvt. (FAO (COMM) 128 of 2021 decided on 27.10.2022)

@@ -1,0 +1,89 @@
+##  Parsa Kente Collieries Ltd. vs. Rajasthan Rajya Vidyut Utpadan Nigam Ltd. 
+
+**1. Case Title**
+
+* **Case Name:** Parsa Kente Collieries Ltd. vs. Rajasthan Rajya Vidyut Utpadan Nigam Ltd.
+* **Court:** Supreme Court of India
+* **Date of Judgment:** 27th May 2019
+* **Citation:** (2019) 7 SCC 236
+
+**2. Background and Context**
+
+* **Brief Overview:**  Parsa Kente Collieries Ltd. (PKCL), a joint venture between Adani Enterprises Ltd. (AEL) and Rajasthan Rajya Vidyut Utpadan Nigam Ltd. (RRVUNL), entered into a Coal Mining and Delivery Agreement (CMDA) with RRVUNL in 2008. The agreement stipulated that PKCL would supply coal to RRVUNL, with the commencement date set for 25.06.2011. However, due to delays in obtaining environmental and forest clearances, the commencement date was mutually extended to 25.03.2013. This led to several disputes between the parties, primarily regarding price escalation, fixed costs, escrow account, and construction of a railway siding. PKCL invoked arbitration under the CMDA, and the arbitrator awarded claims for price adjustment, fixed costs, and escrow account, while rejecting the claim for construction of a railway siding. The Commercial Court confirmed the award, but RRVUNL appealed to the Rajasthan High Court, which overturned the award. PKCL then appealed to the Supreme Court. 
+
+* **Key Issues:** The main legal issues in the case were:
+    * **Price Escalation:** Whether the price escalation should be calculated from the original commencement date (25.06.2011) or the extended date (25.03.2013), considering the force majeure clause and the lack of specific agreement regarding price for the delayed supply.
+    * **Fixed Costs:** Whether RRVUNL's failure to lift the fixed quantity of coal within a stipulated time frame constituted a default under the CMDA, and whether PKCL was entitled to compensation for the incurred fixed costs. 
+    * **Escrow Account:**  Whether the respondent was entitled to deduct payments from the appellant's bills to deposit them in the escrow account as per the Ministry of Coal guidelines, despite the fact that the escrow account was a post-contractual obligation. 
+
+**3. Legal Principles Involved**
+
+* **Relevant Statutes and Provisions:**
+    * **The Arbitration and Conciliation Act, 1996:**  Section 34 (power to set aside arbitral award), Section 37 (appeal against an arbitral award). 
+* **Precedents Cited:** 
+    * Associate Builders v. Delhi Development Authority, (2015) 3 SCC 49
+    * Steel Authority of India Limited v. Gupta Brother Steel Tubes Limited, (2009) 10 SCC 63
+    * Ssangyong Engineering & Construction Co. Limited v. National Highways Authority of India (NHAI), (2019) SCC Online SC 677
+    * ONGC v. Saw Pipes Limited, (2003) 5 SCC 705
+    * Hindustan Zinc Limited v. Friends Coal Carbonisation, (2006) 4 SCC 445
+* **Legal Doctrines:** 
+    * **Public Policy:** The court applied the principle that an arbitral award could be set aside if it contravenes public policy, including patent illegality.
+    * **Interpretation of Contracts:** The court emphasized that the interpretation of contractual terms is primarily the domain of the arbitrator, as long as the interpretation is reasonable and not perverse.  
+    * **Force Majeure:** The court acknowledged the applicability of force majeure clauses in cases of unavoidable delays and their impact on contractual obligations.
+
+**4. Arguments Presented**
+
+* **Appellant’s Argument (PKCL):** 
+    * **Price Escalation:** The appellant argued that the price escalation should be calculated from the original commencement date (25.06.2011) as the extension of the commencement date due to force majeure did not impact the price escalation clause. They highlighted the lack of a corresponding amendment in the price escalation clause despite the extension of the commencement date.
+    * **Fixed Costs:** The appellant argued that the respondent's failure to lift the coal within the stipulated time frame constituted a default under the CMDA, leading to their loss of fixed costs. They argued that the sub-contractor (AMPL) was not a third party to the contract and that the respondent's failure to lift the coal was the root cause of the loss. 
+    * **Escrow Account:** The appellant argued that the escrow account was a post-contractual obligation mandated by the Ministry of Coal guidelines, and the deduction of payments from their bills to be deposited in the account was premature and not justified under the CMDA. 
+* **Respondent’s Argument (RRVUNL):** 
+    * **Price Escalation:** The respondent argued that the commencement date, defined as the date of actual coal supply, was extended to 25.03.2013, and therefore, the price escalation should be calculated from this extended date. They emphasized that the CMDA linked price escalation to the actual date of commencement of coal supply. 
+    * **Fixed Costs:** The respondent argued that the loss incurred was by AMPL, a sub-contractor not party to the CMDA, and that the appellant failed to substantiate the loss of Rs. 78 crores beyond a CA's certificate. 
+    * **Escrow Account:** The respondent argued that the appellant consented to the opening of the escrow account and agreed to the deduction of payments from their bills to be deposited into the account, as per the Ministry of Coal guidelines. They claimed that this was in accordance with the CMDA terms.
+
+**5. Court’s Analysis and Reasoning**
+
+* **Key Findings:**
+    * The Supreme Court acknowledged that the High Court had the power to interfere with the arbitral award under Section 37 of the Arbitration Act, but only if the award was against public policy or if the arbitrator had exceeded their powers. 
+* **Interpretation of Law:** 
+    * The court referred to the precedents established in Associate Builders v. Delhi Development Authority and Steel Authority of India Limited v. Gupta Brother Steel Tubes Limited, reiterating that the interpretation of contractual terms is primarily the arbitrator's domain. 
+    * The court also recognized the validity of force majeure clauses and their impact on contractual obligations.
+* **Application of Law:** 
+    * **Price Escalation:** The court found that the arbitrator's interpretation of the price escalation clause, holding that the original commencement date (25.06.2011) should be used, was both possible and plausible. They found no element of public policy in the arbitrator's decision and ruled that the High Court had exceeded its jurisdiction in overturning the award.
+    * **Fixed Costs:** The court upheld the High Court's decision to overturn the award regarding fixed costs, finding that the appellant failed to provide sufficient evidence of actual loss beyond a CA's certificate. They also considered the fact that the sub-contractor (AMPL) was not directly involved in the contract.
+    * **Escrow Account:** The court agreed with the High Court that the appellant had consented to the opening of the escrow account and the deduction of payments from their bills. They also observed that returning the money from the escrow account would frustrate the purpose of the account, which was to ensure the appellant's adherence to the contractual obligations and mine closure plan. 
+
+**6. Judgment**
+
+* **Final Decision:** The Supreme Court partly allowed the appeal. It overturned the High Court's decision to set aside the arbitrator's award regarding price escalation (claim no. 1), restoring the arbitrator's decision. However, it upheld the High Court's decision to overturn the award regarding fixed costs (claim no. 2) and escrow account (claim no. 3).
+* **Relief Granted:** The court restored the arbitrator's award regarding price escalation, effectively granting PKCL the enhanced amount for the F.Y. 2013-14. It also upheld the High Court's decision to dismiss the claims regarding fixed costs and escrow account. 
+* **Orders:** The court ordered the High Court's decision to be quashed and set aside in part (regarding claim no. 1), and the arbitrator's award regarding price escalation was reinstated. The rest of the High Court's decision was confirmed.
+
+**7. Implications**
+
+* **Impact on Law:** This case provides further clarification on the scope of judicial review of arbitral awards, reaffirming the principle that courts should not interfere with the arbitrator's decisions on contract interpretation unless they are unreasonable or against public policy. It also clarifies the application of force majeure clauses in cases of contractual delays.
+* **Future Relevance:** The judgment provides valuable guidance for future disputes related to price escalation clauses in contracts where there are force majeure events leading to delays. It also emphasizes the importance of providing concrete evidence of loss in arbitration claims, especially regarding fixed costs.
+* **Broader Context:** The case highlights the complex legal issues that can arise in contractual disputes involving joint ventures, force majeure events, and post-contractual obligations. 
+
+**8. Summary Points**
+
+* **Key Takeaways:**
+    * Courts should exercise caution when interfering with arbitral awards based on contractual interpretation, unless the interpretation is unreasonable or against public policy.
+    * Force majeure events can affect contractual obligations, but the impact on specific clauses should be carefully assessed. 
+    * Parties claiming compensation for loss must provide concrete evidence beyond mere statements or certificates.
+    * Post-contractual obligations imposed by external regulations can influence the interpretation of contract clauses.
+
+**9. References**
+
+* **Citations:** 
+    * The Arbitration and Conciliation Act, 1996: Sections 34, 37
+    * Associate Builders v. Delhi Development Authority, (2015) 3 SCC 49
+    * Steel Authority of India Limited v. Gupta Brother Steel Tubes Limited, (2009) 10 SCC 63
+    * Ssangyong Engineering & Construction Co. Limited v. National Highways Authority of India (NHAI), (2019) SCC Online SC 677
+    * ONGC v. Saw Pipes Limited, (2003) 5 SCC 705
+    * Hindustan Zinc Limited v. Friends Coal Carbonisation, (2006) 4 SCC 445
+* **Further Reading:** 
+    * McDermott International Inc. v. Burn Standard Co. Ltd., (2006) 11 SCC 181
+    * Rashtriya Ispat Nigam Limited v. Dewan Chand Ram Saran, (2012) 5 SCC 306
+    * National Highways Authority of India v. ITD Cementation India Limited, (2015) 14 SCC 21

@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A plaintiff filed a commercial suit seeking an injunction against the defendant for infringing registered trademarks. The plaintiff later sought to introduce additional documents, primarily invoices, through an Order VII Rule 14 application. The trial court rejected the application, and the plaintiff appealed. Can the plaintiff introduce additional documents after the initial disclosure, and under what circumstances?",
+    "Legal Principles": "Order VII Rule 14 of the Code of Civil Procedure (CPC) does not apply to commercial suits. Order XI Rule 1(5) and Order XI Rule 1(10) govern the disclosure of documents in commercial suits. The plaintiff may seek leave to rely on additional documents if they were not in the plaintiff's possession at the time of filing the plaint. The plaintiff must establish reasonable cause for non-disclosure and that the documents were not in their possession at the time of filing the plaint.",
+    "Relevant Sections": "Order VII Rule 14 of the CPC, Order XI Rule 1(5) of the CPC, Order XI Rule 1(10) of the CPC",
+    "Context": "Commercial suit, injunction against trademark infringement, introduction of additional documents, Order VII Rule 14, Order XI Rule 1(5), Order XI Rule 1(10)"
+  },
+  {
+    "Query": "A company filed a suit for recovery of money against another company. The defendant filed a written statement and counterclaim, accompanied by a statement of truth. The defendant later sought to introduce additional documents under Order VII Rule 14, claiming they were not in their possession at the time of filing the statement of truth. The trial court rejected the application. Can additional documents be introduced after filing a statement of truth, and what are the requirements for doing so?",
+    "Legal Principles": "Order VII Rule 14 does not apply to commercial suits. Order XI Rule 1(10) governs the disclosure of documents in commercial suits. The defendant may seek leave to rely on additional documents if they were not in the defendant's possession at the time of filing the written statement. The defendant must establish reasonable cause for non-disclosure and that the documents were not in their possession at the time of filing the written statement. The defendant's statement of truth must be consistent with the application for additional documents.",
+    "Relevant Sections": "Order VII Rule 14 of the CPC, Order XI Rule 1(10) of the CPC",
+    "Context": "Commercial suit, recovery of money, additional documents, Order VII Rule 14, Order XI Rule 1(10), statement of truth"
+  },
+  {
+    "Query": "In a commercial suit, the defendant filed a written statement and counterclaim. The defendant's lawyer left the firm during the COVID-19 pandemic, and the current lawyer discovered that certain invoices were not filed with the written statement. The defendant sought leave to introduce these invoices under Order VII Rule 14. The trial court rejected the application. Is a lawyer's departure from a firm sufficient grounds for allowing the introduction of additional documents?",
+    "Legal Principles": "Order VII Rule 14 does not apply to commercial suits. Order XI Rule 1(10) governs the disclosure of documents in commercial suits. A lawyer's departure from a firm is not a sufficient ground for allowing the introduction of additional documents. The defendant must establish reasonable cause for non-disclosure and that the documents were not in their possession at the time of filing the written statement.",
+    "Relevant Sections": "Order VII Rule 14 of the CPC, Order XI Rule 1(10) of the CPC",
+    "Context": "Commercial suit, additional documents, Order VII Rule 14, Order XI Rule 1(10), lawyer departure, COVID-19 pandemic"
+  },
+  {
+    "Query": "A plaintiff filed a commercial suit seeking damages for breach of contract. The plaintiff's counsel failed to include certain invoices in the initial list of documents filed with the plaint. The plaintiff sought to introduce these invoices later through an Order VII Rule 14 application, arguing that the documents were not in their possession at the time of filing the plaint. The trial court rejected the application. Can a plaintiff introduce additional documents after the initial disclosure, and what are the requirements for doing so?",
+    "Legal Principles": "Order VII Rule 14 does not apply to commercial suits. Order XI Rule 1(5) governs the disclosure of documents in commercial suits. The plaintiff may seek leave to rely on additional documents if they were not in the plaintiff's possession at the time of filing the plaint. The plaintiff must establish reasonable cause for non-disclosure and that the documents were not in their possession at the time of filing the plaint.",
+    "Relevant Sections": "Order VII Rule 14 of the CPC, Order XI Rule 1(5) of the CPC",
+    "Context": "Commercial suit, breach of contract, additional documents, Order VII Rule 14, Order XI Rule 1(5), initial disclosure"
+  },
+  {
+    "Query": "A defendant in a commercial suit filed a written statement and counterclaim, but failed to include certain documents in the list of documents. The defendant later sought to introduce these documents under Order VII Rule 14, claiming they were not in their possession at the time of filing the written statement. The trial court rejected the application. What are the requirements for a party to introduce additional documents in a commercial suit?",
+    "Legal Principles": "Order VII Rule 14 does not apply to commercial suits. Order XI Rule 1(10) governs the disclosure of documents in commercial suits. The defendant may seek leave to rely on additional documents if they were not in the defendant's possession at the time of filing the written statement. The defendant must establish reasonable cause for non-disclosure and that the documents were not in their possession at the time of filing the written statement.",
+    "Relevant Sections": "Order VII Rule 14 of the CPC, Order XI Rule 1(10) of the CPC",
+    "Context": "Commercial suit, additional documents, Order VII Rule 14, Order XI Rule 1(10), written statement, counterclaim"
+  },
+  {
+    "Query": "A company filed a commercial suit against another company for breach of contract. The plaintiff's counsel discovered that certain invoices were missing from the initial list of documents filed with the plaint. The plaintiff sought to introduce these invoices later through an Order VII Rule 14 application, claiming that the documents were not in their possession at the time of filing the plaint. The trial court rejected the application. Can a plaintiff introduce additional documents after the initial disclosure, and what are the requirements for doing so?",
+    "Legal Principles": "Order VII Rule 14 does not apply to commercial suits. Order XI Rule 1(5) governs the disclosure of documents in commercial suits. The plaintiff may seek leave to rely on additional documents if they were not in the plaintiff's possession at the time of filing the plaint. The plaintiff must establish reasonable cause for non-disclosure and that the documents were not in their possession at the time of filing the plaint.",
+    "Relevant Sections": "Order VII Rule 14 of the CPC, Order XI Rule 1(5) of the CPC",
+    "Context": "Commercial suit, breach of contract, additional documents, Order VII Rule 14, Order XI Rule 1(5), initial disclosure"
+  },
+  {
+    "Query": "A defendant in a commercial suit filed a written statement and counterclaim, but failed to include certain documents in the list of documents. The defendant later sought to introduce these documents under Order VII Rule 14, claiming that the documents were not in their possession at the time of filing the written statement. The trial court rejected the application. What are the requirements for a party to introduce additional documents in a commercial suit?",
+    "Legal Principles": "Order VII Rule 14 does not apply to commercial suits. Order XI Rule 1(10) governs the disclosure of documents in commercial suits. The defendant may seek leave to rely on additional documents if they were not in the defendant's possession at the time of filing the written statement. The defendant must establish reasonable cause for non-disclosure and that the documents were not in their possession at the time of filing the written statement.",
+    "Relevant Sections": "Order VII Rule 14 of the CPC, Order XI Rule 1(10) of the CPC",
+    "Context": "Commercial suit, additional documents, Order VII Rule 14, Order XI Rule 1(10), written statement, counterclaim"
+  },
+  {
+    "Query": "A plaintiff filed a commercial suit seeking an injunction against the defendant for infringing registered trademarks. The plaintiff later sought to introduce additional documents, primarily invoices, through an Order VII Rule 14 application. The trial court rejected the application, and the plaintiff appealed. Can the plaintiff introduce additional documents after the initial disclosure, and under what circumstances?",
+    "Legal Principles": "Order VII Rule 14 of the Code of Civil Procedure (CPC) does not apply to commercial suits. Order XI Rule 1(5) and Order XI Rule 1(10) govern the disclosure of documents in commercial suits. The plaintiff may seek leave to rely on additional documents if they were not in the plaintiff's possession at the time of filing the plaint. The plaintiff must establish reasonable cause for non-disclosure and that the documents were not in their possession at the time of filing the plaint.",
+    "Relevant Sections": "Order VII Rule 14 of the CPC, Order XI Rule 1(5) of the CPC, Order XI Rule 1(10) of the CPC",
+    "Context": "Commercial suit, injunction against trademark infringement, introduction of additional documents, Order VII Rule 14, Order XI Rule 1(5), Order XI Rule 1(10)"
+  },
+  {
+    "Query": "In a commercial suit, the defendant filed a written statement and counterclaim. The defendant's lawyer left the firm during the COVID-19 pandemic, and the current lawyer discovered that certain invoices were not filed with the written statement. The defendant sought leave to introduce these invoices under Order VII Rule 14. The trial court rejected the application. Is a lawyer's departure from a firm sufficient grounds for allowing the introduction of additional documents?",
+    "Legal Principles": "Order VII Rule 14 does not apply to commercial suits. Order XI Rule 1(10) governs the disclosure of documents in commercial suits. A lawyer's departure from a firm is not a sufficient ground for allowing the introduction of additional documents. The defendant must establish reasonable cause for non-disclosure and that the documents were not in their possession at the time of filing the written statement.",
+    "Relevant Sections": "Order VII Rule 14 of the CPC, Order XI Rule 1(10) of the CPC",
+    "Context": "Commercial suit, additional documents, Order VII Rule 14, Order XI Rule 1(10), lawyer departure, COVID-19 pandemic"
+  },
+  {
+    "Query": "A company filed a suit for recovery of money against another company. The defendant filed a written statement and counterclaim, accompanied by a statement of truth. The defendant later sought to introduce additional documents under Order VII Rule 14, claiming they were not in their possession at the time of filing the statement of truth. The trial court rejected the application. Can additional documents be introduced after filing a statement of truth, and what are the requirements for doing so?",
+    "Legal Principles": "Order VII Rule 14 does not apply to commercial suits. Order XI Rule 1(10) governs the disclosure of documents in commercial suits. The defendant may seek leave to rely on additional documents if they were not in the defendant's possession at the time of filing the written statement. The defendant must establish reasonable cause for non-disclosure and that the documents were not in their possession at the time of filing the written statement. The defendant's statement of truth must be consistent with the application for additional documents.",
+    "Relevant Sections": "Order VII Rule 14 of the CPC, Order XI Rule 1(10) of the CPC",
+    "Context": "Commercial suit, recovery of money, additional documents, Order VII Rule 14, Order XI Rule 1(10), statement of truth"
+  }
+]
+```

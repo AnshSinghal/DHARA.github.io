@@ -1,0 +1,98 @@
+##  Case Title
+
+•  **Case Name:** Vadodara Mahanag Seva Sadan Formally Known as Municipal Corporation vs. M S Khurana Engineering Ltd.
+•  **Court:** Gujarat High Court
+•  **Date of Judgment:** 6th September 2018
+•  **Citation:** C/SCA/13736/2018 
+
+## Background and Context
+
+• **Brief Overview:** The case arose from a dispute between the Vadodara Mahanagar Seva Sadan (the Corporation), a municipal entity, and M S Khurana Engineering Ltd. (the Contractor), regarding a construction project for a Sewage Treatment Plant. The Contractor, having won the bid, encountered disputes with the Corporation during the project execution.  These disputes were subject to an arbitration clause within their agreement, leading to an arbitration process where both parties presented their claims.  
+
+• **Key Issues:**
+    - The jurisdiction of the Commercial Court to entertain the execution petition filed by the Contractor to recover the arbitral award amount. 
+    - Whether the value of the execution petition should be considered in isolation, or whether the combined value of the original claim and the Corporation's counterclaim during the arbitration should be considered for determining jurisdiction.
+
+## Legal Principles Involved
+
+• **Relevant Statutes and Provisions:**
+    - **Arbitration and Conciliation Act, 1996:** Section 2 (e) (definition of "Court"), Section 34 (application to set aside arbitral award), Section 36 (enforcement of arbitral award).
+    - **Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015:** Section 2 (c) (definition of "commercial dispute"), Section 2 (i) (definition of "specified value"), Section 12 (determination of specified value).
+    - **Code of Civil Procedure, 1908 (CPC):** Order VII Rule 11 (d), Section 37 (definition of "Court which passed a decree"), Section 38 (Court by which decree may be executed).
+
+• **Precedents Cited:**
+    - **M/s. OCI Corporation vs. Kandla Export Corporation & Ors., 2017 [1] GLH 383:** This case dealt with the jurisdiction of Commercial Courts in international commercial arbitration cases.
+    - **Kandla Export Corporation vs. M/s. OCI Corporation, SCALE 2018 [2] 368:** This case examined the maintainability of an appeal under the Commercial Courts Act, 2015, in relation to an international commercial arbitration award.
+
+• **Legal Doctrines:**
+    - **Jurisdiction:** The court's power to hear and decide a case. 
+    - **Res Judicata:** The principle that a matter already decided by a court cannot be re-litigated.
+    - **Deeming Fiction:** Legal provisions that treat something as equivalent to something else for the purposes of the law. 
+
+## Arguments Presented
+
+• **Plaintiff’s Argument (The Corporation):**
+    - The Corporation argued that the execution petition filed by the Contractor should be dismissed or returned to the appropriate court because the claim amount was below Rs. 1 crore.
+    - They relied on Order VII Rule 11 (d) of the CPC, which deals with the dismissal of suits for lack of jurisdiction.
+    - They argued that since the execution petition value was below the specified value, the Commercial Court lacked jurisdiction to entertain it.
+
+• **Defendant’s Argument (The Contractor):**
+    - The Contractor argued that the Commercial Court had jurisdiction because the arbitration proceedings, including the counterclaim filed by the Corporation, exceeded Rs. 1 crore in value.
+    - They relied on Section 36 of the Arbitration Act, which states that an arbitral award, once the time for challenging it has expired, is to be enforced "in the same manner as if it were a decree of the Court."
+    - They argued that the Commercial Court had jurisdiction to entertain the application to set aside the arbitral award, and therefore, had jurisdiction to enforce it as well.
+
+## Court’s Analysis and Reasoning
+
+• **Key Findings:**
+    - The court found that the combined value of the claim and the counterclaim during the arbitration process exceeded Rs. 1 crore, therefore meeting the "specified value" requirement under the Commercial Courts Act, 2015.
+    - The court emphasized that the Commercial Court had jurisdiction to entertain the application for setting aside the arbitral award, which was essentially a "suit" under the Act of 2015.
+    - The court interpreted Section 36 of the Arbitration Act to mean that the court that had jurisdiction to hear the matter during the arbitration process would also have jurisdiction to enforce the award.
+
+• **Interpretation of Law:**
+    - The court interpreted Section 36 of the Arbitration Act as creating a "deeming fiction" that treats an arbitral award as a decree of the court for enforcement purposes.
+    - The court also interpreted the provisions of the Commercial Courts Act, 2015, regarding "commercial dispute" and "specified value" in the context of arbitration proceedings.
+
+• **Application of Law:**
+    - The court applied the principles of jurisdiction and "deeming fiction" to determine that the Commercial Court had jurisdiction over the execution petition.
+    - The court rejected the Corporation's argument based on Order VII Rule 11 (d) of the CPC, finding that it did not apply to execution petitions.
+    - The court also distinguished the precedent in Kandla Export Corporation [SCALE 2018 (2) 368], finding it to be inapplicable to the present case.
+
+## Judgment
+
+• **Final Decision:** The petition filed by the Corporation was dismissed.
+• **Relief Granted:** The Contractor was allowed to proceed with the execution petition in the Commercial Court.
+• **Orders:** The court directed the Corporation to abide by the arbitral award and pay the amount determined by the Arbitrator.
+
+## Implications
+
+• **Impact on Law:** 
+    - This judgment clarifies the jurisdiction of Commercial Courts in cases involving the enforcement of arbitral awards in commercial disputes.
+    - It establishes that the combined value of the claim and counterclaim during arbitration is relevant for determining jurisdiction, not just the value of the execution petition.
+
+• **Future Relevance:** 
+    - This judgment will be relevant to future cases involving the enforcement of arbitral awards in commercial disputes in India.
+    - It will provide guidance to courts and parties on the application of the relevant legal provisions, including the Arbitration Act, the Commercial Courts Act, and the CPC.
+
+• **Broader Context:** 
+    - This case highlights the importance of clear jurisdictional rules for enforcing arbitral awards in commercial disputes.
+    - It underscores the need for efficient and streamlined dispute resolution mechanisms in the commercial sector.
+
+## Summary Points
+
+• The Commercial Court had jurisdiction to entertain the execution petition for enforcement of an arbitral award in a commercial dispute exceeding Rs. 1 crore in value, even though the petition itself was below Rs. 1 crore.
+• The combined value of the claim and counterclaim during arbitration, not just the value of the execution petition, is relevant for determining jurisdiction.
+• The court interpreted Section 36 of the Arbitration Act as creating a "deeming fiction" that treats an arbitral award as a decree of the court for enforcement purposes.
+
+## References
+
+• Arbitration and Conciliation Act, 1996
+• Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015
+• Code of Civil Procedure, 1908 (CPC)
+• M/s. OCI Corporation vs. Kandla Export Corporation & Ors., 2017 [1] GLH 383
+• Kandla Export Corporation vs. M/s. OCI Corporation, SCALE 2018 [2] 368
+
+## Further Reading:
+
+•  The Arbitration and Conciliation Act, 1996: https://www.legislative.gov.in/sites/default/files/A1996-26.pdf
+• The Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015: https://www.legislative.gov.in/sites/default/files/A2015-24.pdf
+• The Code of Civil Procedure, 1908: https://www.legislative.gov.in/sites/default/files/A1908-5.pdf 

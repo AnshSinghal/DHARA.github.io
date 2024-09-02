@@ -1,0 +1,98 @@
+## 1. Case Title
+
+* **Case Name:** M/s Omaxe Ltd vs. Ms. Asha Saini
+* **Court:** Delhi District Court (Commercial Court)-01: South-East, Saket : New Delhi
+* **Date of Judgment:** 11 January, 2022
+* **Citation:** OMP (COMM) NO. 50/19 & OMP (COMM) NO. 53/19
+
+## 2. Background and Context
+
+* **Brief Overview:** Ms. Asha Saini (Respondent) filed two separate petitions against M/s Omaxe Ltd (Petitioner) for delay in delivering possession of two flats purchased in the "Omaxe North Avenue" project in Bahadurgarh, Haryana. The Respondent had initially applied for the allotment of the flats in 2006 and paid a booking amount.  While a detailed Builder-Buyer Agreement (BBA) was executed in 2012, the Respondent argued that the contract was concluded earlier in 2006 through her application form and the Petitioner’s subsequent acceptance of payment. 
+* **Key Issues:**
+    * Whether the contract was concluded in 2006 with the application form and the acceptance of payment, or in 2012 with the execution of the BBA.
+    * Whether the BBA novated the earlier agreement.
+    * Whether the Petitioner was liable for damages due to delay in possession.
+    * Whether the Petitioner's claim for liquidated damages was applicable.
+    * Whether the Respondent's claim for damages was barred by limitation.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * The Arbitration and Conciliation Act, 1996 (especially Sections 34, 11, 21, and 33)
+    * The Indian Contract Act, 1872 (especially Sections 62 and 74)
+    * The Limitation Act, 1963 (especially Articles 27 and Section 14)
+* **Precedents Cited:**
+    * Associate Builders vs. Delhi Development Authority, (2015) 3 SCC 49
+    * Swan Gold Mine vs Hindustan Copper, MANU/SC/0849/2014
+    * Oil & Natural Gas Corporation Ltd. vs Saw Pipes Ltd., (2003) 5 SCC 705
+    * PSA SICAL Terminals Pvt. Ltd. vs. The Board of Trustees of VO Chidambranar Port Trust Tuticorin & Ors., Civil Appeal No. 3699-3700/2018, judgment dated 28.07.2021
+    * Yogesh Sharma Vs. Unitech Limited (National Consumer Disputes Redressal Commission)
+* **Legal Doctrines:**
+    * Novation: Replacing an existing contract with a new one.
+    * Liquidated Damages: Damages agreed upon in advance in case of breach of contract.
+    * Estoppel: A legal principle preventing someone from asserting a claim or right that is inconsistent with previous actions or statements.
+
+## 4. Arguments Presented
+
+* **Plaintiff’s Argument (Respondent):**
+    * The contract for the flat was concluded in 2006 with the application form and the subsequent acceptance of payment, not in 2012 with the BBA.
+    * The Petitioner deliberately delayed possession to exploit the Respondent's money for other projects.
+    * The Petitioner's claim for liquidated damages was not applicable as the BBA was signed under coercion and was an unfair trade practice.
+    * The Respondent's claim was not barred by limitation as the time spent pursuing remedies in the High Court should be excluded under Section 14 of the Limitation Act.
+* **Defendant’s Argument (Petitioner):**
+    * The BBA was the only binding contract and superseded the application form.
+    * The Respondent was not entitled to damages as possession was given within the time frame agreed upon in the BBA.
+    * The Respondent's claim for damages was barred by limitation as the notice for arbitration was issued beyond the three-year limitation period.
+    * The award of damages by the Arbitrator was against public policy and illegal, exceeding the price of the flat and ignoring the liquidated damages clause in the BBA.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The Court found that the Arbitrator had rightly concluded that the contract was concluded in 2006 with the application form and the Petitioner's subsequent acceptance of payment.
+    * The Court held that the BBA did not novate the earlier agreement and was an attempt by the Petitioner to wriggle out of the time condition for delivery of the flat.
+    * The Court recognized the Petitioner's tendency to exploit investors' money for other projects and considered the BBA to be an unfair trade practice.
+    * The Court determined that the Respondent was entitled to damages due to the Petitioner's delay in possession.
+    * The Court found that the Respondent's claim for damages was not barred by limitation as the time spent pursuing remedies in the High Court should be excluded.
+* **Interpretation of Law:**
+    * The Court interpreted Section 34 of the Arbitration Act to mean that it could not act as an appellate court and re-appreciate evidence, but could interfere if the award was in violation of public policy.
+    * The Court interpreted Section 62 of the Contract Act to mean that a subsequent agreement does not necessarily novate an earlier one.
+    * The Court interpreted Section 74 of the Contract Act to mean that the liquidated damages clause was not applicable due to the unfair trade practice element of the BBA.
+* **Application of Law:**
+    * The Court applied the precedents cited to determine the scope of its interference with the Arbitrator's award.
+    * The Court applied the legal doctrines of novation, liquidated damages, and estoppel to the specific facts of the case.
+
+## 6. Judgment
+
+* **Final Decision:** The Court dismissed both petitions filed by the Petitioner.
+* **Relief Granted:**  No relief was granted to the Petitioner.
+* **Orders:** The parties were left to bear their own costs.
+
+## 7. Implications
+
+* **Impact on Law:** This judgment reaffirms the Court's limited role in interfering with Arbitrator's decisions and highlights the importance of fairness and transparency in real estate contracts.
+* **Future Relevance:** This case sets a precedent for future disputes regarding the timing of contract formation in real estate deals. It also reinforces the principles of fair trade practices and the application of the Limitation Act in cases involving arbitration.
+* **Broader Context:**  This judgment highlights the ongoing issue of exploitation of investors in real estate projects and emphasizes the need for stronger regulations to protect consumers.
+
+## 8. Summary Points
+
+* The contract for the purchase of the flats was concluded in 2006 with the application form and the subsequent acceptance of payment.
+* The BBA did not novate the earlier agreement but was an attempt by the Petitioner to evade its commitment.
+* The Petitioner was liable for damages due to the delay in possession, despite the liquidated damages clause in the BBA.
+* The Respondent's claim for damages was not barred by limitation due to the time spent pursuing remedies in the High Court.
+
+## 9. References
+
+* **Citations:**
+    * The Arbitration and Conciliation Act, 1996
+    * The Indian Contract Act, 1872
+    * The Limitation Act, 1963
+    * Associate Builders vs. Delhi Development Authority, (2015) 3 SCC 49
+    * Swan Gold Mine vs Hindustan Copper, MANU/SC/0849/2014
+    * Oil & Natural Gas Corporation Ltd. vs Saw Pipes Ltd., (2003) 5 SCC 705
+    * PSA SICAL Terminals Pvt. Ltd. vs. The Board of Trustees of VO Chidambranar Port Trust Tuticorin & Ors., Civil Appeal No. 3699-3700/2018, judgment dated 28.07.2021
+    * Yogesh Sharma Vs. Unitech Limited (National Consumer Disputes Redressal Commission)
+* **Further Reading:**
+    * Cases involving novation of contracts and unfair trade practices in real estate.
+    * Discussions on the application of the Limitation Act in arbitration proceedings.
+
+This summary provides a detailed overview of the case, including all relevant facts, legal principles, arguments presented, the court's analysis, the judgment, and potential implications.

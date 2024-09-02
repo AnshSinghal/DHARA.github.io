@@ -1,0 +1,93 @@
+## 1. Case Title
+
+* **Case Name:** Vasu Healthcare Private Limited vs. Gujarat Akruti Tcg Biotch Limited
+* **Court:** Gujarat High Court
+* **Date of Judgment:** 10th July 2017
+* **Citation:** AIR 2017 GUJARAT 153
+
+## 2. Background and Context
+
+* **Brief Overview:** Vasu Healthcare Private Limited (the original plaintiff, henceforth "plaintiff") filed a suit against Gujarat Akruti TCG Biotch Limited (the original defendant, henceforth "defendant") seeking specific performance of a contract for a plot of land intended for a Biotech Park in Vadodara. The plaintiff claimed the defendant failed to develop the land as promised and sought compensation for damages. The defendant countered by arguing that the dispute wasn't a "commercial dispute" under the Commercial Courts Act, 2015, and thus the Commercial Court lacked jurisdiction.
+* **Key Issues:** 
+    * Whether the dispute between the plaintiff and the defendant constituted a "commercial dispute" under the Commercial Courts Act, 2015.
+    * Whether the Commercial Court had jurisdiction to hear the case, given the nature of the dispute.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * The Code of Civil Procedure, 1908 (CPC) - specifically Order VII Rule 10, dealing with returning plaints for lack of jurisdiction.
+    * The Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015 (Commercial Courts Act) - particularly Section 2(c) defining "commercial dispute."
+* **Precedents Cited:**
+    * State of Haryana vs. Dalmia Dadri Cement Ltd., 1987 (Suppl) SCC 679.
+    * Mahakoshal Tourist, Napier Town & Ors. Vs. State of M.P. & Ors., (2002) 7 SCC 245.
+    * Federation of A.P. Chambers of Commerce and Industry vs. State of A.P., (2000) 6 SCC 550.
+    * Dineshkumar Gulabchand Agrawal vs. Commissioner of Income Tax and Anr., (2004) 267 ITR 768 (Bom).
+    * Ujwala Raje Gaekwar D/o.Udaysinghrao Shivajirao Gaekwar and W/o. Jay Vikram Shah vs. Hemaben Achyut Shah & Ors., Miscellaneous Civil Application No.1879/2016.
+* **Legal Doctrines:**
+    * **Jurisdiction:** The court's power to hear and decide a case.
+    * **Literal Interpretation:** Interpreting statutory provisions according to their plain and ordinary meaning.
+    * **Purpose of Statute:** Considering the underlying intent and objective behind a statutory provision.
+
+## 4. Arguments Presented
+
+* **Plaintiff's Argument:** 
+    * The dispute falls under the definition of a "commercial dispute" in the Commercial Courts Act, specifically under Section 2(c)(vii) - agreements related to immovable property used exclusively in trade or commerce.
+    * The land, despite not being currently used for trade or commerce, was intended for such use through the development of the Biotech Park.
+    * The word "used" in the statute should not be interpreted as "actually used" but rather encompass future intended use. 
+    * The Commercial Court has jurisdiction to hear the case.
+* **Defendant's Argument:**
+    * The dispute does not qualify as a "commercial dispute" because the land was not actually used for trade or commerce at the time of the dispute.
+    * The phrase "immovable property used exclusively in trade or commerce" in Section 2(c)(vii) requires actual or present use, not potential future use. 
+    * The Commercial Court lacked jurisdiction to hear the case.
+    * Citing precedents, the defendant argued for a strict and literal interpretation of the statutory provisions.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The Court emphasized the importance of interpreting statutory provisions literally and strictly, without adding words or interpretations not present in the statute.
+    * The Court concluded that the agreement between the plaintiff and the defendant did not constitute an agreement relating to "immovable property used exclusively in trade or commerce" as per Section 2(c)(vii) of the Commercial Courts Act.
+    * The Court highlighted that the land in question was not actually used for trade or commerce at the time of the suit, even though it was intended for such use in the future.
+* **Interpretation of Law:**
+    * The Court interpreted the word "used" in Section 2(c)(vii) of the Commercial Courts Act to mean "actually used" or "being used" and not "ready for use" or "likely to be used" in the future.
+    * The Court relied on the precedent of Dineshkumar Gulabchand Agrawal (Supra), where the Bombay High Court concluded that "used" denotes "actually used" and not merely "ready for use."
+* **Application of Law:**
+    * Applying the literal interpretation of the statute and the precedents cited, the Court concluded that the dispute did not qualify as a "commercial dispute" under Section 2(c) of the Commercial Courts Act. 
+    * The Court held that the Commercial Court lacked jurisdiction to hear the case, as the dispute did not fall within the definition of "commercial dispute." 
+
+## 6. Judgment
+
+* **Final Decision:** The Appeal From Order was dismissed. 
+* **Relief Granted:** No specific relief was granted.
+* **Orders:** 
+    * The impugned order of the Commercial Court returning the plaint was upheld.
+    * The plaintiff was directed to present their case before an appropriate court having jurisdiction.
+    * The ad-interim relief granted by the Commercial Court was revoked.
+
+## 7. Implications
+
+* **Impact on Law:** This judgment reinforces the importance of adhering to the literal interpretation of statutory provisions when determining jurisdiction.
+* **Future Relevance:** The case provides guidance on how courts will interpret the definition of "commercial dispute" in the context of land agreements under Section 2(c)(vii) of the Commercial Courts Act.
+* **Broader Context:** This case highlights the need for clear and unambiguous legal language in statutes to avoid ambiguity and ensure clear application of the law.
+
+## 8. Summary Points
+
+* The plaintiff sought specific performance of a contract for a plot of land intended for a Biotech Park.
+* The defendant argued that the dispute was not a "commercial dispute" under the Commercial Courts Act.
+* The court upheld the Commercial Court's decision to return the plaint due to lack of jurisdiction.
+* The court emphasized the importance of literal interpretation of statutes and precedents in determining jurisdiction.
+* The case clarifies the meaning of "immovable property used exclusively in trade or commerce" under the Commercial Courts Act, requiring actual or present use, not potential future use.
+
+## 9. References
+
+* The Code of Civil Procedure, 1908 (CPC)
+* The Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015 (Commercial Courts Act)
+* State of Haryana vs. Dalmia Dadri Cement Ltd., 1987 (Suppl) SCC 679.
+* Mahakoshal Tourist, Napier Town & Ors. Vs. State of M.P. & Ors., (2002) 7 SCC 245.
+* Federation of A.P. Chambers of Commerce and Industry vs. State of A.P., (2000) 6 SCC 550.
+* Dineshkumar Gulabchand Agrawal vs. Commissioner of Income Tax and Anr., (2004) 267 ITR 768 (Bom).
+* Ujwala Raje Gaekwar D/o.Udaysinghrao Shivajirao Gaekwar and W/o. Jay Vikram Shah vs. Hemaben Achyut Shah & Ors., Miscellaneous Civil Application No.1879/2016.
+
+## Further Reading:
+
+* The Commercial Courts Act, 2015
+* Articles and commentaries on the Commercial Courts Act and its impact on commercial disputes in India. 

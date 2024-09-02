@@ -1,0 +1,88 @@
+## 1. Case Title
+
+* **Case Name:** United Telecoms Limited, vs The Director
+* **Court:** Telangana High Court
+* **Date of Judgment:** 26th August 2022
+* **Citation:** COMMERCIAL COURT APPEAL NOs.33, 34, 40, 41, 42, 48, 49, 51 and 52 of 2018 and 4, 17, 18, 19, 20 OF 2019
+
+## 2. Background and Context
+
+* **Brief Overview:** This case involved a dispute between various software companies (CCS Infotech, United Telecoms Ltd., and CMS Computers Ltd.) and the Mee Seva organization (formerly E-Seva). These companies had been selected as Technical Partners to establish and operate Mee Seva centers in various zones within the combined state of Andhra Pradesh. They entered into agreements with Mee Seva in 2003, which included a provision for the companies to be paid a set rate per transaction. Disputes arose between the parties regarding:
+    * The effective date of the agreements
+    * The downward revision of transaction rates
+    * Fixation of transaction slabs
+* **Key Issues:** 
+    * Whether the Arbitrator could pass both a preliminary award and a final award.
+    * Whether the Commercial Court, in a Section 34 application, could modify the Arbitrator's awards.
+    * Whether the Arbitrator's findings and conclusions regarding the revision of rates and the slabs were valid.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * Arbitration and Conciliation Act, 1996 (Act, 1996):
+        * Section 2(1)(c)4: Definition of "arbitral award" including interim award
+        * Section 17: Interim measures pending arbitral proceedings
+        * Section 32: Termination of arbitral proceedings
+        * Section 33: Correction and interpretation of award, additional award
+        * Section 34: Application for setting aside arbitral award
+* **Precedents Cited:**
+    * The Project Director, National Highways Nos.45E and 220, National Highways Authority of India vs. M.Hakeem and others
+    * Ragya Bee and others vs. P.S.R. Constructions and others
+    * Delhi Airport Metro Express Pvt. Ltd. Vs. Delhi Metro Rail Corporation Ltd.
+* **Legal Doctrines:**
+    * Functus officio: Once an award is passed, the Arbitrator becomes functus officio (no longer has jurisdiction) except for specific actions outlined in the Act.
+    * Judicial restraint: Courts have a limited role in reviewing arbitral awards. Their intervention is restricted to the grounds specified in Section 34 of the Act.
+
+## 4. Arguments Presented
+
+* **Appellant’s Argument:** (CCS Infotech, United Telecoms Ltd., and CMS Computers Ltd.)
+    * Section 34 of the Act, 1996, does not provide for modification of the award, only for setting aside or remanding.
+    * The Commercial Court erred in interpreting the government order regarding electricity bill rates as prospective, when it should have been applied retrospectively.
+    * The Commercial Court erred in reducing the rate of interest from 12% to 6% per annum.
+    * The Arbitrator's award should be accepted in its entirety.
+* **Respondent’s Argument:** (Mee Seva)
+    * The government order regarding electricity bill rates (G.O.Rt.No.205 dt.30.06.2009) applies only to fresh contracts, not existing ones. 
+    * The Arbitrator's conclusion on the electricity bill issue was perverse, contradicting his findings on other issues.
+    * The Arbitrator cannot pass two separate awards in the same proceeding. Once an award is passed, he becomes functus officio.
+    * Filing a Section 34 application created a deemed stay, preventing the Arbitrator from passing a final award.
+    * The Arbitrator extended the contract beyond the agreed-upon period through an interim order, exceeding his jurisdiction. 
+    * The Commercial Court should have remanded the matter to the Arbitrator for a fresh award instead of modifying it.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The Arbitrator erred in passing both a preliminary award and a final award. This is not permitted under the Act, 1996.
+    * The Commercial Court erred in modifying the Arbitrator's awards. Under Section 34, the Court can only set aside or remand the matter for fresh consideration.
+* **Interpretation of Law:**
+    * The court interpreted Section 34 of the Act, 1996, to confirm that it does not grant the power to modify an award.
+    * The court acknowledged the legal principle of functus officio, stating that once an award is passed, the Arbitrator loses jurisdiction except for specific actions under the Act.
+* **Application of Law:**
+    * The court applied these legal principles to the facts of the case, concluding that the Arbitrator's actions in passing two awards and the Commercial Court's actions in modifying the award were both illegal.
+
+## 6. Judgment
+
+* **Final Decision:** The High Court allowed the appeals filed by the software companies (CCS Infotech, United Telecoms Ltd., and CMS Computers Ltd.).
+* **Relief Granted:** The court remanded the matter back to the Arbitral Tribunal for fresh consideration.
+* **Orders:** The court appointed Justice Vilas V. Afzulpurkar, Retired Judge of the Telangana High Court, as the new sole Arbitrator. The parties were directed to submit all documents to the new Arbitrator within four weeks. The Arbitrator was requested to conclude the proceedings expeditiously, preferably within 16 weeks.
+
+## 7. Implications
+
+* **Impact on Law:** This case reinforces the limited role of courts in reviewing arbitral awards. It confirms that modification of an award is not permitted under Section 34 of the Act, 1996.
+* **Future Relevance:** This judgment provides guidance on the application of functus officio in the context of arbitration. It sets a precedent for future cases involving the passing of multiple awards by an Arbitrator.
+* **Broader Context:** This case highlights the importance of clearly defining the scope and limitations of Arbitrators' authority within the legal framework. It also underscores the need for a streamlined and efficient arbitral process to ensure prompt resolution of disputes. 
+
+## 8. Summary Points
+
+* The Arbitrator's actions in passing a preliminary award followed by a final award were deemed illegal.
+* The Commercial Court's modification of the Arbitrator's award was found to be beyond its jurisdiction. 
+* The case underscores the limited scope of judicial review of arbitral awards.
+* The matter was remanded back to arbitration, with a new Arbitrator appointed to address the outstanding issues.
+
+## 9. References
+
+* **Citations:**
+    * Arbitration and Conciliation Act, 1996
+* **Further Reading:**
+    * The Project Director, National Highways Nos.45E and 220, National Highways Authority of India vs. M.Hakeem and others (2021) 9 SCC 1
+    * Ragya Bee and others vs. P.S.R. Constructions and others 2022 (3) ALD 151
+    * Delhi Airport Metro Express Pvt. Ltd. Vs. Delhi Metro Rail Corporation Ltd. (2022) 1 SCC 131

@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A lender provided a loan to a borrower secured by a mortgage. The borrower defaulted on the loan and the lender sought to foreclose on the mortgage. The borrower argued that the lender had no right to foreclose because the loan was discharged by a subsequent mortgage.  Is the lender entitled to foreclose on the mortgage?",
+    "Legal Principles": "Discharge of a mortgage, Mortgage by conditional sale, Section 58 of the Transfer of Property Act, Foreclosure of mortgage",
+    "Relevant Sections": "Section 58(c) of the Transfer of Property Act",
+    "Context": "Commercial dispute, mortgage foreclosure, Original Side Appeal, Madras High Court"
+  },
+  {
+    "Query": "A company entered into a loan agreement with a borrower, and the borrower later issued cheques for part payment of the loan. The cheques were returned unpaid due to insufficient funds. The company sued the borrower for the unpaid amount, and the borrower argued that the loan was discharged by a subsequent mortgage. Can the company recover the unpaid loan amount?",
+    "Legal Principles": "Discharge of debt, Cheque dishonour, Summary judgment, Order 13-A of the CPC,  Order 37 Rule 1 of the CPC,  Commercial Courts Act",
+    "Relevant Sections": "Order 13-A of the CPC, Order 37 Rules 1 and 2 of CPC",
+    "Context": "Commercial dispute, loan recovery, summary suit,  Original Side Appeal, Madras High Court"
+  },
+  {
+    "Query": "A party filed an application for summary judgment under Order 13-A of the CPC, seeking to dismiss a suit without recording oral evidence. The court dismissed the application.  Is an appeal from such an order maintainable under the Commercial Courts Act?",
+    "Legal Principles": "Appealability of orders, Summary judgment, Order 13-A of the CPC, Commercial Courts Act",
+    "Relevant Sections": "Section 13 of the Commercial Courts Act, Order 43 of CPC, Section 37 of the Arbitration and Conciliation Act, 1996",
+    "Context": "Commercial dispute, appeal, jurisdiction, Commercial Appellate Division, Madras High Court"
+  },
+  {
+    "Query": "A company entered into a loan agreement with a borrower, and the borrower later issued cheques for part payment of the loan. The cheques were returned unpaid due to insufficient funds. The company sued the borrower for the unpaid amount, and the borrower argued that the company had no cause of action because the loan was discharged by a subsequent mortgage. Is the company entitled to recover the unpaid amount?",
+    "Legal Principles": "Discharge of debt, Cheque dishonour, Cause of action,  Mortgage by conditional sale,  Commercial Courts Act",
+    "Relevant Sections": "Section 58(c) of the Transfer of Property Act",
+    "Context": "Commercial dispute, loan recovery, summary suit,  Original Side Appeal, Madras High Court"
+  },
+  {
+    "Query": "A company provided a loan to a borrower secured by a mortgage. The borrower defaulted on the loan and the company sought to foreclose on the mortgage. The borrower argued that the company had no right to foreclose because the loan was discharged by a subsequent agreement between the parties. Is the company entitled to foreclose on the mortgage?",
+    "Legal Principles": "Discharge of mortgage,  Foreclosure of mortgage,  Loan agreement,  Mortgage by conditional sale",
+    "Relevant Sections": "Section 58 of the Transfer of Property Act",
+    "Context": "Commercial dispute, mortgage foreclosure, Original Side Appeal, Madras High Court"
+  },
+  {
+    "Query": "A party filed an application for summary judgment under Order 13-A of the CPC, seeking to dismiss a suit without recording oral evidence. The court dismissed the application. Is an appeal from such an order maintainable under the Commercial Courts Act, specifically considering the amendment made in 2018 to Section 13?",
+    "Legal Principles": "Appealability of orders, Summary judgment, Order 13-A of the CPC, Commercial Courts Act, 2018 Amendments",
+    "Relevant Sections": "Section 13 of the Commercial Courts Act, Order 43 of CPC, Section 37 of the Arbitration and Conciliation Act, 1996",
+    "Context": "Commercial dispute, appeal, jurisdiction, Commercial Appellate Division, Madras High Court"
+  },
+  {
+    "Query": "Two parties entered into a contract for the sale of goods. The buyer defaulted on the payment, and the seller sued the buyer for breach of contract. The buyer argued that the seller had no right to sue because the contract was discharged by a subsequent agreement between the parties. Does the buyer's argument have merit, and can the seller recover damages for the breach?",
+    "Legal Principles": "Discharge of contract, Breach of contract, Damages for breach of contract",
+    "Relevant Sections": "Indian Contract Act, 1872",
+    "Context": "Commercial dispute, breach of contract,  Original Side Appeal, Madras High Court"
+  },
+  {
+    "Query": "Two parties entered into a contract for the provision of services. The service provider failed to perform the services as agreed, and the client sued the service provider for breach of contract. The service provider argued that the client had no right to sue because the contract was discharged by a subsequent agreement between the parties. Is the client entitled to recover damages for the breach?",
+    "Legal Principles": "Discharge of contract, Breach of contract, Damages for breach of contract",
+    "Relevant Sections": "Indian Contract Act, 1872",
+    "Context": "Commercial dispute, breach of contract,  Original Side Appeal, Madras High Court"
+  },
+  {
+    "Query": "A party filed an application for summary judgment under Order 13-A of the CPC, seeking to dismiss a suit without recording oral evidence. The court dismissed the application. Is an appeal from such an order maintainable under the Commercial Courts Act, specifically considering the arguments related to the  proviso to Section 13(1-A) and the interpretation of 'judgment' vs. 'order'?",
+    "Legal Principles": "Appealability of orders, Summary judgment, Order 13-A of the CPC, Commercial Courts Act, 2018 Amendments",
+    "Relevant Sections": "Section 13 of the Commercial Courts Act, Order 43 of CPC, Section 37 of the Arbitration and Conciliation Act, 1996",
+    "Context": "Commercial dispute, appeal, jurisdiction, Commercial Appellate Division, Madras High Court"
+  },
+  {
+    "Query": "A party filed a suit for recovery of money based on a loan agreement and a mortgage deed. The defendant claimed that the loan was discharged by a subsequent agreement and filed an application for summary judgment to dismiss the suit. The court dismissed the application. Can the plaintiff proceed with the suit for recovery of money?",
+    "Legal Principles": "Discharge of debt, Loan agreement, Mortgage deed, Summary judgment",
+    "Relevant Sections": "Order 13-A of the CPC,  Commercial Courts Act",
+    "Context": "Commercial dispute, loan recovery, mortgage foreclosure,  Original Side Appeal, Madras High Court"
+  }
+]
+``` 

@@ -1,0 +1,88 @@
+##  M/S Hindustan Construction Co. Ltd. vs. North Eastern Electric Power Corporation Ltd. (NEEPCO)
+
+**1. Case Title**
+
+* **Case Name:** M/S Hindustan Construction Co. Ltd. vs. North Eastern Electric Power Corporation Ltd. (NEEPCO)
+* **Court:** High Court of Meghalaya
+* **Date of Judgment:** 5 July, 2023
+* **Citation:** CRP No. 9 of 2023
+
+**2. Background and Context**
+
+* **Brief Overview:**  This case involved a dispute between M/s Hindustan Construction Co. Ltd. (HCC) and NEEPCO, a government-owned company, over a construction contract for the Pare Hydro-electric Project in Arunachal Pradesh.  The dispute arose during the project execution and was referred to arbitration, where HCC was awarded a significant sum of money. NEEPCO challenged the award in court, but the High Court upheld the award with minor modifications. HCC then sought execution of the award, leading to NEEPCO filing an application for a stay of execution. The High Court's decision in this case revolved around whether NEEPCO was entitled to a stay of execution based on its status as a "State" within the meaning of Section 82 of the Code of Civil Procedure (CPC).
+* **Key Issues:**
+    * Whether NEEPCO, as a "State" under Article 12 of the Constitution, is also considered "Government" for the purposes of Section 82 CPC, which provides for a mandatory three-month delay before execution of decrees against the Government.
+    * Whether the learned Commercial Court (functioning as an Execution Court) was correct in applying Section 82 CPC to grant a stay of execution to NEEPCO. 
+    * Whether the Commercial Court correctly applied Order XXI Rule 26 CPC, which allows for stay of execution upon sufficient cause being shown, to grant the stay.
+
+**3. Legal Principles Involved**
+
+* **Relevant Statutes and Provisions:**
+    * **Article 12 of the Constitution of India:** Defines "State" for the purposes of enforcing fundamental rights.
+    * **Section 82 of the Code of Civil Procedure (CPC):** Deals with the execution of decrees against the Government.
+    * **Order XXI Rule 26 of the CPC:** Grants the court power to stay execution for a reasonable time upon sufficient cause being shown.
+    * **Section 36 of the Arbitration and Conciliation Act, 1996 (as amended in 2016):** Provides for the execution of arbitral awards and stay of execution.
+    * **Section 3(8) of the General Clauses Act, 1897:** Defines "Central Government" for the purposes of Central Acts and Regulations.
+* **Precedents Cited:**
+    * **National Textile Corporation Limited v. Nareshkumar Badrikumar Jagad & Ors: (2011) 12 SCC 695:** Defines "Government" in the context of administrative and political functions.
+    * **K. Lakshminarayanan v. Union of India & Anr.: (2020) 14 SCC 664:** Interprets "Central Government" under Section 3(8) of the General Clauses Act.
+    * **Pam Developments Pvt. Ltd v. State of West Bengal: (2019) 8 SCC 112:** Discusses the application of Section 36 of the Arbitration Act regarding stay of execution of awards.
+    * **Hindustan Construction Co. Ltd. & Anr. v. Union of India & Ors.: (2020) 17 SCC 324:** Interprets Section 36 of the Arbitration and Conciliation Act.
+    * **Essen Deinki v. Rajiv Kumar: (2002) 8 SCC 400:** Discusses the limitations of the High Court's revisional jurisdiction under Article 227 of the Constitution.
+    * **Poresh Kumar Nath v. North Eastern Electric Power Corporation Limited (Government of India Enterprise) & Ors.: 2022 SCC Online Megh 177:**  This case, decided by the Meghalaya High Court, examined the control of the Government of India over NEEPCO.
+    * **J. Kumaradasan Nair & Anr. v. Iric Sohan & Ors.: (2009) 12 SCC 175:** Holds that a court's jurisdiction cannot be taken away simply because a wrong provision is cited.
+    * **ITI Ltd. v. Siemens Public Communications Network Ltd.: (2002) 5 SCC 510:** States that the Code of Civil Procedure is applicable to proceedings arising out of the Arbitration Act in the absence of express prohibition.
+* **Legal Doctrines:**
+    * **Interpretation of Statutes:** The court relies on the principle that statutory provisions must be interpreted in a manner that aligns with the legislative intent.
+    * **Jurisdictional Powers:** The court examines the extent of its revisional jurisdiction under Article 227 of the Constitution. 
+    * **Statutory Interpretation:** The court considers various legal principles of statutory interpretation, including the principle of *noscitur a sociis*, which requires the meaning of a word to be interpreted in context with surrounding words, and the principle of *expressio unius est exclusio alterius*, which suggests that the express mention of one thing implies the exclusion of others.
+
+**4. Arguments Presented**
+
+* **Petitioner's (HCC) Argument:**
+    *  NEEPCO, while considered a "State" under Article 12 of the Constitution, does not fit the definition of "Government" for the purposes of Section 82 CPC.  The term "Government" should be interpreted more narrowly to refer to administrative entities like the Central Government or State Governments.
+    * Section 82 CPC requires a suit to be filed against the "Government," while the execution of a decree is against the "State." These terms have distinct meanings, and the court should not conflate them.
+    * The Commercial Court's automatic stay based on Section 82 CPC was incorrect and prejudicial to HCC, delaying the execution of the award.
+    * The Commercial Court should have applied Order XXI Rule 26 CPC, which would have required NEEPCO to show sufficient cause for the stay, instead of relying on Section 82 CPC.
+* **Respondent's (NEEPCO) Argument:**
+    * NEEPCO is a "State" within the meaning of Article 12 and therefore, is also considered "Government" for the purposes of Section 82 CPC.  The term "State" in Section 82 encompasses entities that are subject to pervasive control by the government, like NEEPCO.
+    * The Commercial Court was correct in applying Section 82 CPC, as it provides a statutory three-month period for execution of decrees against the "State," of which NEEPCO is a part.
+    * Even if Section 82 CPC is not applicable, NEEPCO is entitled to a stay of execution under Order XXI Rule 26 CPC, as sufficient cause exists due to the pending application for stay before the Supreme Court.
+    * The provisions of the CPC are applicable to proceedings arising out of the Arbitration Act in the absence of any express prohibition.
+
+**5. Court's Analysis and Reasoning**
+
+* **Key Findings:**
+    * The court finds that the term "State" in Section 82 CPC refers to the "State Government," not to entities like NEEPCO, which are subject to government control. 
+    * The court clarifies that Section 82 CPC requires a suit to be against the "Government" (Central or State), while the execution of a decree is against the "State" (meaning the government), but not necessarily any entity that is considered a "State" under Article 12.
+    * The court acknowledges the applicability of the provisions of the CPC to proceedings arising out of the Arbitration Act in the absence of any express prohibition.
+* **Interpretation of Law:**
+    * The court carefully analyzes the meaning of "Government" and "State" in the context of Section 82 CPC. 
+    * The court relies on the precedent set in *National Textile Corporation Limited (supra)* to differentiate between "Government" as an administrative entity and "State" as defined in Article 12 of the Constitution. 
+    * The court interprets Order XXI Rule 26 CPC to allow the Commercial Court to grant a stay of execution based on sufficient cause being shown. 
+* **Application of Law:**
+    *  The court rejects the Commercial Court's application of Section 82 CPC to NEEPCO, finding that NEEPCO does not fall under the definition of "Government" within the meaning of the provision.
+    * The court finds that the Commercial Court correctly applied Order XXI Rule 26 CPC to grant the stay, as NEEPCO had shown sufficient cause by indicating its intention to seek a stay of execution from the Supreme Court.
+
+**6. Judgment**
+
+* **Final Decision:** The court upholds the Commercial Court's decision to grant a stay of execution, but it modifies the basis for the stay, ruling that Section 82 CPC is not applicable to NEEPCO. The court concludes that the stay was granted correctly under Order XXI Rule 26 CPC.
+* **Relief Granted:** The stay of execution is maintained, allowing NEEPCO time to approach the Supreme Court for a stay order.
+* **Orders:** The court dismisses the petition filed by HCC seeking to overturn the Commercial Court's order.
+
+**7. Implications**
+
+* **Impact on Law:** The judgment clarifies the interpretation of "State" and "Government" in the context of Section 82 CPC, specifically highlighting that the term "State" in this provision refers to the State Government.
+* **Future Relevance:** This case provides guidance to courts on the application of Section 82 CPC to entities that are considered "States" under Article 12 but not necessarily "Government" within the meaning of the CPC. It also reinforces the broader principle that the provisions of the CPC are applicable to proceedings arising from the Arbitration Act in the absence of express prohibition.
+* **Broader Context:**  This case has significant implications for public sector companies, like NEEPCO, as it clarifies their legal standing in relation to Section 82 CPC. 
+
+**8. Summary Points**
+
+* The High Court of Meghalaya held that NEEPCO, while a "State" under Article 12 of the Constitution, is not a "Government" within the meaning of Section 82 CPC.
+* The court upheld the Commercial Court's decision to grant a stay of execution but modified the legal basis for the stay, relying on Order XXI Rule 26 CPC instead of Section 82 CPC.
+* This judgment clarifies the interpretation of "State" and "Government" in the context of Section 82 CPC, particularly for public sector companies. 
+
+**9. References**
+
+* **Citations:** All statutes, cases, and legal texts referenced in this summary are fully cited in the judgment itself.
+* **Further Reading:** For a deeper understanding of the legal principles involved, you may refer to the cited cases and legal texts. 

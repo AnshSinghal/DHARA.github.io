@@ -1,0 +1,123 @@
+## 1. Case Title
+
+* **Case Name:** Lord Sai Maa Pvt Ltd Thr Director ... vs Hotel Goradias Pvt. Ltd Thr Its Director ...
+* **Court:** Bombay High Court, Bench at Aurangabad
+* **Date of Judgment:** 7 May 2021
+* **Citation:** Comm.Apeal 1 & 2 - 2021
+
+## 2. Background and Context
+
+* **Brief Overview:**  This case involved a dispute between Lord Sai Maa Pvt. Ltd. (Appellant/Defendant) and Hotel Goaradias Pvt. Ltd. (Respondent/Plaintiff) over a leave and licence agreement for a hotel property in Shirdi. The agreement was for 49 months from December 2015 to December 2019. The Respondent, the owner of the hotel, filed a suit for possession of the property, settlement of accounts, compensation, mesne profits, and recovery of dues exceeding Rs. 16 Crore. The dispute initially went to the Civil Court, but was transferred to the Commercial Court due to the commercial nature of the dispute.
+* **Key Issues:** 
+    * The jurisdiction of the Commercial Court to hear the case.
+    * Whether the dispute was governed by the Maharashtra Rent Control Act, 1999.
+    * Whether the Appellant's failure to comply with Section 12-A of the Commercial Courts Act, 2015 regarding pre-institution mediation rendered the suit defective.
+    * The validity of the granting of an interim mandatory injunction by the Commercial Court.
+    * Whether the suit was barred by the law of limitation.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * The Commercial Courts Act, 2015 (Section 2, 3, 11, 12-A, 13)
+    * The Maharashtra Rent Control Act, 1999 (Section 3, 47, 49, 51)
+    * The Code of Civil Procedure (Order XXXIX, Rule 1 and 2)
+    * The Specific Relief Act, 1963 (Section 39, 41)
+    * The Limitation Act, 1963 (Article 113)
+* **Precedents Cited:**
+    * Royal Orchid Hotels Ltd. Vs. Rock Realty Pvt. Ltd., Civil Revision Application (Stamp) No.15282 of 2019
+    * Mahadev P Kambekar (D) TR. LRs., Vs. Shree Krishna Woolen Mills Pvt. Ltd., Civil Appeal Nos. 5753- 5754 of 2011
+    * Dorab Cawasji Warden vs. Coomi Sorab Warden & Ors., reported in AIR 1990 867
+    * Kishore Kumar and Ors., vs. Parveen Kumar Singh, reported in AIR 2006 SC 1474
+    * Metro Marins & Anr. Vs. Bonus Watch Co. Pvt. Ltd. & Ors., reported in (2004) 7 SCC 478
+    * Ganga Taro Vazirani Vs. Deepak Raheja (Summons for Judgment No.45 of 2019 in Comm. Summary Suit No.972 of 2019 decided on 16.2.2021)
+    * Sathyam Wood Industries Vs. Adoniss (P) Ltd., and anr. (C.R.P. (MD) No.804 of 2019 decided on 10.6.2019)
+    * GSD Constructions Pvt. Ltd., Vs. Balaji Febtech Engineering Pvt. Ltd.,( M.A. No.4081/2019 decided on 7.8.2019)
+    * Terai Overseas Private Limited & Ors. Vs. Kejriwal Sugar Agencies Private Limited & Ors. in C.S. No.78 of 2020 decided on 3.9.2020
+    * M/s Amit Motorcycles Pvt. Ltd., Vs. M/s Axis Bank Ltd., in I.A. No.GA 3 of 2019 in CS 217 of 2018, decided on 15.12.2020
+    * Deoraj Vs. State of Maharashtra and ors., reported in (2004) 4 SCC 697
+    * Sanjeev Pillai Vs. Venu Kunnapalli (FAQ No.191/2019 decided on 11.12.2019)
+    * Saregama India Limited Vs. Balaji Motion Pictures Limited & Ors., (CS (COM) 492/2019 decided on 13.9.2019)
+    * Kirtibhai Vs. Raghuram (Appeal from Order no.262 of 2007 decided on 20.1.2010)
+* **Legal Doctrines:**
+    * **Jurisdiction:** The court's authority to hear and decide a case.
+    * **Maintainability of Suit:** Whether a suit is properly filed in the correct court based on its nature and subject matter.
+    * **Pre-Institution Mediation:** A mandatory step in commercial cases, where parties must attempt to resolve disputes through mediation before filing a suit.
+    * **Interim Injunction:** A temporary court order preventing one party from taking certain actions until a case is decided.
+    * **Interim Mandatory Injunction:** A specific type of injunction requiring a party to take affirmative action, often to restore the status quo ante.
+    * **Limitation:** The time period within which a lawsuit must be filed.
+
+## 4. Arguments Presented
+
+* **Appellant’s Argument:**
+    * The Commercial Court lacked jurisdiction to hear the case due to the applicability of the Maharashtra Rent Control Act, 1999.
+    * The suit was defective due to non-compliance with Section 12-A of the Commercial Courts Act, 2015 regarding pre-institution mediation.
+    * The granting of an interim mandatory injunction by the Commercial Court was a final relief inappropriately granted at the interim stage.
+    * The suit was barred by limitation under the Limitation Act, 1963.
+* **Respondent’s Argument:**
+    * The Commercial Court was the proper forum to hear the case given the commercial nature of the dispute and the Appellant's share capital exceeding Rs. 2 Crore.
+    * The Appellant's objections regarding the application of the Maharashtra Rent Control Act and the requirement of pre-institution mediation were not raised in the trial court and were therefore waived.
+    * The granting of the interim mandatory injunction was justified because the Appellant was illegally occupying the premises, accruing profits while failing to pay dues.
+    * The suit was not barred by the law of limitation as it was not seeking a mandatory injunction within the meaning of Article 113 of the Limitation Act.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The Court found the Commercial Court had jurisdiction to hear the case as the dispute was commercial in nature and the Maharashtra Rent Control Act did not apply.
+    * The Court ruled that Section 12-A of the Commercial Courts Act, 2015 regarding pre-institution mediation was directory, not mandatory, and that the Appellant had waived the argument by not raising it before the trial court.
+    * The Court held that the granting of the interim mandatory injunction was inappropriate because it constituted a final relief at the interim stage, especially considering triable issues and the Appellant's continued possession of the property.
+    * The Court found that the suit was not barred by limitation because it was not for mandatory injunction and Article 113 of the Limitation Act was not applicable.
+* **Interpretation of Law:**
+    * The Court interpreted Section 2, 3, 11, and 12-A of the Commercial Courts Act, 2015 in conjunction with the Maharashtra Rent Control Act, 1999 to determine jurisdiction and the requirement for pre-institution mediation.
+    * The Court analyzed the relevant provisions of the Code of Civil Procedure and the Specific Relief Act to determine the appropriate circumstances for granting an interim mandatory injunction.
+    * The Court applied Article 113 of the Limitation Act to the facts of the case to assess whether the suit was barred by limitation.
+* **Application of Law:**
+    * The Court applied the legal principles of jurisdiction, maintainability, pre-institution mediation, interim injunction, and limitation to the specific facts of the dispute between the parties.
+    * The Court considered the Appellant's share capital, the nature of the leave and licence agreement, and the Appellant's continued possession of the property in determining the applicability of the Maharashtra Rent Control Act. 
+    * The Court balanced the rights of both parties, considering the Appellant's renovation expenses and the Respondent's entitlement to licence fees.
+
+## 6. Judgment
+
+* **Final Decision:**
+    * The Court upheld the Commercial Court's jurisdiction to hear the case and dismissed the Appellant's objections regarding maintainability and Section 12-A of the Commercial Courts Act, 2015.
+    * The Court modified the order of the Commercial Court granting the interim mandatory injunction, instead directing the Appellant to deposit Rs. 4 Crores within six weeks and continue paying regular licence fees until the final decision of the suit.
+    * The Court dismissed the Appellant's appeal regarding the refusal of a temporary injunction by the Commercial Court.
+* **Relief Granted:**
+    * The Respondent was allowed to withdraw the amount deposited by the Appellant in the trial court.
+    * The Respondent was granted the right to take up execution proceedings if the Appellant failed to comply with the court's order regarding the deposit and continued payment of licence fees.
+* **Orders:**
+    * The Appellant was ordered to deposit Rs. 4 Crores within six weeks.
+    * The Appellant was ordered to continue paying regular licence fees until the final decision of the suit.
+    * The order of the Commercial Court granting the interim mandatory injunction was modified.
+    * The Appellant's appeal regarding the refusal of a temporary injunction was dismissed.
+
+## 7. Implications
+
+* **Impact on Law:**
+    * The judgment reinforces the application of the Commercial Courts Act, 2015 in commercial disputes and clarifies the interpretation of Section 12-A regarding pre-institution mediation.
+    * The judgment highlights the court's discretion to modify interim orders to balance the rights of both parties in cases involving possession of property.
+* **Future Relevance:**
+    * The case will serve as a precedent in future cases involving similar disputes involving lease agreements and commercial disputes.
+    * The judgment's focus on the balance between parties' rights and the careful consideration of interim relief will be influential in similar cases.
+* **Broader Context:**
+    * The judgment demonstrates the importance of clearly defining the nature of a dispute and the applicability of relevant legislation in determining the proper forum for litigation.
+    * The case highlights the court's role in ensuring fair treatment and preventing one party from unfairly benefiting from a dispute while the other party suffers financial losses.
+
+## 8. Summary Points
+
+* The Commercial Court had jurisdiction to hear the dispute due to its commercial nature and the Appellant's share capital exceeding Rs. 2 Crore.
+* The Appellant waived its objection to the suit's compliance with Section 12-A of the Commercial Courts Act by not raising it before the trial court.
+* The Court modified the interim mandatory injunction, requiring the Appellant to deposit Rs. 4 Crores and continue paying regular licence fees.
+* The judgment emphasizes the need for courts to consider the appropriateness of interim orders in light of potential final relief and the ongoing nature of the dispute.
+
+## 9. References
+
+* **Citations:**
+    * The Commercial Courts Act, 2015
+    * The Maharashtra Rent Control Act, 1999
+    * The Code of Civil Procedure
+    * The Specific Relief Act, 1963
+    * The Limitation Act, 1963
+    * Cases cited in the judgment: Royal Orchid Hotels Ltd. Vs. Rock Realty Pvt. Ltd., Mahadev P Kambekar (D) TR. LRs., Vs. Shree Krishna Woolen Mills Pvt. Ltd., Dorab Cawasji Warden vs. Coomi Sorab Warden & Ors., Kishore Kumar and Ors., vs. Parveen Kumar Singh, Metro Marins & Anr. Vs. Bonus Watch Co. Pvt. Ltd. & Ors., Ganga Taro Vazirani Vs. Deepak Raheja, Sathyam Wood Industries Vs. Adoniss (P) Ltd., GSD Constructions Pvt. Ltd., Vs. Balaji Febtech Engineering Pvt. Ltd., Terai Overseas Private Limited & Ors. Vs. Kejriwal Sugar Agencies Private Limited & Ors., M/s Amit Motorcycles Pvt. Ltd., Vs. M/s Axis Bank Ltd., Deoraj Vs. State of Maharashtra and ors., Sanjeev Pillai Vs. Venu Kunnapalli, Saregama India Limited Vs. Balaji Motion Pictures Limited & Ors., Kirtibhai Vs. Raghuram
+* **Further Reading:**
+    * Relevant provisions of the Commercial Courts Act, 2015, the Maharashtra Rent Control Act, 1999, the Code of Civil Procedure, the Specific Relief Act, 1963, and the Limitation Act, 1963.
+    * Other cases dealing with jurisdiction, pre-institution mediation, and interim injunctions in commercial disputes. 

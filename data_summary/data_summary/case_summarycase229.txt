@@ -1,0 +1,84 @@
+## 1. Case Title
+
+* **Case Name:** M/S Suman International & Anr. vs. Mahendra Gulwani & Anr.
+* **Court:** Delhi High Court
+* **Date of Judgment:** 14th December, 2023
+* **Citation:** FAO (COMM) 199/2021& CM APPL. 44021/2021
+
+## 2. Background and Context
+
+* **Brief Overview:** M/s Suman International (Appellants) appealed a judgment of the Commercial Court that had granted an injunction in favor of Mahendra Gulwani & Anr. (Respondents) restraining the Appellants from manufacturing, selling, and marketing rose-shaped lollipops and related confectionery items. The Respondents claimed trademark infringement and passing off based on their registered trademark 'MADHUR ROSE POP LOLLIPOPS' and three-dimensional rose shape mark in class 30.
+* **Key Issues:**
+    * Whether the Appellants' use of a rose-shaped lollipop infringed the Respondents' registered trademark.
+    * Whether the Appellants' mark 'UNICON SWEET ROSE' was deceptively similar to the Respondents' trademark 'MADHUR ROSE POP LOLLIPOPS'.
+    * Whether the packaging used by the Appellants was deceptively similar to the Respondents' packaging.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * Trade Marks Act, 1999:
+        * Section 9(1)(a): Prohibition of registration of trademarks that are not distinctive.
+        * Section 30(2)(a): Excludes infringement where a mark is used descriptively to indicate kind, quality, etc. of goods.
+    * Code of Civil Procedure, 1908:
+        * Order XXXIX Rules 1 & 2: Application for injunctions.
+        * Order XXXIX Rule 4: Application for dissolution of injunctions.
+* **Precedents Cited:**
+    * Skyline Education Institute (India) Private Limited v. S.L. Vaswani & Anr : (2010) 2 Supreme Court Cases 142:  On the use of generic words in trademarks.
+    * Ferrero Spa & Ors. v. Mr. Kishor J. Savlani & Ors : CS (COMM) No. 966/2018: On the protection of trademarked shapes.
+    * Godfrey Philips India Ltd. V. Girnar Food and Beverages Pvt. Ltd: (2004) 5 SCC 257: On the protection of descriptive marks.
+* **Legal Doctrines:**
+    * **Trademark Infringement:**  Unauthorized use of a mark likely to cause confusion.
+    * **Passing Off:**  Misrepresenting one's goods as those of another.
+    * **Secondary Meaning:**  When a generic word or shape acquires distinctiveness through long usage.
+    * **Deceptive Similarity:**  Marks or packaging that are sufficiently alike to mislead consumers.
+
+## 4. Arguments Presented
+
+* **Appellants' Argument:**
+    * The word "Rose" is common and cannot be monopolized.
+    * The Appellants' rose-shaped lollipop is not identical to the Respondents'.
+    * The Appellants' mark 'UNICON SWEET ROSE' is not deceptively similar to 'MADHUR ROSE POP LOLLIPOPS'.
+    * The Appellants' packaging is not similar to the Respondents'.
+    * The Respondents' trademark registration is invalid, as rose-shaped lollipops are commonly used in the market.
+* **Respondents' Argument:**
+    * The Respondents' registered trademark and shape mark entitle them to an injunction.
+    * The Appellants' use of the rose-shaped lollipop and similar mark is infringing and causes confusion.
+    * The Appellants' packaging is deceptively similar to the Respondents'.
+    * The Appellants' actions are fraudulent and dishonest.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The Court found that the Appellants had produced sufficient evidence to show that rose-shaped lollipops were commonly used in the market before the Respondents claimed adoption of the shape.
+    * The Court found that the Appellants' mark 'UNICON SWEET ROSE' was not deceptively similar to the Respondents' trademark.
+    * The Court found that the Appellants' packaging was not deceptively similar to the Respondents'.
+* **Interpretation of Law:**
+    * The Court interpreted the Trade Marks Act, 1999, to state that shapes can be registered as trademarks only if they are not generic and have acquired a secondary meaning.
+    * The Court interpreted the precedents cited to show that generic words and shapes can be protected if they have acquired distinctiveness through long usage.
+* **Application of Law:**
+    * The Court applied the legal principles of trademark infringement, passing off, and deceptive similarity to the facts of the case.
+    * The Court concluded that the Respondents had not met the threshold to prove that their rose-shaped lollipop had acquired a secondary meaning and was not generic.
+    * The Court found that the Appellants' mark and packaging were not sufficiently similar to the Respondents' to cause confusion.
+
+## 6. Judgment
+
+* **Final Decision:** The Court set aside the judgment of the Commercial Court and lifted the injunction against the Appellants.
+* **Relief Granted:** The Appellants were allowed to continue manufacturing, selling, and marketing their rose-shaped lollipops and related confectionery items.
+* **Orders:** The Court ordered the release of the Appellants from the injunction previously issued by the Commercial Court.
+
+## 7. Implications
+
+* **Impact on Law:** This judgment reinforces the principle that generic shapes and words can be protected as trademarks only if they have acquired a secondary meaning.
+* **Future Relevance:** This case could be used as precedent in future cases involving the protection of shapes as trademarks.
+* **Broader Context:** This judgment highlights the need for businesses to be careful when adopting marks or shapes that could be considered generic or commonly used in the market.
+
+## 8. Summary Points
+
+* The Delhi High Court overturned a lower court's injunction against the Appellants, finding that the Respondents had not proven their rose-shaped lollipop had acquired a secondary meaning.
+* The Court found that the Appellants' mark and packaging were not deceptively similar to the Respondents'.
+* The judgment emphasizes the importance of demonstrating distinctiveness for shape marks.
+
+## 9. References
+
+* **Citations:** Trade Marks Act, 1999; Code of Civil Procedure, 1908; Skyline Education Institute (India) Private Limited v. S.L. Vaswani & Anr : (2010) 2 Supreme Court Cases 142; Ferrero Spa & Ors. v. Mr. Kishor J. Savlani & Ors : CS (COMM) No. 966/2018; Godfrey Philips India Ltd. V. Girnar Food and Beverages Pvt. Ltd: (2004) 5 SCC 257.
+* **Further Reading:** Cases involving trademark infringement and passing off, particularly regarding shape marks. 

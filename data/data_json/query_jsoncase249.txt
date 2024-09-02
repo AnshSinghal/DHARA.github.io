@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A construction company, 'BuildRight', claims that they were not paid the full amount owed for a project by 'TowerCorp', the developer. BuildRight is seeking to enforce an arbitration award in their favor, but TowerCorp argues that BuildRight was overpaid and the award is based on faulty accounting.",
+    "Legal Principles": "Arbitration and Conciliation Act, 1996, Section 34, Section 37;  burden of proof; admissibility of evidence; patent illegality; scope of judicial review of arbitration awards; enforceability of arbitration awards.",
+    "Relevant Sections": "Section 34: Application for setting aside arbitral award.  Section 37: Appealable orders.  Section 194C: Payments to contractors.",
+    "Context": "Jurisdiction: India; Case Type: Appeal under Section 37 of the Arbitration and Conciliation Act, 1996, against an order rejecting an application to set aside an arbitration award under Section 34."
+  },
+  {
+    "Query": "Two parties, 'GreenTech' and 'SolarPower', entered into a contract for the installation of solar panels.  GreenTech, the installer, claims SolarPower, the owner, failed to make full payment.  SolarPower claims defects in the installation and counterclaims for damages.  The arbitrator ruled in favor of GreenTech, but SolarPower contests the award, arguing the arbitrator ignored evidence of defects.",
+    "Legal Principles": "Contract law; breach of contract; arbitration; scope of judicial review of arbitration awards; admissibility of evidence; defective performance; damages.",
+    "Relevant Sections": "Section 34: Application for setting aside arbitral award.  Section 37: Appealable orders.",
+    "Context": "Jurisdiction: India; Case Type: Appeal under Section 37 of the Arbitration and Conciliation Act, 1996, against an order rejecting an application to set aside an arbitration award under Section 34."
+  },
+  {
+    "Query": "A dispute arises between 'TechCo' and 'SoftServe' over a software development contract.  TechCo, the client, claims SoftServe, the developer, failed to deliver the software as promised.  SoftServe argues delays were caused by TechCo's changes to specifications.  The arbitrator ruled in favor of SoftServe, awarding them a significant sum. TechCo appeals, arguing the arbitrator misconstrued the contract and disregarded crucial evidence.",
+    "Legal Principles": "Contract law; breach of contract; arbitration; scope of judicial review of arbitration awards; interpretation of contracts; variation of contracts; damages.",
+    "Relevant Sections": "Section 34: Application for setting aside arbitral award.  Section 37: Appealable orders.",
+    "Context": "Jurisdiction: India; Case Type: Appeal under Section 37 of the Arbitration and Conciliation Act, 1996, against an order rejecting an application to set aside an arbitration award under Section 34."
+  },
+  {
+    "Query": "A company, 'AquaPure', claims they were awarded a contract to supply water purification equipment to 'CityWater' but were later unfairly excluded from the project. AquaPure seeks damages for lost profits and seeks to enforce the arbitration award in their favor, but CityWater claims the award is based on flawed reasoning.",
+    "Legal Principles": "Contract law; breach of contract;  arbitration; scope of judicial review of arbitration awards;  damages;  unjust enrichment;  enforcement of arbitration awards.",
+    "Relevant Sections": "Section 34: Application for setting aside arbitral award.  Section 37: Appealable orders.",
+    "Context": "Jurisdiction: India; Case Type: Appeal under Section 37 of the Arbitration and Conciliation Act, 1996, against an order rejecting an application to set aside an arbitration award under Section 34."
+  },
+  {
+    "Query": "'MedTech' and 'HospitalNet' entered into an agreement for MedTech to provide medical equipment to HospitalNet.  MedTech claims HospitalNet failed to make timely payments, and they seek to enforce an arbitration award.  HospitalNet claims the award is excessive and based on faulty calculations.",
+    "Legal Principles": "Contract law; breach of contract; arbitration;  scope of judicial review of arbitration awards;  payment terms;  interest rates;  enforcement of arbitration awards.",
+    "Relevant Sections": "Section 34: Application for setting aside arbitral award.  Section 37: Appealable orders.",
+    "Context": "Jurisdiction: India; Case Type: Appeal under Section 37 of the Arbitration and Conciliation Act, 1996, against an order rejecting an application to set aside an arbitration award under Section 34."
+  },
+  {
+    "Query": "A dispute arises between 'EduTech' and 'UniCorp' over the development of online learning platforms.  EduTech, the client, claims UniCorp, the developer, failed to deliver the platforms as agreed.  UniCorp claims the delays were caused by EduTech's changes in requirements.  The arbitrator ruled in favor of UniCorp, but EduTech appeals, arguing the arbitrator overlooked critical evidence and wrongly applied contract law.",
+    "Legal Principles": "Contract law; breach of contract; arbitration; scope of judicial review of arbitration awards; interpretation of contracts; variation of contracts; damages.",
+    "Relevant Sections": "Section 34: Application for setting aside arbitral award.  Section 37: Appealable orders.",
+    "Context": "Jurisdiction: India; Case Type: Appeal under Section 37 of the Arbitration and Conciliation Act, 1996, against an order rejecting an application to set aside an arbitration award under Section 34."
+  },
+  {
+    "Query": "'AgriTech' and 'FarmCo' enter into an agreement for AgriTech to supply agricultural equipment to FarmCo.  AgriTech claims FarmCo failed to make the full payment, and they seek to enforce an arbitration award.  FarmCo claims the award is based on a misunderstanding of the contract and they were already fully compensated.",
+    "Legal Principles": "Contract law; breach of contract; arbitration; scope of judicial review of arbitration awards; interpretation of contracts;  payment terms;  enforcement of arbitration awards.",
+    "Relevant Sections": "Section 34: Application for setting aside arbitral award.  Section 37: Appealable orders.",
+    "Context": "Jurisdiction: India; Case Type: Appeal under Section 37 of the Arbitration and Conciliation Act, 1996, against an order rejecting an application to set aside an arbitration award under Section 34."
+  },
+  {
+    "Query": "'EcoPower' and 'EnergyCorp' enter into a contract for EcoPower to provide renewable energy solutions to EnergyCorp.  EcoPower claims EnergyCorp failed to make the full payment and seeks to enforce an arbitration award.  EnergyCorp claims the award is flawed because it did not properly account for contractual deductions.",
+    "Legal Principles": "Contract law; breach of contract; arbitration; scope of judicial review of arbitration awards; interpretation of contracts; payment terms; deductions;  enforcement of arbitration awards.",
+    "Relevant Sections": "Section 34: Application for setting aside arbitral award.  Section 37: Appealable orders.",
+    "Context": "Jurisdiction: India; Case Type: Appeal under Section 37 of the Arbitration and Conciliation Act, 1996, against an order rejecting an application to set aside an arbitration award under Section 34."
+  },
+  {
+    "Query": "'InnoTech' and 'StartUpCo' enter into an agreement for InnoTech to develop a mobile app for StartUpCo.  InnoTech claims StartUpCo failed to make the full payment and seeks to enforce an arbitration award.  StartUpCo claims the award is based on faulty calculations and they have already paid the full amount due.",
+    "Legal Principles": "Contract law; breach of contract; arbitration; scope of judicial review of arbitration awards; interpretation of contracts; payment terms;  enforcement of arbitration awards.",
+    "Relevant Sections": "Section 34: Application for setting aside arbitral award.  Section 37: Appealable orders.",
+    "Context": "Jurisdiction: India; Case Type: Appeal under Section 37 of the Arbitration and Conciliation Act, 1996, against an order rejecting an application to set aside an arbitration award under Section 34."
+  },
+  {
+    "Query": "'FinTech' and 'InvestCo' enter into an agreement for FinTech to provide financial software to InvestCo.  FinTech claims InvestCo failed to make the full payment and seeks to enforce an arbitration award.  InvestCo claims the award is unreasonable and based on improper evidence.",
+    "Legal Principles": "Contract law; breach of contract; arbitration; scope of judicial review of arbitration awards; interpretation of contracts; payment terms;  enforcement of arbitration awards.",
+    "Relevant Sections": "Section 34: Application for setting aside arbitral award.  Section 37: Appealable orders.",
+    "Context": "Jurisdiction: India; Case Type: Appeal under Section 37 of the Arbitration and Conciliation Act, 1996, against an order rejecting an application to set aside an arbitration award under Section 34."
+  }
+]
+```

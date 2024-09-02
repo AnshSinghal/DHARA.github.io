@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A landlord has entered into a leave and licence agreement with a tenant for a commercial property. The agreement has expired, and the tenant is refusing to vacate the premises despite repeated requests. The landlord has filed a suit for possession of the property, and the tenant has raised a counterclaim alleging that the landlord has not paid certain renovation expenses incurred by the tenant. The landlord argues that the tenant has not paid the agreed-upon rent and is in default of the agreement. The court is asked to decide whether the landlord is entitled to possession of the property and whether the tenant is entitled to any compensation for the renovation expenses. ",
+    "Legal Principles": "The legal principles involved in this case include: (1) the rights and obligations of landlords and tenants under a leave and licence agreement; (2) the remedies available to a landlord for breach of a lease agreement; (3) the principles of estoppel and waiver; and (4) the principles of quantum meruit.",
+    "Relevant Sections": "The relevant sections of the law include: (1) Section 107 of the Transfer of Property Act, 1882; (2) Section 45 of the Specific Relief Act, 1963; (3) Section 19 of the Indian Contract Act, 1872; and (4) Section 53A of the Indian Contract Act, 1872.",
+    "Context": "This case involves a dispute between a landlord and a tenant over possession of a commercial property. The dispute arises out of a leave and licence agreement that has expired. The case is heard in a civil court in India."
+  },
+  {
+    "Query": "A company has entered into a contract with a supplier for the supply of goods. The supplier has failed to deliver the goods as per the agreed-upon timeline, and the company has suffered financial losses as a result. The company has filed a suit against the supplier for breach of contract and is seeking damages for the losses incurred. The supplier argues that the delay was due to unforeseen circumstances beyond its control, such as a natural disaster. The court is asked to decide whether the supplier is liable for breach of contract and whether the company is entitled to damages.",
+    "Legal Principles": "The legal principles involved in this case include: (1) the elements of a valid contract; (2) the doctrine of frustration of contract; (3) the principles of remoteness of damage; and (4) the measure of damages for breach of contract.",
+    "Relevant Sections": "The relevant sections of the law include: (1) Section 2 of the Indian Contract Act, 1872; (2) Section 32 of the Indian Contract Act, 1872; (3) Section 73 of the Indian Contract Act, 1872; and (4) Section 74 of the Indian Contract Act, 1872.",
+    "Context": "This case involves a dispute between a company and a supplier over the supply of goods. The dispute arises out of a breach of contract. The case is heard in a civil court in India."
+  },
+  {
+    "Query": "A husband and wife have filed a divorce petition. The wife is seeking alimony from the husband. The husband argues that he is unable to pay alimony as he has lost his job and is financially unstable. The court is asked to decide whether the wife is entitled to alimony and, if so, the amount of alimony to be paid.",
+    "Legal Principles": "The legal principles involved in this case include: (1) the grounds for divorce; (2) the principles of alimony; (3) the factors to be considered while determining the amount of alimony; and (4) the concept of financial stability.",
+    "Relevant Sections": "The relevant sections of the law include: (1) Section 12 of the Hindu Marriage Act, 1955; (2) Section 25 of the Hindu Marriage Act, 1955; and (3) Section 125 of the Code of Criminal Procedure, 1973.",
+    "Context": "This case involves a divorce petition filed by a husband and wife. The case is heard in a family court in India."
+  },
+  {
+    "Query": "A company has filed a suit against a competitor for passing off. The company alleges that the competitor is using a trademark that is deceptively similar to its own trademark. The competitor argues that its trademark is distinct and that there is no likelihood of confusion among consumers. The court is asked to decide whether the competitor's trademark is infringing on the company's trademark and whether the company is entitled to an injunction.",
+    "Legal Principles": "The legal principles involved in this case include: (1) the elements of passing off; (2) the concept of goodwill; (3) the principles of trademark infringement; and (4) the test for determining likelihood of confusion.",
+    "Relevant Sections": "The relevant sections of the law include: (1) Section 27 of the Trade Marks Act, 1999; (2) Section 29 of the Trade Marks Act, 1999; and (3) Section 30 of the Trade Marks Act, 1999.",
+    "Context": "This case involves a dispute between two companies over the use of a trademark. The case is heard in a civil court in India."
+  },
+  {
+    "Query": "A person has been arrested by the police for a crime. The person alleges that he was tortured by the police during interrogation. The court is asked to decide whether the police's actions constitute torture and whether the person is entitled to compensation for the injuries suffered.",
+    "Legal Principles": "The legal principles involved in this case include: (1) the definition of torture; (2) the right to a fair trial; (3) the principle of presumption of innocence; and (4) the right to compensation for wrongful arrest and detention.",
+    "Relevant Sections": "The relevant sections of the law include: (1) Article 20 of the Indian Constitution; (2) Article 21 of the Indian Constitution; (3) Section 161 of the Code of Criminal Procedure, 1973; and (4) Section 357 of the Code of Criminal Procedure, 1973.",
+    "Context": "This case involves a complaint of torture by the police during interrogation. The case is heard in a criminal court in India."
+  },
+  {
+    "Query": "A person has filed a claim for compensation from a car insurance company for injuries suffered in a car accident. The insurance company is refusing to pay the claim, arguing that the person was driving under the influence of alcohol at the time of the accident. The court is asked to decide whether the insurance company is liable to pay the claim and, if so, the amount of compensation to be paid.",
+    "Legal Principles": "The legal principles involved in this case include: (1) the terms and conditions of a car insurance policy; (2) the concept of insurable interest; (3) the principle of proximate cause; and (4) the principles of contributory negligence.",
+    "Relevant Sections": "The relevant sections of the law include: (1) Section 146 of the Motor Vehicles Act, 1988; (2) Section 163 of the Motor Vehicles Act, 1988; and (3) Section 168 of the Motor Vehicles Act, 1988.",
+    "Context": "This case involves a claim for compensation from a car insurance company for injuries suffered in a car accident. The case is heard in a civil court in India."
+  },
+  {
+    "Query": "A company has filed a suit against a former employee for breach of confidentiality agreement. The company alleges that the employee has disclosed confidential information to a competitor after leaving the company. The employee argues that the information was not confidential and that he was not bound by the confidentiality agreement. The court is asked to decide whether the employee breached the confidentiality agreement and whether the company is entitled to an injunction.",
+    "Legal Principles": "The legal principles involved in this case include: (1) the concept of confidentiality; (2) the enforceability of confidentiality agreements; (3) the test for determining whether information is confidential; and (4) the remedies available for breach of confidentiality.",
+    "Relevant Sections": "The relevant sections of the law include: (1) Section 27 of the Indian Contract Act, 1872; (2) Section 28 of the Indian Contract Act, 1872; and (3) Section 55 of the Indian Contract Act, 1872.",
+    "Context": "This case involves a dispute between a company and a former employee over the disclosure of confidential information. The case is heard in a civil court in India."
+  },
+  {
+    "Query": "A person has filed a complaint of harassment against a neighbor. The person alleges that the neighbor has been making noise and playing loud music late at night, disturbing their peace. The neighbor argues that the noise levels are not excessive and that the person is being unreasonable. The court is asked to decide whether the neighbor's actions constitute harassment and whether the person is entitled to an injunction.",
+    "Legal Principles": "The legal principles involved in this case include: (1) the concept of harassment; (2) the right to a peaceful environment; (3) the test for determining whether noise levels are excessive; and (4) the principles of nuisance and trespass.",
+    "Relevant Sections": "The relevant sections of the law include: (1) Section 268 of the Indian Penal Code, 1860; (2) Section 290 of the Indian Penal Code, 1860; and (3) Section 91 of the Code of Civil Procedure, 1908.",
+    "Context": "This case involves a complaint of harassment by a neighbor. The case is heard in a civil court in India."
+  },
+  {
+    "Query": "A person has filed a claim for compensation from a government agency for injuries suffered due to negligence. The person alleges that the agency's negligence led to the accident that caused their injuries. The agency argues that it was not negligent and that the accident was unavoidable. The court is asked to decide whether the agency is liable for negligence and whether the person is entitled to compensation.",
+    "Legal Principles": "The legal principles involved in this case include: (1) the elements of negligence; (2) the duty of care; (3) the standard of care; and (4) the principles of causation and remoteness of damage.",
+    "Relevant Sections": "The relevant sections of the law include: (1) Section 2(1) of the Indian Contract Act, 1872; (2) Section 3 of the Indian Contract Act, 1872; and (3) Section 7 of the Indian Contract Act, 1872.",
+    "Context": "This case involves a claim for compensation from a government agency for injuries suffered due to negligence. The case is heard in a civil court in India."
+  },
+  {
+    "Query": "A company has filed a suit against a former employee for breach of contract. The company alleges that the employee has violated the terms of their employment contract by joining a competitor. The employee argues that the contract was not enforceable and that they were not bound by the terms of the contract. The court is asked to decide whether the employee breached the contract and whether the company is entitled to damages.",
+    "Legal Principles": "The legal principles involved in this case include: (1) the elements of a valid contract; (2) the concept of restraint of trade; (3) the test for determining whether a restraint of trade clause is reasonable; and (4) the remedies available for breach of contract.",
+    "Relevant Sections": "The relevant sections of the law include: (1) Section 27 of the Indian Contract Act, 1872; (2) Section 28 of the Indian Contract Act, 1872; and (3) Section 55 of the Indian Contract Act, 1872.",
+    "Context": "This case involves a dispute between a company and a former employee over the breach of an employment contract. The case is heard in a civil court in India."
+  }
+]
+```

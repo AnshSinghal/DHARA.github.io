@@ -1,0 +1,98 @@
+## 1. Case Title
+
+* **Case Name:** Daimler Financial Services India Pvt. Limited. vs. Chandan Choudhary & Anr.
+* **Court:** Jharkhand High Court
+* **Date of Judgment:** 24th June, 2020
+* **Citation:** W.P. (C). No.3935 of 2019 
+
+## 2. Background and Context
+
+* **Brief Overview:**  Daimler Financial Services India Pvt. Limited. (hereinafter "Daimler") filed an execution petition in the Commercial Court, Dhanbad, seeking enforcement of an arbitration award against Chandan Choudhary and Prabhudayal Singh (hereinafter "Respondents"). The Respondents had obtained a loan from Daimler and failed to repay. The dispute was referred to arbitration, where an award was passed in favor of Daimler. However, the Commercial Court dismissed the execution petition, reasoning that it lacked pecuniary jurisdiction in light of the amendments to the Commercial Courts Act, 2015 ("the Act").  
+* **Key Issues:**
+    * Whether the Commercial Court, Dhanbad, had pecuniary jurisdiction to entertain the execution petition.
+    * How to interpret the amended provisions of the Act in relation to the "Specified Value" for commercial courts. 
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * **The Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015:** 
+        * Section 2(1)(i):  Defines "Specified Value" for commercial disputes.
+        * Section 3(1):  Empowers the State Government to establish Commercial Courts.
+        * Section 3(1-A):  Grants the State Government the power to specify the "Specified Value" for commercial courts after consultation with the High Court.
+    * **The Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts (Amendment) Act, 2018 (28 of 2018):**  This act amended the original Act, retrospectively effective from 03.05.2018.
+* **Precedents Cited:**
+    * **Vijay Cotton And Fiber Company vs. Agarwal Cotton Spinning Pvt. Ltd., dated 11.02.2019 (Gujarat High Court):** This case addressed the issue of jurisdiction of commercial courts at the district level.
+    * **Radhey Shyam & Anr. vs. Chhabi Nath & Ors., reported in (2015) 5 SCC 423 (Supreme Court of India):** This judgment upheld the use of Article 227 of the Constitution of India for challenging judicial orders.
+* **Legal Doctrines:**
+    * **Retrospective Legislation:**  The application of legal provisions to past events.
+    * **Interpretation of Statutes:** The process of determining the meaning and scope of legal provisions.
+    * **Pecuniary Jurisdiction:** The authority of a court to hear cases based on the monetary value of the dispute.
+
+## 4. Arguments Presented
+
+* **Plaintiff’s Argument (Daimler):**
+    * The amendment Act of 2018, which came into effect retrospectively, reduced the minimum "Specified Value" for commercial courts to Rs. 3 lakhs.
+    * The State Government had not issued any notification under Section 3(1-A) of the Act, specifying a higher "Specified Value" for the Commercial Court, Dhanbad.
+    * In the absence of such a notification, the "Specified Value" for the Commercial Court, Dhanbad, remained Rs. 3 lakhs or more, making it competent to hear the execution petition.
+    * The Commercial Court erred in dismissing the execution petition based on the lack of a State Government notification.
+    * Relied on the Gujarat High Court judgment in Vijay Cotton & Fiber Company case, which supported the view that the commercial court at the district level has jurisdiction in the absence of a specific notification.
+    * Cited the Radhey Shyam case to argue that the High Court has jurisdiction under Article 227 to review the lower court's order.
+* **Defendant’s Argument (Chandan Choudhary and Prabhudayal Singh):**
+    * The Commercial Court, Dhanbad, lacked pecuniary jurisdiction as there was no notification from the State Government specifying a "Specified Value" for the court.
+    * The absence of such a notification meant that the Commercial Court's pecuniary jurisdiction remained at the pre-amendment level, which was higher than the value of the dispute.
+    * The execution petition was rightly dismissed by the Commercial Court.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The amendment Act of 2018 changed the definition of "Specified Value" in the Act, making the minimum value Rs. 3 lakhs or more.
+    * The retrospective effect of the amendment Act meant that the revised "Specified Value" applied to the Commercial Court, Dhanbad, even though it was established before the amendment.
+    * The State Government had not issued any notification specifying a different "Specified Value" for the Commercial Court, Dhanbad, after the amendment.
+    * Section 3(1-A) of the Act gave the State Government discretion to specify a higher "Specified Value" but did not mandate it.
+* **Interpretation of Law:**
+    * The court interpreted the amended provisions of the Act to mean that the "Specified Value" for commercial courts, in the absence of a State Government notification, would be the minimum value of Rs. 3 lakhs.
+    * The court held that the absence of a notification did not automatically revert the "Specified Value" to the pre-amendment level.
+    * The court acknowledged the discretion granted to the State Government under Section 3(1-A) but held that the State Government was not required to specify a different value.
+* **Application of Law:**
+    * Applying the interpretation of the amended Act, the court found that the Commercial Court, Dhanbad, had pecuniary jurisdiction to hear the execution petition.
+    * The court considered the precedent set in the Vijay Cotton & Fiber Company case, which supported the view that commercial courts at the district level have jurisdiction even without a specific notification.
+    * The court dismissed the Respondents' argument regarding the absence of a notification.
+
+## 6. Judgment
+
+* **Final Decision:** The court held in favor of Daimler, quashing and setting aside the order of the Commercial Court, Dhanbad.
+* **Relief Granted:** The court directed the Commercial Court, Dhanbad, to proceed with the execution petition in accordance with law from the stage where it was dismissed.
+* **Orders:** The Commercial Court, Dhanbad, was ordered to resume the proceedings of Execution Case No. 36 of 2019.
+
+## 7. Implications
+
+* **Impact on Law:**
+    * This judgment clarifies the interpretation of the amended provisions of the Commercial Courts Act, 2015, particularly regarding the "Specified Value" for commercial courts.
+    * The judgment establishes that in the absence of a State Government notification, the "Specified Value" for commercial courts established under Section 3(1) of the Act will be Rs. 3 lakhs or more.
+* **Future Relevance:**
+    * The case provides a precedent for future disputes regarding the pecuniary jurisdiction of commercial courts under the amended Act.
+    * It emphasizes the importance of timely notification by the State Government under Section 3(1-A) to specify different "Specified Values" for commercial courts.
+* **Broader Context:**
+    * The case highlights the importance of retrospective legislation and its impact on existing legal frameworks.
+    * It also emphasizes the need for clarity in statutory interpretation to ensure consistent application of law.
+
+## 8. Summary Points
+
+* The amendment Act of 2018 changed the minimum "Specified Value" for commercial courts to Rs. 3 lakhs.
+* The retrospective effect of the amendment Act applied to the Commercial Court, Dhanbad.
+* The absence of a State Government notification under Section 3(1-A) did not affect the jurisdiction of the Commercial Court, Dhanbad.
+* The court held that the Commercial Court, Dhanbad, had pecuniary jurisdiction to hear the execution petition.
+* The judgment clarifies the interpretation of the amended provisions of the Commercial Courts Act, 2015. 
+
+## 9. References
+
+* The Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015
+* The Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts (Amendment) Act, 2018 (28 of 2018)
+* Vijay Cotton And Fiber Company vs. Agarwal Cotton Spinning Pvt. Ltd., dated 11.02.2019 (Gujarat High Court)
+* Radhey Shyam & Anr. vs. Chhabi Nath & Ors., reported in (2015) 5 SCC 423 (Supreme Court of India)
+
+## Further Reading:
+
+* **The Commercial Courts Act, 2015**
+* **The Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts (Amendment) Act, 2018**
+* **Case Law related to pecuniary jurisdiction of commercial courts** 

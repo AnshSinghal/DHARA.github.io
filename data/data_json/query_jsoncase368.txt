@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A case involving a company seeking to restrain another company from broadcasting copyrighted material, where the value of the suit is below the specified value for the Commercial Division.",
+    "Legal Principles": "Jurisdiction of Commercial Divisions of High Courts, specified value, interpretation of statutes, transfer of suits, court fees, and principles of natural justice.",
+    "Relevant Sections": "Section 7 of the Commercial Courts Act, 2015, Section 2(1)(c)(xvii), Section 2(1)(i), Section 12, Section 15, Section 62(1) of the Copyright Act, 1957, Section 4 of the Delhi High Court (Amendment) Act, 2015, Section 5 of the Delhi High Court Act, 1966.",
+    "Context": "Commercial dispute, intellectual property rights, copyright, jurisdiction of Commercial Division, High Court of Delhi, India."
+  },
+  {
+    "Query": "A case where a plaintiff argues that the Commercial Courts Act applies to suits filed after its enactment, despite being below the specified value.",
+    "Legal Principles": "Interpretation of statutory language, 'filed or pending' in a statute, legislative intent, consistency of statutory interpretation, and principles of statutory construction.",
+    "Relevant Sections": "Section 7 of the Commercial Courts Act, 2015, Section 2(1)(i), Section 12, Section 15, Section 62(1) of the Copyright Act, 1957.",
+    "Context": "Commercial dispute, intellectual property rights, copyright, jurisdiction of Commercial Division, High Court of Delhi, India."
+  },
+  {
+    "Query": "A case where the court is asked to determine whether the Commercial Division has jurisdiction over suits with a value below the specified value, but that are stipulated by law to lie in a Court not inferior to a District Court.",
+    "Legal Principles": "Jurisdiction of Commercial Divisions, interpretation of statutory language, 'stipulated by law', 'Court not inferior to a District Court', and principles of statutory construction.",
+    "Relevant Sections": "Section 7 of the Commercial Courts Act, 2015, Section 2(1)(i), Section 12, Section 15, Section 62(1) of the Copyright Act, 1957.",
+    "Context": "Commercial dispute, intellectual property rights, copyright, jurisdiction of Commercial Division, High Court of Delhi, India."
+  },
+  {
+    "Query": "A case where the court is asked to interpret the meaning of 'filed or pending' in the context of the Commercial Courts Act, as applied to suits pending before the enactment of the Act.",
+    "Legal Principles": "Interpretation of statutory language, 'filed or pending', legislative intent, and principles of statutory construction.",
+    "Relevant Sections": "Section 7 of the Commercial Courts Act, 2015, Section 4 of the Delhi High Court (Amendment) Act, 2015.",
+    "Context": "Commercial dispute, jurisdiction of Commercial Division, High Court of Delhi, India, transfer of suits."
+  },
+  {
+    "Query": "A case involving the transfer of a suit from the High Court to a Subordinate Court due to the suit being below the minimum pecuniary jurisdiction of the High Court.",
+    "Legal Principles": "Jurisdiction of courts, transfer of suits, minimum pecuniary jurisdiction, and principles of civil procedure.",
+    "Relevant Sections": "Section 4 of the Delhi High Court (Amendment) Act, 2015, Section 24(5) of the Code of Civil Procedure, 1908.",
+    "Context": "Commercial dispute, intellectual property rights, copyright, transfer of suits, High Court of Delhi, India."
+  },
+  {
+    "Query": "A case concerning the validity of a provision in a statute that prescribes a lower court fee for intellectual property matters compared to other commercial disputes.",
+    "Legal Principles": "Constitutional law, Article 14 of the Constitution of India, principles of equality, court fees, and principles of natural justice.",
+    "Relevant Sections": "Article 14 of the Constitution of India, Court Fees (Delhi Amendment) Act, 2012.",
+    "Context": "Commercial dispute, intellectual property rights, court fees, constitutional law, High Court of Delhi, India."
+  },
+  {
+    "Query": "A case involving a dispute over the validity of a copyright claim, where the court must determine the proper valuation of the intangible rights for jurisdictional purposes.",
+    "Legal Principles": "Copyright law, valuation of intangible rights, jurisdiction of courts, and principles of civil procedure.",
+    "Relevant Sections": "Section 62(1) of the Copyright Act, 1957, Section 12 of the Commercial Courts Act, 2015.",
+    "Context": "Commercial dispute, intellectual property rights, copyright, jurisdiction of courts, High Court of Delhi, India."
+  },
+  {
+    "Query": "A case where the court is asked to determine whether a suit relating to a commercial dispute, stipulated by law to lie in a Court not inferior to a District Court, but below the specified value, can be filed in the High Court.",
+    "Legal Principles": "Jurisdiction of courts, 'stipulated by law', 'Court not inferior to a District Court', and principles of statutory construction.",
+    "Relevant Sections": "Section 7 of the Commercial Courts Act, 2015, Section 62(1) of the Copyright Act, 1957.",
+    "Context": "Commercial dispute, intellectual property rights, copyright, jurisdiction of courts, High Court of Delhi, India."
+  },
+  {
+    "Query": "A case where the court must consider the potential burden on the Commercial Division if suits below the specified value were allowed to be filed there.",
+    "Legal Principles": "Jurisdiction of courts, principles of judicial administration, and efficiency of the judicial system.",
+    "Relevant Sections": "Section 7 of the Commercial Courts Act, 2015.",
+    "Context": "Commercial dispute, intellectual property rights, copyright, jurisdiction of Commercial Division, High Court of Delhi, India."
+  },
+  {
+    "Query": "A case where the court must balance the principles of natural justice and the need for efficient case management when determining the proper forum for a commercial dispute.",
+    "Legal Principles": "Principles of natural justice, principles of judicial administration, and efficiency of the judicial system.",
+    "Relevant Sections": "Section 7 of the Commercial Courts Act, 2015, Section 24(5) of the Code of Civil Procedure, 1908.",
+    "Context": "Commercial dispute, intellectual property rights, copyright, jurisdiction of courts, High Court of Delhi, India."
+  }
+]
+```

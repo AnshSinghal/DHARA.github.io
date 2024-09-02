@@ -1,0 +1,133 @@
+## Case Title
+
+* **Case Name:** M/S Rupin Associates vs. Axis Bank Ltd. & Ors.
+* **Court:** Delhi High Court
+* **Date of Judgment:** 31st August, 2021
+* **Citation:** Not Provided
+
+## Background and Context
+
+**Brief Overview:**  This case involved two civil revision petitions filed by M/S Rupin Associates and M/S Pam Cosmetics and Glasses Pvt. Ltd. (the Plaintiffs) against Axis Bank Ltd. and its officials (the Defendants) challenging orders passed by the Commercial Court dismissing their applications under Order XII Rule 6 and Order VIII Rule 10 of the CPC. 
+
+**Key Issues:**
+
+* **Maintainability of Revision Petition:** Whether a revision petition is maintainable against interlocutory orders passed by a Commercial Court under the Commercial Courts Act, 2015.
+* **Order XII Rule 6:** Whether the Defendant’s written statement constituted an admission warranting a decree under Order XII Rule 6 of the CPC.
+* **Order VIII Rule 10:** Whether the Defendant’s written statement was filed within the stipulated time frame and complied with the provisions of the Commercial Courts Act, 2015.
+
+## Legal Principles Involved
+
+**Relevant Statutes and Provisions:**
+
+* **Commercial Courts Act, 2015:** 
+    * Section 8: Bars revision petitions against interlocutory orders passed by Commercial Courts.
+    * Section 12(3): Further clarifies the bar on revision petitions for interlocutory orders.
+    * Section 13: Defines the scope of appeals under the Act.
+* **Code of Civil Procedure (CPC):**
+    * Section 115: Deals with the power of the High Court to revise the orders of subordinate courts.
+    * Order XII Rule 6: Concerns decrees on admission.
+    * Order VIII Rule 10: Relates to the time frame for filing written statements.
+    * Order VI Rule 15A:  Requires a Statement of Truth to be filed with pleadings.
+    * Order XI Rule 2 & 8:  Deal with the requirements for filing lists of documents.
+
+**Precedents Cited:**
+
+* **HPL (India) Limited and Ors. v. QRG Enterprises and Another (FAO (OS) (COMM) No. 12/2017):**  Held that appeals lie only for orders specified under Section 13 of the Commercial Courts Act, 2015.
+* **Tek Singh v. Shashi Verma and Anr., (2019) 16 SCC 678:**  Argued that revision petitions do not lie against interlocutory orders.
+* **Arjun Singh v. Mohinder Kumar and Ors. (1964) 5 SCR 946**
+* **Vidyodaya Trust and Others v. Mohan Prasad R and Ors. (2006) 7 SCC 452**
+* **Shipping Corporation of India v. Machado Brothers and Ors., (2004) 11 SCC 168**
+* **Sada Ram v. Delhi Development Authority, AIR 1974 Del 35**
+* **Magic Frames vs. Radiance Media Private Limited (C.M.P.No.20376 of 2018):** A Madras High Court judgment regarding maintainability of revision petitions under the Commercial Courts Act, 2015.
+* **Span Health Care vs. Vishal Sharma (CRP 31/2019):**  A Delhi High Court judgment concluding that an order granting leave to defend in a summary suit is an interlocutory order not revisable under the Act.
+* **Black Diamond Trackparts Pvt. Ltd. and Ors. v. Black Diamond Motors Pvt. Ltd (CM(M) 132/2021):** A Division Bench judgment of the Delhi High Court holding that revision petitions under Section 115 of the CPC are barred under the Commercial Courts Act, 2015, and only a writ petition under Article 227 of the Constitution may be maintainable.
+
+**Legal Doctrines:**
+
+* **Interlocutory Orders:**  Orders that do not finally decide a case, but rather address procedural or preliminary matters.
+* **Substantive Rights:**  Rights that directly affect the substance of a legal claim or dispute.
+* **Legislative Intent:** The purpose and objective behind a legislative enactment.
+* **Proviso:** An exception or qualification to a general rule.
+* **Jurisdiction:**  The authority of a court to hear and decide a case.
+
+## Arguments Presented
+
+**Plaintiff’s Argument:**
+
+* **Maintainability:**  The Plaintiffs argued that the orders dismissing their applications under Order XII Rule 6 and Order VIII Rule 10 were not merely interlocutory, but affected their substantive rights and were therefore revisable under Section 115 of the CPC.
+* **Order XII Rule 6:** The Plaintiffs asserted that the Defendant’s written statement failed to deny all the allegations in the plaint, leading to an admission that warranted a decree under Order XII Rule 6.
+* **Order VIII Rule 10:** The Plaintiffs claimed that the Defendant’s written statement was not filed within the time limit stipulated under Order VIII Rule 10 of the CPC and did not comply with the provisions of the Commercial Courts Act, 2015.
+
+**Defendant’s Argument:**
+
+* **Maintainability:** The Defendant argued that the orders were interlocutory and therefore not revisable under Section 115 of the CPC, citing Section 8 and Section 12(3) of the Commercial Courts Act, 2015, and the precedents of HPL (India) Limited and Tek Singh v. Shashi Verma.
+* **Order XII Rule 6:** The Defendant contended that its written statement denied all the allegations and did not constitute an admission justifying a decree under Order XII Rule 6.
+* **Order VIII Rule 10:** The Defendant argued that its written statement was filed within the stipulated time frame and that any minor procedural defects could be rectified.
+
+## Court’s Analysis and Reasoning
+
+**Key Findings:**
+
+* The Delhi High Court relied heavily on the Division Bench judgment in Black Diamond Trackparts Pvt. Ltd. which held that revision petitions under Section 115 of the CPC are barred under the Commercial Courts Act, 2015.
+* The Court recognized that the purpose of the Commercial Courts Act, 2015 was to expedite commercial dispute resolution and that allowing revision petitions against interlocutory orders would defeat this purpose.
+* The Court concluded that the orders dismissing the applications under Order XII Rule 6 and Order VIII Rule 10 were indeed interlocutory orders, and the Plaintiffs’ remedy lay with a writ petition under Article 227 of the Constitution.
+
+**Interpretation of Law:**
+
+* The Court interpreted the provisions of the Commercial Courts Act, 2015, particularly Section 8 and 12(3), to mean that revision petitions against interlocutory orders were explicitly barred.
+* The Court further interpreted the precedents cited by the Defendant to support its position on the bar against revision petitions.
+
+**Application of Law:**
+
+* The Court applied the legal principle of legislative intent, concluding that the Commercial Courts Act, 2015 intended to streamline the process for resolving commercial disputes, thereby barring revision petitions against interlocutory orders.
+* The Court applied the precedents cited, specifically Black Diamond Trackparts Pvt. Ltd., to affirm the non-maintainability of revision petitions under the Act.
+
+## Judgment
+
+**Final Decision:**
+
+* The Delhi High Court dismissed both civil revision petitions as not maintainable.
+
+**Relief Granted:**
+
+* No relief was granted to the Plaintiffs.
+
+**Orders:**
+
+* The Court directed the Commercial Court to frame an issue concerning the validity of the Defendant’s written statement, including its compliance with the provisions of the Commercial Courts Act, 2015.
+* The Court permitted the Defendant to rectify any defects in its written statement, including filing a Statement of Truth and addressing the issue of the vakalatnama.
+* The Court also directed the Bank to release the amount of Rs. 5,50,000/- to the Plaintiff in CRP 46/2021 upon the Plaintiff submitting either the original Bank Guarantee or a No Objection/No Dues Certificate from the AETC.
+
+## Implications
+
+**Impact on Law:**
+
+* This judgment reinforces the bar against revision petitions under Section 115 of the CPC in cases governed by the Commercial Courts Act, 2015.
+* It reiterates the intention behind the Act to expedite commercial dispute resolution.
+
+**Future Relevance:**
+
+* This case will be cited as a precedent to uphold the non-maintainability of revision petitions against interlocutory orders in commercial suits under the Commercial Courts Act, 2015.
+
+**Broader Context:**
+
+* The judgment highlights the significance of streamlining procedures for resolving commercial disputes and reducing unnecessary delays.
+
+## Summary Points
+
+* The Delhi High Court upheld the bar against revision petitions against interlocutory orders in cases governed by the Commercial Courts Act, 2015.
+* The Court prioritized the expeditious resolution of commercial disputes, emphasizing the importance of efficient case management.
+* The judgment provides valuable guidance on the maintainability of revision petitions under the Act and the procedural requirements for filing pleadings.
+* The case highlights the importance of complying with the specific provisions of the Commercial Courts Act, 2015 when filing pleadings in commercial suits.
+
+## References
+
+* **Commercial Courts Act, 2015**
+* **Code of Civil Procedure (CPC)**
+* **Black Diamond Trackparts Pvt. Ltd. and Ors. v. Black Diamond Motors Pvt. Ltd (CM(M) 132/2021)**
+
+## Further Reading
+
+* **Deep Industries Limited Vs. Oil and Natural Gas Corporation Limited (2020) 15 SCC 706**
+* **Other cases relating to the interpretation of the Commercial Courts Act, 2015**
+* **Legal texts on civil procedure and commercial law** 

@@ -1,0 +1,103 @@
+## 1. Case Title
+
+* **Case Name:** Board of Trustee of Deendayal Port Trust vs JRE Infra Private Limited
+* **Court:** Gujarat High Court
+* **Date of Judgment:** 12th June 2018
+* **Citation:** C/SCA/4753/2018 & C/SCA/4759/2018
+
+## 2. Background and Context
+
+**Brief Overview:** This case involves a dispute between the Deendayal Port Trust (DPT), a statutory body, and JRE Infra Private Limited (JRE), a private company, arising from the termination of a concession agreement for the development of a multipurpose cargo berth at Kandla Port. 
+
+**Key Issues:** 
+* The validity of the orders passed by the Arbitral Tribunal under Section 17 of the Arbitration and Conciliation Act, 1996.
+* Whether the Tribunal had the power to direct the DPT to deposit a certain amount towards the debt due to JRE's lender, State Bank of India (SBI), before the final determination of the dispute.
+* Whether the subsequent order by the Tribunal clarifying its earlier order was validly passed without hearing the parties.
+
+## 3. Legal Principles Involved
+
+**Relevant Statutes and Provisions:**
+* Major Port Trusts Act, 1963
+* Arbitration and Conciliation Act, 1996, specifically Section 17
+* Constitution of India, Articles 226 & 227
+
+**Precedents Cited:**
+* No specific precedents are explicitly cited in the judgment, but the court's reasoning draws upon general principles of natural justice and the scope of interim measures under the Arbitration Act.
+
+**Legal Doctrines:**
+* Principles of Natural Justice: The right to be heard and the right to fair procedure.
+* Scope of Interim Measures: The power of the Arbitral Tribunal to grant interim measures under Section 17 of the Arbitration Act and the distinction between interlocutory and final orders.
+
+## 4. Arguments Presented
+
+**Plaintiff's Argument (DPT):**
+* The Tribunal's order directing the DPT to deposit the amount towards the debt due to the lender (SBI) was beyond the scope of Section 17 of the Arbitration Act, as it amounted to a final relief sought in JRE's counterclaim.
+* The amount directed to be deposited was disputed by the DPT, and the Tribunal should not have ordered its deposit without adjudicating the dispute.
+* The Tribunal's subsequent order modifying its earlier order was passed without hearing the DPT, violating the principles of natural justice.
+* The Tribunal's order interfered with the DPT's right to claim compensation from JRE for breach of the concession agreement, potentially rendering the DPT remediless.
+* JRE is a special purpose company with limited assets, and the lender was not a party to the arbitration proceedings, making it difficult to seek redress if the deposited amount was wrongfully appropriated.
+* Despite the dispute, JRE should have handed over possession of the project facilities to the DPT, as the delay in utilizing the berth at the government port was detrimental to public interest.
+
+**Defendant's Argument (JRE):**
+* The Tribunal's orders were in line with the provisions of the concession agreement, particularly Article 17.1(b) and 17.4, which required the DPT to compensate JRE upon termination.
+* The debt due to SBI was an undisputed obligation of the DPT, as evidenced by the terms of the loan agreement and the DPT's knowledge of the financing arrangements.
+* The Tribunal was merely clarifying its earlier order in response to SBI's request, and no further hearing was required.
+* The deposit of the amount by the DPT would release the charge on the project assets, allowing for a smooth transfer of possession to the DPT.
+* The project assets were idle, and their handover to the DPT would put them to proper use while simultaneously fulfilling the DPT's obligation to repay the lender.
+
+## 5. Court's Analysis and Reasoning
+
+**Key Findings:**
+* The court found that the Tribunal's order dated 04.12.2017, directing the DPT to deposit the amount, was valid under the circumstances, as it was an interim measure subject to the final award.
+* The court recognized that the DPT had accepted the order and complied with it unconditionally, depositing the amount without any demur.
+* However, the court found that the Tribunal's subsequent order dated 23.12.2017, clarifying its earlier order, was a substantial modification that violated the principles of natural justice.
+* The court observed that the order was passed without giving any opportunity to the parties to be heard, particularly after the respondent had requested a hearing.
+
+**Interpretation of Law:**
+* The court interpreted Section 17 of the Arbitration Act to permit the Tribunal to grant interim measures, but emphasized that such measures should not be final in nature and should not prejudice the rights of the parties.
+* The court reaffirmed the principle of natural justice, requiring parties to be heard before any decision that could materially affect their rights.
+
+**Application of Law:**
+* The court held that the Tribunal's order dated 04.12.2017 was a valid interim measure, justified by the relevant clauses of the concession agreement and the DPT's acceptance of the order.
+* The court quashed and set aside the subsequent order dated 23.12.2017, finding it to be a modification of the earlier order passed in violation of natural justice.
+
+## 6. Judgment
+
+**Final Decision:**
+* Special Civil Application No. 4753 of 2018, challenging the order dated 04.12.2017, was dismissed.
+* Special Civil Application No. 4759 of 2018, challenging the order dated 23.12.2017, was allowed.
+
+**Relief Granted:**
+* The impugned order dated 23.12.2017 was quashed and set aside.
+* The learned Arbitral Tribunal was granted liberty to pass an appropriate order after hearing the parties.
+
+**Orders:**
+* The interim relief granted by the Supreme Court was directed to be continued.
+
+## 7. Implications
+
+**Impact on Law:**
+* The judgment reiterates the importance of adhering to principles of natural justice in arbitration proceedings, particularly when the Tribunal issues orders that could materially affect the rights of parties.
+* The judgment clarifies that interim measures under Section 17 of the Arbitration Act must be truly interlocutory and should not prejudicially impact the final determination of the dispute.
+
+**Future Relevance:**
+* The case serves as a precedent for future disputes involving interim measures in arbitration proceedings, highlighting the need for careful consideration of the scope and procedural fairness of such measures.
+
+**Broader Context:**
+* The case highlights the complexities of public-private partnerships and the potential for disputes arising from concession agreements.
+* The judgment emphasizes the importance of clear and unambiguous contract provisions to ensure the smooth transfer of project assets and the protection of the interests of all parties involved.
+
+## 8. Summary Points
+
+* The Gujarat High Court upheld the Arbitral Tribunal's order directing the DPT to deposit a certain amount towards JRE's debt due to the lender, finding it to be a valid interim measure.
+* The court quashed and set aside the subsequent order by the Tribunal clarifying its earlier order, finding it to be a modification passed in violation of the principles of natural justice.
+* The judgment emphasizes the need for procedural fairness and the distinction between interlocutory and final orders in arbitration proceedings.
+
+## 9. References
+
+* Major Port Trusts Act, 1963
+* Arbitration and Conciliation Act, 1996
+* Constitution of India, Articles 226 & 227
+* Further Reading: 
+    * **Indian Arbitration Law:** By Justice B.N. Kirpal
+    * **The Law of Arbitration and Conciliation in India:** By Dr. Avtar Singh

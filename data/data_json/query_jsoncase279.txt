@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A property owner leased a commercial property to a school, but the lease was terminated due to non-payment of rent. The school claims that the lease agreement is not a commercial dispute as the property is used for educational purposes.  Is the dispute considered a commercial dispute under the Commercial Courts Act?",
+    "Legal Principles": "The definition of a 'commercial dispute' under the Commercial Courts Act, particularly Section 2(1)(c)(vii) and the interpretation of 'used exclusively in trade or commerce'. The principle of strict interpretation of statutes that oust the jurisdiction of civil courts.",
+    "Relevant Sections": "Section 2(1)(c)(vii) of the Commercial Courts Act: 'agreements relating to immovable property used exclusively in trade or commerce'.",
+    "Context": "Jurisdiction: India. Case type: Dispute over the jurisdiction of a Commercial Court based on the nature of the dispute."
+  },
+  {
+    "Query": "Two parties entered into a lease agreement for a property intended for commercial use, but the lessee is now using the property for non-commercial purposes. The lessor claims breach of contract and seeks eviction. Is this a 'commercial dispute' under the Commercial Courts Act?",
+    "Legal Principles": "The definition of 'commercial dispute' under the Commercial Courts Act, especially Section 2(1)(c)(vii) and the interpretation of 'used exclusively in trade or commerce'.",
+    "Relevant Sections": "Section 2(1)(c)(vii) of the Commercial Courts Act: 'agreements relating to immovable property used exclusively in trade or commerce'.",
+    "Context": "Jurisdiction: India. Case type: Landlord-tenant dispute involving a commercial lease agreement and alleged breach of contract."
+  },
+  {
+    "Query": "A business partnership entered into a contract for the purchase of a property, but a dispute arose regarding the terms of the agreement. One partner claims the property is being used for non-commercial purposes, and therefore the dispute is not a 'commercial dispute' under the Commercial Courts Act. Is the dispute considered a 'commercial dispute'?",
+    "Legal Principles": "The definition of 'commercial dispute' under the Commercial Courts Act, particularly Section 2(1)(c)(vii) and the interpretation of 'used exclusively in trade or commerce'.",
+    "Relevant Sections": "Section 2(1)(c)(vii) of the Commercial Courts Act: 'agreements relating to immovable property used exclusively in trade or commerce'.",
+    "Context": "Jurisdiction: India. Case type: Contract dispute between business partners involving the purchase of a property."
+  },
+  {
+    "Query": "A company leased a commercial property for its office operations, but the lease agreement was terminated by the landlord due to non-payment of rent. The company claims that the property is now used for non-commercial purposes, thus the dispute is not a 'commercial dispute'. Is the dispute considered a 'commercial dispute'?",
+    "Legal Principles": "The definition of 'commercial dispute' under the Commercial Courts Act, specifically Section 2(1)(c)(vii) and the interpretation of 'used exclusively in trade or commerce'.",
+    "Relevant Sections": "Section 2(1)(c)(vii) of the Commercial Courts Act: 'agreements relating to immovable property used exclusively in trade or commerce'.",
+    "Context": "Jurisdiction: India. Case type: Landlord-tenant dispute involving a commercial lease agreement and alleged breach of contract."
+  },
+  {
+    "Query": "A business partnership formed a joint venture to develop a commercial property, but disagreements arose over the terms of the joint venture agreement. One partner claims the property is now used for non-commercial purposes, rendering the dispute non-commercial under the Commercial Courts Act. Is the dispute considered a 'commercial dispute'?",
+    "Legal Principles": "The definition of 'commercial dispute' under the Commercial Courts Act, particularly Section 2(1)(c)(vii) and the interpretation of 'used exclusively in trade or commerce'.",
+    "Relevant Sections": "Section 2(1)(c)(vii) of the Commercial Courts Act: 'agreements relating to immovable property used exclusively in trade or commerce'.",
+    "Context": "Jurisdiction: India. Case type: Partnership dispute involving a joint venture agreement related to commercial property development."
+  },
+  {
+    "Query": "A company entered into a contract to purchase a property for its manufacturing facility, but a dispute arose over the terms of the contract. The company claims the property is now used for non-commercial purposes, therefore the dispute is not a 'commercial dispute' under the Commercial Courts Act. Is the dispute considered a 'commercial dispute'?",
+    "Legal Principles": "The definition of 'commercial dispute' under the Commercial Courts Act, especially Section 2(1)(c)(vii) and the interpretation of 'used exclusively in trade or commerce'.",
+    "Relevant Sections": "Section 2(1)(c)(vii) of the Commercial Courts Act: 'agreements relating to immovable property used exclusively in trade or commerce'.",
+    "Context": "Jurisdiction: India. Case type: Contract dispute involving the purchase of a property for commercial use."
+  },
+  {
+    "Query": "A business owner leased a property for a retail store, but a dispute arose with the landlord over rent payments. The owner claims the property is no longer used for commercial purposes, therefore the dispute is not a 'commercial dispute' under the Commercial Courts Act. Is the dispute considered a 'commercial dispute'?",
+    "Legal Principles": "The definition of 'commercial dispute' under the Commercial Courts Act, particularly Section 2(1)(c)(vii) and the interpretation of 'used exclusively in trade or commerce'.",
+    "Relevant Sections": "Section 2(1)(c)(vii) of the Commercial Courts Act: 'agreements relating to immovable property used exclusively in trade or commerce'.",
+    "Context": "Jurisdiction: India. Case type: Landlord-tenant dispute involving a commercial lease agreement and alleged breach of contract."
+  },
+  {
+    "Query": "A company entered into a contract to purchase a property for a warehouse, but a dispute arose regarding the property's condition. The company claims the property is now used for non-commercial purposes, thus the dispute is not a 'commercial dispute' under the Commercial Courts Act. Is the dispute considered a 'commercial dispute'?",
+    "Legal Principles": "The definition of 'commercial dispute' under the Commercial Courts Act, especially Section 2(1)(c)(vii) and the interpretation of 'used exclusively in trade or commerce'.",
+    "Relevant Sections": "Section 2(1)(c)(vii) of the Commercial Courts Act: 'agreements relating to immovable property used exclusively in trade or commerce'.",
+    "Context": "Jurisdiction: India. Case type: Contract dispute involving the purchase of a property for commercial use."
+  },
+  {
+    "Query": "A partnership formed to develop a commercial property, but disputes arose over the terms of the partnership agreement. One partner claims the property is now used for non-commercial purposes, therefore the dispute is not a 'commercial dispute' under the Commercial Courts Act. Is the dispute considered a 'commercial dispute'?",
+    "Legal Principles": "The definition of 'commercial dispute' under the Commercial Courts Act, particularly Section 2(1)(c)(vii) and the interpretation of 'used exclusively in trade or commerce'.",
+    "Relevant Sections": "Section 2(1)(c)(vii) of the Commercial Courts Act: 'agreements relating to immovable property used exclusively in trade or commerce'.",
+    "Context": "Jurisdiction: India. Case type: Partnership dispute involving a commercial property development."
+  },
+  {
+    "Query": "A company leased a property for a restaurant, but a dispute arose with the landlord over the lease terms. The company claims the property is now used for non-commercial purposes, thus the dispute is not a 'commercial dispute' under the Commercial Courts Act. Is the dispute considered a 'commercial dispute'?",
+    "Legal Principles": "The definition of 'commercial dispute' under the Commercial Courts Act, specifically Section 2(1)(c)(vii) and the interpretation of 'used exclusively in trade or commerce'.",
+    "Relevant Sections": "Section 2(1)(c)(vii) of the Commercial Courts Act: 'agreements relating to immovable property used exclusively in trade or commerce'.",
+    "Context": "Jurisdiction: India. Case type: Landlord-tenant dispute involving a commercial lease agreement and alleged breach of contract."
+  }
+]
+```

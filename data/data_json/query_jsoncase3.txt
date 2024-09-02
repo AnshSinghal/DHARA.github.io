@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A real estate developer, 'New Horizons Developments', is suing a property owner, 'Mr. John Smith', for breach of contract.  New Horizons claims Mr. Smith agreed to sell a piece of land zoned for commercial use, but later backed out of the deal.  Mr. Smith argues the land is not currently being used for commercial purposes and therefore the contract is not governed by the Commercial Courts Act.",
+    "Legal Principles": "The Commercial Courts Act, 2015 defines 'commercial dispute' as a dispute arising out of agreements relating to immovable property used exclusively in trade or commerce.  The court has held that the phrase 'used exclusively' requires the property to be 'actually used' for commercial purposes at the time of the contract. The purpose of the Commercial Courts Act is to streamline the resolution of high-value commercial disputes and should not be applied to disputes where the property is not currently used for commercial purposes.",
+    "Relevant Sections": "Section 2(1)(c)(vii) of the Commercial Courts Act, 2015 defines 'commercial dispute' as including 'agreements relating to immovable property used exclusively in trade or commerce'.",
+    "Context": "Jurisdiction: India; Case type: Breach of contract; Subject matter: Sale of land zoned for commercial use"
+  },
+  {
+    "Query": "A company, 'Tech Solutions Inc.', is suing its former employee, 'Ms. Alice Brown', for breach of a non-compete agreement.  Tech Solutions claims Ms. Brown is now working for a competitor and using confidential information she learned while employed by Tech Solutions.",
+    "Legal Principles": "Non-compete agreements are contracts that restrict an employee from working for a competitor after leaving their current employer.  Courts carefully scrutinize non-compete agreements to ensure they are reasonable in scope and duration and do not unduly restrict an individual's ability to earn a living.  The enforceability of non-compete agreements is a matter of state law.",
+    "Relevant Sections": "Not applicable in this case.  The Commercial Courts Act does not directly address non-compete agreements.",
+    "Context": "Jurisdiction: India (likely to be determined by the location of the company or the employee); Case type: Breach of contract; Subject matter: Non-compete agreement"
+  },
+  {
+    "Query": "A small business owner, 'Mrs. Mary Jones', is suing a large corporation, 'Mega Corp', for breach of contract.  Mrs. Jones claims Mega Corp agreed to purchase a large quantity of her products, but later cancelled the order without justification.",
+    "Legal Principles": "Breach of contract occurs when a party to a contract fails to perform its obligations under the contract without a valid excuse.  The injured party can sue for damages to compensate for the losses caused by the breach.",
+    "Relevant Sections": "Not applicable in this case.  The Commercial Courts Act does not directly address the general principles of breach of contract.",
+    "Context": "Jurisdiction: India; Case type: Breach of contract; Subject matter: Sales contract"
+  },
+  {
+    "Query": "A construction company, 'BuildRight Construction', is suing a property developer, 'Urban Homes', for non-payment of construction services.  BuildRight claims Urban Homes has not paid for the work performed on a large residential development project.",
+    "Legal Principles": "Construction contracts are complex agreements that outline the scope of work, payment terms, and other details related to a construction project.  A party that fails to pay for services performed under a construction contract may be liable for breach of contract.",
+    "Relevant Sections": "Section 2(1)(c)(vi) of the Commercial Courts Act, 2015 defines 'commercial dispute' as including 'construction and infrastructure contracts, including tenders'.",
+    "Context": "Jurisdiction: India; Case type: Breach of contract; Subject matter: Construction contract"
+  },
+  {
+    "Query": "A technology company, 'InnoTech Solutions', is suing a software developer, 'CodeSmith LLC', for breach of a software development agreement.  InnoTech claims CodeSmith failed to deliver the software on time and according to the agreed-upon specifications.",
+    "Legal Principles": "Software development agreements are contracts that define the terms of a project, including deliverables, deadlines, payment terms, and intellectual property rights.  Breach of a software development agreement can occur if a party fails to perform its obligations according to the terms of the contract.",
+    "Relevant Sections": "Not applicable in this case.  The Commercial Courts Act does not directly address software development agreements. However, the principles of contract law are generally applicable.",
+    "Context": "Jurisdiction: India; Case type: Breach of contract; Subject matter: Software development agreement"
+  },
+  {
+    "Query": "A financial institution, 'Bank of India', is suing a borrower, 'Mr. David Lee', for default on a loan.  Bank of India claims Mr. Lee has failed to make payments according to the terms of the loan agreement.",
+    "Legal Principles": "Loan agreements are contracts that establish the terms of a loan, including the interest rate, repayment schedule, and any collateral involved.  A borrower who fails to make payments according to the terms of the loan agreement may be in default and subject to legal action.",
+    "Relevant Sections": "Section 2(1)(c)(i) of the Commercial Courts Act, 2015 defines 'commercial dispute' as including 'ordinary transaction of merchants, bankers, financiers and traders such as those relating to mercantile documents, including enforcement and interpretation of such documents'.",
+    "Context": "Jurisdiction: India; Case type: Breach of contract; Subject matter: Loan agreement"
+  },
+  {
+    "Query": "A manufacturing company, 'AutoParts Inc.', is suing a supplier, 'SteelCo', for delivering defective parts.  AutoParts claims the defective parts caused production delays and losses.",
+    "Legal Principles": "Sales contracts are agreements for the sale of goods.  A supplier who delivers defective goods may be liable for breach of contract.  The injured party may be entitled to damages to compensate for the losses caused by the defective goods.",
+    "Relevant Sections": "Section 2(1)(c)(xviii) of the Commercial Courts Act, 2015 defines 'commercial dispute' as including 'agreements for sale of goods or provision of services'.",
+    "Context": "Jurisdiction: India; Case type: Breach of contract; Subject matter: Sales contract for manufacturing parts"
+  },
+  {
+    "Query": "A fashion retailer, 'Trendy Threads', is suing a clothing manufacturer, 'SewRight Apparel', for delivering late shipments of clothing.  Trendy Threads claims the late shipments caused lost sales and damaged its reputation.",
+    "Legal Principles": "Breach of contract occurs when a party to a contract fails to perform its obligations under the contract without a valid excuse.  The injured party can sue for damages to compensate for the losses caused by the breach.",
+    "Relevant Sections": "Section 2(1)(c)(xviii) of the Commercial Courts Act, 2015 defines 'commercial dispute' as including 'agreements for sale of goods or provision of services'.",
+    "Context": "Jurisdiction: India; Case type: Breach of contract; Subject matter: Sales contract for clothing"
+  },
+  {
+    "Query": "A software company, 'Tech Solutions Inc.', is suing a client, 'ABC Corporation', for non-payment of services. Tech Solutions claims ABC Corporation has not paid for the software development services rendered under a contract.",
+    "Legal Principles": "A client who fails to pay for services rendered under a contract may be liable for breach of contract.  The injured party can sue for damages to compensate for the losses caused by the non-payment.",
+    "Relevant Sections": "Section 2(1)(c)(xviii) of the Commercial Courts Act, 2015 defines 'commercial dispute' as including 'agreements for sale of goods or provision of services'.",
+    "Context": "Jurisdiction: India; Case type: Breach of contract; Subject matter: Services contract for software development"
+  },
+  {
+    "Query": "A technology company, 'InnoTech Solutions', is suing a former employee, 'Ms. Alice Brown', for breach of confidentiality agreement. InnoTech claims Ms. Brown is using confidential information learned during her employment for her own personal gain.",
+    "Legal Principles": "Confidentiality agreements are contracts that restrict an employee from disclosing confidential information belonging to their employer. Breach of a confidentiality agreement can result in legal action.  The enforceability of confidentiality agreements is a matter of state law. ",
+    "Relevant Sections": "Not applicable in this case.  The Commercial Courts Act does not directly address confidentiality agreements.",
+    "Context": "Jurisdiction: India (likely to be determined by the location of the company or the employee); Case type: Breach of contract; Subject matter: Confidentiality agreement"
+  }
+]
+```

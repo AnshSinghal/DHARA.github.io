@@ -1,0 +1,113 @@
+## 1. Case Title
+
+* **Case Name:** Welspun Enterprises Limited vs. Ravi Infrabuild Projects Pvt. Ltd.
+* **Court:** Rajasthan High Court - Jodhpur
+* **Date of Judgment:** 29th March 2023
+* **Citation:** [2023/RJJD/006679] 
+
+## 2. Background and Context
+
+* **Brief Overview:** This case involved a dispute between Welspun Enterprises Limited (appellant) and Ravi Infrabuild Projects Pvt. Ltd. (respondent No. 1) concerning the execution of construction contracts. Welspun had awarded contracts to Ravi for various infrastructure projects, including road expansion and improvements. When Welspun alleged breaches of contract by Ravi, it invoked bank guarantees provided by Ravi. Ravi filed an application under Section 9 of the Arbitration and Conciliation Act, 1996 (Act of 1996) seeking an interim injunction to prevent Welspun from encashing these guarantees. The trial court granted the injunction, prompting Welspun to appeal the order to the Rajasthan High Court.
+
+* **Key Issues:**
+    * Maintainability of the appeal under Section 37(1)(b) of the Act of 1996.
+    * Jurisdiction of the trial court to entertain the application under Section 9 of the Act of 1996 and to grant the injunction.
+    * Validity of the exclusive jurisdiction clause in the contracts, which stipulated that disputes would be settled by arbitration in New Delhi.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * Arbitration and Conciliation Act, 1996 (Act of 1996) - Sections 9, 37
+    * Commercial Courts Act, 2015 (Act of 2015) - Sections 8, 13
+    * Code of Civil Procedure, 1908 (CPC) - Order XLIII
+
+* **Precedents Cited:**
+    * Owners and Parties Interested in the Vessel M.V. Polaris Galaxy vs. Banque Cantonale De Geneve, 2022 SCC ONLine SC 1293
+    * Nagar Nigam Jodhpur (North) & Anr. vs. M/s Kanak Resources Management Ltd., D.B.Civil Misc. Appeal No.1448/2022 dated. 09.09.2022
+    * National Thermal Power Corporation vs. Meghalaya Power Distribution Limited (NTPC) Corporation Ltd. and Ors., AIR 2021 Megh 53
+    * Odeon Builders Pvt. Ltd. vs. NBCC (India) Ltd., 2021 SCC OnLIne Del 4390
+    * Kandla Export Corporation and Anr. Vs. OCI Corporation and Anr., (2018) 14 SCC 715
+    * Rajasthan Rajya Vidyut Utpadan Nigam Ltd. vs. M/s Ultratech Cement Ltd., 2013 SCC OnLine Raj 3667
+    * Jagdish Singh vs. Amba Lal & Ors., 2015 AIR CC 1395
+    * Sepco Electric Power Construction Corporation vs. Power Mech Projects Limited, 2020 SCC OnLine Del 1990
+    * Hakam Sing Vs. Gammon (India) Ltd., (1971) 1 SCC 286
+    * Angile Insulations vs. Davy Ashmore India Ltd. and Ors., (1995) 4 SC 153
+    * A.V.M.Sales Corporation vs. Anuradha Chemicals Pvt. Ltd., (2012) 2 SCC 315
+    * Swastik Gases Private Ltd. Vs. Indian Oil Corporation Ltd., (2013) 9 SCC 32
+    * Emkay Global Financial Services Ltd. vs. Girdhar Sondhi, (2018) 9 SCC 49
+    * Brahmani River Pellets Ltd. vs. Kamachi Industries Ltd., (2020) 5 SCC 462
+    * Srei Equipment Finance Ltd. vs. Seirra Infraventure Pct. Ltd., 2020 SCC OnLine Cal 1790
+    * Jindal Vijaynagar Steel vs. Jindal Praxair Oxygen Co. Ltd., (2006) 11 SCC 521
+    * A.B.C. Laminart Pvt. Ltd. and Anr. vs. A.P.Agencies, Salem, (1989) 2 SCC 163
+    * Indus Mobile Distribution Private Limited vs. Datawind Innovations Private Limited & Ors., Civil Appeal Nos.5370-5371/2017 dated 19.04.2017
+    * BGS SGS Soma JV Vs. NHPC Ltd., (2020) 4 SCC 234
+
+* **Legal Doctrines:**
+    * **Jurisdiction:** The court's power to hear and determine a case.
+    * **Exclusive Jurisdiction:**  A situation where a specific court has sole authority over a particular case or type of case, excluding other courts.
+    * **Cause of Action:** The facts or circumstances that give rise to a legal claim.
+    * **Arbitration Agreement:** A contract between parties to resolve disputes through arbitration instead of traditional court proceedings.
+    * **Seat of Arbitration:** The location where an arbitration is to be held.
+    * **Interim Measures:** Temporary orders issued by a court to protect a party's interests pending a final decision.
+
+## 4. Arguments Presented
+
+* **Appellant’s Argument (Welspun):**
+    * The trial court lacked jurisdiction to entertain the application under Section 9 of the Act of 1996 because the contracts stipulated that the New Delhi courts had exclusive jurisdiction over any disputes arising from them, including arbitration proceedings.
+    * The trial court's grant of the injunction was improper and violated the terms of the agreements.
+    * Welspun had already filed a Section 9 application in New Delhi, demonstrating their commitment to the agreed-upon jurisdiction.
+
+* **Respondent’s Argument (Ravi):**
+    * The trial court had jurisdiction under Section 9 of the Act of 1996 because the bank guarantee issued by IndusInd Bank, one of the five involved, was located in Udaipur, where the trial court was situated.
+    * The order granting the injunction was a valid exercise of the trial court's power under Section 9 to protect Ravi's interests.
+    * Welspun's argument about the exclusive jurisdiction clause was based on a narrow interpretation of the contracts and precedents cited by them were not applicable to the present case.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The court found that the appeal was maintainable under Section 37(1)(b) of the Act of 1996, as it challenged an order granting an interim measure under Section 9.
+    * The court held that the contracts clearly and unambiguously established that the New Delhi courts had exclusive jurisdiction over all disputes, including arbitration proceedings.
+    * The court rejected Ravi's argument that the trial court had jurisdiction based on the location of the bank guarantee, emphasizing that the agreements clearly defined the seat of arbitration as New Delhi.
+    * The court found that Welspun's previous Section 9 application in New Delhi strengthened their argument for the exclusive jurisdiction of the New Delhi courts.
+
+* **Interpretation of Law:**
+    * The court interpreted Section 9 of the Act of 1996 as allowing interim measures, including injunctions, to protect a party's interests during arbitration proceedings.
+    * The court interpreted the exclusive jurisdiction clause in the contracts as intending to exclude all other courts except those in New Delhi.
+    * The court interpreted the "seat of arbitration" as a concept equivalent to an exclusive jurisdiction clause, granting the courts at the designated seat sole authority over the arbitration proceedings.
+
+* **Application of Law:**
+    * The court applied the legal principles of jurisdiction and exclusive jurisdiction to determine that the trial court lacked the authority to entertain the Section 9 application.
+    * The court applied the principle of contract interpretation to determine that the parties had intended to exclude all courts except those in New Delhi for resolving their disputes.
+    * The court applied precedent from past Supreme Court judgments to support its conclusion regarding the "seat of arbitration" and exclusive jurisdiction.
+
+## 6. Judgment
+
+* **Final Decision:** The appeal was allowed.
+* **Relief Granted:** The impugned order granting the injunction was set aside.
+* **Orders:** The ad interim injunction granted in the impugned order was to continue for a period of one week from the date of the judgment.
+
+## 7. Implications
+
+* **Impact on Law:** This case reinforces the importance of carefully drafting exclusive jurisdiction clauses in contracts. It also clarifies that the "seat of arbitration" designation in arbitration agreements is tantamount to an exclusive jurisdiction clause.
+* **Future Relevance:** This judgment will be influential in future cases involving disputes arising from contracts with exclusive jurisdiction clauses, particularly those involving arbitration. Courts will likely refer to this case when determining whether a specific court has jurisdiction to entertain an application under Section 9 of the Act of 1996.
+* **Broader Context:** The judgment highlights the significance of clarity and consistency in contract drafting. It emphasizes the need for parties to clearly define the forum for resolving disputes, especially in complex commercial transactions.
+
+## 8. Summary Points
+
+* The Rajasthan High Court overturned a trial court order that had granted an injunction to prevent Welspun from encashing bank guarantees provided by Ravi.
+* The High Court determined that the trial court lacked jurisdiction because the contracts stipulated that disputes, including arbitration proceedings, would be settled in New Delhi courts exclusively.
+* The High Court interpreted the "seat of arbitration" as an indication of exclusive jurisdiction, similar to a specific jurisdiction clause.
+* The judgment emphasizes the importance of clear and unambiguous contractual language when defining the forum for resolving disputes.
+
+## 9. References
+
+* **Citations:**
+    * Arbitration and Conciliation Act, 1996 (26 of 1996)
+    * Commercial Courts Act, 2015
+    * Code of Civil Procedure, 1908 (5 of 1908)
+    * All the cases listed under "Precedents Cited" above.
+
+* **Further Reading:**
+    *  Indus Mobile Distribution Private Limited vs. Datawind Innovations Private Limited & Ors., Civil Appeal Nos.5370-5371/2017 dated 19.04.2017
+    *  BGS SGS Soma JV Vs. NHPC Ltd., (2020) 4 SCC 234 
+    * Other cases cited in the judgment related to jurisdiction and arbitration agreements.

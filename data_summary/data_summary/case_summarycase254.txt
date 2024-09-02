@@ -1,0 +1,96 @@
+## 1. Case Title
+
+* **Case Name:** Kalipada Manna vs. Ashis Bhuniya & Ors.
+* **Court:** Calcutta High Court (Appellate Side)
+* **Date of Judgment:** 9th July 2024
+* **Citation:** C.O. 137 of 2023
+
+## 2. Background and Context
+
+* **Brief Overview:** This case involves a dispute between Kalipada Manna (the revisionist/defendant no. 24) and Ashis Bhuniya & Ors. (the plaintiffs/opposite party no. 1 & 2) over a brick field built on a property initially classified as a "Jal Jami" (water body). The plaintiffs acquired leasehold rights to the property through registered deeds in 2008, and in 2013, transferred the brick field business to the revisionist. A disagreement arose regarding alleged breach of payment terms in the 2013 agreement, leading to the plaintiffs filing a title suit in the Commercial Court, Alipore, seeking declaration, possession, damages, and injunction. 
+* **Key Issues:**
+    * Whether the Commercial Court had jurisdiction over the dispute given the nature of the property and the nature of the business.
+    * Whether the plaintiffs' suit was barred by limitation.
+    * Whether the nature of the property (Jal Jami) could be determined by the Commercial Court. 
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * Code of Civil Procedure (CPC), Order VII Rule 11(d)
+    * Commercial Courts Act, 2015, Section 2(1)(c)(vii)
+    * Transfer of Property Act, Section 106
+* **Precedents Cited:** 
+    * Ambalal Sarabhai Enterprises Limited vs. K. S. Infraspacellp (2020) 15 SCC 585
+    * Kamala and others vs. K. T. Eshwara Saand others (2008) 12 SCC 661
+    * Dahiben vs. Arvindbhai Kalyanji Bhanusali (2020) 7 SCC 366
+    * Deepak Polymers Private Limited vs. Anchor Investments Private Limited (C.O. No. 759 of 2021)
+    * Jaspal Singh Chandhok and others vs. Sandeep Poddar and another (2023 SCC OnLine Cal 361)
+    * Liverpool & London S.P. & I Association Ltd. Vs. M. V. Sea Success I (2004) 9 SCC 512
+    * Sopan Sukhdeo Sable and others vs. Assistant Charity Commissioner (2004) 3 SCC 137
+    * Hardesh Ores (P) Ltd. Vs. Hede and Company (2007) 5 SCC 
+    * Raghwendra Sharan Singh vs. Ram Prasanna Singh (2019) AIR SC 1430
+    * P. Subramaniyam vs. Union of India (2019) AIR SC 1438
+* **Legal Doctrines:**
+    * Jurisdiction of Commercial Courts
+    * Limitation Period
+    * Interpretation of Contracts
+    * Mixed Question of Law and Fact
+
+## 4. Arguments Presented
+
+* **Plaintiff’s Argument (Opposite Party no. 1 & 2):**
+    * The property was used exclusively for trade or commerce due to the brick field operation, bringing it under the jurisdiction of the Commercial Court (Commercial Courts Act, Section 2(1)(c)(vii)).
+    * The dispute arose from the breach of the 2013 agreement, not the original lease deeds, making the suit not barred by limitation.
+    * The nature of the property (Jal Jami) was a matter to be determined during the trial, not at the stage of rejecting the plaint.
+* **Defendant’s Argument (Revisionist/Defendant no. 24):**
+    * The Commercial Court lacked jurisdiction because the property was initially a "Jal Jami" and was not used exclusively for trade or commerce (Ambalal Sarabhai case).
+    * The suit was barred by limitation as it was filed more than 4 years after the expiry of the initial lease and more than 3 years after the 2013 agreement (Transfer of Property Act, Section 106).
+    * The nature of the land determined the jurisdiction, not the commercial activity on it.
+* **Argument by Respondent nos. 3 to 25 (except 4, 12, 15, and 17):**
+    * They supported the revisionist's arguments regarding jurisdiction and limitation, emphasizing that the property was agricultural land and the brick field was based on movable assets, not the land itself.
+    * They argued that the dispute should be tried under the Transfer of Property Act, not the Commercial Courts Act.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:** 
+    * The court relied on the *Ambalal Sarabhai* case to establish that the property was used exclusively for trade and commerce on the date of the 2013 agreement, granting jurisdiction to the Commercial Court.
+    * The court rejected the defendant's arguments regarding limitation, stating that the question of limitation was a mixed question of law and fact to be determined during the trial.
+    * The court clarified that the nature of the property was not the primary factor determining jurisdiction; the commercial activity carried on the property at the time of the relevant agreement was crucial.
+* **Interpretation of Law:** 
+    * The court interpreted the Commercial Courts Act, 2015, Section 2(1)(c)(vii) to mean that the exclusive use of immovable property for trade or commerce on the date of the agreement determined jurisdiction.
+    * The court interpreted Order VII Rule 11(d) of the CPC to mean that the plaint should only be rejected if the suit is barred by law based on the averments in the plaint alone.
+* **Application of Law:**
+    * The court applied the *Ambalal Sarabhai* case precedent to determine that the 2013 agreement and the use of the property for brick production established commercial activity.
+    * The court applied the legal doctrine of mixed questions of law and fact to conclude that the limitation issue was not suitable for determination at the plaint rejection stage.
+
+## 6. Judgment
+
+* **Final Decision:** The revision application was dismissed.
+* **Relief Granted:** No relief was granted to the revisionist.
+* **Orders:** 
+    * The Commercial Court was instructed to proceed with the suit and dispose of it expeditiously in accordance with law.
+    * The interim order, if any, was vacated. 
+    * Connected applications were disposed of accordingly.
+
+## 7. Implications
+
+* **Impact on Law:** The judgment clarifies the application of the Commercial Courts Act, 2015, in cases involving immovable property used for commercial purposes, emphasizing the importance of the date of the relevant agreement. 
+* **Future Relevance:** This case provides a useful precedent for determining jurisdiction in disputes arising from commercial activities on land, particularly where the property's initial use might not be directly related to commercial activity.
+* **Broader Context:** This case highlights the challenges and complexities of land ownership and commercial use in a developing country.
+
+## 8. Summary Points
+
+* The court upheld the Commercial Court's jurisdiction in a dispute arising from a brick field business, despite the property's initial classification as a "Jal Jami."
+* The court rejected the defendant's argument that the suit was barred by limitation, deferring the determination of this issue to the trial stage.
+* The court stressed the importance of the date of the agreement in determining the commercial use of the property and its relevance to jurisdiction.
+
+## 9. References
+
+* **Citations:**
+    * **Code of Civil Procedure (CPC), Order VII Rule 11(d)**
+    * **Commercial Courts Act, 2015, Section 2(1)(c)(vii)**
+    * **Transfer of Property Act, Section 106**
+* **Further Reading:**
+    * *Ambalal Sarabhai Enterprises Limited vs. K. S. Infraspacellp (2020) 15 SCC 585*
+    * *Kamala and others vs. K. T. Eshwara Saand others (2008) 12 SCC 661*
+

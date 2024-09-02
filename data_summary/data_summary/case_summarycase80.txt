@@ -1,0 +1,125 @@
+## Case Title
+
+• Case Name: Sun Pharma Laboratories Ltd vs Hetero Healthcare Ltd & Anr.
+• Court: Delhi High Court
+• Date of Judgment: 28th March, 2022
+• Citation: 2022/DHC/001212
+
+## Background and Context
+
+• **Brief Overview**: Sun Pharma Laboratories Ltd. (Plaintiff) filed a suit against Hetero Healthcare Ltd. & Anr. (Defendants) seeking a permanent injunction to restrain the Defendants from infringing the Plaintiff's registered trademark "LETROZ". The Defendants were using the mark "LETERO" for their medicinal and pharmaceutical preparations, which the Plaintiff claimed was deceptively similar and infringing. Notably, the Plaintiff had already filed a similar suit (CS (Comm.) No. 300 of 2019) before the Commercial Court in Rohini Courts, Delhi, which was still pending.
+
+• **Key Issues**: 
+    * Whether the present suit was maintainable despite the pendency of the first suit.
+    * Whether the delay in adjudicating the interim injunction application in the first suit constituted a fresh cause of action for the Plaintiff.
+    * Whether the Plaintiff could seek both damages and rendition of accounts in separate suits for the same trademark infringement.
+
+## Legal Principles Involved
+
+• **Relevant Statutes and Provisions**:
+    * **Trademarks Act, 1999**: Section 135(1) - dealing with relief available in infringement and passing off cases. 
+    * **Code of Civil Procedure (CPC), 1908**: Order II Rule 2 - regarding the filing of multiple suits on the same cause of action.
+    * **CPC, 1908**: Order XXIII Rule 1 - relating to withdrawal of suits.
+    * **Section 10 and 11 of the CPC**: Provisions regarding the prevention of forum shopping.
+    * **Limitation Act, 1963**: Section 22 - dealing with the period of limitation in cases of continuing breaches.
+
+• **Precedents Cited**:
+    * **Bengal Waterproof Ltd. v. Bombay Waterproof Manufacturing Company, (1997) 1 SCC 99**: This landmark Supreme Court case established the principle that a new cause of action arises for each fresh act of infringement or passing off. 
+    * **Hari Ram v. Lichmaniya & Ors., AIR 2003 Raj. 319**: This case involved the maintainability of a second suit related to immovable property, highlighting the importance of avoiding multiplicity of proceedings.
+    * **Ranbir Singh v. Dalbir Singh & Ors., CS(OS) 802/2002, decision dated 19th December, 2008 (Delhi High Court)**: This judgment emphasized that a plaintiff cannot file multiple suits based on the same cause of action. 
+    * **Prapti Fashions Private Limited and Ors. v. Manoj Kumar Gupta, 2014 (59) PTC 667(Cal)**: This case discussed the maintainability of a second suit when a previous suit was withdrawn, emphasizing the need to prevent conflicting decisions.
+    * **Indian Herbs Research & Supply Co. Ltd. and Ors. v. Lalji Mal & Ors., 95 (2002) DLT 723**: This case involved the maintainability of a second suit for trademark infringement, affirming the principle of a recurring fresh cause of action with each infringement.
+    * **M/s Allied Blenders and Distillers Pvt. Ltd. & Ors. v. Amit Dahanukar & Anr. 261 (2019) DLT 692**: This case involved forum shopping and highlighted the principle of comity between courts.
+    * **Anil Rai v. State of Bihar, (2001) 7 SCC 318**: This Supreme Court judgment emphasized the importance of timely pronouncements of judgments. 
+    * **Balaji Baliram Mupade & Anr. v. State of Maharashtra & Ors. [Civil Appeal No. 3564/2020, decided on 29th October, 2020]**: This case further emphasized the importance of timely judgments and reiterated the guidelines laid down in Anil Rai (supra).
+    * **Deepti Khera v. Siddharth Khera [CM (M) 1637/2019, decided on 18th November, 2019]**: This case discussed the need for timely pronouncement of orders by trial courts.
+    * **Sandhya Srivastava v. Dr. Neelam Mishra & Ors. [W.P.(C.) 2207/2021, decided on 18th February, 2021]**: This case reiterated the need for timely pronouncement of judgments by trial courts.
+    * **Vijay Kumar Gupta v. State of West Bengal [SLP (Crl.) 10951 of 2019, decided on 22nd March, 2022]**: This Supreme Court case condemned forum shopping and termed it as an abuse of law.
+
+• **Legal Doctrines**:
+    * **Res Judicata**: Prevents the relitigation of a case already decided by a court.
+    * **Res Sub Judice**: Prevents the filing of a new suit on the same issue while another case on the same matter is pending before a court.
+    * **Forum Shopping**: The practice of choosing the most favorable court to hear a case.
+
+## Arguments Presented
+
+• **Plaintiff's Argument**: 
+    * The delay in adjudicating the interim injunction application in the first suit, which was filed in 2017, constituted a fresh cause of action for each sale of the infringing product by the Defendants. This argument was based on the **Bengal Waterproof** judgment.
+    * Every sale of the infringing product by the Defendants constituted a new and independent cause of action for the Plaintiff.
+    * The Plaintiff intended to withdraw the first suit. 
+    * The Plaintiff was seeking different relief in the second suit (damages) compared to the first suit (rendition of accounts), which justified filing a separate suit.
+
+• **Defendant's Argument**:
+    * The cause of action in both suits was identical and related to the same period.
+    * Filing the second suit was a gross abuse of the process of the court and amounted to forum shopping.
+    * The Plaintiff could not seek both damages and rendition of accounts in separate suits for the same infringement under the Trademarks Act, 1999.
+    * The delay in the first suit did not constitute a fresh cause of action, and the principle of **res sub judice** barred the filing of the second suit. 
+
+## Court's Analysis and Reasoning
+
+• **Key Findings**:
+    * The parties, the trademarks, the rights being asserted, and the cause of action in both suits were identical.
+    * The only difference between the two suits was the relief sought – one sought rendition of accounts while the other sought damages. However, the Court found this difference to be irrelevant as Section 135(1) of the Trademarks Act, 1999, allowed the Plaintiff to choose only one relief (damages or rendition of accounts) for the same infringement. 
+    * The Plaintiff had explicitly stated in the second suit that they intended to withdraw the first suit. 
+    * The delay in adjudicating the interim injunction application in the first suit did not justify the filing of a separate suit.
+
+• **Interpretation of Law**:
+    * The Court carefully analyzed the **Bengal Waterproof** judgment and found it distinguishable from the present case. The **Bengal Waterproof** case involved the dismissal of the first suit for technical reasons, while in the present case, the first suit was pending and the Court was seized of the matter.
+    * The Court also discussed the principle of **res sub judice**, concluding that the Plaintiff's second suit was barred. 
+    * The Court emphasized the application of Section 135(1) of the Trademarks Act, 1999, which prohibited seeking both damages and rendition of accounts for the same infringement in separate suits. 
+    * The Court condemned the practice of forum shopping and considered it an abuse of the process of the court. 
+    * The Court stressed the importance of timely pronouncements of judgments by trial courts.
+
+• **Application of Law**:
+    * The Court applied the principles of **res sub judice**, forum shopping, and the provisions of the Trademarks Act, 1999, to the facts of the case.
+    * The Court held that the delay in adjudicating the interim injunction application in the first suit did not constitute a fresh cause of action.
+    * The Court dismissed the Plaintiff's argument that seeking different reliefs in the two suits justified filing separate suits. 
+
+## Judgment
+
+• **Final Decision**: The Court dismissed the Plaintiff's suit as not maintainable.
+
+• **Relief Granted**: No relief was granted to the Plaintiff.
+
+• **Orders**: 
+    * The Court directed the Registrar General to send a copy of the judgment to the Inspecting Committee of the concerned Judicial Officer of the Commercial Court, who had delayed the pronouncement of the order on the interim injunction application in the first suit.
+    * The Court also directed the Registrar General to circulate this judgment to all judicial officers in the Trial Court.
+
+## Implications
+
+• **Impact on Law**: This judgment reinforces the principle of **res sub judice** and reaffirms the importance of preventing forum shopping. It also clarifies that a Plaintiff cannot circumvent the provisions of Section 135(1) of the Trademarks Act, 1999, by seeking different reliefs in separate suits. 
+
+• **Future Relevance**: This case sets a precedent for future trademark infringement cases, particularly when there is a pending suit between the same parties on the same cause of action. It provides a clear framework for courts to consider when evaluating the maintainability of subsequent suits.
+
+• **Broader Context**: The case highlights the need for courts to be vigilant in preventing abuse of the judicial process by litigants seeking to manipulate the system for strategic advantage. It also emphasizes the importance of judicial efficiency and timely pronouncement of judgments by trial courts. 
+
+## Summary Points
+
+* **Main Issue**: The maintainability of a second suit for trademark infringement while a similar suit is pending in another court.
+* **Key Finding**:  The Plaintiff's second suit was not maintainable because it was based on the same cause of action as the first suit. 
+* **Decision**: The Plaintiff's suit was dismissed.
+* **Legal Implications**:  Reinforces the principles of *res sub judice* and the prohibition against forum shopping. 
+* **Importance**: Demonstrates the courts' commitment to preventing the abuse of judicial processes and ensuring efficient legal proceedings.
+
+## References
+
+* **Trademarks Act, 1999**
+* **Code of Civil Procedure (CPC), 1908**
+* **Limitation Act, 1963**
+* **Bengal Waterproof Ltd. v. Bombay Waterproof Manufacturing Company, (1997) 1 SCC 99**
+* **Hari Ram v. Lichmaniya & Ors., AIR 2003 Raj. 319**
+* **Ranbir Singh v. Dalbir Singh & Ors., CS(OS) 802/2002, decision dated 19th December, 2008 (Delhi High Court)**
+* **Prapti Fashions Private Limited and Ors. v. Manoj Kumar Gupta, 2014 (59) PTC 667(Cal)**
+* **Indian Herbs Research & Supply Co. Ltd. and Ors. v. Lalji Mal & Ors., 95 (2002) DLT 723**
+* **M/s Allied Blenders and Distillers Pvt. Ltd. & Ors. v. Amit Dahanukar & Anr. 261 (2019) DLT 692**
+* **Anil Rai v. State of Bihar, (2001) 7 SCC 318**
+* **Balaji Baliram Mupade & Anr. v. State of Maharashtra & Ors. [Civil Appeal No. 3564/2020, decided on 29th October, 2020]**
+* **Deepti Khera v. Siddharth Khera [CM (M) 1637/2019, decided on 18th November, 2019]**
+* **Sandhya Srivastava v. Dr. Neelam Mishra & Ors. [W.P.(C.) 2207/2021, decided on 18th February, 2021]**
+* **Vijay Kumar Gupta v. State of West Bengal [SLP (Crl.) 10951 of 2019, decided on 22nd March, 2022]**
+
+## Further Reading
+
+* **Indian Law on Trademarks**: By Dr. P.S. Narayanan
+* **The Law of Torts**: By R.K. Bangia
+* **The Code of Civil Procedure, 1908**: By M.P. Jain 

@@ -1,0 +1,85 @@
+##  Pranathmaka Ayurvedics Pvt Ltd vs Cocosath Health Products
+
+**1. Case Title**
+
+* **Case Name:** Pranathmaka Ayurvedics Pvt Ltd vs Cocosath Health Products
+* **Court:** Kerala High Court
+* **Date of Judgment:** 24th November 2020
+* **Citation:**  O.P.(C).No.1467 OF 2020
+
+**2. Background and Context**
+
+* **Brief Overview:** Pranathmaka Ayurvedics Pvt Ltd (Petitioner) entered into an exclusive marketing and distribution agreement with Prince P. Sathyan. Cocosath Health Products (Respondent) subsequently terminated this agreement and entered a new agreement with Sathyan. Pranathmaka Ayurvedics filed an application under Section 9 of the Arbitration and Conciliation Act, 1996 (Arbitration Act) seeking an injunction to restrain Cocosath from appointing new distributors and disclosing confidential information. 
+* **Key Issues:**
+    * Whether an order passed under Section 9 of the Arbitration Act by a Commercial Court is appealable under Section 13(1) of the Commercial Courts Act, 2015 (Commercial Courts Act). 
+    * Whether the availability of an appeal under the Commercial Courts Act bars the High Court from exercising its jurisdiction of superintendence under Article 227 of the Constitution of India.
+
+**3. Legal Principles Involved**
+
+* **Relevant Statutes and Provisions:**
+    * Arbitration and Conciliation Act, 1996 (Sections 9 and 37)
+    * Commercial Courts Act, 2015 (Sections 8, 13(1), 13(1A), and 13(2))
+    * Code of Civil Procedure, 1908 (Order XLIII)
+    * Constitution of India (Article 227)
+* **Precedents Cited:**
+    * Karnataka Rare Earth v. Senior Geologist : AIR 2004 SC 2915
+    * Raichurmatham Prabhakar v. Rawatmal Dugar: AIR 2004 SC 3625
+    * Union of India v. National Federation of the Blind : (2013) 10 SCC 772
+    * Maqbool v. State of U.P : AIR 2018 SC 5101
+    * Kandla Export Corporation v. M/s OCI Corporation : (2018) 14 SCC 715
+    * BGS SGS Soma JV v. NHPC Limited : (2020) 4 SCC 234
+    * Chandra Kumar v. Union of India : AIR 1997 SC 1125
+    * V.H.N.D.P.Sabai v. Tuticorin Educational Society : (2019) 9 SCC 538
+
+* **Legal Doctrines:**
+    * Interpretation of Statutes
+    * Right of Appeal as a Substantive Right
+    * Judicial Superintendence under Article 227
+
+**4. Arguments Presented**
+
+* **Petitioner’s Argument:**
+    * The order passed under Section 9 of the Arbitration Act by the Commercial Court is an interlocutory order and not a final judgment, hence not appealable under Section 13(1) of the Commercial Courts Act.
+    * The heading of Section 13 of the Commercial Courts Act refers to “Appeals from decrees” indicating that only final judgments are appealable.
+    * The availability of an appeal should not be an absolute bar to the High Court’s power of superintendence under Article 227. 
+* **Respondent’s Argument:**
+    * Section 13(1) of the Commercial Courts Act clearly states that any person aggrieved by a judgment or order of a Commercial Court below the level of a District Judge can appeal to the Commercial Appellate Court.
+    * The heading of Section 13 cannot override the plain wording of the provision.
+    * The availability of an effective appeal under the Commercial Courts Act renders the petition under Article 227 unnecessary and unsustainable.
+
+**5. Court’s Analysis and Reasoning**
+
+* **Key Findings:**
+    * The language of Section 13(1) of the Commercial Courts Act is unambiguous and allows appeals from any judgment or order, including interlocutory orders.
+    * The heading of the section cannot control the clear language of the provision.
+    * While an alternative remedy through appeal exists, it is not an absolute bar to the High Court’s jurisdiction under Article 227.
+* **Interpretation of Law:**
+    * The court emphasized the literal interpretation of Section 13(1) of the Commercial Courts Act, focusing on the words “judgment or order,” and acknowledging that the provision does not explicitly limit appeals to only final judgments.
+    * The court highlighted the principle that headings cannot control the meaning of clear and unambiguous provisions.
+    * The court recognized that the right of appeal is a substantive right and that its availability does not eliminate the High Court’s supervisory powers.
+* **Application of Law:**
+    * The court concluded that an order under Section 9 of the Arbitration Act by a Commercial Court below the level of a District Judge is indeed appealable under Section 13(1) of the Commercial Courts Act.
+    * The court refrained from exercising its supervisory powers under Article 227 because the petitioners had not provided sufficient justification for not pursuing the available appeal.
+
+**6. Judgment**
+
+* **Final Decision:** The original petition was dismissed.
+* **Relief Granted:** No relief was granted as the petition was dismissed.
+* **Orders:** The petitioners were directed to explore the option of appeal against the order within the prescribed period.
+
+**7. Implications**
+
+* **Impact on Law:** This judgment clarifies that appeals against orders passed by Commercial Courts under Section 9 of the Arbitration Act are available under Section 13(1) of the Commercial Courts Act. This strengthens the appeal mechanisms within the Commercial Courts framework.
+* **Future Relevance:** This case sets a precedent for similar situations where parties seek to challenge interlocutory orders of Commercial Courts. The judgment emphasizes the importance of utilizing available appeal mechanisms before resorting to the High Court’s supervisory powers. 
+* **Broader Context:**  The judgment reinforces the significance of statutory provisions and their literal interpretation, particularly when dealing with legal rights like appeal. It also highlights the importance of effective alternative remedies in minimizing unnecessary burdens on the High Court’s supervisory powers.
+
+**8. Summary Points**
+
+* Orders passed by Commercial Courts under Section 9 of the Arbitration Act are appealable under Section 13(1) of the Commercial Courts Act.
+* Headings cannot control the clear language of statutory provisions.
+* The availability of an appeal does not completely bar the High Court’s supervisory powers but should be pursued before seeking intervention under Article 227.
+
+**9. References**
+
+* All statutes, cases, and legal texts cited in the summary can be found within the "Legal Principles Involved" section.
+* For further reading, consider researching other cases related to the Commercial Courts Act, the Arbitration and Conciliation Act, and the exercise of supervisory powers by High Courts under Article 227.

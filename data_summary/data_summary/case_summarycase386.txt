@@ -1,0 +1,93 @@
+## 1. Case Title
+
+* **Case Name:** Engineering Projects (India) Limited & Anr. vs. M/s. KMV Prasad Rao & Ors.
+* **Court:** Telangana High Court
+* **Date of Judgment:** 28th April 2023
+* **Citation:** COMMERCIAL COURT APPEAL NO.13 OF 2023
+
+## 2. Background and Context
+
+* **Brief Overview:** This case involved a dispute between Engineering Projects (India) Limited (EPIL), a government enterprise, and M/s. KMV Prasad Rao (Contractor) (KMV), a construction company. EPIL had contracted KMV as a subcontractor to execute a construction project for Singareni Collieries Company Limited (SCCL). When disputes arose over payments and delays, KMV initiated arbitration proceedings, leading to multiple appointments of arbitrators by EPIL, which KMV alleged were biased. 
+* **Key Issues:** 
+    *  The jurisdiction of the Commercial Court to entertain the case.
+    *  The legality of the appointment of an arbitrator by the Managing Director of EPIL, considering the provisions of the Arbitration and Conciliation Act, 1996.
+    *  The power of the Commercial Court to substitute another arbitrator.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    *  Arbitration and Conciliation Act, 1996 (Act, 1996): Sections 11, 12(5), 13, 14, 15, 34.
+    *  Commercial Courts Act, 2015: Section 10(3).
+* **Precedents Cited:**
+    *  TRF Limited vs. Energo Engineering Projects Limited [(2017) 8 SCC 377]
+    *  Ellora Paper Mills Ltd. vs. State of M.P., [2022 (3) SCC 1]
+    *  Perkins Eastman Architects vs. HSCC (India) Ltd., [2019 SCC Online SC 1517]
+    *  Jaycee Housing Private Limited vs Registrar (General) Orissa High Court, Cuttack [(2023) 1 SCC 549]
+    *  Swadesh Kumar Agarwal vs. Dinesh Kumar Agarwal [(2022) 10 SCC 235]
+* **Legal Doctrines:** 
+    *  Jurisdiction of Commercial Courts
+    *  Eligibility and Appointment of Arbitrators under the Arbitration Act
+    *  Substitution of Arbitrators under the Arbitration Act
+
+## 4. Arguments Presented
+
+* **Appellant's Argument (EPIL):** 
+    *  The Commercial Court lacked jurisdiction to appoint a substitute arbitrator; only the High Court could do so under Section 11 of the Act, 1996.
+    *  The appointment of the arbitrator by the Managing Director was valid and in compliance with Section 12(5) of the Act, 1996.
+    *  KMV should have objected to the appointment of the arbitrator within the time specified in Section 13 of the Act, 1996.
+    *  The Supreme Court's decision in Perkins Eastman Architects vs. HSCC (India) Ltd. did not apply in this case.
+    *  KMV could have sought information about the impartiality of the arbitrator as per the Sixth Schedule of the Act.
+* **Respondent's Argument (KMV):** 
+    *  The Managing Director of EPIL could not act as an arbitrator, nor could he unilaterally appoint one as a party to the agreement.
+    *  The multiple arbitrators appointed by EPIL were biased and deliberately delayed the proceedings, causing prejudice to KMV.
+    *  The Commercial Court was justified in setting aside the appointment of the arbitrator and appointing a retired Judicial Officer in his place.
+    *  The dispute was a commercial dispute, and the Commercial Court had jurisdiction under Section 10(3) of the Commercial Courts Act, 2015. 
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    *  The Commercial Court had jurisdiction to entertain the case as it involved a commercial dispute.
+    *  The appointment of the third arbitrator by the Managing Director was illegal and violated Section 12(5) of the Act, 1996, citing the precedent set in TRF Limited vs. Energo Engineering Projects Limited.
+    *  The court considered the repeated delays and lack of impartiality in the previous appointments of arbitrators as grounds for concluding the arbitrator was unable to function effectively under Section 14(1)(a) of the Act, 1996.
+    *  KMV’s claim that EPIL’s conduct delayed the proceedings was rejected, stating KMV was the party interested in resolving the dispute. 
+* **Interpretation of Law:**
+    *  The court interpreted the provisions of the Act, 1996 and the Commercial Courts Act, 2015 to establish the jurisdiction of the Commercial Court and the validity of appointing and substituting arbitrators.
+    *  The court cited the TRF Limited vs. Energo Engineering Projects Limited case to support its ruling regarding the ineligibility of the Managing Director to appoint an arbitrator.
+    *  It referred to the Swadesh Kumar Agarwal vs. Dinesh Kumar Agarwal case to clarify the circumstances under which a court could terminate the mandate of an arbitrator and substitute another.
+* **Application of Law:** 
+    *  The court applied the principles of the cited cases and legal provisions to the facts of the case, finding the appointment of the arbitrator by the Managing Director was illegal and the arbitrator was unable to perform his duties without undue delay.
+    *  The court's decision to appoint a substitute arbitrator was justified under Section 14(1)(a) of the Act, 1996, based on the findings of the Managing Director’s ineligibility and the previous arbitrator’s inability to function effectively.
+
+## 6. Judgment
+
+* **Final Decision:** The appeal was dismissed.
+* **Relief Granted:** The Commercial Court’s order to terminate the mandate of the arbitrator appointed by the Managing Director and substitute a retired Judicial Officer as the sole arbitrator was upheld.
+* **Orders:**  The appeal was dismissed, and pending miscellaneous applications were closed.
+
+## 7. Implications
+
+* **Impact on Law:** This case reinforces the principle that the Managing Director of a company cannot act as an arbitrator when there are disputes involving the company, as per Section 12(5) of the Act, 1996, reiterating the precedent set in TRF Limited vs. Energo Engineering Projects Limited.
+* **Future Relevance:** This case provides a precedent for determining the jurisdiction of commercial courts in arbitration matters and establishing the grounds for substituting arbitrators under Section 14(1)(a) of the Act, 1996.
+* **Broader Context:** This case highlights the importance of fair and impartial arbitration procedures. It emphasizes that parties cannot be expected to have faith in an arbitrator appointed by a party to the dispute.
+
+## 8. Summary Points
+
+* The Commercial Court had jurisdiction over the dispute.
+* The Managing Director of EPIL was not eligible to appoint an arbitrator due to his position within the company.
+* The court terminated the appointment of the third arbitrator and substituted a retired Judicial Officer, based on the arbitrator's ineligibility and inability to perform his functions.
+* The case reinforces the importance of impartial arbitration processes and clarifies the conditions for substituting arbitrators.
+
+## 9. References
+
+* **Citations:**
+    *  Arbitration and Conciliation Act, 1996 (26 of 1996)
+    *  Commercial Courts Act, 2015
+    *  TRF Limited vs. Energo Engineering Projects Limited [(2017) 8 SCC 377]
+    *  Ellora Paper Mills Ltd. vs. State of M.P., [2022 (3) SCC 1]
+    *  Perkins Eastman Architects vs. HSCC (India) Ltd., [2019 SCC Online SC 1517]
+    *  Jaycee Housing Private Limited vs Registrar (General) Orissa High Court, Cuttack [(2023) 1 SCC 549]
+    *  Swadesh Kumar Agarwal vs. Dinesh Kumar Agarwal [(2022) 10 SCC 235]
+* **Further Reading:**
+    *  Indian Arbitration & Conciliation Act, 1996 
+    *  Commercial Courts Act, 2015 
+    *  Cases related to the appointment and substitution of arbitrators under the Arbitration Act. 

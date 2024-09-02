@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A construction company, 'BuildRight,' entered into a contract with 'City Developers' for the construction of a new city hall. The contract had a fixed price with no escalation clause. Due to delays caused by City Developers in providing necessary approvals and drawings, BuildRight incurred additional costs. BuildRight claims these additional costs are justified under the doctrine of frustration. City Developers argues that the delays were not significant enough to frustrate the contract and that BuildRight should have mitigated its losses.  How should the court rule on BuildRight's claim for additional costs?",
+    "Legal Principles": "Frustration of contract, Mitigation of damages, Contractual interpretation,  Doctrine of frustration,  Breach of contract,  Foreseeable events,  Unforeseen events,  Substantial performance.",
+    "Relevant Sections": "Section 55 of the Contract Act, Section 70 of the Contract Act, Section 34 of the Arbitration Act",
+    "Context": "Jurisdiction: India, Case type: Contractual dispute"
+  },
+  {
+    "Query": "A company, 'TechSolutions,' entered into a contract with 'DataCorp' for the development of a custom software application. The contract specified a fixed price and a deadline for completion.  TechSolutions encountered unexpected technical challenges that significantly delayed the project beyond the agreed deadline. TechSolutions claims the delays were unforeseen and outside their control, and requests an extension of the deadline and an adjustment to the fixed price. DataCorp argues that the technical challenges were foreseeable and that TechSolutions should have mitigated the delays.  Should the court grant TechSolutions' request for an extension and price adjustment?",
+    "Legal Principles": "Frustration of contract, Mitigation of damages, Contractual interpretation, Force majeure clauses, Breach of contract,  Foreseeable events,  Unforeseen events,  Substantial performance.",
+    "Relevant Sections": "Section 32 of the Indian Contract Act, Section 56 of the Indian Contract Act, Section 34 of the Arbitration Act",
+    "Context": "Jurisdiction: India, Case type: Contractual dispute"
+  },
+  {
+    "Query": "A manufacturing company, 'GreenTech,' contracted with 'SupplierCo' for the supply of a specific type of raw material. The contract specified a fixed price and a delivery date. SupplierCo failed to deliver the raw material on time, causing significant production delays for GreenTech. GreenTech claims damages for lost profits and additional costs incurred due to the delay.  SupplierCo argues that the delay was due to unforeseen circumstances beyond its control, such as a natural disaster.  Should the court hold SupplierCo liable for damages and, if so, to what extent?",
+    "Legal Principles": "Breach of contract, Damages for breach of contract, Mitigation of damages, Force majeure clauses,  Foreseeable events,  Unforeseen events,  Proximate cause.",
+    "Relevant Sections": "Section 73 of the Indian Contract Act, Section 74 of the Indian Contract Act, Section 34 of the Arbitration Act",
+    "Context": "Jurisdiction: India, Case type: Contractual dispute"
+  },
+  {
+    "Query": "A software developer, 'CodeCraft,' created a mobile application for 'AppStore,' under a contract that stipulated a fixed price and a non­disclosure agreement. AppStore later discovered that CodeCraft had used copyrighted code in the application without proper authorization. AppStore claims breach of contract and seeks to terminate the agreement and pursue legal action against CodeCraft for copyright infringement. CodeCraft argues that the copyrighted code was used inadvertently and that they are willing to replace it. Should the court uphold AppStore's claims and terminate the contract?",
+    "Legal Principles": "Breach of contract, Intellectual property rights,  Copyright infringement,  Termination of contract,  Material breach,  Non­disclosure agreements.",
+    "Relevant Sections": "Section 27 of the Indian Contract Act, Section 54 of the Indian Contract Act, Section 34 of the Arbitration Act, The Copyright Act, 1957",
+    "Context": "Jurisdiction: India, Case type: Contractual dispute involving intellectual property"
+  },
+  {
+    "Query": "'EcoClean' entered into a contract with 'Homeowners' to clean and maintain their property. The contract included a clause stating that EcoClean would not be liable for any damage caused to the property during the cleaning process.  During a cleaning session, EcoClean's employees accidentally damaged a valuable antique vase belonging to Homeowners. Homeowners claim that EcoClean is liable for the damage, arguing that the exclusion clause is unreasonable and against public policy.  Should the court uphold the exclusion clause and exonerate EcoClean from liability?",
+    "Legal Principles": "Contractual interpretation, Unfair contract terms,  Exemption clauses,  Public policy,  Negligence,  Consumer protection.",
+    "Relevant Sections": "Section 23 of the Indian Contract Act,  Section 16 of the Indian Contract Act, Section 34 of the Arbitration Act",
+    "Context": "Jurisdiction: India, Case type: Contractual dispute involving consumer protection"
+  },
+  {
+    "Query": "Two companies, 'SolarTech' and 'PowerGrid,' entered into a contract for the installation of solar panels on PowerGrid's property. The contract contained a clause for arbitration to resolve any disputes that might arise.  A dispute arose between the companies regarding the quality of the installed solar panels.  PowerGrid initiated arbitration proceedings, but SolarTech refuses to participate. PowerGrid seeks a court order compelling SolarTech to participate in arbitration.  Should the court order SolarTech to participate in arbitration?",
+    "Legal Principles": "Arbitration agreement,  Enforcement of arbitration agreements,  Specific performance,  Stay of legal proceedings,  Jurisdiction of courts.",
+    "Relevant Sections": "Section 8 of the Arbitration and Conciliation Act, 1996, Section 45 of the Arbitration and Conciliation Act, 1996",
+    "Context": "Jurisdiction: India, Case type:  Arbitration enforcement"
+  },
+  {
+    "Query": "'Global Foods'  and 'RetailMart' entered into a contract for the supply of food products. The contract had a clause requiring Global Foods to provide a certain level of quality assurance for the products.  RetailMart received complaints from customers about the quality of the supplied products.  RetailMart seeks to terminate the contract with Global Foods and claims damages for lost sales and reputation.  Global Foods argues that the complaints were isolated incidents and that they have met the quality assurance standards.  Should the court uphold RetailMart's claim for termination and damages?",
+    "Legal Principles": "Breach of contract,  Termination of contract,  Material breach,  Quality assurance,  Warranties,  Damages for breach of contract.",
+    "Relevant Sections": "Section 12(2) of the Sale of Goods Act, 1930, Section 16 of the Sale of Goods Act, 1930, Section 34 of the Arbitration Act",
+    "Context": "Jurisdiction: India, Case type: Contractual dispute involving sale of goods"
+  },
+  {
+    "Query": "'TechServe' provided IT support services to 'BusinessCorp' under a contract that included a confidentiality clause.  TechServe's employees were found to have accessed and shared confidential information belonging to BusinessCorp with a competitor. BusinessCorp claims breach of contract and seeks to terminate the contract and pursue legal action against TechServe.  TechServe argues that the employees acted without authorization and that they have taken disciplinary action.  Should the court uphold BusinessCorp's claims for termination and legal action against TechServe?",
+    "Legal Principles": "Breach of contract, Confidentiality agreements,  Trade secrets,  Misappropriation of confidential information,  Termination of contract,  Vicarious liability.",
+    "Relevant Sections": "Section 27 of the Indian Contract Act, Section 54 of the Indian Contract Act, Section 34 of the Arbitration Act,  The Information Technology Act, 2000, The Indian Penal Code, 1860",
+    "Context": "Jurisdiction: India, Case type: Contractual dispute involving breach of confidentiality"
+  },
+  {
+    "Query": "A real estate developer, 'Skyline Properties,' contracted with 'ConstructionCo' for the construction of a residential apartment complex. The contract had a clause for dispute resolution through arbitration.  A dispute arose between Skyline Properties and ConstructionCo regarding the quality of construction materials used in the project. Skyline Properties sought to initiate arbitration proceedings.  ConstructionCo argues that the dispute should be resolved through mediation first, as per an industry standard practice.  Should the court uphold ConstructionCo's request for mediation before arbitration?",
+    "Legal Principles": "Arbitration agreement,  Dispute resolution clauses,  Mediation,  Stay of legal proceedings,  Industry practices.",
+    "Relevant Sections": "Section 89 of the Code of Civil Procedure, 1908, Section 4 of the Arbitration and Conciliation Act, 1996",
+    "Context": "Jurisdiction: India, Case type: Arbitration enforcement"
+  },
+  {
+    "Query": "A social media influencer, 'Fashionista,' entered into a contract with 'BrandX' for product promotion. The contract stipulated a specific number of posts and a payment schedule.  BrandX claims that Fashionista failed to fulfill the agreed number of posts and that they have suffered financial losses due to the breach. Fashionista argues that her social media activity was hindered by unforeseen circumstances, such as a medical emergency, and that she is willing to make up for the missed posts.  Should the court uphold BrandX's claims for breach of contract and damages?",
+    "Legal Principles": "Breach of contract,  Mitigation of damages,  Force majeure clauses,  Termination of contract,  Material breach,  Performance of contract.",
+    "Relevant Sections": "Section 39 of the Indian Contract Act, Section 56 of the Indian Contract Act, Section 34 of the Arbitration Act",
+    "Context": "Jurisdiction: India, Case type: Contractual dispute involving influencer marketing"
+  }
+]
+```

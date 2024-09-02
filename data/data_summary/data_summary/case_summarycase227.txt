@@ -1,0 +1,87 @@
+## 1. Case Title
+
+•	Case Name: Hindustan Construction Company Limited vs. Vidharbha Irrigation Development Corporation
+•	Court: Bombay High Court (Original Side)
+•	Date of Judgment: 10 June, 2024
+•	Citation: 2024:BHC-OS:9025
+
+
+## 2. Background and Context
+
+•	**Brief Overview:** Hindustan Construction Company Limited (HCC) filed a commercial suit against Vidharbha Irrigation Development Corporation (VIDC) in the Bombay High Court.  VIDC, a government corporation responsible for irrigation projects in Vidharbha, failed to file a written statement within the stipulated time.  This led to the suit being transferred to the list of undefended suits. VIDC subsequently sought to condone the delay in filing their written statement.
+
+•	**Key Issues:** The main legal question presented in the case was whether VIDC's delay in filing the written statement could be condoned under the applicable legal framework, particularly in light of the Commercial Courts Act, 2015 (the "Commercial Courts Act").
+
+
+## 3. Legal Principles Involved
+
+•	**Relevant Statutes and Provisions:**
+    * Code of Civil Procedure, 1908 (CPC) 
+    * Order VIII, Rule 1 of CPC, as amended by the Commercial Courts Act, 2015
+    * Section 16 of the Commercial Courts Act, 2015
+    * Section 21 of the Commercial Courts Act, 2015
+    * Bombay High Court (Original Side) Rules, 1980
+    * Rule 91 and Rule 265 of the Bombay High Court Original Side Rules, 1980
+    * Letters Patent of the High Court of Bombay
+
+•	**Precedents Cited:**
+    * Iridium India Telecom Limited Bombay Vs. Motorola INC and anr. (2004 (1) Mh.L.J. 532, AIR 2005 SC 514) 
+    * SCG Contracts (India) Private Limited Vs. K.S. Chamankar Infrastructure Private Limited and ors. (2019) 12 Supreme Court Cases 210) 
+    * Kailash v. Nankhu and Others (2005) 4 SCC 480 
+
+•	**Legal Doctrines:**
+    * Special vs. General Law: The principle that special laws prevail over general laws.
+    * Non-Obstante Clause: Interpretation of "notwithstanding anything" provisions in statutes.
+    * Mandatory vs. Directory Provisions: Determining whether a provision is strictly required or merely a guideline.
+    * Retrospective Effect: How retrospective legislation applies to past actions.
+
+## 4. Arguments Presented
+
+•	**Plaintiff's Argument (HCC):** HCC argued that VIDC's delay was unjustified and beyond the permissible time limit. They relied on the amended provisions of Order VIII, Rule 1 of the CPC as introduced by the Commercial Courts Act. This provision mandated that the written statement must be filed within 120 days from the service of the summons, failing which the defendant forfeits the right to file the statement. They argued that the Commercial Courts Act was a special law that overrode the Bombay High Court Original Side Rules and the Letters Patent.
+
+•	**Defendant's Argument (VIDC):** VIDC argued that they were a government corporation with offices spread across Vidharbha and faced difficulties in collecting information and instructions. They claimed that their panel of lawyers in Mumbai was changed, leading to further delays. They relied on the decision in Iridium India Telecom Ltd. Vs. Motorola INC (supra), which held that the Bombay High Court Original Side Rules, governed by the Letters Patent, prevail over the CPC and allow the court to condone delays beyond the 90-day limit prescribed by Order VIII, Rule 1 of CPC (before the Commercial Courts Act amendment). They also argued that Rule 91 of the Bombay High Court (Original Side) Rules allowed for the filing of written statements beyond the time limit with the leave of the court.
+
+## 5. Court’s Analysis and Reasoning
+
+•	**Key Findings:** The court found that the Commercial Courts Act was a special statute intended to expedite the resolution of commercial disputes. It specifically held that the Commercial Courts Act superseded the Bombay High Court Original Side Rules and the Letters Patent in the context of commercial disputes. The court acknowledged that the decision in Iridium India Telecom Ltd. Vs. Motorola INC (supra) had dealt with the CPC before the amendments made by the Commercial Courts Act.
+
+•	**Interpretation of Law:** The court interpreted the amended provision of Order VIII, Rule 1 of the CPC as introduced by the Commercial Courts Act to be mandatory and not merely directory. It found that the 120-day limit for filing the written statement was a rigid deadline, and the court had no power to extend it further.
+
+•	**Application of Law:** The court applied the above interpretations to the facts of the case, concluding that VIDC's delay was far beyond the permitted 120 days. It ruled that the Commercial Courts Act had overriding effect over the Bombay High Court (Original Side) Rules and the Letters Patent, rendering Rule 91 and Rule 265 inapplicable.
+
+## 6. Judgment
+
+•	**Final Decision:** The court dismissed VIDC's Notice of Motion seeking to condone the delay in filing the written statement.
+
+•	**Relief Granted:** No relief was granted to VIDC.
+
+•	**Orders:** The court ordered the commercial suit to proceed as an undefended suit.
+
+
+## 7. Implications
+
+•	**Impact on Law:** The judgment reinforces the supremacy of the Commercial Courts Act, 2015 over other legislation in the context of commercial disputes. It clarifies the mandatory nature of the 120-day limit for filing written statements in commercial suits. 
+
+•	**Future Relevance:** This case serves as a precedent for future cases involving delays in filing written statements in commercial suits, emphasizing the strictness of the time limit under the Commercial Courts Act.
+
+•	**Broader Context:** The judgment reflects the legislative intent to streamline commercial litigation and ensure timely resolution of business disputes in India.
+
+## 8. Summary Points
+
+•	Commercial Courts Act, 2015 overrides the Bombay High Court (Original Side) Rules and the Letters Patent in commercial disputes.
+•	The 120-day limit for filing written statements in commercial suits is mandatory and cannot be extended.
+•	The court has no power to condone delays beyond 120 days in commercial suits.
+•	VIDC's delay in filing the written statement was beyond the permissible time limit, and the court dismissed their request for condonation.
+
+
+## 9. References
+
+•	**Citations:**
+    * Code of Civil Procedure, 1908 (5 of 1908)
+    * Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015 (Act 4 of 2016, as amended by Act 28 of 2018)
+    * Bombay High Court (Original Side) Rules, 1980
+    * Letters Patent of the High Court of Bombay
+
+•	**Further Reading:**
+    *  Law Commission of India Report 188 and 253rd report regarding the Commercial Courts Act.
+    *  World Bank's "Doing Business" Report regarding the dispute resolution environment in India.

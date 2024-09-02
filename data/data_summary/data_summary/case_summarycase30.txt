@@ -1,0 +1,74 @@
+## 1. Case Title
+
+* **Case Name:** U.P. State Road Transport Corporation ... vs Ram Murti Mishra
+* **Court:** Allahabad High Court
+* **Date of Judgment:** 7 July, 2021
+* **Citation:**  (Not provided in the text, would need to be accessed through official court records) 
+
+## 2. Background and Context
+
+* **Brief Overview:** The U.P. State Road Transport Corporation (petitioner) filed a writ petition to quash an order passed by the District Judge, Allahabad, transferring an arbitration case to the Commercial Court at Prayagraj. This transfer was requested by Ram Murti Mishra (respondent) after the establishment of Commercial Courts in accordance with the Commercial Courts Act, 2015.
+* **Key Issues:** 
+    * Whether the District Judge had jurisdiction to transfer the arbitration case to the Commercial Court. 
+    * Whether the Commercial Courts Act, 2015, mandates the transfer of pending arbitration cases to the newly established Commercial Courts.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * Arbitration and Conciliation Act, 1996 (Act, 1996)
+        * Section 34: Challenges to arbitration awards.
+    * Commercial Courts Act, 2015 (Act, 2015)
+        * Section 15: Transfer of pending cases.
+        * Section 15(2): Provisions for transferring suits and applications related to commercial disputes of specified value to Commercial Courts.
+* **Precedents Cited:** None explicitly mentioned in the text.
+* **Legal Doctrines:**
+    * Jurisdiction: The court's authority to hear and decide a case.
+    * Statutory Interpretation: The process of interpreting and applying legislation.
+
+## 4. Arguments Presented
+
+* **Plaintiff's Argument (U.P. State Road Transport Corporation):**
+    * The District Judge lacked jurisdiction to transfer the case because the Commercial Courts Act, 2015, didn't apply retroactively to cases already pending before the District Judge. 
+    * The petitioner asserted that the Commercial Courts Act, 2015, did not mandate the transfer of existing arbitration cases to the Commercial Courts.
+* **Defendant’s Argument (Ram Murti Mishra):**
+    * The Commercial Courts Act, 2015, was applicable to all cases pending before the District Judge, including the arbitration case, as it did not have any provision for retroactivity.
+    * The respondent argued that the Act, 2015, was a procedural law and therefore had a retrospective effect.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The Court found that the Commercial Courts Act, 2015, came into effect in 2015 and commercial courts were established after amendments effective from 03.05.2018.
+    * Section 15(2) of the Act, 2015, mandates the transfer of cases related to commercial disputes of specified value to the Commercial Courts, except those where a final judgment was reserved prior to the establishment of the Commercial Courts.
+* **Interpretation of Law:**
+    * The Court interpreted Section 15(2) of the Act, 2015, to mean that all cases, including pending ones, should be transferred to the Commercial Court, unless the final judgment was reserved before the establishment of the court.
+* **Application of Law:**
+    * The Court determined that the petitioner had not argued that the final judgment in the arbitration case was reserved before the establishment of the Commercial Court. Therefore, the District Judge had the jurisdiction to transfer the case to the Commercial Court.
+
+## 6. Judgment
+
+* **Final Decision:** The writ petition was dismissed.
+* **Relief Granted:** No relief was granted to the petitioner.
+* **Orders:** The impugned order of the District Judge was upheld.
+
+## 7. Implications
+
+* **Impact on Law:** This judgment reinforces the application of the Commercial Courts Act, 2015, to pending cases, even though it was enacted after the cases were initiated.
+* **Future Relevance:** This judgment provides precedent for future cases involving the transfer of pending arbitration cases to Commercial Courts established under the Act, 2015.
+* **Broader Context:** This judgment contributes to the development of commercial dispute resolution mechanisms within the Indian legal system.
+
+## 8. Summary Points
+
+* The petitioner sought to quash the order of the District Judge transferring an arbitration case to the Commercial Court. 
+* The petitioner argued that the District Judge lacked jurisdiction due to the retrospective application of the Commercial Courts Act, 2015.
+* The Court held that Section 15(2) of the Act, 2015, mandates the transfer of pending cases to the Commercial Court, except those where the final judgment was reserved before the establishment of the Commercial Court.
+* The Court found no grounds to interfere with the District Judge's order and dismissed the petition.
+
+## 9. References
+
+* **Citations:** 
+    * Arbitration and Conciliation Act, 1996 (Act, 1996)
+    * Commercial Courts Act, 2015 (Act, 2015)
+* **Further Reading:** 
+    *  *Commercial Courts Act, 2015*, as amended.
+    *  *Arbitration and Conciliation Act, 1996*.
+

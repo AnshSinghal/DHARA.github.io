@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A business dispute arises when a broker fails to pay the amount received from sales of goods to the supplier. The supplier sues the broker, but the broker argues that the suit is barred due to a lack of cause of action. The trial court dismisses the broker's application to reject the plaint. The broker seeks judicial review of the trial court's order.",
+    "Legal Principles": "The concept of cause of action in civil litigation, the requirements for a plaint to disclose a cause of action under Order VII Rule 11 CPC, the power of the court to reject a plaint, and the principles of judicial review of interlocutory orders.",
+    "Relevant Sections": "Order VII Rule 11 CPC, Article 227 of the Constitution of India, Section 8 of the Commercial Courts Act, 2015.",
+    "Context": "Civil litigation, commercial disputes, application for rejection of plaint, judicial review, jurisdiction of High Courts."
+  },
+  {
+    "Query": "A company files a commercial suit against its former employee, alleging breach of contract and misappropriation of funds. The employee argues that the suit is time-barred and seeks to have the plaint rejected on that basis. The trial court dismisses the employee's application, and the employee appeals to the High Court.",
+    "Legal Principles": "The principle of limitation in civil litigation, the concept of 'time-barred' claims, the applicable limitation period for breach of contract and misappropriation claims, the power of the court to reject a plaint on the ground of limitation.",
+    "Relevant Sections": "Order VII Rule 11 CPC, The Limitation Act, 1963, relevant sections pertaining to breach of contract and misappropriation.",
+    "Context": "Civil litigation, commercial disputes, breach of contract, misappropriation, application for rejection of plaint, limitation period, judicial review."
+  },
+  {
+    "Query": "A landlord files a suit for eviction against a tenant, alleging non-payment of rent. The tenant argues that the landlord has not provided adequate notice of termination of the tenancy agreement and seeks to have the suit dismissed. The trial court finds in favor of the landlord, and the tenant appeals to the High Court.",
+    "Legal Principles": "The law of landlord and tenant, the requirements for valid termination of a tenancy agreement, the provisions regarding notice periods in tenancy agreements, the power of the court to dismiss a suit for eviction.",
+    "Relevant Sections": "Relevant sections of the Transfer of Property Act, 1882, applicable provisions regarding tenancy agreements and notice requirements.",
+    "Context": "Civil litigation, landlord-tenant disputes, eviction suit, termination of tenancy agreement, notice period, judicial review."
+  },
+  {
+    "Query": "A bank files a suit against a borrower for recovery of loan amount. The borrower argues that the loan agreement was obtained through fraudulent misrepresentation and seeks to have the suit dismissed. The trial court dismisses the borrower's application, and the borrower appeals to the High Court.",
+    "Legal Principles": "The law of contracts, the concept of fraudulent misrepresentation, the elements of a valid contract, the principles of undue influence and coercion, the power of the court to dismiss a suit on grounds of fraud.",
+    "Relevant Sections": "The Indian Contract Act, 1872, relevant sections pertaining to fraud, misrepresentation, undue influence, and coercion.",
+    "Context": "Civil litigation, banking disputes, loan recovery suit, fraudulent misrepresentation, contract law, judicial review."
+  },
+  {
+    "Query": "A property owner files a suit for partition of a jointly owned property. The co-owner argues that the property is subject to a family settlement agreement that prohibits partition and seeks to have the suit dismissed. The trial court dismisses the co-owner's application, and the co-owner appeals to the High Court.",
+    "Legal Principles": "The law of partition, the concept of family settlement agreements, the enforceability of family settlement agreements, the principles of estoppel and res judicata, the power of the court to dismiss a partition suit.",
+    "Relevant Sections": "The Transfer of Property Act, 1882, relevant sections pertaining to partition, family settlements, estoppel, and res judicata.",
+    "Context": "Civil litigation, property disputes, partition suit, family settlement agreements, enforceability of agreements, judicial review."
+  },
+  {
+    "Query": "A wife files a divorce petition against her husband, alleging cruelty and desertion. The husband argues that the wife's allegations are false and seeks to have the petition dismissed. The family court dismisses the husband's application, and the husband appeals to the High Court.",
+    "Legal Principles": "The law of divorce, the grounds for divorce under the Hindu Marriage Act, 1955, the concept of cruelty and desertion, the principles of burden of proof and evidence, the power of the court to dismiss a divorce petition.",
+    "Relevant Sections": "The Hindu Marriage Act, 1955, relevant sections pertaining to divorce, cruelty, desertion, and burden of proof.",
+    "Context": "Family law, divorce proceedings, grounds for divorce, cruelty, desertion, burden of proof, judicial review."
+  },
+  {
+    "Query": "A company files a suit for infringement of its trademark against another company. The defendant argues that the plaintiff's trademark is not valid and seeks to have the suit dismissed. The trial court dismisses the defendant's application, and the defendant appeals to the High Court.",
+    "Legal Principles": "The law of trademarks, the requirements for a valid trademark, the principles of trademark infringement, the concept of passing off, the power of the court to dismiss an infringement suit.",
+    "Relevant Sections": "The Trade Marks Act, 1999, relevant sections pertaining to trademark registration, infringement, and passing off.",
+    "Context": "Intellectual property law, trademark disputes, infringement suit, validity of trademark, judicial review."
+  },
+  {
+    "Query": "A person files a claim for compensation for injuries suffered in a road accident. The defendant, the driver of the vehicle, argues that the plaintiff was negligent and contributed to the accident. The trial court dismisses the defendant's application to reject the claim, and the defendant appeals to the High Court.",
+    "Legal Principles": "The law of torts, the concept of negligence, the principle of contributory negligence, the burden of proof in negligence claims, the power of the court to dismiss a claim for compensation.",
+    "Relevant Sections": "Relevant sections of the Motor Vehicles Act, 1988, the Indian Contract Act, 1872, relevant provisions regarding negligence and contributory negligence.",
+    "Context": "Torts law, personal injury claims, road accidents, negligence, contributory negligence, burden of proof, judicial review."
+  },
+  {
+    "Query": "A company files a winding-up petition against another company. The respondent company argues that the petition is premature and seeks to have it dismissed. The court dismisses the respondent's application, and the respondent appeals to the High Court.",
+    "Legal Principles": "The Companies Act, 2013, the grounds for winding up a company, the concept of a premature winding-up petition, the power of the court to dismiss a winding-up petition.",
+    "Relevant Sections": "The Companies Act, 2013, relevant sections pertaining to winding up petitions, grounds for winding up, and premature petitions.",
+    "Context": "Corporate law, company winding up, winding-up petitions, grounds for winding up, judicial review."
+  },
+  {
+    "Query": "A tenant files a suit for injunction against the landlord, seeking to prevent the landlord from evicting the tenant. The landlord argues that the tenancy agreement has expired and the tenant is unlawfully occupying the premises. The trial court grants the injunction, and the landlord appeals to the High Court.",
+    "Legal Principles": "The law of injunctions, the grounds for granting an injunction, the principles of balance of convenience and irreparable harm, the power of the court to grant or refuse an injunction.",
+    "Relevant Sections": "The Code of Civil Procedure, 1908, relevant sections pertaining to injunctions, balance of convenience, irreparable harm.",
+    "Context": "Civil litigation, landlord-tenant disputes, injunction suit, eviction, tenancy agreement, balance of convenience, judicial review."
+  }
+]
+```

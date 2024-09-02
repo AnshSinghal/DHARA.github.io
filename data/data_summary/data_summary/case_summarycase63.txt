@@ -1,0 +1,84 @@
+##  Case Summary: Rajasthan State Mines And Minerals Ltd. vs Ankur Minmine Product Pvt. Ltd.
+
+**1. Case Title**
+
+* **Case Name:** Rajasthan State Mines And Minerals Ltd. vs Ankur Minmine Product Pvt. Ltd.
+* **Court:** Rajasthan High Court, Jodhpur
+* **Date of Judgment:** 7 March, 2019
+* **Citation:** S.B. Civil Writ No. 920/2019 & 939/2019 
+
+**2. Background and Context**
+
+* **Brief Overview:** This case involved two petitions filed by Rajasthan State Mines And Minerals Ltd. (RSMML) challenging interlocutory orders passed by a Commercial Court in Udaipur. The petitions raised the question of whether a writ petition under Article 227 of the Constitution of India could be entertained against such orders, considering the restrictions imposed by Section 8 of the Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015 (hereinafter referred to as "the Act of 2015"). 
+* **Key Issues:**
+    * Whether a writ petition under Article 227 of the Constitution can be filed against an interlocutory order of a Commercial Court despite the bar imposed by Section 8 of the Act of 2015.
+    * Whether such a writ petition should be heard by a Single Bench or a Division Bench of the High Court. 
+
+**3. Legal Principles Involved**
+
+* **Relevant Statutes and Provisions:**
+    * Article 227 of the Constitution of India: Provides the High Courts with the power of superintendence over all courts and tribunals within their jurisdiction.
+    * Section 8 of the Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015: Bars the filing of revision applications or petitions against interlocutory orders passed by Commercial Courts.
+    * Section 13 of the Act of 2015: Provides for appeals against the decisions of Commercial Courts and Commercial Divisions of High Courts to the Commercial Appellate Division.
+    * Order XLIII Rule 1 of the Code of Civil Procedure, 1908: Outlines the conditions for filing appeals against orders passed by lower courts.
+* **Precedents Cited:**
+    * State of Gujarat Vs. Union of India (2018):  A Division Bench judgment of the Gujarat High Court holding that writ petitions under Article 227 are maintainable against interlocutory orders of Commercial Courts.
+    * Shri Balaji Industrial Products Vs. Aia Engineering Ltd & Ors. (2018): A Division Bench judgment of the Rajasthan High Court holding that writ petitions under Article 227 are maintainable against interlocutory orders of Commercial Courts.
+    * L. Chandra Kumar v. Union of India And Others (1997): Supreme Court judgment upholding the power of High Courts to exercise supervisory jurisdiction under Article 227 even when a specific statutory appeal provision exists.
+* **Legal Doctrines:**
+    * **Judicial Superintendence:** The power of the High Courts to oversee the functioning of subordinate courts and ensure adherence to law.
+    * **Basic Structure Doctrine:** The principle that certain fundamental features of the Constitution cannot be altered by legislation.
+    * **Interpretation of Statutes:** The principles used by courts to interpret the meaning and scope of statutory provisions.
+
+**4. Arguments Presented**
+
+* **Petitioner's Argument:** RSMML argued that Section 8 of the Act of 2015 does not bar writ petitions under Article 227 of the Constitution. They contended that the power of judicial superintendence under Article 227 is a fundamental aspect of the Constitution and cannot be curtailed by statute.
+* **Respondent's Argument:** Ankur Minmine Product Pvt. Ltd. argued that writ petitions under Article 227 are not maintainable against interlocutory orders of Commercial Courts due to the provisions of Section 8. They relied on the wording of Section 8, which uses the phrase "no civil revision application or petition shall be entertained," suggesting a complete bar.
+
+**5. Court's Analysis and Reasoning**
+
+* **Key Findings:**
+    * The Court noted that the powers of the High Court under Article 227 are unfettered and cannot be curtailed by any statutory provisions, citing the Supreme Court judgment in L. Chandra Kumar vs. Union of India And Others.
+    * The Court recognized the judgment of the Gujarat High Court and its own previous judgment in Shri Balaji Industrial Products as precedents supporting the maintainability of writ petitions under Article 227 against interlocutory orders of Commercial Courts.
+    * However, the Court acknowledged the need to exercise these powers sparingly and in exceptional cases, given the intent of Section 8 to expedite commercial disputes.
+* **Interpretation of Law:**
+    * The Court interpreted Section 8 of the Act of 2015 as barring only revision applications and petitions, not writ petitions under Article 227.
+    * The Court emphasized that the word "entertained" in Section 8 did not necessarily indicate a complete bar but a discretion for the court to consider the matter.
+* **Application of Law:**
+    * The Court applied the principles of judicial superintendence and the basic structure doctrine to hold that Article 227 of the Constitution cannot be overridden by Section 8 of the Act of 2015.
+    * The Court emphasized that even though Article 227 is maintainable, it should be exercised sparingly and only in cases where exceptional circumstances warrant its application.
+
+**6. Judgment**
+
+* **Final Decision:** The Court held that the writ petitions under Article 227 of the Constitution of India are maintainable against interlocutory orders passed by Commercial Courts, despite the provisions of Section 8 of the Act of 2015.
+* **Relief Granted:** The petitions were allowed to proceed.
+* **Orders:**
+    * The matter was listed for further hearing on 14th March 2019.
+    * The Registrar (Judicial) was instructed to seek clarification from the Hon'ble Chief Justice regarding the appropriate bench for hearing such writ petitions.
+
+**7. Implications**
+
+* **Impact on Law:** The judgment clarifies that Section 8 of the Act of 2015 does not bar writ petitions under Article 227 of the Constitution, upholding the power of judicial superintendence of the High Courts.
+* **Future Relevance:** The judgment establishes a precedent for future cases involving challenges to interlocutory orders of Commercial Courts, particularly where issues of jurisdiction or manifest injustice are raised.
+* **Broader Context:** The judgment reaffirms the importance of the judicial review mechanism and the power of High Courts to ensure the proper functioning of subordinate courts and uphold the rule of law.
+
+**8. Summary Points**
+
+* Writ petitions under Article 227 of the Constitution are maintainable against interlocutory orders of Commercial Courts.
+* Section 8 of the Act of 2015 does not bar the exercise of this power.
+* Such petitions should be filed sparingly and only in exceptional cases, where a need for judicial superintendence is established.
+* The appropriate bench for hearing such petitions is to be determined by the Chief Justice.
+
+**9. References**
+
+* **Article 227 of the Constitution of India**
+* **Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015**
+* **State of Gujarat Vs. Union of India (2018)**
+* **Shri Balaji Industrial Products Vs. Aia Engineering Ltd & Ors. (2018)**
+* **L. Chandra Kumar v. Union of India And Others (1997)**
+
+**Further Reading:**
+
+* **The Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015**
+* **Article 227 of the Constitution of India**
+* **Cases relating to judicial superintendence and Article 227**

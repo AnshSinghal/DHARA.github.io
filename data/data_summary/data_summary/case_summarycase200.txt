@@ -1,0 +1,114 @@
+## Case Title
+
+• **Case Name:** Dish TV India Ltd vs Gulf DTH FZ LLC & Ors
+• **Court:** Delhi High Court
+• **Date of Judgment:** 18th July 2024
+• **Citation:**  FAO(OS) 26/2019 & CM APPL. 34384/2016
+
+## Background and Context
+
+• **Brief Overview:** This case revolves around a dispute between Dish TV India Ltd (Dish TV), an Indian DTH service provider, and Gulf DTH FZ LLC (Gulf DTH), a Dubai-based DTH platform operating in the Middle East and North African region (OSN territory). Gulf DTH claimed to hold exclusive rights to transmit certain television channels in the OSN territory, alleging that Dish TV was illegally distributing its services there.
+• **Key Issues:** 
+    - Maintainability of the appeal against the order closing Dish TV's right to file a written statement. 
+    - Whether the suit should be considered a 'commercial dispute' under the Commercial Courts Act, 2015.
+    - Whether the time limit for filing a written statement under the Commercial Courts Act applied in this case. 
+
+## Legal Principles Involved
+
+• **Relevant Statutes and Provisions:**
+    - Code of Civil Procedure, 1908 (CPC) 
+        - Order VII Rules 10 and 11 (Rejection of Plaint)
+        - Order VIII Rule 1 (Written Statement)
+        - Order XXXIX Rules 1 and 2 (Injunction)
+        - Order XLVII Rule 1 (Review of Order)
+    - Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015 (Commercial Courts Act)
+        - Section 2(c) (Definition of 'Commercial Dispute')
+        - Section 13 (Appeals from Commercial Courts and Divisions)
+        - Section 15 (Transfer of Pending Cases)
+    - Delhi High Court Act, 1966
+        - Section 10 (Appellate Jurisdiction)
+• **Precedents Cited:**
+    - Shah Babulal Khimji v. Jayaben D. Kania & Anr., (1981) 4 SCC 8
+    - Jaswinder Singh v. Mrigendra Pritam Vikram Singh Steiner, 2013 (133) DRJ 1 (FB)
+    - Nirman Consultants Pvt. Ltd v. NNE Ltd., (2019) SCC Online Del 110088
+    - Raj Process Equipments and Systems Pvt. Ltd. v. Honest Derivatives Pvt. Ltd., (2022) SCC OnLine SC 1877
+    - SCG Contracts India Pvt. Ltd. v. K.S. Chamankar Infrastructure Pvt. Ltd. and others, 2019 SCC Online SC 226
+    - Reliance General Insurance Co. Ltd. v. Colonial Life Insurance Company Ltd. & Ors. MANU/MH/3745/2021
+    - Salem Advocate Bar Association v. Union of India, (2005) 6 SCC 344
+    - Brahmos Aerospace Pvt. Ltd. v. FIIT JEE Ltd & Anr., (2019) 7 PTC 667 (DB)
+    - HPL (India) Limited and others v. QRG Enterprises and another, (2017) 238 DLT 123 (DB)
+• **Legal Doctrines:** 
+    - Res judicata (things decided): A legal doctrine preventing relitigation of the same issue. 
+    - Jurisdiction: The authority of a court to hear a case.
+    - Discretionary Power: The power of a court to make decisions based on its own judgment.
+
+## Arguments Presented
+
+• **Appellant's (Dish TV) Argument:**
+    - The suit was initially an ordinary civil suit, only becoming a 'commercial suit' after the impugned order. Therefore, the appeal is maintainable under the Delhi High Court Act, 1966.
+    - Section 13 of the Commercial Courts Act doesn't apply as the order was passed before the suit was converted into a commercial suit.
+    - The impugned order affects Dish TV's right to defend the case, making it a 'judgment' under the Supreme Court precedent of Shah Babulal Khimji.
+    - The time limit of 120 days for filing a written statement under the Commercial Courts Act shouldn't apply as the suit wasn't transferred to a commercial court within that timeframe. 
+    - Proviso to Section 15(4) of the Commercial Courts Act, which allows the court to prescribe new time limits for filing a written statement in transferred suits, gives discretion to the court.
+    - The 120-day limit under Order V Rule 1(1) of the CPC is directory, not mandatory, especially in cases of pending suits.
+• **Respondent's (Gulf DTH) Argument:**
+    - The dispute is a 'commercial dispute' under the Commercial Courts Act, making the appeal subject to Section 13, which restricts appeals from Commercial Division orders.
+    - Section 13 of the Commercial Courts Act overrides the Delhi High Court Act.
+    - The impugned order doesn't affect any valuable right of Dish TV and doesn't finally decide the dispute. 
+    - The legislature intended the Commercial Courts Act to apply to pending suits after transfer to the Commercial Division.
+    - The Single Judge exercised its discretion under Section 15(4) of the Commercial Courts Act by not extending the time limit for Dish TV to file a written statement.
+
+## Court's Analysis and Reasoning
+
+• **Key Findings:**
+    - The court recognized the dispute as a 'commercial dispute' under Section 2(c) of the Commercial Courts Act.
+    - The suit was filed as an ordinary civil suit and only became a commercial suit after the impugned order was passed. 
+    - The court emphasized that the provisions of the Commercial Courts Act, including the 120-day time limit for written statements, only applied after a pending suit was transferred to the Commercial Division.
+    - The impugned order closing the right to file a written statement was considered a 'judgment' under the Shah Babulal Khimji case as it affected a valuable right of the appellant to defend the suit.
+• **Interpretation of Law:**
+    - The court interpreted Section 13 of the Commercial Courts Act as only applying to appeals from orders passed after a suit is converted to a commercial suit.
+    - The court applied the principle of discretion outlined in the Reliance General Insurance case, holding that the court could prescribe new time limits for filing written statements in transferred suits.
+    - The court interpreted the provisions of the Commercial Courts Act as not retroactively applying to suits filed before the constitution of the Commercial Division.
+• **Application of Law:**
+    - The court ruled that the appeal was maintainable under Section 10(1) of the Delhi High Court Act, 1966, as the impugned order was passed before the suit was converted to a commercial suit.
+    - The court applied the ratio of the Raj Process Equipments case, concluding that the 120-day time limit for filing a written statement did not apply because the suit was not transferred to a commercial court within that timeframe.
+    - The court determined that the Single Judge should have exercised its discretion under Section 15(4) of the Commercial Courts Act to prescribe a new time limit for filing a written statement after the suit was renumbered as a commercial suit.
+
+## Judgment
+
+• **Final Decision:** The appeal was allowed.
+• **Relief Granted:** The impugned order was set aside. Dish TV was allowed to file its written statement, and the suit was to proceed from that stage.
+• **Orders:** The court directed the Registry to take the written statement filed by Dish TV on record.
+
+## Implications
+
+• **Impact on Law:**
+    - The judgment clarifies the application of the Commercial Courts Act in cases where suits are filed as ordinary civil suits but subsequently converted to commercial suits. 
+    - It emphasizes the discretionary power of courts to prescribe new time limits for filing written statements in transferred suits under Section 15(4) of the Commercial Courts Act.
+• **Future Relevance:**
+    - The judgment sets a precedent for future cases involving similar situations where suits are pending before the constitution of the Commercial Division.
+    - It underscores the need for clarity in determining the applicability of the Commercial Courts Act to pending suits based on their conversion to commercial suits.
+• **Broader Context:**
+    - The case highlights the ongoing process of adapting to the Commercial Courts Act and its impact on civil litigation practices.
+    - It reflects the importance of ensuring fairness and procedural justice for all parties in commercial disputes.
+
+## Summary Points
+
+• **Key Takeaways:**
+    - The Commercial Courts Act applies to a suit only after it is transferred to the Commercial Division. 
+    - Orders passed before a suit is converted to a commercial suit are not subject to the restrictions under Section 13 of the Commercial Courts Act.
+    - The court has discretion to prescribe new time limits for filing written statements in transferred suits.
+    - The 120-day time limit for filing a written statement under the Commercial Courts Act applies from the date of transfer to the Commercial Division, not from the date of filing the suit.
+
+## References
+
+• **Citations:** 
+    - Code of Civil Procedure, 1908 (5 of 1908)
+    - Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015 (18 of 2015)
+    - Delhi High Court Act, 1966 (3 of 1966)
+    - All cited cases as mentioned above.
+
+• **Further Reading:**
+    -  The Commercial Courts Act, 2015 
+    -  Code of Civil Procedure, 1908 
+    -  Relevant legal commentaries and articles on commercial litigation in India. 

@@ -1,0 +1,95 @@
+##  Rubinetterie Bresciane Bonomi SpA vs. M/S. Lehry Instrumentation & Valves Pvt. Ltd. 
+
+**1. Case Title**
+
+* **Case Name:** Rubinetterie Bresciane Bonomi SpA vs. M/S. Lehry Instrumentation & Valves Pvt. Ltd.
+* **Court:** Madras High Court
+* **Date of Judgment:** 31st January 2019
+* **Citation:** AIRONLINE 2019 MAD 2456
+
+**2. Background and Context**
+
+* **Brief Overview:** Rubinetterie Bresciane Bonomi SpA (Appellant), an Italian company manufacturing brass valves, sued M/S. Lehry Instrumentation & Valves Pvt. Ltd. (Respondent) for passing off its products as genuine. The Respondent was previously a distributor for the Appellant but was terminated for allegedly selling counterfeit goods. The Respondent counter-sued the Appellant for wrongful termination and damages.
+* **Key Issues:** The main issue in this case was the maintainability of the Appellant's appeal against two orders passed by the Madras High Court. The first order dismissed the Appellant's application for belated production of documents, and the second order eschewed the evidence of the Appellant's witness (P.W.3) on the ground that it was an attempt to circumvent the effect of the first order. 
+
+**3. Legal Principles Involved**
+
+* **Relevant Statutes and Provisions:**
+    * Commercial Courts Act, 2015 (CCA): Sections 13, 15, 21.
+    * Code of Civil Procedure, 1908: Order VII Rule 14(3), Order XLIII Rule 1.
+    * Letters Patent of the Madras High Court: Clause 15.
+* **Precedents Cited:**
+    * Ganga Bai Vs. Vijay Kumar [AIR 1974 SC 1126]
+    * Garikapati Vs. Subbiah Choudhry & Other [AIR 1957 SC 540]
+    * Shiv Shakti Coop. Housing Society, Nagpur Vs Swaraj Developers & Others [(2003) 6 SCC 668]
+    * Mukund Deo (Dead) represented by his Lrs Vs. Mahadu & Others [AIR 1965 SC 703]
+    * State of Bombay Vs Supreme General Films Exchange Ltd., [AIR 1960 SC 980]
+    * Radhakisan Laxminarayan Toshnival Vs Shridhar Ramchandra Alshi & Others [AIR 1950 Nagpur 177 (FB)]
+    * Kandla Export Corporation & another Vs M/s.OCI Corporation & another [2018-4-LW 240]
+    * HPL(India) Ltd., & Others Vs QRG Enterprises & Another [2017 SCC OnLine Del 6955 : (2017)238 DLT 123(DB)]
+    * K. Eapen Chako Vs The Provident Investment Company (P) Ltd., [AIR 1976 SC 2610]
+    * Shah Babulal Khimji Vs.Jayaben D.Kania and Another [(1981)4 SCC 8]
+    * Midnapore Peoples' Co-operative Bank Ltd.. & Others Vs. Chunilal Nanda & Others [(2006) 5 SCC 399]
+    * H.V.Thakur & Others Vs. State of Maharashtra & Others [AIR 1994 SC 2623]
+    * Shyam Sundar and Others Vs. Ram Kumar and another [AIR 1972 SC 2472]
+    * Vijay V State of Maharashtra [(2006)6 SCC 289]
+* **Legal Doctrines:**
+    * "Ubi jus ibi remedium" (where there is a right, there is a remedy)
+    * Retrospective operation of statutes
+    * Vested rights 
+    * Interpretation of procedural vs. substantive law
+    * Finality of judgments under Letters Patent
+
+**4. Arguments Presented**
+
+* **Appellant’s Argument:**
+    * The Appellant argued that the right to appeal is a vested right that accrues to a party upon the institution of the suit.
+    * The Appellant claimed that the Commercial Courts Act, 2015, does not affect the right of appeal available under the Letters Patent of the Madras High Court for suits pending before its enactment.
+    * The Appellant contended that the orders in question, while procedural, ultimately affect its ability to effectively participate in the trial and, therefore, constitute judgments appealable under the Letters Patent.
+* **Respondent’s Argument:**
+    * The Respondent argued that the appeals were not maintainable under the Commercial Courts Act, 2015.
+    * The Respondent contended that the orders passed by the Single Judge were not appealable under Order XLIII Rule 1 of the Code of Civil Procedure.
+    * The Respondent relied on the precedent of HPL (India) Ltd. case to argue that the right of appeal under the Letters Patent had been superseded by the provisions of the Commercial Courts Act, 2015.
+
+**5. Court’s Analysis and Reasoning**
+
+* **Key Findings:** 
+    * The Court found that the right of appeal is a substantive right that vests in a litigant on the date of institution of the suit and cannot be taken away retrospectively by a subsequent statute.
+    * The Court interpreted the Commercial Courts Act, 2015, as not affecting the right of appeal under the Letters Patent for suits pending on its commencement date.
+    * The Court held that the orders in question, while procedural, did not constitute "judgments" within the meaning of Clause 15 of the Letters Patent.
+* **Interpretation of Law:**
+    * The Court analyzed the relevant sections of the Commercial Courts Act, 2015, and held that the Act did not expressly or impliedly take away the right of appeal under the Letters Patent.
+    * The Court interpreted the phrase "procedure not completed" in Section 15(3) of the Act to refer only to the procedural steps necessary to complete the suit, not the right of appeal.
+    * The Court clarified that the scope of "judgments" under Clause 15 of the Letters Patent is broader than the definition of "judgment" under the Code of Civil Procedure and encompasses orders that have a final effect on a party's substantive rights.
+* **Application of Law:**
+    * The Court applied the established principles regarding the retrospective effect of statutes and the vested nature of the right to appeal.
+    * The Court applied the criteria laid down in Shah Babulal Khimji vs. Jayaben D.Kania and Another to determine whether the orders in question qualified as "judgments" under Clause 15 of the Letters Patent.
+
+**6. Judgment**
+
+* **Final Decision:** The Court dismissed both appeals.
+* **Relief Granted:** No relief was granted.
+* **Orders:** 
+    * The Court dismissed the appeal in OSA No. 252 of 2018.
+    * The Court dismissed the appeal in OSA SR. 33496 of 2018 and refused to condone the delay in filing the appeal.
+
+**7. Implications**
+
+* **Impact on Law:** This judgment clarifies the interplay between the Commercial Courts Act, 2015, and the Letters Patent of the Madras High Court. It upholds the right of appeal as a vested right, even in the face of procedural changes brought about by subsequent legislation.
+* **Future Relevance:** The judgment may serve as a precedent for similar cases involving the application of the Commercial Courts Act, 2015, to pending suits.
+* **Broader Context:** This case underscores the importance of maintaining a balance between procedural efficiency and the protection of substantive rights in the judicial process.
+
+**8. Summary Points**
+
+* The right to appeal is a vested right that cannot be taken away retrospectively by a subsequent statute.
+* The Commercial Courts Act, 2015, does not affect the right of appeal under the Letters Patent for suits pending on its commencement date.
+* Orders passed by a Court, even if procedural in nature, are only appealable as "judgments" under Clause 15 of the Letters Patent if they have a final effect on a party's substantive rights.
+
+**9. References**
+
+* All citations for statutes, precedents, and legal texts are mentioned in the body of the summary.
+
+**Further Reading:**
+
+* For a deeper understanding of the concept of vested rights, consult legal texts on the interpretation of statutes and constitutional law.
+* For further research on the applicability of the Commercial Courts Act, 2015, to pending suits, review case law on similar issues.

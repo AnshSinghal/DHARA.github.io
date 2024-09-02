@@ -1,0 +1,87 @@
+## 1. Case Title
+
+* **Case Name:** M/s. Mold Tek Packing Pvt. Ltd. vs. S.D. Containers
+* **Court:** Madhya Pradesh High Court Bench at Indore
+* **Date of Judgment:** 27th February, 2021
+* **Citation:** AIRONLINE 2021 MP 272
+
+## 2. Background and Context
+
+* **Brief Overview:** This case involved a dispute regarding the jurisdiction of the appropriate court to hear a civil suit stemming from a design infringement claim. The suit was transferred to the Indore Bench of the Madhya Pradesh High Court by the Supreme Court in a previous ruling. 
+* **Key Issues:** The main legal question presented was whether the suit should be decided by a Single Bench/Commercial Division or a Division Bench/Commercial Appellate Division of the High Court. 
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * **Commercial Courts Act, 2015:** Sections 3, 3A, 4, 5, 7, 13, 21.
+    * **Designs Act, 2000:** Section 22(4)
+    * **High Court of Madhya Pradesh Rules, 2008:** Chapter IV, Rules 1(8) and 22.
+    * **Letters Patent of the High Court:** Clause 9.
+* **Precedents Cited:**
+    * **Union Carbide Corporation Vs. Union of India and others (1988 MPLJ 435)** – Regarding the High Court's extraordinary original jurisdiction.
+* **Legal Doctrines:**
+    * **Jurisdiction of Courts:** Determination of the appropriate court to hear a case.
+    * **Original Jurisdiction:** The power of a court to hear a case for the first time.
+    * **Appellate Jurisdiction:** The power of a court to review the decisions of lower courts.
+    * **Extraordinary Original Jurisdiction:** The power of a High Court to hear cases outside its ordinary jurisdiction in certain circumstances.
+    * **Overriding Effect:** The concept of a statute superseding other conflicting laws.
+
+## 4. Arguments Presented
+
+* **Plaintiff’s Argument:**
+    * Argued that the suit should be tried and decided by the Commercial Appellate Division of the High Court. 
+    * Relied on the scheme of the Commercial Courts Act, 2015, emphasizing the hierarchical structure of commercial courts (District level, Commercial Division, and Commercial Appellate Division).
+    * Contended that the Madhya Pradesh High Court does not have original civil jurisdiction, thus making the Commercial Appellate Division the appropriate forum.
+* **Defendant’s Argument:**
+    * Contended that the jurisdiction lies with the Commercial Division of the High Court.
+    * Relied on Section 22(4) of the Designs Act, 2000, and Chapter-IV Rule 1(8) of the High Court Rules, 2008, arguing for a Single Bench/Commercial Division trial.
+    * Emphasized the need to preserve the right of appeal by ensuring the suit is heard by a court capable of being appealed to the Commercial Appellate Division.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:** 
+    * The Madhya Pradesh High Court does not exercise ordinary original civil jurisdiction.
+    * No Commercial Division has been constituted in the Madhya Pradesh High Court as per the Commercial Courts Act, 2015.
+    * The Commercial Appellate Division only has appellate jurisdiction and cannot hear original suits.
+* **Interpretation of Law:**
+    * The court interpreted the relevant provisions of the Commercial Courts Act, 2015, and the Designs Act, 2000, along with the High Court Rules and the Letters Patent, to determine the correct jurisdiction.
+    * It found that the second proviso to Section 7 of the Commercial Courts Act, 2015, was not applicable since no Commercial Division existed in the High Court.
+    * The court also clarified that the Commercial Appellate Division could only hear appeals and not original suits.
+* **Application of Law:** 
+    * The court concluded that the suit could only be tried by invoking the High Court's extraordinary original jurisdiction, as provided by Clause 9 of the Letters Patent.
+    * It considered the previous judgment in **Union Carbide Corporation Vs. Union of India and others**, which established the High Court's power to exercise extraordinary original jurisdiction "for the purpose of justice."
+
+## 6. Judgment
+
+* **Final Decision:** The suit was directed to be tried by a Single Bench of the Madhya Pradesh High Court, Indore Bench, exercising its extraordinary original jurisdiction.
+* **Relief Granted:**  No specific relief was granted at this stage as the judgment only addressed the jurisdictional issue.
+* **Orders:** The Registry was directed to list the matter before an appropriate Single Bench of the High Court.
+
+## 7. Implications
+
+* **Impact on Law:** The judgment provides a clear interpretation of the relevant statutory provisions and clarifies the jurisdictional framework for suits involving design infringements in the Madhya Pradesh High Court.
+* **Future Relevance:** This case serves as a precedent for future cases involving similar jurisdictional disputes, especially in courts without ordinary original civil jurisdiction. 
+* **Broader Context:** The judgment highlights the importance of considering the specific provisions of the Commercial Courts Act, 2015, in relation to different High Courts, and the potential for utilizing extraordinary original jurisdiction to ensure justice in unique circumstances.
+
+## 8. Summary Points
+
+* The case involved a jurisdictional dispute concerning a design infringement claim.
+* The Madhya Pradesh High Court does not have ordinary original civil jurisdiction, meaning neither the Commercial Division nor the Commercial Appellate Division could hear the case.
+* The court utilized the High Court's extraordinary original jurisdiction under Clause 9 of the Letters Patent to determine the appropriate court to try the suit.
+* The judgment directed the matter to be heard by a Single Bench of the High Court, Indore Bench.
+
+## 9. References
+
+* **Commercial Courts Act, 2015**
+* **Designs Act, 2000**
+* **High Court of Madhya Pradesh Rules, 2008**
+* **Letters Patent of the High Court**
+* **Union Carbide Corporation Vs. Union of India and others (1988 MPLJ 435)** 
+
+## Further Reading:
+
+* **Commercial Courts Act, 2015**
+* **Designs Act, 2000**
+* **High Court of Madhya Pradesh Rules, 2008**
+* **Letters Patent of the High Court**
+* **Other cases dealing with jurisdictional disputes and extraordinary original jurisdiction.** 

@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A landlord is seeking to evict a tenant who claims to have a valid lease agreement that has not been registered. The tenant has filed a separate lawsuit for specific performance to compel the landlord to register the lease. Can the landlord obtain summary judgment for eviction, or should the matter proceed to trial?",
+    "Legal Principles": "Order XIII-A of the CPC, as amended by the Commercial Courts Act, provides for summary judgment in commercial disputes. The court may grant summary judgment if it finds that the plaintiff has no real prospect of succeeding or the defendant has no real prospect of successfully defending the claim. However, the court must consider all relevant facts and circumstances, including the existence of other pending litigation and the admissibility of unregistered documents.",
+    "Relevant Sections": "Order XIII-A of the CPC, Section 49 of the Registration Act, 1908",
+    "Context": "Commercial dispute, eviction, specific performance, unregistered lease agreement"
+  },
+  {
+    "Query": "A tenant is facing eviction for non-payment of rent. The tenant claims that the landlord violated the lease agreement by failing to provide certain services as agreed upon. Can the tenant use this as a defense to the eviction action?",
+    "Legal Principles": "A tenant may have a defense to an eviction action if the landlord breaches the lease agreement. The tenant must demonstrate that the landlord's breach is material and that it justifies withholding rent or terminating the lease.",
+    "Relevant Sections": "Lease agreement, covenant of quiet enjoyment, material breach",
+    "Context": "Eviction, breach of lease, landlord-tenant dispute"
+  },
+  {
+    "Query": "A landlord claims to have terminated a month-to-month lease by sending a notice to vacate. The tenant argues that the notice was not properly served. What are the requirements for valid service of a notice to vacate?",
+    "Legal Principles": "Proper service of a notice to vacate is essential for its effectiveness. The method of service must comply with the applicable law and the lease agreement.  Methods may include personal service, certified mail, or other methods specified by statute or lease.",
+    "Relevant Sections": "Lease agreement, statutory provisions on service of process, notice to vacate",
+    "Context": "Eviction, termination of lease, service of process"
+  },
+  {
+    "Query": "A landlord is seeking possession of a commercial property, claiming the tenant violated the lease by subleasing without permission. The tenant argues that the sublease was allowed under the lease agreement. How does the court determine the enforceability of a sublease clause in a commercial lease?",
+    "Legal Principles": "Lease agreements typically contain clauses governing subleasing. Courts will interpret such clauses according to their plain meaning and the intent of the parties.  Factors such as the nature of the business, the terms of the sublease, and any prior conduct of the parties can be considered.",
+    "Relevant Sections": "Lease agreement, sublease clause, interpretation of contracts",
+    "Context": "Commercial lease, sublease, landlord-tenant dispute"
+  },
+  {
+    "Query": "A tenant is facing eviction for engaging in illegal activities on the property. The tenant claims that the landlord was aware of the activities and did not take action to stop them. Can the tenant use this as a defense to the eviction?",
+    "Legal Principles": "Landlords have a duty to maintain the property in a safe and lawful manner. If a landlord has knowledge of illegal activities on the property and fails to take reasonable steps to stop them, they may be estopped from evicting the tenant based on those activities.",
+    "Relevant Sections": "Lease agreement, landlord's duty to maintain property, estoppel",
+    "Context": "Eviction, illegal activity, landlord-tenant dispute"
+  },
+  {
+    "Query": "A landlord is seeking to evict a tenant for violating a lease clause prohibiting pets. The tenant claims that the landlord allowed them to have a pet previously. Can the tenant use this as a defense?",
+    "Legal Principles": "A landlord may be estopped from enforcing a lease provision if they have previously allowed the tenant to violate the provision.  The landlord's prior actions must be clear and unequivocal, and the tenant must have relied on them to their detriment.",
+    "Relevant Sections": "Lease agreement, pet clause, waiver, estoppel",
+    "Context": "Eviction, breach of lease, landlord-tenant dispute"
+  },
+  {
+    "Query": "A tenant is facing eviction for failing to pay rent. The tenant claims that the landlord breached the lease by failing to make necessary repairs to the property, which caused a decrease in the value of the premises. Can the tenant deduct the cost of repairs from their rent?",
+    "Legal Principles": "In some jurisdictions, tenants may have the right to deduct the cost of repairs from their rent if the landlord fails to make necessary repairs. However, the tenant must generally provide the landlord with notice of the repairs and an opportunity to make them.",
+    "Relevant Sections": "Lease agreement, landlord's duty to repair, tenant's right to deduct rent",
+    "Context": "Eviction, breach of lease, landlord-tenant dispute"
+  },
+  {
+    "Query": "A landlord is seeking to evict a tenant for violating a lease clause prohibiting loud noise. The tenant claims that the noise was caused by a neighbor, not by them. Can the tenant use this as a defense?",
+    "Legal Principles": "While tenants have a duty to comply with lease restrictions, a landlord's right to evict may be limited if the violation was caused by a third party and the tenant took reasonable steps to address the issue. The court will consider the nature of the noise, the frequency, and the tenant's efforts to mitigate the issue.",
+    "Relevant Sections": "Lease agreement, noise restrictions, nuisance, mitigation of damages",
+    "Context": "Eviction, breach of lease, landlord-tenant dispute"
+  },
+  {
+    "Query": "A landlord is seeking to evict a tenant for using the property for a different purpose than what was agreed upon in the lease. The tenant argues that the change in use was necessary for their business and did not materially affect the landlord's interests. Can the tenant successfully argue against eviction?",
+    "Legal Principles": "Landlords have a legitimate interest in ensuring that tenants use the property in accordance with the lease. However, the tenant may have a defense if the change in use was minor and did not materially affect the landlord's rights or the value of the property.",
+    "Relevant Sections": "Lease agreement, use restrictions, material breach",
+    "Context": "Eviction, breach of lease, landlord-tenant dispute"
+  },
+  {
+    "Query": "A tenant is facing eviction for failing to pay rent. The tenant claims that they were unable to pay due to a temporary financial hardship caused by a natural disaster. Can the tenant use this as a defense?",
+    "Legal Principles": "Courts may consider extenuating circumstances, such as natural disasters, when determining whether to grant an eviction. However, the tenant must demonstrate that they made reasonable efforts to mitigate the hardship and are now able to pay the rent.",
+    "Relevant Sections": "Lease agreement, force majeure, hardship",
+    "Context": "Eviction, non-payment of rent, landlord-tenant dispute"
+  }
+]
+```

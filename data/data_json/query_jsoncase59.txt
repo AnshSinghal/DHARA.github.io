@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A company seeks an injunction to prevent the termination of a construction contract worth over Rs. 1 crore. The contract involves building a hydroelectric project. The opposing party argues that the dispute should be heard by a Commercial Court under the Commercial Courts Act, 2015, as the contract value exceeds the specified limit. The company argues that the injunction application is a separate matter and should be heard by the regular civil court. Which court has jurisdiction in this case?",
+    "Legal Principles": "Jurisdiction in arbitration matters, Commercial Courts Act, 2015, specified value, determination of specified value, transfer of pending cases, injunctions under Arbitration Act",
+    "Relevant Sections": "Section 10(3), Section 12, Section 15(2) of the Commercial Courts Act, 2015; Section 9 of the Arbitration Act",
+    "Context": "Jurisdictional dispute in an arbitration matter, value of the subject matter exceeding the specified value, applicability of the Commercial Courts Act, 2015"
+  },
+  {
+    "Query": "A company is disputing a contract for the supply of goods worth over Rs. 2 crore, arguing that the supplier failed to meet the agreed specifications. The dispute is referred to arbitration, and the company seeks an interim injunction to prevent the supplier from selling the goods to other customers. The supplier argues that the arbitration should be heard by a Commercial Court under the Commercial Courts Act, 2015. Does the Commercial Court have jurisdiction over this case?",
+    "Legal Principles": "Jurisdiction in arbitration matters, Commercial Courts Act, 2015, specified value, determination of specified value, transfer of pending cases",
+    "Relevant Sections": "Section 10(3), Section 12, Section 15(2) of the Commercial Courts Act, 2015",
+    "Context": "Jurisdictional dispute in an arbitration matter concerning a commercial dispute exceeding the specified value, applicability of the Commercial Courts Act, 2015"
+  },
+  {
+    "Query": "A real estate developer is suing a construction company for breach of contract in a project valued at over Rs. 5 crore. The developer seeks damages and an injunction to prevent the construction company from continuing work on the project. The construction company argues that the case should be heard by a Commercial Court under the Commercial Courts Act, 2015. Is the Commercial Court the appropriate forum for this case?",
+    "Legal Principles": "Jurisdiction in commercial disputes, Commercial Courts Act, 2015, specified value, determination of specified value, transfer of pending cases, breach of contract",
+    "Relevant Sections": "Section 10(3), Section 12, Section 15(2) of the Commercial Courts Act, 2015",
+    "Context": "Jurisdictional dispute in a commercial dispute exceeding the specified value, involving both monetary claims and equitable remedies, applicability of the Commercial Courts Act, 2015"
+  },
+  {
+    "Query": "A company is challenging the termination of a software licensing agreement worth over Rs. 3 crore. The company claims that the termination was wrongful and seeks damages. The other party argues that the dispute should be heard by a Commercial Court under the Commercial Courts Act, 2015. Does the Commercial Court have jurisdiction to hear this case?",
+    "Legal Principles": "Jurisdiction in commercial disputes, Commercial Courts Act, 2015, specified value, determination of specified value, transfer of pending cases, breach of contract",
+    "Relevant Sections": "Section 10(3), Section 12, Section 15(2) of the Commercial Courts Act, 2015",
+    "Context": "Jurisdictional dispute in a commercial dispute exceeding the specified value involving a software licensing agreement, applicability of the Commercial Courts Act, 2015"
+  },
+  {
+    "Query": "A company is suing its former employee for breach of a non-compete agreement. The company claims that the employee is violating the agreement by working for a competitor. The employee argues that the case should be heard by a Commercial Court under the Commercial Courts Act, 2015. Is the Commercial Court the appropriate forum for this case?",
+    "Legal Principles": "Jurisdiction in commercial disputes, Commercial Courts Act, 2015, specified value, determination of specified value, transfer of pending cases, breach of contract, non-compete agreements",
+    "Relevant Sections": "Section 10(3), Section 12, Section 15(2) of the Commercial Courts Act, 2015",
+    "Context": "Jurisdictional dispute in a commercial dispute exceeding the specified value involving a non-compete agreement, applicability of the Commercial Courts Act, 2015"
+  },
+  {
+    "Query": "A company is seeking an injunction to prevent the sale of a property worth over Rs. 10 crore. The company claims that it has a prior right to purchase the property under a pre-existing agreement. The owner of the property argues that the case should be heard by a Commercial Court under the Commercial Courts Act, 2015. Does the Commercial Court have jurisdiction over this case?",
+    "Legal Principles": "Jurisdiction in commercial disputes, Commercial Courts Act, 2015, specified value, determination of specified value, transfer of pending cases, real estate transactions, injunctions",
+    "Relevant Sections": "Section 10(3), Section 12, Section 15(2) of the Commercial Courts Act, 2015",
+    "Context": "Jurisdictional dispute in a commercial dispute exceeding the specified value involving a real estate transaction, applicability of the Commercial Courts Act, 2015"
+  },
+  {
+    "Query": "A company is suing its supplier for defective goods worth over Rs. 7 crore. The company claims that the goods were not manufactured to the agreed specifications and seeks damages. The supplier argues that the dispute should be heard by a Commercial Court under the Commercial Courts Act, 2015. Does the Commercial Court have jurisdiction to hear this case?",
+    "Legal Principles": "Jurisdiction in commercial disputes, Commercial Courts Act, 2015, specified value, determination of specified value, transfer of pending cases, breach of contract, sale of goods",
+    "Relevant Sections": "Section 10(3), Section 12, Section 15(2) of the Commercial Courts Act, 2015",
+    "Context": "Jurisdictional dispute in a commercial dispute exceeding the specified value involving a sale of goods, applicability of the Commercial Courts Act, 2015"
+  },
+  {
+    "Query": "A company is seeking to enforce a loan agreement worth over Rs. 4 crore. The borrower has defaulted on the loan payments. The company argues that the dispute should be heard by a Commercial Court under the Commercial Courts Act, 2015. Is the Commercial Court the appropriate forum for this case?",
+    "Legal Principles": "Jurisdiction in commercial disputes, Commercial Courts Act, 2015, specified value, determination of specified value, transfer of pending cases, loan agreements, enforcement of contracts",
+    "Relevant Sections": "Section 10(3), Section 12, Section 15(2) of the Commercial Courts Act, 2015",
+    "Context": "Jurisdictional dispute in a commercial dispute exceeding the specified value involving a loan agreement, applicability of the Commercial Courts Act, 2015"
+  },
+  {
+    "Query": "A company is disputing a joint venture agreement worth over Rs. 6 crore. The company claims that the other party has breached the agreement and is seeking damages. The other party argues that the dispute should be heard by a Commercial Court under the Commercial Courts Act, 2015. Does the Commercial Court have jurisdiction over this case?",
+    "Legal Principles": "Jurisdiction in commercial disputes, Commercial Courts Act, 2015, specified value, determination of specified value, transfer of pending cases, joint venture agreements",
+    "Relevant Sections": "Section 10(3), Section 12, Section 15(2) of the Commercial Courts Act, 2015",
+    "Context": "Jurisdictional dispute in a commercial dispute exceeding the specified value involving a joint venture agreement, applicability of the Commercial Courts Act, 2015"
+  },
+  {
+    "Query": "A company is seeking to recover a debt of over Rs. 8 crore from a debtor. The company claims that the debtor has failed to make payment under a contract. The debtor argues that the case should be heard by a Commercial Court under the Commercial Courts Act, 2015. Does the Commercial Court have jurisdiction over this case?",
+    "Legal Principles": "Jurisdiction in commercial disputes, Commercial Courts Act, 2015, specified value, determination of specified value, transfer of pending cases, recovery of debt",
+    "Relevant Sections": "Section 10(3), Section 12, Section 15(2) of the Commercial Courts Act, 2015",
+    "Context": "Jurisdictional dispute in a commercial dispute exceeding the specified value involving a debt recovery, applicability of the Commercial Courts Act, 2015"
+  }
+]
+```

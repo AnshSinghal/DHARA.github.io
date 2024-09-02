@@ -1,0 +1,110 @@
+## Case Summary: Rashtriyalspat Nigam Limited vs Air Liquide India Holding Private Limited
+
+**1. Case Title**
+
+* **Case Name:** Rashtriyalspat Nigam Limited vs Air Liquide India Holding Private Limited
+* **Court:** Andhra Pradesh High Court: Amravati
+* **Date of Judgment:** 23rd August 2024
+* **Citation:** Not provided in the text
+
+**2. Background and Context**
+
+* **Brief Overview:** Rashtriyalspat Nigam Limited (Appellant) filed an appeal against certain directions issued by an Arbitral Tribunal on 4th July 2024. Air Liquide India Holding Private Limited (Respondent) challenged the maintainability of the appeal, arguing that the High Court lacked jurisdiction under Section 37 of the Arbitration and Conciliation Act, 1996 read with the Commercial Courts Act, 2015. The High Court upheld the Respondent's argument and dismissed the appeal on 30th July 2024. 
+* **Key Issues:** 
+    * Whether the High Court had jurisdiction to hear the appeal.
+    * Whether the appeal could be transferred to the Special Court for Trial and Disposal of Commercial Disputes at Visakhapatnam, which had jurisdiction over the case.
+
+**3. Legal Principles Involved**
+
+* **Relevant Statutes and Provisions:**
+    * Section 37 of the Arbitration and Conciliation Act, 1996
+    * Commercial Courts Act, 2015
+    * Section 24 of the Code of Civil Procedure (CPC)
+    * Section 151 of the CPC
+    * Section 14 of the Limitation Act 
+* **Precedents Cited:** 
+    * Pushpa Kapal vs. Shiv Kumar
+    * Thirmala Reddy Mahalakshmamma vs. Mulkluri Muralidhar Rao
+    * Madhusudan Das Agarwal vs. BHU
+    * Krishna Devi vs. Karta Singh
+    * S. Chandra Sekhar Rao (Dr.) vs. VST Constructions, Krishna District
+    * Cholasseri Hamza and Ors. Vs. T.V. Udayaraj
+    * B. Premanand vs. Mohan Koikal
+    * Indira Nehru Gandhi vs. Raj Narain
+    * Ram Chandra Aggarwal vs. State of U.P.
+    * Shyam Nandan Sahay vs. Dhanpati Kuer
+    * Vidya Shanker Tiwari vs. Surya Kant Tiwari
+    * Murali Lal vs. Raman Lal
+    * Durgesh Sharma vs. Jayshree
+    * Deep Industries Ltd. vs. ONGC
+    * Virtual Perception OPC (P) Ltd. Vs. Panasonic India (P) Ltd.
+    * Surender Kumar Singhal vs. Arun Kumar Bhalotia
+    * Garment Craft vs. Prakash Chand Goel
+    * Varuna Investments vs. Asian Infrastructure (P) Ltd.
+    * Yashovardhan Sinha vs. Satyatej Vyapaar (P) Ltd.
+    * Bhaven Constructions vs. Sardar Sarovar Narmada Nigam Ltd.
+    * P. Krishnan vs. M. Ramachandran
+    * Consolidated Engineering Enterprises vs. Principal Secretary, Irrigation Department and Ors.
+    * Union of India v. Popular Construction Co.
+* **Legal Doctrines:**
+    * Jurisdiction of Courts
+    * Transfer of Cases
+    * Interpretation of Statutes
+    * Rule of Construction: Expressio unius est exclusio alterus
+
+**4. Arguments Presented**
+
+* **Appellant’s Argument:**
+    * The High Court, despite lacking jurisdiction, should transfer the case to the Commercial Court at Visakhapatnam using its power under Section 24 of CPC.
+    * Filing a fresh appeal in the Commercial Court would cause significant delay and financial loss to the Appellant.
+    * Section 24 (5) of CPC grants the High Court the power to transfer appeals from Courts without jurisdiction.
+    * The term “proceeding” in Section 24 (3) and (5) of CPC should be interpreted broadly to include appeals.
+    * The delay caused by the pending appeal before the High Court should be excluded from the limitation period under the Arbitration Act.
+* **Respondent’s Argument:**
+    * Section 24 of CPC only allows transfer of suits, appeals, or proceedings from a competent Court.
+    * Section 24 (5) specifically excludes appeals from being transferred from a Court without jurisdiction.
+    * The term “proceeding” in Section 24 (5) refers only to original proceedings, not appeals.
+    * The absence of the term “appeal” in Section 24 (5) is not a mere oversight but a deliberate exclusion.
+    * The Appellant had four days to file an appeal in the Commercial Court after the High Court declared lack of jurisdiction, but failed to do so.
+    * Applications under Section 24 of CPC can only be filed before a single judge, not a Division Bench.
+
+**5. Court’s Analysis and Reasoning**
+
+* **Key Findings:**
+    * The High Court recognized that it lacked jurisdiction to entertain the appeal.
+    * The court reviewed the relevant sections of the CPC and analyzed the arguments of both parties.
+    * The court considered the precedent set by the Kerala High Court in Cholasseri Hamza and Ors. Vs. T.V. Udayaraj, which favored the Appellant's argument regarding transfer of appeals.
+    * The court also examined the Supreme Court’s decision in Ram Chandra Aggarwal v. State of U.P., which defined the scope of "proceeding" as not including appeals.
+    * The court addressed the applicability of Section 14 of the Limitation Act in relation to transfers under the Arbitration Act.
+* **Interpretation of Law:**
+    * The court interpreted Section 24 of CPC narrowly, focusing on the specific language used in the statute and the deliberate omission of “appeal” in Section 24 (5).
+    * The court relied on the Supreme Court's interpretation of "proceeding" in Ram Chandra Aggarwal v. State of U.P. to exclude appeals from the scope of Section 24 (5) of CPC.
+* **Application of Law:**
+    * The court applied the strict interpretation of Section 24 of CPC to the present case, concluding that the transfer of the appeal was not permissible.
+    * The court acknowledged the potential delay and financial hardship the Appellant might face but upheld the principle of jurisdiction and the need to adhere to statutory provisions.
+
+**6. Judgment**
+
+* **Final Decision:** The application for transfer was dismissed.
+* **Relief Granted:** No relief granted.
+* **Orders:** The court directed the Appellant to avail of any other available remedies.
+
+**7. Implications**
+
+* **Impact on Law:** The judgment reaffirms the strict interpretation of Section 24 of CPC regarding the transfer of appeals from courts without jurisdiction.
+* **Future Relevance:** The case sets a precedent for future cases involving the transfer of appeals under Section 24 of CPC.
+* **Broader Context:** This case highlights the importance of adhering to statutory provisions, even when it may lead to inconveniences for parties.
+
+**8. Summary Points**
+
+* The High Court confirmed that it lacked jurisdiction over the appeal filed by Rashtriyalspat Nigam Limited.
+* The Appellant's request to transfer the case to the Commercial Court at Visakhapatnam was denied.
+* The court interpreted Section 24 of CPC narrowly, focusing on the omission of the term “appeal” in Section 24 (5).
+* The court relied on previous Supreme Court judgments to support its interpretation.
+
+**9. References**
+
+* All cited statutes, cases, and legal texts have been listed above under the "Legal Principles Involved" section. 
+* For further reading, you can explore additional materials on the principles of jurisdiction, transfer of cases, and statutory interpretation.
+
+**Disclaimer:** This summary is based on the provided text and does not constitute legal advice. Please consult with a qualified legal professional for legal advice on specific situations. 

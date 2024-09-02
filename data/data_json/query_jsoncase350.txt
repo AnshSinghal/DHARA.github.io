@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A construction company sued a contractor for breach of contract after the contractor failed to complete the construction project on time. The contractor argued that delays were caused by unforeseen circumstances, but the construction company claims those were not valid reasons for the delay.  The court must decide whether the contractor is liable for damages.",
+    "Legal Principles": "Breach of contract,  force majeure,  foreseeable vs. unforeseeable circumstances,  damages for breach of contract,  contract interpretation.",
+    "Relevant Sections": "Section 73 of the Indian Contract Act, 1872,  relevant clauses in the construction contract.",
+    "Context": "Civil case, breach of contract,  construction industry,  India."
+  },
+  {
+    "Query": "A software developer is suing a client for non-payment of services. The client claims the software delivered was not functional and did not meet the requirements specified in the contract. The developer insists the software meets the specifications and is working correctly. The court needs to determine if the software is functioning as intended, and whether the client is obligated to pay.",
+    "Legal Principles": "Breach of contract,  contract interpretation,  warranties,  performance of contract,  implied terms.",
+    "Relevant Sections": "Sections 12 and 13 of the Indian Contract Act, 1872,  relevant clauses in the software development agreement.",
+    "Context": "Civil case, breach of contract,  software development,  India."
+  },
+  {
+    "Query": "A landlord is trying to evict a tenant for non-payment of rent. The tenant claims they are experiencing financial hardship due to a recent job loss and are unable to pay the rent. The landlord is seeking a legal remedy to recover the unpaid rent and regain possession of the property.",
+    "Legal Principles": "Landlord-tenant law,  eviction,  unlawful detainer,  rent arrears,  hardship,  mitigation of damages.",
+    "Relevant Sections": "The Rent Control Act of the relevant jurisdiction,  relevant clauses in the lease agreement.",
+    "Context": "Civil case, landlord-tenant dispute,  eviction,  India."
+  },
+  {
+    "Query": "A car accident occurred where a driver claims the other driver was negligent and caused the accident. The other driver claims they were not negligent and the accident was unavoidable due to slippery road conditions. The court needs to determine the liability for the accident and any damages caused.",
+    "Legal Principles": "Negligence,  duty of care,  proximate cause,  damages,  contributory negligence,  unforeseeable circumstances,  standard of care.",
+    "Relevant Sections": "Sections 2(h), 3 and 16 of the Motor Vehicles Act, 1988.",
+    "Context": "Civil case, personal injury,  car accident,  India."
+  },
+  {
+    "Query": "A company is accused of infringing on a competitor's trademark by using a similar name and logo. The company argues that their name and logo are sufficiently distinct and do not cause confusion in the marketplace. The court must decide whether the company's use of the name and logo constitutes trademark infringement.",
+    "Legal Principles": "Trademark infringement,  likelihood of confusion,  trademark dilution,  distinctiveness,  passing off.",
+    "Relevant Sections": "The Trademarks Act, 1999,  the relevant trademark registration.",
+    "Context": "Civil case, intellectual property,  trademark infringement,  India."
+  },
+  {
+    "Query": "A business partner is seeking to dissolve a partnership agreement due to irreconcilable differences with the other partner. The other partner wants to continue the business. The court needs to determine if grounds for dissolution exist and how the partnership assets will be divided.",
+    "Legal Principles": "Partnership law,  dissolution of partnership,  grounds for dissolution,  partnership agreement,  division of assets,  winding up.",
+    "Relevant Sections": "The Indian Partnership Act, 1932,  relevant clauses in the partnership agreement.",
+    "Context": "Civil case, partnership dispute,  dissolution,  India."
+  },
+  {
+    "Query": "A woman is seeking a divorce from her husband. The couple has been married for five years and have two children together. The woman is seeking custody of the children, child support, and alimony. The husband is contesting the divorce and custody arrangements. The court needs to make decisions about the divorce, custody, child support, and alimony.",
+    "Legal Principles": "Divorce,  custody,  child support,  alimony,  best interests of the child,  marital property division.",
+    "Relevant Sections": "The Hindu Marriage Act, 1955,  The Guardians and Wards Act, 1890,  The Code of Criminal Procedure, 1973,  relevant clauses in the prenuptial agreement if any.",
+    "Context": "Family law,  divorce,  custody,  child support,  alimony,  India."
+  },
+  {
+    "Query": "A company is seeking to enforce a contract against another company. The company claims the other company breached the contract by failing to deliver goods on time. The other company argues that they were unable to deliver the goods due to unforeseen circumstances beyond their control. The court must decide whether the other company is liable for breach of contract.",
+    "Legal Principles": "Breach of contract,  force majeure,  contract interpretation,  remedy for breach of contract,  commercial law.",
+    "Relevant Sections": "Relevant clauses in the contract,  Section 73 of the Indian Contract Act, 1872,  The Sale of Goods Act, 1930.",
+    "Context": "Commercial law,  contract enforcement,  breach of contract,  India."
+  },
+  {
+    "Query": "A former employee is suing their former employer for wrongful termination. The employee claims they were dismissed without cause and in violation of their employment contract. The employer argues that the employee was terminated for legitimate reasons, such as poor performance. The court needs to determine whether the termination was wrongful and if the employee is entitled to damages.",
+    "Legal Principles": "Wrongful termination,  employment contract,  implied terms,  just cause,  damages,  employment law.",
+    "Relevant Sections": "Relevant clauses in the employment contract,  The Industrial Disputes Act, 1947,  The Payment of Gratuity Act, 1972.",
+    "Context": "Employment law,  wrongful termination,  India."
+  },
+  {
+    "Query": "A tenant is suing a landlord for breach of the implied warranty of habitability. The tenant claims the apartment is unsafe and uninhabitable due to a number of problems, such as leaking pipes and mold. The landlord argues that they have been addressing the problems and that the apartment is habitable. The court must determine whether the landlord has breached the warranty of habitability and if the tenant is entitled to damages.",
+    "Legal Principles": "Landlord-tenant law,  implied warranty of habitability,  habitability,  breach of contract,  damages,  housing law.",
+    "Relevant Sections": "Relevant clauses in the lease agreement,  The Rent Control Act of the relevant jurisdiction.",
+    "Context": "Housing law,  landlord-tenant dispute,  breach of warranty of habitability,  India."
+  }
+]
+```

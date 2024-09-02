@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A transport contractor was hired by Food Corporation of India (FCI) to transport foodgrains. The contractor abruptly stopped the work citing difficulties in complying with weight restrictions imposed by the Motor Vehicles Act. FCI engaged ad-hoc contractors at a higher rate and sued the original contractor for the additional expenses incurred. The original contractor, in turn, sued FCI for the refund of security deposit and loss of profit.  Analyze the case and determine the liability of the parties.",
+    "Legal Principles": "Breach of contract, liquidated damages, frustration of contract, duty to mitigate loss, quantum meruit, security deposit, loss of profit, enforceability of contract clauses, statutory compliance.",
+    "Relevant Sections": "Indian Contract Act, Section 73, 74, Indian Evidence Act, Section 61, 62, Motor Vehicles Act, Section 113-115.",
+    "Context": "Contract law, commercial dispute, transportation contract, public sector entity, statutory compliance."
+  },
+  {
+    "Query": "A construction company entered into a contract with a government agency for the construction of a school building. The contract contained a clause allowing the agency to deduct liquidated damages for delays. The company encountered unforeseen delays due to a change in building regulations. The agency invoked the liquidated damages clause and deducted a substantial amount from the company's payments. The construction company seeks to challenge the deduction, arguing that the delay was not their fault.",
+    "Legal Principles": "Liquidated damages, frustration of contract, force majeure, breach of contract, unforeseen circumstances, enforceability of contract clauses, reasonable deduction.",
+    "Relevant Sections": "Indian Contract Act, Section 73, 74,  Indian Contract Act, 1872, Section 56",
+    "Context": "Contract law, construction contract, government agency, liquidated damages clause, unforeseen circumstances, breach of contract, force majeure."
+  },
+  {
+    "Query": "A software development company was hired by a bank to develop a new online banking system. The contract stipulated a fixed price and a deadline for completion. The development company faced unforeseen technical challenges that delayed the project. The bank refused to pay the agreed-upon price, claiming that the delay constituted a breach of contract. The software development company seeks to recover the agreed-upon price, arguing that the delay was beyond their control.",
+    "Legal Principles": "Breach of contract, time of the essence, frustration of contract, unforeseen circumstances, reasonable efforts, duty to mitigate loss.",
+    "Relevant Sections": "Indian Contract Act, Section 73, 74, Indian Contract Act, 1872, Section 56",
+    "Context": "Contract law, software development contract, commercial dispute, breach of contract, time of the essence, frustration of contract, unforeseen circumstances."
+  },
+  {
+    "Query": "A landowner entered into an agreement with a developer to sell a plot of land for the construction of a residential complex. The agreement contained a clause stating that the sale would be subject to the approval of the local municipality. The municipality rejected the development plan due to environmental concerns. The developer seeks to rescind the agreement, claiming that the condition precedent was not fulfilled.",
+    "Legal Principles": "Condition precedent, frustration of contract, implied condition, enforceability of contract clauses, rescission of contract.",
+    "Relevant Sections": "Indian Contract Act, Section 32, 56",
+    "Context": "Contract law, land sale agreement, development contract, condition precedent, frustration of contract, rescission of contract, municipal approval."
+  },
+  {
+    "Query": "A company entered into a lease agreement with a landlord for a commercial property. The lease agreement contained a clause allowing the landlord to terminate the lease if the company defaulted on rent payments. The company faced financial difficulties and fell behind on rent payments. The landlord served a notice of termination, but the company argued that the landlord's actions were unfair and unreasonable, considering the company's financial circumstances. The company seeks to challenge the termination of the lease.",
+    "Legal Principles": "Breach of contract, termination of contract, reasonable notice,  enforceability of contract clauses, hardship clause, duty to mitigate loss.",
+    "Relevant Sections": "Indian Contract Act, Section 39, 56",
+    "Context": "Contract law, lease agreement, commercial property, breach of contract, termination of contract, reasonable notice, hardship clause."
+  },
+  {
+    "Query": "A partnership agreement between two individuals stipulated that the profits would be shared equally. One partner contributed significantly more capital than the other. The partner with the larger capital contribution argued that the profit sharing arrangement was unfair and sought to modify the agreement. The other partner opposed the modification, citing the original terms of the agreement.",
+    "Legal Principles": "Partnership agreement, profit sharing, fairness, implied term, modification of contract, enforceability of contract clauses, implied condition.",
+    "Relevant Sections": "Indian Partnership Act, 1932, Section 13, 14, 24",
+    "Context": "Partnership law, commercial dispute, partnership agreement, profit sharing, fairness, modification of contract, enforceability of contract clauses."
+  },
+  {
+    "Query": "A company hired a consultant to provide business advice. The consultant provided advice that turned out to be flawed, causing significant financial losses to the company. The company sued the consultant for negligence, claiming that the consultant's advice fell below the standard of care expected of a professional in that field. The consultant defended their actions, arguing that the advice was provided in good faith and that the company had made its own business decisions.",
+    "Legal Principles": "Negligence, professional negligence, duty of care, causation, remoteness of damage, standard of care, reliance, breach of duty.",
+    "Relevant Sections": "Indian Contract Act, Section 73, 74, Indian Contract Act, 1872, Section 56",
+    "Context": "Tort law, negligence, professional negligence, business advice, financial losses, standard of care, causation."
+  },
+  {
+    "Query": "A tenant was evicted from their apartment for non-payment of rent. The tenant argued that the eviction was illegal because the landlord had failed to provide proper notice and an opportunity to cure the default. The landlord claimed that the tenant had been given sufficient notice and that the eviction was justified. Analyze the case and determine whether the eviction was lawful.",
+    "Legal Principles": "Landlord-tenant relationship, eviction, notice, opportunity to cure,  enforceability of contract clauses, due process.",
+    "Relevant Sections": "The Transfer of Property Act, 1882, Section 106, 111, The Code of Civil Procedure, 1908, Order 21, Rule 10",
+    "Context": "Real estate law, landlord-tenant relationship, eviction, notice, opportunity to cure, due process, enforceability of contract clauses."
+  },
+  {
+    "Query": "A company that manufactures and sells consumer products was sued by a customer who suffered injuries after using one of their products. The customer alleged that the product was defective and that the company failed to adequately warn consumers of the risks associated with its use. The company defended its actions, claiming that the product was safe and that the customer had misused it. Analyze the case and determine the liability of the company.",
+    "Legal Principles": "Product liability, negligence, strict liability, defective product,  duty to warn, causation, remoteness of damage, misuse of product.",
+    "Relevant Sections": "The Consumer Protection Act, 1986, Section 3, 9,  The Indian Contract Act, 1872, Section 73, 74",
+    "Context": "Tort law, product liability, consumer protection, negligence, strict liability, defective product, duty to warn, causation, misuse of product."
+  },
+  {
+    "Query": "A car accident occurred at an intersection.  One driver claimed that the other driver ran a red light, while the other driver claimed that they had a green light.  Witnesses provided conflicting testimony.  Analyze the case and determine which driver was at fault.",
+    "Legal Principles": "Negligence, contributory negligence, proximate cause, duty of care,  violation of traffic laws, burden of proof, standard of care.",
+    "Relevant Sections": "The Motor Vehicles Act, 1988,  The Indian Contract Act, 1872, Section 73, 74,  The Evidence Act, 1872, Section 114",
+    "Context": "Tort law, negligence, car accidents, traffic laws, burden of proof, standard of care, proximate cause."
+  }
+]
+``` 

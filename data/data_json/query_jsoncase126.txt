@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A supplier of goods to a buyer is seeking to enforce payment under the Micro, Small and Medium Enterprises Development Act, 2006 (MSME Act). The buyer has raised a limitation defense, and the Arbitrator has rejected the defense, finding that the limitation period does not apply to statutory arbitrations under the MSME Act. The buyer has now filed a petition in the Commercial Court to set aside the Arbitrator's order. Should the Commercial Court entertain the petition, or should the buyer be relegated to challenging the final award under Section 34 of the Arbitration and Conciliation Act, 1996?",
+    "Legal Principles": "The applicability of the Limitation Act to statutory arbitrations under the MSME Act; the power of the Arbitral Tribunal to rule on its own jurisdiction; the availability of judicial review of interlocutory orders in arbitration proceedings; the principles of finality and efficiency in arbitration; the scope of Article 227 of the Constitution of India.",
+    "Relevant Sections": "Section 16, 18, 34, 37 of the Arbitration and Conciliation Act, 1996; Section 18 of the Micro, Small and Medium Enterprises Development Act, 2006; Article 227 of the Constitution of India.",
+    "Context": "This query relates to a petition filed in the Commercial Court challenging an interlocutory order passed by an Arbitral Tribunal in a statutory arbitration under the MSME Act. The issue is whether the Commercial Court has jurisdiction to interfere with the Arbitral Tribunal's decision on a preliminary issue of limitation."
+  },
+  {
+    "Query": "A construction company has filed a claim for payment against the owner of a project. The owner has raised a counterclaim against the construction company alleging defects in the work. The Arbitrator has ruled on the counterclaim and found in favor of the owner. The construction company has appealed against the Arbitrator's ruling. Can the construction company also challenge the Arbitrator's order on the main claim, or must it wait until a final award is made?",
+    "Legal Principles": "The power of an Arbitral Tribunal to issue partial or interim awards; the availability of judicial review of interlocutory orders in arbitration proceedings; the scope of appeal against arbitral awards.",
+    "Relevant Sections": "Section 2(c), 34, 37 of the Arbitration and Conciliation Act, 1996.",
+    "Context": "This query involves an appeal against a partial or interim award made by an Arbitral Tribunal. The issue is whether the appellant can challenge both the partial award and the final award in a single appeal, or whether it must challenge them separately."
+  },
+  {
+    "Query": "Two parties entered into a contract for the sale of goods. A dispute arose, and the parties agreed to refer the matter to arbitration. The Arbitrator, however, refused to proceed with the arbitration, finding that the arbitration agreement was invalid. The seller has filed a petition in the High Court to challenge the Arbitrator's decision. Should the High Court intervene in the arbitration proceedings, or should the seller be relegated to challenging the final award?",
+    "Legal Principles": "The power of an Arbitral Tribunal to rule on its own jurisdiction; the principles of finality and efficiency in arbitration; the scope of judicial review of arbitral awards.",
+    "Relevant Sections": "Section 16, 34, 37 of the Arbitration and Conciliation Act, 1996; Article 226 of the Constitution of India.",
+    "Context": "This query relates to a petition filed in the High Court challenging an order passed by an Arbitral Tribunal refusing to proceed with the arbitration proceedings. The issue is whether the High Court has jurisdiction to interfere with the Arbitral Tribunal's decision on a preliminary issue of jurisdiction."
+  },
+  {
+    "Query": "A company has filed a claim for breach of contract against its former distributor. The distributor has raised a counterclaim against the company, alleging that the company breached the contract first. The Arbitrator has ruled on the counterclaim and found in favor of the distributor. The company has now filed a petition in the High Court to set aside the Arbitrator's order on the counterclaim. Should the High Court interfere with the arbitration proceedings, or should the company be relegated to challenging the final award?",
+    "Legal Principles": "The power of an Arbitral Tribunal to rule on its own jurisdiction; the availability of judicial review of interlocutory orders in arbitration proceedings; the scope of Article 226 of the Constitution of India.",
+    "Relevant Sections": "Section 16, 34, 37 of the Arbitration and Conciliation Act, 1996; Article 226 of the Constitution of India.",
+    "Context": "This query involves a petition filed in the High Court challenging an interlocutory order passed by an Arbitral Tribunal in a commercial arbitration. The issue is whether the High Court has jurisdiction to interfere with the Arbitral Tribunal's decision on a preliminary issue raised in the counterclaim."
+  },
+  {
+    "Query": "A partnership firm has filed a claim for payment against a customer. The customer has raised a defense that the partnership agreement was invalid. The Arbitrator has ruled on the defense and found in favor of the customer. The partnership firm has filed a petition in the High Court to challenge the Arbitrator's decision. Can the partnership firm also challenge the Arbitrator's order on the main claim, or must it wait until a final award is made?",
+    "Legal Principles": "The power of an Arbitral Tribunal to rule on its own jurisdiction; the availability of judicial review of interlocutory orders in arbitration proceedings; the scope of appeal against arbitral awards.",
+    "Relevant Sections": "Section 16, 34, 37 of the Arbitration and Conciliation Act, 1996; Article 226 of the Constitution of India.",
+    "Context": "This query relates to a petition filed in the High Court challenging an interlocutory order passed by an Arbitral Tribunal in a commercial arbitration. The issue is whether the High Court has jurisdiction to interfere with the Arbitral Tribunal's decision on a preliminary issue raised in the defense."
+  },
+  {
+    "Query": "A company has filed a claim for damages against a supplier for delivering defective goods. The supplier has filed a counterclaim against the company alleging that the company failed to pay for the goods. The Arbitrator has ruled on the counterclaim and found in favor of the supplier. The company has appealed against the Arbitrator's ruling. Can the company also challenge the Arbitrator's order on the main claim, or must it wait until a final award is made?",
+    "Legal Principles": "The power of an Arbitral Tribunal to issue partial or interim awards; the availability of judicial review of interlocutory orders in arbitration proceedings; the scope of appeal against arbitral awards.",
+    "Relevant Sections": "Section 2(c), 34, 37 of the Arbitration and Conciliation Act, 1996.",
+    "Context": "This query involves an appeal against a partial or interim award made by an Arbitral Tribunal. The issue is whether the appellant can challenge both the partial award and the final award in a single appeal, or whether it must challenge them separately."
+  },
+  {
+    "Query": "A tenant has filed a claim for rent arrears against a landlord. The landlord has raised a defense that the lease agreement was invalid. The Arbitrator has ruled on the defense and found in favor of the landlord. The tenant has now filed a petition in the High Court to set aside the Arbitrator's order. Should the High Court interfere with the arbitration proceedings, or should the tenant be relegated to challenging the final award?",
+    "Legal Principles": "The power of an Arbitral Tribunal to rule on its own jurisdiction; the availability of judicial review of interlocutory orders in arbitration proceedings; the scope of Article 226 of the Constitution of India.",
+    "Relevant Sections": "Section 16, 34, 37 of the Arbitration and Conciliation Act, 1996; Article 226 of the Constitution of India.",
+    "Context": "This query relates to a petition filed in the High Court challenging an interlocutory order passed by an Arbitral Tribunal in a real estate arbitration. The issue is whether the High Court has jurisdiction to interfere with the Arbitral Tribunal's decision on a preliminary issue raised in the defense."
+  },
+  {
+    "Query": "A contractor has filed a claim for payment against the owner of a property. The owner has raised a counterclaim against the contractor alleging that the contractor failed to complete the work according to the contract. The Arbitrator has ruled on the counterclaim and found in favor of the owner. The contractor has now filed a petition in the High Court to set aside the Arbitrator's order. Should the High Court interfere with the arbitration proceedings, or should the contractor be relegated to challenging the final award?",
+    "Legal Principles": "The power of an Arbitral Tribunal to rule on its own jurisdiction; the availability of judicial review of interlocutory orders in arbitration proceedings; the scope of Article 226 of the Constitution of India.",
+    "Relevant Sections": "Section 16, 34, 37 of the Arbitration and Conciliation Act, 1996; Article 226 of the Constitution of India.",
+    "Context": "This query involves a petition filed in the High Court challenging an interlocutory order passed by an Arbitral Tribunal in a construction arbitration. The issue is whether the High Court has jurisdiction to interfere with the Arbitral Tribunal's decision on a preliminary issue raised in the counterclaim."
+  },
+  {
+    "Query": "A company has filed a claim for breach of contract against a former employee. The employee has raised a defense that the employment agreement was invalid. The Arbitrator has ruled on the defense and found in favor of the employee. The company has now filed a petition in the High Court to set aside the Arbitrator's order. Should the High Court interfere with the arbitration proceedings, or should the company be relegated to challenging the final award?",
+    "Legal Principles": "The power of an Arbitral Tribunal to rule on its own jurisdiction; the availability of judicial review of interlocutory orders in arbitration proceedings; the scope of Article 226 of the Constitution of India.",
+    "Relevant Sections": "Section 16, 34, 37 of the Arbitration and Conciliation Act, 1996; Article 226 of the Constitution of India.",
+    "Context": "This query relates to a petition filed in the High Court challenging an interlocutory order passed by an Arbitral Tribunal in an employment arbitration. The issue is whether the High Court has jurisdiction to interfere with the Arbitral Tribunal's decision on a preliminary issue raised in the defense."
+  },
+  {
+    "Query": "A seller of goods has filed a claim for payment against a buyer. The buyer has raised a defense that the goods were defective. The Arbitrator has ruled on the defense and found in favor of the buyer. The seller has filed a petition in the High Court to challenge the Arbitrator's decision. Can the seller also challenge the Arbitrator's order on the main claim, or must it wait until a final award is made?",
+    "Legal Principles": "The power of an Arbitral Tribunal to rule on its own jurisdiction; the availability of judicial review of interlocutory orders in arbitration proceedings; the scope of appeal against arbitral awards.",
+    "Relevant Sections": "Section 16, 34, 37 of the Arbitration and Conciliation Act, 1996; Article 226 of the Constitution of India.",
+    "Context": "This query relates to a petition filed in the High Court challenging an interlocutory order passed by an Arbitral Tribunal in a commercial arbitration. The issue is whether the High Court has jurisdiction to interfere with the Arbitral Tribunal's decision on a preliminary issue raised in the defense."
+  }
+]
+```

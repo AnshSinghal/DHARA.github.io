@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A pharmaceutical company, 'MedTech Inc.', is suing 'HealthCare Plus' for using the trademark 'MedTech' for their pharmaceutical products. MedTech Inc. claims 'HealthCare Plus' is infringing their registered trademark and passing off their products as those of MedTech Inc.  'HealthCare Plus' argues that 'MedTech' is a generic term and they are not infringing any trademark rights.",
+    "Legal Principles": "Trademark infringement, passing off, generic terms, trademark registration, exclusive rights, Section 2(1)(v), Section 28, Section 17(2) of the Trade Mark Act, 1999",
+    "Relevant Sections": "Section 2(1)(v), Section 28, Section 17(2) of the Trade Mark Act, 1999",
+    "Context": "Trademark infringement and passing off case in India, pharmaceutical industry"
+  },
+  {
+    "Query": "A clothing retailer, 'StyleHub', is seeking an injunction against 'FashionMart' for using the logo 'S' in a similar design to StyleHub's logo. StyleHub claims 'FashionMart' is infringing their trademark and causing confusion among customers. 'FashionMart' argues their logo is distinctive and does not infringe on StyleHub's trademark.",
+    "Legal Principles": "Trademark infringement, trademark distinctiveness, logo similarity, likelihood of confusion, injunctions, trademark registration",
+    "Relevant Sections": "Not specified in the judgment but likely relevant sections from the Trade Mark Act, 1999 would apply.",
+    "Context": "Trademark infringement case in India, clothing retail industry"
+  },
+  {
+    "Query": "A software company, 'TechSolutions', is suing 'CodeWorks' for using the name 'Tech Solutions' for their software products. TechSolutions claims CodeWorks is infringing their trademark and passing off their products as those of TechSolutions. CodeWorks argues their name is not confusingly similar and they are not engaging in any passing off.",
+    "Legal Principles": "Trademark infringement, passing off, trademark similarity, likelihood of confusion, trade name infringement",
+    "Relevant Sections": "Not specified in the judgment but likely relevant sections from the Trade Mark Act, 1999 would apply.",
+    "Context": "Trademark infringement case in India, software industry"
+  },
+  {
+    "Query": "A restaurant chain, 'Foodie's Delight', is seeking an injunction against a newly opened restaurant, 'Foodie's Corner', for using a similar name and logo. Foodie's Delight claims Foodie's Corner is infringing their trademark and causing confusion among customers. Foodie's Corner argues their name and logo are distinct and do not infringe on Foodie's Delight's trademark.",
+    "Legal Principles": "Trademark infringement, trademark distinctiveness, name similarity, logo similarity, likelihood of confusion, injunctions, trademark registration",
+    "Relevant Sections": "Not specified in the judgment but likely relevant sections from the Trade Mark Act, 1999 would apply.",
+    "Context": "Trademark infringement case in India, restaurant industry"
+  },
+  {
+    "Query": "A publishing house, 'Literary World', is suing a new publishing company, 'Literary Times', for using a similar name and logo. Literary World claims Literary Times is infringing their trademark and causing confusion among readers and distributors. Literary Times argues their name and logo are distinct and do not infringe on Literary World's trademark.",
+    "Legal Principles": "Trademark infringement, trademark distinctiveness, name similarity, logo similarity, likelihood of confusion, injunctions, trademark registration",
+    "Relevant Sections": "Not specified in the judgment but likely relevant sections from the Trade Mark Act, 1999 would apply.",
+    "Context": "Trademark infringement case in India, publishing industry"
+  },
+  {
+    "Query": "A construction company, 'BuildRight', is suing a new construction company, 'BuildStrong', for using a similar name and logo. BuildRight claims BuildStrong is infringing their trademark and causing confusion among potential clients. BuildStrong argues their name and logo are distinct and do not infringe on BuildRight's trademark.",
+    "Legal Principles": "Trademark infringement, trademark distinctiveness, name similarity, logo similarity, likelihood of confusion, injunctions, trademark registration",
+    "Relevant Sections": "Not specified in the judgment but likely relevant sections from the Trade Mark Act, 1999 would apply.",
+    "Context": "Trademark infringement case in India, construction industry"
+  },
+  {
+    "Query": "A technology startup, 'InnoTech', is seeking an injunction against 'TechInnovate' for using a similar name and logo for their tech products. InnoTech claims TechInnovate is infringing their trademark and causing confusion among customers. TechInnovate argues their name and logo are distinct and do not infringe on InnoTech's trademark.",
+    "Legal Principles": "Trademark infringement, trademark distinctiveness, name similarity, logo similarity, likelihood of confusion, injunctions, trademark registration",
+    "Relevant Sections": "Not specified in the judgment but likely relevant sections from the Trade Mark Act, 1999 would apply.",
+    "Context": "Trademark infringement case in India, technology industry"
+  },
+  {
+    "Query": "A furniture manufacturer, 'Classic Designs', is suing a new furniture company, 'Modern Designs', for using a similar name and marketing materials. Classic Designs claims Modern Designs is infringing their trademark and causing confusion among customers. Modern Designs argues their name and marketing materials are distinct and do not infringe on Classic Designs' trademark.",
+    "Legal Principles": "Trademark infringement, trademark distinctiveness, name similarity, marketing materials similarity, likelihood of confusion, injunctions, trademark registration",
+    "Relevant Sections": "Not specified in the judgment but likely relevant sections from the Trade Mark Act, 1999 would apply.",
+    "Context": "Trademark infringement case in India, furniture industry"
+  },
+  {
+    "Query": "A financial services company, 'WealthWise', is seeking an injunction against 'WealthBuilder' for using a similar name and logo. WealthWise claims WealthBuilder is infringing their trademark and causing confusion among potential clients. WealthBuilder argues their name and logo are distinct and do not infringe on WealthWise's trademark.",
+    "Legal Principles": "Trademark infringement, trademark distinctiveness, name similarity, logo similarity, likelihood of confusion, injunctions, trademark registration",
+    "Relevant Sections": "Not specified in the judgment but likely relevant sections from the Trade Mark Act, 1999 would apply.",
+    "Context": "Trademark infringement case in India, financial services industry"
+  },
+  {
+    "Query": "A beauty products company, 'GlamGlow', is suing a new beauty products company, 'GlowGlam', for using a similar name and packaging design. GlamGlow claims GlowGlam is infringing their trademark and causing confusion among customers. GlowGlam argues their name and packaging design are distinct and do not infringe on GlamGlow's trademark.",
+    "Legal Principles": "Trademark infringement, trademark distinctiveness, name similarity, packaging design similarity, likelihood of confusion, injunctions, trademark registration",
+    "Relevant Sections": "Not specified in the judgment but likely relevant sections from the Trade Mark Act, 1999 would apply.",
+    "Context": "Trademark infringement case in India, beauty products industry"
+  }
+]
+```

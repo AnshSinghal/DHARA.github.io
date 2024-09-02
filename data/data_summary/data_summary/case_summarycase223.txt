@@ -1,0 +1,155 @@
+## 1. Case Title
+
+* **Case Name:** Executive Engineer, Water Ways Division No.1, Chakradharpur vs. M/S Modi Project Ltd.
+* **Court:** Jharkhand High Court
+* **Date of Judgment:** 8th January 2024
+* **Citation:** Commercial Appeal No. 10 of 2020
+
+## 2. Background and Context
+
+**Brief Overview:** 
+
+This case arose from a dispute between the Executive Engineer, Water Ways Division No.1, Chakradharpur (hereinafter "Appellant") and M/S Modi Project Ltd. (hereinafter "Respondent") over a contract for the construction of the Jharjhara Reservoir Project in West Singhbhum district. The Respondent was awarded the contract on a turnkey basis, with a project value of Rs. 51,51,00,000/-. However, the project was significantly delayed due to land acquisition issues and public resistance, leading to the Respondent's claim for compensation. 
+
+**Key Issues:**
+
+1. Whether the Appellant breached the contract by failing to deliver hindrance-free land to the Respondent, thus preventing the Respondent from performing the project work.
+2. Whether the Respondent was entitled to compensation for various expenses incurred due to the delay, including idling of survey teams, on-site and off-site establishment costs, and loss of profit.
+3. Whether the Appellant's counter-claim was rightly rejected by the Arbitrator.
+4. Whether the Arbitral Award was valid and could be set aside under the provisions of Section 34 of the Arbitration and Conciliation Act, 1996.
+
+## 3. Legal Principles Involved
+
+**Relevant Statutes and Provisions:**
+
+* Arbitration and Conciliation Act, 1996 (hereinafter "Act of 1996")
+* Section 11(6) of the Act of 1996 
+* Section 34 of the Act of 1996
+* Section 73 of the Indian Contract Act
+* Order VI Rule 15 of the Code of Civil Procedure
+
+**Precedents Cited:**
+
+* Steel Authority of India Ltd. Vs. J.C. Budharaja (1999) 8 SCC 122
+* State of Goa Vs. Praveen Enterprises (2012) 12 SCC 581
+* Ssangyong Engineering & Construction Company Ltd. Vs. NHAI (2019) 15 SCC 131
+* Union of India Vs. Manraj Enterprises (2022) 2 SCC 33
+* General Manager, Northern Railway & Anr. Vs. Sarvesh Chopra (2002) 4 SCC 45
+* McDermott International Inc. Vs. Burn Standard Co. Ltd. & Ors. (2006) 11 SCC 181
+* Associate Builders v. DDA (2015) 3 SCC 49
+* ONGC Ltd. Vs. Saw Pipes Ltd. (2003) 5 SCC 705
+* ONGC Ltd. Vs. Western Geco International Ltd. (2014) 9 SCC 263
+* Sutlej Construction Limited Vs. Union Territory of Chandigarh (2018) 1 SCC 718
+* Maharashtra State Electricity Distribution Co. Ltd. Vs. Datar Switchgear Ltd. (2018) 3 SCC 133
+* M/s Unibros Vs. All India Radio (SLP (Civil) No. 8791 of 2020)
+* Batliboi Environment Engineers Vs. Hindustan Petroleum Corporation Ltd (Civil Appeal No. 1968 of 2012)
+
+**Legal Doctrines:**
+
+* **Fundamental Breach of Contract:** Whether a party's breach of contract is so serious that it fundamentally alters the nature of the contract, giving the innocent party the right to terminate the contract and seek damages.
+* **Frustration of Contract:** Whether an unforeseen event renders the performance of the contract impossible or radically different from what was agreed upon, excusing both parties from further performance.
+* **Patent Illegality:** A ground for setting aside an arbitral award where the illegality is so obvious and goes to the root of the matter.
+* **Perversity:** A finding or judgment that is so unreasonable or illogical that no reasonable person could have arrived at it.
+
+## 4. Arguments Presented
+
+**Respondent’s Argument (Claimant before the Arbitrator):**
+
+* The Appellant failed to deliver hindrance-free land at the work site, specifically for the main dam and canal systems, thus preventing the Respondent from executing the contract work.
+* The Appellant repeatedly assured the Respondent that the land would be made available and urged them to keep their workforce and machinery ready.
+* The Appellant's failure to deliver the land constituted a fundamental breach of contract, frustrating the Respondent's performance and leading to various losses.
+* The Respondent was entitled to compensation for idling of survey teams, on-site and off-site establishment costs, and loss of profit due to the Appellant's breach.
+* The Appellant's counter-claim was filed belatedly and should not have been entertained.
+
+**Appellant’s Argument (Respondent before the Arbitrator):**
+
+* The Respondent was aware of the land acquisition challenges and should have planned their construction work program accordingly.
+* The Respondent failed to establish a site office and commence work at the main dam and canal sites, despite receiving mobilization advance payments.
+* The Respondent's failure to commence work amounted to a breach of contract.
+* The Respondent's claim for compensation was not justifiable as the contract explicitly excluded claims for delays due to legal formalities or circumstances beyond the State Government's control.
+* The Appellant's counter-claim was valid and should have been considered.
+
+**Appellant’s Argument (Appellant before the High Court):**
+
+* The Arbitrator failed to properly consider the relevant terms and conditions of the contract, including provisions that excluded claims for losses due to land acquisition delays.
+* The Arbitrator's findings regarding a fundamental breach of contract were perverse and unsupported by evidence.
+* The Arbitrator's award for loss of profit was without proper justification and evidence.
+* The Arbitrator's decision to reject the Appellant's counter-claim was incorrect.
+* The Commercial Court erred in upholding the Arbitral Award.
+
+**Respondent’s Argument (Respondent before the High Court):**
+
+* The Arbitral Award did not warrant interference as the Arbitrator had applied his mind to the matter and reached a permissible view.
+* The court could not reappraise the evidence and substitute its own findings for those of the Arbitrator unless the award was demonstrably perverse.
+
+## 5. Court’s Analysis and Reasoning
+
+**Key Findings:**
+
+* The court accepted the Appellant's argument that the Arbitrator failed to properly consider the terms and conditions of the contract, including provisions excluding claims for losses due to land acquisition delays.
+* The court found the Arbitrator's findings regarding a fundamental breach of contract to be perverse, given that the Respondent was aware of the land acquisition challenges and should have planned accordingly.
+* The court held that the Arbitrator's award for loss of profit was without proper justification and evidence, relying on the precedent in M/s Unibros vs. All India Radio (SLP (Civil) No. 8791 of 2020).
+
+**Interpretation of Law:**
+
+* The court interpreted the "patent illegality" provision under Section 34(2-A) of the Act of 1996, as introduced by the 2015 Amendment, to encompass findings based on no evidence or ignoring vital evidence.
+* The court relied on the precedent in Ssangyong Engineering and Construction Company Ltd. vs. NHAI (2019) 15 SCC 131 regarding the scope of interference with arbitral awards under the 2015 Amendment.
+
+**Application of Law:**
+
+* The court applied the legal doctrines of fundamental breach of contract, frustration of contract, patent illegality, and perversity to the facts of the case.
+* The court concluded that the Arbitral Award suffered from "patent illegality" due to the Arbitrator's failure to consider relevant contract clauses and his perverse findings.
+
+## 6. Judgment
+
+**Final Decision:** 
+
+* The court allowed the Appellant's appeal and set aside the impugned order of the Commercial Court upholding the Arbitral Award.
+* The court also set aside the Arbitral Award itself.
+
+**Relief Granted:**
+
+* The Appellant was granted relief from the Arbitral Award.
+
+**Orders:**
+
+* The Commercial Court's order was set aside.
+* The Arbitral Award was set aside.
+
+## 7. Implications
+
+**Impact on Law:**
+
+* The judgment reaffirms the importance of considering relevant contract clauses, especially exclusion clauses, in arbitration disputes.
+* The judgment clarifies the application of the "patent illegality" provision under Section 34(2-A) of the Act of 1996, as introduced by the 2015 Amendment.
+
+**Future Relevance:**
+
+* The judgment provides guidance for courts in reviewing arbitral awards, particularly those involving claims for loss of profit and delays due to land acquisition issues.
+* The judgment emphasizes the need for parties to clearly define their obligations and expectations regarding land acquisition processes in contracts.
+
+**Broader Context:**
+
+* The judgment highlights the challenges of land acquisition and public resistance in infrastructure projects.
+* The judgment underscores the importance of evidence in supporting claims for loss of profit in contract disputes.
+
+## 8. Summary Points
+
+* The Appellant challenged the Arbitral Award that favored the Respondent, claiming a fundamental breach of contract by the Appellant for failing to deliver hindrance-free land.
+* The court found the Arbitrator's findings regarding a fundamental breach of contract to be perverse, as the Respondent was aware of the land acquisition challenges and should have planned accordingly.
+* The court found the Arbitrator's award for loss of profit to be without proper justification and evidence.
+* The court set aside the Arbitral Award and the Commercial Court's order upholding it, finding the award to suffer from "patent illegality."
+
+## 9. References
+
+**Citations:**
+
+* All statutes, cases, and legal texts cited in the summary are listed above in "Legal Principles Involved" and "Precedents Cited."
+
+**Further Reading:**
+
+* **Arbitration and Conciliation Act, 1996 (as amended)**: This is the primary legal framework for arbitration in India.
+* **Ssangyong Engineering and Construction Company Ltd. vs. NHAI (2019) 15 SCC 131:** This judgment provides a detailed analysis of the impact of the 2015 Amendment on the grounds for setting aside arbitral awards.
+* **M/s Unibros Vs. All India Radio (SLP (Civil) No. 8791 of 2020):** This case provides guidance on the evidentiary requirements for claiming loss of profit in contract disputes.
+
+This detailed summary covers all the essential facts, legal arguments, and the court's analysis in the case. 

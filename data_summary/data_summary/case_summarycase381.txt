@@ -1,0 +1,86 @@
+## Case Title
+
+* **Case Name:** The Chief Engineer, Roads & Bridges Department, Government of Sikkim vs. KMC Brahmaputra Infrastructure Limited
+* **Court:** Sikkim High Court 
+* **Date of Judgment:** 6th May 2024
+* **Citation:**  WP(C) No.06 of 2024 
+
+## Background and Context
+
+* **Brief Overview:** This case involved a dispute between the Chief Engineer, Roads & Bridges Department, Government of Sikkim (Petitioner) and KMC Brahmaputra Infrastructure Limited (Respondent) regarding the calculation of interest on a partial payment made by the Respondent in an arbitration case. The Respondent had been awarded damages in the arbitration case, but the Petitioner had deposited only 75% of the awarded amount with the court as part of a stay order.
+* **Key Issues:** The main legal issue was whether interest continues to accrue on a partial deposit made by the Judgment Debtor until the entire award amount is made good. Specifically, the court had to determine: 
+    * Whether the 75% deposit made by the Petitioner was towards satisfying the decretal dues or for obtaining a stay.
+    * The applicability of Order XXI Rule 1 of the CPC to this situation, particularly with regards to the cessation of interest on the deposited amount.
+
+## Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * Order XXI Rule 1 of the Code of Civil Procedure, 1908 (CPC)
+    * The Arbitration and Conciliation Act, 1996
+* **Precedents Cited:** 
+    * Himachal Pradesh Housing and Urban Development Authority and Another vs. Ranjit Singh Rana (2012) 4 SCC 505 
+    * Central Council for Research in Ayurvedic Sciences and Another vs. Bikartan Das and Others 2023 SCC OnLine SC 996 
+    * P.S.L. Ramanathan Chettiar and Others vs. O.R.M.P.R.M. Ramanathan Chettiar AIR 1968 SC 1047 
+    * Delhi Development Authority vs. Bhai Sardar Singh and Sons 2020 SCC OnLine SC 1450
+    * Nepa Limited through its Senior Manager (Legal) vs. Manoj Kumar Agrawal 2022 SCC OnLine SC 1736
+    * Gurpreet Singh vs. Union of India (2006) 8 SCC 457
+* **Legal Doctrines:** 
+    * **Cessation of Interest:** The principle of interest ceasing to run on a deposited amount under Order XXI Rule 1 of the CPC.
+    * **Appropriation of Payment:** The legal doctrine allowing the Decree Holder to first apply the deposited amount towards interest, then costs, and finally principal amount. 
+
+## Arguments Presented
+
+* **Petitioner’s Argument:** 
+    * The Commercial Court erroneously interpreted Order XXI Rule 1(4) CPC to mean that interest ceases only when the entire award amount is deposited.
+    * Interest should cease to run on the 75% deposited amount from the date of deposit (26-09-2019).
+    * The Petitioner had deposited the amount in compliance with the stay order and not as satisfaction of the decretal dues.
+* **Respondent’s Argument:** 
+    * The Commercial Court’s order was correct and did not warrant interference.
+    * The 75% deposit was for obtaining a stay and not as payment towards the decretal dues. 
+    * Interest should accrue on the entire awarded amount until it is fully deposited.
+
+## Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The 75% deposit made by the Petitioner was for obtaining a stay and not for satisfying the decretal dues.
+    * Order XXI Rule 1(4) of the CPC does not require interest to cease only when the full award amount is deposited. 
+    * Interest on a deposited amount ceases to run from the date of the deposit, as clarified in various Supreme Court decisions.
+* **Interpretation of Law:** 
+    * The court carefully analyzed Order XXI Rule 1(1), (2), (4) and (5) of the CPC and cited several Supreme Court judgments, including P.S.L. Ramanathan Chettiar, Nepa Limited, Delhi Development Authority, and Gurpreet Singh, to interpret the cessation of interest on deposited amounts.
+* **Application of Law:**
+    * Applying the principles established by the cited judgments, the court held that interest on the 75% deposited amount ceased on 01-06-2023, the date when the Respondent withdrew the amount.
+    * Interest on the remaining 25% of the award amount accrued from the date of the award till 01-09-2023, the date when the Respondent received the remaining amount.
+
+## Judgment
+
+* **Final Decision:** The court set aside the Order of the Learned Commercial Court dated 28-09-2023.
+* **Relief Granted:** The court directed the parties to calculate the interest on the award amount based on the above-mentioned findings. 
+* **Orders:** The court ordered the parties to bear their own costs.
+
+## Implications
+
+* **Impact on Law:** This judgment reaffirms the principle that interest on a deposited amount, even a partial deposit, ceases to run from the date of the deposit under Order XXI Rule 1 of the CPC. 
+* **Future Relevance:** The judgment provides valuable guidance on the interpretation and application of Order XXI Rule 1 in similar cases involving partial payments and stay orders.
+* **Broader Context:** The case underscores the importance of clear communication and understanding regarding the nature and purpose of deposits made during arbitration proceedings, particularly when these deposits are connected to stay orders.
+
+## Summary Points
+
+* Interest on a deposit made for obtaining a stay ceases from the date the money is withdrawn, not from the date of deposit.
+* Order XXI Rule 1 of the CPC does not mandate cessation of interest only when the full amount is deposited.
+* The court carefully reviewed relevant Supreme Court decisions to interpret the legal provisions on interest cessation.
+
+## References
+
+* **Citations:**
+    * Order XXI Rule 1 of the Code of Civil Procedure, 1908 (CPC)
+    * The Arbitration and Conciliation Act, 1996
+    * Himachal Pradesh Housing and Urban Development Authority and Another vs. Ranjit Singh Rana (2012) 4 SCC 505 
+    * Central Council for Research in Ayurvedic Sciences and Another vs. Bikartan Das and Others 2023 SCC OnLine SC 996 
+    * P.S.L. Ramanathan Chettiar and Others vs. O.R.M.P.R.M. Ramanathan Chettiar AIR 1968 SC 1047 
+    * Delhi Development Authority vs. Bhai Sardar Singh and Sons 2020 SCC OnLine SC 1450
+    * Nepa Limited through its Senior Manager (Legal) vs. Manoj Kumar Agrawal 2022 SCC OnLine SC 1736
+    * Gurpreet Singh vs. Union of India (2006) 8 SCC 457
+
+* **Further Reading:**
+    * Other judgments interpreting Order XXI Rule 1 of the CPC.
+    * Legal texts discussing arbitration procedures and execution of awards. 

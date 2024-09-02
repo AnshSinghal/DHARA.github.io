@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "In a commercial dispute involving an arbitral award, can a party appeal an order condoning delay in filing a Section 34 petition under the Arbitration and Conciliation Act, 1996?",
+    "Legal Principles": "An appeal under Section 37 of the A&C Act lies only from orders specified in Section 37(1). An order condoning delay in filing a Section 34 petition does not fall within those specified orders.",
+    "Relevant Sections": "Section 37(1) of the Arbitration and Conciliation Act, 1996",
+    "Context": "Commercial dispute, arbitral award, Section 34 petition, condonation of delay, appeal under Section 37 of the A&C Act"
+  },
+  {
+    "Query": "A company is challenging an arbitral award by filing a Section 34 petition. The court has issued limited notice to the other party, only addressing certain claims. Can the company appeal the court's decision on the limited notice?",
+    "Legal Principles": "A party can appeal an order issuing limited notice in a Section 34 petition if the court's decision impacts the arbitral award for the claims not included in the notice.",
+    "Relevant Sections": "Section 34 of the Arbitration and Conciliation Act, 1996, Section 37 of the Arbitration and Conciliation Act, 1996",
+    "Context": "Commercial dispute, arbitral award, Section 34 petition, limited notice, appeal under Section 37 of the A&C Act"
+  },
+  {
+    "Query": "A party wants to challenge an arbitrator's decision on jurisdiction. They are unsuccessful, and the arbitral tribunal proceeds to issue an award. Can they appeal the initial decision regarding jurisdiction only after the award is issued?",
+    "Legal Principles": "A party challenging an arbitrator's jurisdiction can defer the appeal until the arbitral award is issued. They can then challenge the award under Section 34 of the A&C Act.",
+    "Relevant Sections": "Section 16 of the Arbitration and Conciliation Act, 1996, Section 34 of the Arbitration and Conciliation Act, 1996",
+    "Context": "Commercial dispute, arbitral award, arbitrator's jurisdiction, appeal under Section 34 of the A&C Act"
+  },
+  {
+    "Query": "A company is seeking to enforce an arbitral award in an executing court. The other party argues that certain claims were rejected in a previous Section 34 proceeding. Can the executing court proceed with the enforcement of those rejected claims?",
+    "Legal Principles": "The executing court must determine if the rejected claims in the Section 34 proceeding can be enforced on a stand-alone basis. If so, the enforcement can proceed.",
+    "Relevant Sections": "Section 34 of the Arbitration and Conciliation Act, 1996",
+    "Context": "Commercial dispute, arbitral award, execution of award, Section 34 petition, stand-alone claims"
+  },
+  {
+    "Query": "In a commercial dispute, a party is challenging an interlocutory order issued by a Commercial Court. What are the available remedies for challenging such an order?",
+    "Legal Principles": "No civil revision application or petition can be entertained against an interlocutory order of a Commercial Court. The challenge must be raised in an appeal against the final decree, subject to Section 13 of the Commercial Courts Act.",
+    "Relevant Sections": "Section 8 of the Commercial Courts Act, 2015, Section 13 of the Commercial Courts Act, 2015",
+    "Context": "Commercial dispute, Commercial Court, interlocutory order, appeal, Commercial Courts Act, 2015"
+  },
+  {
+    "Query": "What is the proper procedure for appealing a decision of the Commercial Division of a High Court in a commercial dispute?",
+    "Legal Principles": "An appeal lies from decisions of the Commercial Division to the Commercial Appellate Division within 60 days. The appeal must be based on orders specifically enumerated in Order 43 of the CPC and Section 37 of the A&C Act.",
+    "Relevant Sections": "Section 13 of the Commercial Courts Act, 2015, Order 43 of the Code of Civil Procedure, 1908, Section 37 of the Arbitration and Conciliation Act, 1996",
+    "Context": "Commercial dispute, Commercial Division of a High Court, appeal, Commercial Appellate Division, Commercial Courts Act, 2015"
+  },
+  {
+    "Query": "A party is seeking to challenge an arbitral award under Section 34 of the A&C Act. The court rejects some of the grounds for challenge. Can the party appeal this rejection at the initial stage or wait until the final decision on the Section 34 petition?",
+    "Legal Principles": "The aggrieved party can appeal the rejection of grounds at the initial stage or wait until the final decision on the Section 34 petition. A fresh cause of action arises at both stages.",
+    "Relevant Sections": "Section 34 of the Arbitration and Conciliation Act, 1996, Section 37 of the Arbitration and Conciliation Act, 1996",
+    "Context": "Commercial dispute, arbitral award, Section 34 petition, rejection of grounds, appeal under Section 37 of the A&C Act"
+  },
+  {
+    "Query": "Can a party file multiple appeals in a commercial dispute involving an arbitral award, one at the initial stage and another at the final stage?",
+    "Legal Principles": "Yes, a party can file multiple appeals, one at the initial stage and another at the final stage, as long as the award is impacted at each stage.",
+    "Relevant Sections": "Section 37 of the Arbitration and Conciliation Act, 1996",
+    "Context": "Commercial dispute, arbitral award, multiple appeals, Section 37 of the A&C Act"
+  },
+  {
+    "Query": "What is the impact of the Commercial Courts Act, 2015, on appeals from orders of the Commercial Division of a High Court in arbitration matters?",
+    "Legal Principles": "The Commercial Courts Act reiterates the scope of appealable orders specified in Section 37 of the A&C Act. It does not expand the grounds for appeal in arbitration matters.",
+    "Relevant Sections": "Section 13 of the Commercial Courts Act, 2015, Section 37 of the Arbitration and Conciliation Act, 1996",
+    "Context": "Commercial dispute, Commercial Division of a High Court, appeal, arbitration, Commercial Courts Act, 2015, A&C Act"
+  },
+  {
+    "Query": "In a dispute arising from an arbitral award, can a party appeal a decision refusing to refer the parties to arbitration under Section 8 of the A&C Act?",
+    "Legal Principles": "Yes, an appeal lies from an order refusing to refer parties to arbitration under Section 8 of the A&C Act, as specified in Section 37(1)(a) of the A&C Act.",
+    "Relevant Sections": "Section 8 of the Arbitration and Conciliation Act, 1996, Section 37(1)(a) of the Arbitration and Conciliation Act, 1996",
+    "Context": "Commercial dispute, arbitral award, appeal, referral to arbitration, Section 8 of the A&C Act"
+  }
+]
+```

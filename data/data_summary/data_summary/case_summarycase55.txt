@@ -1,0 +1,123 @@
+##  Case Title
+
+* **Case Name:** South Bihar Power Distribution Co. Ltd. vs Bhagalpur Electricity Distribution Co. Pvt. Ltd. 
+* **Court:** Patna High Court
+* **Date of Judgment:** 14th February, 2019
+* **Citation:** AIR 2019 (NOC) 534 (PAT.), AIRONLINE 2019 PAT 1605, (2019) 3 PAT LJR 18
+
+## Background and Context
+
+**Brief Overview:** This case involved a dispute between South Bihar Power Distribution Co. Ltd. (SBPDCL) and Bhagalpur Electricity Distribution Co. Pvt. Ltd. (BEDCPL) concerning a bank guarantee issued by BEDCPL in favor of SBPDCL. The dispute arose from a distribution franchise agreement between the parties, where BEDCPL was established as a Special Purpose Vehicle by the successful bidder, SPML Infra Limited, to perform the responsibilities of a distribution franchisee. 
+
+**Key Issues:**
+1. **Jurisdiction:** Whether the 5th Additional District Judge, Patna had jurisdiction to hear the matter after the Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015 (2015 Act) came into force.
+2. **Locus Standi:** Whether BEDCPL had the legal standing to bring the case for arbitration and file an application under Section 9 of the Arbitration and Conciliation Act, 1996.
+3. **Procedural Irregularities:** Whether the 5th Additional District Judge had misconducted the proceedings by granting an ad interim injunction without properly considering the arguments and locus standi of SBPDCL.
+
+## Legal Principles Involved
+
+**Relevant Statutes and Provisions:**
+
+* **Arbitration and Conciliation Act, 1996:** Sections 9, 29A, and 37
+* **Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015:** Sections 3 and 15
+* **Indian Contract Act, 1872:** Section 230
+
+**Precedents Cited:**
+
+* **Gangotri Enterprises Limited Versus Union of India & Others** (2016(11) SCC 720)
+* **Union of India v. Raman Iron Foundry** (1974(2) SCC 231)
+* **Iron and Hardware (India) Co. v. Shamlal and Bros.** (AIR 1954 Bom. 423)
+* **Sasan Power Limited Versus North American Coal Corporation (India) Private Limited** (2016(10) SCC 813)
+
+**Legal Doctrines:**
+
+* **Jurisdiction:** The legal authority of a court to hear a case.
+* **Locus Standi:** The legal right of a party to bring a claim before a court.
+* **Natural Justice:** The principle that fair and impartial procedures must be followed in legal proceedings.
+* **Assignment of Contractual Obligations:** The ability to transfer rights or obligations under a contract to another party.
+
+## Arguments Presented
+
+**Appellant’s Argument (SBPDCL):**
+
+* The 5th Additional District Judge had no jurisdiction to hear the matter because the 2015 Act had established Commercial Courts for commercial disputes of a certain value, and the District Judge, Patna had been appointed as the Commercial Court judge for the jurisdiction.
+* BEDCPL lacked locus standi to bring the matter for arbitration or to file an application under Section 9 of the Arbitration and Conciliation Act, 1996, as SPML Infra Limited was the actual party to the agreement and responsible for the bank guarantee. 
+* The court below had misconducted the proceedings by granting the injunction without considering the appellant's arguments and without ensuring the due process of law.
+
+**Respondent’s Argument (BEDCPL):**
+
+*  The District Judge, Patna had transferred the case to the 5th Additional District Judge, Patna, who has concurrent jurisdiction.
+* The agreement clearly established BEDCPL as a party to the tripartite agreement, and the appellant had consented to the establishment of a Special Purpose Vehicle.
+*  The respondent's claim was legitimate, and the bank guarantee was crucial to protecting the respondent's interests while the dispute was pending.
+
+## Court's Analysis and Reasoning
+
+**Key Findings:**
+
+* The court found that the State Government, in exercise of its power under Section 3 of the 2015 Act, had notified the constitution of Commercial Courts, and the District Judge, Patna had been appointed as the sole judge for this purpose.
+* The court held that the 5th Additional District Judge, Patna did not have jurisdiction to hear the matter as the designated Commercial Court was already in existence.
+* While the court did not decide the issue of BEDCPL's locus standi, it highlighted that the respondent was established as a Special Purpose Vehicle with the appellant's consent, and the agreement acknowledged the respondent as a party.
+* The court observed that the impugned order was procedurally deficient, lacking a proper examination of the arguments and the appellant's locus standi, leading to a violation of the principles of natural justice.
+
+**Interpretation of Law:**
+
+* The court interpreted the provisions of the 2015 Act to establish that the Commercial Court was the designated forum for such disputes once the Act came into force.
+* The court referred to precedents regarding the transfer of contractual obligations to determine the application of Section 230 of the Indian Contract Act.
+
+**Application of Law:**
+
+* The court applied the principle of jurisdiction to declare that the court below was not the appropriate forum to hear the case.
+*  The court applied the principle of natural justice to find that the impugned order was flawed due to procedural irregularities and the failure to consider the appellant's arguments.
+
+## Judgment
+
+**Final Decision:**
+
+* The court allowed the appeal and set aside the impugned order of the 5th Additional District Judge, Patna.
+
+**Relief Granted:**
+
+* The court remitted the matter back to the Commercial Court, Patna to hear and pass necessary orders according to law.
+
+**Orders:**
+
+* The court directed the Commercial Court to proceed with the case and determine the matter according to law, considering the issues of jurisdiction and locus standi.
+
+## Implications
+
+**Impact on Law:**
+
+* The judgment reaffirms the jurisdiction of Commercial Courts established under the 2015 Act and clarifies that the designated court, as notified by the State Government, is the only competent forum to handle commercial disputes of specified value.
+* The judgment highlights the importance of following procedural fairness and natural justice principles in judicial proceedings.
+
+**Future Relevance:**
+
+* This case serves as a precedent for future cases involving disputes arising from commercial agreements, specifically regarding the jurisdiction of Commercial Courts and the proper application of the 2015 Act.
+
+**Broader Context:**
+
+* The case underscores the need for adherence to legal processes and the importance of procedural fairness in commercial disputes to ensure a fair and just outcome for all parties involved.
+
+## Summary Points
+
+* The 5th Additional District Judge, Patna lacked jurisdiction to hear the matter because the Commercial Court, established under the 2015 Act, was the designated court.
+* BEDCPL may have had locus standi to bring the matter for arbitration as a party to the tripartite agreement.
+* The impugned order was set aside for procedural irregularities and violation of natural justice principles.
+* The case highlights the importance of adhering to legal processes and the principle of natural justice in judicial proceedings.
+
+## References
+
+* **Arbitration and Conciliation Act, 1996**
+* **Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015**
+* **Indian Contract Act, 1872**
+* **Gangotri Enterprises Limited Versus Union of India & Others** (2016(11) SCC 720)
+* **Union of India v. Raman Iron Foundry** (1974(2) SCC 231)
+* **Iron and Hardware (India) Co. v. Shamlal and Bros.** (AIR 1954 Bom. 423)
+* **Sasan Power Limited Versus North American Coal Corporation (India) Private Limited** (2016(10) SCC 813)
+
+## Further Reading
+
+* **The Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015**
+* **The Arbitration and Conciliation Act, 1996**
+* **The Indian Contract Act, 1872**
+* Cases related to jurisdiction, locus standi, and natural justice principles in arbitration and commercial disputes. 

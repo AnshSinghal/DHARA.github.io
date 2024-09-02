@@ -1,0 +1,85 @@
+## 1. Case Title
+
+* **Case Name:** J.P. Housing Pvt. Ltd., Nagpur, Thr. Its ... vs Mahesh S/O Chandrabhan Kingrani And ... 
+* **Court:** Bombay High Court, Nagpur Bench
+* **Date of Judgment:** 19 March 2024
+* **Citation:** 2024:BHC-NAG:3382
+
+## 2. Background and Context
+
+* **Brief Overview:** This case involves two separate suits filed by Mahesh and Rajesh Kingrani (non-applicants 1 & 2) against J.P. Realities Pvt. Ltd. and its directors (applicants and non-applicants 3-7). The suits seek specific performance of two agreements of sale concerning a piece of land in Nagpur. The crux of the dispute lies in determining whether the transaction falls under the ambit of "commercial dispute" as defined in the Commercial Courts Act, 2015, which would necessitate the suits' transfer to a Commercial Court. 
+* **Key Issues:**
+    * Whether the agreement between the parties regarding the land constitutes a "commercial dispute" under the Commercial Courts Act, 2015.
+    * The interpretation of the phrase "used exclusively in trade or commerce" in the definition of "commercial dispute" under the Act. 
+    * Whether the suit property must be "actually used" in trade or commerce at the time of filing the suit, or if it's sufficient that the property is "capable of being used" or "intended to be used" for such purposes.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * Code of Civil Procedure (CPC), Section 115
+    * Commercial Courts Act, 2015:
+        * Section 2(1)(c)(vii): Definition of "commercial dispute"
+        * Section 6: Jurisdiction of Commercial Courts
+        * Section 15: Transfer of commercial disputes to Commercial Courts
+    * CPC, Order VII Rule 10: Return of plaint
+    * CPC, Order VII Rule 11(d): Rejection of plaint 
+* **Precedents Cited:**
+    * Kanchanganga Relators Pvt. Ltd Vs. Monarch Infrastructure Developers (2019) 5 MhLJ 953
+    * Mansukhlal Dhanraj Jain and others Vs. Eknath Vithal Ogale (1995) 2 SCC 665
+    * Jagmohan Behl Vs. State Bank of Indore (2017 SCC OnLine Del 10706)
+    * Dineshkumar Gulabghand Agrawal v. Commissioner of Income-Tax (2004) 267 ITR 768 : 2003 SCC OnLine Bom 1289
+    * Vasu Healthcare Private Vs. Gujarat Akruti TCG Biotech Limited and another (2017 SCC OnLine Guj 724) 
+    * Ambalal Sarabhai Enterprises Limited Vs. K.S. Infraspace LLP and another (2020) 15 SCC 585
+    * Federation of A.P. Chambers of Commerce & Industry Vs. State of A.P. (2000) 6 SCC 550
+* **Legal Doctrines:**
+    * Purposive Interpretation: The court considered the objects and reasons behind the enactment of the Commercial Courts Act, 2015, while interpreting its provisions.
+    * Strict Construction: The court adopted a strict construction of the phrase "used exclusively in trade or commerce" in order to preserve the intended purpose of the Act.
+
+## 4. Arguments Presented
+
+* **Plaintiff’s Argument (Non-applicants 1 & 2):**
+    * The agreement pertains to immovable property intended for development and sale of commercial and residential units, indicating a clear commercial objective.
+    * The dispute involves a significant financial value, falling within the ambit of "specified value" as defined in the Act.
+    * The case should be transferred to the Commercial Court as it qualifies as a "commercial dispute" under the Act.
+* **Defendant’s Argument (Applicants and Non-applicants 3-7):**
+    * The suit property is not currently being "used" in trade or commerce, only "intended to be used" for such purposes.
+    * The mere possibility of future use in trade or commerce is insufficient to categorize the dispute as a "commercial dispute."
+    * The suit should remain in the ordinary civil court as it does not meet the criteria for transfer to the Commercial Court.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The agreement pertains to immovable property intended for commercial development and sale, indicating a clear commercial objective.
+    * The dispute value exceeds the "specified value" outlined in the Act.
+* **Interpretation of Law:**
+    * The court emphasized the purposive interpretation of the Commercial Courts Act, 2015, noting its intended objective of providing a fast-track mechanism for resolving high-value commercial disputes.
+    * The court strictly construed the phrase "used exclusively in trade or commerce," emphasizing the requirement of "actual use" at the time of filing the suit, not mere potential or future use.
+* **Application of Law:**
+    * The court analyzed precedents concerning the interpretation of "used," concluding that "actually used" or "being used" at the time of filing the suit is required to categorize a dispute as commercial. 
+    * The court rejected the broader interpretation of "capable of being used" or "intended to be used" for trade or commerce, as advocated by the applicants, to avoid diluting the purpose of the Commercial Courts Act.
+
+## 6. Judgment
+
+* **Final Decision:** The court dismissed both revision applications. 
+* **Relief Granted:** No relief granted, as the applications were dismissed.
+* **Orders:** The court upheld the lower court's decision, confirming that the suits do not qualify as "commercial disputes" under the Act.
+
+## 7. Implications
+
+* **Impact on Law:** The judgment strengthens the requirement of "actual use" in trade or commerce for a dispute to qualify as a "commercial dispute" under the Act. It also underscores the importance of a strict interpretation of the Act's provisions to prevent overloading the Commercial Courts with non-commercial cases.
+* **Future Relevance:** This decision provides a valuable precedent for future cases involving similar disputes, establishing a clear threshold for classifying a dispute as commercial.
+* **Broader Context:** This judgment reflects a growing trend in India towards specialization and dedicated courts for specific types of legal disputes.
+
+## 8. Summary Points
+
+* The dispute concerning the agreement to sell land was not considered a "commercial dispute" under the Act.
+* The court interpreted "used exclusively in trade or commerce" to require "actual use" at the time of filing the suit.
+* The judgment emphasizes the need for a strict construction of the Commercial Courts Act to preserve its purpose of fast-tracking high-value commercial disputes.
+
+## 9. References
+
+* **Citations:** See "Legal Principles Involved" section for full citations.
+* **Further Reading:** 
+    *  "The Commercial Courts Act, 2015: A Critical Analysis" by Dr. V.K. Bhatia 
+    * "Commercial Courts Act, 2015: A New Era for Commercial Justice" by Mr. Amitabh Chandra 
+    * Articles and commentaries on the Commercial Courts Act, 2015, available on legal research databases such as Westlaw, LexisNexis, and Manupatra. 

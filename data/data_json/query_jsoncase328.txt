@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "Anheuser Busch Inbev India Limited (Respondent) is seeking an extension of the time for making the arbitral award under Sections 29A(4) and (5) of the Arbitration and Conciliation Act, 1996. The appellant, Scarpe Marketing Private Limited, argues that the Commercial Court lacks jurisdiction to entertain the application as the High Court had already appointed the arbitrators under Section 11 of the Act. Is the Commercial Court's extension of the mandate of the Arbitral Tribunal valid, considering the High Court's prior appointment of arbitrators?",
+    "Legal Principles": "Jurisdiction of Commercial Court under Section 29A of the Arbitration and Conciliation Act, 1996, Appointment of Arbitrators under Section 11 of the Arbitration and Conciliation Act, 1996, Power to extend the time for making arbitral award, Maintainability of appeal under Section 13(1A) of the Commercial Courts Act, 2015",
+    "Relevant Sections": "Section 13(1A) of the Commercial Courts Act, 2015, Section 29A of the Arbitration and Conciliation Act, 1996, Section 11 of the Arbitration and Conciliation Act, 1996, Section 37 of the Arbitration and Conciliation Act, 1996, Section 151 of CPC",
+    "Context": "Commercial Appeal (COMAP) filed under Section 13(1A) of the Commercial Courts Act, 2015, challenging an order of the Commercial Court granting extension of time for making an arbitral award under Section 29A of the Arbitration and Conciliation Act, 1996. The dispute arises from a Brewing Agreement between Anheuser Busch Inbev India Limited and East Godavari Breweries Private Limited. The High Court had earlier appointed arbitrators under Section 11 of the Act."
+  },
+  {
+    "Query": "A construction company, A-One Construction, is seeking to enforce an arbitral award against B-Tech Builders. B-Tech Builders argues that the arbitral award is invalid because the arbitrator did not have the authority to decide on a particular claim related to the scope of work. The arbitrator’s mandate was extended under Section 29A of the Arbitration and Conciliation Act, 1996. Can a party challenge the arbitral award based on the arbitrator's purported lack of authority to decide on specific claims even after the mandate was extended?",
+    "Legal Principles": "Validity of arbitral award, Scope of Arbitrator’s authority, Extension of arbitrator's mandate under Section 29A of the Arbitration and Conciliation Act, 1996, Challenges to arbitral awards",
+    "Relevant Sections": "Section 29A of the Arbitration and Conciliation Act, 1996, Section 34 of the Arbitration and Conciliation Act, 1996",
+    "Context": "A case challenging an arbitral award in a construction dispute. The dispute involves the scope of work and the validity of the arbitral award based on the alleged lack of authority of the arbitrator."
+  },
+  {
+    "Query": "Two parties, Alpha Enterprises and Beta Corporation, entered into a contract containing an arbitration clause. A dispute arose, and Alpha Enterprises filed an application under Section 8 of the Arbitration and Conciliation Act, 1996, seeking to refer the matter to arbitration. Beta Corporation argued that the dispute was not subject to arbitration. The court refused to refer the parties to arbitration. Can Alpha Enterprises appeal the court's order?",
+    "Legal Principles": "Referral to arbitration under Section 8 of the Arbitration and Conciliation Act, 1996, Appealability of court orders refusing to refer to arbitration, Scope of arbitration clauses",
+    "Relevant Sections": "Section 8 of the Arbitration and Conciliation Act, 1996, Section 37 of the Arbitration and Conciliation Act, 1996",
+    "Context": "A case involving a dispute over the enforceability of an arbitration clause and the appealability of a court order refusing to refer the matter to arbitration."
+  },
+  {
+    "Query": "A software company, Tech Solutions, filed an application under Section 9 of the Arbitration and Conciliation Act, 1996, seeking an interim measure to prevent the other party, Data Services, from disclosing confidential information. The court granted the interim measure. Data Services wants to appeal this order. Is the court's order granting the interim measure appealable?",
+    "Legal Principles": "Interim measures under Section 9 of the Arbitration and Conciliation Act, 1996, Appealability of court orders granting interim measures, Confidentiality of information",
+    "Relevant Sections": "Section 9 of the Arbitration and Conciliation Act, 1996, Section 37 of the Arbitration and Conciliation Act, 1996",
+    "Context": "A case concerning the appealability of a court order granting an interim measure to protect confidential information in a software dispute."
+  },
+  {
+    "Query": "An investment firm, Capital Ventures, filed an application under Section 34 of the Arbitration and Conciliation Act, 1996, seeking to set aside an arbitral award issued against them by an arbitral tribunal. The application was based on allegations of corruption and misconduct by the arbitrator. The court refused to set aside the award. Can Capital Ventures appeal the court's decision?",
+    "Legal Principles": "Setting aside arbitral awards under Section 34 of the Arbitration and Conciliation Act, 1996, Appealability of court orders refusing to set aside arbitral awards, Corruption and misconduct by arbitrators",
+    "Relevant Sections": "Section 34 of the Arbitration and Conciliation Act, 1996, Section 37 of the Arbitration and Conciliation Act, 1996",
+    "Context": "A case involving a challenge to an arbitral award based on allegations of arbitrator misconduct and the appealability of a court order refusing to set aside the award."
+  },
+  {
+    "Query": "A manufacturing company, Industrial Products, was involved in a dispute with its supplier, Raw Materials Inc. The dispute was referred to arbitration, and the arbitral tribunal issued an award in favor of Industrial Products. Raw Materials Inc. appealed the award, arguing that the arbitral tribunal failed to consider relevant evidence. The appellate court upheld the award. Can Raw Materials Inc. appeal the appellate court's decision?",
+    "Legal Principles": "Appealability of arbitral awards, Review of arbitral decisions by appellate courts, Failure to consider relevant evidence",
+    "Relevant Sections": "Section 37 of the Arbitration and Conciliation Act, 1996, Relevant provisions of the applicable appellate court rules",
+    "Context": "A case involving an appeal from a decision of an appellate court upholding an arbitral award. The appeal concerns the alleged failure of the arbitral tribunal to consider relevant evidence."
+  },
+  {
+    "Query": "Two parties, Gamma Logistics and Delta Transport, entered into a contract with an arbitration clause specifying that the seat of arbitration is in Delhi. However, the arbitral tribunal was constituted in Mumbai. Gamma Logistics argued that the tribunal was improperly constituted due to the incorrect seat of arbitration. The arbitral tribunal proceeded with the arbitration. Can Gamma Logistics challenge the arbitral award based on the improper constitution of the tribunal?",
+    "Legal Principles": "Seat of arbitration, Improper constitution of arbitral tribunal, Validity of arbitral awards, Challenges to arbitral awards",
+    "Relevant Sections": "Relevant sections of the Arbitration and Conciliation Act, 1996, relevant provisions of the arbitration agreement",
+    "Context": "A case concerning the improper constitution of an arbitral tribunal due to a discrepancy in the seat of arbitration specified in the arbitration agreement."
+  },
+  {
+    "Query": "An insurance company, Shield Insurance, filed an application under Section 17 of the Arbitration and Conciliation Act, 1996, seeking an interim measure to prevent the other party, Claimants United, from pursuing a claim in another forum. The court granted the interim measure. Claimants United wants to appeal this order. Is the court's order granting the interim measure appealable?",
+    "Legal Principles": "Interim measures under Section 17 of the Arbitration and Conciliation Act, 1996, Appealability of court orders granting interim measures, Forum selection clauses",
+    "Relevant Sections": "Section 17 of the Arbitration and Conciliation Act, 1996, Section 37 of the Arbitration and Conciliation Act, 1996",
+    "Context": "A case concerning the appealability of a court order granting an interim measure to prevent a party from pursuing a claim in another forum in an insurance dispute."
+  },
+  {
+    "Query": "Two parties, Omega Technology and Pi Technologies, entered into a technology licensing agreement containing an arbitration clause. A dispute arose, and Omega Technology sought to refer the dispute to arbitration. Pi Technologies argued that the arbitration clause was invalid because it did not contain a specific agreement on the number of arbitrators. Can Omega Technology still refer the dispute to arbitration?",
+    "Legal Principles": "Validity of arbitration clauses, Requirements for valid arbitration clauses, Number of arbitrators, Referral to arbitration",
+    "Relevant Sections": "Relevant sections of the Arbitration and Conciliation Act, 1996, relevant provisions of the arbitration agreement",
+    "Context": "A case concerning the validity of an arbitration clause and the requirement of a specific agreement on the number of arbitrators in a technology licensing dispute."
+  },
+  {
+    "Query": "A retail company, ShopSmart, was involved in a dispute with its landlord, Property Holdings, over the terms of a lease agreement. The dispute was referred to arbitration, and the arbitral tribunal issued an award in favor of ShopSmart. Property Holdings appealed the award, arguing that the arbitral tribunal failed to consider the impact of a recent change in legislation on the interpretation of the lease agreement. The appellate court upheld the award. Can Property Holdings appeal the appellate court's decision?",
+    "Legal Principles": "Appealability of arbitral awards, Review of arbitral decisions by appellate courts, Interpretation of contracts, Impact of legislative changes",
+    "Relevant Sections": "Section 37 of the Arbitration and Conciliation Act, 1996, Relevant provisions of the applicable appellate court rules",
+    "Context": "A case involving an appeal from a decision of an appellate court upholding an arbitral award. The appeal concerns the alleged failure of the arbitral tribunal to consider the impact of a legislative change on the interpretation of a lease agreement."
+  }
+]
+```

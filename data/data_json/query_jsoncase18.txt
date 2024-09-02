@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A construction company is suing a contractor for breach of contract, alleging that the contractor failed to complete the project on time and within budget. The contractor claims that the delays were due to unforeseen circumstances and that the construction company interfered with their work. The dispute goes to arbitration, and the arbitrator rules in favor of the construction company. The contractor is now seeking to set aside the arbitral award, arguing that the arbitrator was biased in favor of the construction company. The arbitrator had previously worked on other projects for the construction company, and the contractor believes that this creates a conflict of interest.",
+    "Legal Principles": "Arbitrator impartiality, conflict of interest, Section 12(1) of the Arbitration and Conciliation Act, 1996 (A&C Act), Fifth Schedule of the A&C Act, Sixth Schedule of the A&C Act, disclosure requirements",
+    "Relevant Sections": "Section 12(1) of the A&C Act, Explanation 1 to Section 12(1) of the A&C Act, Explanation 2 to Section 12(1) of the A&C Act, Fifth Schedule of the A&C Act (Entry 22), Sixth Schedule of the A&C Act",
+    "Context": "Jurisdiction: India, Case type: Application to set aside an arbitral award, Issue: Arbitrator's bias and failure to disclose potential conflicts of interest"
+  },
+  {
+    "Query": "A software developer is suing a client for non-payment of services rendered. The client claims that the software did not meet the agreed-upon specifications and that the developer failed to provide adequate support. The developer claims that the client made changes to the project scope without authorization and that the software was fully functional. The dispute goes to arbitration, and the arbitrator awards a portion of the payment to the developer, finding that the client was partially responsible for the delays and cost overruns. The client is now seeking to set aside the arbitral award, arguing that the arbitrator failed to adequately consider the evidence and misapplied the relevant legal principles.",
+    "Legal Principles": "Arbitrator's duty to consider evidence, application of legal principles, Section 34 of the A&C Act, grounds for setting aside an arbitral award",
+    "Relevant Sections": "Section 34 of the A&C Act",
+    "Context": "Jurisdiction: India, Case type: Application to set aside an arbitral award, Issue: Arbitrator's failure to consider evidence and apply legal principles correctly"
+  },
+  {
+    "Query": "A real estate developer is suing a construction company for defective work on a residential building. The construction company claims that the defects were caused by the developer's failure to provide proper specifications and supervision. The dispute goes to arbitration, and the arbitrator rules in favor of the real estate developer. The construction company is now seeking to set aside the arbitral award, arguing that the arbitrator was biased in favor of the real estate developer. The arbitrator had previously worked on other projects for the real estate developer, and the construction company believes that this creates a conflict of interest.",
+    "Legal Principles": "Arbitrator impartiality, conflict of interest, Section 12(1) of the A&C Act, Fifth Schedule of the A&C Act, Sixth Schedule of the A&C Act, disclosure requirements",
+    "Relevant Sections": "Section 12(1) of the A&C Act, Explanation 1 to Section 12(1) of the A&C Act, Explanation 2 to Section 12(1) of the A&C Act, Fifth Schedule of the A&C Act (Entry 22), Sixth Schedule of the A&C Act",
+    "Context": "Jurisdiction: India, Case type: Application to set aside an arbitral award, Issue: Arbitrator's bias and failure to disclose potential conflicts of interest"
+  },
+  {
+    "Query": "A manufacturing company is suing a supplier for breach of contract, alleging that the supplier failed to deliver the agreed-upon quantity of raw materials on time. The supplier claims that the delay was due to unforeseen circumstances and that the manufacturing company did not provide adequate notice of their requirements. The dispute goes to arbitration, and the arbitrator rules in favor of the manufacturing company. The supplier is now seeking to set aside the arbitral award, arguing that the arbitrator failed to adequately consider the evidence and misapplied the relevant legal principles.",
+    "Legal Principles": "Arbitrator's duty to consider evidence, application of legal principles, Section 34 of the A&C Act, grounds for setting aside an arbitral award",
+    "Relevant Sections": "Section 34 of the A&C Act",
+    "Context": "Jurisdiction: India, Case type: Application to set aside an arbitral award, Issue: Arbitrator's failure to consider evidence and apply legal principles correctly"
+  },
+  {
+    "Query": "A technology company is suing a customer for non-payment of software licenses. The customer claims that the software did not meet the agreed-upon specifications and that the technology company failed to provide adequate support. The technology company claims that the customer made changes to the project scope without authorization and that the software was fully functional. The dispute goes to arbitration, and the arbitrator rules in favor of the technology company. The customer is now seeking to set aside the arbitral award, arguing that the arbitrator was biased in favor of the technology company. The arbitrator had previously worked as a consultant for the technology company, and the customer believes that this creates a conflict of interest.",
+    "Legal Principles": "Arbitrator impartiality, conflict of interest, Section 12(1) of the A&C Act, Fifth Schedule of the A&C Act, Sixth Schedule of the A&C Act, disclosure requirements",
+    "Relevant Sections": "Section 12(1) of the A&C Act, Explanation 1 to Section 12(1) of the A&C Act, Explanation 2 to Section 12(1) of the A&C Act, Fifth Schedule of the A&C Act (Entry 22), Sixth Schedule of the A&C Act",
+    "Context": "Jurisdiction: India, Case type: Application to set aside an arbitral award, Issue: Arbitrator's bias and failure to disclose potential conflicts of interest"
+  },
+  {
+    "Query": "A media company is suing a former employee for breach of a confidentiality agreement. The former employee claims that the agreement is unenforceable and that the information they disclosed was not confidential. The dispute goes to arbitration, and the arbitrator rules in favor of the media company. The former employee is now seeking to set aside the arbitral award, arguing that the arbitrator failed to adequately consider the evidence and misapplied the relevant legal principles.",
+    "Legal Principles": "Arbitrator's duty to consider evidence, application of legal principles, Section 34 of the A&C Act, grounds for setting aside an arbitral award",
+    "Relevant Sections": "Section 34 of the A&C Act",
+    "Context": "Jurisdiction: India, Case type: Application to set aside an arbitral award, Issue: Arbitrator's failure to consider evidence and apply legal principles correctly"
+  },
+  {
+    "Query": "A financial institution is suing a borrower for default on a loan. The borrower claims that the financial institution failed to disclose the terms of the loan agreement properly. The dispute goes to arbitration, and the arbitrator rules in favor of the financial institution. The borrower is now seeking to set aside the arbitral award, arguing that the arbitrator was biased in favor of the financial institution. The arbitrator had previously worked as a financial advisor for the financial institution, and the borrower believes that this creates a conflict of interest.",
+    "Legal Principles": "Arbitrator impartiality, conflict of interest, Section 12(1) of the A&C Act, Fifth Schedule of the A&C Act, Sixth Schedule of the A&C Act, disclosure requirements",
+    "Relevant Sections": "Section 12(1) of the A&C Act, Explanation 1 to Section 12(1) of the A&C Act, Explanation 2 to Section 12(1) of the A&C Act, Fifth Schedule of the A&C Act (Entry 22), Sixth Schedule of the A&C Act",
+    "Context": "Jurisdiction: India, Case type: Application to set aside an arbitral award, Issue: Arbitrator's bias and failure to disclose potential conflicts of interest"
+  },
+  {
+    "Query": "A healthcare provider is suing a patient for non-payment of medical bills. The patient claims that the healthcare provider provided inadequate care and that the bills are excessive. The dispute goes to arbitration, and the arbitrator rules in favor of the healthcare provider. The patient is now seeking to set aside the arbitral award, arguing that the arbitrator failed to adequately consider the evidence and misapplied the relevant legal principles.",
+    "Legal Principles": "Arbitrator's duty to consider evidence, application of legal principles, Section 34 of the A&C Act, grounds for setting aside an arbitral award",
+    "Relevant Sections": "Section 34 of the A&C Act",
+    "Context": "Jurisdiction: India, Case type: Application to set aside an arbitral award, Issue: Arbitrator's failure to consider evidence and apply legal principles correctly"
+  },
+  {
+    "Query": "A retail company is suing a supplier for defective goods. The supplier claims that the defects were caused by the retail company's improper handling of the goods. The dispute goes to arbitration, and the arbitrator rules in favor of the retail company. The supplier is now seeking to set aside the arbitral award, arguing that the arbitrator was biased in favor of the retail company. The arbitrator had previously worked as a consultant for the retail company, and the supplier believes that this creates a conflict of interest.",
+    "Legal Principles": "Arbitrator impartiality, conflict of interest, Section 12(1) of the A&C Act, Fifth Schedule of the A&C Act, Sixth Schedule of the A&C Act, disclosure requirements",
+    "Relevant Sections": "Section 12(1) of the A&C Act, Explanation 1 to Section 12(1) of the A&C Act, Explanation 2 to Section 12(1) of the A&C Act, Fifth Schedule of the A&C Act (Entry 22), Sixth Schedule of the A&C Act",
+    "Context": "Jurisdiction: India, Case type: Application to set aside an arbitral award, Issue: Arbitrator's bias and failure to disclose potential conflicts of interest"
+  },
+  {
+    "Query": "An energy company is suing a contractor for breach of contract, alleging that the contractor failed to complete the construction of a solar farm on time and within budget. The contractor claims that the delays were due to unforeseen circumstances and that the energy company interfered with their work. The dispute goes to arbitration, and the arbitrator rules in favor of the energy company. The contractor is now seeking to set aside the arbitral award, arguing that the arbitrator failed to adequately consider the evidence and misapplied the relevant legal principles.",
+    "Legal Principles": "Arbitrator's duty to consider evidence, application of legal principles, Section 34 of the A&C Act, grounds for setting aside an arbitral award",
+    "Relevant Sections": "Section 34 of the A&C Act",
+    "Context": "Jurisdiction: India, Case type: Application to set aside an arbitral award, Issue: Arbitrator's failure to consider evidence and apply legal principles correctly"
+  }
+]
+```

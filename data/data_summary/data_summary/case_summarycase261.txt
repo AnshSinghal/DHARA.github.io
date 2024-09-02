@@ -1,0 +1,95 @@
+## 1. Case Title
+
+* **Case Name:** Bharti Airtel Ltd. vs. Jamshed Khan & Anr.
+* **Court:** Delhi High Court
+* **Date of Judgment:** 8th November, 2023
+* **Citation:** FAO (COMM) 55/2021 & CM APPL. 8069/2021
+
+## 2. Background and Context
+
+* **Brief Overview:** Bharti Airtel Ltd. (Appellant) entered into a Licence Agreement with Jamshed Khan (Respondent No.1) for rooftop space to erect a communication tower. Respondent No.1 claimed arrears of licence fee due to Appellant's failure to pay. The dispute went to arbitration, where the Arbitrator dismissed Respondent No.1's claim due to a pre-existing licence agreement for the same space with M/s. Reliance Infratel Ltd. Respondent No.1 challenged the Award under Section 34 of the Arbitration and Conciliation Act, 1996 (Act, 1996), which was partially allowed by the District Judge (Commercial Court). The Appellant appealed this decision to the Delhi High Court.
+* **Key Issues:** 
+    * Whether the District Judge (Commercial Court) was justified in partially setting aside the Arbitral Award.
+    * Whether the District Judge (Commercial Court) could modify the Arbitral Award under Section 34 of the Act, 1996.
+    * Whether the issue concerning the availability of space on the rooftop was severable from the other issues in the Award.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * Section 34 of the Arbitration and Conciliation Act, 1996: Grounds for challenging an Arbitral Award.
+    * Section 37 of the Arbitration and Conciliation Act, 1996: Appeals against Orders under Section 34.
+* **Precedents Cited:**
+    * MMTC Limited v. Vedanta Ltd., (2019) 4 SCC 163
+    * Associate Builders v. DDA, (2015) 3 SCC 49
+    * ONGC v. Saw Pipes, (2003) 5 SCC 705
+    * Hindustan Zinc Limited v. Friends Coal Carbonisation, (2006) 4 SCC 445
+    * Ssangyong Engineering and Construction Co. Ltd. v. NHAI, (2019) 15 SCC 131
+    * Rashtriya Ispat Nigam Ltd. vs. Dewan Chand Ram Saran, (2012) 5 SCC 306
+    * MSK Projects (I) (JV) Ltd. vs. State of Rajasthan, (2011) 10 SCC 573
+    * McDermott International Inc. vs. Burn Standard Co. Ltd. (2006) 11 SCC 181
+    * Pure Helium India (P) Ltd. vs. Oil and Natural Gas Commission (2003) 8 SCC 593
+    * D.D. Sharma vs. Union of India (2004) 5 SCC 325
+    * J.G. Engineers Pvt. Ltd. v. Union of India, (2011) 5 SCC 758
+    * R.S. Jiwani (M/S.) v. Ircon International Ltd., 2009 SCC OnLine Bom 2021
+    * National Highway Authority of India v. The Additional Commissioner, Nagpur, 2022 SCC OnLine Bom 1688
+    * National Highways Authority Of India vs Trichy Thanjavur Expressway Ltd. 2023 SCC OnLine Del 5183
+    * Dyna Technologies (P) Ltd. v. Cromption Greaves Ltd., (2019) 20 SCC 1
+    * Nussli Switzerland Ltd. v. Organizing Committee, Commonwealth Games, 2014 SCC OnLine Del 4834
+    * Kinnari Mullick v. Ghanshyam Das Damani, (2018) 11 SCC 328
+    * Dakshin Haryna Bijli Vitran Nigam Ltd. v. Navigant Technologies (P) Ltd., (2021) 7 SCC 657
+    * National Highway Authority of India v. M. Hakeem, (2021) 9 SCC 1
+* **Legal Doctrines:**
+    * **Patent Illegality:** An Award can be set aside if it is patently illegal, meaning a contravention of the substantive law of India, the Arbitration Act, or the rules applicable to the dispute.
+    * **Fundamental Policy of Indian Law:** An Award can be set aside if it is against the fundamental policy of Indian law, including justice, morality, or the interest of India.
+    * **Severability:**  A court can partially set aside an Award if the offending part is severable and does not impact other components of the Award.
+
+## 4. Arguments Presented
+
+* **Appellant's Argument:**
+    * The District Judge (Commercial Court) erred in awarding licence fee and interest to Respondent No.1 because it could not rewrite the contract under Section 34 of the Act, 1996.
+    * The District Judge (Commercial Court) misinterpreted the Arbitrator's findings on the availability of space.
+    * The Award was not severable, and the partial setting aside was incorrect.
+* **Respondent No. 1's Argument:**
+    * The Arbitrator's findings were based on no evidence and were severable, making the partial setting aside justifiable.
+    * The District Judge (Commercial Court) correctly determined that the Appellant was liable to pay licence fees.
+
+## 5. Court's Analysis and Reasoning
+
+* **Key Findings:**
+    * The Court found that the District Judge (Commercial Court) acted as an appellate court and re-appreciated evidence instead of limiting its role to challenging the Arbitrator's Award on the grounds stipulated in Section 34 of the Act, 1996.
+    * The Court determined that the Arbitrator's Award was not severable as the issue of licence fee was intertwined with the validity of the Licence Agreement, making partial setting aside of the Award inappropriate.
+    * The Court held that the District Judge (Commercial Court) had no power to modify the Award under Section 34 of the Act, 1996.
+* **Interpretation of Law:**
+    * The Court reiterated the limited scope of judicial interference in arbitration under Section 34 of the Act, 1996.
+    * The Court interpreted precedents to confirm that courts can only set aside Awards on specific grounds and cannot rewrite or modify them.
+* **Application of Law:**
+    * The Court applied the principles of patent illegality, fundamental policy, and severability to the facts of the case. 
+    * The Court found that the Arbitrator's Award did not violate any legal principles, and the District Judge (Commercial Court) exceeded its jurisdiction.
+
+## 6. Judgment
+
+* **Final Decision:** The Appeal was allowed, and the Order of the District Judge (Commercial Court) was set aside. 
+* **Relief Granted:** The Arbitral Award dated 21.12.2018 was upheld in its entirety.
+* **Orders:** The Delhi High Court ordered fresh arbitration proceedings to be initiated if the parties wished to pursue the dispute further.
+
+## 7. Implications
+
+* **Impact on Law:** The judgment reaffirms the principle of limited judicial review in arbitration proceedings under Section 34 of the Act, 1996. It reinforces the principle that courts cannot modify or rewrite Arbitral Awards.
+* **Future Relevance:** This judgment will likely be cited in future cases where the scope of judicial intervention in arbitration is in question. 
+* **Broader Context:** The case highlights the importance of parties understanding the limitations of judicial intervention in arbitration and ensuring that the Arbitral process is conducted fairly and with proper reasoning.
+
+## 8. Summary Points
+
+* The Delhi High Court upheld the Arbitral Award, finding that the District Judge (Commercial Court) had exceeded its jurisdiction by re-interpreting evidence and modifying the Award. 
+* The Court confirmed that courts can only set aside Awards on the grounds specified in Section 34 of the Act, 1996, and cannot rewrite or modify them.
+* The case serves as a reminder that arbitration is intended to be a faster and more efficient method of dispute resolution than traditional litigation, and courts should exercise caution when intervening in the Arbitral process.
+
+## 9. References
+
+* **Citations:**
+    * Arbitration and Conciliation Act, 1996.
+    * All cases mentioned in the "Precedents Cited" section above.
+* **Further Reading:**
+    * Redfern and Hunter on International Arbitration (6 Edn.)
+
+Please note that this is a detailed summary of the case and its legal aspects. You can find the complete text of the judgment by searching online for the case title and citation. 

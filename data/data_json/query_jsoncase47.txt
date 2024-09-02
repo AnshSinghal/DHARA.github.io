@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A plaintiff filed a suit against a proprietorship firm, but mistakenly named the wrong proprietor in the memo of parties.  The defendant, the actual proprietor, filed a written statement acknowledging his ownership. The plaintiff then sought to amend the memo of parties to correct the proprietor's name. Can the court allow this amendment, even though the trial has technically commenced?",
+    "Legal Principles": "Order VI Rule 17 of the Code of Civil Procedure (CPC) permits amendments to pleadings at any stage of the proceedings, subject to certain limitations. The proviso to Order VI Rule 17 prohibits amendments after the trial commences, but allows for amendments if the court is satisfied that the party could not have raised the matter before the commencement of trial despite due diligence.  The commencement of trial is generally considered to be when evidence is actually led by the plaintiff, not when issues are framed or a date is set for hearing.",
+    "Relevant Sections": "Order VI Rule 17 of the Code of Civil Procedure, 1908 (5 of 1908)\nProviso to Order VI Rule 17\nOrder XV A of the CPC as amended by the Commercial Courts Act, 2015\nOrder XV A Rule 2 of the CPC\nOrder 18 CPC\nOrder 14 CPC\nOrder 15 CPC",
+    "Context": "Civil suit, amendment of pleadings, commencement of trial, proprietorship firm, misnomer of party"
+  },
+  {
+    "Query": "A party seeks to amend their pleading to introduce a new claim that is potentially barred by the statute of limitations. Can the court allow this amendment?",
+    "Legal Principles": "Courts have broad discretion to allow amendments to pleadings, even if the amended claim would be time-barred, if doing so is necessary to achieve justice and avoid further litigation. However, the court should consider factors such as prejudice to the opposing party, the reason for the delay, and whether the amendment would substantially alter the original cause of action.",
+    "Relevant Sections": "Order VI Rule 17 of the Code of Civil Procedure, 1908 (5 of 1908)",
+    "Context": "Civil suit, amendment of pleadings, statute of limitations, cause of action"
+  },
+  {
+    "Query": "A plaintiff sues a defendant for breach of contract. The defendant claims the plaintiff's claim is barred by the doctrine of waiver. Can the defendant amend their written statement to include this new defense?",
+    "Legal Principles": "The court may allow a defendant to amend their written statement to raise a new defense, even after the trial has commenced, if the defendant can demonstrate that the defense was not available at the time the original written statement was filed due to circumstances beyond their control, and the amendment would not cause undue prejudice to the plaintiff. However, the court must balance the defendant's right to present their full defense against the plaintiff's right to a fair trial.",
+    "Relevant Sections": "Order VI Rule 17 of the Code of Civil Procedure, 1908 (5 of 1908)",
+    "Context": "Civil suit, breach of contract, amendment of pleadings, waiver, defense"
+  },
+  {
+    "Query": "A plaintiff seeks to amend their plaint to add a new party as a defendant. Can the court allow this amendment if the new defendant would have a valid defense of limitation?",
+    "Legal Principles": "The court has discretion to allow amendments to add new parties, even if the addition would introduce a time-barred claim. The court should consider factors such as the reason for the delay, the potential prejudice to the new defendant, and whether the amendment is necessary to achieve a fair and just outcome. The court may impose conditions on the amendment, such as payment of costs.",
+    "Relevant Sections": "Order VI Rule 17 of the Code of Civil Procedure, 1908 (5 of 1908)",
+    "Context": "Civil suit, amendment of pleadings, addition of parties, statute of limitations"
+  },
+  {
+    "Query": "A plaintiff mistakenly sued the wrong defendant.  The correct defendant was aware of the mistake and chose not to correct it. After the trial began, the plaintiff sought to amend the plaint to name the correct defendant. Can the court allow this amendment?",
+    "Legal Principles": "The court may allow an amendment to name the correct defendant, even if the trial has commenced, if the plaintiff can show that the mistake was unintentional and the correct defendant was aware of the error. The court should consider whether the amendment would cause undue prejudice to the correct defendant, who may have relied on the original misnomer in preparing their defense. The court may impose conditions on the amendment, such as payment of costs.",
+    "Relevant Sections": "Order VI Rule 17 of the Code of Civil Procedure, 1908 (5 of 1908)",
+    "Context": "Civil suit, amendment of pleadings, misnomer of parties,  prejudice"
+  },
+  {
+    "Query": "A plaintiff seeks to amend their plaint to change the nature of the relief sought. Can the court allow this amendment if the new relief is barred by the statute of limitations?",
+    "Legal Principles": "The court may allow an amendment to change the nature of the relief sought, even if the new relief is time-barred, if the amendment does not introduce a new cause of action. However, the court should consider factors such as the reason for the delay, the prejudice to the defendant, and whether the amendment would substantially alter the original case. The court may impose conditions on the amendment, such as payment of costs.",
+    "Relevant Sections": "Order VI Rule 17 of the Code of Civil Procedure, 1908 (5 of 1908)",
+    "Context": "Civil suit, amendment of pleadings, change of relief, statute of limitations"
+  },
+  {
+    "Query": "A defendant filed a written statement admitting to certain facts, but later realized that the admission was a mistake. Can the defendant amend their written statement to withdraw the admission?",
+    "Legal Principles": "Courts generally allow amendments to pleadings, including withdrawing admissions, if the amendment is necessary to determine the real issues in controversy and does not cause undue prejudice to the other party. However, the court should consider factors such as the reason for the mistake, the potential prejudice to the plaintiff, and whether the withdrawal of the admission would substantially alter the original defense. The court may impose conditions on the amendment, such as payment of costs.",
+    "Relevant Sections": "Order VI Rule 17 of the Code of Civil Procedure, 1908 (5 of 1908)",
+    "Context": "Civil suit, amendment of pleadings, withdrawal of admission, prejudice"
+  },
+  {
+    "Query": "A plaintiff seeks to amend their plaint to add a new claim based on a new cause of action that arose after the suit was filed. Can the court allow this amendment?",
+    "Legal Principles": "The court may allow an amendment to add a new claim based on a new cause of action that arose after the suit was filed, if the amendment does not substantially alter the original case and the new claim is not barred by the statute of limitations. However, the court should consider factors such as the reason for the delay, the prejudice to the defendant, and whether the amendment would be prejudicial to the defendant. The court may impose conditions on the amendment, such as payment of costs.",
+    "Relevant Sections": "Order VI Rule 17 of the Code of Civil Procedure, 1908 (5 of 1908)",
+    "Context": "Civil suit, amendment of pleadings, new cause of action, statute of limitations"
+  },
+  {
+    "Query": "A plaintiff filed a suit against a defendant, but mistakenly named the defendant's business entity instead of the defendant's individual name.  The defendant, who is the sole proprietor of the business, filed a written statement acknowledging this mistake and confirming his ownership of the business. The plaintiff then sought to amend the plaint to correct the name of the defendant. Can the court allow this amendment?",
+    "Legal Principles": "Courts generally allow amendments to pleadings if the amendment is necessary to determine the real issues in controversy and does not cause undue prejudice to the other party. In this case, the amendment would merely correct a mistake in the name of the defendant and would not introduce a new cause of action. The fact that the correct defendant was aware of the mistake and did not raise any objections initially weighs in favor of allowing the amendment. The court should also consider whether the defendant would be unduly prejudiced by the amendment.",
+    "Relevant Sections": "Order VI Rule 17 of the Code of Civil Procedure, 1908 (5 of 1908)",
+    "Context": "Civil suit, amendment of pleadings, misnomer of parties,  prejudice"
+  },
+  {
+    "Query": "A plaintiff filed a suit for breach of contract.  The defendant filed a written statement denying the existence of a contract.  The plaintiff then sought to amend the plaint to add a new claim based on a different contract, alleging that the defendant breached this second contract. Can the court allow this amendment?",
+    "Legal Principles": "Courts generally allow amendments to pleadings if the amendment is necessary to determine the real issues in controversy and does not cause undue prejudice to the other party. However, the court should carefully consider whether the amendment introduces a new cause of action. If the amendment introduces a new cause of action, the court should determine whether the new cause of action is barred by the statute of limitations and whether the defendant would be unduly prejudiced by the amendment. ",
+    "Relevant Sections": "Order VI Rule 17 of the Code of Civil Procedure, 1908 (5 of 1908)",
+    "Context": "Civil suit, breach of contract, amendment of pleadings, new cause of action, statute of limitations"
+  }
+]
+```

@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A plaintiff filed a suit in a civil court seeking recovery of a sum of money. However, the defendant argues that the dispute is commercial in nature and should have been filed in a Commercial Court. The plaintiff claims that the suit was filed before the Commercial Courts Act came into effect and therefore the civil court has jurisdiction. What is the applicable law and procedure for determining jurisdiction in such cases?",
+    "Legal Principles": "The Commercial Courts Act, 2015 provides for a specialized court system for commercial disputes of a specified value. The Act sets out specific requirements for filing suits in Commercial Courts, including the filing of a Statement of Truth and pre-institution mediation. The Act also amends certain provisions of the Code of Civil Procedure (CPC) in relation to commercial disputes. However, the Act does not explicitly exclude the application of Section 24 of the CPC, which deals with the power of transfer of suits between courts. The applicability of Section 24 of the CPC to suits involving commercial disputes of a specified value must be determined by considering the scheme and provisions of the Commercial Courts Act. The Supreme Court has held in Ambalal Sarabhai Enterprises Ltd. v. K.S. Infraspace LLP & Anr. (2020) 15 SCC 585 that if a suit is filed in a court that is not the appropriate court, the plaint may be returned to the plaintiff to be presented before the court of competent jurisdiction under Order VII Rule 10 of the CPC.",
+    "Relevant Sections": "Section 3, Section 3A, Section 4, Section 5, Section 6, Section 7, Section 11, Section 15, Section 16, Section 18, Section 24 of the Commercial Courts Act, 2015; Order VII Rule 10, Order VII Rule 10A, Section 24 of the Code of Civil Procedure, 1908.",
+    "Context": "Jurisdiction of Commercial Courts, Transfer of Suits under the CPC, Applicability of the Commercial Courts Act to Suits Filed Before its Commencement"
+  },
+  {
+    "Query": "A defendant filed an application under Order VII Rule 11 of the CPC seeking to reject the plaintiff's plaint in a commercial suit, arguing that the plaintiff failed to comply with the mandatory pre-institution mediation requirement under Section 12A of the Commercial Courts Act. The Commercial Court dismissed the application. The defendant now seeks to appeal this order. What are the grounds for appeal in this case?",
+    "Legal Principles": "Section 12A of the Commercial Courts Act, 2015 mandates pre-institution mediation in all commercial disputes of a specified value. Failure to comply with this requirement can be a ground for rejection of the plaint under Order VII Rule 11 of the CPC.  The appellate court can consider the grounds for appeal, including whether the Commercial Court erred in interpreting and applying Section 12A of the Act and whether the defendant's application under Order VII Rule 11 of the CPC was correctly dismissed. ",
+    "Relevant Sections": "Section 12A of the Commercial Courts Act, 2015; Order VII Rule 11 of the CPC",
+    "Context": "Pre-Institution Mediation in Commercial Suits, Appeal Against Order Dismissing Application for Rejection of Plaint"
+  },
+  {
+    "Query": "A plaintiff filed a commercial suit in a Commercial Court, but the defendant argued that the Commercial Court had no jurisdiction because the suit should have been filed in a civil court. The Commercial Court dismissed the suit on the grounds of lack of jurisdiction. The plaintiff now seeks to appeal this order. What are the grounds for appeal in this case?",
+    "Legal Principles": "The Commercial Courts Act, 2015 provides for the exclusive jurisdiction of Commercial Courts for commercial disputes of a specified value. The Act defines what constitutes a commercial dispute and specifies the value threshold. If a suit falls within the definition of a commercial dispute and meets the value requirement, the Commercial Court has exclusive jurisdiction.  The appellate court will consider whether the Commercial Court erred in determining whether the suit constituted a commercial dispute and whether it met the value threshold. ",
+    "Relevant Sections": "Section 2(1)(c) of the Commercial Courts Act, 2015; Section 3 of the Commercial Courts Act, 2015",
+    "Context": "Jurisdiction of Commercial Courts, Appeal Against Order Dismissing Suit for Lack of Jurisdiction"
+  },
+  {
+    "Query": "A defendant filed a counterclaim in a commercial suit, but the plaintiff argues that the counterclaim is not related to the original claim and should be dismissed. The Commercial Court dismissed the counterclaim. The defendant now seeks to appeal this order. What are the grounds for appeal in this case?",
+    "Legal Principles": "A counterclaim must be related to the original claim in a suit.  The counterclaim should arise out of the same transaction or series of transactions as the original claim or be connected with the subject matter of the original claim. The appellate court will consider whether the counterclaim was related to the original claim and whether the Commercial Court erred in dismissing it.",
+    "Relevant Sections": "Order VIII Rule 6 of the CPC",
+    "Context": "Counterclaims in Commercial Suits, Appeal Against Order Dismissing Counterclaim"
+  },
+  {
+    "Query": "A plaintiff filed a commercial suit in a Commercial Court, but the defendant argued that the suit was barred by limitation. The Commercial Court dismissed the suit on the grounds of limitation. The plaintiff now seeks to appeal this order. What are the grounds for appeal in this case?",
+    "Legal Principles": "A suit must be filed within the prescribed period of limitation. The Limitation Act, 1963 sets out the periods of limitation for different types of claims. The appellate court will consider whether the Commercial Court correctly applied the Limitation Act and whether the suit was indeed barred by limitation.",
+    "Relevant Sections": "The Limitation Act, 1963",
+    "Context": "Limitation in Commercial Suits, Appeal Against Order Dismissing Suit for Limitation"
+  },
+  {
+    "Query": "A plaintiff filed a commercial suit in a Commercial Court seeking a specific performance order. The defendant argued that the plaintiff had not fulfilled the necessary conditions for obtaining specific performance. The Commercial Court dismissed the suit. The plaintiff now seeks to appeal this order. What are the grounds for appeal in this case?",
+    "Legal Principles": "Specific performance is a discretionary remedy available in certain circumstances. The court may order specific performance only if the plaintiff establishes that damages would be an inadequate remedy and the contract is valid and enforceable. The appellate court will consider whether the Commercial Court correctly assessed the plaintiff's claim for specific performance and whether it erred in dismissing the suit.",
+    "Relevant Sections": "Specific Relief Act, 1963",
+    "Context": "Specific Performance in Commercial Suits, Appeal Against Order Dismissing Suit for Specific Performance"
+  },
+  {
+    "Query": "A plaintiff filed a commercial suit in a Commercial Court seeking a declaration that a certain agreement was void. The defendant argued that the agreement was valid and enforceable. The Commercial Court dismissed the suit. The plaintiff now seeks to appeal this order. What are the grounds for appeal in this case?",
+    "Legal Principles": "A declaration is a remedy available to a plaintiff who seeks to establish a legal right or status. The appellate court will consider whether the Commercial Court correctly assessed the validity and enforceability of the agreement and whether it erred in dismissing the suit.",
+    "Relevant Sections": "Specific Relief Act, 1963",
+    "Context": "Declaration in Commercial Suits, Appeal Against Order Dismissing Suit for Declaration"
+  },
+  {
+    "Query": "A plaintiff filed a commercial suit in a Commercial Court seeking an injunction to restrain the defendant from engaging in certain activities. The defendant argued that the plaintiff had not established a prima facie case for an injunction. The Commercial Court dismissed the suit. The plaintiff now seeks to appeal this order. What are the grounds for appeal in this case?",
+    "Legal Principles": "An injunction is a court order that prohibits a party from doing something or compels a party to do something. The plaintiff must establish a prima facie case for an injunction by showing a serious question to be tried, irreparable injury if the injunction is not granted, and that the balance of convenience favors granting the injunction. The appellate court will consider whether the Commercial Court correctly assessed the plaintiff's claim for an injunction and whether it erred in dismissing the suit.",
+    "Relevant Sections": "Section 37 of the Specific Relief Act, 1963",
+    "Context": "Injunction in Commercial Suits, Appeal Against Order Dismissing Suit for Injunction"
+  },
+  {
+    "Query": "A plaintiff filed a commercial suit in a Commercial Court seeking damages for breach of contract. The defendant argued that the plaintiff had not suffered any damages. The Commercial Court dismissed the suit. The plaintiff now seeks to appeal this order. What are the grounds for appeal in this case?",
+    "Legal Principles": "Damages are a monetary remedy available to a plaintiff who has suffered loss as a result of a breach of contract. The plaintiff must prove the amount of damages suffered. The appellate court will consider whether the Commercial Court correctly assessed the plaintiff's claim for damages and whether it erred in dismissing the suit.",
+    "Relevant Sections": "Indian Contract Act, 1872",
+    "Context": "Damages in Commercial Suits, Appeal Against Order Dismissing Suit for Damages"
+  },
+  {
+    "Query": "A plaintiff filed a commercial suit in a Commercial Court seeking to set aside an arbitration award. The defendant argued that the arbitration award was valid and enforceable. The Commercial Court dismissed the suit. The plaintiff now seeks to appeal this order. What are the grounds for appeal in this case?",
+    "Legal Principles": "An arbitration award is a decision made by an arbitrator in a dispute between parties. The Arbitration and Conciliation Act, 1996 sets out the grounds for challenging an arbitration award.  The appellate court will consider whether the Commercial Court correctly assessed the validity and enforceability of the arbitration award and whether it erred in dismissing the suit.",
+    "Relevant Sections": "The Arbitration and Conciliation Act, 1996",
+    "Context": "Setting Aside Arbitration Awards, Appeal Against Order Dismissing Suit to Set Aside Arbitration Award"
+  }
+]
+```

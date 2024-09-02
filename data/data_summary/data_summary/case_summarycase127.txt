@@ -1,0 +1,86 @@
+## 1. Case Title
+
+* **Case Name:** Sapl Steel LLP vs. Abhyuday Co Op Bank Ltd.
+* **Court:** Gujarat High Court
+* **Date of Judgment:** 24th April 2023
+* **Citation:** C/FA/4957/2022 
+
+## 2. Background and Context
+
+* **Brief Overview:** Sapl Steel LLP (appellant) filed a first appeal against an order passed by an arbitrator in a dispute arising from a loan advanced by Abhyuday Cooperative Bank Limited (respondent). The order restrained the appellant from transferring or encumbering certain immovable property until the final disposal of the dispute.
+* **Key Issues:**
+    * Maintainability of the first appeal before the Gujarat High Court.
+    * Whether the Gujarat High Court has jurisdiction to hear appeals under Section 37 of the Arbitration and Conciliation Act, 1996. 
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * The Arbitration and Conciliation Act, 1996 (in short "the Act")
+    * Section 2(1)(e) of the Act: Defines "Court"
+    * Section 37 of the Act: Deals with appeals against orders passed by an Arbitral Tribunal.
+    * Section 84 of the Multi State Cooperative Societies Act, 2002: Governs disputes referred to arbitration in Cooperative Societies.
+    * Section 12 of the Gujarat Civil Court Act, 2005: Defines the jurisdiction of the Court of District Judge.
+* **Precedents Cited:**
+    * Pande and Co. Builders Pvt. Ltd. Vs. State of Bihar (2007) 1 SCC 467.
+    * Yashpal Chopra and Co. Vs. Union of India (SLP No.18324 of 2022).
+    * M/s Fun and Fud Vs. M/s GLK Associates (AIR 2020 Guj 153).
+* **Legal Doctrines:**
+    * Interpretation of Statutes: The court interprets the relevant sections of the Arbitration Act to determine the appropriate forum for appeals.
+    * Jurisdiction: The court examines the jurisdictional limits of different courts under the relevant legislation.
+    * Harmonious Construction: The court applies the principle of harmonious construction to reconcile potential conflicts between the Arbitration Act and the Commercial Courts Act.
+
+## 4. Arguments Presented
+
+* **Appellant's Argument:**
+    * The impugned order passed by the arbitrator is an interlocutory order falling under Section 37(2)(b) of the Act and therefore, an appeal against it is maintainable before the Gujarat High Court. 
+    * Section 84 of the Multi State Cooperative Societies Act, 2002 governs the arbitration proceedings, and the order passed by the arbitrator appointed under the Act can be challenged under the provisions of the Arbitration Act.
+* **Respondent's Argument:**
+    * The appeal under Section 37 of the Act is not maintainable before the Gujarat High Court as the High Court does not possess original jurisdiction in arbitration matters. 
+    * The "Court" under Section 2(1)(e) of the Act refers to the principal Civil Court of original jurisdiction in a district, which is the Court of District Judge. 
+    * The appellant should have filed the appeal before the Court of District Judge instead of the Gujarat High Court.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The Gujarat High Court does not have original jurisdiction in arbitration matters, except for international commercial arbitration.
+    * The term "Court" under Section 2(1)(e) of the Act refers to the principal Civil Court of original jurisdiction in a district, which is the Court of District Judge. 
+    * The Commercial Courts Act does not override the provisions of the Arbitration Act, and the jurisdiction of Commercial Courts is limited to specific cases. 
+* **Interpretation of Law:**
+    * The court interprets Section 2(1)(e) of the Act and clarifies that the term "Court" refers to the principal Civil Court of original jurisdiction in a district, which is the Court of District Judge, not the High Court. 
+* **Application of Law:**
+    * The court applies the interpretation of the Act to the facts of the case and concludes that the appeal is not maintainable before the Gujarat High Court.
+
+## 6. Judgment
+
+* **Final Decision:** The first appeal is dismissed as not maintainable before the Gujarat High Court.
+* **Relief Granted:** No relief is granted as the appeal is dismissed.
+* **Orders:** The appeal is dismissed. The connected civil application (for stay) is also dismissed.
+
+## 7. Implications
+
+* **Impact on Law:** The judgment reinforces the interpretation of Section 2(1)(e) of the Arbitration Act and clarifies that appeals against orders passed by an Arbitral Tribunal in non-international commercial arbitration cases should be filed before the Court of District Judge, not the High Court. 
+* **Future Relevance:** The judgment serves as a precedent for future cases involving the maintainability of appeals under Section 37 of the Act. It clarifies the jurisdictional limits of the High Court and the Court of District Judge in arbitration matters.
+* **Broader Context:** The judgment underscores the importance of understanding the jurisdictional framework for appeals under the Arbitration Act. 
+
+## 8. Summary Points
+
+* The Gujarat High Court does not have jurisdiction to hear appeals under Section 37 of the Arbitration Act in cases involving non-international commercial arbitration. 
+* Appeals against orders passed by an Arbitral Tribunal in such cases must be filed before the Court of District Judge.
+* The court reiterates the interpretation of the term "Court" under Section 2(1)(e) of the Act.
+
+## 9. References
+
+* **Citations:**
+    * The Arbitration and Conciliation Act, 1996
+    * Section 2(1)(e) of the Act
+    * Section 37 of the Act
+    * Section 84 of the Multi State Cooperative Societies Act, 2002
+    * Section 12 of the Gujarat Civil Court Act, 2005
+    * Pande and Co. Builders Pvt. Ltd. Vs. State of Bihar (2007) 1 SCC 467
+    * Yashpal Chopra and Co. Vs. Union of India (SLP No.18324 of 2022)
+    * M/s Fun and Fud Vs. M/s GLK Associates (AIR 2020 Guj 153)
+* **Further Reading:**
+    *  The Arbitration and Conciliation Act, 1996
+    * The Multi State Cooperative Societies Act, 2002
+    * The Gujarat Civil Court Act, 2005
+    * The Commercial Courts Act, 2015

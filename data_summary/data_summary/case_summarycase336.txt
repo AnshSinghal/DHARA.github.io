@@ -1,0 +1,95 @@
+## Case Title
+
+* **Case Name:** Praxair India Pvt. Ltd vs Steel Authority of India Ltd
+* **Court:** Calcutta High Court
+* **Date of Judgment:** 22nd February 2024
+* **Citation:** Not provided in the text.
+
+## Background and Context
+
+* **Brief Overview:** This case revolves around an application by Praxair India Pvt. Ltd. (the petitioner) seeking to extend the mandate of the arbitral tribunal in a commercial arbitration dispute with Steel Authority of India Ltd. (the respondent). The dispute arose from a commercial agreement between the parties. The petitioner had filed an application for extension of the mandate with the District Judge, Asansol, which was subsequently transferred to the Commercial Court at Asansol. The Commercial Court rejected the application as non-maintainable, leading the petitioner to file the present application before the Calcutta High Court.
+* **Key Issues:**
+    * Whether the mandate of the arbitral tribunal terminated before the petitioner filed the present application.
+    * Whether the delay in filing the application was condonable under the Limitation Act, 1963.
+    * Whether the Calcutta High Court had jurisdiction to entertain the application for extension of the mandate.
+
+## Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * The Arbitration and Conciliation Act, 1996, particularly sections 2(1)(e), 11(6), 29A (1), (3), (4), (5), and (6).
+    * The Limitation Act, 1963, specifically sections 5 and 14.
+* **Precedents Cited:**
+    * M/s. Consolidated Engineering Enterprises v. The Principal Secretary (Irrigation Department) (for applicability of the Limitation Act to the Arbitration Act)
+    * J. Kumaradasan Nair v. IRIC Sohan (for application of sections 5 and 14 of the Limitation Act to all proceedings)
+    * Nimet Resources Inc. vs Essar Steels Ltd., State of West Bengal vs. Associated Contractors, State of Jharkhand v. Hindustan Construction Company Limited (for pre-2015 cases regarding "Court" definition)
+    * Multiplex Equipments & Services Pvt. Ltd. v. Bagzone Lifestyles Pvt. Ltd. (for substitution of arbitrators)
+    * Rohan Builders (India) Pvt. Ltd. v. Berger Paints India Limited (for termination of mandate)
+    * Amit Kumar Gupta v. Dipak Prasad (for "Court" interpretation under section 29A)
+* **Legal Doctrines:**
+    * Interpretation of Statutory Provisions: The court analyzes the meaning and scope of various provisions within the Arbitration Act, 1996, focusing on the definition of "Court" and the extension of mandates under section 29A.
+    * Application of Limitation Law: The court applies the principles of the Limitation Act to determine whether the delay in filing the application was condonable.
+    * Doctrine of Res Judicata: The court applies the doctrine to prevent re-litigation of an issue already decided by the Asansol Commercial Court.
+
+## Arguments Presented
+
+* **Petitioner’s Argument:**
+    * The petitioner argued that the mandate of the arbitral tribunal continued uninterruptedly, relying on the provisions of the Limitation Act, 1963, particularly sections 5 and 14.
+    * The petitioner claimed that the delay in filing the application was caused by the transfer of the case between different courts and was condonable due to sufficient cause.
+    * The petitioner argued that the Calcutta High Court had jurisdiction to entertain the application for extension of the mandate under section 29A of the Act, citing the decision in Amit Kumar Gupta v. Dipak Prasad.
+* **Respondent’s Argument:**
+    * The respondent argued that the mandate terminated on 14.07.2023 and again on 09.01.2024, rendering the application filed by the petitioner time-barred.
+    * The respondent asserted that the Calcutta High Court lacked jurisdiction to extend the mandate and that the application should have been filed before the Asansol Commercial Court.
+    * The respondent relied on the definition of "Court" under section 2(1)(e) of the Act and argued that the Court could only "substitute" an arbitrator but not re-appoint the same arbitrator.
+
+## Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The court found that the mandate of the arbitral tribunal continued uninterruptedly from 14.07.2023 to 10.01.2024 due to the petitioner diligently pursuing the application in various courts.
+    * The court concluded that the delay in filing the application was condonable under sections 5 and 14 of the Limitation Act, 1963, citing sufficient cause.
+    * The court held that the Calcutta High Court had jurisdiction to entertain the application based on the definition of "Court" under section 29A of the Act and the precedent set by Amit Kumar Gupta v. Dipak Prasad.
+    * The court rejected the respondent's argument about termination of the mandate and the lack of jurisdiction of the Calcutta High Court.
+* **Interpretation of Law:**
+    * The court interpreted sections 5 and 14 of the Limitation Act, 1963, to encompass situations involving the transfer of cases between courts and the consequent delay in filing applications.
+    * The court interpreted the definition of "Court" under section 29A of the Arbitration Act to include the appointing authority, giving jurisdiction to the Calcutta High Court.
+* **Application of Law:**
+    * The court applied the provisions of the Limitation Act to condone the delay in filing the application due to the petitioner's actions in various courts.
+    * The court applied the precedent in Amit Kumar Gupta v. Dipak Prasad to establish the Calcutta High Court's jurisdiction.
+
+## Judgment
+
+* **Final Decision:** The court allowed the petitioner's application for extension of the mandate of the arbitral tribunal.
+* **Relief Granted:** The court extended the mandate of the arbitral tribunal for 3 weeks from the date of the judgment.
+* **Orders:** The court refused to grant a stay on the publication of the award, finding that the award was ready to be published on 21.12.2023.
+
+## Implications
+
+* **Impact on Law:** This judgment reinforces the principle of liberal interpretation of the Limitation Act, 1963, to condone delays caused by transfer of cases and other unforeseen circumstances. It clarifies the definition of "Court" under section 29A of the Arbitration Act, 1996, granting jurisdiction to the appointing authority.
+* **Future Relevance:** This judgment can be cited as a precedent for future cases involving applications for extension of mandates under section 29A of the Arbitration Act. It highlights the importance of diligently pursuing arbitration proceedings to prevent termination of the mandate and the need for courts to adopt a pragmatic approach to condone delays.
+* **Broader Context:** The case highlights the importance of judicial interpretations in resolving legal disputes in the context of arbitration. It emphasizes the need for courts to ensure the smooth and timely completion of arbitration proceedings while upholding principles of fairness and justice.
+
+## Summary Points
+
+* The court extended the mandate of the arbitral tribunal for 3 weeks, concluding that the mandate continued uninterruptedly despite the delay caused by the transfer of the case.
+* The delay in filing the application was condoned due to sufficient cause under the Limitation Act, 1963.
+* The Calcutta High Court has jurisdiction to entertain applications for extension of mandates under section 29A of the Arbitration Act, 1996, as the appointing authority.
+* The case highlights the importance of diligently pursuing arbitration proceedings and the need for courts to adopt a flexible approach to condone delays caused by unforeseen circumstances.
+
+## References
+
+* The Arbitration and Conciliation Act, 1996
+* The Limitation Act, 1963
+* M/s. Consolidated Engineering Enterprises v. The Principal Secretary (Irrigation Department)
+* J. Kumaradasan Nair v. IRIC Sohan
+* Nimet Resources Inc. vs Essar Steels Ltd.
+* State of West Bengal vs. Associated Contractors
+* State of Jharkhand v. Hindustan Construction Company Limited
+* Multiplex Equipments & Services Pvt. Ltd. v. Bagzone Lifestyles Pvt. Ltd.
+* Rohan Builders (India) Pvt. Ltd. v. Berger Paints India Limited
+* Amit Kumar Gupta v. Dipak Prasad
+
+## Further Reading
+
+* The Arbitration and Conciliation Act, 1996 (Complete Text)
+* The Limitation Act, 1963 (Complete Text)
+* Case Laws on Extension of Mandate under Arbitration Act (Legal Databases)
+* Articles on Arbitration and Conciliation (Legal Journals and Websites) 

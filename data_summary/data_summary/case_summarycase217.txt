@@ -1,0 +1,102 @@
+## 1. Case Title
+
+• **Case Name:** Moradabad Development Authority vs M/S V.R. Construction And Engineering Company
+• **Court:** Allahabad High Court
+• **Date of Judgment:** 2nd March 2022
+• **Citation:** Not provided in the text.
+
+## 2. Background and Context
+
+• **Brief Overview:** The Moradabad Development Authority (MDA) entered into a contract with M/S V.R. Construction And Engineering Company (VRCE) for construction of a 'Sourcing Hub and Warehouse' in Moradabad.  VRCE was supposed to complete the project within two years (by 02.03.2011) but faced delays, resulting in extensions granted by the MDA. However, the MDA later alleged that VRCE submitted a forged experience certificate and committed irregularities during the construction. 
+• **Key Issues:** 
+    - Whether the contract between MDA and VRCE was valid considering the alleged forged experience certificate.
+    - Whether the MDA was justified in cancelling the appointment of the sole Arbitrator and declaring the contract null and void.
+    - Whether the Arbitrator's award, pronounced after the cancellation of his appointment, was valid.
+    - Whether the MDA's application to set aside the award was time-barred.
+
+## 3. Legal Principles Involved
+
+• **Relevant Statutes and Provisions:**
+    - **Arbitration and Conciliation Act, 1996:** 
+        - Section 11(5):  Appointment of an Arbitrator.
+        - Section 34(2): Application to set aside an arbitral award.
+        - Section 34(3): Period of limitation for making an application under Section 34.
+    - **Indian Limitation Act, 1963:**
+        - Section 5: Condonation of delay.
+        - Section 14: Exclusion of time in prior proceedings.
+    - **Code of Civil Procedure, 1908:**
+        - Section 47: Objection to execution of a decree.
+• **Precedents Cited:**
+    - **Gulbarga University v. Mallikarjun S. Kodagali and another** (2006) 6 SCC 239
+    - **Union of India v. Popular Construction Co.** (2001) 8 SCC 470
+    - **State of Goa v. Western Builders** (2006) 6 SCC 239
+    - **Union of India v. Bhavna Engg. Co.** (2008) 13 SCC 546
+    - **Consolidated Engineering Enterprises v. Principal Secretary, Irrigation Department and others** (2008) 7 SCC 169
+    - **P. Radha Bai and others v. P. Ashok Kumar and another** (2008) 7 SCC 169
+    - **National Spot Exchange Limited v. Anil Kohli** (2011) 10 SCC 683
+    - **M.P. Steel Corporation v. Commissioner of Central Excise** (2010) 8 SCC 216
+• **Legal Doctrines:**
+    - **Jurisdiction:** The court's power to hear and decide a case.
+    - **Limitation:** Time limits for filing legal proceedings.
+    - **Estoppel:** A legal principle that prevents someone from going back on a previous statement or action.
+    - **Bona Fide:** In good faith, without any intention to deceive.
+
+## 4. Arguments Presented
+
+• **Appellant’s Argument (MDA):**
+    - VRCE submitted a forged experience certificate to secure the contract.
+    - VRCE committed irregularities in executing the contract.
+    - Cancellation of the Arbitrator's appointment was valid because the contract was based on a forged document.
+    - The Arbitrator's award was pronounced without jurisdiction after his appointment was cancelled.
+    - The MDA's application to set aside the award should be allowed under Section 14 of the Limitation Act, as the MDA pursued other remedies in good faith.
+• **Respondent’s Argument (VRCE):**
+    - The MDA's actions were unjustified, and the contract remained valid.
+    - The MDA's cancellation of the Arbitrator's appointment was invalid.
+    - The Arbitrator's award was valid and should be enforced.
+    - The MDA's application to set aside the award was time-barred and Section 14 of the Limitation Act was not applicable.
+
+## 5. Court’s Analysis and Reasoning
+
+• **Key Findings:**
+    - The MDA did not challenge the cancellation of the Arbitrator's appointment before any court, and the order had attained finality.
+    - The Arbitrator's award was made after the MDA cancelled his appointment, but the award did not specifically mention the date of cancellation.
+    - The MDA pursued remedies against the award through an FIR and objections under Section 47 CPC, but these actions were not considered valid civil proceedings for the purposes of Section 14 of the Limitation Act.
+• **Interpretation of Law:**
+    - The court interpreted Section 34(3) of the Arbitration and Conciliation Act, 1996, and its proviso, to hold that the time limit for filing an application to set aside an award was three months, which could be extended by an additional 30 days, but no further.
+    - The court interpreted Section 14 of the Limitation Act, holding that it would apply to arbitral proceedings under Section 34 of the Arbitration and Conciliation Act.
+• **Application of Law:**
+    - The court applied the principles of Section 14 of the Limitation Act and found that the MDA did not fulfill the conditions necessary for excluding the period spent pursuing other remedies.
+
+## 6. Judgment
+
+• **Final Decision:** The appeal was dismissed.
+• **Relief Granted:** None.
+• **Orders:**  The order of the Commercial Court, Moradabad dated 05.03.2020, refusing to condone the delay in making the application by the appellant under Section 34(2) of the Arbitration and Conciliation Act, 1996, was upheld.
+
+## 7. Implications
+
+• **Impact on Law:** The judgment reinforces the principles of limitation under Section 34 of the Arbitration and Conciliation Act and the applicability of Section 14 of the Limitation Act to arbitral proceedings.
+• **Future Relevance:** This case provides guidance on how courts will interpret the limitation periods and the application of Section 14 in cases involving arbitral awards.
+• **Broader Context:** The case highlights the importance of timely legal action and the consequences of failing to properly challenge legal proceedings within the prescribed time limits.
+
+## 8. Summary Points
+
+• The MDA's attempt to set aside an Arbitrator's award was unsuccessful due to the delay in filing the application.
+• The court found that the MDA's actions in pursuing other remedies (FIR and objections under Section 47 CPC) did not meet the requirements for excluding the period of limitation under Section 14 of the Limitation Act.
+• This case emphasizes the importance of understanding limitation periods and utilizing appropriate legal remedies within the stipulated time frames.
+
+## 9. References
+
+• **Arbitration and Conciliation Act, 1996:** Sections 11(5), 34(2), 34(3).
+• **Indian Limitation Act, 1963:** Sections 5, 14.
+• **Code of Civil Procedure, 1908:** Section 47.
+• **Gulbarga University v. Mallikarjun S. Kodagali and another** (2006) 6 SCC 239.
+• **Union of India v. Popular Construction Co.** (2001) 8 SCC 470.
+• **State of Goa v. Western Builders** (2006) 6 SCC 239.
+• **Union of India v. Bhavna Engg. Co.** (2008) 13 SCC 546.
+• **Consolidated Engineering Enterprises v. Principal Secretary, Irrigation Department and others** (2008) 7 SCC 169.
+• **P. Radha Bai and others v. P. Ashok Kumar and another** (2008) 7 SCC 169.
+• **National Spot Exchange Limited v. Anil Kohli** (2011) 10 SCC 683.
+• **M.P. Steel Corporation v. Commissioner of Central Excise** (2010) 8 SCC 216. 
+
+• **Further Reading:** Refer to the above cited cases for further analysis of the legal principles involved. 

@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A contractor filed an application to set aside an arbitral award within the statutory 30-day extension period but after the initial 3 months. The contractor was initially prevented from filing due to a delay in receiving the award, then faced further delays due to a transfer to a court without jurisdiction. Should the court condone the delay and entertain the application?",
+    "Legal Principles": "Condonation of delay in filing an application under Section 34 of the Arbitration and Conciliation Act, 1996, Section 14 of the Limitation Act, 1963, exclusion of time spent in proceedings before a court without jurisdiction,  sufficient cause, bona fide prosecution of litigation",
+    "Relevant Sections": "Section 34(3) of the Arbitration and Conciliation Act, 1996, Section 14 of the Limitation Act, 1963",
+    "Context": "Arbitration and Conciliation, Limitation, Condonation of Delay, Jurisdiction"
+  },
+  {
+    "Query": "A company filed a lawsuit in a court that lacked territorial jurisdiction. After the court returned the plaint, the company filed the suit in the correct court, but this was done a few days after the prescribed limitation period. Can the court condone the delay and allow the suit to proceed?",
+    "Legal Principles": "Condonation of delay in filing a suit, Order 7 Rule 10A of the Code of Civil Procedure, 1908, territorial jurisdiction, exclusion of time spent in proceedings before a court without jurisdiction,  sufficient cause,  bona fide prosecution of litigation",
+    "Relevant Sections": "Order 7 Rule 10A of the Code of Civil Procedure, 1908, Section 14 of the Limitation Act, 1963",
+    "Context": "Civil Procedure, Limitation, Condonation of Delay, Jurisdiction"
+  },
+  {
+    "Query": "A landowner filed a suit for possession of land within the prescribed limitation period. However, the suit was filed in the wrong court due to a misunderstanding of jurisdictional boundaries. After the court returned the suit, the landowner filed it in the correct court but was past the limitation period. Should the court allow the suit to proceed?",
+    "Legal Principles": "Condonation of delay in filing a suit, territorial jurisdiction, exclusion of time spent in proceedings before a court without jurisdiction,  sufficient cause, bona fide prosecution of litigation",
+    "Relevant Sections": "Section 14 of the Limitation Act, 1963",
+    "Context": "Civil Procedure, Limitation, Condonation of Delay, Jurisdiction"
+  },
+  {
+    "Query": "A tenant filed a petition to challenge an eviction order issued by a landlord. The petition was filed within the prescribed limitation period but was initially rejected by the court for a procedural error. The tenant subsequently filed an amended petition but was past the limitation period. Can the court consider the amended petition?",
+    "Legal Principles": "Condonation of delay in filing a petition, procedural errors, amendment of petitions, exclusion of time spent in proceedings before a court without jurisdiction,  sufficient cause, bona fide prosecution of litigation",
+    "Relevant Sections": "Section 14 of the Limitation Act, 1963",
+    "Context": "Civil Procedure, Limitation, Condonation of Delay, Jurisdiction"
+  },
+  {
+    "Query": "A company filed an application to challenge a government order within the prescribed limitation period. However, the application was initially rejected by the court for a procedural error. The company subsequently filed an amended application but was past the limitation period. Can the court consider the amended application?",
+    "Legal Principles": "Condonation of delay in filing an application, procedural errors, amendment of applications, exclusion of time spent in proceedings before a court without jurisdiction,  sufficient cause, bona fide prosecution of litigation",
+    "Relevant Sections": "Section 14 of the Limitation Act, 1963",
+    "Context": "Administrative Law, Limitation, Condonation of Delay, Jurisdiction"
+  },
+  {
+    "Query": "A property developer filed an application to challenge a municipal order within the prescribed limitation period. However, the application was initially rejected by the court for a procedural error. The developer subsequently filed an amended application but was past the limitation period. Can the court consider the amended application?",
+    "Legal Principles": "Condonation of delay in filing an application, procedural errors, amendment of applications, exclusion of time spent in proceedings before a court without jurisdiction,  sufficient cause, bona fide prosecution of litigation",
+    "Relevant Sections": "Section 14 of the Limitation Act, 1963",
+    "Context": "Municipal Law, Limitation, Condonation of Delay, Jurisdiction"
+  },
+  {
+    "Query": "A tenant filed an application for a stay order against an eviction notice within the prescribed limitation period. However, the application was initially rejected by the court for a procedural error. The tenant subsequently filed an amended application but was past the limitation period. Can the court consider the amended application?",
+    "Legal Principles": "Condonation of delay in filing an application, procedural errors, amendment of applications, exclusion of time spent in proceedings before a court without jurisdiction,  sufficient cause, bona fide prosecution of litigation",
+    "Relevant Sections": "Section 14 of the Limitation Act, 1963",
+    "Context": "Landlord-Tenant Law, Limitation, Condonation of Delay, Jurisdiction"
+  },
+  {
+    "Query": "A company filed a petition to challenge a bankruptcy order against it. The petition was filed within the prescribed limitation period but was initially rejected by the court for a procedural error. The company subsequently filed an amended petition but was past the limitation period. Can the court consider the amended petition?",
+    "Legal Principles": "Condonation of delay in filing a petition, procedural errors, amendment of petitions, exclusion of time spent in proceedings before a court without jurisdiction,  sufficient cause, bona fide prosecution of litigation",
+    "Relevant Sections": "Section 14 of the Limitation Act, 1963",
+    "Context": "Bankruptcy Law, Limitation, Condonation of Delay, Jurisdiction"
+  },
+  {
+    "Query": "A worker filed a claim for workers' compensation within the prescribed limitation period. However, the claim was initially rejected by the court for a procedural error. The worker subsequently filed an amended claim but was past the limitation period. Can the court consider the amended claim?",
+    "Legal Principles": "Condonation of delay in filing a claim, procedural errors, amendment of claims, exclusion of time spent in proceedings before a court without jurisdiction,  sufficient cause, bona fide prosecution of litigation",
+    "Relevant Sections": "Section 14 of the Limitation Act, 1963",
+    "Context": "Labor Law, Limitation, Condonation of Delay, Jurisdiction"
+  },
+  {
+    "Query": "A company filed a petition to challenge a tax assessment order within the prescribed limitation period. However, the petition was initially rejected by the court for a procedural error. The company subsequently filed an amended petition but was past the limitation period. Can the court consider the amended petition?",
+    "Legal Principles": "Condonation of delay in filing a petition, procedural errors, amendment of petitions, exclusion of time spent in proceedings before a court without jurisdiction,  sufficient cause, bona fide prosecution of litigation",
+    "Relevant Sections": "Section 14 of the Limitation Act, 1963",
+    "Context": "Tax Law, Limitation, Condonation of Delay, Jurisdiction"
+  }
+]
+```

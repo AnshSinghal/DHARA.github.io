@@ -1,0 +1,93 @@
+## 1. Case Title
+
+* **Case Name:** CCS Infotech Limited vs. The Director ESD (Mee Seva)
+* **Court:** Telangana High Court
+* **Date of Judgment:** 26 August, 2022
+* **Citation:**  COMMERCIAL COURT APPEAL NOs.33, 34, 40, 41, 42, 48, 49, 51 and 52 of 2018 and 4, 17, 18, 19, 20 OF 2019 
+
+## 2. Background and Context
+
+* **Brief Overview:** The case arose from a dispute between software companies (CCS Infotech, United Telecoms, and CMS Computers) and the Mee-Seva organization, which was responsible for implementing e-governance services in Hyderabad and Secunderabad. The companies were engaged as "Technical Partners" to set up and operate Mee-Seva centers under agreements signed in 2003. Disputes arose over various terms of the agreements, including effective dates, rate revisions, and transaction slabs.  
+* **Key Issues:** 
+    * Validity of the Arbitrator's preliminary and final awards.
+    * The power of the Commercial Court to modify the Arbitrator's awards under Section 34 of the Arbitration Act, 1996.
+    * The correctness of the Arbitrator's findings on the revision of rates and interest calculations.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * The Arbitration and Conciliation Act, 1996, particularly Sections 2(1)(c)4, 17, 32, 33, and 34. 
+    * The Code of Civil Procedure, 1908.
+* **Precedents Cited:**
+    * The Project Director, National Highways Nos. 45E and 220, National Highways Authority of India vs. M.Hakeem and others, (2021) 9 SCC 1 
+    * McDermott International Inc. v. Burn Standard Co. Ltd., (2006) 11 SCC 181
+    * Kinnari Mullick v. Ghanshyam Das Damani, (2018) 11 SCC 328
+    * Dakshin Haryana Bijli Vitran Nigam Ltd. v. Navigant Technologies (P) Ltd., (2021) 7 SCC 657
+    * Ragya Bee and others vs. P.S.R. Constructions and others
+    * Delhi Airport Metro Express Pvt. Ltd. Vs. Delhi Metro Rail Corporation Ltd., 2022 (3) ALD 151
+* **Legal Doctrines:**
+    * Functus Officio: The principle that an arbitrator loses the power to act further once a final award is made.
+    * Public Policy:  The court's consideration of whether the award is in conflict with the fundamental policy of Indian law or basic notions of morality or justice.
+    * Patent Illegality: A high threshold for setting aside an award, requiring an error that goes to the root of the matter.
+    * Minimal Judicial Interference: The underlying principle of arbitration law favoring limited judicial intervention in arbitration proceedings.
+
+## 4. Arguments Presented
+
+* **Appellant’s Argument:** 
+    * The Commercial Court lacked the power to modify the Arbitrator's awards under Section 34 of the Act, 1996.  It could only affirm or set aside the award.
+    * The Commercial Court erred in interpreting the government order on electricity bill rates as prospective, when the Arbitrator's award correctly applied the rates retrospectively.
+    * The Commercial Court incorrectly reduced the interest rate from 12% to 6%. 
+    * The Arbitrator's award should be upheld in its entirety.
+* **Respondent’s Argument:**
+    * The Arbitrator's proceedings were vitiated because he passed a preliminary award and a final award in the same proceedings, which is not allowed under the Act.
+    * The Arbitrator's findings on the electricity bill rates were perverse and contradicted his own findings on other issues.
+    * The Arbitrator extended the contracts beyond their stipulated period through an interim order, exceeding his jurisdiction.
+    * The Commercial Court, while lacking the power to modify, should have remanded the case to the Arbitrator for a fresh award due to the procedural irregularities.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The court found that the Arbitrator's actions in passing preliminary and final awards were illegal, as the Act only allows for one final award.
+    * The court upheld the principle that under Section 34, the Commercial Court could not modify an award, only affirm or set aside.
+    * The court found that the Commercial Court's modifications to the Arbitrator's award on the electricity bill rates and interest calculations were not permissible.
+* **Interpretation of Law:** 
+    * The court interpreted Sections 17, 32, 33, and 34 of the Act, 1996, to support its conclusions regarding the power and limitations of the Arbitrator and the Commercial Court.
+    * The court relied on precedents, including McDermott International Inc. v. Burn Standard Co. Ltd. and Delhi Airport Metro Express Pvt. Ltd. Vs. Delhi Metro Rail Corporation Ltd., to emphasize the limited scope of judicial intervention in arbitration.
+* **Application of Law:**
+    * The court applied the legal principles of functus officio, minimal judicial interference, and patent illegality to invalidate the Arbitrator's award and the Commercial Court's modifications.
+
+## 6. Judgment
+
+* **Final Decision:** The Telangana High Court allowed the appeals and set aside the Arbitrator's awards and the Commercial Court's order.
+* **Relief Granted:** The case was remanded to arbitration, and a new Arbitrator was appointed.
+* **Orders:** 
+    * The parties were instructed to submit all documents to the newly appointed Arbitrator, Sri Justice Vilas V.Afzulpurkar, within four weeks.
+    * The Arbitrator was requested to conclude the arbitration proceedings within 16 weeks.
+
+## 7. Implications
+
+* **Impact on Law:** The judgment reaffirms the strict limitations on judicial intervention in arbitration proceedings under the Arbitration and Conciliation Act, 1996. It clarifies that the courts have a limited power to set aside awards, but not to modify them. 
+* **Future Relevance:**  The case provides a strong precedent for future cases involving the interpretation of Section 34 of the Act, 1996, and the principles governing judicial oversight of arbitration.
+* **Broader Context:**  The judgment highlights the importance of procedural correctness in arbitration proceedings and the need for parties to ensure that Arbitrators act within their prescribed powers.
+
+## 8. Summary Points
+
+* The Arbitrator's actions in passing separate preliminary and final awards were illegal.
+* The Commercial Court lacked the power to modify the Arbitrator's awards under Section 34 of the Act, 1996. 
+* The case was remanded to arbitration with a new Arbitrator to ensure a fair resolution.
+
+## 9. References
+
+* **Citations:**
+    * The Arbitration and Conciliation Act, 1996 (Sections 2(1)(c)4, 17, 32, 33, and 34)
+    * The Code of Civil Procedure, 1908
+    * The Project Director, National Highways Nos. 45E and 220, National Highways Authority of India vs. M.Hakeem and others, (2021) 9 SCC 1
+    * McDermott International Inc. v. Burn Standard Co. Ltd., (2006) 11 SCC 181
+    * Kinnari Mullick v. Ghanshyam Das Damani, (2018) 11 SCC 328
+    * Dakshin Haryana Bijli Vitran Nigam Ltd. v. Navigant Technologies (P) Ltd., (2021) 7 SCC 657
+    * Ragya Bee and others vs. P.S.R. Constructions and others
+    * Delhi Airport Metro Express Pvt. Ltd. Vs. Delhi Metro Rail Corporation Ltd., 2022 (3) ALD 151
+* **Further Reading:** 
+    * The Arbitration and Conciliation Act, 1996.
+    * Redfern and Hunter on International Arbitration. 
+    * Other relevant judgments cited in the case. 

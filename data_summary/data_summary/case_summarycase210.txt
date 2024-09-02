@@ -1,0 +1,110 @@
+##  1. Case Title
+
+* **Case Name:** National Highway Authority of India vs. Smt. Sampata Devi and 2 Others
+* **Court:** Allahabad High Court, Lucknow Bench
+* **Date of Judgment:** 31st October 2023
+* **Citation:** 2023:AHC-LKO:71310
+
+## 2. Background and Context
+
+**Brief Overview:** 
+This case involves multiple appeals filed by the National Highway Authority of India (NHAI) challenging a judgment of the Additional District & Sessions Judge, Barabanki. The judgment upheld an arbitral award that had increased compensation awarded to various landowners whose land was acquired for the construction of National Highway No. 28. The NHAI argued that the arbitral award and subsequent judgment were contrary to law and that the compensation should have been determined based on the agricultural value of the land.
+
+**Key Issues:**
+* Whether the arbitral award, which granted enhanced compensation based on the land's proximity to the highway and potential for commercial development, was valid.
+* Whether the NHAI's appeal against the judgment was filed within the statutory limitation period.
+
+## 3. Legal Principles Involved
+
+**Relevant Statutes and Provisions:**
+* National Highways Act, 1956: This act governs the acquisition of land for highway projects and compensation determination.
+* Arbitration and Conciliation Act, 1996: This Act governs arbitration proceedings and appeals from arbitral awards.
+* Limitation Act, 1963: This Act defines the statutory time periods within which legal actions must be initiated.
+* Commercial Courts Act, 2015: This Act governs commercial disputes and sets limitations for appeals in commercial matters.
+
+**Precedents Cited:**
+* Nusli Neville Wadia v. Ivory Properties: (2020) 6 SCC 557 - On determining limitation as a preliminary issue.
+* Consolidated Engineering Enterprises v. Irrigation Department: (2008) 7 SCC 169 - On applicability of the Limitation Act when the special act is silent on limitations.
+* BSNL & Another Vs M/s Nortel Networks India Pvt. Ltd.: (2021) 5 SCC 738 - On limitation period for applications under Section 11 of the Arbitration and Conciliation Act, 1996.
+* State of West Bengal and others Vs Somdeb Bandyopadhyaya and others: AIR 2009 SC 1989 - On the need to first decide condonation delay applications before hearing on merits.
+* Ashwani Kumar Dhingra Vs State of Punjab: [AIR 1992 SC 974] - On merits of a case.
+* Union of India v. Virendera Constructions Ltd: (2020) 2 SCC 111 - On limitation period for appeals under Section 37 of the Arbitration and Conciliation Act, 1996.
+* M/s N. V. International v. the State of Assam and Ors.: (supra) - On limitation period for appeals under Section 37 of the Arbitration and Conciliation Act, 1996.
+* Government of Maharashtra V/s M/s Borse Brothers Engineers & Contractors Pvt. Ltd.: 2021 SCC OnLine SC 233 - On conflicting position regarding limitation period for appeals under Section 37 of the Arbitration and Conciliation Act, 1996.
+* Postmaster General v. Living Media India Ltd., (2012) 3 SCC 563 - On the application of the law of limitation to Government bodies.
+
+**Legal Doctrines:**
+* Statutory Interpretation: The court interpreted the relevant provisions of the various Acts to determine the applicable limitation period for appeals under Section 37 of the Arbitration and Conciliation Act, 1996.
+* Sufficient Cause for Delay: The court examined the NHAI's explanation for the delay in filing appeals and determined whether it constituted 'sufficient cause' for condoning the delay as per Section 5 of the Limitation Act, 1963.
+* Public Interest: The court considered the NHAI's argument that as a public body engaged in road construction for public benefit, they should be given special consideration.
+
+## 4. Arguments Presented
+
+**Plaintiff's Argument (Respondent):**
+* The respondent landowners argued that their land was adjacent to the highway and had a commercial value exceeding the agricultural value.
+* They claimed that the arbitral award, which considered the location and potential for commercial development, was a fair assessment of their compensation.
+* They argued that the NHAI's appeal against the judgment was filed with inordinate delay and that they were entitled to rely on the judgment and the arbitral award.
+
+**Defendant's Argument (Appellant):**
+* The NHAI argued that the arbitral award was illegal as it disregarded the prescribed method of calculating compensation based on agricultural land value.
+* They contended that the land should have been valued as agricultural land, as its commercial potential was not established at the time of acquisition.
+* They claimed that their delay in filing the appeal was due to procedural delays in obtaining internal approvals, including seeking legal advice and obtaining approval from the regional office.
+
+## 5. Court's Analysis and Reasoning
+
+**Key Findings:**
+* The court noted that the NHAI had initially accepted the original compensation award determined by the Prescribed Authority, and the landowners had received and enjoyed the compensation for five years without protest.
+* The court acknowledged that the NHAI's internal procedural delays might have contributed to the delay in filing the appeals but concluded that the delay was beyond the acceptable time limit for condonation under the Limitation Act.
+* The court observed that the NHAI's explanation for the delay did not constitute sufficient cause as defined by the relevant precedents.
+
+**Interpretation of Law:**
+* The court analyzed and interpreted the various relevant Acts, including the Arbitration and Conciliation Act, 1996, the Limitation Act, 1963, and the Commercial Courts Act, 2015, to determine the applicable limitation period for filing appeals under Section 37 of the Arbitration and Conciliation Act, 1996.
+* The court clarified that the limitation period for such appeals is 60 days, as per Section 13(1A) of the Commercial Courts Act, 2015, in cases where the commercial dispute value exceeds INR 3,00,000.00.
+
+**Application of Law:**
+* The court applied the legal precedents, particularly those established in M/s Borse Brothers Engineers & Contractors (supra), to determine that even though the NHAI was a public body, they were not exempt from the limitation period for filing appeals.
+* The court also applied the principle of 'sufficient cause' as outlined in the Limitation Act, 1963, and held that the NHAI's explanation for the delay did not meet the standard required for condoning the delay.
+
+## 6. Judgment
+
+**Final Decision:**
+The Allahabad High Court dismissed all the appeals filed by the National Highway Authority of India on the grounds of limitation.
+
+**Relief Granted:**
+No relief was granted to the NHAI.
+
+**Orders:**
+The court ordered the rejection of the applications for condonation of delay and dismissed all the appeals.
+
+## 7. Implications
+
+**Impact on Law:**
+The judgment reinforces the importance of adherence to statutory limitation periods for filing appeals, even for public bodies like the NHAI.
+The court's interpretation of the Commercial Courts Act, 2015, and its application of the 'sufficient cause' doctrine clarifies the legal framework for condonation of delay in commercial matters involving arbitration.
+
+**Future Relevance:**
+This judgment serves as a precedent for future cases involving appeals under Section 37 of the Arbitration and Conciliation Act, 1996, particularly in commercial disputes exceeding the specified value.
+
+**Broader Context:**
+The case highlights the balance between protecting the rights of landowners during land acquisition for public projects and ensuring the timely execution of such projects.
+The court's decision emphasizes the need for efficient and timely resolution of legal disputes within the framework of established legal principles and limitations.
+
+## 8. Summary Points
+
+* NHAI's appeals challenging the increased compensation awarded to landowners for land acquired for highway construction were dismissed.
+* The delay in filing the appeals, exceeding the 60-day limitation period under the Commercial Courts Act, 2015, was not condoned.
+* The court found the NHAI's explanation for the delay insufficient, emphasizing the need for prompt legal action and adherence to limitation periods.
+* The judgment reinforces the principle of 'sufficient cause' for condoning delay and clarifies the application of the Commercial Courts Act, 2015, in arbitration matters.
+
+## 9. References
+
+* National Highways Act, 1956
+* Arbitration and Conciliation Act, 1996
+* Limitation Act, 1963
+* Commercial Courts Act, 2015
+* All precedents cited in the judgment.
+
+## Further Reading
+
+* Other judgments concerning appeals under Section 37 of the Arbitration and Conciliation Act, 1996, particularly those related to condonation of delay.
+* Legal commentaries on the Commercial Courts Act, 2015, and its impact on commercial arbitration proceedings. 

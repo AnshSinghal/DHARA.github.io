@@ -1,0 +1,119 @@
+## 1. Case Title
+
+* **Case Name:** India Power Corporation Limited (IPCL) vs. Jefferies India Private Limited & Anr.
+* **Court:** Calcutta High Court (Appellete Side)
+* **Date of Judgment:** 24th August 2023
+* **Citation:** Not provided in the text.
+
+## 2. Background and Context
+
+* **Brief Overview:**  India Power Corporation Limited (IPCL) filed a money suit against Jefferies India Private Limited, claiming a decree for Rs. 9,01,8,185/- along with interest. The suit initially began in the Civil Judge (Senior Division) 2nd Court, Barasat but was transferred to the Commercial Court at Rajarhat due to a High Court notification establishing the Commercial Court.  The defendant, Jefferies India Private Limited, missed several deadlines to file a written statement, which led to the suit being listed for ex-parte hearing. The defendant subsequently appeared and sought to have the case removed from the ex-parte board, but this request was denied by the Commercial Court. The defendant filed two revisional applications challenging these decisions.
+* **Key Issues:**
+    * Whether the Commercial Court was obligated to provide notice to the defendant about the transfer of the case.
+    * Whether the defendant, after appearing and filing an application under Order VII Rule 11 of the Code of Civil Procedure, should have been allowed to participate in the proceedings.
+    * Whether the Commercial Court erred in proceeding with the ex-parte hearing and refusing to allow the defendant to file a written statement. 
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * Code of Civil Procedure, 1908 (CPC)
+        * Order V Rule 1 (1): Service of summons.
+        * Order VII Rule 11: Rejection of plaint.
+        * Order IX Rule 1: Appearance of parties.
+        * Order IX Rule 6: Procedure when only plaintiff appears.
+        * Order IX Rule 7: Procedure when defendant appears on adjourned hearing.
+        * Order XVII Rule 1: Adjournment of hearing.
+    * Commercial Courts Act, 2015
+        * Section 15: Transfer of pending cases.
+        * Section 8: Bar on revisional applications.
+    * Limitation Act, 1963
+        * Section 14: Exclusion of time.
+* **Precedents Cited:**
+    * Reena Sadh vs. Anjana Enterprises (2008) 12 SCC 589
+    * Raj Process Equipments & Systems Pvt. Ltd. & Ors. vs. Honest Derivatives Pvt. Ltd. (2022 SCC OnLine SC 1877)
+    * Manish Bhattacharyya & Anr. vs. Suprabhat Bhattacharyya (2014) 2 Cal LJ 604
+    * State Bank of India & Ors. vs. Ranjit Kumar Chakraborty & Ors. (2018) 12 SCC 807
+    * Rameswar Sarkar vs. The Collector, Nadia & Ors. (2008 SCC OnLine Cal 398)
+    * K. Janartan & Anr. vs. R. Thilak Kumar (1992) 2 L.W. 505
+    * Atcom Technologies Limited vs. Y.A. Chunawala and Co. & Ors. (2018) 6 SCC 639
+    * Kailash vs. Nankhu & Ors. (2005) 4 SCC 480
+    * Aditya Hotels (P) Ltd. vs. Bombay Swadeshi Stores Ltd. & Ors. (2007) 14 SCC 431
+    * APSPDCL & Anr. vs. HNPCL & Anr. (2022) 5 SCC 484
+    * Arjun Singh v. Mohindra Kumarle (AIR 1964 SC 993)
+    * Surya Dev Rai vs. Ram Chandea Rai & Ors. (2023) 6 SCC 675
+    * Black Diamond Trackparts Pvt. Ltd. & Anr. vs. Balck Diamond Motors Pvt. Ltd. (2021 SCC OnLine Del 3946)
+    * Deep Industries Limited v. Oil and Natural Gas Corporation Limited (2020) 15 SCC 706
+    * Sangram Singh vs. Election Tribunal Kotah & Anr. (AIR 1955 SC 425)
+    * Oil and Natural Gas Corporation Limited vs. Modern Construction Company (2014) 1 SCC 648
+    * The State Punjab & Anr. vs. Sham Lal Murarilal & Anr. (1976)1 SCC 719
+    * Nazir Ahmed vs. The King-Emperor (AIR 1936 PC 253)
+    * Municipal Committee, Hoshiarpur vs. Punjab State Electricity Board & Ors. (2010) 13 SCC 216 
+* **Legal Doctrines:**
+    * Principle of Natural Justice: Fair play and the right to be heard.
+    * Statutory Interpretation: Analyzing the intent and meaning of legal provisions.
+    * Jurisdictional Error: A court exceeding its legal authority.
+    * Contempt of Court: Failure to comply with court orders.
+
+## 4. Arguments Presented
+
+* **Plaintiff’s Argument (Jefferies India Private Limited):**
+    * The defendant (IPCL) was negligent in failing to file a written statement within the prescribed time frame.
+    * The defendant did not file any application under Order IX Rule 7 of the CPC to seek relief for their non-appearance.
+    * The transfer of the suit to the Commercial Court was a statutory requirement and did not necessitate a fresh notice to the defendant.
+    * The defendant was not a diligent litigant, and their delay was inexcusable.
+    * The Commercial Courts Act, 2015 emphasizes speedy disposal of commercial disputes, and the defendant's actions were dilatory.
+    * The defendant is attempting to use a petition under Article 227 of the Constitution of India to circumvent the bar on revisional applications under Section 8 of the Commercial Courts Act.
+    * The defendant's actions are intended to obstruct the proceedings and delay the judgment.
+* **Defendant’s Argument (India Power Corporation Limited):**
+    * The Commercial Court failed to exercise its jurisdiction under Order IX Rule 7 of the CPC by not allowing the defendant to participate in the proceedings once they appeared.
+    * The Commercial Court should have given notice to the defendant about the transfer of the case, even if not statutorily required.
+    * The defendant was not notified about the transfer to the Commercial Court and only became aware of the case's status in 2021.
+    * The Commercial Court's refusal to allow the defendant to file a written statement after they appeared was a violation of natural justice.
+    * The Commercial Courts Act, 2015 does not expressly prohibit the issuance of a notice upon transfer, and the principle of natural justice should have been followed.
+    * The Commercial Court's failure to hold case management hearings as required under Section 15 of the Commercial Courts Act, 2015 was a jurisdictional error.
+    * The defendant should have been allowed to participate in the proceedings, even after the ex-parte hearing had commenced.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The Commercial Court did not give notice to the defendant about the transfer of the case.
+    * The Commercial Court failed to hold a case management hearing as mandated by Section 15 of the Commercial Courts Act, 2015.
+    * The Commercial Court's refusal to allow the defendant to participate in the proceedings after they appeared and filed an application under Order VII Rule 11 of the CPC was a violation of the defendant's right to be heard and a breach of natural justice. 
+* **Interpretation of Law:**
+    * The court interpreted the relevant provisions of the CPC and the Commercial Courts Act, 2015.
+    * The court recognized the importance of the principle of natural justice in civil proceedings.
+    * The court analyzed the use of the word "may" in Section 15(4) of the Commercial Courts Act, 2015, finding that the legislature intended a mandatory obligation for case management hearings.
+* **Application of Law:**
+    * The court found that the Commercial Court had committed jurisdictional errors by failing to comply with the provisions of Section 15 of the Commercial Courts Act, 2015. 
+    * The court emphasized the need to balance the principle of speedy disposal with the fundamental right to a fair trial.
+    * The court held that the defendant should have been allowed to participate in the proceedings even after the suit had been listed for ex-parte hearing.
+
+## 6. Judgment
+
+* **Final Decision:** The revisional applications filed by the defendant (IPCL) were allowed.
+* **Relief Granted:** The orders passed by the Commercial Court, dated 7th January 2022 (order no. 26) and 14th March 2022 (order no. 27), were set aside.
+* **Orders:** 
+    * The Commercial Court was directed to allow the defendant to participate in the proceedings and dispose of the application under Order VII Rule 11 of the CPC on merit.
+    * The Commercial Court was ordered to comply with the provisions of Section 15 of the Commercial Courts Act, 2015, in its letter and spirit.
+
+## 7. Implications
+
+* **Impact on Law:** This judgment reaffirms the importance of the principle of natural justice and emphasizes the need for courts to be cautious in proceeding ex-parte. It clarifies that the word "may" in Section 15(4) of the Commercial Courts Act, 2015 should be interpreted as "shall," requiring mandatory case management hearings in commercial suits. 
+* **Future Relevance:** This case is likely to be cited in future cases involving the transfer of commercial suits, ex-parte hearings, and the application of natural justice principles in commercial proceedings. 
+* **Broader Context:** The judgment highlights the tension between the need for efficient disposal of commercial disputes and the fundamental right to a fair trial. It underscores the importance of ensuring due process in legal proceedings, even when dealing with time-sensitive matters.
+
+## 8. Summary Points
+
+* The Commercial Court's failure to provide notice to the defendant about the transfer of the case and to hold a case management hearing were jurisdictional errors.
+* The Commercial Court's refusal to allow the defendant to participate in the proceedings after they appeared was a violation of natural justice.
+* The court emphasized the mandatory nature of case management hearings in commercial suits under Section 15 of the Commercial Courts Act, 2015.
+* The judgment reinforces the importance of balancing efficiency with due process in commercial litigation.
+
+## 9. References
+
+* **Citations:** All citations are provided in the "Legal Principles Involved" section.
+* **Further Reading:**
+    * The Commercial Courts Act, 2015
+    * The Code of Civil Procedure, 1908
+    * Cases cited in the judgment, particularly those dealing with natural justice, jurisdictional errors, and the interpretation of "may" in statutory provisions.
+

@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A plaintiff filed a suit before the Commercial Courts Act came into force, and the suit was later converted into a commercial suit. The plaintiff seeks to appeal an order dismissing their application for secondary evidence. Is the appeal maintainable under the Commercial Courts Act?",
+    "Legal Principles": "The Commercial Courts Act, 2015, restricts appeals from orders of Commercial Divisions and Courts to those specifically enumerated in Order 43 of the Code of Civil Procedure and Section 37 of the Arbitration and Conciliation Act. However, a vested right to an appellate remedy may be preserved for suits instituted before the Act's enactment, even if later converted to commercial suits, as long as the application or order in question was filed before the conversion.  ",
+    "Relevant Sections": "Section 13, Section 15, Section 16, Section 21 of the Commercial Courts Act, 2015",
+    "Context": "This case involves the application of the Commercial Courts Act, 2015, to a suit filed prior to its enactment and subsequently converted to a commercial suit. The court must determine the maintainability of an appeal under the Act, considering the vested rights principle and the specific provisions governing appeals from commercial courts."
+  },
+  {
+    "Query": "A company filed a suit in 2010 seeking damages for breach of contract. In 2016, the suit was converted to a commercial suit. The company filed an application for a stay order in 2017.  The stay order was denied, and the company wants to appeal the denial. Is the appeal maintainable?",
+    "Legal Principles": "Appeals from orders of Commercial Divisions and Courts are restricted by the Commercial Courts Act, 2015, to those specifically enumerated in Order 43 of the Code of Civil Procedure and Section 37 of the Arbitration and Conciliation Act. The court will determine whether the stay order denial falls within the appealable categories. The fact that the suit was filed before the Act came into force and was subsequently converted may be relevant to the determination of vested rights.",
+    "Relevant Sections": "Section 13, Section 15, Section 16, Section 21 of the Commercial Courts Act, 2015",
+    "Context": "This case involves the application of the Commercial Courts Act, 2015, to a suit filed before its enactment and subsequently converted to a commercial suit. The court must determine the maintainability of an appeal under the Act, considering the vested rights principle and the specific provisions governing appeals from commercial courts."
+  },
+  {
+    "Query": "In a commercial dispute, a party filed an application for summary judgment. The application was denied. Can the party appeal the denial of the summary judgment application?",
+    "Legal Principles": "The Commercial Courts Act, 2015, restricts appeals from orders of Commercial Divisions and Courts to those specifically enumerated in Order 43 of the Code of Civil Procedure and Section 37 of the Arbitration and Conciliation Act. The court will need to determine if the denial of a summary judgment application falls under an appealable category under these provisions. ",
+    "Relevant Sections": "Section 13, Section 15, Section 16, Section 21 of the Commercial Courts Act, 2015",
+    "Context": "This case involves the application of the Commercial Courts Act, 2015, to a commercial dispute. The court must determine the maintainability of an appeal from the denial of a summary judgment application, considering the specific provisions governing appeals from commercial courts."
+  },
+  {
+    "Query": "A defendant in a commercial dispute filed an application to strike out certain portions of the plaintiff's claim. The application was denied. Is the defendant entitled to appeal the denial of the application to strike?",
+    "Legal Principles": "The Commercial Courts Act, 2015, limits appeals from orders of Commercial Divisions and Courts to those specifically enumerated in Order 43 of the Code of Civil Procedure and Section 37 of the Arbitration and Conciliation Act.  The court will determine if the denial of an application to strike out portions of a claim is an appealable order under these provisions. ",
+    "Relevant Sections": "Section 13, Section 15, Section 16, Section 21 of the Commercial Courts Act, 2015",
+    "Context": "This case involves the application of the Commercial Courts Act, 2015, to a commercial dispute. The court must determine the maintainability of an appeal from the denial of an application to strike out portions of a claim, considering the specific provisions governing appeals from commercial courts."
+  },
+  {
+    "Query": "A plaintiff filed a suit in 2013 for breach of contract. The suit was converted to a commercial suit in 2017. In 2018, the plaintiff filed an application for the appointment of a receiver. The application was denied. The plaintiff wants to appeal the denial. Is the appeal maintainable?",
+    "Legal Principles": "Appeals from orders of Commercial Divisions and Courts are restricted by the Commercial Courts Act, 2015, to those specifically enumerated in Order 43 of the Code of Civil Procedure and Section 37 of the Arbitration and Conciliation Act. The court will determine whether the denial of the receiver appointment falls within the appealable categories. The fact that the suit was filed before the Act came into force and was subsequently converted may be relevant to the determination of vested rights.",
+    "Relevant Sections": "Section 13, Section 15, Section 16, Section 21 of the Commercial Courts Act, 2015",
+    "Context": "This case involves the application of the Commercial Courts Act, 2015, to a suit filed before its enactment and subsequently converted to a commercial suit. The court must determine the maintainability of an appeal under the Act, considering the vested rights principle and the specific provisions governing appeals from commercial courts."
+  },
+  {
+    "Query": "In a commercial dispute, a party filed an application to amend their pleadings. The application was denied. Can the party appeal the denial of the amendment?",
+    "Legal Principles": "The Commercial Courts Act, 2015, limits appeals from orders of Commercial Divisions and Courts to those specifically enumerated in Order 43 of the Code of Civil Procedure and Section 37 of the Arbitration and Conciliation Act. The court will need to determine if the denial of an amendment application is an appealable order under these provisions. ",
+    "Relevant Sections": "Section 13, Section 15, Section 16, Section 21 of the Commercial Courts Act, 2015",
+    "Context": "This case involves the application of the Commercial Courts Act, 2015, to a commercial dispute. The court must determine the maintainability of an appeal from the denial of an amendment application, considering the specific provisions governing appeals from commercial courts."
+  },
+  {
+    "Query": "A defendant in a commercial dispute filed a counterclaim. The plaintiff filed an application to strike out the counterclaim. The application was denied. Is the plaintiff entitled to appeal the denial of the application to strike?",
+    "Legal Principles": "The Commercial Courts Act, 2015, restricts appeals from orders of Commercial Divisions and Courts to those specifically enumerated in Order 43 of the Code of Civil Procedure and Section 37 of the Arbitration and Conciliation Act. The court will determine if the denial of an application to strike out a counterclaim is an appealable order under these provisions. ",
+    "Relevant Sections": "Section 13, Section 15, Section 16, Section 21 of the Commercial Courts Act, 2015",
+    "Context": "This case involves the application of the Commercial Courts Act, 2015, to a commercial dispute. The court must determine the maintainability of an appeal from the denial of an application to strike out a counterclaim, considering the specific provisions governing appeals from commercial courts."
+  },
+  {
+    "Query": "A party filed a suit in 2012 for breach of contract. The suit was converted to a commercial suit in 2015. In 2016, the party filed an application for an injunction. The application was denied. The party wants to appeal the denial. Is the appeal maintainable?",
+    "Legal Principles": "Appeals from orders of Commercial Divisions and Courts are restricted by the Commercial Courts Act, 2015, to those specifically enumerated in Order 43 of the Code of Civil Procedure and Section 37 of the Arbitration and Conciliation Act. The court will determine whether the denial of the injunction falls within the appealable categories. The fact that the suit was filed before the Act came into force and was subsequently converted may be relevant to the determination of vested rights.",
+    "Relevant Sections": "Section 13, Section 15, Section 16, Section 21 of the Commercial Courts Act, 2015",
+    "Context": "This case involves the application of the Commercial Courts Act, 2015, to a suit filed before its enactment and subsequently converted to a commercial suit. The court must determine the maintainability of an appeal under the Act, considering the vested rights principle and the specific provisions governing appeals from commercial courts."
+  },
+  {
+    "Query": "A plaintiff filed a suit in 2014 for a specific performance of a contract. The suit was converted to a commercial suit in 2018. In 2019, the plaintiff filed an application to obtain documents from the defendant. The application was denied. The plaintiff wants to appeal the denial. Is the appeal maintainable?",
+    "Legal Principles": "Appeals from orders of Commercial Divisions and Courts are restricted by the Commercial Courts Act, 2015, to those specifically enumerated in Order 43 of the Code of Civil Procedure and Section 37 of the Arbitration and Conciliation Act. The court will determine whether the denial of the document request falls within the appealable categories. The fact that the suit was filed before the Act came into force and was subsequently converted may be relevant to the determination of vested rights.",
+    "Relevant Sections": "Section 13, Section 15, Section 16, Section 21 of the Commercial Courts Act, 2015",
+    "Context": "This case involves the application of the Commercial Courts Act, 2015, to a suit filed before its enactment and subsequently converted to a commercial suit. The court must determine the maintainability of an appeal under the Act, considering the vested rights principle and the specific provisions governing appeals from commercial courts."
+  },
+  {
+    "Query": "A defendant in a commercial dispute filed an application for a default judgment. The application was denied. Is the defendant entitled to appeal the denial of the application for default judgment?",
+    "Legal Principles": "The Commercial Courts Act, 2015, restricts appeals from orders of Commercial Divisions and Courts to those specifically enumerated in Order 43 of the Code of Civil Procedure and Section 37 of the Arbitration and Conciliation Act. The court will determine if the denial of an application for default judgment is an appealable order under these provisions. ",
+    "Relevant Sections": "Section 13, Section 15, Section 16, Section 21 of the Commercial Courts Act, 2015",
+    "Context": "This case involves the application of the Commercial Courts Act, 2015, to a commercial dispute. The court must determine the maintainability of an appeal from the denial of an application for default judgment, considering the specific provisions governing appeals from commercial courts."
+  }
+]
+```

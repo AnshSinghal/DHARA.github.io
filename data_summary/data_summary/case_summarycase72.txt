@@ -1,0 +1,87 @@
+## 1. Case Title
+
+* **Case Name:** M/s Mold-Tek Packaging Ltd. vs. S.D. Containers
+* **Court:** Madhya Pradesh High Court, Indore Bench
+* **Date of Judgment:** 1st September, 2020
+* **Citation:** M.P. No. 2156/2020
+
+## 2. Background and Context
+
+* **Brief Overview:** This case involves a dispute over alleged design piracy between M/s Mold-Tek Packaging Ltd. (plaintiff) and S.D. Containers (defendant).  Mold-Tek, a manufacturer of plastic packaging materials, claimed that S.D. Containers was producing containers with designs identical to those registered by Mold-Tek, and sought an injunction to prevent further infringement.
+* **Key Issues:** 
+    * Whether the Commercial Court in Indore had the jurisdiction to decide the case, or if it should be transferred to the Calcutta High Court based on Section 22(4) of the Design Act, 2000.
+    * Whether the Commercial Court, established under the Commercial Courts Act, 2015, was competent to hear the case, given that the defendant raised a defense challenging the validity of the plaintiff’s registered design under Section 19 of the Design Act, 2000.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * **Design Act, 2000:** Sections 2(e), 5(4), 9, 10, 11, 19, 22.
+    * **Commercial Courts, Commercial Division, Commercial Appellate Division of High Courts Act, 2015:** Sections 2, 3, 3A, 4, 5, 6, 7, 21.
+    * **Code of Civil Procedure, 1908:** Sections 16-20, Order 7 Rule 11, Order 39 Rules 1 & 2.
+* **Precedents Cited:**
+    * **Whirlpool of India vs. Videocon Industries Ltd.** (2014 SCC Online Bom 565)
+    * **Castrol India Ltd. vs. Tide Water Oil Co. (I) Ltd.** (1994 SCC Online Cal. 303)
+    * **Bharat Glass Tube Ltd. vs. Gopal Glass Works Ltd.** (2008) 10 SCC 657
+    * **Dart industries vs. Poluset Plastics Pvt. Ltd.** (2018 SCC Online Del 10229)
+    * **Godrej Sara Lee Ltd. vs. Reckitt Benckiser Australia Ptu. Ltd. & another** (2010) 2 SCC 535
+    * **Astral Polytechnic Limited vs. Ashirvad Pipes Pvt. Ltd. & others** (MANU/KA/0119/2008)
+    * **R.N.Gupta & Co. Ltd. vs. Action Construction Equipments Ltd.** (2016 SCC Online Allahabad 975)
+    * **Escorts Construction Equipment Ltd. vs. Gautam Engineering Company & others** (MANU/JK/0409/2009)
+    * **Salutri Remedies vs. Unim Pharma Lab Pvt. Ltd.** (2009 SCC Guj. 9488)
+    * **Standard Glass Beads Factory and another** (1980 SCC Online All 59)
+* **Legal Doctrines:** 
+    * **Jurisdiction:** The court's power to hear and decide a case.
+    * **Territorial Jurisdiction:** The court's power over a specific geographic area.
+    * **Functus Officio:**  When a court has exhausted its power to act in a case.
+    * **Special Enactment:** A law that overrides general laws.
+    * **Overriding Effect:**  The power of a special enactment to supersede other laws.
+
+## 4. Arguments Presented
+
+* **Plaintiff's Argument:** 
+    * The Commercial Court in Indore had the territorial jurisdiction to hear the case, as the defendant carried out business in Indore and the cause of action arose there.
+    * Section 22(4) of the Design Act, 2000, required a transfer of the case to the High Court only if an appeal was pending against the Controller's decision on the design registration.  No such appeal was pending.
+    * The Commercial Court should have adjudicated the plaintiff's application to reject the defendant's counterclaim and for a temporary injunction before deciding the transfer application.
+* **Defendant's Argument:** 
+    * The defendant's written statement challenged the validity of the plaintiff's design registration on grounds available under Section 19 of the Design Act, 2000, making the Commercial Court functus officio.
+    * Section 22(4) mandates the transfer of the case to the High Court when a defense under Section 19 is raised.
+    * The defendant requested the transfer to the High Court in Madhya Pradesh, Indore Bench.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:** 
+    * Both parties agreed that the Indore court had territorial jurisdiction.
+    * The Commercial Court Act, 2015, established Commercial Courts with specific jurisdiction to handle commercial disputes, including intellectual property rights.
+    * The language of Section 22(4) of the Design Act, 2000, is mandatory and requires transfer to the High Court when a Section 19 defense is raised, regardless of whether an appeal is pending.
+* **Interpretation of Law:** 
+    * The court interpreted the provisions of both the Design Act, 2000, and the Commercial Courts Act, 2015, to determine their scope and application in this case.
+    * The court held that the Commercial Courts Act, 2015, is a special enactment that overrides general laws, including the Design Act, 2000.
+* **Application of Law:** 
+    * The court applied the principles of jurisdiction and special enactments to determine that the Commercial Court in Indore was competent to hear the case.
+    * The court found that the transfer of the case to the Calcutta High Court was not warranted, as the defendant's challenge to the design registration did not trigger the application of Section 22(4) of the Design Act, 2000.
+
+## 6. Judgment
+
+* **Final Decision:** The writ petition filed by the plaintiff was allowed.
+* **Relief Granted:** The impugned order of the Commercial Court dated 23rd March, 2020, transferring the case to the Calcutta High Court, was set aside.
+* **Orders:** The Commercial Court in Indore was instructed to continue hearing the case. 
+
+## 7. Implications
+
+* **Impact on Law:** The judgment clarifies the interaction between the Design Act, 2000, and the Commercial Courts Act, 2015, regarding the transfer of cases where a defendant challenges the validity of a design registration. 
+* **Future Relevance:** The case provides a precedent for future cases involving similar disputes, emphasizing the competence of Commercial Courts to handle intellectual property rights disputes.
+* **Broader Context:** The judgment highlights the importance of establishing specialized courts to efficiently handle commercial disputes, including those relating to intellectual property.
+
+## 8. Summary Points
+
+* The Commercial Court in Indore had the jurisdiction to hear the design piracy case.
+* The court held that the Commercial Courts Act, 2015, overrides the Design Act, 2000, in this case.
+* The court found that the defendant's challenge to the design registration did not require the transfer of the case to the High Court.
+* The judgment emphasizes the competence of Commercial Courts to handle intellectual property disputes.
+
+## 9. References
+
+* **Citations:** Design Act, 2000, Commercial Courts Act, 2015, Code of Civil Procedure, 1908, and all case citations listed in the "Precedents Cited" section.
+* **Further Reading:** 
+    * The full text of the Design Act, 2000, Commercial Courts Act, 2015, and Code of Civil Procedure, 1908.
+    * Other cases dealing with the interpretation and application of the Design Act, 2000, and the Commercial Courts Act, 2015. 

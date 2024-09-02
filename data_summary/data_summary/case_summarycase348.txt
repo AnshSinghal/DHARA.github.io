@@ -1,0 +1,91 @@
+##  Venkatesh Vincom Private Limited vs. M/S. Spice of Joy 
+
+**1. Case Title**
+
+* **Case Name:** Venkatesh Vincom Private Limited vs. M/S. Spice of Joy, Multicuisine Restaurant cum Bar & Ors.
+* **Court:** Calcutta High Court (Appellate Side), Commercial Division
+* **Date of Judgment:** 26 September 2022
+* **Citation:** FMAT 20 of 2022
+
+**2. Background and Context**
+
+* **Brief Overview:**  Venkatesh Vincom Private Limited (Appellant) filed a suit against M/S. Spice of Joy (Respondent) to recover a loan amount of Rs. 97,65,333/- along with interest. The Respondent, a multicuisine restaurant and bar, had taken two loans from the Appellant, a non-banking financial company, for their business operations. The Appellant claimed the Respondent defaulted on repayment, and they filed the suit before the Commercial Court at Alipore.
+* **Key Issues:** The key legal question was whether the dispute between the parties qualified as a "commercial dispute" under Section 2(1)(c)(i) of the Commercial Courts Act, 2015. If not, the Commercial Court lacked jurisdiction to hear the case.
+
+**3. Legal Principles Involved**
+
+* **Relevant Statutes and Provisions:**
+    * **Commercial Courts Act, 2015:** Section 2(1)(c)(i) defining "Commercial dispute" as a dispute arising out of ordinary transactions of merchants, bankers, financiers, and traders relating to mercantile documents.
+    * **Code of Civil Procedure (CPC):** Order 7 Rule 11 read with Section 151 for rejection of the plaint. 
+    * **Indian Partnership Act, 1932:**  Sections 18, 19, and 22 regarding the liability of partners and the firm for acts done by a partner.
+* **Precedents Cited:** 
+    * **Ambalal Sarabhai Enterprises Limited vs. K.S. Infraspace LLP and Another (Civil Appeal no. 7843 of 2019):**  Supreme Court decision clarifying the definition of "commercial dispute" and the purpose of the Commercial Courts Act.
+    * **Ladymoon Towers Private Limited vs. Mahendra Investment Advisors Private Limited (CS 99 of 2020):** Single Bench of Calcutta High Court ruling on the definition of "mercantile document" and the nature of commercial disputes.
+    * **Punjab University vs. Unit Trust of India & Ors., (2015) 2 SCC 669:** Supreme Court decision on the meaning of "commercial action" as defined in Stroud's Judicial Dictionary.
+* **Legal Doctrines:** 
+    * **Interpretation of Statutes:** The court extensively interpreted the provisions of the Commercial Courts Act, 2015, specifically Section 2(1)(c)(i).
+    * **Jurisdiction:** The court examined the jurisdiction of the Commercial Court based on the nature of the dispute.
+
+**4. Arguments Presented**
+
+* **Appellant’s Argument:** 
+    * The loan agreement between the Appellant (non-banking financial company) and the Respondent (business establishment) constituted an "ordinary transaction of a financier" as per Section 2(1)(c)(i) of the Commercial Courts Act.
+    * The receipts, acknowledgement, and bank statements were considered "mercantile documents" and the dispute involved their enforcement and interpretation.
+    * The Commercial Court erred in returning the plaint, lacking reasoning and proper consideration of the arguments.
+* **Respondent’s Argument:**
+    * The loan was extended to an individual partner, not the business establishment, and thus didn't fall under "ordinary transactions" of a financier as defined in the Act.
+    * The loan was a "friendly loan" and not a commercial transaction based on a "mercantile document" as required by the Act. 
+    * The appellant had not adhered to the Reserve Bank of India's fair practices code for non-banking financial companies.
+    * The Commercial Court correctly returned the plaint, as the dispute didn't satisfy the conditions of a commercial dispute and could clog the system.
+
+**5. Court’s Analysis and Reasoning**
+
+* **Key Findings:** 
+    * The definition of "commercial dispute" in the Commercial Courts Act is expansive, encompassing various transactions involving merchants, bankers, financiers, and traders.
+    * The court focused on the "ordinary transaction of a financier" aspect of the dispute. 
+    * It acknowledged that lending money by a non-banking financial company is a primary activity that qualifies as an "ordinary transaction" under the Act.
+    * The definition of "mercantile document" is broad, including any form of recording of transactions, and not limited to formal agreements. 
+    * The court considered the receipts, acknowledgement, bank statements, and TDS certificate as "mercantile documents" demonstrating the commercial nature of the transaction.
+    * The loan, though provided to one partner, was utilized by the firm and the firm had paid interest, making it a transaction with the firm.
+* **Interpretation of Law:**
+    * The court emphasized the broad interpretation of "mercantile document" within the Act, considering any document used for recording transactions as eligible.
+    * It referred to the definition of "commercial paper" from Black's Law Dictionary and Stroud's Judicial Dictionary to further clarify the meaning of "mercantile" and "commercial action."
+    * The court carefully examined and distinguished the precedents cited by both parties, particularly Ladymoon Towers Pvt. Ltd. and Ambalal Sarabhai Enterprises Ltd. cases.
+* **Application of Law:**
+    * The court applied the broader interpretation of the Act to the facts, finding that the loan transaction between the Appellant (financier) and the Respondent (merchant) satisfied the definition of a "commercial dispute."
+    * The court concluded that the Commercial Court had jurisdiction to hear the case based on the nature of the dispute and the evidence presented.
+
+**6. Judgment**
+
+* **Final Decision:** The Calcutta High Court allowed the appeal and overturned the Commercial Court's order returning the plaint. The High Court found that the dispute qualified as a "commercial dispute" and the Commercial Court had jurisdiction to hear the case.
+* **Relief Granted:** The suit was remitted back to the Commercial Court for further proceedings.
+* **Orders:** The court set aside the impugned order of the Commercial Court and directed that the appeal be allowed. There was no order as to costs.
+
+**7. Implications**
+
+* **Impact on Law:** This judgment reinforces a broader interpretation of "commercial dispute" under the Commercial Courts Act, 2015, particularly in relation to financial transactions involving non-banking financial companies.
+* **Future Relevance:** This case serves as a precedent for future disputes involving non-banking financial companies and their lending activities. It highlights the importance of accurately interpreting the definition of "commercial dispute" for determining jurisdiction.
+* **Broader Context:**  The judgment underscores the significance of the Commercial Courts Act in fostering a faster and efficient resolution of commercial disputes. It demonstrates the courts' role in ensuring that businesses have access to appropriate legal forums.
+
+**8. Summary Points**
+
+* This case involved a dispute over a loan between a non-banking financial company and a business establishment.
+* The court held that the dispute qualified as a "commercial dispute" under the Commercial Courts Act.
+* The court emphasized a broad interpretation of "mercantile document," considering any form of transaction recording.
+* The case clarifies the jurisdiction of the Commercial Courts for disputes involving financial transactions.
+
+**9. References**
+
+* **Commercial Courts Act, 2015:** Section 2(1)(c)(i), Section 2(1)(f)
+* **Code of Civil Procedure (CPC):** Order 7 Rule 11, Section 151
+* **Indian Partnership Act, 1932:** Sections 18, 19, 22
+* **Ambalal Sarabhai Enterprises Limited vs. K.S. Infraspace LLP and Another (Civil Appeal no. 7843 of 2019):** Supreme Court of India.
+* **Ladymoon Towers Private Limited vs. Mahendra Investment Advisors Private Limited (CS 99 of 2020):** Calcutta High Court.
+* **Punjab University vs. Unit Trust of India & Ors., (2015) 2 SCC 669:** Supreme Court of India.
+* **Black's Law Dictionary, 8th Edition:** Definition of "commercial paper" and "mercantile."
+* **Stroud's Judicial Dictionary:** Definition of "commercial action."
+
+**Further Reading:** 
+* **Law Commission of India Reports:** 188th and 253rd Reports on the establishment of Commercial Courts. 
+* **Reserve Bank of India Master Circular:** Fair Practices Code for Non-Banking Financial Companies.
+* **Commercial Courts Act, 2015:**  Complete text of the Act.

@@ -1,0 +1,91 @@
+## 1. Case Title
+
+* **Case Name:** Nirman Consultants Pvt Ltd. vs Nne Ltd.
+* **Court:** Delhi High Court
+* **Date of Judgment:** 11th April, 2019
+* **Citation:** AIRONLINE 2019 DEL 2347
+
+## 2. Background and Context
+
+* **Brief Overview:** Nirman Consultants Pvt Ltd. (appellant) filed a suit in 2012 against NNE Ltd. (respondent) for recovery of dues. The suit was converted into a commercial suit in 2016 after the Commercial Courts Act, 2015 came into force. The appellant sought permission to lead secondary evidence under Section 65(c) of the Evidence Act, 1872, which was dismissed by the Single Judge. The appellant appealed the dismissal to the Division Bench.
+* **Key Issues:**
+    * **Maintainability of the Appeal:** Whether the appeal was maintainable under the Commercial Courts Act, 2015, considering the suit was filed before the Act came into force.
+    * **Admissibility of Secondary Evidence:** Whether the appellant was entitled to lead secondary evidence under Section 65(c) of the Evidence Act.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * **Commercial Courts Act, 2015:**
+        * Section 13: Appeals from decrees of Commercial Courts and Commercial Divisions.
+        * Section 15: Transfer of pending cases.
+        * Section 16: Amendments to the Code of Civil Procedure, 1908 in its application to commercial disputes.
+        * Section 21: Act to have overriding effect.
+    * **Code of Civil Procedure, 1908:**
+        * Order 43: Appeals from orders.
+        * Order XIV-A: Case management hearings.
+    * **Evidence Act, 1872:**
+        * Section 65(c): Secondary evidence.
+* **Precedents Cited:**
+    * **HPL (India) and Others vs. QRG Enterprises& Anr., 2017 (72) PTC 283 [Del][DB]:** Held that only orders specifically enumerated under Section 13 of the Commercial Courts Act are appealable.
+    * **Eros Resorts and Hotels Ltd. vs. Explorer Associates Pvt Ltd., 251 (2018) DLT 101 DB:** Held that a previously instituted litigant's right to appeal is preserved even after the enactment of a new statute.
+    * **Videocon International Ltd. vs. SEBI, 2015 (4) SCC 33:** Held that vested rights cannot be taken away by an amendment unless the amended provision expressly or by necessary intendment so provides.
+    * **Brahmos Aerospace Pvt Ltd. vs. FIIT JEE Ltd & Anr, FAO (OS) (COMM) 247/2018, decided on 25.02.2019:** Clarified the scope of the Eros Resorts judgment and distinguished it from the HPL (India) judgment.
+* **Legal Doctrines:**
+    * **Vested Rights:** Rights acquired by a person, which cannot be taken away by a subsequent change in law.
+    * **Prospective vs. Retrospective Effect of Legislation:** Whether a new law applies to situations that occurred before its enactment.
+    * **Interpretation of Statutes:** Principles used by the court to determine the meaning of statutory provisions.
+
+## 4. Arguments Presented
+
+* **Appellant’s Argument:**
+    * **Maintainability of the Appeal:** The appellant argued that the suit was filed before the Commercial Courts Act came into force, and therefore, they had a vested right to appeal under the Delhi High Court Act, 1966. The appellant relied on the Eros Resorts and Hotels Ltd. judgment to support this claim.
+    * **Admissibility of Secondary Evidence:** The appellant argued that they had filed the invoices along with the replication, and the documents were misplaced by the Registry during scanning. The appellant also pointed out that they had specifically pleaded about the invoices in the plaint.
+* **Respondent’s Argument:**
+    * **Maintainability of the Appeal:** The respondent argued that the suit was converted into a commercial suit, and therefore, the provisions of the Commercial Courts Act applied. The respondent relied on the HPL (India) and Brahmos Aerospace judgments to support this claim.
+    * **Admissibility of Secondary Evidence:** The respondent argued that the invoices were not filed with the plaint and were not exhibited in the affidavit. The respondent also argued that there was no evidence to support the claim that the envelope contained documents.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * **Maintainability of the Appeal:** The court held that the appeal was not maintainable because the suit had been converted into a commercial suit before the appellant filed the application for secondary evidence. The court relied on the HPL (India) judgment, distinguishing the present case from the Eros Resorts and Brahmos Aerospace judgments on the basis of the timing of the application filing.
+    * **Admissibility of Secondary Evidence:** The court did not address the issue of secondary evidence as the appeal was dismissed on maintainability grounds. 
+* **Interpretation of Law:**
+    * The court interpreted Section 13 of the Commercial Courts Act as restricting the appealability of orders to those specifically enumerated in the Act.
+    * The court interpreted Section 15 of the Act as mandating the application of the Act's provisions to all pending suits and applications, including those filed before the Act came into force, unless the judgment has been reserved. 
+* **Application of Law:**
+    * The court applied the principle of vested rights and found that the appellant's right to appeal was not vested as the suit was converted into a commercial suit before the appeal was filed.
+    * The court did not apply the principles of secondary evidence as the appeal was dismissed on maintainability grounds.
+
+## 6. Judgment
+
+* **Final Decision:** The appeal was dismissed as not being maintainable.
+* **Relief Granted:** No relief was granted.
+* **Orders:** The pending application for modification of the order of the Single Judge was also dismissed.
+
+## 7. Implications
+
+* **Impact on Law:** The judgment reinforces the interpretation of Section 13 of the Commercial Courts Act, restricting appealability to specific enumerated orders. The judgment clarifies the applicability of the Act to pending suits filed before its enactment, emphasizing the need for a clear understanding of the timing of application filing and suit conversion.
+* **Future Relevance:** This case provides guidance for future cases involving the maintainability of appeals in commercial suits filed before the Commercial Courts Act, 2015 came into force. 
+* **Broader Context:** This case highlights the importance of timely compliance with procedural requirements, specifically in commercial suits. It also demonstrates the courts' commitment to enforcing the provisions of the Commercial Courts Act for ensuring the speedy resolution of commercial disputes.
+
+## 8. Summary Points
+
+* The appeal was dismissed as not maintainable because the suit had been converted into a commercial suit before the appellant filed the application for secondary evidence.
+* The court relied on the HPL (India) judgment and distinguished the present case from the Eros Resorts and Brahmos Aerospace judgments.
+* The court emphasized that the Commercial Courts Act applies to all pending suits and applications filed before its enactment, unless the judgment has been reserved.
+* The judgment emphasizes the importance of timely compliance with procedural requirements in commercial suits.
+
+## 9. References
+
+* **Citations:**
+    * Commercial Courts Act, 2015
+    * Code of Civil Procedure, 1908
+    * Evidence Act, 1872
+    * HPL (India) and Others vs. QRG Enterprises& Anr., 2017 (72) PTC 283 [Del][DB]
+    * Eros Resorts and Hotels Ltd. vs. Explorer Associates Pvt Ltd., 251 (2018) DLT 101 DB
+    * Videocon International Ltd. vs. SEBI, 2015 (4) SCC 33
+    * Brahmos Aerospace Pvt Ltd. vs. FIIT JEE Ltd & Anr, FAO (OS) (COMM) 247/2018, decided on 25.02.2019
+* **Further Reading:**
+    * Other judgments relating to the Commercial Courts Act, 2015
+    * Legal texts on commercial litigation and procedure
+    * Articles on the interpretation of the Commercial Courts Act and its impact on legal practice 

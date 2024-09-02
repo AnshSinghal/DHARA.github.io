@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A contractor has filed a claim for additional payment for controlled blasting work, arguing it was necessary due to unforeseen geological conditions. The employer argues that the contract included provisions for this type of work and that the contractor should have factored these costs into their bid. What are the legal principles and precedents governing the allocation of risk for unforeseen conditions in construction contracts?",
+    "Legal Principles": "Allocation of Risk, Unforeseen Conditions, Contract Interpretation, Implied Terms, Frustration of Contract",
+    "Relevant Sections": "Clause 2.16 of the second volume of the agreement, Clause 2.16.2 of the second volume, Clause 20 of G.C.C., Clause 5.6 of the special terms and conditions of the contract",
+    "Context": "Construction contract dispute, claim for additional payment, unforeseen conditions, allocation of risk"
+  },
+  {
+    "Query": "A contractor claims that the employer's delay in providing materials led to increased costs and project delays. The employer argues that the delay was caused by the contractor's own negligence and that they are not liable. How are delays in construction projects analyzed in terms of causation and liability?",
+    "Legal Principles": "Causation, Foreseeability, Damages, Contractual Obligations, Delay Damages, Duty of Care",
+    "Relevant Sections": "Clause 5 of G.C.C., Clause 56 of G.C.C., Clause 57 of G.C.C.",
+    "Context": "Construction contract dispute, delay claims, causation, liability"
+  },
+  {
+    "Query": "A contractor seeks compensation for extra work performed beyond the scope of the original contract, claiming it was necessary to rectify the employer's design errors. The employer argues that the contractor should have brought these errors to their attention sooner and that the additional work was unnecessary. Can a contractor claim compensation for extra work due to design errors, and what are the relevant legal principles?",
+    "Legal Principles": "Variation of Contract, Implied Terms, Estoppel, Good Faith, Duty to Warn, Contract Interpretation",
+    "Relevant Sections": "Clause 56 of G.C.C., Clause 57 of G.C.C.",
+    "Context": "Construction contract dispute, extra work, design errors, compensation"
+  },
+  {
+    "Query": "A contractor has abandoned a project due to financial difficulties. The employer is seeking to recover damages for breach of contract. The contractor claims that the employer's own breaches of contract contributed to their financial difficulties and justify their abandonment. What are the legal principles governing abandonment and the apportionment of liability in such situations?",
+    "Legal Principles": "Breach of Contract, Abandonment, Frustration of Contract, Mitigation of Damages, Apportionment of Liability, Contributory Negligence",
+    "Relevant Sections": "Clause 5 of G.C.C., Clause 56 of G.C.C., Clause 57 of G.C.C.",
+    "Context": "Construction contract dispute, abandonment, breach of contract, damages"
+  },
+  {
+    "Query": "A contractor is claiming interest on payments due under the contract, arguing that the employer's delay in payment constitutes a breach of contract. The employer argues that the contract does not specify a specific interest rate and that their delay was reasonable. What are the legal principles governing the award of interest on contract payments?",
+    "Legal Principles": "Interest on Contract Payments, Breach of Contract, Damages, Mitigation of Damages, Reasonable Time, Contract Interpretation",
+    "Relevant Sections": "Clause 57(5) of G.C.C., Section 31(7)(a) of the Arbitration and Conciliation Act, 1996",
+    "Context": "Construction contract dispute, interest on payments, breach of contract, delay"
+  },
+  {
+    "Query": "A contractor claims that the employer's failure to provide timely approval for variations in the project plan caused significant delays and increased costs. The employer argues that the contractor did not follow the proper procedures for seeking variations. How does the law govern the process for approving variations in construction contracts and the liability for delays caused by such variations?",
+    "Legal Principles": "Variation of Contract, Contract Interpretation, Estoppel, Duty to Mitigate, Delay Damages, Approval Process",
+    "Relevant Sections": "Clause 56 of G.C.C., Clause 57 of G.C.C.",
+    "Context": "Construction contract dispute, variations in contract, delay, approval process"
+  },
+  {
+    "Query": "An employer has issued a notice of termination to a contractor due to delays in project completion. The contractor argues that the termination was wrongful and that the delays were beyond their control. What are the legal principles and precedents governing the termination of construction contracts for delay?",
+    "Legal Principles": "Termination of Contract, Breach of Contract, Force Majeure, Notice Requirement, Delay Damages, Mitigation of Damages",
+    "Relevant Sections": "Clause 5 of G.C.C., Clause 56 of G.C.C., Clause 57 of G.C.C.",
+    "Context": "Construction contract dispute, termination, delay, breach of contract"
+  },
+  {
+    "Query": "A contractor has submitted a claim for payment for work completed, but the employer argues that the work was defective and does not meet the contract specifications. The contractor claims that the defects were minor and that the employer did not provide timely notice of their dissatisfaction. What are the legal principles governing the inspection of work, the notification of defects, and the consequences of failing to comply with such requirements?",
+    "Legal Principles": "Contractual Obligations, Acceptance of Work, Defects, Inspection, Notice Requirement, Duty to Mitigate, Damages",
+    "Relevant Sections": "Clause 5 of G.C.C., Clause 56 of G.C.C., Clause 57 of G.C.C.",
+    "Context": "Construction contract dispute, defective work, payment, inspection, notice"
+  },
+  {
+    "Query": "A contractor has filed a claim for compensation for additional costs incurred due to the employer's change in the scope of work. The employer argues that the changes were minor and necessary to ensure project success. What are the legal principles governing changes in the scope of work, and how are the contractor's rights to compensation determined?",
+    "Legal Principles": "Variation of Contract, Contract Interpretation, Estoppel, Good Faith, Duty to Warn, Compensation for Extra Work, Mitigation of Damages",
+    "Relevant Sections": "Clause 56 of G.C.C., Clause 57 of G.C.C.",
+    "Context": "Construction contract dispute, change in scope of work, compensation"
+  },
+  {
+    "Query": "A contractor has filed a claim for payment for additional work performed, arguing that the work was necessary to rectify the employer's failure to provide adequate site information. The employer argues that the contractor should have conducted their own due diligence before starting work. What are the legal principles governing the employer's duty to provide site information and the contractor's responsibility for conducting due diligence?",
+    "Legal Principles": "Contractual Obligations, Duty to Provide Information, Due Diligence, Implied Terms, Negligence, Damages",
+    "Relevant Sections": "Clause 56 of G.C.C., Clause 57 of G.C.C.",
+    "Context": "Construction contract dispute, site information, due diligence, additional work, payment"
+  }
+]
+```

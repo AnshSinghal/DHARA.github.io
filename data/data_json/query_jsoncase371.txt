@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A case involving a contract dispute between two companies, where one company claims the other breached a distribution agreement. The plaintiff seeks damages for lost profits due to the breach.",
+    "Legal Principles": "Breach of contract, damages for breach of contract, distribution agreements, commercial disputes",
+    "Relevant Sections": "Section 2 (1) (c) of the Commercial Courts Act, 2015 (defining commercial dispute), Section 15(2) (transfer of pending suits to Commercial Courts)",
+    "Context": "Commercial dispute, contract law, jurisdiction of Commercial Courts"
+  },
+  {
+    "Query": "A case where a property owner is suing a construction company for defective work performed on their property. The owner claims the construction company failed to meet the standards outlined in the contract.",
+    "Legal Principles": "Breach of contract, defective workmanship, construction contracts, remedies for breach of contract",
+    "Relevant Sections": "Section 2 (1) (c) of the Commercial Courts Act, 2015 (defining commercial dispute), Section 15(2) (transfer of pending suits to Commercial Courts)",
+    "Context": "Commercial dispute, construction law, jurisdiction of Commercial Courts"
+  },
+  {
+    "Query": "A case where a supplier is suing a buyer for non-payment of goods delivered under a purchase agreement. The supplier claims the buyer failed to fulfill their payment obligations as agreed.",
+    "Legal Principles": "Breach of contract, non-payment, purchase agreements, remedies for breach of contract",
+    "Relevant Sections": "Section 2 (1) (c) of the Commercial Courts Act, 2015 (defining commercial dispute), Section 15(2) (transfer of pending suits to Commercial Courts)",
+    "Context": "Commercial dispute, sales law, jurisdiction of Commercial Courts"
+  },
+  {
+    "Query": "A case where a company is seeking an injunction to prevent another company from using a trademark that is allegedly infringing on their own trademark rights.",
+    "Legal Principles": "Trademark infringement, injunctions, intellectual property law, remedies for trademark infringement",
+    "Relevant Sections": "Section 2 (1) (c) of the Commercial Courts Act, 2015 (defining commercial dispute), Section 15(2) (transfer of pending suits to Commercial Courts)",
+    "Context": "Commercial dispute, intellectual property law, jurisdiction of Commercial Courts"
+  },
+  {
+    "Query": "A case where a company is suing its former employee for breach of confidentiality agreement. The company alleges that the former employee is using confidential information acquired during their employment for their own benefit.",
+    "Legal Principles": "Breach of confidentiality agreement, employment law, confidential information, remedies for breach of contract",
+    "Relevant Sections": "Section 2 (1) (c) of the Commercial Courts Act, 2015 (defining commercial dispute), Section 15(2) (transfer of pending suits to Commercial Courts)",
+    "Context": "Commercial dispute, employment law, jurisdiction of Commercial Courts"
+  },
+  {
+    "Query": "A case where a company is seeking to recover a debt owed to them by a customer. The company claims the customer has failed to make payments as agreed under a contract.",
+    "Legal Principles": "Debt recovery, breach of contract, remedies for breach of contract",
+    "Relevant Sections": "Section 2 (1) (c) of the Commercial Courts Act, 2015 (defining commercial dispute), Section 15(2) (transfer of pending suits to Commercial Courts)",
+    "Context": "Commercial dispute, debt recovery, jurisdiction of Commercial Courts"
+  },
+  {
+    "Query": "A case involving a partnership dispute between two partners who are seeking to dissolve their partnership. The partners disagree on the terms of the dissolution.",
+    "Legal Principles": "Partnership law, dissolution of partnership, partnership agreements, remedies for breach of contract",
+    "Relevant Sections": "Section 2 (1) (c) of the Commercial Courts Act, 2015 (defining commercial dispute), Section 15(2) (transfer of pending suits to Commercial Courts)",
+    "Context": "Commercial dispute, partnership law, jurisdiction of Commercial Courts"
+  },
+  {
+    "Query": "A case where a company is suing its supplier for breach of warranty. The company alleges that the goods delivered by the supplier were defective and did not meet the standards specified in the contract.",
+    "Legal Principles": "Breach of warranty, remedies for breach of contract, goods and services",
+    "Relevant Sections": "Section 2 (1) (c) of the Commercial Courts Act, 2015 (defining commercial dispute), Section 15(2) (transfer of pending suits to Commercial Courts)",
+    "Context": "Commercial dispute, sale of goods, jurisdiction of Commercial Courts"
+  },
+  {
+    "Query": "A case where a company is seeking to enforce an arbitration clause in a contract. The company claims that the other party has failed to participate in arbitration as agreed.",
+    "Legal Principles": "Arbitration agreements, enforcement of arbitration clauses, arbitration law",
+    "Relevant Sections": "Section 2 (1) (c) of the Commercial Courts Act, 2015 (defining commercial dispute), Section 15(2) (transfer of pending suits to Commercial Courts)",
+    "Context": "Commercial dispute, arbitration, jurisdiction of Commercial Courts"
+  },
+  {
+    "Query": "A case where a company is seeking to recover insurance proceeds from an insurance company. The company claims that a loss covered by the insurance policy occurred.",
+    "Legal Principles": "Insurance law, insurance contracts, insurance claims",
+    "Relevant Sections": "Section 2 (1) (c) of the Commercial Courts Act, 2015 (defining commercial dispute), Section 15(2) (transfer of pending suits to Commercial Courts)",
+    "Context": "Commercial dispute, insurance law, jurisdiction of Commercial Courts"
+  }
+]
+```

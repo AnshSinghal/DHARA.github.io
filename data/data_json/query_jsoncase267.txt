@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A copyright infringement suit was filed in a Commercial Court in Delhi. The defendant argued that the court lacked territorial jurisdiction because the defendant resided in Hyderabad and the plaintiff's principal place of business was in Delhi, where the cause of action arose.  The defendant cited Section 6 of the Commercial Courts Act, 2015, arguing that it should prevail over Section 62 of the Copyright Act, 1957. Does the Commercial Court in Delhi have jurisdiction to hear this case?",
+    "Legal Principles": "The court has to determine if the Commercial Court in Delhi has jurisdiction to hear the copyright infringement suit. This requires analyzing the interplay between Section 6 of the Commercial Courts Act, 2015, and Section 62 of the Copyright Act, 1957, considering precedents like Ultra Home Construction Pvt. Ltd. v. Purushottam Kumar Choubey and Indian Performing Rights Society Ltd. v. Sanjay Dalia.",
+    "Relevant Sections": "Section 6 of the Commercial Courts Act, 2015, Section 62 of the Copyright Act, 1957, Section 20 of the Code of Civil Procedure, 1908",
+    "Context": "Copyright infringement suit, territorial jurisdiction, Commercial Court, Delhi High Court, India."
+  },
+  {
+    "Query": "A company registered in Mumbai filed a suit against a competitor in Chennai for trademark infringement, claiming the infringement occurred in both cities. The defendant argued that the suit should be filed in Chennai as the cause of action arose there. The plaintiff argued that Mumbai was their principal place of business, and under Section 134 of the Trade Marks Act, 1999, they had the right to file the suit in Mumbai. Is the plaintiff's argument valid?",
+    "Legal Principles": "The court needs to determine if the plaintiff has a right to file the trademark infringement suit in Mumbai based on Section 134 of the Trade Marks Act, 1999, considering the principles established in Ultra Home Construction Pvt. Ltd. v. Purushottam Kumar Choubey and Indian Performing Rights Society Ltd. v. Sanjay Dalia.",
+    "Relevant Sections": "Section 134 of the Trade Marks Act, 1999, Section 20 of the Code of Civil Procedure, 1908",
+    "Context": "Trademark infringement suit, territorial jurisdiction, Mumbai High Court, India."
+  },
+  {
+    "Query": "A partnership firm based in Kolkata filed a suit for breach of contract against a company based in Bangalore. The contract was executed in Delhi, and the breach occurred in Bangalore. The defendant argued that the suit should be filed in Bangalore where the breach occurred. The plaintiff argued that the suit could be filed in Kolkata as their principal place of business was there. Is the plaintiff's argument valid?",
+    "Legal Principles": "The court must determine if the plaintiff has the right to file the breach of contract suit in Kolkata based on their principal place of business, considering the principles of territorial jurisdiction and the relevant provisions of the Code of Civil Procedure, 1908.",
+    "Relevant Sections": "Section 20 of the Code of Civil Procedure, 1908",
+    "Context": "Breach of contract suit, territorial jurisdiction, Calcutta High Court, India."
+  },
+  {
+    "Query": "A music composer based in Bangalore filed a copyright infringement suit against a music production company based in Mumbai for unauthorized use of his composition in a film. The film was released in both cities, and the composer argued that the suit could be filed in Bangalore as that was his place of residence and where the infringement occurred. The defendant argued that the suit should be filed in Mumbai as their principal place of business was there. Where should the suit be filed?",
+    "Legal Principles": "The court must determine the appropriate venue for the copyright infringement suit considering the principles established in Ultra Home Construction Pvt. Ltd. v. Purushottam Kumar Choubey and Indian Performing Rights Society Ltd. v. Sanjay Dalia.",
+    "Relevant Sections": "Section 62 of the Copyright Act, 1957, Section 20 of the Code of Civil Procedure, 1908",
+    "Context": "Copyright infringement suit, territorial jurisdiction, Karnataka High Court, India."
+  },
+  {
+    "Query": "A software company in Hyderabad developed a unique software program and filed a copyright infringement suit against a company in Delhi for unauthorized copying and distribution of their software. The defendant argued that the suit should be filed in Delhi as the infringement occurred there. The plaintiff argued that the suit could be filed in Hyderabad as that was their principal place of business and where the software was developed. Where should the suit be filed?",
+    "Legal Principles": "The court must determine the appropriate venue for the copyright infringement suit considering the principles established in Ultra Home Construction Pvt. Ltd. v. Purushottam Kumar Choubey and Indian Performing Rights Society Ltd. v. Sanjay Dalia.",
+    "Relevant Sections": "Section 62 of the Copyright Act, 1957, Section 20 of the Code of Civil Procedure, 1908",
+    "Context": "Copyright infringement suit, territorial jurisdiction, Telangana High Court, India."
+  },
+  {
+    "Query": "A fashion designer in Chennai filed a suit against a clothing manufacturer in Kolkata for copyright infringement of her original design. The manufacturer argued that the infringement occurred in Kolkata where the clothes were manufactured and sold. The designer argued that the infringement also occurred in Chennai as the design was created and displayed there. Can the designer file the suit in Chennai?",
+    "Legal Principles": "The court must determine the appropriate venue for the copyright infringement suit considering the principles established in Ultra Home Construction Pvt. Ltd. v. Purushottam Kumar Choubey and Indian Performing Rights Society Ltd. v. Sanjay Dalia.",
+    "Relevant Sections": "Section 62 of the Copyright Act, 1957, Section 20 of the Code of Civil Procedure, 1908",
+    "Context": "Copyright infringement suit, territorial jurisdiction, Madras High Court, India."
+  },
+  {
+    "Query": "An author based in Delhi filed a copyright infringement suit against a publishing house in Bangalore for publishing his book without his permission. The publishing house argued that the infringement occurred in Bangalore where the book was printed and published. The author argued that the infringement also occurred in Delhi as the book was written and edited there. Where should the suit be filed?",
+    "Legal Principles": "The court must determine the appropriate venue for the copyright infringement suit considering the principles established in Ultra Home Construction Pvt. Ltd. v. Purushottam Kumar Choubey and Indian Performing Rights Society Ltd. v. Sanjay Dalia.",
+    "Relevant Sections": "Section 62 of the Copyright Act, 1957, Section 20 of the Code of Civil Procedure, 1908",
+    "Context": "Copyright infringement suit, territorial jurisdiction, Delhi High Court, India."
+  },
+  {
+    "Query": "A company based in Mumbai filed a suit against a competitor in Kolkata for passing off its product as their own. The competitor argued that the passing off occurred in Kolkata where they sold their products. The company argued that the passing off also occurred in Mumbai as their product was marketed and sold there. Can the company file the suit in Mumbai?",
+    "Legal Principles": "The court must determine the appropriate venue for the passing off suit considering the principles established in Ultra Home Construction Pvt. Ltd. v. Purushottam Kumar Choubey and Indian Performing Rights Society Ltd. v. Sanjay Dalia.",
+    "Relevant Sections": "Section 20 of the Code of Civil Procedure, 1908",
+    "Context": "Passing off suit, territorial jurisdiction, Bombay High Court, India."
+  },
+  {
+    "Query": "A painter in Bangalore filed a copyright infringement suit against an art gallery in Delhi for displaying and selling his painting without his permission. The gallery argued that the infringement occurred in Delhi where the painting was displayed and sold. The painter argued that the infringement also occurred in Bangalore as the painting was created there. Where should the suit be filed?",
+    "Legal Principles": "The court must determine the appropriate venue for the copyright infringement suit considering the principles established in Ultra Home Construction Pvt. Ltd. v. Purushottam Kumar Choubey and Indian Performing Rights Society Ltd. v. Sanjay Dalia.",
+    "Relevant Sections": "Section 62 of the Copyright Act, 1957, Section 20 of the Code of Civil Procedure, 1908",
+    "Context": "Copyright infringement suit, territorial jurisdiction, Karnataka High Court, India."
+  },
+  {
+    "Query": "A film producer based in Chennai filed a suit against a film distributor in Hyderabad for breach of contract. The contract was signed in Mumbai, and the breach occurred in Hyderabad. The distributor argued that the suit should be filed in Hyderabad as the breach occurred there. The producer argued that the suit could be filed in Chennai as that was his principal place of business. Where should the suit be filed?",
+    "Legal Principles": "The court must determine the appropriate venue for the breach of contract suit considering the principles established in Ultra Home Construction Pvt. Ltd. v. Purushottam Kumar Choubey and Indian Performing Rights Society Ltd. v. Sanjay Dalia.",
+    "Relevant Sections": "Section 20 of the Code of Civil Procedure, 1908",
+    "Context": "Breach of contract suit, territorial jurisdiction, Madras High Court, India."
+  }
+]
+```

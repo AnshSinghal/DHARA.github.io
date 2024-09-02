@@ -1,0 +1,111 @@
+## Case Title
+
+* **Case Name:** Smt Sarasamma .C vs Karnataka State Finance Corporation
+* **Court:** Karnataka High Court
+* **Date of Judgment:** 19th July 2024
+* **Citation:** NC: 2024:KHC:28312, WP No. 3967 of 2023
+
+## Background and Context
+
+* **Brief Overview:** This case involves a dispute arising from an execution proceeding initiated by Karnataka State Finance Corporation (KSFC) against Smt Sarasamma .C, a judgment debtor. The execution proceedings were aimed at enforcing a judgment and order dated 25.11.2015 passed in Misc.No.521/2004 in favor of KSFC. 
+* **Key Issues:** The main issues in the case were:
+    * **Jurisdiction of the Commercial Court:** Whether the Commercial Court had jurisdiction to entertain execution proceedings when the dispute had already been adjudicated and concluded in a previous case.
+    * **Maintainability of the Execution Proceedings:** Whether the execution proceedings were maintainable under the Commercial Courts Act, 2015 and the State Financial Corporations Act, 1951.
+    * **Maintainability of the Application (I.A.No.2):** Whether the application filed by KSFC seeking attachment of an amount deposited by the petitioner in a separate suit was maintainable under Order 21 Rule 52 of the Code of Civil Procedure (CPC).
+
+## Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * Commercial Courts Act, 2015
+        * Section 2(c) (Definition of "commercial dispute")
+        * Section 6 (Jurisdiction of Commercial Court)
+        * Section 12 (Determination of Specified Value)
+        * Section 15 (Transfer of pending cases)
+        * Section 16 (Amendments to the Civil Procedure Code, 1908)
+    * State Financial Corporations Act, 1951
+        * Section 31 (Power to Recover Loans)
+        * Section 32 (Procedure for recovery)
+    * Securitization and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002 (SARFAESI Act)
+        * Section 13 (Powers of Secured Creditor)
+        * Section 34 (Bar on Suit or Proceedings)
+    * Code of Civil Procedure, 1908 (CPC)
+        * Order 21 (Execution of Decrees and Orders)
+        * Order 21, Rule 52 (Attachment of Property)
+        * Section 151 (Inherent Powers of the Court)
+    * Bangalore City Civil Court Act, 1979
+        * Section 5 (2) (Transfer of cases)
+
+* **Precedents Cited:**
+    * Balawant N. Vishwamitra vs. Yadav Sadashiv Mule - (2004) 8 SCC 706
+    * Associated Power Co. Ltd., vs. Ram Taran Roy - AIR 1970 CAL 75
+    * Transcore vs. Union of India and Another - (2008) 1 SCC 125
+    * Sundaram Pillai vs. Pattabhiraman - (1985) 1 SCC 591
+    * Dattatreya Govinda Mahajan vs. State of Maharastra - (1977) 2 SCC 548
+    * Premiere Automobiles Ltd., vs. Kamlekar Shantaram Vadke - (1976) 1 SCC 496
+    * Santosh Kumar vs. Central Warehousing Corporation - (1986) 2 SCC 343
+    * Babu Varghese vs. Bar Council of Kerala - (1999) 3 SCC 422
+    * M.D. Frozen Foods Exports Pvt. Ltd. & Others vs. Hero Fincorp Ltd. - Civil Appeal No. 15147 of 2017 Dated 21.09.2017
+    * Swaraj Infrastructure Pvt.Ltd., vs. Kotak Mahindra Bank Ltd., - Civil Appeal No. 1291 of 2019 dated 29.01.2019
+    * Manganlal vs. M/s Jaiswal Industries, Neemach and others - (1989) 4 SCC 344
+    * M/s. Hotel Nataraja vs. Karnataka State Financial Corporation - ILR 1988 KAR 2236
+    * Karnataka State Industrial Investment & Development Ltd., vs. S.K.K. Kukarni & others - Civil Appeal No.7288 of 2008 dated 11.12.2008
+    * Maharashtra State Financial Corporation vs. Jaycee Drugs and Pharmaceuticals Pvt. Ltd and Others - (1991) 2 SCC 637
+    * Kandla Export Corporation and another vs. OCI Corporation and another - (2018) 14 SCC 715
+    * Jaycee Housing Pvt. Ltd., vs. Registrar (General), Orissa high Court, Cuttack & Ors. - Civil Appeal No. 6876/2022 dated 19.10.2022
+    * Bhagyoday Co-operative Bank Ltd., vs. Ravindra Balakrishna Patel Deceased, through his LRs. & Ors.- Civil Appeal No 8531-8532/2022
+    * Ambalal Sarabhai Enterprises Limited vs. K.S.Infraspace LLP and Another - (2020) 15 SCC 585
+    * Shaji Augustine vs. Chitra Woods Manners Welfare Association - (2021) SCC Online KER 9840
+    * South Eastern Coal Fields Ltd., vs. M/s.Tirupathi Constructions - 2018 SCC Online Chh 63
+
+* **Legal Doctrines:**
+    * **Jurisdiction:**  The court examined the principles of territorial and subject matter jurisdiction, specifically in relation to the Commercial Courts Act, 2015.
+    * **Res Judicata:** The court considered the doctrine of res judicata, which prevents relitigation of issues already decided by a court.
+    * **Interpretation of Statutes:**  The court interpreted the relevant statutory provisions, considering the legislative intent and purpose.
+    * **Execution of Decrees:** The court applied the rules and principles governing execution of decrees and orders under the CPC.
+
+## Arguments Presented
+
+* **Plaintiff’s Argument (KSFC):**
+    * KSFC argued that the Commercial Court had jurisdiction to entertain the execution proceedings under Section 6 of the Commercial Courts Act, 2015, as the dispute related to a "commercial dispute" as defined in Section 2(c).
+    * They claimed that the execution proceedings were maintainable under Section 38 of the CPC, as the Commercial Court had been designated to handle cases originating from the City Civil Court.
+    * KSFC further argued that the application (I.A.No.2) was maintainable under Order 21 Rule 52 of the CPC, allowing the attachment of property.
+* **Defendant’s Argument (Smt Sarasamma .C):**
+    * The petitioner argued that the Commercial Court lacked jurisdiction, as the dispute had already been adjudicated and concluded in the earlier case (Misc.No.521/2004). The execution proceedings were merely to enforce a previously decided matter and did not involve a "live/pending commercial dispute."
+    * The petitioner also argued that the execution proceedings were not maintainable under the Commercial Courts Act, 2015, as they did not fall within the scope of "commercial dispute" as defined by the Act.
+    * The petitioner claimed that I.A.No.2 was not maintainable under Order 21 Rule 52 of the CPC, as the application was filed after a delay of 19 years and was barred by limitation. 
+
+## Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * **Jurisdiction of the Commercial Court:** The court held that the Commercial Court lacked jurisdiction to entertain the execution proceedings. The court found that the dispute had already been resolved in the previous case and that the execution proceedings did not constitute a "commercial dispute" under the Act.
+    * **Maintainability of the Execution Proceedings:** The court found that the execution proceedings were not maintainable under the Commercial Courts Act, 2015, as they did not involve a "commercial dispute" as defined by the Act.
+    * **Maintainability of I.A.No.2:** The court held that the application (I.A.No.2) was not maintainable under Order 21 Rule 52 of the CPC, as it was not properly invoked and the application was filed after a significant delay, rendering it barred by limitation.
+* **Interpretation of Law:** The court meticulously analyzed the relevant provisions of the Commercial Courts Act, 2015, the CPC, and the State Financial Corporations Act, 1951. The court emphasized the distinction between original disputes and execution proceedings, holding that execution proceedings do not constitute "commercial disputes" under the Act.
+* **Application of Law:** The court applied the relevant legal principles to the facts of the case. It found that the transfer of the execution proceedings to the Commercial Court under the Bangalore City Civil Court Act, 1979, did not grant jurisdiction to the Commercial Court. The court also rejected the arguments based on the inherent powers of the court under Section 151 of the CPC.
+
+## Judgment
+
+* **Final Decision:** The petition filed by Smt Sarasamma .C was allowed.
+* **Relief Granted:** The impugned order dated 21.01.2023 passed on I.A.No.2 in Commercial Execution No.2673/2018 by the LXXXVII Addl. City Civil Judge, (Exclusive Dedicated Commercial Court), Bengaluru was set aside.
+* **Orders:**  I.A.2 filed by KSFC was dismissed.
+
+## Implications
+
+* **Impact on Law:** The judgment clarifies the scope of jurisdiction of the Commercial Courts under the Commercial Courts Act, 2015, particularly in relation to execution proceedings. It reinforces that the Act primarily aims to adjudicate original commercial disputes and not to handle execution proceedings.
+* **Future Relevance:** This case will be significant for future cases involving the transfer of execution proceedings to Commercial Courts. It highlights the need for courts to carefully assess whether the underlying dispute falls within the ambit of "commercial dispute" under the Act, and to ensure that the transfer of cases is in accordance with the provisions of the Act. 
+* **Broader Context:** The case underscores the importance of clear and concise statutory provisions in defining the jurisdiction of specialized courts. It also emphasizes the need to balance the efficiency of specialized courts with the protection of individual rights and procedural safeguards.
+
+## Summary Points
+
+* The Karnataka High Court held that Commercial Courts lack jurisdiction to entertain execution proceedings when the underlying dispute has been previously adjudicated and concluded.
+* The court emphasized that execution proceedings do not constitute "commercial disputes" within the meaning of the Commercial Courts Act, 2015.
+* The judgment highlights the need for a clear distinction between original disputes and execution proceedings in the context of specialized courts.
+
+## References
+
+* **Citations:**  All the statutes, provisions, and precedents cited in this summary are included in the Legal Principles Involved section above. 
+* **Further Reading:**
+    * Commercial Courts Act, 2015
+    * Code of Civil Procedure, 1908
+    * State Financial Corporations Act, 1951
+    * Other relevant judgments and legal texts cited in the case.

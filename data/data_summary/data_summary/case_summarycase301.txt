@@ -1,0 +1,96 @@
+## 1. Case Title
+
+* **Case Name:** Arun Kumar Jagatramka vs. Ultrabulk A/S
+* **Court:** Gujarat High Court
+* **Date of Judgment:** 4 February 2022
+* **Citation:** C/SCA/17399/2021
+
+## 2. Background and Context
+
+* **Brief Overview:** The case involved a dispute over the execution of a foreign decree passed by the High Court of Justice, Queen's Bench Division of England and Wales, against the petitioner, Arun Kumar Jagatramka. The decree was for a sum equivalent to USD 42,59,395/- with interest. The petitioner had executed a personal guarantee on behalf of Gujarat NRE Coke Limited, which failed to pay the dues.
+* **Key Issues:**
+    * Whether the Commercial Court in Jamnagar had jurisdiction to entertain and decide the execution proceedings of the foreign decree.
+    * Whether the dispute qualified as a "commercial dispute" under the Commercial Courts Act, 2015, and therefore fell within the jurisdiction of the Commercial Court.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * Article 227 of the Constitution of India
+    * Section 44A of the Code of Civil Procedure, 1908 (CPC)
+    * Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015
+    * Section 2(1)(c), 6, and 16 of the Commercial Courts Act, 2015
+    * Section 36 to 74 and Order XXI of the CPC
+    * Section 13, 37, 38, and 47 of the CPC
+* **Precedents Cited:**
+    * Kerala Housing Board vs. K. A. Nagamani (2019) 6 SCC 429
+    * OCI Corporation vs. Kandala Export Corporation and others [(2017) GLH 383]
+    * Rahul S. Shah Vs. Jinendra Kumar Gandhi 2021 SCC OnLine SC 341
+    * Delhi Chemical and Pharmaceutical Works Private Limited and Another Vs. Himgiri Realtors Private Limited and Another
+    * M/S. OCI Corporation Vs. Kandla Export Corporation, [(2017) 1 GLH 383]
+    * Vadodara Mahanagar Seva Sadan formally known as Municipal Corporation Vs. M. S. Khurana Engineering Limited
+    * Bayer Intellectual Property GMBH and Another Vs. Symed Laboratories, [(2019) SCC Online Delhi 7410]
+    * Morlays (B'Ham) Limited. Vs. Roshanlal Ramsahai and Another [AIR 1961 Bom 156]
+* **Legal Doctrines:**
+    * Jurisdiction of Courts
+    * Interpretation of Statutes
+    * Execution of Decrees
+    * Commercial Disputes
+    * Abuse of Process of Law
+
+## 4. Arguments Presented
+
+* **Petitioner’s Argument:**
+    * Section 6 of the Commercial Courts Act, 2015, does not grant jurisdiction to commercial courts to handle execution petitions.
+    * Execution powers are not included in the provisions of the Commercial Courts Act, 2015, and are governed by Sections 36 to 74 and Order XXI of the CPC.
+    * The dispute did not qualify as a "commercial claim" and, therefore, the English Commercial Court lacked jurisdiction to adjudicate the matter.
+    * The execution proceedings were a separate and independent process, distinct from the adjudication of the original dispute.
+* **Respondent’s Argument:**
+    * The petitioner had engaged in dilatory tactics to avoid honoring the English Commercial Court's decree.
+    * The dispute involved a maritime claim, which is a commercial dispute under the definition in the Commercial Courts Act, 2015.
+    * The Commercial Court in Rajkot (now Jamnagar) had inherent jurisdiction to try and decide the execution petition as it was a commercial dispute.
+    * The petitioner had already challenged the jurisdiction of the Commercial Court in previous litigation, which was dismissed by the Gujarat High Court.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The Commercial Court in Jamnagar does have jurisdiction to entertain and decide the execution applications arising from judgments and decrees passed by the Commercial Court.
+    * The dispute between the parties, involving a maritime claim and personal guarantee, qualifies as a "commercial dispute" under the Commercial Courts Act, 2015.
+    * The execution proceedings are an extension of the original commercial dispute and fall under the jurisdiction of the Commercial Court.
+    * The petitioner's repeated attempts to challenge the jurisdiction of the Commercial Court are an abuse of process of law.
+* **Interpretation of Law:**
+    * The court interpreted Section 44A of the CPC to mean that a foreign decree can be executed by the Commercial Court in India when it is presented under this section.
+    * The court read "Commercial Court" in place of "District Court" in Section 44A when dealing with a foreign decree.
+    * The court interpreted the Commercial Courts Act to grant jurisdiction to the Commercial Court to handle execution applications related to commercial disputes.
+* **Application of Law:**
+    * The court applied the legal principles to the facts of the case, concluding that the Commercial Court had jurisdiction to handle the execution proceedings.
+    * The court considered relevant precedents and dismissed the petitioner's arguments regarding the lack of jurisdiction.
+
+## 6. Judgment
+
+* **Final Decision:** The petition was dismissed.
+* **Relief Granted:** No relief was granted to the petitioner.
+* **Orders:** The court discharged the notice issued to the respondent.
+
+## 7. Implications
+
+* **Impact on Law:**
+    * The judgment strengthens the position of Commercial Courts in India by affirming their jurisdiction over execution proceedings arising from commercial disputes.
+* **Future Relevance:**
+    * The judgment serves as a precedent for future cases involving the execution of foreign decrees in India, particularly those related to commercial disputes.
+* **Broader Context:**
+    * The judgment promotes the objective of the Commercial Courts Act, 2015, to provide a swift and efficient mechanism for resolving commercial disputes in India.
+
+## 8. Summary Points
+
+* The Gujarat High Court upheld the Commercial Court's jurisdiction to handle execution proceedings arising from foreign decrees related to commercial disputes.
+* The court found that the dispute qualified as a "commercial dispute" under the Commercial Courts Act, 2015.
+* The petitioner's repeated attempts to challenge the Commercial Court's jurisdiction were deemed an abuse of process of law.
+
+## 9. References
+
+* **Citations:** Please refer to the "Legal Principles Involved" section for citations of relevant statutes, provisions, and precedents.
+* **Further Reading:**
+    * Commercial Courts Act, 2015
+    * Code of Civil Procedure, 1908
+    * Case Law related to the execution of foreign decrees in India.
+

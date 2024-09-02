@@ -1,0 +1,107 @@
+## 1. Case Title
+
+* **Case Name:** Smt Supriya Shrinate vs. M/S MRT Music Ors
+* **Court:** Karnataka High Court
+* **Date of Judgment:** 8th November 2022
+* **Citation:**  Commercial Appeal No.460 of 2022
+
+## 2. Background and Context
+
+* **Brief Overview:** This case involves a copyright infringement lawsuit filed by a music production company, M/S MRT Music, against the Indian National Congress, its Chairperson Supriya Shrinate, and Twitter Inc. The dispute arose from the use of music from the film "KGF-Chapter 2" in two videos uploaded by the Indian National Congress on its Twitter handle during the "Bharat Jodo Yatra" campaign.
+* **Key Issues:**
+    * Maintainability of the appeal filed by the defendant (Supriya Shrinate and Indian National Congress) against an ex-parte injunction order.
+    * Validity of the trial court's ex-parte order granting a mandatory injunction to remove and block social media accounts.
+    * Whether the trial court properly dispensed with notice under Order 39 Rule 3 of the Code of Civil Procedure (CPC) before granting the ex-parte injunction.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * The Commercial Courts Act, 2015, specifically Section 13(1A) regarding appeals from Commercial Courts.
+    * The Arbitration and Conciliation Act, 1996, Section 37 regarding appeals.
+    * The Code of Civil Procedure, 1908 (CPC), particularly Order 39, Rule 3 and Order 43 regarding injunctions.
+    * The Information Technology Act, 2000, Section 79 regarding intermediary liability.
+* **Precedents Cited:**
+    * A. Venkata Subbaiah Naidu v. S. Chellappan and Others, (2000) 7 SCC 695: Regarding maintainability of appeals against interlocutory orders.
+    * Kandla Export Corporation and Another v. OCI Corporation and Another, (2018) 14 SCC 715:  Regarding interpretation of Section 13 of the Commercial Courts Act.
+    * Samir Narain Bhojwani vs. Aurora Properties and Investments and Another, (2018) 17 SCC 203: Regarding principles governing the grant of mandatory injunctions.
+    * Hammad Ahmed vs. Abdul Majeed and Others, (2019) 14 SCC 1: Regarding ad interim mandatory injunctions.
+    * Vedant Fashions Pvt. Ltd., v. Smt. Rajul Devi, 2014 SCC Online Kar 7191:  Regarding the mandatory nature of Order 39 Rule 3 of the CPC.
+    * Mr. R.K. Jain v. Sri. P.G. Chacko, AIR 2013 Kar 142: Regarding the necessity of recording reasons for dispensing with notice under Order 39 Rule 3.
+    * Paramvah Studios Pvt. Ltd., and Another v. Lahari Recording Company, ILR 2017 KAR 1795: Regarding principles governing the grant of ex-parte injunctions.
+* **Legal Doctrines:**
+    * **Balance of Convenience:** This doctrine determines which party would suffer greater hardship if an injunction is granted or denied.
+    * **Irreparable Injury:** This principle focuses on whether the injury caused by the infringement is incapable of being compensated by monetary damages.
+    * **Prima Facie Case:** This refers to the initial burden of proof required by a party seeking an injunction, demonstrating a plausible claim for relief.
+    * **Mandatory Injunction:** This type of injunction compels a specific action to be taken, as opposed to a prohibitory injunction which prevents an action.
+    * **Right to Freedom of Expression:** Guaranteed under Article 19(1)(a) of the Indian Constitution.
+    * **Copyright Infringement:**  Violating the exclusive rights of a copyright holder.
+
+## 4. Arguments Presented
+
+* **Plaintiff’s Argument (M/S MRT Music):**
+    * The defendants (Indian National Congress, Supriya Shrinate, and Rahul Gandhi) had used copyrighted music from "KGF-Chapter 2" without permission in their videos.
+    * The unauthorized use constituted copyright infringement, causing financial loss to MRT Music.
+    * The defendants were profiteering from the infringement and their actions were dishonest.
+    * The trial court was justified in granting an ex-parte injunction to prevent further infringement and protect MRT Music's copyright.
+* **Defendant’s Argument (Supriya Shrinate and Indian National Congress):**
+    * The trial court's ex-parte order was illegal and procedurally flawed, as it was granted without proper notice and reasons.
+    * The injunction was disproportionate to the alleged infringement, as it effectively removed the defendants from social media platforms.
+    * The music clip was only 45 seconds long and used non-commercially in a political context.
+    * The suit was motivated by ulterior motives and the plaintiff had delayed filing the lawsuit.
+    * The injunction violated the defendants' right to freedom of expression guaranteed under the Constitution.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The court acknowledged that the trial court had not recorded sufficient reasons for dispensing with notice and granting the ex-parte injunction.
+    * The court determined that the trial court's order effectively functioned as a mandatory injunction, which is a more stringent form of relief than a prohibitory injunction.
+    * The court highlighted the potential infringement of the defendants' right to freedom of expression if their social media accounts were blocked.
+    * The court concluded that the balance of convenience tilted in favor of the defendants.
+* **Interpretation of Law:**
+    * The court interpreted Section 13(1A) of the Commercial Courts Act as allowing appeals against ex-parte injunction orders, even if not disposed of within 30 days.
+    * The court reaffirmed the mandatory nature of Order 39 Rule 3 of the CPC, requiring reasons to be recorded before dispensing with notice for ex-parte injunctions.
+    * The court interpreted the case law on mandatory injunctions, emphasizing the stringent standards required for granting such relief.
+* **Application of Law:**
+    * The court applied the principles governing mandatory injunctions, finding that the trial court had not satisfied the requirements for such an order.
+    * The court applied the principles of balance of convenience and irreparable injury, concluding that the defendants' interests were more severely affected by the injunction.
+    * The court considered the defendants' right to freedom of expression, acknowledging the potential impact of the injunction on their political activities.
+
+## 6. Judgment
+
+* **Final Decision:** The appeal was allowed in part. The trial court's ex-parte order granting the injunction was set aside.
+* **Relief Granted:** The defendants were granted relief from the injunction, subject to the condition that they remove the allegedly infringing content from their social media platforms.
+* **Orders:**
+    * The interlocutory applications related to the injunction were remitted back to the trial court for reconsideration.
+    * The court clarified that this order would not prevent the plaintiff from seeking copyright protection from Twitter.
+
+## 7. Implications
+
+* **Impact on Law:** The judgment reinforces the importance of procedural safeguards and the need for proper reasons when granting ex-parte injunctions. It also emphasizes the cautious approach required when balancing intellectual property rights with freedom of expression in the context of social media.
+* **Future Relevance:** The case serves as a reminder to trial courts to carefully consider the severity of the alleged infringement and the potential impact of injunctions on the parties' fundamental rights.
+* **Broader Context:** The case highlights the growing challenges of balancing intellectual property rights with freedom of expression in the digital age, particularly in the context of political campaigns.
+
+## 8. Summary Points
+
+* The Karnataka High Court found the trial court's ex-parte injunction order to be procedurally flawed, lacking proper reasons for dispensing with notice.
+* The court considered the injunction to be a mandatory injunction, which is a more stringent form of relief requiring stricter criteria for issuance.
+* The court recognized the potential violation of the defendants' right to freedom of expression, emphasizing the need for a balanced approach when balancing intellectual property rights with constitutional freedoms.
+* The court set aside the injunction but required the defendants to remove the allegedly infringing content from their social media platforms.
+
+## 9. References
+
+* **Citations:**
+    * The Commercial Courts Act, 2015.
+    * The Arbitration and Conciliation Act, 1996.
+    * The Code of Civil Procedure, 1908 (CPC).
+    * The Information Technology Act, 2000.
+    * A. Venkata Subbaiah Naidu v. S. Chellappan and Others, (2000) 7 SCC 695.
+    * Kandla Export Corporation and Another v. OCI Corporation and Another, (2018) 14 SCC 715.
+    * Samir Narain Bhojwani vs. Aurora Properties and Investments and Another, (2018) 17 SCC 203.
+    * Hammad Ahmed vs. Abdul Majeed and Others, (2019) 14 SCC 1.
+    * Vedant Fashions Pvt. Ltd., v. Smt. Rajul Devi, 2014 SCC Online Kar 7191.
+    * Mr. R.K. Jain v. Sri. P.G. Chacko, AIR 2013 Kar 142.
+    * Paramvah Studios Pvt. Ltd., and Another v. Lahari Recording Company, ILR 2017 KAR 1795.
+* **Further Reading:**
+    * Cases related to copyright infringement in the digital age.
+    * Legal analysis of the interplay between intellectual property rights and freedom of expression.
+    * Scholarly articles on intermediary liability under the Information Technology Act. 

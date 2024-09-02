@@ -1,0 +1,119 @@
+## 1. Case Title
+
+•	**Case Name:** Pankaj Ravjibhai Patel Trading As Rakesh Pharmaceuticals vs. SSS Pharmachem Pvt. Ltd.
+•	**Court:** Delhi High Court
+•	**Date of Judgment:** 2nd November 2023
+•	**Citation:** FAO (COMM) 98/2023
+
+## 2. Background and Context
+
+•	**Brief Overview:** This case arose from an appeal against an order vacating an ex parte injunction granted in favor of the plaintiff (Rakesh Pharmaceuticals) in a trademark infringement and copyright suit. The District Judge (Commercial) vacated the injunction based on doubts regarding the "specified value" declared by the plaintiff, which was lower than Rs. 3 lakhs. 
+
+•	**Key Issues:** 
+    * Whether IPR suits valued below Rs. 3 lakhs should be tried by Commercial Courts or regular civil courts.
+    * Whether a plaintiff can undervalue an IPR suit to avoid the rigors of the Commercial Courts Act, 2015.
+    * The distinction between "specified value" (for the purpose of jurisdiction under the Commercial Courts Act) and "valuation of suit" (for the purpose of court fees under the Court Fees Act).
+
+## 3. Legal Principles Involved
+
+•	**Relevant Statutes and Provisions:**
+    * **Commercial Courts Act, 2015:**  
+        * Section 2(1)(c)(xvii): Defines "commercial dispute" to include intellectual property rights.
+        * Section 12(1)(d):  Prescribes the method for determining "specified value" in suits involving intangible rights.
+        * Section 21: Deals with the overriding effect of the Commercial Courts Act.
+    * **Court Fees Act, 1870:**
+        * Section 7(iv): Allows plaintiffs to value the relief sought in their suits.
+    * **Suits Valuation Act, 1977:**
+        * Section 8: Connects the value for jurisdiction to the value for court fees.
+    * **Trademark Act, 1999:**  (implied)
+    * **Copyright Act, 1957:**  (implied)
+
+•	**Precedents Cited:**
+    * **Vishal Pipes Limited vs. Bhavya Pipe Industry (2022 SCC OnLine Del 1730 CCA)**: The Single Judge decision which formed the basis of the present appeal.
+    * **Kirloskar Aaf Limited v. American Air Filters Company Inc. & Anr (RFA No.1 of 2015, 25th September, 2018):** High Court of Karnataka decision emphasizing distinction between subject matter value and court fees.
+    * **Sheila Devi and Ors. Vs. Kishan Lal Kalra and Ors (1974 SCC OnLine Del 136):** Full Bench decision of the Delhi High Court upholding the plaintiff's right to value the relief sought.
+    * **Tara Devi Vs. Sri Thakur Radha Krishna Maharaj, through Sebaits Chandeshwar Prasad and Meshwar Prasad and Anr (1987) 4 SCC 69:** Supreme Court decision affirming the plaintiff's right to estimate reliefs for court fees and jurisdiction.
+    * **Soni Dave Vs. Trans Asian Industries Expositions Pvt. Ltd (2016 SCC OnLine Del 4282):** Single Judge decision of the Delhi High Court harmonizing Section 12 of the Commercial Courts Act with the Court Fees Act and Suits Valuation Act.
+    * **Fine Footwear Pvt. Ltd. Represented by its Director v. Skechers USA Inc. and Anr (2019 SCC OnLine Kar 1024):** Karnataka High Court decision following Soni Dave.
+    * **C.K. Surendran Vs. Kunhimoosa (2021 SCC OnLine Ker 9808):** Kerala High Court decision following Soni Dave.
+    * **Bangalore Blues Entertainment India Private Limited Vs. One Ikigaii Edutech Private Limited and Ors (Miscellaneous First Appeal No. 6392 of 2022 (CPC), Decided on: 02.01.2023):** Karnataka High Court decision following Soni Dave.
+
+•	**Legal Doctrines:**
+    * **Dominus Litis:** The plaintiff is the master of the suit and has the right to value it as they choose (subject to relevant legal provisions).
+    * **Harmonious Construction:**  Different legal provisions must be read together in a manner that gives effect to the intention of the legislature.
+    * **Forum Shopping:**  Choosing a specific court based on perceived advantages, potentially considered an abuse of process.
+
+## 4. Arguments Presented
+
+•	**Plaintiff’s Argument (Appellant):**
+    * The District Judge erred in vacating the ex parte injunction solely based on doubts about the specified value declaration.
+    * The plaintiff has the right to value the suit as they see fit, based on the reliefs claimed, in accordance with the Court Fees Act.
+    * The Commercial Courts Act does not dictate a specific valuation for IPR suits and cannot override the plaintiff's discretion under the Court Fees Act.
+    *  The concept of "specified value" is for determining jurisdiction, not court fees. 
+    * The directions in Vishal Pipes are impractical, especially in cases involving "quia timet" actions (preventive injunctions).
+
+•	**Defendant’s Argument (Respondent):**
+    * No specific arguments are detailed in the judgment. However, it can be inferred that they likely argued in favor of the lower court's order, potentially arguing that the plaintiff deliberately undervalued the suit to avoid the Commercial Courts Act.
+
+## 5. Court’s Analysis and Reasoning
+
+•	**Key Findings:**
+    * The court found that the Vishal Pipes decision incorrectly conflated the concepts of "specified value" and "valuation of suit."
+    *  The Commercial Courts Act does not require all IPR suits to be valued at Rs. 3 lakhs or above.
+    * The court clarified that while undervaluation can be investigated in specific cases, a presumption of bad faith is not warranted solely based on a value below Rs. 3 lakhs.
+    * The court held that the directions in Vishal Pipes, particularly regarding the transfer of suits below Rs. 3 lakhs to Commercial Courts, were not in accordance with the statutory framework of the Commercial Courts Act.
+    * The court recognized that a suit can be valued lower for the purpose of court fees even if the subject matter (specified value) is higher.
+
+•	**Interpretation of Law:**
+    * The court harmoniously interpreted the Commercial Courts Act with the Court Fees Act and Suits Valuation Act, emphasizing that the former is primarily concerned with jurisdiction and the latter with court fees.
+    *  The court stressed that Section 12 of the Commercial Courts Act is intended to determine specified value for jurisdictional purposes and not to override the valuation principles of the Court Fees Act.
+
+•	**Application of Law:**
+    * The court applied the principle of "dominous litis" in recognizing the plaintiff's right to value the suit based on the relief sought.
+    * The court applied the principle of "harmonious construction" to reconcile the different legal provisions involved.
+
+## 6. Judgment
+
+•	**Final Decision:** The appeal was allowed. The impugned order vacating the ex parte injunction was set aside.
+
+•	**Relief Granted:** The ex parte injunction was reinstated. The matter was remanded to the District Judge for fresh consideration in accordance with the principles laid down in the judgment.
+
+•	**Orders:**
+    * The directions in Vishal Pipes regarding the transfer of IPR suits below Rs. 3 lakhs to Commercial Courts were overruled.
+    *  Matters that had been transferred based on Vishal Pipes were to be returned to the appropriate courts.
+    *  The court directed that plaintiffs in IPR suits valued below Rs. 3 lakhs must declare that they have not taken an inconsistent position regarding specified value in any previous litigation.
+
+## 7. Implications
+
+•	**Impact on Law:** The judgment clarifies the distinct legal concepts of "specified value" and "valuation of suit" under the Commercial Courts Act, Court Fees Act, and Suits Valuation Act.  It emphasizes that the plaintiff has the right to value the suit based on the relief sought, subject to scrutiny for possible undervaluation in individual cases.
+
+•	**Future Relevance:** This case will be a significant precedent for future IPR disputes in Delhi and potentially other jurisdictions with similar legislation. It serves as a guide for courts when dealing with the valuation of IPR suits and the appropriate jurisdiction for their trial.
+
+•	**Broader Context:** The judgment contributes to the evolving legal landscape surrounding the Commercial Courts Act, providing clarity on the intent and application of its provisions. It also highlights the need for careful consideration of the different legal frameworks involved when determining jurisdiction and court fees.
+
+## 8. Summary Points
+
+•	**Key Takeaways:**
+    * IPR suits valued below Rs. 3 lakhs do not automatically have to be tried by Commercial Courts.
+    * Plaintiffs have the right to value their suits, subject to scrutiny for potential undervaluation.
+    * The Commercial Courts Act is primarily concerned with jurisdiction, while the Court Fees Act governs the valuation of suits for court fees.
+    *  The Vishal Pipes decision was overruled on the key issue of the mandatory transfer of suits below Rs. 3 lakhs.
+
+## 9. References
+
+•	**Citations:**
+    * Commercial Courts Act, 2015
+    * Court Fees Act, 1870
+    * Suits Valuation Act, 1977
+    * Vishal Pipes Limited vs. Bhavya Pipe Industry (2022 SCC OnLine Del 1730 CCA)
+    * Kirloskar Aaf Limited v. American Air Filters Company Inc. & Anr (RFA No.1 of 2015, 25th September, 2018)
+    * Sheila Devi and Ors. Vs. Kishan Lal Kalra and Ors (1974 SCC OnLine Del 136)
+    * Tara Devi Vs. Sri Thakur Radha Krishna Maharaj, through Sebaits Chandeshwar Prasad and Meshwar Prasad and Anr (1987) 4 SCC 69
+    * Soni Dave Vs. Trans Asian Industries Expositions Pvt. Ltd (2016 SCC OnLine Del 4282)
+    * Fine Footwear Pvt. Ltd. Represented by its Director v. Skechers USA Inc. and Anr (2019 SCC OnLine Kar 1024)
+    * C.K. Surendran Vs. Kunhimoosa (2021 SCC OnLine Ker 9808)
+    * Bangalore Blues Entertainment India Private Limited Vs. One Ikigaii Edutech Private Limited and Ors (Miscellaneous First Appeal No. 6392 of 2022 (CPC), Decided on: 02.01.2023)
+
+•	**Further Reading:**
+    * Other judgments on IPR disputes, especially those involving the Commercial Courts Act.
+    * Academic articles on the Commercial Courts Act and its interplay with other relevant legal frameworks. 

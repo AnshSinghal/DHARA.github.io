@@ -1,0 +1,154 @@
+## 1. Case Title
+
+* **Case Name:** M/S N.N. Global Mercantile Private Ltd. vs. M/S Indo Unique Flame Ltd. 
+* **Court:** Supreme Court of India
+* **Date of Judgment:** 11th January 2021
+* **Citation:** [Not available in the provided text, but would be a format like 2021 SCC [Number]] 
+
+## 2. Background and Context
+
+* **Brief Overview:** The dispute arose when Indo Unique Flame Ltd. (Indo Unique) invoked a bank guarantee furnished by N.N. Global Mercantile Pvt. Ltd. (Global Mercantile) under a sub-contract for coal transportation. Global Mercantile argued that Indo Unique's invocation was fraudulent because no work was performed under the sub-contract and hence, no loss was suffered. 
+* **Key Issues:** 
+    * Whether an arbitration agreement can be enforced when the underlying contract is unstamped and unenforceable under the Stamp Act.
+    * Whether allegations of fraudulent invocation of a bank guarantee are arbitrable disputes.
+    * Whether a Writ Petition is maintainable to challenge an Order rejecting an application for reference to arbitration under Section 8 of the Arbitration Act.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * Arbitration and Conciliation Act, 1996 (Arbitration Act)
+        * Section 8: Power to refer parties to arbitration where there is an arbitration agreement.
+        * Section 11: Appointment of Arbitrator.
+        * Section 16: Competence of arbitral tribunal to rule on its jurisdiction.
+        * Section 37: Appealable orders.
+    * Maharashtra Stamp Act, 1958
+        * Section 3: Instruments chargeable with duty.
+        * Section 30: Duties by whom payable.
+        * Section 32A: Instrument of conveyance, etc. under valued how to be dealt with.
+        * Section 33: Examination and impounding of instruments.
+        * Section 34: Instruments not duly stamped inadmissible in evidence, etc. 
+        * Section 35: Admission of instrument where not to be questioned.
+        * Section 36: Admission of improperly stamped instruments.
+        * Section 37: Instruments impounded how dealt with.
+        * Section 41: Endorsement of instruments on which duty has been paid under section 34, 39 or 40.
+        * Section 58: Revision of certain decisions of Courts regarding the sufficiency of stamps.
+        * Schedule I: Description of instruments and proper stamp duty.
+    * Indian Contract Act, 1872
+        * Section 17: Fraud defined.
+        * Section 19: Voidability of agreements without free consent. 
+        * Section 10: What agreements are contracts.
+    * Commercial Courts Act, 2015
+        * Section 13(1A): Appeals from decrees of Commercial Courts and Commercial Divisions.
+* **Precedents Cited:**
+    * Heyman v. Darwins Ltd. ([1942] AC 356)
+    * Bremer Vulkan Schiffbau und Maschinefabrik v. South India Shipping Corporation ([1981] AC 909)
+    * Harbour Assurance v. Kansa General International Insurance ([1993] 1 Lloyd’s Rep. 455 (CA))
+    * Lesotho Highlands Development Authority v. Impregilo SpA and others ([2005] UKHL 43 : [2006] 1 A.C. 221 at [21])
+    * Fiona Trust & Holding Corporation v. Privalov ([2007] EWCA Civ 20)
+    * Fili Shipping Co Ltd and others v. Premium Nafta Products Ltd and others ([2007] UKHL 40) 
+    * Prima Paint Corporation v. Flood & Conklin MFG. CO. (388 US 395 (1967)) 
+    * Buckeye Check Cashing, Inc v. Cardegna et. al. (US SC 440 (2006))
+    * Southland Corp. v. Keating (79 L Ed 2d: 465 US 1 (1984))
+    * Rent-A-Center, West, Inc. v. Jackon (561 US 63 (2010))
+    * Uttarakhand Purv Sainik Kalyan Nigam Ltd. v. Northern Coal Field Ltd. (2020) 2 SCC 455
+    * A. Ayyasamy v. Parmasivam & Ors. (2016) 10 SCC 386
+    * Garware Wall Ropes Limited v. Coastal Marine Constructions and Engineering Limited (2019) 9 SCC 209
+    * Naina Thakkar v. Annapurna Builders (2013) 14 SCC 354
+    * SMS Tea Estates Pvt. Ltd. v. M/s. Chandmari Tea Co. Pvt. Ltd. (2011) 14 SCC 66
+    * SBP & Co. v. Patel Engineering Ltd. (2005) 8 SCC 618
+    * National Insurance Co. v. Boghara Polyfab (2009) 1 SCC 267
+    * Master Construction Company v. Union of India (2011) 12 SCC 357
+    * Duro Felguera S.A. v. Gangavaram Port Ltd. (2017) 9 SCC 729
+    * Mayavati Trading Private Limited v. Pradyuat Deb Burman (2019) 8 SCC 714
+    * United India Insurance Co. Ltd. v. Hyundai Engg. & Construction Co. Ltd. (2018) 17 SCC 607
+    * Shriram EPC Limited v. Rioglass Solar SA (2018) 18 SCC 313
+    * Hindustan Steel Limited v. M/s. Dilip Construction Company (1969) 1 SCC 597
+    * N. Radhakrishnan v. Maestro Engineers (2010) 1 SCC 72 
+    * Abdul Kadir v. Madhav Prabhakar (AIR 1962 SC 406)
+    * Russel v. Russel ([1880] 14 Ch. D 471)
+    * Bharat Rasiklal Ashra v. Gautam Rasiklal Ashra (2012) 2 SCC 144
+    * Rashid Raza v. Sadaf Akhtar (2019) 8 SCC 710
+    * Ameet Lalchand Shah & Ors. v. Rishabh Enterprises & Anr. (2018) 15 SCC 678
+    * Avitel Post Studioz Ltd. & Ors. v. HSBC PI Holdings (Mauritius Limited) (2020) SCCOnLine SC 656
+    * Deccan Paper Mills v. Regency Mahavir (2020) SCCOnLine SC 655
+    * Vidya Drolia & Others v. Durga Trading Corporation (Civil Appeal No.2402 of 2019 decided vide Judgment dated 14.12.2020) 
+    * Booz Allen & Hamilton Inc. v. SBI Home Finance Ltd. (2011) 5 SCC 532
+    * Emaar MGF Land Limited v. Aftab Singh (2019) 12 SCC 751 
+    * Vimal Kishor Shah & Others v. Jayesh Dinesh Shah & Others. (2016) 8 SCC 788
+    * State of West Bengal v. Associated Contractors (2015) 1 SCC 32
+    * Swiss Timing Ltd. v. Commonwealth Games 2010 Organising Committee (2014) 6 SCC 677
+    * Ram Rattan v. Parma Nand (1945-46) 73 IA 28: AIR 1946 PC 51
+* **Legal Doctrines:**
+    * Doctrine of separability of arbitration agreement: The arbitration agreement is a separate and independent agreement from the underlying contract.
+    * Doctrine of Kompetenz-Kompetenz: The arbitral tribunal has the competence to determine its own jurisdiction, including objections about the existence, validity, and scope of the arbitration agreement.
+
+## 4. Arguments Presented
+
+* **Plaintiff’s Argument (Global Mercantile):**
+    * The Work Order, being unstamped, is not enforceable under the Stamp Act and therefore, the arbitration clause embedded in it is also unenforceable.
+    * The invocation of the bank guarantee was fraudulent since no work was performed, and Indo Unique had not suffered any loss.
+    * The High Court erred in allowing the application under Section 8 of the Arbitration Act as it enforced a non-existent arbitration clause.
+* **Defendant’s Argument (Indo Unique):**
+    * The Work Order is enforceable after it is duly stamped.
+    * Non-payment of stamp duty is a curable defect.
+    * The arbitration agreement is independent and enforceable even if the Work Order is unstamped.
+    * The allegations of fraud are simple and not complex, and the disputes can be resolved through arbitration.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The doctrine of separability and Kompetenz-Kompetenz applies, making the arbitration agreement independent and capable of surviving the invalidity of the underlying contract.
+    * An arbitration agreement is not chargeable to stamp duty under the Maharashtra Stamp Act, 1958.
+    * Non-payment of stamp duty on the Work Order does not invalidate the main contract. 
+    * The court held that allegations of fraud are arbitrable unless they are so serious as to constitute a virtual case of criminal offence, or the fraud permeates the entire contract, including the arbitration clause.
+* **Interpretation of Law:**
+    * The court extensively analyzed the principles of separability and Kompetenz-Kompetenz, citing several precedents from India and England. 
+    * It meticulously examined the provisions of the Maharashtra Stamp Act, 1958, emphasizing the distinction between the admissibility of an instrument and its enforceability.
+    * The court considered the evolution of the law regarding the arbitrability of fraud, noting the shift away from a strict interpretation.
+* **Application of Law:**
+    * The court applied the doctrine of separability to hold that the non-payment of stamp duty on the Work Order would not invalidate the arbitration clause.
+    * It distinguished the impact of non-payment of stamp duty from the impact of non-registration under the Registration Act, finding that the former is a curable defect.
+    * The court applied the principle that civil fraud is generally arbitrable, rejecting the earlier reasoning based on the complexity of evidence.
+
+## 6. Judgment
+
+* **Final Decision:** The Supreme Court set aside the judgment of the Bombay High Court which had allowed the application under Section 8 of the Arbitration Act.
+* **Relief Granted:** The court directed the Secretary General of the Supreme Court to impound the Work Order and forward it to the concerned Collector for assessment of stamp duty.
+* **Orders:**
+    * The Appellant (Global Mercantile) was directed to pay the stamp duty assessed by the Collector within four weeks of receiving the communication.
+    * The Appellant was permitted to seek interim relief under Section 9 of the Arbitration Act regarding the invocation of the bank guarantee.
+    * The stay granted by the High Court was extended for eight weeks.
+    * The court referred the issue of whether a statutory bar on an unstamped instrument impacts the enforceability of the arbitration clause contained within it, to a Constitution Bench for authoritative settlement.
+
+## 7. Implications
+
+* **Impact on Law:**
+    * The judgment clarified the application of the doctrine of separability of arbitration agreements in the context of unstamped contracts, holding that such agreements remain enforceable.
+    * It affirmed that allegations of fraud are generally arbitrable, subject to specific exceptions.
+    * The court also addressed the question of maintainability of Writ Petitions challenging orders refusing to refer parties to arbitration.
+* **Future Relevance:**
+    * This case will be a valuable precedent for future cases involving unstamped contracts and arbitration agreements.
+    * The court's reasoning on the arbitrability of fraud is likely to be influential in future cases dealing with similar disputes.
+* **Broader Context:**
+    * The judgment reinforces the trend towards recognizing the autonomy and effectiveness of arbitration as a dispute resolution mechanism in India.
+    * It demonstrates the court's willingness to interpret statutory provisions in a manner that promotes efficiency and minimizes unnecessary litigation.
+
+## 8. Summary Points
+
+* The doctrine of separability allows arbitration agreements to survive the invalidity of the underlying contract.
+* An arbitration agreement is not subject to stamp duty under the Maharashtra Stamp Act, 1958.
+* Non-payment of stamp duty is a curable defect, and it does not render the arbitration agreement unenforceable.
+* Generally, civil fraud is arbitrable, but serious fraud or fraud that impacts the validity of the arbitration clause itself are not.
+* A Writ Petition challenging an order refusing to refer parties to arbitration is not maintainable when a statutory remedy is available.
+
+## 9. References
+
+* **Citations:**
+    * All the statutes and case names mentioned above.
+* **Further Reading:**
+    * Malhotra’s Commentary on the Law of Arbitration, [4th ed., Wolters Kluwer (2020)]
+    * Russel on Arbitration
+    * Law Commission Reports on Arbitration
+    * Articles on separability, Kompetenz-Kompetenz, and arbitrability of fraud.
+
+This summary provides a comprehensive overview of the legal principles, arguments, and reasoning of the Supreme Court in this case. It highlights the key takeaways and potential implications of the judgment, offering a deeper understanding of the case for future research and reference. 

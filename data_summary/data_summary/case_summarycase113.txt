@@ -1,0 +1,103 @@
+## Case Title
+
+* **Case Name:** Love Chauhan vs. Ajay Kumar Kathuria
+* **Court:** Delhi High Court
+* **Date of Judgment:** 27th October 2021
+* **Citation:**  Not available in the provided text.
+
+## Background and Context
+
+* **Brief Overview:** This case involves a dispute between a landlord (respondent/plaintiff) and a tenant (petitioner/defendant) over a commercial property. The landlord filed a suit seeking possession, recovery of rent arrears, mesne profits, and injunction against the tenant. The tenant failed to file his written statement within the stipulated time frame and sought condonation of delay. The Commercial Court dismissed the tenant's application for condonation of delay, prompting the tenant to appeal to the Delhi High Court.
+* **Key Issues:** 
+    * Whether the tenant's delay in filing the written statement was bona fide and justified.
+    * Whether the tenant could avail the benefit of the Supreme Court's orders in "In Re: Cognizance for Extension of Limitation" (2020) concerning COVID-19 pandemic-related delays.
+    * Whether the period for which the tenant was proceeded against ex-parte should be excluded from the calculation of the limitation period.
+
+## Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * Article 227 of the Constitution of India
+    * Order VIII Rule 1 of the Code of Civil Procedure, 1908 (CPC)
+    * Order IX Rule 7 of the CPC
+    * Order XXXIX Rules 1 & 2 of the CPC
+* **Precedents Cited:**
+    * SCG Contracts India Pvt. Ltd. Vs. K.S. Chamankar Infrastructure Pvt. Ltd. and Ors. (2019) 12 SCC 210
+    * Sagufa Ahmed & Ors. Vs. Upper Assam Plywood Products Pvt. Ltd. & Ors. (Civil Appeal No. 3007-3008 of 2020)
+    * In Re: Cognizance for Extension of Limitation (Suo Moto Civil Writ Petition No.3 of 2020)
+    * Miscellaneous Application No. 665 of 2021 in In Re: Cognizance for Extension of Limitation (2021)
+    * Bithika Mazumdar and Another Vs. Sagar Pal and Others (2017) 2 SCC 748
+* **Legal Doctrines:** 
+    * **Condonation of Delay:** The principle of condonation of delay is based on the principle of equity and fairness, where the court may excuse a delay in filing a pleading or proceeding if there are reasonable grounds.
+    * **Limitation Period:** The period of limitation is the time within which a legal action must be initiated. 
+    * **Vigilantibus Non Dormientibus Jura Subveniunt:** This Latin maxim means "the law assists those who are vigilant and not those who sleep on their rights." 
+
+## Arguments Presented
+
+* **Plaintiff’s Argument:** 
+    * The tenant was duly served with the summons on 16th July 2020, and the limitation period for filing the written statement started from that date.
+    * The tenant was already granted an extension of time to file the written statement on 7th December 2020, which was beyond the maximum period of 120 days.
+    * The tenant's delay was not bona fide and was a result of negligence and procrastination.
+    * The tenant should not be allowed to benefit from the Supreme Court's orders concerning COVID-19 delays as they were intended for vigilant litigants who were genuinely impacted by the pandemic.
+* **Defendant’s Argument:**
+    * The delay in filing the written statement was due to the COVID-19 pandemic and was bona fide.
+    * The Supreme Court's orders in "In Re: Cognizance for Extension of Limitation" (2021) should be applied to the case, allowing the tenant an extension of time.
+    * The period for which the tenant was proceeded against ex-parte should not be counted in the limitation period.
+
+## Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The tenant had not filed the written statement within the stipulated time period (30 days) or the extended time period (120 days).
+    * The tenant was further granted an extension of time beyond the maximum permissible limit by the Commercial Court, but still failed to file the written statement.
+    * The tenant's delay was not bona fide and was a result of negligence and procrastination.
+    * The Supreme Court's orders concerning COVID-19 delays were intended for vigilant litigants, not those who were negligent in conducting their cases.
+    * The tenant was already granted a concession by the Commercial Court in the form of an extension of time, and therefore, the Supreme Court's orders could not be interpreted to further extend the period for condonation of delay.
+    * The period for which the tenant was proceeded against ex-parte should not be excluded from the calculation of the limitation period as it was the tenant's own default that led to the ex-parte proceedings.
+    * The delay in filing the petition before the High Court was also significant and unexplained, indicating further negligence on the part of the tenant.
+* **Interpretation of Law:**
+    * The court interpreted Order VIII Rule 1 of the CPC to state that the defendant shall lose the right to file a written statement after 120 days from the service of summons.
+    * The court interpreted the Supreme Court's orders concerning COVID-19 delays as intended for diligent litigants who were genuinely affected by the pandemic.
+    * The court interpreted the concept of condonation of delay as requiring genuine reasons and bona fide conduct on the part of the party seeking condonation.
+* **Application of Law:**
+    * The court applied the principle of condonation of delay, but found that the tenant's reasons were not bona fide and the delay was not justified.
+    * The court applied the principle of limitation periods and held that the written statement was filed beyond the permissible time limit.
+    * The court applied the principle of vigilantibus non dormientibus jura subveniunt to hold that the tenant's conduct was not diligent and did not deserve assistance from the court.
+    * The court applied the precedent of SCG Contracts India Pvt. Ltd. Vs. K.S. Chamankar Infrastructure Pvt. Ltd. and Ors. (2019) to uphold the strict interpretation of Order VIII Rule 1 of the CPC.
+    * The court applied the precedent of Sagufa Ahmed & Ors. Vs. Upper Assam Plywood Products Pvt. Ltd. & Ors. (2020) to hold that the Supreme Court's orders concerning COVID-19 delays could not be used to further extend the time for condonation of delay.
+    * The court applied the precedent of Bithika Mazumdar and Another Vs. Sagar Pal and Others (2017) to justify its reluctance to entertain a petition filed with inordinate delay.
+
+## Judgment
+
+* **Final Decision:** The Delhi High Court dismissed the tenant's petition.
+* **Relief Granted:** No relief was granted to the tenant.
+* **Orders:** The petition along with the pending application was dismissed.
+
+## Implications
+
+* **Impact on Law:** This judgment reaffirms the importance of strict adherence to time limits prescribed by law and the need for genuine reasons to seek condonation of delay. It also clarifies the scope of the Supreme Court's orders concerning COVID-19 delays, limiting its application to diligent litigants who were genuinely impacted by the pandemic.
+* **Future Relevance:** This case will serve as a precedent for similar cases involving delays in filing written statements in commercial suits and the applicability of COVID-19-related Supreme Court orders.
+* **Broader Context:** This case highlights the importance of diligence and responsibility in conducting litigation and the consequences of failing to adhere to established procedural timelines.
+
+## Summary Points
+
+* The tenant failed to file his written statement within the stipulated time frame and sought condonation of delay.
+* The court found the delay to be not bona fide and a result of the tenant's negligence.
+* The court held that the Supreme Court's orders concerning COVID-19 delays could not be applied to the tenant as he had already been granted an extension of time.
+* The court dismissed the tenant's petition and upheld the order of the Commercial Court dismissing his application for condonation of delay.
+
+## References
+
+*  Order VIII Rule 1 of the Code of Civil Procedure, 1908 (CPC)
+*  Order IX Rule 7 of the CPC
+*  Order XXXIX Rules 1 & 2 of the CPC
+*  Article 227 of the Constitution of India
+*  SCG Contracts India Pvt. Ltd. Vs. K.S. Chamankar Infrastructure Pvt. Ltd. and Ors. (2019) 12 SCC 210
+*  Sagufa Ahmed & Ors. Vs. Upper Assam Plywood Products Pvt. Ltd. & Ors. (Civil Appeal No. 3007-3008 of 2020)
+*  In Re: Cognizance for Extension of Limitation (Suo Moto Civil Writ Petition No.3 of 2020)
+*  Miscellaneous Application No. 665 of 2021 in In Re: Cognizance for Extension of Limitation (2021)
+*  Bithika Mazumdar and Another Vs. Sagar Pal and Others (2017) 2 SCC 748
+
+## Further Reading
+
+*  Code of Civil Procedure, 1908
+*  Constitution of India
+*  Supreme Court Judgments on condonation of delay and limitation periods. 

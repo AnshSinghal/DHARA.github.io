@@ -1,0 +1,99 @@
+## Case Title
+
+* **Case Name:** The New India Assurance Company Limited vs. Alps Chemicals Private Limited
+* **Court:** Gujarat High Court
+* **Date of Judgment:** 17 September 2021
+* **Citation:** C/FA/1837/2021
+
+## Background and Context
+
+* **Brief Overview:** The case involved a dispute between The New India Assurance Company Limited (Appellant) and Alps Chemicals Private Limited (Respondent) regarding an arbitral award. The Respondent had filed various claims against the Appellant and a retired judge of the Gujarat High Court was appointed as Sole Arbitrator.  The Sole Arbitrator ruled in favor of the Respondent, ordering the Appellant to pay a specific sum with interest. The Appellant then filed an appeal under Section 34 of the Arbitration and Conciliation Act, 1996 (Act, 1996) seeking to set aside the award. The Appellant also filed an application for condonation of delay, as the appeal was filed 51 days late. 
+* **Key Issues:** The main issue in the case was whether the Gujarat High Court had the power to condone the delay in filing an application challenging the award under Section 34 of the Act, 1996, after the prescribed time limit of 3 months and 30 days had passed.
+
+## Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * **Arbitration and Conciliation Act, 1996:**
+        * Section 34: This section outlines the process for applying to set aside an arbitral award.
+        * Section 34(3): This subsection specifies the time limit for filing an application to set aside an award and provides a 30-day extension for sufficient cause.
+        * Section 36: This section deals with the enforcement of an arbitral award.
+    * **Limitation Act, 1963:**
+        * Section 5: This section permits extension of the prescribed period for filing appeals or applications on the grounds of sufficient cause.
+        * Section 29(2): This subsection outlines the application of the Limitation Act to special laws.
+* **Precedents Cited:**
+    * **Union of India vs. Popular Construction Company (2001) 8 SCC 470**
+    * **State of Himachal Pradesh vs. Himachal Techno Engineers (2010) 12 SCC 210**
+    * **Simplex Infrastructure Limited vs. Union of India (2019) 2 SCC 455**
+    * **Benarsi Krishna Committee and Ors. vs. Karmyogi Shelters Pvt. Ltd. (2012) 9 SCC 496**
+    * **The State of Bihar & Ors. vs. Bihar Rajya Bhumi Vikas Bank Samiti (2018) 9 SCC 472**
+    * **Sambhaji & Ors. vs. Gangabhai & Ors. (2008) 17 SCC 117**
+    * **Raj Kumar Dey & Ors. vs. Tarapada Dey & Ors. (1987) 4 SCC 398**
+    * **Sangram Singh vs. Election Tribunal, Kotah & Ors. AIR 1955 SC 425**
+    * **Mahindra and Mahindra Financial Services Limited vs. Manik Vitthal Kavle & Ors. 2014 SCC Online Bom 462**
+    * **State of U.P. vs. M/s. Harman Singh 2015 SCC Online All 9062**
+    * **Machine Tool (India) Ltd. Vs. Splendor Buildwell Pvt. Ltd. 2018 SCC Online Del 9551**
+    * **Union of India vs. Rupen Modi (2010) SCC Lnline Guj 6186 (DB)**
+* **Legal Doctrines:**
+    * **Interpretation of Statutes:** The Court relied on the principle of statutory interpretation to analyze the language of the Act, 1996, particularly the phrase "but not thereafter" in Section 34(3). 
+    * **Express Exclusion:** The Court determined that the phrase "but not thereafter" constituted an express exclusion of the applicability of Section 5 of the Limitation Act to the Act, 1996.
+    * **Condonation of Delay:** The Court explored the circumstances under which delay can be condoned in legal proceedings, considering the specific provisions of the Act, 1996 and relevant case laws.
+
+## Arguments Presented
+
+* **Appellant’s Argument:**
+    * The Appellant argued that the actual delay in filing the appeal was 21 days, not 51 days, as the limitation period should commence from the date of receiving the arbitral award (19 September 2018), not earlier.
+    * The Appellant claimed that the delay was caused due to circumstances such as consulting with a Chartered Accountant, obtaining legal advice, and seeking approval from higher authorities.
+    * The Appellant emphasized the need to consider the objectives of the Act, 1996, which aim for expedited resolution of disputes and should not be hampered by technicalities.
+    * The Appellant cited several judgments, particularly Benarsi Krishna Committee (2012) and Bihar Rajya Bhumi Vikas Bank Samiti (2018), to support their contention that the court should condone the delay.
+* **Respondent’s Argument:**
+    * The Respondent argued that even if the delay was only 21 days, the Appellant had still failed to file the appeal within the extended period of 30 days provided by Section 34(3) of the Act, 1996.
+    * The Respondent emphasized the phrase "but not thereafter" in Section 34(3), arguing that it explicitly excludes the application of Section 5 of the Limitation Act and therefore, the Court cannot condone any delay exceeding the 30-day extension.
+    * The Respondent cited several judgments, including Popular Construction Company (2001), Simplex Infrastructure Limited (2019), and various others, to support their claim that the Court lacked the power to condone the delay.
+
+## Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The Court recognized the importance of Section 34(3) of the Act, 1996, which clearly sets a limitation period for challenging arbitral awards and provides a limited extension for sufficient cause. 
+    * The Court highlighted the phrase "but not thereafter" as an express exclusion of the Limitation Act's applicability to the Act, 1996. 
+    * The Court reviewed the precedents cited by both parties and found consistent rulings from the Supreme Court that the Court cannot condone delay beyond the 30-day extension specified in Section 34(3).
+* **Interpretation of Law:**
+    * The Court meticulously analyzed the language of Section 34(3) of the Act, 1996, emphasizing the significance of the phrase "but not thereafter" as an express exclusion of the applicability of Section 5 of the Limitation Act.
+    * The Court interpreted the language of the Act, 1996, in conjunction with relevant case laws to determine the scope and limitations of condoning delay. 
+* **Application of Law:**
+    * The Court applied the established legal principles and precedents to the facts of the case, acknowledging that the Appellant had failed to file the appeal within the 3 months and 30-day extended period outlined in Section 34(3). 
+    * The Court concluded that the delay was not condonable, even though the Appellant had offered explanations for the delay. 
+
+## Judgment
+
+* **Final Decision:** The Court dismissed the Appellant's appeal, upholding the Commercial Court's decision to reject the Appellant's application for condonation of delay.
+* **Relief Granted:** No relief was granted to the Appellant.
+* **Orders:** The appeal was dismissed, and the connected civil applications were also disposed of.
+
+## Implications
+
+* **Impact on Law:** This judgment reinforces the interpretation of Section 34(3) of the Arbitration and Conciliation Act, 1996, as a clear limitation on condoning delay in challenging arbitral awards. It affirms that the Court cannot condone any delay exceeding the 30-day extension period even in cases of sufficient cause. 
+* **Future Relevance:** This decision will likely guide future legal decisions regarding the condonation of delay in challenging arbitral awards under the Act, 1996, emphasizing the strict limitations set by Section 34(3).
+* **Broader Context:** The judgment underscores the principle of judicial deference to arbitral awards and the importance of adhering to the timelines outlined in the Act, 1996, to ensure the smooth and efficient resolution of disputes.
+
+## Summary Points
+
+* The Gujarat High Court upheld the Commercial Court's decision to reject an application for condonation of delay in filing an appeal challenging an arbitral award.
+* The Court affirmed that Section 34(3) of the Arbitration and Conciliation Act, 1996, explicitly excludes the applicability of Section 5 of the Limitation Act. 
+* The Court interpreted the phrase "but not thereafter" in Section 34(3) as a clear limitation on the Court's power to condone delay beyond the 30-day extension.
+* The judgment reinforces the principle of strict adherence to the timelines outlined in the Act, 1996, for challenging arbitral awards.
+
+## References
+
+* **Arbitration and Conciliation Act, 1996**
+* **Limitation Act, 1963**
+* **Union of India vs. Popular Construction Company (2001) 8 SCC 470**
+* **State of Himachal Pradesh vs. Himachal Techno Engineers (2010) 12 SCC 210**
+* **Simplex Infrastructure Limited vs. Union of India (2019) 2 SCC 455**
+* **Benarsi Krishna Committee and Ors. vs. Karmyogi Shelters Pvt. Ltd. (2012) 9 SCC 496**
+* **The State of Bihar & Ors. vs. Bihar Rajya Bhumi Vikas Bank Samiti (2018) 9 SCC 472**
+
+## Further Reading
+
+* **"Arbitration and Conciliation Act, 1996": A Commentary** by Dr. P.S. Atiyar
+* **"Limitation Act, 1963": A Commentary** by Dr. J.N. Pandey
+* **"The Law of Arbitration and Conciliation in India"** by Dr. R.K. Jain

@@ -1,0 +1,58 @@
+```json
+[
+  {
+    "Query": "A tenant, Ms. Sharma, has been renting a commercial property from Mr. Singh for the past 5 years.  Their lease agreement stipulates a rent of Rs. 2 lakhs per month.  Mr. Singh filed a suit in a civil court claiming Rs. 12 lakhs in unpaid rent over the past six months.  Ms. Sharma, arguing that the rent is too high, wants the suit transferred to a commercial court and the rent amount reviewed based on current market rates.",
+    "Legal Principles": "Retrospective application of statutes, presumption of prospectivity, interpretation of saving clauses, commercial disputes under the Commercial Courts Act, 2015, transfer of suits to Commercial Courts, determination of 'specified value', procedural vs. substantive rights.",
+    "Relevant Sections": "Section 15(5) of the Commercial Courts Act, 2015, Section 19 of the Commercial Courts (Amendment) Act, 2018, Section 2(i) of the Commercial Courts Act, 2015, Section 12A of the Commercial Courts Act, 2015",
+    "Context": "This case involves a dispute between a landlord and a tenant regarding unpaid rent of a commercial property. The question is whether the tenant can have the suit transferred to a commercial court and the rent amount reviewed based on market rates."
+  },
+  {
+    "Query": "A business partnership, 'Tech Solutions', dissolved, resulting in a dispute over the division of assets. Mr. Kapoor, one partner, filed a suit in a civil court against Ms. Patel, the other partner, demanding a specific share of the company's profits and intellectual property. Ms. Patel argues that the dispute should be dealt with by a commercial court, given the commercial nature of the partnership and the assets involved.",
+    "Legal Principles": "Retrospective application of statutes, presumption of prospectivity, interpretation of saving clauses, commercial disputes under the Commercial Courts Act, 2015, transfer of suits to Commercial Courts, determination of 'specified value', procedural vs. substantive rights.",
+    "Relevant Sections": "Section 15(5) of the Commercial Courts Act, 2015, Section 19 of the Commercial Courts (Amendment) Act, 2018, Section 2(i) of the Commercial Courts Act, 2015, Section 12A of the Commercial Courts Act, 2015",
+    "Context": "This case involves a dispute over the division of assets and profits following the dissolution of a business partnership. The question is whether the suit should be transferred to a commercial court based on the nature of the partnership and assets involved."
+  },
+  {
+    "Query": "A manufacturing company, 'Steel Industries', is facing a lawsuit from 'Construction Limited' for breach of contract regarding the supply of steel beams. The contract value exceeds Rs. 5 crores. 'Construction Limited' wants the case heard in a commercial court due to the significant commercial value and urgency in resolving the matter.",
+    "Legal Principles": "Retrospective application of statutes, presumption of prospectivity, interpretation of saving clauses, commercial disputes under the Commercial Courts Act, 2015, transfer of suits to Commercial Courts, determination of 'specified value', procedural vs. substantive rights.",
+    "Relevant Sections": "Section 15(5) of the Commercial Courts Act, 2015, Section 19 of the Commercial Courts (Amendment) Act, 2018, Section 2(i) of the Commercial Courts Act, 2015, Section 12A of the Commercial Courts Act, 2015",
+    "Context": "This case involves a dispute between a manufacturing company and a construction company regarding breach of contract for the supply of steel beams. The question is whether the case should be transferred to a commercial court due to the high value and urgency of the dispute."
+  },
+  {
+    "Query": "A software development firm, 'Tech Solutions', entered into a contract with 'Retailers Inc.' for development of a website.  The contract value was Rs. 20 lakhs. When the website was not delivered as per the timeline, 'Retailers Inc.' filed a suit in a civil court demanding damages and seeking termination of the contract. 'Tech Solutions' argues that the dispute should be transferred to a commercial court, given the commercial nature of the contract and the substantial amount involved.",
+    "Legal Principles": "Retrospective application of statutes, presumption of prospectivity, interpretation of saving clauses, commercial disputes under the Commercial Courts Act, 2015, transfer of suits to Commercial Courts, determination of 'specified value', procedural vs. substantive rights.",
+    "Relevant Sections": "Section 15(5) of the Commercial Courts Act, 2015, Section 19 of the Commercial Courts (Amendment) Act, 2018, Section 2(i) of the Commercial Courts Act, 2015, Section 12A of the Commercial Courts Act, 2015",
+    "Context": "This case involves a dispute between a software development firm and a retailer regarding breach of contract for website development. The question is whether the case should be transferred to a commercial court due to the commercial nature of the contract and the amount involved."
+  },
+  {
+    "Query": "Mr. Gupta, a shareholder in a company, 'Green Energy', is challenging a decision made by the company's board of directors regarding a proposed merger with another company.  He claims the decision was not in the best interests of the shareholders and seeks to have the merger halted. The company argues that the dispute falls under the purview of a commercial court, given the nature of the company and the substantial financial implications of the merger.",
+    "Legal Principles": "Retrospective application of statutes, presumption of prospectivity, interpretation of saving clauses, commercial disputes under the Commercial Courts Act, 2015, transfer of suits to Commercial Courts, determination of 'specified value', procedural vs. substantive rights.",
+    "Relevant Sections": "Section 15(5) of the Commercial Courts Act, 2015, Section 19 of the Commercial Courts (Amendment) Act, 2018, Section 2(i) of the Commercial Courts Act, 2015, Section 12A of the Commercial Courts Act, 2015",
+    "Context": "This case involves a shareholder challenging a decision by a company's board of directors regarding a merger. The question is whether the dispute should be transferred to a commercial court due to the nature of the company and the financial implications of the merger."
+  },
+  {
+    "Query": "A real estate developer, 'Urban Homes', is embroiled in a dispute with a construction firm, 'Buildwell', over non-payment for construction services. The contract value is Rs. 8 crores. 'Buildwell' filed a suit in a civil court seeking payment and damages for delayed payments. 'Urban Homes' insists that the matter should be transferred to a commercial court, considering the large amount involved and the commercial nature of the dispute.",
+    "Legal Principles": "Retrospective application of statutes, presumption of prospectivity, interpretation of saving clauses, commercial disputes under the Commercial Courts Act, 2015, transfer of suits to Commercial Courts, determination of 'specified value', procedural vs. substantive rights.",
+    "Relevant Sections": "Section 15(5) of the Commercial Courts Act, 2015, Section 19 of the Commercial Courts (Amendment) Act, 2018, Section 2(i) of the Commercial Courts Act, 2015, Section 12A of the Commercial Courts Act, 2015",
+    "Context": "This case involves a dispute between a real estate developer and a construction firm over non-payment for construction services. The question is whether the case should be transferred to a commercial court due to the high value and the commercial nature of the dispute."
+  },
+  {
+    "Query": "A manufacturing company, 'Textile Industries', is facing a lawsuit from a supplier, 'Cotton Source', for breach of contract regarding the supply of raw materials. 'Cotton Source' filed the suit in a civil court seeking payment for the undelivered materials and damages for lost profits. 'Textile Industries' argues that the dispute should be heard by a commercial court, given the commercial nature of the contract and the substantial amount involved.",
+    "Legal Principles": "Retrospective application of statutes, presumption of prospectivity, interpretation of saving clauses, commercial disputes under the Commercial Courts Act, 2015, transfer of suits to Commercial Courts, determination of 'specified value', procedural vs. substantive rights.",
+    "Relevant Sections": "Section 15(5) of the Commercial Courts Act, 2015, Section 19 of the Commercial Courts (Amendment) Act, 2018, Section 2(i) of the Commercial Courts Act, 2015, Section 12A of the Commercial Courts Act, 2015",
+    "Context": "This case involves a dispute between a manufacturing company and a supplier over breach of contract for the supply of raw materials. The question is whether the case should be transferred to a commercial court due to the commercial nature of the contract and the amount involved."
+  },
+  {
+    "Query": "A financial institution, 'Bank of India', is seeking to recover a loan amount of Rs. 1 crore from a company, 'XYZ Enterprises'. The company defaulted on the loan repayment. 'Bank of India' filed a suit in a civil court to recover the amount, arguing that the case should be transferred to a commercial court due to the significant financial value and the commercial nature of the loan agreement.",
+    "Legal Principles": "Retrospective application of statutes, presumption of prospectivity, interpretation of saving clauses, commercial disputes under the Commercial Courts Act, 2015, transfer of suits to Commercial Courts, determination of 'specified value', procedural vs. substantive rights.",
+    "Relevant Sections": "Section 15(5) of the Commercial Courts Act, 2015, Section 19 of the Commercial Courts (Amendment) Act, 2018, Section 2(i) of the Commercial Courts Act, 2015, Section 12A of the Commercial Courts Act, 2015",
+    "Context": "This case involves a financial institution seeking to recover a loan amount from a company. The question is whether the case should be transferred to a commercial court due to the high value and the commercial nature of the loan agreement."
+  },
+  {
+    "Query": "A pharmaceutical company, 'MedPharma', is disputing the validity of a patent held by another company, 'PharmaTech', for a new drug. 'MedPharma' argues that 'PharmaTech's' patent is invalid and seeks to invalidate it. 'PharmaTech' claims the dispute should be heard by a commercial court, given the commercial implications of the patent and the substantial financial value associated with the drug's development and market.",
+    "Legal Principles": "Retrospective application of statutes, presumption of prospectivity, interpretation of saving clauses, commercial disputes under the Commercial Courts Act, 2015, transfer of suits to Commercial Courts, determination of 'specified value', procedural vs. substantive rights.",
+    "Relevant Sections": "Section 15(5) of the Commercial Courts Act, 2015, Section 19 of the Commercial Courts (Amendment) Act, 2018, Section 2(i) of the Commercial Courts Act, 2015, Section 12A of the Commercial Courts Act, 2015",
+    "Context": "This case involves a dispute between two pharmaceutical companies over the validity of a patent for a new drug. The question is whether the case should be transferred to a commercial court due to the commercial implications and financial value associated with the patent and drug."
+  }
+]
+```

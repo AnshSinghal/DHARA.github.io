@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A shipping company is suing a client for unpaid demurrage and storage charges after the client failed to take delivery of containers at the discharge port. The client claims that the shipping company fraudulently added their name as the shipper on the bill of lading without their consent. Can a foreign judgment obtained by the shipping company be enforced in India?",
+    "Legal Principles": "Enforcement of Foreign Judgments, Section 13 of the Code of Civil Procedure, Jurisdiction of Foreign Courts, Fraud in obtaining judgment, Estoppel",
+    "Relevant Sections": "Section 13 of the Code of Civil Procedure, 1908, Part 6 of the Civil Procedure Rules 1998",
+    "Context": "This is a case about the enforcement of a foreign judgment in India, specifically in the context of a shipping contract dispute involving demurrage charges and alleged fraud in obtaining the judgment."
+  },
+  {
+    "Query": "A company incorporated in India is being sued in England for breach of contract. The contract contained a clause conferring exclusive jurisdiction on the English courts. The Indian company claims that the clause was not freely agreed upon and that they were not aware of its implications. Can the English judgment be enforced in India?",
+    "Legal Principles": "Jurisdiction of Foreign Courts, Consent to Jurisdiction, Choice of Law Clauses, Enforcement of Foreign Judgments",
+    "Relevant Sections": "Section 13 of the Code of Civil Procedure, 1908",
+    "Context": "This case involves a dispute over the enforceability of a foreign judgment in India, focusing on the issue of jurisdiction and whether a choice of law clause in a contract can be considered valid and binding."
+  },
+  {
+    "Query": "A company in India is seeking to set aside a foreign judgment against them, claiming that the judgment was obtained by fraud. The company alleges that the foreign court was not properly informed of all the relevant facts and that the opposing party deliberately misrepresented their position. What are the legal grounds for challenging a foreign judgment on the basis of fraud?",
+    "Legal Principles": "Enforcement of Foreign Judgments, Fraud in obtaining judgment, Section 13 of the Code of Civil Procedure, Public Policy",
+    "Relevant Sections": "Section 13 of the Code of Civil Procedure, 1908",
+    "Context": "This query explores the legal principles related to challenging a foreign judgment in India on the grounds of fraud, including the requirements for establishing fraud and the potential defenses available to the party seeking to enforce the judgment."
+  },
+  {
+    "Query": "A company in India has been sued in a foreign court for breach of contract. The company claims that they did not have proper representation in the foreign court and were not given a fair opportunity to present their case. Can this be a ground to challenge the foreign judgment in India?",
+    "Legal Principles": "Enforcement of Foreign Judgments, Due Process, Natural Justice, Procedural Fairness, Section 13 of the Code of Civil Procedure",
+    "Relevant Sections": "Section 13 of the Code of Civil Procedure, 1908",
+    "Context": "This case examines the enforceability of a foreign judgment in India when the defendant argues that they did not receive due process or a fair hearing in the foreign court, focusing on the principles of natural justice and procedural fairness."
+  },
+  {
+    "Query": "A foreign company is seeking to enforce a judgment against an Indian company in India. The Indian company claims that the foreign judgment is against public policy in India. What are the grounds on which a foreign judgment can be challenged on the basis of public policy?",
+    "Legal Principles": "Enforcement of Foreign Judgments, Public Policy, Section 13 of the Code of Civil Procedure, International Law",
+    "Relevant Sections": "Section 13 of the Code of Civil Procedure, 1908",
+    "Context": "This query explores the concept of public policy in the context of enforcing foreign judgments in India, examining the grounds on which a foreign judgment can be challenged based on public policy considerations and the role of international law."
+  },
+  {
+    "Query": "A company in India is being sued by a foreign company in a foreign court for breach of contract. The Indian company claims that the contract was governed by Indian law and that the foreign court did not apply the correct law. Can this be a ground to challenge the foreign judgment in India?",
+    "Legal Principles": "Enforcement of Foreign Judgments, Choice of Law, Conflict of Laws, Jurisdiction of Foreign Courts, Section 13 of the Code of Civil Procedure",
+    "Relevant Sections": "Section 13 of the Code of Civil Procedure, 1908",
+    "Context": "This query explores the issue of choice of law in international contracts and its implications for the enforceability of foreign judgments in India, focusing on the role of conflict of laws rules and the potential for challenging a judgment based on incorrect application of law."
+  },
+  {
+    "Query": "Two companies, one in India and one in the United States, entered into a contract for the sale of goods. The contract contained a clause stating that any disputes would be settled in a specific court in the United States. A dispute arose, and the US company filed suit in the designated US court and obtained a judgment against the Indian company. Can the US judgment be enforced in India?",
+    "Legal Principles": "Enforcement of Foreign Judgments, Jurisdiction of Foreign Courts, Choice of Law Clauses, Consent to Jurisdiction, Section 13 of the Code of Civil Procedure",
+    "Relevant Sections": "Section 13 of the Code of Civil Procedure, 1908",
+    "Context": "This case examines the enforceability of a US judgment in India, focusing on the interplay of choice of law clauses, jurisdiction, and the principles governing the recognition and enforcement of foreign judgments."
+  },
+  {
+    "Query": "A company in India is seeking to set aside a foreign judgment against them, claiming that the judgment was based on a mistaken interpretation of the relevant law. The company argues that the foreign court misunderstood the applicable legal principles and that this error led to an incorrect outcome. Can a foreign judgment be set aside in India on the grounds of a legal error?",
+    "Legal Principles": "Enforcement of Foreign Judgments, Errors of Law, Section 13 of the Code of Civil Procedure, Principles of Natural Justice",
+    "Relevant Sections": "Section 13 of the Code of Civil Procedure, 1908",
+    "Context": "This query delves into the possibility of challenging a foreign judgment in India on the basis of a legal error, exploring the principles of natural justice, the limitations on setting aside judgments based on legal errors, and the role of Section 13 of the Code of Civil Procedure."
+  },
+  {
+    "Query": "A company in India is being sued in a foreign court for breach of contract. The Indian company claims that the foreign court lacked jurisdiction to hear the case because the contract was governed by Indian law and the defendant was not present in the foreign jurisdiction. Can this be a ground to challenge the foreign judgment in India?",
+    "Legal Principles": "Jurisdiction of Foreign Courts, Conflict of Laws, Enforcement of Foreign Judgments, Section 13 of the Code of Civil Procedure",
+    "Relevant Sections": "Section 13 of the Code of Civil Procedure, 1908",
+    "Context": "This query focuses on the issue of jurisdiction in international contracts, examining the principles governing the jurisdiction of foreign courts, the relevance of choice of law, and the potential for challenging a foreign judgment based on jurisdictional defects."
+  },
+  {
+    "Query": "A company in India is facing a lawsuit in a foreign court. The company claims that the foreign court's procedures were unfair and violated the principles of natural justice. Specifically, the company alleges that it was not given adequate notice of the proceedings and was denied the opportunity to present its evidence. Can this be a ground to challenge the foreign judgment in India?",
+    "Legal Principles": "Enforcement of Foreign Judgments, Due Process, Natural Justice, Procedural Fairness, Section 13 of the Code of Civil Procedure",
+    "Relevant Sections": "Section 13 of the Code of Civil Procedure, 1908",
+    "Context": "This case explores the enforceability of a foreign judgment in India when the defendant argues that the foreign court's procedures violated the principles of natural justice, focusing on the requirements of due process and procedural fairness."
+  }
+]
+```

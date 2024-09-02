@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A company (Company A) has been selling air coolers with a unique design for several years. Another company (Company B) launches a similar air cooler with a deceptively similar design. Company A files a lawsuit alleging passing off and seeks a permanent injunction against Company B.  Company B argues that its design is original and not a copy of Company A's design.  The court is considering whether to grant a temporary injunction against Company B.",
+    "Legal Principles": "Passing Off, Trade Marks Act, Designs Act,  Interim Injunction,  Goodwill, Reputation, Deception, Prior User, Balance of Convenience,  Suppression of Material Facts",
+    "Relevant Sections": "Section 2(z) of the Trade Marks Act, Section 22 of the Designs Act, 2000",
+    "Context": "Jurisdiction: Gujarat High Court, Case Type: Appeal From Order, Commercial Dispute arising out of the Commercial Courts Act"
+  },
+  {
+    "Query": "A restaurant (Restaurant A) has been operating under a particular name and logo for over a decade.  A new restaurant (Restaurant B) opens nearby with a similar name and logo, creating confusion among customers. Restaurant A sues Restaurant B for passing off and seeks an injunction. Restaurant B argues that its name and logo are different enough and that it has not deliberately copied Restaurant A's branding. The court is considering whether to grant a temporary injunction.",
+    "Legal Principles": "Passing Off, Trade Marks Act, Goodwill, Reputation, Deception, Prior User, Balance of Convenience",
+    "Relevant Sections": "Section 2(z) of the Trade Marks Act",
+    "Context": "Jurisdiction: Gujarat High Court, Case Type: Commercial Dispute"
+  },
+  {
+    "Query": "A clothing company (Company A) has a unique design for a particular type of shirt.  Another company (Company B) begins selling shirts with a strikingly similar design, leading Company A to believe that Company B is passing off its shirts as Company A's. Company A files a lawsuit for passing off and seeks an injunction. Company B argues that its design is original and that the similarities are coincidental. The court is considering whether to grant a temporary injunction against Company B.",
+    "Legal Principles": "Passing Off, Trade Marks Act, Designs Act,  Interim Injunction, Goodwill, Reputation, Deception, Prior User, Balance of Convenience",
+    "Relevant Sections": "Section 2(z) of the Trade Marks Act, Section 22 of the Designs Act, 2000",
+    "Context": "Jurisdiction: Gujarat High Court, Case Type: Commercial Dispute"
+  },
+  {
+    "Query": "A software company (Company A) has developed a unique software application with a specific user interface.  Another company (Company B) launches a similar software application with a deceptively similar user interface. Company A files a lawsuit alleging passing off and seeks a permanent injunction against Company B.  Company B argues that its software is original and not a copy of Company A's. The court is considering whether to grant a temporary injunction against Company B.",
+    "Legal Principles": "Passing Off,  Interim Injunction, Goodwill, Reputation, Deception, Prior User, Balance of Convenience",
+    "Relevant Sections": "None, as passing off is a common law concept",
+    "Context": "Jurisdiction: Gujarat High Court, Case Type: Commercial Dispute"
+  },
+  {
+    "Query": "A manufacturer of furniture (Company A) has a distinctive design for a particular type of chair.  Another furniture manufacturer (Company B) starts selling chairs with a similar design, leading Company A to believe that Company B is passing off its chairs as Company A's. Company A files a lawsuit for passing off and seeks an injunction. Company B argues that its design is original and that the similarities are coincidental. The court is considering whether to grant a temporary injunction against Company B.",
+    "Legal Principles": "Passing Off, Trade Marks Act, Designs Act,  Interim Injunction, Goodwill, Reputation, Deception, Prior User, Balance of Convenience",
+    "Relevant Sections": "Section 2(z) of the Trade Marks Act, Section 22 of the Designs Act, 2000",
+    "Context": "Jurisdiction: Gujarat High Court, Case Type: Commercial Dispute"
+  },
+  {
+    "Query": "A bakery (Bakery A) has been known for its unique recipe and branding for its signature cake.  A new bakery (Bakery B) opens nearby and starts selling a cake with a similar recipe and a deceptively similar name and branding.  Bakery A files a lawsuit for passing off and seeks an injunction. Bakery B argues that its recipe and branding are original. The court is considering whether to grant a temporary injunction against Bakery B.",
+    "Legal Principles": "Passing Off, Trade Marks Act, Goodwill, Reputation, Deception, Prior User, Balance of Convenience",
+    "Relevant Sections": "Section 2(z) of the Trade Marks Act",
+    "Context": "Jurisdiction: Gujarat High Court, Case Type: Commercial Dispute"
+  },
+  {
+    "Query": "A cosmetics company (Company A) has a unique packaging design for its popular lipstick.  Another cosmetics company (Company B) launches a lipstick with a very similar packaging design, causing confusion among consumers. Company A files a lawsuit alleging passing off and seeks a permanent injunction against Company B.  Company B argues that its packaging is original. The court is considering whether to grant a temporary injunction against Company B.",
+    "Legal Principles": "Passing Off, Trade Marks Act, Designs Act,  Interim Injunction, Goodwill, Reputation, Deception, Prior User, Balance of Convenience",
+    "Relevant Sections": "Section 2(z) of the Trade Marks Act, Section 22 of the Designs Act, 2000",
+    "Context": "Jurisdiction: Gujarat High Court, Case Type: Commercial Dispute"
+  },
+  {
+    "Query": "A music production company (Company A) has a distinctive style and sound in its music productions.  Another music production company (Company B) starts producing music that sounds very similar, causing confusion among listeners. Company A files a lawsuit alleging passing off and seeks an injunction. Company B argues that its music is original.  The court is considering whether to grant a temporary injunction against Company B.",
+    "Legal Principles": "Passing Off,  Interim Injunction, Goodwill, Reputation, Deception, Prior User, Balance of Convenience",
+    "Relevant Sections": "None, as passing off is a common law concept",
+    "Context": "Jurisdiction: Gujarat High Court, Case Type: Commercial Dispute"
+  },
+  {
+    "Query": "A toy company (Company A) has a popular toy with a distinctive design and features.  Another toy company (Company B) releases a toy with a strikingly similar design and features. Company A files a lawsuit alleging passing off and seeks an injunction. Company B argues that its toy is original. The court is considering whether to grant a temporary injunction against Company B.",
+    "Legal Principles": "Passing Off, Trade Marks Act, Designs Act,  Interim Injunction, Goodwill, Reputation, Deception, Prior User, Balance of Convenience",
+    "Relevant Sections": "Section 2(z) of the Trade Marks Act, Section 22 of the Designs Act, 2000",
+    "Context": "Jurisdiction: Gujarat High Court, Case Type: Commercial Dispute"
+  },
+  {
+    "Query": "A publishing company (Company A) has a successful book series with a distinctive cover design.  Another publishing company (Company B) releases a book series with a very similar cover design, causing confusion among readers. Company A files a lawsuit alleging passing off and seeks an injunction. Company B argues that its cover design is original. The court is considering whether to grant a temporary injunction against Company B.",
+    "Legal Principles": "Passing Off, Trade Marks Act, Designs Act,  Interim Injunction, Goodwill, Reputation, Deception, Prior User, Balance of Convenience",
+    "Relevant Sections": "Section 2(z) of the Trade Marks Act, Section 22 of the Designs Act, 2000",
+    "Context": "Jurisdiction: Gujarat High Court, Case Type: Commercial Dispute"
+  }
+]
+```

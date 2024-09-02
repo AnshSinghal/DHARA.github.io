@@ -1,0 +1,90 @@
+##  1. Case Title
+
+* **Case Name:** Span Healthcare Pvt. Ltd. vs. Vishal Sharma
+* **Court:** Delhi High Court
+* **Date of Judgment:** 16 April 2021
+* **Citation:**  C.R.P. 31/2021 
+
+## 2. Background and Context
+
+* **Brief Overview:**  Span Healthcare Pvt. Ltd. (Plaintiff) sued Vishal Sharma (Defendant) for recovery of a liquidated sum of Rs. 1,11,86,611/-.  The sum included the principal amount of Rs. 82,86,379/- and interest of Rs. 29,00,232.65p/-. The dispute arose from a distributorship agreement between the parties for medical equipment, with the Defendant allegedly making defaults in payments.
+* **Key Issues:**
+    * Maintainability of the Revision Petition filed by the Plaintiff under Section 115 of the Code of Civil Procedure (CPC) in light of Section 8 of the Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015 (Commercial Courts Act).
+    * Whether the order granting unconditional leave to defend in a summary suit under Order XXXVII CPC can be termed as an interlocutory order.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * Section 115 of the Code of Civil Procedure, 1908 (CPC) - Provides for the revisional jurisdiction of the High Court.
+    * Section 8 of the Commercial Courts Act, 2015 - Bars revision applications/petitions against interlocutory orders of a Commercial Court.
+    * Order XXXVII CPC - Deals with summary suits for recovery of liquidated sums.
+* **Precedents Cited:**
+    * Shah Babulal Khimji vs. Jayaben D. Kania & Ors. (1981) 4 SCC 8 - Defines the scope and ambit of "judgment" and "interlocutory order".
+    * State of Gujarat vs Union of India, being R/Special Civil Application No. 737 of 2018, decided on 07.05.2018 -  Addresses the bar against revision petitions under the Commercial Courts Act.
+    * Spicejet Ltd. vs. Arun Kumar (2017) SCC OnLine Del 12712 -  Discusses the maintainability of revision petitions against orders granting leave to defend.
+    * Bal Krishan vs Jugal Kishore being CR No. 10/2015, decided on 27.03.2019 -  Concerns revision petitions against orders granting leave to defend in suits under Order XXXVII.
+    * Netrapal Singh vs Ravinder Kumar Kalyani 2019 SCC OnLine Del 9622
+    * Versatile Commotrade Pvt. Ltd. vs Maniram Sh. Munni Ram Through LRs & Ors. 2019 SCC OnLine Del 9003
+* **Legal Doctrines:**
+    * Interpretation of Statutes - The court analyzed the intent behind the Commercial Courts Act and its provisions.
+    *  Interlocutory Order - The court determined whether the order granting leave to defend falls under the definition of an interlocutory order.
+
+## 4. Arguments Presented
+
+* **Plaintiff’s Argument:**
+    * The order granting unconditional leave to defend is not an interlocutory order, as it definitively decides the right of the Defendant to defend the suit.
+    * Revision petitions are maintainable against orders granting leave to defend in summary suits under Order XXXVII CPC, as evidenced by several precedents of the Delhi High Court.
+* **Defendant’s Argument:**
+    * The order granting leave to defend is an interlocutory order, and therefore the Revision Petition is barred under Section 8 of the Commercial Courts Act.
+    *  The Supreme Court's judgment in Shah Babulal Khimji establishes that an order granting leave to defend is an interlocutory order.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The Commercial Courts Act aims to provide a streamlined and expedited process for commercial disputes, with the bar on revision petitions against interlocutory orders being a key component.
+    * The Supreme Court's decision in Shah Babulal Khimji establishes that an order granting leave to defend in a summary suit under Order XXXVII CPC is an interlocutory order.
+* **Interpretation of Law:**
+    *  The court interpreted Section 8 of the Commercial Courts Act as a bar on revision petitions against interlocutory orders, regardless of the nature of the order. 
+    * The court adopted the Supreme Court's definition of "interlocutory order" as laid down in Shah Babulal Khimji.
+* **Application of Law:**
+    * The court applied the definition of "interlocutory order" to the case and concluded that the order granting leave to defend was an interlocutory order.
+    * The court applied the bar on revision petitions under Section 8 of the Commercial Courts Act, concluding that the Revision Petition was not maintainable.
+
+## 6. Judgment
+
+* **Final Decision:**  The Revision Petition was dismissed.
+* **Relief Granted:**  None. 
+* **Orders:** The Plaintiff was given liberty to pursue other available legal remedies.
+
+## 7. Implications
+
+* **Impact on Law:** 
+    * This judgment reaffirms the bar on revision petitions against interlocutory orders under Section 8 of the Commercial Courts Act, 2015. 
+    * It reinforces the application of the Supreme Court's interpretation of "interlocutory order" in the context of summary suits under Order XXXVII CPC.
+* **Future Relevance:**
+    * This judgment will guide future decisions regarding the maintainability of revision petitions against interlocutory orders in commercial cases before the Delhi High Court.
+* **Broader Context:** 
+    * This case highlights the importance of interpreting statutes within the context of their underlying purpose, which in this case is the expedited resolution of commercial disputes.
+
+## 8. Summary Points
+
+* The Delhi High Court upheld the bar on revision petitions against interlocutory orders of a Commercial Court under Section 8 of the Commercial Courts Act.
+* The court found that the order granting leave to defend, even though it appeared to definitively decide the Defendant's right to defend, was still an interlocutory order.
+* The judgment emphasizes the importance of following established precedent, especially those of the Supreme Court.
+
+## 9. References
+
+* **Citations:**
+    * Section 115 of the Code of Civil Procedure, 1908 (CPC)
+    * Section 8 of the Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015
+    * Order XXXVII CPC
+    * Shah Babulal Khimji vs. Jayaben D. Kania & Ors. (1981) 4 SCC 8
+    * State of Gujarat vs Union of India, being R/Special Civil Application No. 737 of 2018, decided on 07.05.2018 
+    * Spicejet Ltd. vs. Arun Kumar (2017) SCC OnLine Del 12712
+    * Bal Krishan vs Jugal Kishore being CR No. 10/2015, decided on 27.03.2019
+    * Netrapal Singh vs Ravinder Kumar Kalyani 2019 SCC OnLine Del 9622
+    * Versatile Commotrade Pvt. Ltd. vs Maniram Sh. Munni Ram Through LRs & Ors. 2019 SCC OnLine Del 9003
+* **Further Reading:**
+    *  Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015
+    *  Code of Civil Procedure, 1908
+    *  Shah Babulal Khimji vs. Jayaben D. Kania & Ors. (1981) 4 SCC 8 (for detailed discussion on "interlocutory order") 

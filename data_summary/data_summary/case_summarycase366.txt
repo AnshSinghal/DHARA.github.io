@@ -1,0 +1,86 @@
+## Case Title:
+
+* **Case Name:** Reliance Telecom Ltd vs. ATC Telecom Infrastructure Pvt Ltd
+* **Court:** Delhi High Court
+* **Date of Judgment:** February 12, 2019
+* **Citation:** EFA(OS)(COMM) 4/2019 & 5/2019
+
+## Background and Context:
+
+* **Brief Overview:**  Reliance Telecom Ltd. (Appellant) appealed against two orders made during enforcement proceedings initiated by ATC Telecom Infrastructure Pvt Ltd. (Respondent) who was the decree holder. These orders were related to enforcing an arbitral award in favor of ATC Telecom.
+* **Key Issues:** The main issue was whether the Delhi High Court had jurisdiction to hear the appeal against the orders passed by a Single Judge during enforcement proceedings, considering the provisions of the Commercial Courts Act, 2015, and the Arbitration and Conciliation Act, 1996.
+
+## Legal Principles Involved:
+
+* **Relevant Statutes and Provisions:**
+    * **Commercial Courts Act, 2015:** Specifically, sections 8, 11, 13, and 21.
+    * **Arbitration and Conciliation Act, 1996:** Section 36 dealing with enforcement of arbitral awards.
+    * **Code of Civil Procedure, 1908:** Order XLIII Rule 1, specifically sub-rule (q).
+* **Precedents Cited:**
+    * **Kandla Export Corporation & Anr. vs. M/s. OCI Corporation & Anr., (2018) 14 SCC 715:** This case established the limited jurisdiction of Commercial Courts and Appellate Divisions.
+    * **Fuerst Day Lawson Limited vs. Jindal Exports Limited, (2011) 8 SCC 333:** A case dealing with appeals against foreign awards.
+    * **Ganga Bai v Vijay Kumar, (1974) 2 SCC 393:** This case highlighted the statutory nature of the right to appeal.
+* **Legal Doctrines:**
+    * **Jurisdictional Bar:** This principle refers to limitations imposed on courts' powers to hear certain cases.
+    * **Statutory Interpretation:** The court interprets the language and intent of legislation to understand its meaning and application.
+    * **Ubi Jus Ibi Remedium:** This principle states that where there is a right, there is a remedy. However, this principle is not absolute and does not guarantee an appeal in every case.
+
+## Arguments Presented:
+
+* **Appellant's Argument:**
+    * The Appellant argued that they had a right to appeal the Single Judge's orders under Section 36 of the Arbitration Act and that the Commercial Courts Act did not bar their right to appeal.
+    * They contended that the provisions of the Code of Civil Procedure (CPC) were applicable in enforcement proceedings and, therefore, they could appeal under Order XLIII Rule 1 (q) of the CPC.
+    * They emphasized the principle of "Ubi Jus Ibi Remedium" to argue that no litigant should be deprived of a remedy.
+* **Respondent's Argument:**
+    * The Respondent argued that the appeals were not maintainable as per the provisions of the Commercial Courts Act, 2015.
+    * They cited the case of Kandla Export Corporation (supra), which established the limited jurisdiction of Commercial Courts and Appellate Divisions.
+    * They pointed out that the Commercial Courts Act specifically barred appeals against interlocutory orders except those specifically enumerated under Order XLIII of the CPC and Section 37 of the Arbitration Act.
+    * They argued that Order XLIII Rule 1 (q) applied to suits and not enforcement proceedings under the Arbitration Act.
+
+## Court's Analysis and Reasoning:
+
+* **Key Findings:**
+    * The court found that the appeals were not maintainable under the Commercial Courts Act, 2015, and the Arbitration and Conciliation Act, 1996.
+    * The court emphasized the limited jurisdiction of Commercial Appellate Divisions and the Parliamentary intent to limit their jurisdiction.
+    * The court rejected the Appellant's argument that the provisions of the Code of Civil Procedure applied in enforcement proceedings under the Arbitration Act.
+* **Interpretation of Law:**
+    * The court interpreted Sections 8, 11, 13, and 21 of the Commercial Courts Act to establish the limited jurisdiction of Commercial Courts and Appellate Divisions.
+    * The court interpreted Section 36 of the Arbitration Act to conclude that it refers to the Code of Civil Procedure for enforcing arbitral awards but does not grant a right to appeal against interlocutory orders.
+    * The court interpreted Order XLIII Rule 1 (q) of the CPC to apply specifically to suits and not to enforcement proceedings under the Arbitration Act.
+* **Application of Law:**
+    * The court applied the principle of statutory interpretation to understand the legislative intent behind the Commercial Courts Act and the Arbitration Act.
+    * The court applied the principle of jurisdictional bar to conclude that the appeals were not maintainable in the Delhi High Court.
+    * The court dismissed the Appellant's argument regarding "Ubi Jus Ibi Remedium" stating that the right to appeal is a statutory right and not an inherent right.
+
+## Judgment:
+
+* **Final Decision:** The appeals were dismissed as not maintainable.
+* **Relief Granted:** No relief was granted to the Appellant.
+* **Orders:** The court directed the Appellant to raise any arguments on the merits before the Single Judge who was handling the enforcement proceedings.
+
+## Implications:
+
+* **Impact on Law:** This judgment further clarifies the limited jurisdiction of Commercial Appellate Divisions and restricts the scope of appeals against interlocutory orders in enforcement proceedings under the Arbitration Act.
+* **Future Relevance:** This judgment will likely be cited in future cases dealing with appeals against enforcement orders under the Arbitration Act and the Commercial Courts Act, 2015.
+* **Broader Context:** The judgment highlights the increasing need for clarity and consistency in the Indian legal system, particularly regarding the jurisdiction of appellate courts.
+
+## Summary Points:
+
+* The Delhi High Court dismissed the appeals filed by Reliance Telecom Ltd. against orders made in enforcement proceedings initiated by ATC Telecom Infrastructure Pvt Ltd. 
+* The court held that the appeals were not maintainable under the Commercial Courts Act, 2015, and the Arbitration and Conciliation Act, 1996.
+* The judgment emphasizes the limited jurisdiction of Commercial Appellate Divisions and restricts the scope of appeals against interlocutory orders in enforcement proceedings under the Arbitration Act.
+
+## References:
+
+* **Commercial Courts Act, 2015**
+* **Arbitration and Conciliation Act, 1996**
+* **Code of Civil Procedure, 1908**
+* **Kandla Export Corporation & Anr. vs. M/s. OCI Corporation & Anr., (2018) 14 SCC 715**
+* **Fuerst Day Lawson Limited vs. Jindal Exports Limited, (2011) 8 SCC 333**
+* **Ganga Bai v Vijay Kumar, (1974) 2 SCC 393**
+
+## Further Reading:
+
+* **Commercial Courts Act, 2015**
+* **Arbitration and Conciliation Act, 1996**
+* **Articles and commentaries on the Commercial Courts Act, 2015 and the Arbitration and Conciliation Act, 1996** 

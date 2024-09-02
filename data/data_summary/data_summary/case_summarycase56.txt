@@ -1,0 +1,111 @@
+## Case Title
+
+* **Case Name:** Bharat Heavy Electricals Limited vs. Electricity Generation Incorporation & Ors.
+* **Court:** Delhi High Court
+* **Date of Judgment:** 19th September, 2017
+* **Citation:** AIR 2018 DELHI 38
+
+## Background and Context
+
+* **Brief Overview:** Bharat Heavy Electricals Limited (BHEL), a public sector undertaking, sued Electricity Generation Incorporation (EGI) for wrongfully terminating a contract for the rehabilitation of the Keban Hydroelectric Power Plant in Turkey.  EGI invoked a Performance Bank Guarantee (issued by AKBank) backed by a Counter Guarantee from Bank of Baroda (BoB). BHEL sought a declaration that the invocation of the guarantees was fraudulent and an injunction against payment.
+* **Key Issues:** 
+    * **Territorial Jurisdiction:**  Did the Delhi High Court have jurisdiction to hear the case, considering the Counter Guarantee specified London as the place of jurisdiction?
+    * **Fraudulent Invocation:** Did EGI fraudulently invoke the Performance Bank Guarantee by terminating the contract without justification? 
+
+## Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * **Code of Civil Procedure (CPC)** -  Order VII Rule 10 and 11, Order XXXIX Rule 1 and 2, Order XXXIX Rule 4, Order VI Rule 17
+    * **Contract Act** - Section 23, Section 28
+* **Precedents Cited:**
+    * **Nagindas Ramdas vs. Dalpatram Ichharam @ Brijram & Ors.** (1974 (1) SCC 242) - Admissions as best proof of facts.
+    * **ITC Limited vs. Debt Recovery Appellate Tribunal & Ors.** (1998 (2) SCC 70) - Admissions as best proof of facts.
+    * **South East Asia Shipping Co. Ltd. vs. Nav Bharat Enterprises Pvt. Ltd. & Ors.** (1996 (3) SCC 443) - Territorial jurisdiction and bank guarantees.
+    * **Hellenic Electricity Distribution Network Operator vs. Bharat Heavy Electricals Limited** (2016 SCC OnLine Del 2485) - Territorial jurisdiction and bank guarantees.
+    * **Modi Entertainment Network & Anr. vs. WSG Cricket PTE Ltd.** (2003 (4) SCC 341) - Anti-suit injunctions.
+    * **Owners of Cargo lately Laden on Board the Ship or Vessel Eleftheria vs. The Eleftheria (Owners)** (1969 (2) Weekly Law Reports 1073) - Strong and compelling reasons for not staying proceedings.
+    * **National Highways Authority of India vs. Ganga Enterprises** (2003 (7) SCC 410) - Bank guarantees as independent contracts.
+    * **A.B.C. Laminart Pvt. Ltd. & Anr. vs. A.P. Agencies, Salem** (1989 (2) SCC 163) - Construction of ouster clauses.
+    * **Swastik Gases Pvt. Ltd. vs. Indian Oil Corporation Ltd.** (2013 (9) SCC 32) - Interpretation of jurisdiction clauses.
+    * **Hindustan Steel Works Construction Ltd. vs. Tarapore & Co.** (AIR 1996 SC 2268) - Exceptions to the rule against interfering with bank guarantee enforcement.
+    * **U.P. State Sugar Corporation vs. Sumac International Ltd.** (1997 (1) SCC 568) - Exceptions to the rule against interfering with bank guarantee enforcement.
+* **Legal Doctrines:**
+    * **Cause of Action:** The bundle of facts giving rise to a legal claim.
+    * **Bank Guarantee as an Independent Contract:** Bank guarantees are separate from the underlying contract and must be honored unless fraud or irretrievable injustice is proven.
+    * **Ouster Clause:** A clause in a contract that excludes the jurisdiction of certain courts.
+    * **Expressio unius est exclusio alterius:**  The expression of one thing excludes another.
+    * **Strong and Compelling Reasons:**  Exceptional circumstances that might justify a court's refusal to stay proceedings.
+
+## Arguments Presented
+
+* **Plaintiff’s Argument (BHEL):**
+    * BHEL argued that the contract termination was unjustified and that EGI fraudulently invoked the guarantees to avoid its contractual obligations.
+    * BHEL asserted that the Delhi High Court had jurisdiction because the Counter Guarantee was issued in Delhi and because there was a separate "omnibus agreement" between BHEL and BoB, though no evidence was provided for this agreement.
+    * BHEL argued that the jurisdiction clause in the Counter Guarantee did not explicitly exclude all other courts.
+    * BHEL argued that equity demanded the court intervene due to the fraud and injustice of EGI's actions.
+    * BHEL claimed that proceeding in London would be inconvenient and time-consuming.
+    * BHEL argued that the defendants could not be sued or a decree enforced against them in Ankara or London, making the Delhi High Court the only practical forum.
+* **Defendant’s Argument (AKBank and BoB):**
+    * AKBank and BoB argued that the Delhi High Court lacked territorial jurisdiction because the Counter Guarantee specifically designated the Commercial Court in London as the exclusive forum.
+    * AKBank and BoB pointed out BHEL's admission in the plaint regarding London's jurisdiction and argued that they could not be subjected to the jurisdiction of the Delhi High Court.
+    * AKBank and BoB claimed that the main contract between BHEL and EGI stipulated Ankara Courts as the forum for dispute resolution. 
+    * AKBank and BoB argued that the issuance of the Counter Guarantee in Delhi was insufficient to establish jurisdiction.
+    * AKBank and BoB argued that even if the Delhi High Court had some jurisdiction, the exclusive clause in the Counter Guarantee should be respected.
+    * AKBank and BoB argued that BHEL's claim of paucity of time was not a valid justification for seeking jurisdiction in Delhi. 
+
+## Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The court acknowledged the principle that bank guarantees are independent contracts.
+    * The court found that the ouster clause in the Counter Guarantee, despite not using the word "only," clearly designated the Commercial Court in London as the exclusive forum.
+    * The court rejected BHEL's argument about an "omnibus agreement" due to lack of evidence.
+    * The court concluded that the issuance of the Counter Guarantee in Delhi was not sufficient to establish jurisdiction.
+    * The court rejected BHEL's claim of "strong and compelling reasons" to override the jurisdiction clause because the claim was based on a lack of time, which was not a recognized exception.
+* **Interpretation of Law:**
+    * The court interpreted the Counter Guarantee's jurisdiction clause in accordance with the precedent set in **A.B.C. Laminart** and **Swastik Gases**, finding that the clear intent was to vest exclusive jurisdiction in London.
+    * The court relied on the **Hindustan Steel** and **U.P. State Sugar** decisions to emphasize the limited exceptions to the general rule of honoring bank guarantees. 
+* **Application of Law:**
+    * The court applied the principle of **expressio unius est exclusio alterius**, finding that the specification of London as the forum implicitly excluded other courts.
+    * The court applied the precedent set in **South East Asia** and **Hellenic Electricity**, holding that issuance of a bank guarantee within a specific jurisdiction does not automatically establish jurisdiction for disputes related to that guarantee. 
+
+## Judgment
+
+* **Final Decision:**  The court held that the Delhi High Court lacked territorial jurisdiction to hear the case due to the exclusive jurisdiction clause in the Counter Guarantee.
+* **Relief Granted:** None.
+* **Orders:** 
+    * The plaint was returned to be filed in the Commercial Court in London.
+    * The existing interim order in favor of BHEL was extended for 45 days to allow BHEL to file the suit in the appropriate court.
+
+## Implications
+
+* **Impact on Law:** This case reinforces the principle that parties can contractually agree to vest exclusive jurisdiction in a specific court, even if that court is located outside the country.  It further highlights the importance of clearly drafted ouster clauses.
+* **Future Relevance:** This case serves as a precedent for future disputes concerning bank guarantees and jurisdiction clauses.  Parties should be mindful of drafting clear and unambiguous ouster clauses if they wish to specify a particular forum for disputes.
+* **Broader Context:** The case demonstrates the challenges that can arise in international commercial disputes, where the parties may be subject to different legal systems and jurisdictions. 
+
+## Summary Points
+
+* **Key Takeaways:**
+    *  Bank guarantees are independent contracts and must be honored unless fraud or irretrievable injustice is proven.
+    * Clear ouster clauses in bank guarantees are binding and will be respected by courts.
+    *  Jurisdiction in bank guarantee disputes is determined based on the terms of the guarantee, not the underlying contract.
+    * Paucity of time is not a valid reason to override a contractual jurisdiction clause. 
+
+## References
+
+* **Citations:** 
+    * AIR 2018 DELHI 38
+    * 1974 (1) SCC 242
+    * 1998 (2) SCC 70
+    * 1996 (3) SCC 443
+    * 2016 SCC OnLine Del 2485
+    * 2003 (4) SCC 341
+    * 1969 (2) Weekly Law Reports 1073
+    * 2003 (7) SCC 410
+    * 1989 (2) SCC 163
+    * 2013 (9) SCC 32
+    * AIR 1996 SC 2268
+    * 1997 (1) SCC 568
+* **Further Reading:**
+    * **The Indian Contract Act, 1872**
+    * **The Code of Civil Procedure, 1908**
+    * **Other cases on bank guarantees and jurisdiction** 

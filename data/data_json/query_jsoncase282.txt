@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A construction company entered into a contract with a government agency for the construction of a public school. The contract stipulated a fixed price for the project. After the completion of the project, the construction company claimed additional payments for unforeseen expenses incurred due to changes in the original design specifications. The government agency refused to pay the additional amount, arguing that the changes were within the scope of the original contract. The dispute has been referred to arbitration.",
+    "Legal Principles": "Contract interpretation, breach of contract, force majeure, unforeseen circumstances, arbitration, scope of contract, variation orders, quantum meruit",
+    "Relevant Sections": "Section 2(1)(c)4 of the Arbitration and Conciliation Act, 1996 (defining arbitral award), Section 17 (interim measures), Section 32 (termination of proceedings), Section 33 (correction and interpretation of award), Section 34 (application for setting aside arbitral award)",
+    "Context": "Commercial arbitration in India, construction contracts, government contracts"
+  },
+  {
+    "Query": "A software company developed a custom software application for a large corporation. The software failed to meet the agreed upon performance standards and the corporation refused to make the final payment. The software company claims that the failure was due to the corporation's inadequate specifications and testing during the development phase. The dispute is being arbitrated.",
+    "Legal Principles": "Contract interpretation, breach of contract, warranty, fitness for purpose, software development contracts, intellectual property, negligence, causation",
+    "Relevant Sections": "Section 2(1)(c)4 of the Arbitration and Conciliation Act, 1996 (defining arbitral award), Section 17 (interim measures), Section 32 (termination of proceedings), Section 33 (correction and interpretation of award), Section 34 (application for setting aside arbitral award)",
+    "Context": "Commercial arbitration in India, software development contracts, intellectual property disputes"
+  },
+  {
+    "Query": "A manufacturing company entered into a supply agreement with a distributor. The distributor failed to meet its sales targets and the manufacturing company terminated the agreement. The distributor claims that the termination was wrongful and that the manufacturing company failed to provide adequate marketing support. The dispute has been referred to arbitration.",
+    "Legal Principles": "Contract interpretation, breach of contract, termination of contract, frustration of contract, implied terms, good faith, duty to mitigate loss, damages, arbitration",
+    "Relevant Sections": "Section 2(1)(c)4 of the Arbitration and Conciliation Act, 1996 (defining arbitral award), Section 17 (interim measures), Section 32 (termination of proceedings), Section 33 (correction and interpretation of award), Section 34 (application for setting aside arbitral award)",
+    "Context": "Commercial arbitration in India, distribution agreements, termination of commercial contracts, sales and marketing agreements"
+  },
+  {
+    "Query": "A joint venture between two companies for the development of a new product failed. One of the companies alleges that the other company breached the agreement by failing to contribute its share of resources and expertise. The dispute is being arbitrated.",
+    "Legal Principles": "Contract interpretation, breach of contract, joint venture agreements, fiduciary duty, good faith, dissolution of joint ventures, contribution agreements, damages",
+    "Relevant Sections": "Section 2(1)(c)4 of the Arbitration and Conciliation Act, 1996 (defining arbitral award), Section 17 (interim measures), Section 32 (termination of proceedings), Section 33 (correction and interpretation of award), Section 34 (application for setting aside arbitral award)",
+    "Context": "Commercial arbitration in India, joint ventures, business partnerships, dissolution of business agreements"
+  },
+  {
+    "Query": "A property developer entered into a contract with a homeowner to build a new house. The developer failed to complete the project within the agreed upon timeline and the homeowner incurred significant financial losses due to delays. The homeowner seeks to terminate the contract and recover damages. The dispute is being arbitrated.",
+    "Legal Principles": "Contract interpretation, breach of contract, time of performance, liquidated damages, substantial performance, termination of contract, construction contracts, damages",
+    "Relevant Sections": "Section 2(1)(c)4 of the Arbitration and Conciliation Act, 1996 (defining arbitral award), Section 17 (interim measures), Section 32 (termination of proceedings), Section 33 (correction and interpretation of award), Section 34 (application for setting aside arbitral award)",
+    "Context": "Commercial arbitration in India, construction contracts, residential construction, breach of contract"
+  },
+  {
+    "Query": "A company leased office space from a landlord. The company failed to pay rent for several months and the landlord terminated the lease. The company claims that the termination was wrongful and that the landlord failed to provide adequate notice. The dispute is being arbitrated.",
+    "Legal Principles": "Contract interpretation, breach of contract, lease agreements, termination of lease, notice, rent arrears, damages, eviction",
+    "Relevant Sections": "Section 2(1)(c)4 of the Arbitration and Conciliation Act, 1996 (defining arbitral award), Section 17 (interim measures), Section 32 (termination of proceedings), Section 33 (correction and interpretation of award), Section 34 (application for setting aside arbitral award)",
+    "Context": "Commercial arbitration in India, lease agreements, commercial property, landlord-tenant disputes"
+  },
+  {
+    "Query": "A supplier failed to deliver goods to a buyer as per the agreed upon schedule. The buyer incurred significant financial losses due to the delay and sought to terminate the contract. The supplier claims that the delay was caused by unforeseen circumstances. The dispute has been referred to arbitration.",
+    "Legal Principles": "Contract interpretation, breach of contract, delivery of goods, time of performance, force majeure, frustration of contract, termination of contract, damages",
+    "Relevant Sections": "Section 2(1)(c)4 of the Arbitration and Conciliation Act, 1996 (defining arbitral award), Section 17 (interim measures), Section 32 (termination of proceedings), Section 33 (correction and interpretation of award), Section 34 (application for setting aside arbitral award)",
+    "Context": "Commercial arbitration in India, supply agreements, sales of goods, breach of contract, delay in performance"
+  },
+  {
+    "Query": "Two companies entered into an agreement for the sale and purchase of shares in a company. The buyer later refused to complete the transaction claiming that the seller had failed to disclose certain material information about the company's financial performance. The seller claims that the buyer is in breach of contract. The dispute has been referred to arbitration.",
+    "Legal Principles": "Contract interpretation, breach of contract, misrepresentation, disclosure of material information, sale of shares, share purchase agreements, damages, specific performance",
+    "Relevant Sections": "Section 2(1)(c)4 of the Arbitration and Conciliation Act, 1996 (defining arbitral award), Section 17 (interim measures), Section 32 (termination of proceedings), Section 33 (correction and interpretation of award), Section 34 (application for setting aside arbitral award)",
+    "Context": "Commercial arbitration in India, share purchase agreements, M&A transactions, misrepresentation and disclosure"
+  },
+  {
+    "Query": "A company engaged a consultant to provide services for a specific project. The consultant failed to deliver the agreed upon services within the agreed upon timeframe and the company incurred additional costs. The company seeks to recover damages from the consultant. The dispute is being arbitrated.",
+    "Legal Principles": "Contract interpretation, breach of contract, service agreements, professional negligence, damages, time of performance, liquidated damages",
+    "Relevant Sections": "Section 2(1)(c)4 of the Arbitration and Conciliation Act, 1996 (defining arbitral award), Section 17 (interim measures), Section 32 (termination of proceedings), Section 33 (correction and interpretation of award), Section 34 (application for setting aside arbitral award)",
+    "Context": "Commercial arbitration in India, service agreements, professional services, breach of contract, negligence"
+  },
+  {
+    "Query": "A company entered into a franchise agreement with a franchisor. The franchisor failed to provide adequate training and support to the franchisee, which resulted in the franchisee's business failing. The franchisee seeks to terminate the agreement and recover damages. The dispute is being arbitrated.",
+    "Legal Principles": "Contract interpretation, breach of contract, franchise agreements, implied terms, good faith, termination of franchise agreement, damages, intellectual property",
+    "Relevant Sections": "Section 2(1)(c)4 of the Arbitration and Conciliation Act, 1996 (defining arbitral award), Section 17 (interim measures), Section 32 (termination of proceedings), Section 33 (correction and interpretation of award), Section 34 (application for setting aside arbitral award)",
+    "Context": "Commercial arbitration in India, franchise agreements, business agreements, termination of commercial contracts"
+  }
+]
+```

@@ -1,0 +1,79 @@
+## 1. Case Title
+
+•	**Case Name:** Hemant Verma vs. M/S Daina Techno Solutions Pvt. Ltd.
+•	**Court:** Delhi High Court
+•	**Date of Judgment:** 2nd August 2022
+•	**Citation:**  (Not explicitly provided in the text)
+
+## 2. Background and Context
+
+•	**Brief Overview:** The case involved a dispute between Hemant Verma (petitioner) and M/S Daina Techno Solutions Pvt. Ltd. (respondent) arising from a suit filed by the respondent against the petitioner for recovery of ₹ 98,18,100/-. The petitioner was the defendant in the original suit. 
+•	**Key Issues:** The main legal question presented was whether the petitioner's written statement, filed beyond the 120-day statutory deadline prescribed by Order VIII Rule 11 of the Code of Civil Procedure (CPC), should be considered valid and taken on record in light of the Supreme Court's orders extending limitations due to the COVID-19 pandemic.
+
+## 3. Legal Principles Involved
+
+•	**Relevant Statutes and Provisions:**
+    * Article 227 of the Constitution of India:  This article empowers the High Courts to issue writs for enforcement of fundamental rights and for other purposes.
+    * Order VIII Rule 11 of the Code of Civil Procedure, 1908 (CPC): This rule sets out the procedure for filing a written statement by the defendant in a suit, including the timelines and consequences for late filing. 
+    * Order VIII Rule 1 of the CPC: This rule deals with the condonable period for filing a written statement beyond the prescribed time.
+    * Order V Rule 1 of the CPC: This rule outlines the process for issuing summons to the defendant.
+    * Order VIII Rule 10 of the CPC: This rule deals with the consequences of a party failing to present a written statement.
+•	**Precedents Cited:**
+    * **Prakash Corporates v. Dee Vee Projects Ltd** (2022) 5 SCC 112: This Supreme Court judgment dealt with the impact of COVID-19-related extensions on limitation periods, specifically for filing written statements.
+    * **SCG Contracts (India) (P) Ltd v K.S. Chamankar Infrastructure (P) Ltd** (2019) 12 SCC 210: A pre-COVID case dealing with the mandatory nature of statutory timelines in court proceedings.
+    * **Sagufa Ahmed v. Upper Assam Plywood Products (P) Ltd** (2021) 2 SCC 317: A case addressing the limitation period for filing appeals and the scope of COVID-19-related extensions.
+    * **HT Media Ltd v. Brainlink International, Inc.** (2021 SCC OnLine Del 5398): A Delhi High Court decision, later dismissed by the Supreme Court, concerning the application of COVID-19-related extensions to a case where the defendant exhibited a recalcitrant attitude. 
+•	**Legal Doctrines:**
+    * **Doctrine of Limitation:** This doctrine sets time limits for initiating legal proceedings. 
+    * **Doctrine of Stare Decisis:** This doctrine mandates lower courts to follow the rulings of higher courts (like the Supreme Court).
+
+## 4. Arguments Presented
+
+•	**Petitioner’s Argument:** The petitioner argued that the written statement filed beyond the 120-day deadline was valid due to the Supreme Court's orders extending limitation periods during the COVID-19 pandemic (specifically the orders passed in Re: Cognizance for Extension of Limitation). They relied heavily on the Prakash Corporates case, which held that the periods excluded by the Supreme Court's orders resulted in an enlargement of time, making any filing within that enlarged period valid.
+•	**Respondent’s Argument:** The respondent countered by relying on the Delhi High Court's decision in HT Media Ltd, which, despite being dismissed by the Supreme Court, held that the benefits of COVID-19-related extensions were not applicable when the defendant exhibited recalcitrant conduct. They argued that the petitioner's conduct demonstrated this recalcitrance, justifying the refusal to accept the late written statement. 
+
+## 5. Court’s Analysis and Reasoning
+
+•	**Key Findings:**
+    * The Delhi High Court judge explicitly found that the case was concluded by the Prakash Corporates judgment, which clearly stated that the Supreme Court's orders in Re: Cognizance for Extension of Limitation effectively extended the time for filing pleadings, rendering any filing before the extended deadline valid. 
+    * The court rejected the argument that the dismissal of the SLP against the HT Media case constituted a departure from the principles established in Prakash Corporates. 
+    * The court emphasized that the Supreme Court's dismissal of the SLP in HT Media was based on the specific facts and circumstances of that case, particularly the defendant's conduct, and did not change the broader legal principles established in Prakash Corporates.
+    * The court criticized the learned Commercial Court's application of the Prakash Corporates decision, noting that it only referenced specific paragraphs and seemed to have missed the overall reasoning and implications of the judgment. 
+•	**Interpretation of Law:** The court interpreted the Supreme Court's orders in Re: Cognizance for Extension of Limitation as extending the time for filing pleadings and proceedings, effectively enlarging the limitation period. This interpretation was based on the Prakash Corporates decision, which explicitly held that the excluded period (due to the pandemic) resulted in an extension of time.
+•	**Application of Law:** The court applied the legal principles established in Prakash Corporates to the facts of the case. It held that the petitioner's written statement, filed before the extended deadline established by the Supreme Court's orders, was not belated, despite exceeding the original 120-day deadline prescribed by the CPC. The court rejected the argument that the petitioner's conduct warranted a different approach, finding that the dismissal of the SLP in HT Media did not alter the legal principles established in Prakash Corporates.
+
+## 6. Judgment
+
+•	**Final Decision:** The Delhi High Court granted the petition, quashing the order of the learned Commercial Court and allowing the petitioner's application under Order VIII Rule 1 of the CPC.
+•	**Relief Granted:** The court allowed the petitioner's written statement and counterclaim to be taken on record. 
+•	**Orders:** The court set aside the order of the learned Commercial Court dated 8th June 2022.
+
+## 7. Implications
+
+•	**Impact on Law:** This judgment reinforces the legal principles established in Prakash Corporates, solidifying the impact of the Supreme Court's orders extending limitations due to COVID-19 on legal proceedings, particularly in relation to filing deadlines. 
+•	**Future Relevance:** This case provides guidance for future cases dealing with the application of COVID-19-related extensions and helps clarify the scope of the Supreme Court's orders in Re: Cognizance for Extension of Limitation, particularly regarding the filing of pleadings and written statements. 
+•	**Broader Context:** The case highlights the importance of considering the context of extraordinary circumstances like pandemics when applying legal principles and deadlines in court proceedings. It emphasizes the need for a pragmatic approach that balances procedural requirements with the need for justice and fairness. 
+
+## 8. Summary Points
+
+•	The Delhi High Court upheld the Supreme Court's ruling in Prakash Corporates, finding that COVID-19-related extensions effectively enlarged the time for filing pleadings.
+•	The court rejected the argument that the dismissal of the SLP in HT Media case created an exception to the principles established in Prakash Corporates. 
+•	The court emphasized that the dismissal in HT Media was based on the specific facts of that case, particularly the defendant's conduct, and did not alter the broader legal principles. 
+•	The court took a pragmatic approach, considering the impact of the pandemic and prioritizing fairness and justice in applying legal principles and deadlines. 
+
+## 9. References
+
+•	**Citations:** 
+    * **Prakash Corporates v. Dee Vee Projects Ltd** (2022) 5 SCC 112
+    * **SCG Contracts (India) (P) Ltd v K.S. Chamankar Infrastructure (P) Ltd** (2019) 12 SCC 210
+    * **Sagufa Ahmed v. Upper Assam Plywood Products (P) Ltd** (2021) 2 SCC 317
+    * **HT Media Ltd v. Brainlink International, Inc.** (2021 SCC OnLine Del 5398)
+    * **Re: Cognizance for Extension of Limitation** (Supreme Court Orders, various dates, particularly 10th January 2022)
+    * **Article 227 of the Constitution of India** 
+    * **Order VIII Rule 11 of the Code of Civil Procedure, 1908 (CPC)**
+    * **Order VIII Rule 1 of the CPC**
+    * **Order V Rule 1 of the CPC**
+    * **Order VIII Rule 10 of the CPC** 
+•	**Further Reading:** 
+    *  Related cases dealing with the application of COVID-19-related extensions and the impact on limitation periods in various legal proceedings. 
+    *  Legal commentary and analysis of the Supreme Court's orders in Re: Cognizance for Extension of Limitation and their impact on Indian law. 

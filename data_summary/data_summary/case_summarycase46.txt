@@ -1,0 +1,105 @@
+## 1. Case Title
+
+* **Case Name:** Kamal Sharma & Ors. vs M/S Blue Coast Infrastructure Development Pvt. Ltd. & Ors. 
+* **Court:** Delhi High Court
+* **Date of Judgment:** 1st April 2016
+* **Citation:**  CS(OS) 176/2015 (Delhi High Court)
+
+## 2. Background and Context
+
+* **Brief Overview:** The plaintiffs in this case sought amendment to their plaint to re-value the suit for the purpose of court fees and jurisdiction. This was necessitated due to the increase in the pecuniary jurisdiction of the Delhi High Court by the Delhi High Court (Amendment) Act, 2015.  
+* **Key Issues:** The key issue was whether the Delhi High Court retained jurisdiction to entertain the amendment application after the Commercial Courts Act, 2015, and the consequential order by the Chief Justice of the Delhi High Court transferred some commercial disputes to subordinate courts.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * The Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015 (Commercial Courts Act)
+    * The Code of Civil Procedure, 1908 (CPC)
+    * The Delhi High Court (Amendment) Act, 2015
+    * The Arbitration & Conciliation Act, 1996
+* **Precedents Cited:**
+    * Guiness World Records Limited and Ors. Vs. Sababbi Mangal and Ors., MANU/DE/0397/2016 (Delhi High Court)
+    * Sanofi Aventis Vs. Intas Pharmaceuticals Limited & Others, CS(OS) No.2590/2008 (Delhi High Court)
+    * Lakha Ram Sharma Vs. Balar Marketing Pvt. Ltd, (2008) 17 SCC 671 (Supreme Court)
+    * Mount Mary Enterprises Vs. M/s Jivratna Medi Treat Pvt. Ltd., (2015) 4 SCC 182 (Supreme Court)
+    * Mahesh Gupta Vs. Ranjit Singh & Others, AIR 2010 Delhi 4 (Delhi High Court)
+    * Anil Goel Vs. Sardari Lal, 75 (1998) DLT 641 (Delhi High Court)
+    * Lok Kalyan Samiti Vs. Jagdish Prakash Saini & Others, 1995 (33) DRJ 290 (Delhi High Court)
+    * Ms. Sadhna Sharma & Others Vs. Premlata Gautam & Others, MANU/DE/2937/2005 (Delhi High Court)
+    * Metal Box India Ltd. & Anr. Vs. T.K. Sehgal & Sons (HUF) & Ors., C.S.(O.S.) No.2313/2011 (Delhi High Court)
+* **Legal Doctrines:**
+    * **Jurisdiction:** The court's power to hear and decide a case.
+    * **Pecuniary Jurisdiction:** The court's jurisdiction based on the value of the subject matter in dispute.
+    * **Amendment of Pleadings:** The process of correcting or modifying the content of legal documents.
+    * **Inherent Jurisdiction:** The court's inherent power to act to ensure justice.
+
+## 4. Arguments Presented
+
+* **Plaintiff’s Argument:**
+    * The plaintiffs argued that the suit was originally filed in the Delhi High Court, and they had the right to choose the forum. 
+    * They argued that the change in pecuniary jurisdiction shouldn't force them to file the case in the subordinate court.
+    * They asserted that the Delhi High Court could still deal with the amendment application even after the transfer order by the Chief Justice.
+    * They relied on the Supreme Court judgments in Lakha Ram Sharma and Mount Mary Enterprises to support their claim.
+    * They argued that transferring the case to the subordinate court for a mere valuation amendment would cause undue delay and inconvenience, defeating the purpose of the Commercial Courts Act.
+* **Defendant’s Argument:**
+    * The defendants argued that the Delhi High Court had become functus officio (meaning it no longer had jurisdiction) to deal with the amendment application since the suit was transferred to the subordinate court.
+    * They cited several Delhi High Court judgments to support their contention.
+    * They argued that the amendment application should be dealt with by the subordinate court to which the case was transferred.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The court acknowledged that the transfer order by the Chief Justice did not automatically transfer the case. A formal transfer order was still required.
+    * The court found that the Commercial Courts Act did not completely exclude the jurisdiction of the High Court to deal with commercial disputes below the specified value.
+    * The court held that the Delhi High Court had inherent jurisdiction to entertain the amendment application. 
+    * The court emphasized that the procedural rules should not be interpreted so rigidly that they obstruct the administration of justice.
+* **Interpretation of Law:** 
+    * The court interpreted the relevant provisions of the Commercial Courts Act, CPC, and the Delhi High Court (Amendment) Act.
+    * The court considered the precedents cited by both parties and attempted to reconcile conflicting positions.
+* **Application of Law:**
+    * The court applied the principles of jurisdiction, inherent jurisdiction, and amendment of pleadings to the specific facts of the case.
+    * The court found that the amendment sought by the plaintiffs was merely a formal amendment for valuation purposes and would not prejudice the defendants.
+    * The court considered the potential delays and inconvenience that would arise from transferring the case for such a minor amendment.
+
+## 6. Judgment
+
+* **Final Decision:** The court allowed the amendment application. 
+* **Relief Granted:** The plaintiffs were permitted to re-value the suit for the purpose of court fees and jurisdiction. 
+* **Orders:** 
+    * The court ordered the plaintiffs to pay additional court fees within six weeks.
+    * The court ordered the plaintiffs to file the amended plaint within six weeks.
+    * The court stated that no additional written statement was required from the defendants.
+
+## 7. Implications
+
+* **Impact on Law:** The judgment clarified the scope of the High Court's jurisdiction after the enactment of the Commercial Courts Act. It reaffirmed the inherent jurisdiction of the court to act in the interests of justice and prevent undue delays.
+* **Future Relevance:** The case serves as a precedent for future cases involving similar situations where a procedural technicality threatens to obstruct the administration of justice.
+* **Broader Context:** The judgment reinforces the emphasis on efficiency and speedier disposal of commercial disputes in the context of the Commercial Courts Act.
+
+## 8. Summary Points
+
+* The Delhi High Court allowed an amendment application to re-value a suit for the purpose of court fees and jurisdiction even after the Commercial Courts Act transferred certain commercial disputes to subordinate courts.
+* The court held that it had inherent jurisdiction to entertain the amendment application.
+* The court prioritized the efficient administration of justice and prevented unnecessary delays by avoiding the transfer of the case to the subordinate court for a minor amendment.
+* The judgment emphasizes the importance of balancing procedural requirements with the need for achieving substantial justice.
+
+## 9. References
+
+* **Citations:**
+    * The Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015
+    * The Code of Civil Procedure, 1908
+    * The Delhi High Court (Amendment) Act, 2015
+    * The Arbitration & Conciliation Act, 1996
+    * Guiness World Records Limited and Ors. Vs. Sababbi Mangal and Ors., MANU/DE/0397/2016
+    * Sanofi Aventis Vs. Intas Pharmaceuticals Limited & Others, CS(OS) No.2590/2008
+    * Lakha Ram Sharma Vs. Balar Marketing Pvt. Ltd, (2008) 17 SCC 671
+    * Mount Mary Enterprises Vs. M/s Jivratna Medi Treat Pvt. Ltd., (2015) 4 SCC 182
+    * Mahesh Gupta Vs. Ranjit Singh & Others, AIR 2010 Delhi 4
+    * Anil Goel Vs. Sardari Lal, 75 (1998) DLT 641
+    * Lok Kalyan Samiti Vs. Jagdish Prakash Saini & Others, 1995 (33) DRJ 290
+    * Ms. Sadhna Sharma & Others Vs. Premlata Gautam & Others, MANU/DE/2937/2005
+    * Metal Box India Ltd. & Anr. Vs. T.K. Sehgal & Sons (HUF) & Ors., C.S.(O.S.) No.2313/2011
+* **Further Reading:**
+    *  The Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015
+    *  The Code of Civil Procedure, 1908
+    *  Relevant judgments of the Supreme Court and the Delhi High Court on the issue of jurisdiction and amendment of pleadings. 

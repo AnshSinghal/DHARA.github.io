@@ -1,0 +1,119 @@
+## 1. Case Title
+
+* **Case Name:** M/s. India Power Corporation Ltd. vs. SBICAP Trustee Company Ltd. & Ors.
+* **Court:** Calcutta High Court (Appellate Side), Commercial Division
+* **Date of Judgment:** 16 May, 2023
+* **Citation:**  F.M.A 1370 of 2022, IA NO. CAN 1 of 2022
+
+## 2. Background and Context
+
+* **Brief Overview:** India Power Corporation Ltd. (IPCL) acquired a majority stake in Meenakshi Energy Pvt. Ltd. (MEL), a coal-based power project company, from a French company, NG Global Development (BW). This acquisition came with the condition that IPCL assume all of MEL's liabilities, including debts to lenders like State Bank of India (SBI). IPCL provided a corporate guarantee to secure these debts, but later claimed this guarantee was invalid due to a violation of the West Bengal Electricity Regulatory Commission (Licensing and Condition of License) Regulation, 2013.  MEL subsequently defaulted on its loans, leading to the lenders invoking the guarantee and taking steps to recover their debts, including initiating insolvency proceedings against MEL. 
+* **Key Issues:**
+    * Whether IPCL's corporate guarantee was valid, given its alleged violation of the West Bengal Electricity Regulatory Commission (Licensing and Condition of License) Regulation, 2013.
+    * Whether the Court could issue an injunction to prevent the lenders from pursuing insolvency proceedings against MEL.
+    * Whether IPCL's prior actions, including its representation in the guarantee and affidavit, constituted a bar to its claim.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * **Indian Contract Act, 1872:** Section 23 (Contracts void against public policy)
+    * **Code of Civil Procedure, 1908:** Order 7 Rule 11 (Rejection of plaint), Order 23 Rule 1 (Withdrawal of suit), Section 104 (Appeals from orders), Order 43 (Appeals from decrees)
+    * **Specific Relief Act, 1877:** Section 41(b) (Refusal of injunction to restrain proceedings in other courts)
+    * **Insolvency and Bankruptcy Code, 2016:** Section 7 (Application for initiation of CIRP), Section 14 (Moratorium)
+    * **West Bengal Electricity Regulatory Commission (Licensing and Condition of License) Regulation, 2013:** Regulation 5.13.2 (Prior consent for loans and guarantees)
+
+* **Precedents Cited:**
+    * **PTC India Financial Services Ltd. Vs. Venkateswarlu Kari & Anr., (2022) SCC Online SC 608:**  This Supreme Court case held that resumption of shares into a demat account upon invocation of a pledge contract does not constitute a transfer.
+    * **Mannalal Khetan vs. Kedar Nath Khetan, AIR 1977 SC 536:**  This judgment established that contracts expressly or impliedly forbidden by statute are unenforceable.
+    * **Agricultural Produce Marketing Committee, Bangalore vs. State of Karnataka &Ors. (Civil Appeal nos. 1345-1346 of 2022 decided on 22.3.2022):** This judgment highlighted the need for protective orders in cases where fraud is alleged. 
+    * **PSL Ltd., 2018 SCC Online Bombay 36:** This Bombay High Court case held that a lower court cannot issue an injunction restraining a party from pursuing proceedings before the National Company Law Tribunal (NCLT). 
+    * **Forech (India) Ltd. Vs. Edelweiss Assets Reconstruction Co. Ltd., (2019) 18 SCC 549:** This Supreme Court judgment reaffirmed the principle that a lower court cannot restrain proceedings before the NCLT.
+    * **BOI Finance Ltd. Vs. Custodian & Ors.:** This Supreme Court judgment held that non-compliance with a statutory provision attracting prosecution or penalty does not necessarily invalidate a contract with a third party. 
+    * **Bacchaj Nahar vs. Nilima Mandal & Anr., (2008) 17 SCC 491:** This judgment emphasized the importance of pleadings in defining the issues in a case and preventing the parties from shifting their grounds during the trial.
+    * **State of Jharkand & Ors. Vs. Brahmputra Metallics Ltd., (2022) 7 SCC 323:** This judgment highlighted the doctrine of promissory estoppel and its application to remedy injustice in cases where a party has relied on a promise.
+    * **Bhagwandas Auto Finance Ltd. & Ors. Vs. Citicorp Finance (India) Ltd., AIR 2009 CAL 231:** This Calcutta High Court judgment clarified that a lower court cannot issue an injunction to restrain proceedings in a non-subordinate court.
+    * **Invent Asset Securitisation and Reconstruction Pvt. Ltd. vs GirnarFibres Ltd., 2022 SCC Online SC 808:** This Supreme Court case clarified that proceedings before the NCLT are not merely for money recovery, but encompass a broader scope. 
+    * **Ballavh vs. Madanlal AIR 1970 SC 987:** This judgment held that a fresh suit may be barred if it concerns the same cause of action and relief as a previously withdrawn suit.
+
+* **Legal Doctrines:**
+    * **Promissory Estoppel:** The principle that a party may be barred from going back on a promise if another party has relied on it.
+    * **Privity of Contract:** The principle that a contract creates obligations only between the parties to the contract.
+    * **Void Contracts:** Contracts that are unenforceable due to a violation of a statute or public policy.
+    * **Injunctions:** Court orders prohibiting a party from taking certain actions.
+
+## 4. Arguments Presented
+
+* **Plaintiff’s Argument (IPCL):**
+    * The corporate guarantee was void ab initio because it violated Regulation 5.13.2 of the West Bengal Electricity Regulatory Commission (Licensing and Condition of License) Regulation, 2013, which required prior consent for loans and guarantees beyond the company's core activities.
+    * IPCL was coerced into issuing the guarantee and the lenders had fraudulently obtained it.
+    * The lenders' actions were causing irreparable harm to IPCL, especially because of the moratorium imposed by the Insolvency and Bankruptcy Code, 2016, which could prevent IPCL from defending itself in the insolvency proceedings.
+    * The Court should issue a temporary injunction to prevent the lenders from pursuing insolvency proceedings against MEL, as these proceedings would prejudice IPCL's claims.
+* **Defendant’s Argument (SBICAP Trustee Company Ltd. & Ors.):**
+    * The corporate guarantee was not void, as it covered non-regulated assets, which were not subject to the Regulation 5.13.2.
+    * IPCL was aware of the regulatory requirements and had explicitly acknowledged in the guarantee and affidavit that it was not required to obtain consent for non-regulated assets.
+    * IPCL had previously filed a similar suit in Hyderabad, which it withdrew without seeking leave to file a fresh suit, thus barring it from pursuing the current claim.
+    * The Court could not issue an injunction to prevent the lenders from pursuing insolvency proceedings against MEL, as the NCLT was not subordinate to the Civil Court.
+    * IPCL's claims of coercion, fraud, and irreparable harm were not substantiated.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The Court found that the Regulation 5.13.2 did not render all guarantees issued by a distribution licensee void ab initio. The regulation required prior consent for loans and guarantees beyond the licensee's core activities, but did not automatically invalidate such agreements.
+    * The Court acknowledged that IPCL had specifically represented in its affidavit and the corporate guarantee that it was not required to obtain consent for non-regulated assets.
+    * The Court found that IPCL's prior actions, including its representation in the guarantee and affidavit, along with the withdrawn suit in Hyderabad, raised a significant question about its ability to now claim the guarantee was invalid.
+    * The Court held that the Court could not issue an injunction to restrain the lenders from pursuing insolvency proceedings against MEL under the Insolvency and Bankruptcy Code, 2016, as the NCLT was not subordinate to the Civil Court. 
+
+* **Interpretation of Law:**
+    * The Court interpreted the West Bengal Electricity Regulatory Commission (Licensing and Condition of License) Regulation, 2013, as not automatically invalidating all guarantees issued by a distribution licensee, but rather requiring prior consent for guarantees beyond the licensee's core activities.
+    * The Court applied the principle of promissory estoppel, recognizing that IPCL could be bound by its representations in the guarantee and affidavit, especially given the lenders' reliance on those representations.
+    * The Court cited Section 41(b) of the Specific Relief Act, 1877, which prohibited the granting of injunctions against proceedings in non-subordinate courts, to uphold the NCLT's jurisdiction over insolvency matters.
+
+* **Application of Law:**
+    * The Court applied the law to the specific facts of the case, considering IPCL's actions, representations, and prior litigation, as well as the nature of the guarantee, to determine whether the guarantee was valid.
+    * The Court also applied the relevant principles regarding injunctions to determine whether it could restrain the lenders from pursuing insolvency proceedings against MEL.
+
+## 6. Judgment
+
+* **Final Decision:** The Calcutta High Court dismissed IPCL's appeal and upheld the Commercial Court's order rejecting the application for temporary injunction.
+* **Relief Granted:** No relief was granted to IPCL.
+* **Orders:** The Court directed that the injunction application before the Commercial Court should be disposed of at the earliest.
+
+## 7. Implications
+
+* **Impact on Law:** The judgment emphasizes the importance of parties adhering to their representations and acknowledging the relevant statutory requirements when entering into commercial agreements. It also reinforces the NCLT's jurisdiction over insolvency proceedings and limits the power of lower courts to issue injunctions against proceedings in non-subordinate courts.
+* **Future Relevance:** This case may be relevant for future cases involving guarantees issued by regulated companies, particularly in situations where the parties have made representations about compliance with regulatory requirements. It also serves as a reminder of the limited scope of injunctions in relation to insolvency proceedings.
+* **Broader Context:** The case highlights the complexities of enforcing commercial contracts, particularly when they involve regulatory constraints. It also demonstrates the need for clear and unambiguous representations to avoid later disputes.
+
+## 8. Summary Points
+
+* IPCL's corporate guarantee was not found to be automatically void based on a violation of the West Bengal Electricity Regulatory Commission (Licensing and Condition of License) Regulation, 2013.
+* IPCL's prior actions, including representations in the guarantee and affidavit, and withdrawal of a similar suit, raised significant questions about its current claims. 
+* The Court upheld the NCLT's jurisdiction over insolvency proceedings and refused to issue an injunction against the lenders' actions.
+* The judgment underscores the importance of adherence to representations, regulatory compliance, and the limitations on injunctions against proceedings in non-subordinate courts.
+
+## 9. References
+
+* **Statutes and Regulations:**
+    * Indian Contract Act, 1872
+    * Code of Civil Procedure, 1908
+    * Specific Relief Act, 1877
+    * Insolvency and Bankruptcy Code, 2016
+    * West Bengal Electricity Regulatory Commission (Licensing and Condition of License) Regulation, 2013
+* **Cases:**
+    * PTC India Financial Services Ltd. Vs. Venkateswarlu Kari & Anr., (2022) SCC Online SC 608
+    * Mannalal Khetan vs. Kedar Nath Khetan, AIR 1977 SC 536
+    * Agricultural Produce Marketing Committee, Bangalore vs. State of Karnataka &Ors. (Civil Appeal nos. 1345-1346 of 2022 decided on 22.3.2022)
+    * PSL Ltd., 2018 SCC Online Bombay 36
+    * Forech (India) Ltd. Vs. Edelweiss Assets Reconstruction Co. Ltd., (2019) 18 SCC 549
+    * BOI Finance Ltd. Vs. Custodian & Ors.
+    * Bacchaj Nahar vs. Nilima Mandal & Anr., (2008) 17 SCC 491
+    * State of Jharkand & Ors. Vs. Brahmputra Metallics Ltd., (2022) 7 SCC 323
+    * Bhagwandas Auto Finance Ltd. & Ors. Vs. Citicorp Finance (India) Ltd., AIR 2009 CAL 231
+    * Invent Asset Securitisation and Reconstruction Pvt. Ltd. vs GirnarFibres Ltd., 2022 SCC Online SC 808
+    * Ballavh vs. Madanlal AIR 1970 SC 987
+
+* **Further Reading:**
+    * The Insolvency and Bankruptcy Code, 2016
+    * The Specific Relief Act, 1877
+    * West Bengal Electricity Regulatory Commission (Licensing and Condition of License) Regulation, 2013
+    * Legal articles and commentaries on promissory estoppel, void contracts, and injunctions. 

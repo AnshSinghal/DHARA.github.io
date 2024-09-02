@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A defendant in a commercial suit failed to file a written statement within the 120-day period stipulated by the Commercial Courts Act. They now seek condonation of delay, arguing that the Bombay High Court (Original Side) Rules allow for such extensions. Can the court grant condonation of delay in this case?",
+    "Legal Principles": "The Commercial Courts Act introduces mandatory timelines for filing written statements in commercial suits, with a 120-day limit. The Bombay High Court (Original Side) Rules generally govern procedure in the High Court's original jurisdiction. The principle of harmonious construction requires interpreting statutes to avoid conflict, with later special laws taking precedence over earlier general laws. The 'dura lex sed lex' principle emphasizes that courts must apply the law as enacted, even if it leads to harsh results.",
+    "Relevant Sections": "Commercial Courts Act, 2015: Section 16(3), Section 21\nCode of Civil Procedure, 1908: Order V Rule 1, Order VIII Rules 1, 9, 10\nBombay High Court (Original Side) Rules, 1980: Rule 265",
+    "Context": "Commercial suit before the Bombay High Court's Commercial Division, concerning the applicability of the Commercial Courts Act and the Bombay High Court (Original Side) Rules in granting condonation of delay for filing a written statement."
+  },
+  {
+    "Query": "A plaintiff in a commercial suit failed to disclose all documents in their possession, control, or custody along with the plaint as required by the Commercial Courts Act. Can the court reject the plaint under Order VII, Rule 11(d) of the CPC as 'barred by any law'?",
+    "Legal Principles": "The Commercial Courts Act mandates disclosure of all documents in a plaintiff's possession, control, or custody along with the plaint. Order VII, Rule 11(d) of the CPC allows for rejection of a plaint that is 'barred by any law.' The specific consequences for non-disclosure of documents are outlined in Order XI of the CPC, which provides for remedies such as non-reliance on undisclosed documents unless reasonable cause is shown.",
+    "Relevant Sections": "Commercial Courts Act, 2015: Order XI Rule 1\nCode of Civil Procedure, 1908: Order VII Rule 11(d), Order XI",
+    "Context": "Commercial suit before the Bombay High Court's Commercial Division, concerning the applicability of Order VII, Rule 11(d) of the CPC in rejecting a plaint for non-disclosure of documents as required by the Commercial Courts Act."
+  },
+  {
+    "Query": "A defendant in a commercial suit filed an application seeking extension of time to file a written statement beyond the 120-day limit set by the Commercial Courts Act. They argue that they were ill and unable to prepare their defense. Can the court grant an extension of time based on this argument?",
+    "Legal Principles": "The Commercial Courts Act establishes a strict 120-day limit for filing written statements in commercial suits, with no provision for automatic extensions. Courts can consider exceptional circumstances for granting extensions, but these must be genuinely exceptional and supported by evidence. Considerations of equity cannot override clear statutory provisions.",
+    "Relevant Sections": "Commercial Courts Act, 2015: Order V Rule 1, Order VIII Rules 1, 9, 10",
+    "Context": "Commercial suit before the Bombay High Court's Commercial Division, concerning the court's power to grant an extension of time for filing a written statement beyond the 120-day limit under the Commercial Courts Act."
+  },
+  {
+    "Query": "A plaintiff filed a commercial suit in the Bombay High Court's Commercial Division but failed to remove office objections within a reasonable timeframe, causing delays in the issuance of summons. Can the court dismiss the suit due to the plaintiff's inaction?",
+    "Legal Principles": "The Commercial Courts Act aims for expeditious disposal of commercial suits.  While the Act doesn't explicitly state a timeline for removing office objections, its underlying principle of efficiency suggests that plaintiffs should act promptly. The court may consider dismissing suits where plaintiffs demonstrably delay the process without justification.",
+    "Relevant Sections": "Commercial Courts Act, 2015: Section 17, Statement of Objects and Reasons",
+    "Context": "Commercial suit before the Bombay High Court's Commercial Division, concerning the court's power to dismiss a suit due to the plaintiff's failure to remove office objections promptly."
+  },
+  {
+    "Query": "A defendant in a commercial suit seeks to argue that they were unaware of the suit until after the 120-day period for filing a written statement had passed. Can they use this argument to persuade the court to allow them to file a belated written statement?",
+    "Legal Principles": "Ignorance of the law is generally not a valid defense. The Commercial Courts Act imposes a strict 120-day limit for filing written statements in commercial suits, with no provision for automatic extensions.  Courts may consider exceptional circumstances for granting extensions, but these must be genuinely exceptional and supported by evidence.",
+    "Relevant Sections": "Commercial Courts Act, 2015: Order V Rule 1, Order VIII Rules 1, 9, 10",
+    "Context": "Commercial suit before the Bombay High Court's Commercial Division, concerning the applicability of the Commercial Courts Act and the court's power to grant an extension of time for filing a written statement beyond the 120-day limit."
+  },
+  {
+    "Query": "A defendant in a commercial suit argued that they had filed a power of attorney and appeared before the court before receiving the writ of summons. They claim that the 120-day period for filing a written statement should commence from the date of their appearance rather than the date of service of summons. Is this argument valid?",
+    "Legal Principles": "The Commercial Courts Act mandates that the 120-day period for filing written statements in commercial suits starts from the date of service of summons, regardless of whether the defendant has previously entered an appearance. Courts are bound to follow statutory provisions and cannot create exceptions based on procedural nuances.",
+    "Relevant Sections": "Commercial Courts Act, 2015: Order V Rule 1, Order VIII Rules 1, 9, 10",
+    "Context": "Commercial suit before the Bombay High Court's Commercial Division, concerning the interpretation of the Commercial Courts Act regarding the commencement of the 120-day period for filing a written statement."
+  },
+  {
+    "Query": "A commercial suit was initially filed as a non-commercial suit but was subsequently transferred to the Commercial Division of the Bombay High Court. The defendant argues that the 120-day limit for filing a written statement should be counted from the date of the original suit filing, not the date of transfer to the Commercial Division. Is this argument tenable?",
+    "Legal Principles": "The Commercial Courts Act applies to commercial suits regardless of their original classification. When a suit is transferred to the Commercial Division, the provisions of the Commercial Courts Act apply prospectively, including the 120-day limit for filing written statements. This ensures consistency in the application of the law to commercial suits.",
+    "Relevant Sections": "Commercial Courts Act, 2015: Section 16",
+    "Context": "Commercial suit before the Bombay High Court's Commercial Division, concerning the application of the Commercial Courts Act to suits transferred from non-commercial divisions to commercial divisions."
+  },
+  {
+    "Query": "A defendant in a commercial suit argued that the court should exercise its inherent power under Section 151 of the CPC to condone the delay in filing a written statement beyond the 120-day limit set by the Commercial Courts Act, as strict adherence to the time limit would lead to a miscarriage of justice. Can the court rely on Section 151 to override the provisions of the Commercial Courts Act?",
+    "Legal Principles": "Section 151 of the CPC grants inherent powers to courts to prevent abuse of process and ensure the ends of justice. However, these powers cannot be used to override clear statutory provisions, such as the mandatory 120-day limit for filing written statements in commercial suits under the Commercial Courts Act.",
+    "Relevant Sections": "Commercial Courts Act, 2015: Order V Rule 1, Order VIII Rules 1, 9, 10\nCode of Civil Procedure, 1908: Section 151",
+    "Context": "Commercial suit before the Bombay High Court's Commercial Division, concerning the court's power to use Section 151 of the CPC to override the provisions of the Commercial Courts Act."
+  },
+  {
+    "Query": "A plaintiff in a commercial suit seeks to rely on a document that was not disclosed along with the plaint as required by the Commercial Courts Act. Can the court allow the plaintiff to rely on this document without establishing reasonable cause for non-disclosure?",
+    "Legal Principles": "The Commercial Courts Act mandates disclosure of all documents in a plaintiff's possession, control, or custody along with the plaint. Plaintiffs cannot rely on undisclosed documents without establishing reasonable cause for non-disclosure. Courts have discretion to allow reliance on such documents but will generally require justification.",
+    "Relevant Sections": "Commercial Courts Act, 2015: Order XI Rule 1",
+    "Context": "Commercial suit before the Bombay High Court's Commercial Division, concerning the applicability of Order XI Rule 1 of the CPC regarding the reliance on undisclosed documents in commercial suits."
+  },
+  {
+    "Query": "A defendant in a commercial suit filed a written statement after the 120-day limit but the plaintiff, despite being aware of the delay, agreed to accept the written statement without objecting. Can the court still reject the written statement due to the delay?",
+    "Legal Principles": "Courts cannot be vested with jurisdiction by consent. While parties may agree to waive procedural rules, they cannot confer jurisdiction on a court that is statutorily barred from exercising it. The Commercial Courts Act explicitly bars courts from accepting written statements filed beyond the 120-day limit, and this cannot be overridden by consent.",
+    "Relevant Sections": "Commercial Courts Act, 2015: Order V Rule 1, Order VIII Rules 1, 9, 10",
+    "Context": "Commercial suit before the Bombay High Court's Commercial Division, concerning the applicability of the Commercial Courts Act and the court's power to accept a belated written statement even with the plaintiff's consent."
+  }
+]
+```

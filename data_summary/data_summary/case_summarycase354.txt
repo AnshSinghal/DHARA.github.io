@@ -1,0 +1,77 @@
+## 1. Case Title
+
+* **Case Name:** Uttam Energy Ltd. vs. M/s. Shivratna Udyog Ltd.
+* **Court:** Bombay High Court
+* **Date of Judgment:** 27 July 2022
+* **Citation:**  ARBITRATION PETITION NO. 79 OF 2022 (Bombay High Court)
+
+## 2. Background and Context
+
+* **Brief Overview:** Uttam Energy Ltd. (Petitioner) filed an arbitration petition against M/s. Shivratna Udyog Ltd. (Respondent) seeking appointment of an arbitral tribunal to resolve disputes arising from two agreements dated June 30, 2012. These agreements pertained to the design, procurement, manufacture, supply, and supervision of erection and commissioning of a boiler for a 12.5 MW power generation project. 
+* **Key Issues:** The central issue was whether the Bombay High Court had jurisdiction to appoint an arbitral tribunal under Section 11 of the Arbitration and Conciliation Act, 1996 (ACA), considering the subsequent enactment of the Commercial Courts Act, 2015.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * Section 11 of the Arbitration and Conciliation Act, 1996 (ACA) - Deals with the appointment of arbitrators.
+    * Section 10 of the Commercial Courts Act, 2015 -  Outlines jurisdiction in respect of arbitration matters.
+    * Section 2(b), Section 3(1), and Section 6 of the Commercial Courts Act, 2015 - Defines "Commercial Court" and its jurisdiction.
+* **Precedents Cited:**
+    * Duro Felguera, S.A. vs. Gangavaram Port Ltd., (2017) 9 SCC 729
+    * M/s. Mayavati Trading Pvt. Ltd. vs. Pradyuat Deb Burman, (2019) 8 SCC 714
+* **Legal Doctrines:**
+    * The principle of statutory interpretation, including the interpretation of "all applications or appeals arising out of such arbitration" under Section 10(3) of the Commercial Courts Act.
+    * The principle of "judicial power" as outlined in Section 11(6-B) of the ACA.
+
+## 4. Arguments Presented
+
+* **Petitioner's Argument:**  
+    * The petitioner argued that the High Court has exclusive jurisdiction under Section 11 of the ACA to appoint an arbitral tribunal.
+    * The petitioner maintained that Section 10(3) of the Commercial Courts Act does not divest the High Court's jurisdiction in appointing arbitrators under Section 11 of the ACA.
+* **Respondent's Argument:**
+    * The respondent contended that based on Section 10(3) of the Commercial Courts Act, the designated Commercial Court (either in Pune or Akluj) had jurisdiction to appoint an arbitrator.
+    * The respondent further argued that the Commercial Court should be considered a "person or institution" designated by the High Court for the purpose of exercising powers under Section 11 of the ACA.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:** 
+    * The Court analyzed the specific provisions of Section 11 of the ACA and concluded that the High Court has inherent jurisdiction to appoint arbitrators.
+    * The Court emphasized that Section 10(3) of the Commercial Courts Act only deals with applications and appeals "arising out of" arbitration, not with the initial appointment of the arbitral tribunal.
+    * The Court rejected the argument that the Commercial Court could be considered a "person or institution" designated by the High Court under Section 11, as the Commercial Court exercises judicial power.
+* **Interpretation of Law:** The Court interpreted Section 10(3) of the Commercial Courts Act narrowly, focusing on its application to appeals and applications arising after the arbitration process is initiated, not to the appointment of arbitrators itself.
+* **Application of Law:** The Court applied the law to the specific facts of the case, concluding that the petition seeking the appointment of an arbitral tribunal falls under Section 11 of the ACA and therefore, the High Court has jurisdiction to decide the matter.
+
+## 6. Judgment
+
+* **Final Decision:** The petition was allowed.
+* **Relief Granted:** The Bombay High Court appointed Mr. Anurag M. Jain, Advocate, as the sole arbitrator to adjudicate the disputes.
+* **Orders:** The Court issued various orders, including:
+    * The arbitrator must disclose his qualifications and any potential conflicts of interest before proceeding.
+    * All contentions of the parties, including those regarding stamp duty, were kept open.
+    * The parties were ordered to appear before the arbitral tribunal within 15 days.
+    * The arbitrator was directed to resolve the disputes expeditiously.
+    * The fees payable to the arbitrator were to be split equally between the parties.
+
+## 7. Implications
+
+* **Impact on Law:** The judgment clarifies the scope of Section 10(3) of the Commercial Courts Act, confirming that it does not supersede the High Court's power to appoint arbitrators under Section 11 of the ACA.
+* **Future Relevance:** This judgment serves as a precedent for future cases involving similar jurisdictional disputes under the Commercial Courts Act and the ACA.
+* **Broader Context:** The case highlights the need for clear and unambiguous legal provisions to avoid jurisdictional conflicts between different courts.
+
+## 8. Summary Points
+
+* The Bombay High Court upheld its jurisdiction to appoint arbitrators under Section 11 of the ACA, despite the enactment of the Commercial Courts Act, 2015.
+* The Court clarified that Section 10(3) of the Commercial Courts Act does not apply to the appointment of arbitrators.
+* The case reinforces the importance of clear statutory provisions to avoid conflicting jurisdictional interpretations.
+
+## 9. References
+
+* **Citations:** 
+    * Arbitration and Conciliation Act, 1996 (26 of 1996)
+    * Commercial Courts Act, 2015
+    * Duro Felguera, S.A. vs. Gangavaram Port Ltd., (2017) 9 SCC 729
+    * M/s. Mayavati Trading Pvt. Ltd. vs. Pradyuat Deb Burman, (2019) 8 SCC 714
+* **Further Reading:** 
+    * The Arbitration and Conciliation Act, 1996
+    * The Commercial Courts Act, 2015
+    * Case Law related to Section 11 of the ACA and Section 10 of the Commercial Courts Act. 

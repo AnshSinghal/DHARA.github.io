@@ -1,0 +1,123 @@
+## 1. Case Title
+
+* **Case Name:** OCI Corporation vs. Kandla Export Corporation & 2
+* **Court:** Gujarat High Court
+* **Date of Judgment:** 8th August 2017
+* **Citation:**  O/IAAP/2/2017
+
+## 2. Background and Context
+
+* **Brief Overview:** OCI Corporation (Petitioner) and Kandla Export Corporation (Respondent 1) entered into several contracts for the supply of Indian Rapeseed Meal. When Respondent 1 failed to supply the goods as per the contracts, OCI invoked the arbitration clause which stipulated arbitration in London according to GAFTA 125 Rules, governed by English Law.
+* **Key Issues:** 
+    * Whether the GAFTA arbitration awards, upheld by English courts, are enforceable in India under the Arbitration and Conciliation Act, 1996.
+    * Whether the amount of damages awarded in the foreign awards is excessive and shocks the conscience of the Indian court.
+    * Whether the enforcement of the foreign awards would be contrary to the public policy of India.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * **Arbitration and Conciliation Act, 1996:** 
+        * Section 2(1)(f) - Definition of "international commercial arbitration".
+        * Section 47 - Evidence required for enforcement of a foreign award.
+        * Section 48 - Conditions for enforcement of foreign awards.
+        * Section 49 - Deemed decree of foreign award.
+    * **Commercial Courts, Commercial Division and Commercial Appellate Division of the High Courts Act, 2015:** Section 15(5).
+    * **UK Sale of Goods Act, 1979:** Section 51 (measure of damages for non-delivery).
+    * **Indian Contract Act, 1872:** Section 73 (measure of damages). 
+* **Precedents Cited:** 
+    * **Shri Lal Mahal Ltd. vs. Progetto Grano SPA (2014) 2 SCC 433** - On public policy and enforcement of foreign awards.
+    * **M/S. Fuerst Day Lawson Ltd vs. Jindal Exports Ltd. (2001) 6 SCC 356** - On the procedure for enforcing foreign awards.
+    * **Renusagar Power Co. Ltd. vs. General Electric Co. (AIR 1994 SC 860)** - On the concept of "public policy" in enforcement of foreign awards.
+    * **Associate Builders vs. Delhi Development Authority (2015) 3 SCC 49** - On the scope of "fundamental policy of Indian law" in setting aside awards.
+    * **ONGC v. Saw Pipes (2003) 5 SCC 705** - On the jurisdiction of courts in setting aside awards.
+    * **Messrs. Torjan & Company Vs. RM.N.N. Nagappa Chettiar (AIR 1953 SC 235)** - On the principle of avoiding unjust enrichment in contract cases.
+    * **DCM Decometal Gmbh v. Rohit Ferro Tech Ltd. (AIR 1962 SC 366)** - On the measure of damages for breach of contract.
+    * **Union of India & Ors. v. Sugauli Sugar Works Pvt. Ltd. (1976) 3 SCC 32** - On the rule of market price in awarding damages.
+    * **Cruz City Mauritius Holdings v. Unitech Ltd. (2017) SCC Online Del. 7810** - On the interpretation of "fundamental policy of Indian law" in enforcement of foreign awards.
+    * **Centrotrade Minerals & Metal Inc. v. Hindustan Copper Ltd. (2017) 2 SCC 228** - On the need for evidence in awarding damages.
+    * **Maula Bux v. Union of India (1969) 2 SCC 554** - On the necessity of evidence in determining damages.
+    * **Fateh Chand v. Balkishan Dass (AIR 1963 SC 1405)** - On the need for evidence in determining damages.
+    * **Gherulal Parekh v. Mahadeodas Maiya (AIR 1959 SC 781)** - On the concept of "public policy" in Indian law.
+    * **Murlidhar Agarwal vs. State of UP (1974 2 SCC 472)** - On the concept of "public policy" in Indian law.
+    * **Central Inlald Water vs. Brojo Nath Ganguly (1986 (2) SCC 156)** - On the concept of "public policy" in Indian law.
+    * **Hadley Vs. Baxendale (156 Eng. Rep. 145)** - On the measure of damages for breach of contract.
+* **Legal Doctrines:**
+    * **Public Policy:** The court considered the doctrine of public policy as it applies to the enforcement of foreign awards, specifically in the context of Indian law.
+    * **Unjust Enrichment:** The court examined the principle of unjust enrichment as it relates to awarding damages for breach of contract.
+    * **Contractual Interpretation:** The court considered the interpretation of the contract's arbitration clause and the application of English law.
+
+## 4. Arguments Presented
+
+* **Petitioner’s Argument:**
+    * The GAFTA awards are enforceable in India under the Arbitration and Conciliation Act, 1996, as they have attained finality in England.
+    * The Indian court should not review the merits of the awards, including the quantum of damages, as the parties agreed to be governed by English law, and the awards were upheld by English courts.
+    * The award does not violate the fundamental policy of Indian law, morality, or justice, and therefore should be deemed a decree of the Indian court.
+* **Respondent’s Argument:** 
+    * The awards are not enforceable in India because they are contrary to public policy, morality, and justice.
+    * The damages awarded are excessive and result in unjust enrichment for the petitioner, exceeding actual losses.
+    * The award violates the principles of Indian contract law, particularly Section 73 of the Indian Contract Act, which prohibits profiteering from breach of contract.
+    * The High Court of Justice Queen's Division Commercial Court did not fully confirm the awards, but only refused to overturn them on the grounds that they were not "obviously wrong."
+    * The award is punitive in nature and shocks the conscience of the Indian court.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The court found that the GAFTA awards had attained finality in England. 
+    * The court acknowledged the limited scope of inquiry under Section 48 of the Arbitration and Conciliation Act, 1996, which does not allow a review of the merits of the dispute in the enforcement stage.
+    * The court found that the parties had agreed to be governed by English law, and the GAFTA awards were based on the provisions of the UK Sale of Goods Act.
+* **Interpretation of Law:**
+    * The court interpreted "public policy" in the context of foreign awards narrowly, as established in the Supreme Court's decisions in Renusagar Power Co. Ltd. vs. General Electric Co. and Shri Lal Mahal Ltd. vs. Progetto Grano SPA.
+    * The court interpreted the provisions of Section 48 of the Arbitration and Conciliation Act, 1996, to mean that the Indian court cannot review the merits of a foreign award at the enforcement stage. 
+    * The court interpreted Section 73 of the Indian Contract Act, 1872, to be irrelevant in the context of a foreign award governed by English law.
+* **Application of Law:**
+    * The court applied the principles of public policy and unjust enrichment as developed in the Indian legal system.
+    * The court recognized that the parties had chosen English law to govern their contract and the arbitration proceedings, and thus, the Indian court should not interfere with the findings of the English courts. 
+    * The court declined to review the amount of damages awarded, finding that the respondent's objections were based on the merits of the dispute, which are not subject to review under Section 48 of the Act.
+
+## 6. Judgment
+
+* **Final Decision:** The court found in favor of the petitioner and deemed the GAFTA awards to be enforceable in India, effectively making them decrees of the Gujarat High Court.
+* **Relief Granted:** The court ordered the parties to complete pleadings and set a date for further hearing to determine the remaining aspects of the execution process.
+* **Orders:** The court ordered the execution petitions to be listed for further hearing on 11th September 2017.
+
+## 7. Implications
+
+* **Impact on Law:** The judgment reaffirms the principle of finality and enforceability of foreign awards in India, provided they meet the conditions outlined in Section 48 of the Arbitration and Conciliation Act, 1996. 
+* **Future Relevance:** This judgment will likely serve as precedent in future cases involving the enforcement of foreign awards in India, particularly where the parties have agreed to be governed by a foreign legal system. 
+* **Broader Context:** This judgment highlights the increasing importance of international commercial arbitration and the need for efficient and predictable enforcement of foreign awards. It also underscores the importance of careful consideration of the applicable law and the seat of arbitration in international contracts.
+
+## 8. Summary Points
+
+* The Gujarat High Court upheld the enforceability of GAFTA arbitration awards upheld by English courts in India.
+* The court applied a narrow interpretation of the "public policy" exception to enforceability of foreign awards under the Arbitration and Conciliation Act, 1996.
+* The court emphasized that Indian courts cannot review the merits of a foreign award at the enforcement stage, especially when the parties have agreed to be governed by a foreign legal system.
+* The court declined to consider the respondent's arguments regarding the excessiveness of the damages awarded, as they amounted to a review of the merits of the case.
+* The judgment underscores the importance of careful consideration of the applicable law and the seat of arbitration in international contracts.
+
+## 9. References
+
+* **Arbitration and Conciliation Act, 1996**
+* **Commercial Courts, Commercial Division and Commercial Appellate Division of the High Courts Act, 2015**
+* **UK Sale of Goods Act, 1979**
+* **Indian Contract Act, 1872**
+* **Shri Lal Mahal Ltd. vs. Progetto Grano SPA (2014) 2 SCC 433**
+* **M/S. Fuerst Day Lawson Ltd vs. Jindal Exports Ltd. (2001) 6 SCC 356**
+* **Renusagar Power Co. Ltd. vs. General Electric Co. (AIR 1994 SC 860)**
+* **Associate Builders vs. Delhi Development Authority (2015) 3 SCC 49**
+* **ONGC v. Saw Pipes (2003) 5 SCC 705**
+* **Messrs. Torjan & Company Vs. RM.N.N. Nagappa Chettiar (AIR 1953 SC 235)**
+* **DCM Decometal Gmbh v. Rohit Ferro Tech Ltd. (AIR 1962 SC 366)**
+* **Union of India & Ors. v. Sugauli Sugar Works Pvt. Ltd. (1976) 3 SCC 32**
+* **Cruz City Mauritius Holdings v. Unitech Ltd. (2017) SCC Online Del. 7810**
+* **Centrotrade Minerals & Metal Inc. v. Hindustan Copper Ltd. (2017) 2 SCC 228**
+* **Maula Bux v. Union of India (1969) 2 SCC 554**
+* **Fateh Chand v. Balkishan Dass (AIR 1963 SC 1405)**
+* **Gherulal Parekh v. Mahadeodas Maiya (AIR 1959 SC 781)**
+* **Murlidhar Agarwal vs. State of UP (1974 2 SCC 472)**
+* **Central Inlald Water vs. Brojo Nath Ganguly (1986 (2) SCC 156)**
+* **Hadley Vs. Baxendale (156 Eng. Rep. 145)**
+
+* **Further Reading:** 
+    *  "Commercial Arbitration" by Lord Mustill and Stewart C. Boyd QC (2001)
+    * Legal Glossary prepared by Ministry of Law & Company Affairs, 1983 Edition.
+    * "Law Relating to Arbitration and Conciliation" by Dr. P.C. Markanda, 9th edition. 

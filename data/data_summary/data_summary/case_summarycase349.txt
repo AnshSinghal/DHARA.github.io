@@ -1,0 +1,69 @@
+## 1. Case Title
+
+* **Case Name:** M/S. Kamadhenu Enterprises vs. Mrs. Zara Ahmad and 4 Others
+* **Court:** Telangana High Court
+* **Date of Judgment:** 29th July 2022
+* **Citation:** Not provided in the document.
+
+## 2. Background and Context
+
+* **Brief Overview:** M/S. Kamadhenu Enterprises (Appellant), a registered partnership firm, owned a plot of land in Quthbullapur village. They entered into a Development Agreement-cum-General Power of Attorney with Zara Ahmad and others (Respondents), who were in the business of real estate development. The agreement stipulated that the Respondents would develop the land and share the built-up area with the Appellant in a specific ratio. Disputes arose between the parties regarding the completion of the project, payment of rent for delayed completion, and other issues.
+* **Key Issues:** 
+    * Whether the dispute between the parties was a "commercial dispute" within the meaning of the Commercial Courts Act, 2015.
+    * Whether the Civil Court had jurisdiction to hear the application filed under Section 9 of the Arbitration and Conciliation Act, 1996.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:** 
+    * Indian Partnership Act, 1932
+    * Arbitration and Conciliation Act, 1996 (Act, 1996)
+    * Commercial Courts Act, 2015 (Act, 2015)
+* **Precedents Cited:** 
+    * Ambalal Sarabhai Enterprises Limited Vs. K.S. Infraspace LLP and another (2020) 15 SCC 585
+* **Legal Doctrines:** 
+    * Jurisdiction of Courts
+    * Interpretation of Statutes
+    * Application of Law to Facts
+
+## 4. Arguments Presented
+
+* **Appellant’s Argument:** The appellant argued that the dispute was not a commercial dispute as the project was not completed, commercial activity had not commenced, and the property was not put to use. They claimed that the dispute fell within the jurisdiction of the Civil Court. They also argued that the respondents were not fulfilling their obligations under the agreement and sought relief in the form of attachment of the flats and an order for the completion of pending works.
+* **Respondent’s Argument:** The respondents argued that the dispute was a commercial dispute arising out of an agreement relating to immovable property used exclusively in trade or commerce. They further claimed that the Civil Court had no jurisdiction and the matter should be dealt with by the Commercial Court. They denied the appellant's allegations regarding incomplete project and delayed completion.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:** 
+    * The Court found that the subject land was already "put to use" for commercial purposes because the apartments were constructed, some flats were sold and occupied, and the entire development activity ran into crores of rupees.
+    * The 'specified value' of the dispute exceeded one crore, making it a commercial dispute under the Act, 2015.
+* **Interpretation of Law:** The Court interpreted the definition of "commercial dispute" under Section 2(1)(c)(vii) of the Act, 2015, and found that it covered agreements relating to immovable property used exclusively in trade or commerce.
+* **Application of Law:** The Court applied the provisions of Section 10 read with Section 12 of the Act, 2015, which determined the jurisdiction of Commercial Courts in cases involving commercial disputes exceeding one crore.
+
+## 6. Judgment
+
+* **Final Decision:** The Court held that the Arb.O.P.No.5 of 2022 was not maintainable before the Civil Court because the dispute was a commercial dispute and the Commercial Court had exclusive jurisdiction.
+* **Relief Granted:** No relief was granted to the appellant.
+* **Orders:** The Court ordered the appellant to withdraw the Arb.O.P.No.5 of 2022 pending in the Civil Court and advised them to avail appropriate remedy under the Commercial Courts Act, 2015.
+
+## 7. Implications
+
+* **Impact on Law:** The judgment reaffirmed the application of the Commercial Courts Act, 2015, to disputes arising from agreements concerning immovable property used for commercial purposes.
+* **Future Relevance:** The case is relevant for future disputes involving similar agreements concerning immovable property used for commercial purposes, as it emphasizes the exclusive jurisdiction of Commercial Courts in such cases.
+* **Broader Context:** This case highlights the increasing trend of commercial disputes arising from real estate development projects and the need for a specialized legal framework to address these disputes efficiently.
+
+## 8. Summary Points
+
+* The dispute between the parties was a commercial dispute as the property was already put to use for commercial purposes.
+* The Civil Court had no jurisdiction to hear the matter, and the appellant was advised to approach the Commercial Court.
+* The judgment clarified the application of the Commercial Courts Act, 2015, in real estate development disputes.
+
+## 9. References
+
+* **Citations:** 
+    * Indian Partnership Act, 1932
+    * Arbitration and Conciliation Act, 1996 (Act, 1996)
+    * Commercial Courts Act, 2015 (Act, 2015)
+    * Ambalal Sarabhai Enterprises Limited Vs. K.S. Infraspace LLP and another (2020) 15 SCC 585
+* **Further Reading:** 
+    * The Commercial Courts Act, 2015
+    * The Arbitration and Conciliation Act, 1996
+    * Cases related to the interpretation of "commercial dispute" under the Commercial Courts Act, 2015. 

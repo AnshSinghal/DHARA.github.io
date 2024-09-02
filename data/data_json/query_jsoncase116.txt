@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A plaintiff claims trademark infringement against a defendant who has been using a deceptively similar trademark for their business. The defendant argues they were using the trademark before the plaintiff and have documentation to prove it. The court needs to decide whether the defendant's prior use is sufficient to establish a valid defense against the infringement claim.",
+    "Legal Principles": "Prior use of a trademark can be a valid defense against infringement claims. However, the defendant must demonstrate that they were using the trademark in a continuous and substantial manner prior to the plaintiff's use. The court will consider the evidence presented by both parties to determine if the defendant's prior use is sufficient to establish a valid defense.",
+    "Relevant Sections": "Section 28 of the Trade Marks Act, 1999 (India): This section grants exclusive rights to the registered proprietor of a trademark for the use of such mark in relation to the goods or services for which the trademark is registered.",
+    "Context": "Trademark Infringement case in India, District Court, Delhi."
+  },
+  {
+    "Query": "A plaintiff claims trademark infringement against a defendant for using a deceptively similar mark. The defendant argues that the plaintiff's mark is descriptive and therefore not entitled to trademark protection. The court needs to decide whether the plaintiff's mark is descriptive or distinctive.",
+    "Legal Principles": "A descriptive mark is a mark that describes the goods or services it represents. It is not generally eligible for trademark protection unless it has acquired distinctiveness through use. A distinctive mark is a mark that is unique and easily recognizable. It is eligible for trademark protection.",
+    "Relevant Sections": "Section 2(1)(zg) of the Trade Marks Act, 1999 (India): This section defines a 'well-known mark' as a mark that is 'distinctive' in relation to the goods or services for which it is registered.",
+    "Context": "Trademark Infringement case in India, District Court, Delhi."
+  },
+  {
+    "Query": "A plaintiff seeks an injunction against a defendant for using a similar trademark. The defendant argues that the plaintiff failed to serve the defendant with the required documents in accordance with Order 39 Rule 3 of the Code of Civil Procedure (CPC). The court must decide whether the plaintiff's failure to comply with Order 39 Rule 3 necessitates the vacation of the injunction order.",
+    "Legal Principles": "Order 39 Rule 3 of the CPC mandates that a plaintiff must serve certain documents on the defendant before obtaining an injunction. Failure to comply with this rule can be grounds for vacating the injunction order. However, courts may consider factors such as the nature of the non-compliance, the prejudice to the defendant, and the plaintiff's good faith in determining the appropriate course of action.",
+    "Relevant Sections": "Order 39 Rule 3 of the Code of Civil Procedure (CPC): This rule prescribes the procedures for serving documents when seeking an injunction.",
+    "Context": "Injunction application under Order 39 Rule 1 and 2 of the CPC in India, District Court, Delhi."
+  },
+  {
+    "Query": "A plaintiff claims trademark infringement against a defendant for using a similar trademark. The defendant claims that the plaintiff obtained an injunction order ex parte without informing the court about the existence of a caveat filed by the defendant. The court must decide whether the plaintiff's failure to disclose the caveat justifies the vacation of the ex parte injunction order.",
+    "Legal Principles": "A caveat is a notice filed with the court to inform the court of a potential claim. If a plaintiff obtains an injunction order ex parte without disclosing the existence of a caveat filed by the defendant, the defendant may seek to have the order vacated. The court will consider whether the plaintiff's failure to disclose the caveat was intentional or negligent, and whether the defendant suffered any prejudice as a result.",
+    "Relevant Sections": "Section 148A of the Code of Civil Procedure (CPC): This section governs the filing of caveats.",
+    "Context": "Ex parte injunction application under Order 39 Rule 1 and 2 of the CPC in India, District Court, Delhi."
+  },
+  {
+    "Query": "A plaintiff claims trademark infringement against a defendant for using a similar trademark. The plaintiff is the registered owner of the trademark, but the defendant argues that the plaintiff's wife is the actual owner and the plaintiff is not entitled to sue for infringement. The court must decide whether the plaintiff has the legal standing to bring this action.",
+    "Legal Principles": "The registered owner of a trademark is generally the party with the legal right to sue for infringement. However, if the registered owner has assigned their rights to another party, the assignee may have the right to sue. The court will consider the evidence presented by both parties to determine if the plaintiff has the legal standing to sue for infringement.",
+    "Relevant Sections": "Section 28 of the Trade Marks Act, 1999 (India): This section grants exclusive rights to the registered proprietor of a trademark for the use of such mark in relation to the goods or services for which the trademark is registered.",
+    "Context": "Trademark Infringement case in India, District Court, Delhi."
+  },
+  {
+    "Query": "A plaintiff claims trademark infringement against a defendant for using a similar trademark. The defendant argues that the plaintiff obtained the injunction order ex parte without fulfilling the requirements of Order 39 Rule 3 of the CPC. The court must decide whether the plaintiff's non-compliance with Order 39 Rule 3 is a valid reason to vacate the injunction order.",
+    "Legal Principles": "Order 39 Rule 3 of the CPC requires the plaintiff to serve certain documents on the defendant before obtaining an injunction. Failure to comply with this rule can result in the vacation of the injunction order. However, the court will consider the circumstances of the non-compliance, the prejudice caused to the defendant, and the plaintiff's good faith in making the decision.",
+    "Relevant Sections": "Order 39 Rule 3 of the Code of Civil Procedure (CPC): This rule outlines the procedures for serving documents when seeking an injunction.",
+    "Context": "Injunction application under Order 39 Rule 1 and 2 of the CPC in India, District Court, Delhi."
+  },
+  {
+    "Query": "A plaintiff claims trademark infringement against a defendant for using a similar trademark. The defendant argues that the plaintiff's trademark is not distinctive and is merely descriptive. The court must decide whether the plaintiff's trademark has acquired distinctiveness through use.",
+    "Legal Principles": "A descriptive mark is a mark that simply describes the goods or services it represents. It is not generally entitled to trademark protection unless it has acquired distinctiveness through use. A distinctive mark is unique and easily recognizable. It is eligible for trademark protection.",
+    "Relevant Sections": "Section 2(1)(zg) of the Trade Marks Act, 1999 (India): This section defines a 'well-known mark' as a mark that is 'distinctive' in relation to the goods or services for which it is registered.",
+    "Context": "Trademark Infringement case in India, District Court, Delhi."
+  },
+  {
+    "Query": "A plaintiff seeks an injunction against a defendant for using a similar trademark. The defendant argues that the plaintiff did not disclose the existence of a caveat filed by the defendant before obtaining the injunction order ex parte. The court must decide whether the plaintiff's failure to disclose the caveat is a valid reason to vacate the injunction order.",
+    "Legal Principles": "A caveat is a notice filed with the court to inform the court of a potential claim. If a plaintiff obtains an injunction order ex parte without disclosing the existence of a caveat filed by the defendant, the defendant may seek to have the order vacated. The court will consider whether the plaintiff's failure to disclose the caveat was intentional or negligent, and whether the defendant suffered any prejudice as a result.",
+    "Relevant Sections": "Section 148A of the Code of Civil Procedure (CPC): This section governs the filing of caveats.",
+    "Context": "Ex parte injunction application under Order 39 Rule 1 and 2 of the CPC in India, District Court, Delhi."
+  },
+  {
+    "Query": "A plaintiff claims trademark infringement against a defendant for using a similar trademark. The defendant argues that the plaintiff obtained the injunction order ex parte without complying with the requirements of Order 39 Rule 3 of the CPC. The court must decide whether the plaintiff's non-compliance with Order 39 Rule 3 is a valid reason to vacate the injunction order.",
+    "Legal Principles": "Order 39 Rule 3 of the CPC requires the plaintiff to serve certain documents on the defendant before obtaining an injunction. Failure to comply with this rule can result in the vacation of the injunction order. However, the court will consider the circumstances of the non-compliance, the prejudice caused to the defendant, and the plaintiff's good faith in making the decision.",
+    "Relevant Sections": "Order 39 Rule 3 of the Code of Civil Procedure (CPC): This rule outlines the procedures for serving documents when seeking an injunction.",
+    "Context": "Injunction application under Order 39 Rule 1 and 2 of the CPC in India, District Court, Delhi."
+  },
+  {
+    "Query": "A plaintiff claims trademark infringement against a defendant for using a similar trademark. The plaintiff's wife is the registered owner of the trademark, but the plaintiff is the actual user. The defendant argues that the plaintiff does not have legal standing to bring this action for infringement. The court must decide whether the plaintiff has the right to sue for infringement.",
+    "Legal Principles": "The registered owner of a trademark is generally the party with the legal right to sue for infringement. However, if the registered owner has assigned their rights to another party, the assignee may have the right to sue. The court will consider the evidence presented by both parties to determine if the plaintiff has the legal standing to sue for infringement.",
+    "Relevant Sections": "Section 28 of the Trade Marks Act, 1999 (India): This section grants exclusive rights to the registered proprietor of a trademark for the use of such mark in relation to the goods or services for which the trademark is registered.",
+    "Context": "Trademark Infringement case in India, District Court, Delhi."
+  }
+]
+```

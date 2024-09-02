@@ -1,0 +1,128 @@
+## 1. Case Title
+
+* **Case Name:** Sarine Technologies Ltd. Through Authorised Signatory Prachi Bhardwaj vs. Diyora And Bhanderi Corporation Through Partner Dhaval Dahyabhai Diyora
+* **Court:** Gujarat High Court
+* **Date of Judgment:** 31st January 2020
+* **Citation:** AIRONLINE 2020 GUJ 52
+
+## 2. Background and Context
+
+**Brief Overview:** 
+This case involves a legal dispute between Sarine Technologies Ltd. (defendant) and Diyora and Bhanderi Corporation (plaintiff). The plaintiff, a diamond business, sued the defendant for tortious interference with their business and contracts. The plaintiff alleged that the defendant, through press releases and letters, defamed the plaintiff and harmed their reputation in the diamond industry, leading to financial losses. This lawsuit was initially filed in Vadodara before the Commercial Court, but was returned for lack of jurisdiction and subsequently filed in Surat. 
+
+**Key Issues:**
+* **Jurisdiction:** Whether the Surat Court has the territorial jurisdiction to hear the case against Sarine Technologies Ltd., an Israeli company.
+* **Cause of Action:** Whether the plaintiff's claims of tortious interference and defamation stemming from actions taken by the defendant outside of India are valid.
+* **Order VII, Rule 11 of CPC:** Whether the defendant's application for rejection of the plaint under this rule, based on lack of jurisdiction and cause of action, was correctly dismissed by the trial court.
+* **Specific Relief Act, 1963:**  Whether the suit is barred by Sections 34 and 41 of the Specific Relief Act, 1963, related to declarations of rights and injunctions. 
+
+## 3. Legal Principles Involved
+
+**Relevant Statutes and Provisions:**
+* **Article 227 of the Constitution of India:** The petition was filed under this article, invoking the High Court's supervisory jurisdiction over subordinate courts.
+* **Code of Civil Procedure, 1908 (CPC):**
+    * **Order VII, Rule 11:** Deals with rejection of plaint for lack of jurisdiction, cause of action, or being barred by law.
+    * **Order 1, Rule 10:** Permits impleadment of parties in a suit.
+    * **Section 20:** Defines territorial jurisdiction of courts based on defendant's residence, business, or where cause of action arises.
+* **Specific Relief Act, 1963:**
+    * **Section 34:** Allows for declarations of rights or legal character.
+    * **Section 41:** Lists circumstances where an injunction cannot be granted.
+
+**Precedents Cited:**
+* **State of Gujarat v. Union of India (2018):**  Clarifies the scope of the High Court's jurisdiction under Article 227 in relation to the Commercial Courts Act.
+* **Surya Dev Rai v. Ram Chander Rai And Others (2003):**  Explains the scope of the High Court's jurisdiction under Articles 226 and 227 of the Constitution of India.
+* **Shalini Shyam Shetty And Another v. Rajendra Shankar Patil (2010):**  Elaborates on the principles for exercising the High Court's power of superintendence under Article 227.
+* **Hakam Singh v. M/s.Gammon (India) Limited (1971):**  Defines "corporation" in the context of the CPC.
+* **M/s.Patel Roadways Limited, Bombay v. M/s.Prasad Trading Company (1992):**  Interprets the Explanation to Section 20 of the CPC regarding the jurisdiction of courts where a corporation has a subordinate office.
+
+**Legal Doctrines:**
+* **Tortious Interference:**  The principle of unlawful interference with contractual or business relations.
+* **Defamation:**  The principle of false and harmful statements that damage reputation.
+* **Jurisdiction:**  The legal authority of a court to hear and decide a case.
+* **Cause of Action:**  A set of facts that give a person a right to sue.
+* **Superintendence:**  The power of a higher court to oversee the decisions and proceedings of lower courts.
+
+## 4. Arguments Presented
+
+**Plaintiff's Argument:**
+* The defendant's press releases and letters published outside India, but targeting the diamond industry in India, especially Surat, directly impacted the plaintiff's reputation and business in Surat.
+* The defendant's actions, including the letters from Rogers & Hollands Jewelers, were intended to harm the plaintiff's business relationships and reputation in Surat.
+* The Surat Court has jurisdiction because the cause of action arises, in part, within its territorial limits.
+* The defendant's subsidiary company in Surat is a factor supporting the court's jurisdiction.
+* The plaintiff's earlier lawsuit in Vadodara, even though returned for lack of jurisdiction, strengthens the claim that the cause of action arises in India.
+
+**Defendant's Argument:**
+* The defendant's press releases and letters were published outside India and did not specifically target the plaintiff.
+* The defendant's press releases were based on legal actions taken in India and were not intended to harm the plaintiff's business.
+* The defendant's principal business operations are in Israel, and no cause of action arose within the territorial jurisdiction of the Surat Court.
+* The fact that the defendant has a subsidiary company in Surat does not give the Surat Court jurisdiction over the defendant itself.
+* The plaintiff's suit is barred by Section 34 and 41 of the Specific Relief Act, 1963, because the plaintiff seeks relief beyond a mere declaration of title and is attempting to restrain judicial proceedings in another court.
+
+## 5. Court’s Analysis and Reasoning
+
+**Key Findings:**
+* The court recognized the defendant's press releases and letters, although published outside India, were aimed at the diamond industry in India, specifically Surat.
+* The court found that the plaintiff presented prima facie evidence suggesting the defendant's actions harmed the plaintiff's business and reputation in Surat.
+* The court acknowledged that the plaintiff had previously filed a suit in Vadodara, which was returned for lack of jurisdiction, indicating that the cause of action arose in India.
+
+**Interpretation of Law:**
+* The court interpreted Section 20 of the CPC to mean that if a corporation has a subordinate office at a particular location and a cause of action arises there, the court at that location has jurisdiction.
+* The court held that the defendant's subsidiary company in Surat, though a separate entity, is relevant to the question of jurisdiction.
+* The court did not find the plaintiff's suit barred by Section 34 or 41 of the Specific Relief Act, 1963. The court recognized that the plaintiff sought various reliefs beyond a mere declaration of title and that the defendant's actions were not entirely confined to judicial proceedings in another court.
+
+**Application of Law:**
+* Applying the principle of "tortious interference," the court found that the defendant's actions, despite being carried out outside India, could still have a significant impact on the plaintiff's business within India.
+* The court concluded that the Surat Court had territorial jurisdiction based on the plaintiff's allegations of harm to their business in Surat, the defendant's subsidiary company in Surat, and the previous lawsuit filed in Vadodara.
+* The court dismissed the defendant's argument regarding the Specific Relief Act, 1963, finding that the plaintiff's suit sought a range of remedies and the defendant's actions extended beyond purely judicial proceedings.
+
+## 6. Judgment
+
+**Final Decision:** The High Court dismissed the petition filed by Sarine Technologies Ltd. 
+
+**Relief Granted:** No relief was granted to the defendant, and the impugned order of the trial court dismissing the application under Order VII, Rule 11 of the CPC was upheld. 
+
+**Orders:** The High Court directed the trial court in Surat to expeditiously dispose of the suit (Special Civil Suit No. 191 of 2018) within six months, urging both parties to cooperate. The interim relief granted to the defendant was vacated.  
+
+## 7. Implications
+
+**Impact on Law:**
+* The case reaffirms the principle that courts can exercise jurisdiction over actions that have a substantial impact on a plaintiff's business within their territorial limits, even if those actions originate outside of the country.
+* The judgment clarifies the interpretation of Section 20 of the CPC regarding the jurisdiction of courts where a corporation has a subordinate office.
+* This case highlights the importance of considering all aspects of the plaintiff's claims, including the defendant's actions outside of the country, when determining territorial jurisdiction.
+
+**Future Relevance:**
+* The case could influence future decisions regarding jurisdiction in cases involving companies with international operations and claims of tortious interference.
+* The judgment may provide guidance in interpreting the application of the Specific Relief Act, 1963, in cases involving multifaceted claims and actions that cross national borders.
+
+**Broader Context:**
+* This case reflects the complexities of legal disputes in a globalized economy, where business activities and legal claims can transcend national boundaries.
+* The judgment demonstrates the courts' evolving approach to determining territorial jurisdiction in cases involving international actors. 
+
+## 8. Summary Points
+
+* The Gujarat High Court upheld the trial court's decision to reject the defendant's application for rejection of the plaint under Order VII, Rule 11 of the CPC. 
+* The court found that the Surat Court had territorial jurisdiction based on the plaintiff's claims of harm to their business in Surat, the defendant's subsidiary company in Surat, and the previous lawsuit filed in Vadodara.
+* The court rejected the defendant's argument that the plaintiff's suit was barred by Sections 34 and 41 of the Specific Relief Act, 1963. 
+* The court stressed the importance of a holistic view of the plaintiff's claims, including the defendant's actions outside India, when considering jurisdiction.
+* The case highlights the complexities of legal disputes in a globalized business environment.
+
+## 9. References
+
+**Citations:**
+* Article 227 of the Constitution of India
+* Code of Civil Procedure, 1908 (CPC)
+    * Order VII, Rule 11
+    * Order 1, Rule 10
+    * Section 20
+* Specific Relief Act, 1963
+    * Section 34
+    * Section 41
+* State of Gujarat v. Union of India (2018)
+* Surya Dev Rai v. Ram Chander Rai And Others (2003)
+* Shalini Shyam Shetty And Another v. Rajendra Shankar Patil (2010)
+* Hakam Singh v. M/s.Gammon (India) Limited (1971)
+* M/s.Patel Roadways Limited, Bombay v. M/s.Prasad Trading Company (1992)
+
+**Further Reading:**
+* **Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015**
+* **Cases on jurisdiction in international business disputes.** 

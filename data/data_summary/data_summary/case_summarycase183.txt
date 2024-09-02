@@ -1,0 +1,109 @@
+## Case Title
+
+* **Case Name:** R.Radha @ Radha Ramalingam vs Madhan Raj
+* **Court:** Madras High Court
+* **Date of Judgment:** 30 November, 2023
+* **Citation:** C.R.P.Nos.3672, 3800 of 2022, 338 and 2123 of 2023 & C.M.P.Nos.19457, 20005 of 2022, 12931 of 2023
+
+## Background and Context
+
+* **Brief Overview:** This case involves multiple interconnected civil revision petitions arising from disputes over monetary loans allegedly given by Madhan Raj (HUF) and his wife Niranjani, to Radha Ramalingam. The main dispute revolves around the maintainability of the suits filed by Madhan Raj and Niranjani under the Commercial Courts Act, 2015, and the subsequent procedural issues raised by Radha Ramalingam. 
+* **Key Issues:** 
+    * Whether the transactions between the parties fall under the definition of "commercial dispute" under Section 2(1)(c) of the Commercial Courts Act, 2015.
+    * Whether the mandatory pre-institution mediation requirement under Section 12(a) of the Commercial Courts Act, 2015 was met.
+    * Whether the lower court erred in allowing the amendment of the plaint and the acceptance of a delayed statement of truth. 
+
+## Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * The Commercial Courts Act, 2015:
+        * Section 2(1)(c): Defines "commercial dispute".
+        * Section 12-A: Mandates pre-institution mediation. 
+    * Code of Civil Procedure (CPC):
+        * Order 6 Rule 15-A: Regulates filing of statements of truth. 
+        * Order 7 Rule 11(a) and (d): Allows for rejection of plaint on various grounds.
+    * The Negotiable Instruments Act: 
+        * Section 138: Deals with dishonour of cheques.
+* **Precedents Cited:**
+    * Dahiben Vs. Arvindbhai Kalyanji Bhanus Ali (Gajra) dead through Legal representatives and others (2020) 7 Supreme Court Cases 366
+    * Srihari Hanumandas Totala Vs. Hemant Vithal Kamat and others (2021) 9 Supreme Court Cases 99
+    * Sri Biswanath Banik and Another Vs. Sulanga Bose and Others (2022) 7 Supreme Court Cases 731
+    * IHHR Hospitality (Andhra) Pvt., Ltd., Vs. Seema Swami and Others 2022 SCC Online Del 3636
+    * Venkatesh Vincom Pvt., Ltd., Vs. Spice of Joy, Multicuisine Restaurant cum Bar and Others 2022 SCC Online Cal 3010
+    * Amanpreet Kohli Vs. Pankaj Dayal 2023 SCC Online Del 1808
+    * Associated Power Co., Ltd., Vs. Ram Taran Ro AIR 1970 Calcutta 75
+    * Shahi Exports Pvt., Ltd., Vs. Gold Star Line Limited and Others 2021 (6) CTC 671 
+    * Patil Automation Pvt., Ltd., and Others Vs. Rakheja Engineers Pvt., Ltd., (2022) 10 Supreme Court Cases 1 
+    * Bola Technology Vs. Ujoy Technology Pvt., Ltd., and Another 2022 SCC Online Del 2639 
+* **Legal Doctrines:**
+    * Jurisdiction: The court's power to hear and decide a case.
+    * Maintainability: Whether a case can be legally filed in court.
+    * Limitation: The time period within which a lawsuit must be filed.
+    * Estoppel: A legal doctrine that prevents a party from asserting a claim or defense that is inconsistent with prior actions or representations.
+    * Waiver: The voluntary relinquishment of a known right.
+    * Superintending Power: The power of a superior court to oversee the actions of a lower court.
+    * Procedural Irregularities: Errors in the procedures followed by a court.
+
+## Arguments Presented
+
+* **Plaintiff's Argument (Madhan Raj and Niranjani):**
+    * The transactions with Radha Ramalingam were commercial in nature as they involved money lending and borrowing, and the execution of promissory notes.
+    * They were licensed money lenders, making the transactions qualify under Section 2(1)(c)(i) of the Commercial Courts Act, 2015.
+    * The pre-institution mediation requirement under Section 12(a) is procedural and curable even during pending suits. 
+    * The lower court's decision to allow the amendment of the plaint and condone the delay in filing the statement of truth was justified.
+* **Defendant's Argument (Radha Ramalingam):**
+    * The suits were not maintainable under the Commercial Courts Act, 2015 as the transactions were ordinary money lending and not "commercial disputes".
+    * The plaintiff failed to comply with the mandatory pre-institution mediation requirement under Section 12(a) of the Commercial Courts Act, 2015.
+    * The lower court's dismissal of the application to reject the plaint under Order 7 Rule 11 was a cryptic order without reasoning, exhibiting non-application of mind.
+    * The amendment of the plaint was improper, introducing a new cause of action, and the delay in filing the statement of truth was not justified.
+
+## Court's Analysis and Reasoning
+
+* **Key Findings:**
+    * The Court reviewed the judgments cited by both parties and analyzed the definition of "commercial dispute" under the Commercial Courts Act, 2015. 
+    * The Court emphasized the importance of reasoned orders and concluded that the lower court's dismissal of the application to reject the plaint in C.O.S. No. 9 of 2022 was a cryptic and unsustainable order.
+    * While acknowledging the procedural nature of the pre-institution mediation requirement, the Court highlighted the mandatory nature of Section 12(a) as emphasized by the Supreme Court in the case of *Patil Automation Pvt., Ltd., & others Vs. Rakheja Engineers Pvt., Ltd.*, (2022) 10 Supreme Court Cases 1.
+* **Interpretation of Law:** 
+    * The Court interpreted the definition of "commercial dispute" narrowly, concluding that merely lending money, without a clear nexus to a commercial or business activity, does not automatically qualify as a commercial dispute. 
+    * The Court emphasized the importance of adhering to the mandatory provisions of the Commercial Courts Act, 2015, including the pre-institution mediation requirement. 
+* **Application of Law:**
+    * The Court applied the law to the facts of the case, concluding that the suits filed by Madhan Raj and Niranjani were not maintainable under the Commercial Courts Act, 2015, due to the lack of evidence of commercial transactions.
+    * The Court found that the lower court's orders allowing the amendment of the plaint and condoning the delay in the statement of truth were not sustainable.
+    * The Court exercised its superintending power to rectify the procedural irregularities committed by the lower court. 
+
+## Judgment
+
+* **Final Decision:** 
+    * The Court allowed the revision petitions filed by Radha Ramalingam (C.R.P. Nos. 3672, 3800 of 2022, and 2123 of 2023) and dismissed the revision petition filed by Madhan Raj (C.R.P. No. 338 of 2023). 
+* **Relief Granted:** 
+    * The Court set aside the lower court's order dismissing the application to reject the plaint in C.O.S. No. 9 of 2022.
+    * The Court set aside the order allowing the amendment of the plaint in C.O.S. No. 9 of 2022.
+    * The Court struck off the plaint in C.O.S. No. 10 of 2023 filed by Niranjani, due to the failure to comply with the mandatory pre-institution mediation requirement. 
+* **Orders:** 
+    * The Court directed the lower court to reconsider the maintainability of the suits filed by Madhan Raj and Niranjani in light of the Court's findings.
+    * The Court left open to the parties to work out their remedies available under the Act, as held and directed by the Hon'ble Apex Court.
+
+## Implications
+
+* **Impact on Law:** This judgment clarifies the scope of "commercial dispute" under the Commercial Courts Act, 2015, emphasizing that ordinary money lending transactions may not automatically qualify as commercial disputes. The judgment also reaffirms the mandatory nature of the pre-institution mediation requirement under Section 12(a) of the Act. 
+* **Future Relevance:** This case sets a precedent for future cases involving the interpretation of "commercial dispute" under the Commercial Courts Act, 2015. It also underscores the importance of proper procedure and reasoned orders, particularly in cases involving the Commercial Courts Act. 
+* **Broader Context:** The judgment highlights the increasing importance of mediation and alternative dispute resolution mechanisms in commercial disputes, as enshrined in the Commercial Courts Act, 2015. 
+
+## Summary Points
+
+* The Madras High Court ruled that ordinary money lending transactions do not necessarily qualify as "commercial disputes" under the Commercial Courts Act, 2015.
+* The Court emphasized the mandatory nature of the pre-institution mediation requirement under Section 12(a) of the Act. 
+* The Court set aside the lower court's orders allowing amendment of the plaint and accepting a delayed statement of truth. 
+* The Court stressed the need for reasoned orders by lower courts, emphasizing that cryptic orders are unsustainable.
+
+## References
+
+* The Commercial Courts Act, 2015
+* The Code of Civil Procedure (CPC)
+* The Negotiable Instruments Act
+* Patil Automation Pvt., Ltd., & others Vs. Rakheja Engineers Pvt., Ltd., (2022) 10 Supreme Court Cases 1 
+
+## Further Reading
+
+* Dahiben Vs. Arvindbhai Kalyanji Bhanus Ali (Gajra) dead through Legal representatives and others (2020) 7 Supreme Court Cases 366
+* IHHR Hospitality (Andhra) Pvt., Ltd., Vs. Seema Swami and Others 2022 SCC Online Del 3636 

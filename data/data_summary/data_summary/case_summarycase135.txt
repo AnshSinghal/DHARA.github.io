@@ -1,0 +1,86 @@
+## Case Title
+
+* **Case Name:** M/s. SPC Lifesciences Pvt. Ltd. vs. M/s. Ameya Laboratories Ltd.
+* **Court:** Andhra High Court
+* **Date of Judgment:** 17th August 2017
+* **Citation:** COM.T.A.No.3 of 2017 and batch
+
+## Background and Context
+
+* **Brief Overview:** This case involved a dispute over a patent infringement suit. M/s. SPC Lifesciences Pvt. Ltd. (Plaintiff) filed a suit against M/s. Ameya Laboratories Ltd. (Defendant) for infringing their patent (Patent No. 265920). The suit was initially filed in the Commercial Court (XXIV Additional Chief Judge, City Civil Court, Hyderabad) as the value exceeded Rs. 1.00 Crore. However, the Defendant filed a counterclaim for revocation of the patent, leading to the transfer of the case to the High Court.
+* **Key Issues:** The primary issue was whether the case should be heard by the Commercial Division of the High Court or by a single Judge of the High Court. The question arose because of the specific jurisdiction of the Commercial Division under the Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015 (2015 Act).
+
+## Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * **Patents Act, 1970:** Section 104 (prohibiting suits in courts inferior to District Court, with a proviso for transfer to High Court in case of counterclaim for revocation of patent), Section 105 (declaration of patent validity), Section 106 (relief against infringement), Section 107 (counterclaim for revocation).
+    * **Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015 (2015 Act):** Section 2(c)(xvii) (defining "commercial dispute"), Section 6 (jurisdiction of Commercial Courts), Section 7 (jurisdiction of Commercial Divisions of High Courts, including provisions for suits filed or pending on the original side of the High Court and for suits transferred under the Patents Act), Section 13 (appellate jurisdiction of Commercial Appellate Division).
+    * **Code of Civil Procedure, 1908:** Order 8 Rule 6-A (counterclaim).
+* **Precedents Cited:**
+    * **Low Heat Driers (P) Ltd v. Biju George (2001 (2) PTC 775 (Kerala High Court))**
+    * **Standard Glass Beads Factory v. Dhar (AIR 1961 Allahabad 101)**
+    * **Gopal Glass Works Ltd. v. IAG Company Ltd. (Order in Special Civil Application No. 2863 of 2004)**
+    * **Guiness World Records Ltd. v. Sababbi Mangal (Order in CS(OS) No. 1180 of 2011, dated 15.02.2016)**
+    * **Kamal Sharma v. M/s. Blue Coast Infrastructure Development Pvt. Ltd. (Order in CS(OS) No. 176 of 2015, dated 01.04.2016)**
+* **Legal Doctrines:** 
+    * **Jurisdiction:** The court focused on the principles of jurisdiction as defined by the relevant statutes and precedents, specifically regarding the transfer of cases under Section 104 of the Patents Act and the jurisdiction of the Commercial Division under the 2015 Act.
+    * **Interpretation of Statutes:** The court interpreted the provisions of the 2015 Act, particularly Section 7, to determine the scope of jurisdiction for the Commercial Division and how it applied to cases transferred under the Patents Act.
+    * **Legislative Intent:** The court considered the legislative intent behind the 2015 Act and its amendments in relation to the first proviso of Section 7, particularly in the context of cases pending before the High Court.
+
+## Arguments Presented
+
+* **Plaintiff’s Argument:** 
+    * The plaintiff argued that the case should be heard by the Commercial Division of the High Court based on the broad interpretation of the first proviso of Section 7 of the 2015 Act, which includes all suits relating to commercial disputes regardless of whether the High Court exercises ordinary original civil jurisdiction. They cited the judgments in *Guiness World Records Ltd* and *Kamal Sharma* to support their argument.
+* **Defendant’s Argument:**
+    * The defendant argued that while the case was rightly transferred to the High Court under Section 104 of the Patents Act, it should not be heard by the Commercial Division or the Commercial Appellate Division. They contended that the High Court of Judicature at Hyderabad does not exercise ordinary original civil jurisdiction except for admiralty and maritime laws. Therefore, commercial disputes arising under the Patents Act are required to be heard by the High Court directly, outside the purview of the Commercial Division.
+
+## Court’s Analysis and Reasoning
+
+* **Key Findings:** 
+    * The court acknowledged that the dispute was a commercial dispute exceeding Rs. 1.00 Crore and was therefore within the ambit of the 2015 Act. However, it also recognized that the Andhra High Court does not exercise ordinary original civil jurisdiction in matters arising under the Patents Act.
+    * The court carefully analyzed the provisions of Section 7 of the 2015 Act, particularly the first and second provisos. It concluded that the first proviso applies only to cases filed or pending on the original side of the High Court, which was not the case here. 
+    * The court found that the second proviso, which pertains to cases transferred under the Patents Act, is only applicable in areas where the High Court exercises ordinary original civil jurisdiction. 
+    * The court distinguished the present case from the Delhi High Court judgments cited by the plaintiff, emphasizing the fact that the Delhi High Court does exercise ordinary original civil jurisdiction in matters related to the Patents Act, unlike the Andhra High Court.
+* **Interpretation of Law:**
+    * The court interpreted the first proviso of Section 7 of the 2015 Act as having a limited scope, applying only to cases filed or pending on the original side of the High Court. 
+    * The court interpreted the second proviso as being specifically applicable to cases transferred under the Patents Act, but only in areas where the High Court has ordinary original civil jurisdiction.
+* **Application of Law:**
+    * The court applied its interpretation of the relevant statutory provisions to the facts of the case, finding that the case was not within the jurisdiction of either the Commercial Division or the Commercial Appellate Division.
+    * The court also considered the legislative intent behind the 2015 Act and concluded that the second proviso was not redundant and was intended to address cases transferred under the Patents Act, but only in courts with ordinary original civil jurisdiction.
+
+## Judgment
+
+* **Final Decision:** The court ruled that the case was not required to be heard by either the Commercial Division or the Commercial Appellate Division of the High Court.
+* **Relief Granted:** No specific relief was granted, but the court directed the Registry to obtain approval from the HACJ (Hon'ble Acting Chief Justice) to list the matter before a single Judge of the High Court.
+* **Orders:** The court ordered the Registry to seek approval for listing the case before a single Judge of the High Court, signifying that the case would be heard by a Judge outside the Commercial Division or Appellate Division.
+
+## Implications
+
+* **Impact on Law:** The judgment clarifies the scope of jurisdiction of the Commercial Division of the Andhra High Court, specifically in relation to cases transferred under the Patents Act. It establishes that the Commercial Division does not have jurisdiction over such cases due to the lack of ordinary original civil jurisdiction in the High Court for those matters.
+* **Future Relevance:** This case serves as a precedent for future cases involving patent infringement suits with counterclaims for revocation of patents in the Andhra High Court. It provides guidance on the appropriate forum for such cases.
+* **Broader Context:** The judgment highlights the importance of careful analysis of statutory provisions and their application based on the specific jurisdiction of each court. It underscores the significance of legislative intent in interpreting statutes and how it can influence court decisions.
+
+## Summary Points
+
+* The dispute involved a patent infringement suit with a counterclaim for revocation of the patent, leading to the transfer of the case from the Commercial Court to the Andhra High Court.
+* The key issue was determining the appropriate forum for hearing the case: Commercial Division or a single Judge of the High Court.
+* The court analyzed the relevant statutes (Patents Act and the 2015 Act) and precedents, focusing on the jurisdictional issues related to the transfer of cases and the scope of the Commercial Division's jurisdiction.
+* The court concluded that the case did not fall within the jurisdiction of either the Commercial Division or the Commercial Appellate Division due to the lack of ordinary original civil jurisdiction in the Andhra High Court for matters arising under the Patents Act.
+* The court ordered the case to be listed before a single Judge of the High Court.
+
+## References
+
+* **Patents Act, 1970**
+* **Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015 (2015 Act)**
+* **Code of Civil Procedure, 1908**
+* **Low Heat Driers (P) Ltd v. Biju George (2001 (2) PTC 775 (Kerala High Court))**
+* **Standard Glass Beads Factory v. Dhar (AIR 1961 Allahabad 101)**
+* **Gopal Glass Works Ltd. v. IAG Company Ltd. (Order in Special Civil Application No. 2863 of 2004)**
+* **Guiness World Records Ltd. v. Sababbi Mangal (Order in CS(OS) No. 1180 of 2011, dated 15.02.2016)**
+* **Kamal Sharma v. M/s. Blue Coast Infrastructure Development Pvt. Ltd. (Order in CS(OS) No. 176 of 2015, dated 01.04.2016)**
+
+## Further Reading
+
+* **Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015**
+* **Patents Act, 1970**
+* **Case law on the jurisdiction of Commercial Divisions and Commercial Appellate Divisions of High Courts** 

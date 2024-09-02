@@ -1,0 +1,97 @@
+##  Case Summary: Arun Kumar Jagatramka vs Ultrabulk A/S
+
+**1. Case Title**
+
+* **Case Name:** Arun Kumar Jagatramka vs Ultrabulk A/S
+* **Court:** Gujarat High Court
+* **Date of Judgment:** 13th March 2024
+* **Citation:** C/SCA/5890/2021 & C/SCA/21283/2023
+
+**2. Background and Context**
+
+* **Brief Overview:** This case involves two separate Special Civil Applications (SCAs) filed by Arun Kumar Jagatramka (Judgment Debtor) against Ultrabulk A/S (Decree Holder) challenging orders passed by the executing court (Principal Senior Civil Judge, Jamnagar) in connection with the execution of a foreign money decree. The primary issue revolves around the territorial jurisdiction of the executing court.
+* **Key Issues:** 
+    * Whether the executing court in Jamnagar had jurisdiction to execute the decree personally against the judgment debtor, who claims to be a permanent resident of Kolkata.
+    * Whether the judgment debtor was denied natural justice by the executing court when it allowed the decree holder's application for examining the judgment debtor under Order XXI Rule 41 of the Code of Civil Procedure, 1908 (CPC).
+    * Whether the judgment debtor's delay in challenging the executing court's orders barred him from seeking relief in the High Court. 
+
+**3. Legal Principles Involved**
+
+* **Relevant Statutes and Provisions:**
+    * Code of Civil Procedure, 1908 (CPC): Sections 20, 21, 39, 44A, 51, Order XXI Rule 37, 40, and 41.
+    * Commercial Courts Act, 2015
+    * Income-Tax Act, 1961
+    * Code of Criminal Procedure, 1973
+    * Insolvency and Bankruptcy Code, 2016 (IBC)
+* **Precedents Cited:** 
+    * Johra & Ors. v. State of Haryana & Ors., (Civil Appeal Nos. 11757 - 11758 of 2018)
+    * Mathura Prasad Bajoo Jaiswal & Ors. v. Dossibai N.B. Jeejeebhoy, (1970) 1 SCC 613
+    * Vijay Kumar Kaul & Ors. v. Union of India & Ors., (2012) 7 SCC 610
+    * Chennai Metropolitan Water Supply and Sewerage Board & Ors. v. T.T. Murali Babu, (2014) 4 SCC 108
+    * M/s Gian Chand & Brothers and anr. v. Rattan Lal @ Rattan Singh, (2013) 2 SCC 606
+    * Sneh Lata Goel v. Pushplata Goel & Ors., (2019) 3 SCC 594
+    * Hira Lal Patni v. Sri Kali Nath, 1961 SCC OnLine SC 42
+    * Forward Construction Company Etc. Etc. v. Prabhat Mandal (Regd.) Andheri & Ors., (1986) 1 SCC 100
+    * Dipali Biswas & Ors. v. Nirmalendu Mukherjee & Ors., 2021 SCC OnLine SC 869
+    * Mahadeo Prasad Singh & anr. v. Ram Lochan & Ors., (1980) 4 SCC 354
+    * Ganesh v. Sankaran, 2006 (3) CTC 546
+    * C.M. Smith and Sons Ltd. v. R.K. Casting Co., dated 16.10.2019, Special Civil Application No. 15137 of 2019 
+* **Legal Doctrines:** 
+    * Territorial Jurisdiction: This doctrine governs the power of a court to adjudicate a dispute based on the location of the parties or property involved.
+    * Principles of Natural Justice: This doctrine requires fair play and a reasonable opportunity for a party to be heard before a court makes a decision affecting their interests.
+    * Res Judicata: This doctrine prevents the relitigation of an issue that has already been decided by a competent court.
+    * Waiver/Latches: This doctrine relates to the loss of a legal right due to delay or inaction in pursuing a claim.
+
+**4. Arguments Presented**
+
+* **Judgment Debtor’s Argument:**
+    * The executing court lacked territorial jurisdiction to execute the decree personally against him as he is a permanent resident of Kolkata, where the decree holder had also served him.
+    * The executing court denied him natural justice by passing the order under Order XXI Rule 41(1) without giving him a proper opportunity to file his reply and objections.
+    * The decree holder was making frivolous and baseless allegations against him, and the executing court was allowing such conduct without any basis.
+    * The executing court improperly declared him as 'absconding' without any legal basis.
+    * There was no delay on his part in raising the jurisdictional challenge.
+
+* **Decree Holder’s Argument:**
+    * The executing court had jurisdiction to execute the decree against the judgment debtor as he carries on business and owns immovable property within the court's jurisdiction.
+    * The judgment debtor failed to raise objections to the court's jurisdiction at the first available opportunity, as required under Section 21 of the CPC.
+    * The judgment debtor's actions demonstrated a clear pattern of delay and attempts to obstruct the execution process. 
+    * The judgment debtor's argument about the court's finding of 'absconding' was a misinterpretation of the law.
+    * The judgment debtor's delay in challenging the orders barred him from seeking relief in the High Court.
+
+**5. Court’s Analysis and Reasoning**
+
+* **Key Findings:**
+    * The court concluded that the executing court in Jamnagar had territorial jurisdiction to execute the decree against the judgment debtor.
+    * The court found that the judgment debtor had numerous opportunities to raise the jurisdictional challenge but failed to do so at the earliest opportunity.
+    * The court determined that the judgment debtor's conduct exhibited a pattern of delay and obstruction in the execution process. 
+    * The court rejected the judgment debtor's claim that he was denied natural justice by the executing court. 
+* **Interpretation of Law:**
+    * The court interpreted Section 39 of the CPC to mean that a court can execute a decree against a person or property situated within its territorial jurisdiction, even if the judgment debtor resides elsewhere.
+    * The court interpreted Section 21 of the CPC to require the raising of jurisdictional objections at the first available opportunity, failing which such objections may be barred. 
+* **Application of Law:**
+    * The court applied the principles of territorial jurisdiction to the specific facts of the case, considering the judgment debtor's business activities and property ownership in Jamnagar.
+    * The court applied the doctrine of waiver/latches to find that the judgment debtor's delay in challenging the executing court's orders barred his plea in the High Court. 
+    * The court considered the relevant precedents cited by both parties and distinguished the cases where the facts were significantly different.
+
+**6. Judgment**
+
+* **Final Decision:** The court rejected both Special Civil Applications filed by the judgment debtor.
+* **Relief Granted:** None.
+* **Orders:** The court directed the judgment debtor to pay Rs. 25,000/- in costs to the decree holder within four weeks.
+
+**7. Implications**
+
+* **Impact on Law:** This judgment reinforces the importance of raising jurisdictional objections at the earliest opportunity in execution proceedings. 
+* **Future Relevance:** This case provides valuable guidance to courts and parties involved in execution proceedings concerning the interpretation and application of territorial jurisdiction and procedural delays. 
+* **Broader Context:** This case highlights the potential for procedural tactics to delay and frustrate the execution of decrees, and the importance of courts preventing such tactics. 
+
+**8. Summary Points**
+
+* The judgment debtor's delay in raising the jurisdictional challenge was fatal to his petition.
+* The court found that the executing court in Jamnagar had territorial jurisdiction to execute the decree against the judgment debtor.
+* The court rejected the judgment debtor's claim of denial of natural justice. 
+
+**9. References**
+
+* Please refer to the specific citations provided in the case summary above.
+* For further reading, consult legal resources on the Code of Civil Procedure, 1908 and the principles of territorial jurisdiction and procedural delays in execution proceedings. 

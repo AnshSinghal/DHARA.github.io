@@ -1,0 +1,136 @@
+##  1. Case Title
+
+* **Case Name:** Anheuser Busch Inbev India Limited vs. Scarpe Marketing Pvt Ltd
+* **Court:** Karnataka High Court
+* **Date of Judgment:** 22nd December 2021
+* **Citation:** COMAP No. 101 of 2021 
+
+## 2. Background and Context
+
+* **Brief Overview:**  This case involves a contractual dispute between Anheuser Busch Inbev India Limited (formerly SABMiller India Limited) ("Appellant") and Scarpe Marketing Pvt Ltd ("Respondent").  The dispute arose from the termination of a Customer Information and Service Provider agreement (CISP) by the Appellant, alleging breach of the agreement by the Respondent due to corruption allegations against the Respondent's Director. 
+* **Key Issues:**
+    * Whether the Respondent's application for amendment of the claim was belated and beyond the scope of the reference to arbitration.
+    * Whether the Appellant's termination of the CISP agreement was justified under the terms of the agreement, particularly clauses 10.4 and 20, which dealt with termination and anti-corruption provisions.
+    * Whether the arbitral tribunal erred in awarding damages to the Respondent, including outstanding invoices, nominal damages for business loss, and costs of arbitration.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * Arbitration and Conciliation Act, 1996 (Sections 9, 13(1-A), 16, 17, 23, 28, 34, 37)
+    * Commercial Courts Act, 2015 (Section 13(1-A))
+    * Code of Civil Procedure, 1908 (Order 2 Rule 2)
+    * Specific Relief Act, 1963 (Section 21)
+    * Indian Contract Act, 1872 (Sections 73, 74)
+    * Indian Evidence Act, 1872 (Section 65B)
+* **Precedents Cited:**
+    * **SSANGYONG ENGINEERING AND CONSTRUCTION COMPANY LIMITED VS. NATIONAL HIGHWAY AUTHORITY OF INDIA** (2019) 15 SCC 131
+    * **DELHI AIRPORT METRO EXPRESS PVT. LTD. VS. METRO RAIL CORPORATION LTD.** (2021) SCC ONLINE SC 695
+    * **STATE OF CHATTISGARH AND ANOTHER VS SAL UDYOG PRIVATE LIMITED** (2021 SCC Online 1027)
+    * **PUNJAB STATE CIVIL SUPPLIES CORPN LTD AND ANR Vs. RAMESH KUMAR AND COMPANY AND OTHERS** CIVIL APPEAL NO.6832/2021
+    * **L.G.ELECTRONICS INDIA Vs. DINESH KALRA** (2018) SCC ONLINE DELHI 8367
+    * **MMTC LIMITED Vs. VEDANTA LIMITED** (2019) 4 SCC 163
+    * **JJ ENGINEERS PVT. LTD. Vs. UNION OF INDIA** (2011) 5 SCC 758
+    * **MCDERMAT INTERNATIONAL INK Vs. BURN STANDARD COMPANY** (2006) 11 SCC 181
+    * **SAIL Vs. GUPTA BROTHERS STEEL TUBES** (2009) 10 SCC 63
+    * **NTPC Vs. M/s. DECONAR SERVICES** IN C.A.6483/2014
+    * **NAYANA TECHNOLOGIES PVT. LTD. Vs. CROMPTON GREAVES** (2019) 20 SCC 1
+    * **NHAI Vs. ITD CEMENTATION** (2015) 14 SCC 21
+    * **MODULAR BUX Vs. UNION OF INDIA** (1969) 2 SCC 554
+    * **ONGC Vs. SAW PIPES** (2003) 5 SCC 705
+    * **JUGINAL KAMALPAT Vs. PRATAM PAL RAMESHWAR** (1978) 1 SCC 69
+    * **UNNI SIVAIAH Vs. MUDDU RANGANAYAKALU**
+    * **STATE OF GOA Vs. PRAVEEN ENTERPRISES** (2012) 12 SCC 581 
+    * **V.H.PATEL COMPANY Vs. DHIRUBHAI PATEL & ORS** (2000) 4 SCC 368
+    * **TAYLOR V OAKES, RONCORONI AND CO',** (1922) ALL ER REP EXT 866
+    * **NUNE SIVAYYA VS. MADDU RANGANAYAKULU',** AIR 1935 PC 67
+    * **JUGGILAL KAMLAPAT VS. PRATAPMAL RAMESHWAR',** (1978) 1 SCC 69
+    * **M.LACHIA SETTY AND SONS LTD. VS. COFFEE BOARD',** (1980) 4 SCC 636
+    * **ASSOCIATES BUILDERS VS. DELHI DEVELOPMENT AUTHORITY',** (2015) 3 SCC
+    * **KAILASH NATH ASSOCIATES VS. DELHI DEVELOPMENT',** (2015) 4 SCC 136
+    * **KANCHAN UDYOG LIMITED VS. UNITED SPIRITS LIMITED',** (2017) 8 SCC 237
+    * **SSANYONG ENGINEERING AND CONSTRUCTION COMPANY LIMITED VS. NATIONAL HIGHWAY AUTHORITY OF INDIA',** (2019) 15 SCC 131
+    * **DYNA TECHNOLOGIES PVT. LTD. VS. CROMPTON GREAVES LTD.',** (2019) 20 SCC 1
+    * **THE OWNERS OF THE STEAMSHIP 'MEDIANA VS. THE OWNERS, MASTER AND CREW OF THE LIGHTSHIP "COMET" (1900) A.C.113**
+    * **INDIAN PERFORMING RIGHT SOCIETY LTD. VS. DEBASHISH PATNAIK',** LNIND 2007 DEL 630
+    * **MAPPOURAS VS. WALDRONS SOLICITORS',** (2002) EWCA CIV 842
+    * **LARSEN AND TOUBRO LIMITED (CONSTRUCTION DIVISION) Vs. GEODESIC TECHNIQUES PRIVATE LIMITED** decided on 21.10.2021 in COMAP No.31/2021.
+    * **BOARD OF CONTROL FOR CRICKET IN INDIA Vs. DECCAN CHRONICLE HOLDINGS LTD.'** in Commercial Arbitration Petition (L) No.4466/2020 dated 16.06.2021. 
+* **Legal Doctrines:** 
+    * **Repudiation of Contract:**  A party's refusal to perform its obligations under a contract.
+    * **Breach of Contract:**  A violation of the terms of a contract.
+    * **Specific Performance:** A court order requiring a party to fulfill its contractual obligations.
+    * **Damages:**  Monetary compensation awarded for breach of contract. 
+    * **Nominal Damages:**  A small sum awarded where a legal right has been infringed but no actual loss has been proven.
+    * **Patent Illegality:**  An illegality appearing on the face of an arbitral award.
+    * **Public Policy:**  Fundamental principles of law and justice that underpin the legal system. 
+    * **Interpretation of Contract:** Determining the meaning and scope of contractual terms. 
+
+## 4. Arguments Presented
+
+* **Appellant’s Argument:**
+    * The Respondent's application for amendment of the claim was belated and beyond the scope of the reference to arbitration.
+    * The Appellant had legitimate grounds to terminate the CISP agreement based on the Respondent's Director's involvement in corrupt acts, as evidenced by the First Information Reports and the Respondent's own admission.
+    * The Respondent did not prove the actual damages claimed, and the arbitral tribunal erred in awarding nominal damages based on mere assumptions and projections.
+    * The arbitral tribunal erred in awarding costs of arbitration without sufficient evidence.
+* **Respondent’s Argument:**
+    * The amendment to the claim was not belated and was within the scope of the reference to arbitration, as it merely quantified existing claims. 
+    * The Appellant failed to prove that it had knowledge of the Respondent's Director's alleged corrupt acts at the time of terminating the agreement.
+    * The Respondent presented sufficient documentary evidence to support its claim for outstanding invoices and damages for business loss.
+    * The award of nominal damages was justified based on the evidence presented and the principles of law.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The Court found that the Respondent's amendment of the claim did not constitute an additional claim and was within the scope of the reference to arbitration.
+    * The Court held that the Appellant failed to establish that it had knowledge of the Respondent's Director's alleged corrupt acts at the time of terminating the contract.
+    * The Court concluded that the Appellant's termination of the CISP agreement was unjustified.
+    * The Court found that the arbitral tribunal's award of damages for outstanding invoices was not based on sufficient evidence and was thus vitiated by patent illegality.
+    * The Court also determined that the award of nominal damages for business loss and the award of costs of arbitration were not supported by sufficient evidence and suffered from patent illegality. 
+
+* **Interpretation of Law:** 
+    * The Court carefully interpreted relevant provisions of the Arbitration and Conciliation Act, 1996, and other relevant statutes to determine the scope of the reference to arbitration, the grounds for setting aside an arbitral award, and the principles governing damages for breach of contract.
+    * The Court relied on various precedents cited by both parties to support its analysis and reasoning.
+* **Application of Law:** 
+    * The Court applied the relevant legal principles to the facts of the case, concluding that the Appellant failed to meet the burden of proof necessary to justify its termination of the CISP agreement and that the arbitral tribunal's award suffered from patent illegality in awarding damages.
+
+## 6. Judgment
+
+* **Final Decision:** The appeal was allowed in part. The Court set aside the arbitral award to the extent it awarded damages for outstanding invoices, nominal damages for business loss, and costs of arbitration. 
+* **Relief Granted:** The Court granted relief to the Appellant by setting aside the arbitral award to the extent mentioned above.
+* **Orders:** The Court ordered that the award be set aside to the extent specified, and that the Appellant be awarded costs.
+
+## 7. Implications
+
+* **Impact on Law:** 
+    * The judgment highlights the importance of establishing knowledge of breach at the time of termination in cases involving repudiation of contracts. 
+    * It underscores the requirement for sufficient evidence to support claims for damages in arbitration proceedings. 
+    * The judgment further emphasizes the narrow scope of judicial review of arbitral awards, particularly on the grounds of patent illegality.
+* **Future Relevance:** 
+    * This case serves as a reminder to parties involved in arbitration to ensure that their claims are properly documented and supported by sufficient evidence.
+    * The case also emphasizes the importance of clearly defining the scope of arbitration in contracts to prevent disputes regarding the arbitrability of claims.
+* **Broader Context:**  
+    * This case demonstrates the courts' increasing focus on ensuring fairness and transparency in arbitration proceedings.
+
+## 8. Summary Points
+
+* The Appellant attempted to terminate a service provider agreement (CISP) alleging the Respondent's Director's involvement in corruption.
+* The Appellant failed to prove it had knowledge of the alleged corruption at the time of termination. 
+* The Court held that the termination was unjustified.
+* The Court found that the arbitral tribunal's award of damages for outstanding invoices, nominal damages for business loss, and costs of arbitration were not based on sufficient evidence and were vitiated by patent illegality. 
+* The Court set aside the award to the extent it awarded these damages.
+
+## 9. References
+
+* **Statutes:** 
+    * Arbitration and Conciliation Act, 1996
+    * Commercial Courts Act, 2015
+    * Code of Civil Procedure, 1908
+    * Specific Relief Act, 1963
+    * Indian Contract Act, 1872
+    * Indian Evidence Act, 1872 
+* **Cases:** 
+    * All cases cited in the judgment. 
+* **Further Reading:** 
+    * **"Arbitration and Conciliation Act, 1996: A Commentary" by Justice A.K. Ganguly**
+    * **"The Law of Damages" by John G. Fleming**
+    * **"Chitty on Contracts" by Michael Furmston** 

@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A company (ABC Corp) issued a guarantee to secure a loan for another company (XYZ Ltd).  XYZ Ltd. defaulted on the loan, and the lender is now seeking to enforce the guarantee against ABC Corp.  ABC Corp. claims the guarantee is invalid because it was issued without the required consent of the relevant regulatory body, and that XYZ Ltd. misled them about the need for such consent.  The lender argues the guarantee is valid and enforceable despite the lack of consent. Should the Court uphold the validity of the guarantee? ",
+    "Legal Principles": "Contractual Validity,  Promissory Estoppel,  Statutory Interpretation,  Void Contracts,  Contractual Misrepresentation,  Guarantees,  Enforcement of Contracts",
+    "Relevant Sections": "Section 23 of the Contract Act,  Section 108 of the Companies Act, 1956,  Regulation 5.13.2 of the West Bengal Electricity Regulatory Commission (Licensing and Condition of License) Regulations, 2013,  Section 41(b) of the Specific Relief Act,  Order 23 Rule 1 of the CPC",
+    "Context": "Commercial Dispute,  Enforcement of a Guarantee,  Alleged Statutory Violation,  Jurisdiction: High Court of Calcutta,  Case Type: Appeal from a Commercial Court's Order" 
+  },
+  {
+    "Query": "A construction company (BuildCo) was awarded a contract by a government agency (GovAgency) for a major infrastructure project.  The contract required BuildCo to obtain insurance coverage.  BuildCo obtained the insurance but later failed to pay the premiums. The insurance company cancelled the policy, and GovAgency is now seeking to terminate the contract with BuildCo, arguing that the lack of insurance coverage constitutes a breach of contract.  BuildCo argues that the insurance cancellation was due to the insurance company's error, not their fault, and that GovAgency should be estopped from terminating the contract.  Should the Court allow GovAgency to terminate the contract? ",
+    "Legal Principles": "Breach of Contract,  Contractual Conditions,  Estoppel,  Government Contracts,  Insurance,  Termination of Contracts,  Force Majeure",
+    "Relevant Sections": "Indian Contract Act, 1872,  Specific Relief Act, 1877,  Relevant Government Procurement Regulations",
+    "Context": "Construction Law,  Contract Termination Dispute,  Insurance Coverage,  Government Procurement,  Jurisdiction: High Court of Delhi,  Case Type: Suit for Injunction and Declaration"
+  },
+  {
+    "Query": "Two companies (Alpha Inc. and Beta Corp) entered into a joint venture agreement to develop a new software product.  The agreement specified that Alpha Inc. would be responsible for the software development and Beta Corp. for marketing.  Alpha Inc. completed the development but alleges that Beta Corp. failed to fulfill its marketing obligations.  Alpha Inc. is now suing Beta Corp. for breach of contract and seeking damages.  Beta Corp. argues that the agreement was breached by Alpha Inc. due to delays in software development.  Should the Court find Beta Corp. liable for breach of contract? ",
+    "Legal Principles": "Joint Venture Agreements,  Breach of Contract,  Contractual Obligations,  Damages,  Causation,  Mitigation of Damages,  Contractual Interpretation",
+    "Relevant Sections": "Indian Contract Act, 1872,  Relevant Provisions of the Companies Act,  Specific Relief Act, 1877",
+    "Context": "Commercial Dispute,  Joint Venture Agreement,  Breach of Contract,  Damages,  Jurisdiction: High Court of Bombay,  Case Type: Suit for Damages and Injunctive Relief"
+  },
+  {
+    "Query": "A landlord (Mr. Singh) leased a commercial property to a tenant (Ms. Sharma) for a period of five years.  The lease agreement contained a clause stating that the tenant could not assign the lease without the landlord's written consent.  Ms. Sharma assigned the lease to another company (NewCo) without obtaining the landlord's consent.  Mr. Singh is now seeking to terminate the lease and evict NewCo.  NewCo argues that the assignment was necessary for their business operations and that Mr. Singh should be estopped from terminating the lease.  Should the Court uphold Mr. Singh's right to terminate the lease? ",
+    "Legal Principles": "Lease Agreements,  Assignment of Leases,  Breach of Contract,  Estoppel,  Landlord-Tenant Law,  Eviction,  Contractual Interpretation",
+    "Relevant Sections": "Transfer of Property Act, 1882,  Relevant Provisions of the Rent Control Acts,  Specific Relief Act, 1877",
+    "Context": "Real Estate Law,  Lease Termination Dispute,  Assignment of Lease,  Eviction,  Jurisdiction: High Court of Madras,  Case Type: Suit for Eviction and Injunctive Relief"
+  },
+  {
+    "Query": "A company (TechCo) developed a new software product and filed for a patent.  Another company (CopyCo) launched a similar software product that TechCo alleges infringes on its patent.  TechCo is suing CopyCo for patent infringement and seeking an injunction to prevent CopyCo from further marketing and selling their product.  CopyCo argues that its software is not infringing and that TechCo's patent is invalid.  Should the Court grant an injunction against CopyCo? ",
+    "Legal Principles": "Patent Law,  Patent Infringement,  Validity of Patents,  Injunctive Relief,  Balance of Convenience,  Irreparable Harm,  Intellectual Property Law",
+    "Relevant Sections": "The Patents Act, 1970,  Relevant Provisions of the Intellectual Property Appellate Board (IPAB)",
+    "Context": "Intellectual Property Dispute,  Patent Infringement,  Injunction,  Jurisdiction: High Court of Delhi,  Case Type: Suit for Infringement and Injunction"
+  },
+  {
+    "Query": "A couple (Mr. & Mrs. Rao) hired a contractor (BuildWell) to construct their new home.  The construction contract included a clause stating that BuildWell would be responsible for obtaining all necessary building permits.  BuildWell failed to obtain a critical permit, and the local authorities issued a stop-work order on the construction project.  Mr. & Mrs. Rao are now suing BuildWell for breach of contract and seeking damages.  BuildWell argues that the failure to obtain the permit was due to a misunderstanding of the regulations and that Mr. & Mrs. Rao should have checked the permits themselves.  Should the Court find BuildWell liable for breach of contract? ",
+    "Legal Principles": "Construction Contracts,  Breach of Contract,  Contractual Obligations,  Building Permits,  Damages,  Negligence,  Contractual Interpretation",
+    "Relevant Sections": "Indian Contract Act, 1872,  Relevant Building Regulations,  Specific Relief Act, 1877",
+    "Context": "Construction Law,  Breach of Contract,  Building Permits,  Damages,  Jurisdiction: High Court of Calcutta,  Case Type: Suit for Damages and Injunctive Relief"
+  },
+  {
+    "Query": "A company (FinCo) offered a loan to a borrower (Mr. Kumar).  The loan agreement included a clause stating that FinCo could unilaterally increase the interest rate on the loan if certain economic conditions changed.  FinCo subsequently increased the interest rate, citing the rise in inflation as a reason.  Mr. Kumar is now challenging the interest rate increase, arguing that it was not justified and that FinCo violated the terms of the agreement.  FinCo argues that the interest rate increase was permissible under the agreement.  Should the Court uphold the validity of the interest rate increase? ",
+    "Legal Principles": "Loan Agreements,  Contractual Interpretation,  Unilateral Variation,  Interest Rates,  Economic Conditions,  Good Faith,  Fairness",
+    "Relevant Sections": "Indian Contract Act, 1872,  Relevant Provisions of the Reserve Bank of India Act,  Specific Relief Act, 1877",
+    "Context": "Banking and Finance Law,  Loan Agreement Dispute,  Interest Rate Increase,  Jurisdiction: High Court of Bombay,  Case Type: Suit for Declaration and Injunctive Relief"
+  },
+  {
+    "Query": "A company (DataTech) developed a new software program that uses a unique algorithm.  Another company (SoftTech) independently developed a similar software program that also uses the same unique algorithm.  DataTech claims that SoftTech infringed on its copyright by using the algorithm without permission.  SoftTech argues that they developed the algorithm independently and that DataTech's copyright is not valid.  Should the Court find SoftTech liable for copyright infringement? ",
+    "Legal Principles": "Copyright Law,  Copyright Infringement,  Originality,  Independent Creation,  Software Copyright,  Algorithms,  Intellectual Property Law",
+    "Relevant Sections": "The Copyright Act, 1957,  Relevant Provisions of the Intellectual Property Appellate Board (IPAB)",
+    "Context": "Intellectual Property Dispute,  Copyright Infringement,  Software Copyright,  Jurisdiction: High Court of Delhi,  Case Type: Suit for Infringement and Injunctive Relief"
+  },
+  {
+    "Query": "A company (MedCo) advertised a new drug for treating a specific disease.  The advertisement claimed that the drug was highly effective and had no side effects.  However, after using the drug, several patients experienced serious side effects, and some even suffered health complications.  The patients are now suing MedCo for false advertising and seeking damages.  MedCo argues that the advertisement was based on legitimate scientific research and that they were not responsible for the side effects.  Should the Court find MedCo liable for false advertising? ",
+    "Legal Principles": "Consumer Protection Law,  False Advertising,  Misleading Advertisements,  Product Liability,  Damages,  Consumer Rights,  Negligence",
+    "Relevant Sections": "The Consumer Protection Act, 1986,  The Drugs and Cosmetics Act, 1940,  Relevant Advertising Standards",
+    "Context": "Consumer Protection Law,  False Advertising,  Product Liability,  Jurisdiction: National Consumer Disputes Redressal Commission (NCDRC),  Case Type: Consumer Complaint"
+  },
+  {
+    "Query": "A husband and wife (Mr. & Mrs. Gupta) are going through a divorce.  They have a prenuptial agreement that specifies the division of their assets in the event of a divorce.  The agreement states that the husband's business assets would be his separate property, while the wife's jewelry collection would be her separate property.  However, the husband claims that the wife misrepresented the value of her jewelry collection during the prenuptial agreement negotiations, and that he should be entitled to a larger share of the marital assets.  Should the Court uphold the prenuptial agreement or modify it based on the husband's claims? ",
+    "Legal Principles": "Family Law,  Prenuptial Agreements,  Misrepresentation,  Marital Assets,  Divorce,  Contractual Interpretation,  Fairness",
+    "Relevant Sections": "The Hindu Marriage Act, 1955,  The Special Marriage Act, 1954,  The Indian Contract Act, 1872",
+    "Context": "Family Law,  Divorce Proceedings,  Prenuptial Agreement Dispute,  Jurisdiction: Family Court,  Case Type: Divorce Petition" 
+  }
+]
+```

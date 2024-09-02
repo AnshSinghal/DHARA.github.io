@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A construction company is suing a homeowner for non-payment of a contract. The homeowner claims the work was not completed to the agreed-upon specifications and that the construction company is barred by limitations. The construction company argues that the homeowner's claim is barred by limitations because they filed an application under Section 8 of the A&C Act to refer the dispute to arbitration.",
+    "Legal Principles": "Section 14 of the Limitation Act, 1963, Section 8 of the Arbitration and Conciliation Act, 1996, commencement of arbitral proceedings, counterclaims in arbitration.",
+    "Relevant Sections": "Section 14 of the Limitation Act, 1963: Exclusion of time of proceeding bona fide in court without jurisdiction.\n\nSection 8 of the Arbitration and Conciliation Act, 1996: Power to refer parties to arbitration where there is an arbitration agreement.",
+    "Context": "This is a case involving a dispute between a construction company and a homeowner. The homeowner is seeking to enforce a counterclaim against the construction company. The construction company argues that the counterclaim is barred by limitations. The court must determine whether the time spent by the homeowner in pursuing their application under Section 8 of the A&C Act is excludable under Section 14 of the Limitation Act."
+  },
+  {
+    "Query": "A software developer is suing a client for non-payment of services. The client claims that the software did not meet the agreed-upon specifications and that the developer is barred by limitations. The developer argues that the client's claim is barred by limitations because they issued a notice under Section 21 of the A&C Act requesting arbitration.",
+    "Legal Principles": "Section 21 of the Arbitration and Conciliation Act, 1996, commencement of arbitral proceedings, counterclaims in arbitration, limitation periods.",
+    "Relevant Sections": "Section 21 of the Arbitration and Conciliation Act, 1996: Commencement of arbitral proceedings.",
+    "Context": "This case involves a dispute between a software developer and a client. The client is seeking to enforce a counterclaim against the developer. The developer argues that the counterclaim is barred by limitations. The court must determine whether the notices issued by the client constitute a request for arbitration under Section 21 of the A&C Act."
+  },
+  {
+    "Query": "A business partnership is dissolving and the partners are disputing the division of assets. One partner files a claim for a specific asset, while the other partner files a counterclaim for a different asset. Both claims are filed within the statutory limitation period. However, the partner who filed the counterclaim had previously filed an application under Section 8 of the A&C Act to refer the dispute to arbitration. Can the counterclaim be considered barred by limitations?",
+    "Legal Principles": "Section 8 of the Arbitration and Conciliation Act, 1996, Section 14 of the Limitation Act, 1963, commencement of arbitral proceedings, counterclaims in arbitration.",
+    "Relevant Sections": "Section 8 of the Arbitration and Conciliation Act, 1996: Power to refer parties to arbitration where there is an arbitration agreement.\n\nSection 14 of the Limitation Act, 1963: Exclusion of time of proceeding bona fide in court without jurisdiction.",
+    "Context": "This case involves a dispute between two partners in a dissolving business. Both partners are making claims against each other. The court must determine whether the time spent by one partner in pursuing their application under Section 8 of the A&C Act can be excluded from the limitation period for their counterclaim."
+  },
+  {
+    "Query": "A landlord is suing a tenant for unpaid rent. The tenant claims that the landlord breached the lease agreement and files a counterclaim for damages. The landlord argues that the tenant's counterclaim is barred by limitations. However, the tenant had previously sent a notice to the landlord demanding arbitration. Can the counterclaim be considered barred by limitations?",
+    "Legal Principles": "Section 21 of the Arbitration and Conciliation Act, 1996, commencement of arbitral proceedings, counterclaims in arbitration, limitation periods.",
+    "Relevant Sections": "Section 21 of the Arbitration and Conciliation Act, 1996: Commencement of arbitral proceedings.",
+    "Context": "This case involves a dispute between a landlord and a tenant. The tenant is seeking to enforce a counterclaim against the landlord. The landlord argues that the counterclaim is barred by limitations. The court must determine whether the notice sent by the tenant constitutes a request for arbitration under Section 21 of the A&C Act."
+  },
+  {
+    "Query": "A supplier is suing a buyer for non-payment of goods. The buyer claims that the goods were defective and files a counterclaim for damages. The supplier argues that the buyer's counterclaim is barred by limitations. However, the buyer had previously filed an application under Section 8 of the A&C Act to refer the dispute to arbitration. Can the counterclaim be considered barred by limitations?",
+    "Legal Principles": "Section 8 of the Arbitration and Conciliation Act, 1996, Section 14 of the Limitation Act, 1963, commencement of arbitral proceedings, counterclaims in arbitration.",
+    "Relevant Sections": "Section 8 of the Arbitration and Conciliation Act, 1996: Power to refer parties to arbitration where there is an arbitration agreement.\n\nSection 14 of the Limitation Act, 1963: Exclusion of time of proceeding bona fide in court without jurisdiction.",
+    "Context": "This case involves a dispute between a supplier and a buyer. The buyer is seeking to enforce a counterclaim against the supplier. The supplier argues that the counterclaim is barred by limitations. The court must determine whether the time spent by the buyer in pursuing their application under Section 8 of the A&C Act can be excluded from the limitation period for their counterclaim."
+  },
+  {
+    "Query": "A musician is suing a record label for breach of contract. The record label counterclaims for breach of contract, alleging that the musician failed to fulfill their obligations under the recording agreement. The musician argues that the record label's counterclaim is barred by limitations. However, the record label had previously sent a notice to the musician requesting arbitration. Can the counterclaim be considered barred by limitations?",
+    "Legal Principles": "Section 21 of the Arbitration and Conciliation Act, 1996, commencement of arbitral proceedings, counterclaims in arbitration, limitation periods.",
+    "Relevant Sections": "Section 21 of the Arbitration and Conciliation Act, 1996: Commencement of arbitral proceedings.",
+    "Context": "This case involves a dispute between a musician and a record label. The record label is seeking to enforce a counterclaim against the musician. The musician argues that the counterclaim is barred by limitations. The court must determine whether the notice sent by the record label constitutes a request for arbitration under Section 21 of the A&C Act."
+  },
+  {
+    "Query": "A company is suing a former employee for breach of a confidentiality agreement. The former employee counterclaims for wrongful termination. The company argues that the former employee's counterclaim is barred by limitations. However, the former employee had previously filed an application under Section 8 of the A&C Act to refer the dispute to arbitration. Can the counterclaim be considered barred by limitations?",
+    "Legal Principles": "Section 8 of the Arbitration and Conciliation Act, 1996, Section 14 of the Limitation Act, 1963, commencement of arbitral proceedings, counterclaims in arbitration.",
+    "Relevant Sections": "Section 8 of the Arbitration and Conciliation Act, 1996: Power to refer parties to arbitration where there is an arbitration agreement.\n\nSection 14 of the Limitation Act, 1963: Exclusion of time of proceeding bona fide in court without jurisdiction.",
+    "Context": "This case involves a dispute between a company and a former employee. The former employee is seeking to enforce a counterclaim against the company. The company argues that the counterclaim is barred by limitations. The court must determine whether the time spent by the former employee in pursuing their application under Section 8 of the A&C Act can be excluded from the limitation period for their counterclaim."
+  },
+  {
+    "Query": "A homeowner is suing a contractor for shoddy workmanship. The contractor counterclaims for unpaid invoices. The homeowner argues that the contractor's counterclaim is barred by limitations. However, the contractor had previously sent a notice to the homeowner requesting arbitration. Can the counterclaim be considered barred by limitations?",
+    "Legal Principles": "Section 21 of the Arbitration and Conciliation Act, 1996, commencement of arbitral proceedings, counterclaims in arbitration, limitation periods.",
+    "Relevant Sections": "Section 21 of the Arbitration and Conciliation Act, 1996: Commencement of arbitral proceedings.",
+    "Context": "This case involves a dispute between a homeowner and a contractor. The contractor is seeking to enforce a counterclaim against the homeowner. The homeowner argues that the counterclaim is barred by limitations. The court must determine whether the notice sent by the contractor constitutes a request for arbitration under Section 21 of the A&C Act."
+  },
+  {
+    "Query": "A publishing house is suing an author for breach of contract. The author counterclaims for copyright infringement. The publishing house argues that the author's counterclaim is barred by limitations. However, the author had previously filed an application under Section 8 of the A&C Act to refer the dispute to arbitration. Can the counterclaim be considered barred by limitations?",
+    "Legal Principles": "Section 8 of the Arbitration and Conciliation Act, 1996, Section 14 of the Limitation Act, 1963, commencement of arbitral proceedings, counterclaims in arbitration.",
+    "Relevant Sections": "Section 8 of the Arbitration and Conciliation Act, 1996: Power to refer parties to arbitration where there is an arbitration agreement.\n\nSection 14 of the Limitation Act, 1963: Exclusion of time of proceeding bona fide in court without jurisdiction.",
+    "Context": "This case involves a dispute between a publishing house and an author. The author is seeking to enforce a counterclaim against the publishing house. The publishing house argues that the counterclaim is barred by limitations. The court must determine whether the time spent by the author in pursuing their application under Section 8 of the A&C Act can be excluded from the limitation period for their counterclaim."
+  },
+  {
+    "Query": "A tech startup is suing a competitor for patent infringement. The competitor counterclaims for unfair competition. The tech startup argues that the competitor's counterclaim is barred by limitations. However, the competitor had previously sent a notice to the tech startup requesting arbitration. Can the counterclaim be considered barred by limitations?",
+    "Legal Principles": "Section 21 of the Arbitration and Conciliation Act, 1996, commencement of arbitral proceedings, counterclaims in arbitration, limitation periods.",
+    "Relevant Sections": "Section 21 of the Arbitration and Conciliation Act, 1996: Commencement of arbitral proceedings.",
+    "Context": "This case involves a dispute between two tech companies. The competitor is seeking to enforce a counterclaim against the tech startup. The tech startup argues that the counterclaim is barred by limitations. The court must determine whether the notice sent by the competitor constitutes a request for arbitration under Section 21 of the A&C Act."
+  }
+]
+```

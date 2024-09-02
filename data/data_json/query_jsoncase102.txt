@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A construction company has filed a lawsuit against a subcontractor for failing to complete a project on time, resulting in financial losses. The subcontractor argues that delays were caused by the company's own actions. The court needs to determine liability and damages.",
+    "Legal Principles": "Contract law, breach of contract,  damages for breach of contract,  mitigation of damages,  foreseeability of damages.",
+    "Relevant Sections": "Section 34 of the Arbitration and Conciliation Act, 1996.",
+    "Context": "Commercial law, dispute resolution,  contractual liability,  jurisdiction - India"
+  },
+  {
+    "Query": "A landlord has evicted a tenant for non-payment of rent. The tenant claims the eviction was illegal as the landlord did not follow the proper legal procedures. The court needs to determine the legality of the eviction.",
+    "Legal Principles": "Landlord-tenant law,  eviction,  due process,  legal procedures for eviction,  breach of lease agreement.",
+    "Relevant Sections": "Relevant sections of the local landlord-tenant law,  possibly procedural rules of civil procedure",
+    "Context": "Real estate law,  property law,  jurisdiction - specific state or province"
+  },
+  {
+    "Query": "A company is seeking to trademark a new product name but another company claims the name is too similar to their existing trademark. The court must determine if the proposed name infringes on the existing trademark.",
+    "Legal Principles": "Trademark law,  trademark infringement,  likelihood of confusion,  trademark dilution,  fair use.",
+    "Relevant Sections": "Relevant sections of the trademark act,  possibly case law on trademark infringement.",
+    "Context": "Intellectual property law,  business law,  jurisdiction - specific country"
+  },
+  {
+    "Query": "A driver was involved in a car accident with a pedestrian. The driver claims the pedestrian was jaywalking and therefore bears some responsibility for the accident. The court needs to assess the respective levels of fault and determine liability for damages.",
+    "Legal Principles": "Torts,  negligence,  contributory negligence,  proximate cause,  damages in personal injury cases.",
+    "Relevant Sections": "Sections related to negligence and contributory negligence in the relevant state or province's tort law",
+    "Context": "Personal injury law,  tort law,  jurisdiction - specific state or province"
+  },
+  {
+    "Query": "A former employee is suing their former employer for wrongful termination. The employee claims they were fired without cause and in violation of their employment contract. The court needs to determine if the termination was wrongful and assess damages.",
+    "Legal Principles": "Employment law,  wrongful termination,  breach of contract,  implied contract,  discrimination,  retaliatory firing.",
+    "Relevant Sections": "Relevant sections of the employment law statutes,  possible clauses in the employment contract",
+    "Context": "Employment law,  labor law,  jurisdiction - specific state or province"
+  },
+  {
+    "Query": "A homeowner is suing a construction company for defective work on their home. The company claims the defects were caused by the homeowner's own actions. The court needs to determine liability and whether the homeowner is entitled to repairs or compensation.",
+    "Legal Principles": "Contract law,  breach of contract,  construction defects,  warranty,  damages for defective workmanship.",
+    "Relevant Sections": "Relevant sections of the construction contract,  possibly relevant state or province building codes",
+    "Context": "Construction law,  contract law,  jurisdiction - specific state or province"
+  },
+  {
+    "Query": "A parent is seeking custody of their child after a divorce. The other parent objects to the custody arrangement and claims it is not in the best interests of the child. The court needs to determine the best custody arrangement for the child.",
+    "Legal Principles": "Family law,  child custody,  best interests of the child,  parental fitness,  child visitation.",
+    "Relevant Sections": "Relevant sections of the state's child custody laws",
+    "Context": "Family law,  jurisdiction - specific state or province"
+  },
+  {
+    "Query": "A patient is suing a doctor for medical malpractice. The patient claims the doctor's negligence led to a serious medical condition. The court needs to determine if the doctor breached the standard of care and if their negligence caused the patient's injuries.",
+    "Legal Principles": "Medical malpractice,  negligence,  standard of care,  proximate cause,  damages in medical malpractice cases.",
+    "Relevant Sections": "Relevant sections of the state's medical malpractice laws",
+    "Context": "Medical law,  tort law,  jurisdiction - specific state or province"
+  },
+  {
+    "Query": "A business owner is facing a lawsuit from a former employee who claims they were discriminated against based on their race. The business owner denies the allegations. The court needs to determine if discrimination occurred and assess damages.",
+    "Legal Principles": "Employment law,  discrimination,  disparate treatment,  disparate impact,  prima facie case,  burden of proof.",
+    "Relevant Sections": "Relevant sections of federal and state anti-discrimination laws",
+    "Context": "Employment law,  civil rights law,  jurisdiction - specific state or province"
+  },
+  {
+    "Query": "A homeowner is seeking to enforce a restrictive covenant that prevents a neighbor from building a large addition to their property. The neighbor claims the covenant is outdated and should not apply. The court needs to determine the validity and enforceability of the restrictive covenant.",
+    "Legal Principles": "Real property law,  restrictive covenants,  enforceability of covenants,  changed circumstances,  public policy.",
+    "Relevant Sections": "Relevant sections of state property law and possibly the local zoning ordinances",
+    "Context": "Real estate law,  property law,  jurisdiction - specific state or province"
+  }
+]
+```

@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A trademark infringement case where the plaintiff claims the defendant is selling counterfeit products online and through physical stores, but the defendant argues that the plaintiff's online presence doesn't establish jurisdiction in the defendant's city.",
+    "Legal Principles": "Territorial jurisdiction in trademark infringement cases, rejection of plaint under Order VII Rule 10 of the CPC, quia timet suits, review of orders.",
+    "Relevant Sections": "Order VII Rule 10, CPC; Section 114 of CPC; Section 134 of the Trade Marks Act, 1999; Section 20 of the CPC;  Exphar Sa v. Eupharma Laboratories Ltd.: (2004) 3 SCC 688; M/s. RSPL Limited v. Mukesh Sharma &Anr.: 2016 SCC OnLine Del 4285; Allied Blenders & Distillers Pvt. Ltd. v. Prag Distillery Pvt. Ltd.&Anr.: 2017 SCC OnLine Del 7225; World Wrestling Entertainment, Inc. v. Reshma Collection: 2014 SCC OnLine Del 2031.",
+    "Context": "Trademark infringement case, India, Delhi High Court, Commercial Court" 
+  },
+  {
+    "Query": "A case where a party seeks to review an order passed with the consent of both parties, claiming that their previous lawyer made concessions without their knowledge.",
+    "Legal Principles": "Review of orders, consent orders, binding effect of lawyer's actions on clients.",
+    "Relevant Sections": "Section 114 of CPC",
+    "Context": "Commercial Court, Delhi High Court, India"
+  },
+  {
+    "Query": "A dispute over the interpretation of the 'carrying on business' clause in the context of territorial jurisdiction for a trademark infringement case.",
+    "Legal Principles": "Territorial jurisdiction, 'carrying on business' for jurisdiction purposes, online presence and jurisdiction.",
+    "Relevant Sections": "Section 134 of the Trade Marks Act, 1999; Section 20 of the CPC",
+    "Context": "Trademark infringement case, Delhi High Court, India" 
+  },
+  {
+    "Query": "A plaintiff claims a cause of action for trademark infringement based on the defendant's potential future activity within the court's jurisdiction.",
+    "Legal Principles": "Quia timet actions, anticipatory relief, trademark infringement, territorial jurisdiction.",
+    "Relevant Sections": "Order VII Rule 10, CPC; Section 134 of the Trade Marks Act, 1999",
+    "Context": "Trademark infringement case, Delhi High Court, Commercial Court, India" 
+  },
+  {
+    "Query": "A case challenging the rejection of a plaint on the basis of lack of territorial jurisdiction where the plaintiff claims to have physical stores and an online presence within the court's jurisdiction.",
+    "Legal Principles": "Territorial jurisdiction, online presence and jurisdiction, rejection of plaint under Order VII Rule 10 of the CPC, 'carrying on business' for jurisdiction purposes.",
+    "Relevant Sections": "Order VII Rule 10, CPC; Section 134 of the Trade Marks Act, 1999; Section 20 of the CPC",
+    "Context": "Trademark infringement case, Delhi High Court, Commercial Court, India" 
+  },
+  {
+    "Query": "A case involving a party's attempt to use a general listing on online business directories as evidence of 'carrying on business' for the purposes of establishing territorial jurisdiction.",
+    "Legal Principles": "Territorial jurisdiction, online presence and jurisdiction, 'carrying on business' for jurisdiction purposes.",
+    "Relevant Sections": "Section 134 of the Trade Marks Act, 1999; Section 20 of the CPC",
+    "Context": "Trademark infringement case, Delhi High Court, Commercial Court, India"
+  },
+  {
+    "Query": "A case where the court needs to determine if the defendant's online advertising campaign targeting consumers within the court's jurisdiction constitutes 'carrying on business' for jurisdictional purposes.",
+    "Legal Principles": "Territorial jurisdiction, online presence and jurisdiction, 'carrying on business' for jurisdiction purposes, online advertising and jurisdiction.",
+    "Relevant Sections": "Section 134 of the Trade Marks Act, 1999; Section 20 of the CPC",
+    "Context": "Trademark infringement case, Delhi High Court, Commercial Court, India"
+  },
+  {
+    "Query": "A case where a plaintiff argues that the defendant's presence on e-commerce platforms like Amazon and Flipkart establishes jurisdiction in the plaintiff's city.",
+    "Legal Principles": "Territorial jurisdiction, online presence and jurisdiction, 'carrying on business' for jurisdiction purposes, e-commerce platforms and jurisdiction.",
+    "Relevant Sections": "Section 134 of the Trade Marks Act, 1999; Section 20 of the CPC",
+    "Context": "Trademark infringement case, Delhi High Court, Commercial Court, India"
+  },
+  {
+    "Query": "A case where a plaintiff seeks to establish jurisdiction based on the defendant's potential future activity within the court's jurisdiction, but the defendant has already started selling the infringing product in another region.",
+    "Legal Principles": "Quia timet actions, territorial jurisdiction, anticipatory relief, trademark infringement.",
+    "Relevant Sections": "Order VII Rule 10, CPC; Section 134 of the Trade Marks Act, 1999",
+    "Context": "Trademark infringement case, Delhi High Court, Commercial Court, India"
+  },
+  {
+    "Query": "A case where a plaintiff argues that the defendant's presence on a website that allows consumers to purchase goods online establishes jurisdiction in the plaintiff's city.",
+    "Legal Principles": "Territorial jurisdiction, online presence and jurisdiction, 'carrying on business' for jurisdiction purposes, interactive websites and jurisdiction.",
+    "Relevant Sections": "Section 134 of the Trade Marks Act, 1999; Section 20 of the CPC",
+    "Context": "Trademark infringement case, Delhi High Court, Commercial Court, India"
+  }
+]
+```

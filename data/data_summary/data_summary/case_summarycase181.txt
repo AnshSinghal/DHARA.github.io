@@ -1,0 +1,149 @@
+## 1. Case Title
+
+* **Case Name:** Skypower Solar India Private Limited vs Sterling And Wilson International Fze
+* **Court:** Delhi High Court
+* **Date of Judgment:** 10th November 2023
+* **Citation:** FAO(OS) (COMM) 29/2022 & 30/2022
+
+## 2. Background and Context
+
+**Brief Overview:**
+
+This case arose from a dispute between Skypower Solar India Private Limited (SIPL) and Sterling and Wilson International FZE (S&W) concerning a 50MW solar power plant in Madhya Pradesh. S&W, part of the Shapoorji Pallonji Group, supplied solar modules, PV inverters, and other equipment (Offshore Supplies) to SIPL, a company owned by the Skypower Group. The dispute centered around S&W's claim for payment of USD 30,719,892.60 for the Offshore Supplies, which SIPL refused to pay due to alleged breaches by Sterling and Wilson Private Limited (SWPL), a related entity of S&W, under other agreements.
+
+**Key Issues:**
+
+1. Whether the Delhi High Court had jurisdiction to issue interim measures of protection under Section 9 of the A&C Act for an arbitration proceeding taking place in Singapore under the SIAC Rules.
+2. Whether the court could issue such orders against non-signatories to the arbitration agreement.
+3. Whether the court's direction for SIPL to furnish a bank guarantee equivalent to 50% of the amount claimed by S&W was justified under the principles of Order XXXVIII Rule 5 of the CPC.
+
+## 3. Legal Principles Involved
+
+**Relevant Statutes and Provisions:**
+
+* **Arbitration and Conciliation Act, 1996 (A&C Act)**
+    * Section 9(1): Powers of Court to grant interim measures of protection.
+* **Commercial Courts Act, 2015:**
+    * Section 13: Powers of Commercial Courts.
+* **Code of Civil Procedure, 1908 (CPC):**
+    * Order XXXVIII Rule 5: Attachment before judgment.
+
+**Precedents Cited:**
+
+* **Chloro Controls India Private Limited v. Severn Trent Water Purification Inc. & Ors.** (2013) 1 SCC 641 - Group of Companies Doctrine
+* **Mahanagar Telephone Nigam Limited v. Canara Bank & Ors.** 2019 SCC OnLine SC 995 - Group of Companies Doctrine
+* **Ameet Lalchand Shah & Ors. v. Rishabh Enterprises & Anr.** (2018) 15 SCC 678 - Group of Companies Doctrine
+* **Essar House Private Limited v. Arcellor Mittal Nippon Steel India Limited** 2022 SCC OnLine SC 1219 - Powers of Court under Section 9 of the A&C Act.
+* **Ajay Singh & Ors. v. Kal Airways Private Limited & Ors.** 2017 SCC OnLine Del 8934 - Powers of Court under Section 9 of the A&C Act.
+* **Jagdish Ahuja & Anr. v. Cupino Limited** 2020 SCC OnLine Bom 849 - Powers of Court under Section 9 of the A&C Act.
+* **Valentine Maritime Ltd. v. Kreuz Subsea Pte Limited & Anr.** 2021 SCC OnLine Bom 75 - Powers of Court under Section 9 of the A&C Act.
+* **Huawei Technologies Co. Ltd. v. Sterlite Technologies Limited** 2016 SCC OnLine Del 604 - Powers of Court under Section 9 of the A&C Act.
+* **Firm Ashok Traders & Anr. v. Gurmukh Das Saluja & Ors.** (2004) 3 SCC 155 - Powers of Court under Section 9 of the A&C Act.
+* **Adhunik Steels Ltd. v. Orissa Manganese and Minerals (P) Ltd.** (2007) 7 SCC 125 - Principles for granting interim injunctions under Section 9 of the A&C Act.
+* **Natrip Implementation Society v. IVRCL Limited** 2016 SCC OnLine Del 5023 - Principles for securing an amount claimed prior to an arbitral award.
+* **Nimbus Communication Ltd. v. Board of Control for Cricket in India & Anr.** 2012 SCC OnLine Bom 287 - Principles for granting interim measures under Section 9 of the A&C Act.
+* **National Highway Authority of India v. Punjab National Bank & Ors.** 2017 SCC OnLine Del 11312 - Powers of Court under Section 9 of the A&C Act.
+* **Raman Tech. & Process Engineering Co. & Anr. v. Solanki Traders** (2008) 2 SCC 302 - Principles for granting orders under Order XXXVIII Rule 5 of the CPC.
+* **National Shipping Companies of Saudi Arabia v. Sentrans Industries Limited** 2004 SCC OnLine Bom 25 - Exercise of powers under Section 9(ii)(b) of the A&C Act.
+* **Tahal Consulting Engineers India Pvt. Ltd. v. Promax Power Ltd.** 2023 SCC OnLine Del 2069 - Powers of the Arbitral Tribunal to pass an order of attachment before the Award.
+* **Sanghi Industries Limited v. Ravin Cables Ltd. & Anr.** 2022 SCC OnLine SC 1329 - Conditions for granting interim measures under Section 9 of the A&C Act.
+
+**Legal Doctrines:**
+
+* **Group of Companies Doctrine:** A legal principle holding that a parent company may be liable for the debts and obligations of its subsidiaries, particularly when there is a close relationship and control between them.
+* **Balance of Convenience:** A legal principle used to determine whether granting an interim order would benefit the applicant more than it would harm the respondent.
+* **Prima Facie Case:** A situation where the applicant presents sufficient evidence to establish a reasonable likelihood of success in the legal proceeding.
+
+## 4. Arguments Presented
+
+**Plaintiff’s Argument (S&W):**
+
+* S&W fulfilled its obligations under the Offshore Supply Agreement (OSA) by delivering the Offshore Supplies, including solar modules, PV inverters, and other equipment. 
+* SIPL breached the OSA by failing to pay the invoiced amount within 14 days of receipt, despite achieving the COD. 
+* S&W was entitled to the 90% of the Offshore Supply Price based on the OSA's terms and the achievement of the COD.
+* SIPL's reliance on alleged breaches by SWPL under other agreements was not relevant, as the OSA was a separate and independent agreement.
+* The balance of convenience favored S&W as it was unsecured and could potentially be unable to recover its dues if the shareholding pattern of SIPL and its related entities changed.
+* The Court had the power to grant interim measures of protection under Section 9 of the A&C Act, including the direction to furnish a bank guarantee, as it was a measure to secure S&W's claim.
+* The Court should not withhold relief on a mere technicality, even if certain averments typically required for attachment before judgment under Order XXXVIII Rule 5 of the CPC were not explicitly made.
+
+**Defendant’s Argument (Skypower Group):**
+
+* The OSA was not independent of other agreements, and S&W was aware of the overall contractual arrangements for the project.
+* S&W's affiliate, SWPL, breached its obligations under other agreements, which impacted SIPL's liability to pay for the Offshore Supplies.
+* The direction for a bank guarantee was tantamount to attachment before judgment, which required fulfillment of specific conditions under Order XXXVIII Rule 5 of the CPC, which were not met in this case.
+* There was no evidence that Skypower entities were alienating their assets or acting in a way to frustrate the enforcement of an arbitral award in S&W's favor.
+* The court's decision to issue a bank guarantee was not justified based on the principles underlying Order XXXVIII Rule 5 of the CPC.
+
+## 5. Court’s Analysis and Reasoning
+
+**Key Findings:**
+
+* The Delhi High Court had jurisdiction to issue interim orders in aid of arbitration proceedings conducted overseas under SIAC rules.
+* The Court found that S&W had established a prima facie case for its claim for payment of the Offshore Supply Price, as the OSA was independent, the COD had been achieved, and S&W had fulfilled its obligations under the OSA.
+* The Court acknowledged that the balance of convenience was in favor of S&W, as it was unsecured, and the shareholding pattern of SIPL and its related entities could affect its ability to recover its dues.
+* The Court accepted that the changes in shareholding could impact the arbitration proceedings and the execution of an arbitral award, especially considering the interest of State Discoms in the project.
+* However, the Court found that there was no evidence to suggest that the Skypower entities were alienating their assets or acting in a manner to frustrate the enforcement of an arbitral award.
+
+**Interpretation of Law:**
+
+* The Court interpreted Section 9 of the A&C Act as granting wide powers to the court to issue interim measures of protection, including the power to secure the amount in dispute.
+* The Court noted that the Act does not explicitly exclude the applicability of principles from the CPC when issuing such orders, but emphasized that the court is not unduly bound by the strict text of those provisions.
+* The Court held that the principles underlying Order XXXVIII Rule 5 of the CPC are relevant but not absolute when considering applications for interim relief under Section 9 of the A&C Act.
+* The Court recognized that the primary objective of interim orders is to prevent the frustration of an eventual award, not to convert an unsecured debt into a secured debt.
+
+**Application of Law:**
+
+* The Court applied the principles of prima facie case and balance of convenience in favor of S&W, acknowledging the potential for S&W to be unable to recover its dues if the shareholding of SIPL changed.
+* However, the Court also applied the principle of a strong prima facie case, requiring evidence that the respondent is acting in a way to obstruct or delay the execution of a potential decree.
+* The Court deemed the absence of evidence regarding asset alienation or actions to frustrate the award as a crucial factor in not granting the bank guarantee, despite recognizing the potential challenges in enforcing an award against the Skypower entities.
+
+## 6. Judgment
+
+**Final Decision:**
+
+The Delhi High Court allowed the appeals, setting aside the direction for the Skypower entities to provide a bank guarantee to secure S&W's claim. 
+
+**Relief Granted:**
+
+The Court revoked the order for a bank guarantee.
+
+**Orders:**
+
+* The Court upheld all other interim measures of protection granted in the impugned judgment, preventing any changes in the shareholding of SIPL.
+* The Court clarified that this decision does not preclude S&W from seeking interim relief during the arbitral proceedings.
+
+## 7. Implications
+
+**Impact on Law:**
+
+* This judgment reaffirms the wide powers granted to courts under Section 9 of the A&C Act to issue interim measures of protection.
+* It emphasizes that while the principles of Order XXXVIII Rule 5 of the CPC are relevant when considering such orders, they are not absolute.
+* The decision highlights the importance of evidence regarding asset alienation or actions to frustrate the enforcement of an award as a critical factor in granting interim relief under Section 9 of the A&C Act.
+
+**Future Relevance:**
+
+* This case provides guidance for courts when adjudicating applications for interim relief under Section 9 of the A&C Act, particularly when dealing with claims for securing the amount in dispute.
+* It emphasizes the need for courts to carefully consider the evidence presented and ensure that the principles underlying Order XXXVIII Rule 5 of the CPC are appropriately applied.
+
+**Broader Context:**
+
+* This case demonstrates the challenges that can arise in international commercial arbitration, particularly when dealing with complex cross-border transactions involving multiple entities and agreements.
+* It highlights the significance of carefully drafting and negotiating contractual provisions, including those relating to dispute resolution and security mechanisms, to ensure effective and equitable outcomes.
+
+## 8. Summary Points
+
+* **Key Takeaways:**
+    * The court has broad powers under Section 9 of the A&C Act to grant interim measures of protection, but must apply principles similar to those under the CPC.
+    * A strong prima facie case is essential for securing interim relief, but it is not sufficient on its own.
+    * Evidence regarding asset alienation or actions to frustrate the enforcement of an award is crucial for securing relief under Order XXXVIII Rule 5 of the CPC.
+    * The balance of convenience is a significant factor in determining the appropriateness of interim relief, but it is not the only consideration.
+    *  The court must exercise its discretion cautiously and only grant interim relief when necessary to prevent the frustration of an eventual award.
+
+## 9. References
+
+* **Citations:** See the "Precedents Cited" section above for full citations of the relevant statutes, cases, and legal texts.
+* **Further Reading:**
+    * **Arbitration and Conciliation Act, 1996**
+    * **Code of Civil Procedure, 1908**
+    * **Essar House Private Limited v. Arcellor Mittal Nippon Steel India Limited** (2022 SCC OnLine SC 1219)
+    * **Sanghi Industries Limited v. Ravin Cables Ltd. & Anr.** (2022 SCC OnLine SC 1329) 

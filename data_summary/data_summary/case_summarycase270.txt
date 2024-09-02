@@ -1,0 +1,82 @@
+## 1. Case Title
+
+* **Case Name:** Trinetramilan Product Protection Solutions Private Limited vs. A S Narayanan
+* **Court:** Karnataka High Court
+* **Date of Judgment:** 7 June, 2023
+* **Citation:** NC: 2023:KHC:19391 (WP No. 23517 of 2022 & Connected Matters)
+
+## 2. Background and Context
+
+* **Brief Overview:** This case involved two suits filed by Tara Narayan and her husband A.S. Narayan (respondents) against Trinetramilan Product Protection Solutions Private Limited and its directors (petitioners) for ejectment from a commercial property and recovery of rent arrears. The suits were initially filed in a civil court but were subsequently transferred to a designated Commercial Court under the Commercial Courts Act, 2015.
+* **Key Issues:**
+    * Whether the dispute between the parties constituted a 'commercial dispute' under the Commercial Courts Act, 2015, justifying the transfer to the Commercial Court.
+    * Whether the mandatory pre-litigation mediation requirement under Section 12-A of the Commercial Courts Act applied to the suits, despite them being filed before the enactment of the amendment introducing the requirement.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * The Commercial Courts Act, 2015, specifically Sections 2(1)(c)(vii), 12-A, and 15.
+    * The Code of Civil Procedure (CPC), particularly Order VII Rule 11.
+* **Precedents Cited:**
+    * *Patil Automation Pvt.Ltd., and Others V/s Rakheja Engineers Pvt.Ltd.*, 2022 SCC Online SC 1028
+    * *Mrs. Soni Dave Vs. M/s.Trans Asian Industries Expositions Pvt Ltd.*, 2016 SCC Online Del 4282
+    * *Havells India Limited Vs. The Advertising Standards Council of India*, 2016 Onlince Delhi 760
+* **Legal Doctrines:**
+    * Interpretation of statutes, specifically focusing on the scope of 'commercial dispute' and the prospective effect of legal amendments.
+    * Principles of procedural law, such as the application of Order VII Rule 11 of the CPC for rejection of plaints.
+
+## 4. Arguments Presented
+
+* **Plaintiff’s Argument:** 
+    * The dispute involves a commercial property used for printing business, satisfying the definition of 'commercial dispute' under the Act.
+    * The suit was filed before the amendment introducing Section 12-A and hence the pre-mediation requirement is not applicable.
+    * The transfer to the Commercial Court was justified under Section 15 of the Act.
+* **Defendant’s Argument:**
+    * The dispute is not a commercial dispute, but rather a personal matter related to property ownership and rent arrears.
+    * The plaintiffs failed to comply with Section 12-A of the Act by not engaging in pre-mediation before filing the suit, which is mandatory under the Act.
+    * The suit was filed in the wrong court initially and therefore should be dismissed under Order VII Rule 11 of CPC.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The court found that the suit schedule property was used for printing business, qualifying as 'immovable property used exclusively in trade or commerce' as defined in the Commercial Courts Act.
+    * The court determined that the suits were instituted before the 2018 amendment introducing Section 12-A, rendering the pre-mediation requirement inapplicable to the case.
+    * The court acknowledged the Supreme Court judgment in *Patil Automation* (supra) but determined that it did not have retrospective operation and was not applicable to pending suits.
+* **Interpretation of Law:**
+    * The court interpreted the definition of 'commercial dispute' under the Act broadly, encompassing disputes involving commercial properties used for business activities.
+    * The court emphasized the prospective nature of legal amendments and the principle of non-retroactivity.
+* **Application of Law:**
+    * The court applied the relevant legal provisions and case law to the specific facts of the case, considering the timing of the suit filing and the applicability of the amendments to the Act.
+    * The court rejected the defendants' argument regarding the pre-mediation requirement based on the specific timeframe of the suit filing.
+
+## 6. Judgment
+
+* **Final Decision:** The High Court dismissed the petitions filed by Trinetramilan Product Protection Solutions Private Limited and its directors.
+* **Relief Granted:** No specific relief was granted as the petitions were dismissed.
+* **Orders:** The court upheld the orders of the Commercial Court regarding the transfer of the suits and the rejection of the defendants' application to dismiss the plaint.
+
+## 7. Implications
+
+* **Impact on Law:** This judgment provides further clarity on the interpretation of 'commercial dispute' under the Commercial Courts Act and reaffirms the principle of prospective application of legal amendments. 
+* **Future Relevance:** This case provides a precedent for similar cases involving the transfer of suits to designated Commercial Courts and the application of the pre-mediation requirement under Section 12-A.
+* **Broader Context:** This case highlights the importance of understanding the specific provisions of the Commercial Courts Act and the potential impact of legal amendments on pending suits.
+
+## 8. Summary Points
+
+* The Karnataka High Court dismissed petitions challenging the transfer of suits to a Commercial Court and the rejection of a request to dismiss the plaint.
+* The court found the dispute involving a commercial property used for printing to be a 'commercial dispute' under the Act.
+* The court held that the pre-mediation requirement under Section 12-A was not applicable because the suits were filed before the enactment of the amendment introducing the requirement.
+* The court affirmed the principle of prospective application of legal amendments and the non-retroactivity of such amendments.
+
+## 9. References
+
+* **Citations:**
+    * The Commercial Courts Act, 2015, Sections 2(1)(c)(vii), 12-A, and 15.
+    * The Code of Civil Procedure (CPC), Order VII Rule 11.
+    * *Patil Automation Pvt.Ltd., and Others V/s Rakheja Engineers Pvt.Ltd.*, 2022 SCC Online SC 1028
+    * *Mrs. Soni Dave Vs. M/s.Trans Asian Industries Expositions Pvt Ltd.*, 2016 SCC Online Del 4282
+    * *Havells India Limited Vs. The Advertising Standards Council of India*, 2016 Onlince Delhi 760
+* **Further Reading:**
+    * The Commercial Courts Act, 2015.
+    * The Code of Civil Procedure.
+    * Relevant case law on 'commercial dispute', pre-mediation requirements, and the interpretation of legal amendments.

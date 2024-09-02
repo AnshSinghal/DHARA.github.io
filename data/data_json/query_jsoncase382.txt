@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A landlord is seeking to evict a tenant for non-payment of rent. The lease agreement contains a clause stating that the tenant has a right to renew the lease for a further period of 'NIL' years. The tenant argues that this clause implies an automatic renewal for the same term as the original lease. The landlord argues that the 'NIL' years clause indicates that renewal is only possible with mutual agreement on the duration. How should the court interpret the 'NIL' years clause in the lease agreement?",
+    "Legal Principles": "Interpretation of contracts, particularly ambiguous clauses, is guided by the principle of 'contra proferentem,' which holds that ambiguities are construed against the party who drafted the contract.  Courts also consider the intention of the parties, as evidenced by the surrounding circumstances and the overall context of the agreement. In this case, the interpretation should favor the tenant, as the landlord drafted the contract.",
+    "Relevant Sections": "• Section 91, 92, and 94 of the Indian Evidence Act, 1872 (barring oral evidence to contradict or vary written contracts)\n• Order XII Rule 6 of the Code of Civil Procedure, 1908 (summary judgment based on admission of facts)",
+    "Context": "Jurisdiction: India\nCase Type: Landlord-tenant dispute, contract interpretation"
+  },
+  {
+    "Query": "A company has a lease agreement with a property owner. The agreement includes a clause that allows for renewal of the lease at the end of the term. However, the clause does not specify a renewal period. The company argues that the clause allows for an automatic renewal for the same period as the initial lease. The property owner argues that the lack of a specified period means the renewal requires mutual agreement. Can the company unilaterally renew the lease?",
+    "Legal Principles": "Renewal clauses in lease agreements require clear and unambiguous terms.  If the clause is silent on the renewal period, it is generally interpreted as requiring mutual agreement between the parties for renewal.  This aligns with the principle that contracts should not create perpetual obligations without express consent.",
+    "Relevant Sections": "• Section 14(1)(c) of the Specific Relief Act, 1963 (barring specific performance of contracts that are determinable in nature)",
+    "Context": "Jurisdiction: India\nCase Type: Contract interpretation, lease agreement"
+  },
+  {
+    "Query": "A construction company has a contract with a developer for the construction of a residential building. The contract includes a clause allowing for a 'NIL' year extension of the project completion date. The developer claims that this means the completion date can be extended indefinitely with mutual agreement. The construction company argues that the 'NIL' years clause implies an automatic extension for the original project duration. Which interpretation is correct?",
+    "Legal Principles": "The interpretation of the 'NIL' year clause should prioritize the principle of 'contra proferentem' since the developer drafted the contract.  The court should also consider whether the 'NIL' year clause was intended to grant the developer unfettered discretion to extend the project timeline.",
+    "Relevant Sections": "• Section 91, 92, and 94 of the Indian Evidence Act, 1872 (barring oral evidence to contradict or vary written contracts)",
+    "Context": "Jurisdiction: India\nCase Type: Contract interpretation, construction contract"
+  },
+  {
+    "Query": "A company is disputing a provision in a lease agreement that allows for renewal on 'mutually agreeable terms'. The company argues that the phrase is too vague and allows for arbitrary changes to the lease terms. The property owner argues that the clause provides flexibility for both parties. Is the 'mutually agreeable terms' clause enforceable?",
+    "Legal Principles": "Contracts must be sufficiently certain to be enforceable. Vague and ambiguous terms, such as 'mutually agreeable terms', can make a contract unenforceable.  The court may consider whether the clause is so vague that it renders the contract meaningless or whether it allows for a reasonable interpretation of the parties' intentions.",
+    "Relevant Sections": "• Section 14(1)(c) of the Specific Relief Act, 1963 (barring specific performance of contracts that are determinable in nature)",
+    "Context": "Jurisdiction: India\nCase Type: Contract interpretation, lease agreement"
+  },
+  {
+    "Query": "A business owner has a lease agreement with a landlord that includes a renewal clause allowing for a 'NIL' year extension. The landlord claims that this means the lease can be renewed indefinitely with mutual agreement. The business owner argues that the 'NIL' years clause implies an automatic renewal for the same term as the original lease. Which interpretation is correct?",
+    "Legal Principles": "The interpretation of the 'NIL' year clause should consider the principle of 'contra proferentem,' as the landlord drafted the contract.  The court should also consider the intention of the parties, as evidenced by the surrounding circumstances and the overall context of the agreement.",
+    "Relevant Sections": "• Section 91, 92, and 94 of the Indian Evidence Act, 1872 (barring oral evidence to contradict or vary written contracts)",
+    "Context": "Jurisdiction: India\nCase Type: Contract interpretation, lease agreement"
+  },
+  {
+    "Query": "A software development company has a contract with a client for the development of a website. The contract includes a clause allowing for a 'NIL' month extension of the project completion date. The client claims that this means the completion date can be extended indefinitely with mutual agreement. The software development company argues that the 'NIL' months clause implies an automatic extension for the original project duration. How should the court interpret the 'NIL' month clause in the contract?",
+    "Legal Principles": "The interpretation of the 'NIL' month clause should prioritize the principle of 'contra proferentem' since the client drafted the contract. The court should also consider whether the 'NIL' month clause was intended to grant the client unfettered discretion to extend the project timeline.",
+    "Relevant Sections": "• Section 91, 92, and 94 of the Indian Evidence Act, 1872 (barring oral evidence to contradict or vary written contracts)",
+    "Context": "Jurisdiction: India\nCase Type: Contract interpretation, software development contract"
+  },
+  {
+    "Query": "A partnership agreement between two business partners contains a clause stating that the partnership can be dissolved upon 'mutually agreeable terms'. One partner wants to dissolve the partnership but the other partner disagrees with the proposed terms. Can the first partner dissolve the partnership unilaterally?",
+    "Legal Principles": "Contracts must be sufficiently certain to be enforceable. Vague and ambiguous terms, such as 'mutually agreeable terms', can make a contract unenforceable.  The court may consider whether the clause is so vague that it renders the contract meaningless or whether it allows for a reasonable interpretation of the parties' intentions.",
+    "Relevant Sections": "• Section 14(1)(c) of the Specific Relief Act, 1963 (barring specific performance of contracts that are determinable in nature)",
+    "Context": "Jurisdiction: India\nCase Type: Contract interpretation, partnership agreement"
+  },
+  {
+    "Query": "A company has a license agreement with a software vendor for use of a software program. The agreement includes a clause that allows for renewal of the license on 'mutually agreeable terms'. The company argues that the phrase is too vague and allows for arbitrary changes to the license terms. The software vendor argues that the clause provides flexibility for both parties. Is the 'mutually agreeable terms' clause enforceable?",
+    "Legal Principles": "Contracts must be sufficiently certain to be enforceable. Vague and ambiguous terms, such as 'mutually agreeable terms', can make a contract unenforceable.  The court may consider whether the clause is so vague that it renders the contract meaningless or whether it allows for a reasonable interpretation of the parties' intentions.",
+    "Relevant Sections": "• Section 14(1)(c) of the Specific Relief Act, 1963 (barring specific performance of contracts that are determinable in nature)",
+    "Context": "Jurisdiction: India\nCase Type: Contract interpretation, license agreement"
+  },
+  {
+    "Query": "A homeowner has a contract with a contractor for the renovation of their house. The contract includes a clause allowing for a 'NIL' week extension of the project completion date. The homeowner claims that this means the completion date can be extended indefinitely with mutual agreement. The contractor argues that the 'NIL' weeks clause implies an automatic extension for the original project duration. How should the court interpret the 'NIL' weeks clause in the contract?",
+    "Legal Principles": "The interpretation of the 'NIL' weeks clause should prioritize the principle of 'contra proferentem' since the homeowner drafted the contract.  The court should also consider whether the 'NIL' weeks clause was intended to grant the homeowner unfettered discretion to extend the project timeline.",
+    "Relevant Sections": "• Section 91, 92, and 94 of the Indian Evidence Act, 1872 (barring oral evidence to contradict or vary written contracts)",
+    "Context": "Jurisdiction: India\nCase Type: Contract interpretation, construction contract"
+  },
+  {
+    "Query": "A farmer has a contract with a buyer for the sale of a certain quantity of wheat. The contract includes a clause stating that the delivery date can be extended upon 'mutually agreeable terms'. The farmer wants to extend the delivery date but the buyer disagrees with the proposed terms. Can the farmer unilaterally extend the delivery date?",
+    "Legal Principles": "Contracts must be sufficiently certain to be enforceable. Vague and ambiguous terms, such as 'mutually agreeable terms', can make a contract unenforceable.  The court may consider whether the clause is so vague that it renders the contract meaningless or whether it allows for a reasonable interpretation of the parties' intentions.",
+    "Relevant Sections": "• Section 14(1)(c) of the Specific Relief Act, 1963 (barring specific performance of contracts that are determinable in nature)",
+    "Context": "Jurisdiction: India\nCase Type: Contract interpretation, agricultural contract"
+  }
+]
+```

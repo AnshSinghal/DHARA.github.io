@@ -1,0 +1,123 @@
+## Case Title
+
+* **Case Name:** R.Radha @ Radha Ramalingam vs. Madhan Raj 
+* **Court:** Madras High Court
+* **Date of Judgment:** 30 November 2023
+* **Citation:** C.R.P.Nos.3672, 3800 of 2022, 338 and 2123 of 2023 & C.M.P.Nos.19457, 20005 of 2022, 12931 of 2023
+
+## Background and Context
+
+* **Brief Overview:** This case involves multiple revision petitions arising from two commercial original suits filed in the Commercial Court at Salem. Madhanraj HUF, represented by its Kartha Madhanraj, sued Radha @ Radha Ramalingam for recovery of money lent and advanced on promissory notes. A separate suit was also filed by Madhanraj's wife, B. Niranjani, against Radha @ Radha Ramalingam for recovery of similar debts. Radha @ Radha Ramalingam challenged the jurisdiction of the Commercial Court in both cases, and both the original suits and the challenges were subject to various appeals and revisions in the High Court. 
+
+* **Key Issues:**
+    * **Maintainability of Suit under Commercial Courts Act, 2015:** Whether the disputes in the original suits qualify as "commercial disputes" within the scope of the Commercial Courts Act, 2015.
+    * **Jurisdiction of Commercial Court:** Whether the Commercial Court has jurisdiction to hear these cases, considering the nature of the transactions and the applicability of the Commercial Courts Act.
+    * **Compliance with Section 12-A of the Commercial Courts Act, 2015:** Whether the mandatory requirement of pre-institution mediation under Section 12-A was fulfilled before filing the suits.
+    * **Validity of Orders Passed by the Trial Court:** Whether the orders passed by the Commercial Court, particularly regarding the dismissal of the petition under Order 7 Rule 11 CPC, allowing amendment of the plaint, and accepting a delayed statement of truth, were valid and justifiable.
+
+## Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * **Commercial Courts Act, 2015:** 
+        * Section 2(1)(c) - Definition of "Commercial dispute"
+        * Section 9 - Jurisdiction of Commercial Courts
+        * Section 12-A - Pre-Institution Mediation and Settlement
+        * Section 13 - Appeals
+    * **Code of Civil Procedure (CPC):**
+        * Order 6 Rule 15-A - Statement of truth
+        * Order 6 Rule 17 - Amendment of plaint
+        * Order 7 Rule 11 - Rejection of plaint 
+    * **Negotiable Instruments Act:** Section 138
+* **Precedents Cited:**
+    * Dahiben Vs. Arvindbhai Kalyanji Bhanus Ali (Gajra) dead through Legal representatives and others (2020) 7 Supreme Court Cases 366
+    * Srihari Hanumandas Totala Vs. Hemant Vithal Kamat and others (2021) 9 Supreme Court Cases 99
+    * Sri Biswanath Banik and Another Vs. Sulanga Bose and Others (2022) 7 Supreme Court Cases 731
+    * IHHR Hospitality (Andhra) Pvt., Ltd., Vs. Seema Swami and Others 2022 SCC Online Del 3636
+    * Venkatesh Vincom Pvt., Ltd., Vs. Spice of Joy, Multicuisine Restaurant cum Bar and Others 2022 SCC Online Cal 3010
+    * Amanpreet Kohli Vs. Pankaj Dayal 2023 SCC Online Del 1808
+    * Associated Power Co., Ltd., Vs. Ram Taran Ro AIR 1970 Calcutta 75
+    * Shahi Exports Pvt., Ltd., Vs. Gold Star Line Limited and Others 2021 (6) CTC 671
+    * Patil Automation Pvt., Ltd., and Others Vs. Rakheja Engineers Pvt., Ltd., (2022) 10 Supreme Court Cases 1
+    * Bola Technology Vs. Ujoy Technology Pvt., Ltd., and Another 2022 SCC Online Del 2639
+* **Legal Doctrines:** 
+    * **Jurisdiction:** Determining the legal authority of a court to hear a particular case.
+    * **Interpretation of Statute:** Understanding the intent and meaning of a statutory provision.
+    * **Maintainability of Suit:** Determining whether a lawsuit can be legally filed.
+    * **Mandamus:** A writ issued by a court compelling a public official to perform their duty.
+    * **Res Judicata:** A legal doctrine preventing the re-litigation of a case that has already been decided.
+
+## Arguments Presented
+
+* **Plaintiff’s Argument (Madhanraj HUF and B. Niranjani):**
+    * The transactions involving the lending and borrowing of money were commercial in nature, involving licensed money lenders and business loans.
+    * The Promissory notes and communication between the parties clearly demonstrate a commercial transaction.
+    * The Commercial Courts Act, 2015 applies, granting the Commercial Court jurisdiction to hear the cases.
+    * The requirement of pre-institution mediation under Section 12-A is procedural and can be cured even during the pendency of the suit.
+    * The defendant's arguments regarding lack of jurisdiction and maintainability are baseless and should be rejected.
+* **Defendant’s Argument (Radha @ Radha Ramalingam):**
+    * The Commercial Courts Act, 2015 is not intended to apply to ordinary money claims arising from promissory notes.
+    * The transactions lack a commercial flavour and do not fall under the definition of "commercial dispute" under the Act.
+    * The promissory notes are not "mercantile documents" as defined in the Act, which is a necessary condition for invoking the Act's jurisdiction.
+    * The Commercial Court lacked jurisdiction to hear the cases and the suits should be dismissed.
+    * The mandatory provision of pre-institution mediation under Section 12-A was not complied with, rendering the suits non-maintainable.
+    * The trial court erred in allowing the amendment of the plaint and accepting a delayed statement of truth, which violated procedural rules.
+
+## Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The Court reviewed various judgments on the interpretation of "commercial dispute" and "mercantile documents" under the Commercial Courts Act, 2015.
+    * The Court acknowledged the mandatory nature of pre-institution mediation under Section 12-A as established by the Supreme Court in the "Patil Automation Pvt., Ltd." case.
+    * The Court held that a one-line order dismissing a petition under Order 7 Rule 11 CPC is insufficient and violates the principles of natural justice, requiring a reasoned order. 
+* **Interpretation of Law:**
+    * The Court interpreted Section 2(1)(c) of the Commercial Courts Act, 2015, focusing on the requirement of a "commercial flavour" in the transaction and the relevance of "mercantile documents."
+    * The Court emphasized the mandatory nature of Section 12-A, highlighting its importance in facilitating pre-litigation settlement.
+    * The Court emphasized the importance of reasoned orders in judicial proceedings, particularly when dismissing petitions under Order 7 Rule 11 CPC.
+* **Application of Law:**
+    * The Court applied the legal principles to the facts of the case, examining the nature of the transactions, the documents involved, and the arguments presented by both parties.
+    * The Court found that the trial court's orders dismissing the petition under Order 7 Rule 11 CPC, allowing amendment of the plaint, and accepting the delayed statement of truth were not justified.
+    * The Court held that the suits filed by Madhanraj HUF and B. Niranjani did not comply with the mandatory requirement of pre-institution mediation under Section 12-A of the Commercial Courts Act, 2015.
+
+## Judgment
+
+* **Final Decision:**
+    * The Court allowed the revision petitions filed by Radha @ Radha Ramalingam, challenging the jurisdiction of the Commercial Court.
+    * The Court set aside the order dismissing the petition under Order 7 Rule 11 CPC in the suit filed by Madhanraj HUF.
+    * The Court set aside the order allowing amendment of the plaint in the suit filed by Madhanraj HUF.
+    * The Court dismissed the revision petition challenging the order accepting the delayed statement of truth.
+    * The Court allowed the revision petition filed by Radha @ Radha Ramalingam to strike off the plaint in the suit filed by B. Niranjani.
+* **Relief Granted:**
+    * The Court effectively prevented the Commercial Court from hearing both original suits.
+* **Orders:**
+    * The original suits filed by Madhanraj HUF and B. Niranjani were rejected for non-compliance with Section 12-A of the Commercial Courts Act, 2015.
+    * The parties were left open to pursue their remedies under the Act, as directed by the Supreme Court.
+
+## Implications
+
+* **Impact on Law:**
+    * The judgment reaffirms the mandatory nature of pre-institution mediation under Section 12-A of the Commercial Courts Act, 2015.
+    * The judgment highlights the requirement of reasoned orders when dismissing petitions under Order 7 Rule 11 CPC.
+* **Future Relevance:**
+    * The judgment serves as a reminder to parties seeking to invoke the jurisdiction of Commercial Courts to comply with the pre-institution mediation requirement.
+    * The judgment underscores the importance of judicial reasoning and justification when dismissing petitions under Order 7 Rule 11 CPC.
+* **Broader Context:**
+    * The judgment reflects the increasing emphasis on alternative dispute resolution (ADR) mechanisms in India.
+    * The judgment encourages courts to ensure procedural fairness and transparency in their decisions.
+
+## Summary Points
+
+* The Madras High Court found that the Commercial Court lacked jurisdiction to hear two commercial original suits due to non-compliance with the mandatory pre-institution mediation requirement under the Commercial Courts Act, 2015.
+* The Court emphasized the need for reasoned orders when dismissing petitions under Order 7 Rule 11 CPC. 
+* The judgment underscores the importance of ADR mechanisms and procedural fairness in judicial proceedings.
+
+## References
+
+* **Commercial Courts Act, 2015**
+* **Code of Civil Procedure (CPC)**
+* **Negotiable Instruments Act**
+* **Patil Automation Pvt., Ltd., and Others Vs. Rakheja Engineers Pvt., Ltd., (2022) 10 Supreme Court Cases 1**
+
+## Further Reading
+
+* **Dahiben Vs. Arvindbhai Kalyanji Bhanus Ali (Gajra) dead through Legal representatives and others (2020) 7 Supreme Court Cases 366**
+* **IHHR Hospitality (Andhra) Pvt., Ltd., Vs. Seema Swami and Others 2022 SCC Online Del 3636**
+* **Venkatesh Vincom Pvt., Ltd., Vs. Spice of Joy, Multicuisine Restaurant cum Bar and Others 2022 SCC Online Cal 3010**

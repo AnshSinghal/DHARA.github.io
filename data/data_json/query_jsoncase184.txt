@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A husband and wife are in a dispute over a loan they jointly took out for a business venture. The wife claims the husband mismanaged the funds and is now refusing to repay the loan. The husband argues that the wife is trying to take advantage of him and that the debt should be split evenly.  Can the wife bring a claim against her husband in a Commercial Court under the Commercial Courts Act 2015?",
+    "Legal Principles": "The Commercial Courts Act 2015 applies to "commercial disputes" defined in Section 2(1)(c) of the Act. This includes disputes arising from transactions of merchants, bankers, financiers, and traders. The Act also mandates pre-institution mediation under Section 12A.  The Act's applicability to disputes between family members is unclear and requires judicial interpretation.",
+    "Relevant Sections": "Section 2(1)(c) of the Commercial Courts Act 2015, Section 12A of the Commercial Courts Act 2015.",
+    "Context": "Jurisdiction: India. Case Type: Commercial Dispute, Family Law"
+  },
+  {
+    "Query": "A construction company sues a client for non-payment of invoices related to a building project. The client claims that the work was not completed to the agreed-upon standards and that there were significant delays. The construction company argues that the delays were caused by the client's own actions. Can the client challenge the construction company's claim under Order 7 Rule 11 of the Code of Civil Procedure, arguing that the suit is not maintainable?",
+    "Legal Principles": "Order 7 Rule 11 of the Code of Civil Procedure allows for the rejection of a plaint on several grounds, including lack of jurisdiction, maintainability, and bar by law. A plaint can be challenged if it does not disclose a cause of action or if the suit is barred by limitation.",
+    "Relevant Sections": "Order 7 Rule 11 of the Code of Civil Procedure",
+    "Context": "Jurisdiction: India. Case Type: Commercial Dispute, Construction Law"
+  },
+  {
+    "Query": "A technology company has entered into a contract with a software development firm. The contract specifies a specific deadline for the completion of the software project. The software development firm failed to meet the deadline, causing significant losses to the technology company.  Can the technology company sue the software development firm in a Commercial Court under the Commercial Courts Act 2015, and what are the potential arguments that the software development firm could raise?",
+    "Legal Principles": "The Commercial Courts Act 2015 provides for the expeditious resolution of commercial disputes. The Act defines "commercial dispute" and outlines the jurisdiction of Commercial Courts. The Act also specifies procedures for pre-institution mediation.",
+    "Relevant Sections": "Section 2(1)(c) of the Commercial Courts Act 2015, Section 12A of the Commercial Courts Act 2015.",
+    "Context": "Jurisdiction: India. Case Type: Commercial Dispute, Contract Law"
+  },
+  {
+    "Query": "A landlord is suing a tenant for non-payment of rent. The tenant argues that the landlord has failed to maintain the property and that this breach of contract justifies withholding rent. Can the tenant argue that the landlord's claim is barred by the landlord's failure to maintain the property and, if so, under what legal principles?",
+    "Legal Principles": "A tenant can raise defenses to a landlord's claim for rent, including breach of contract by the landlord. This defense hinges on the landlord's failure to uphold their contractual obligations, such as maintaining the property. The tenant must prove that the landlord's breach is material and justifies withholding rent.",
+    "Relevant Sections": "Relevant sections of the applicable tenancy law (e.g., The Transfer of Property Act, 1882 in India)",
+    "Context": "Jurisdiction: India. Case Type: Landlord-Tenant Dispute"
+  },
+  {
+    "Query": "A company is being sued for breach of contract by a supplier. The company claims that the supplier failed to deliver the goods on time and that this breach justifies terminating the contract. The supplier argues that the delay was due to unforeseen circumstances and that the company did not provide sufficient notice before terminating the contract. Can the company rely on the supplier's breach to justify its termination of the contract?",
+    "Legal Principles": "The right to terminate a contract due to a breach depends on the severity of the breach and the terms of the contract. A breach may be considered material if it significantly affects the purpose of the contract.  Notice requirements for termination must be adhered to.",
+    "Relevant Sections": "Relevant sections of the applicable contract law (e.g., Indian Contract Act, 1872 in India)",
+    "Context": "Jurisdiction: India. Case Type: Commercial Dispute, Contract Law"
+  },
+  {
+    "Query": "A manufacturer is being sued by a customer for product liability. The customer alleges that the product was defective and caused them injury. The manufacturer argues that the customer misused the product and that this misuse, rather than a defect, caused the injury. Can the manufacturer successfully argue that the customer's misuse of the product absolves them of liability?",
+    "Legal Principles": "Product liability law holds manufacturers responsible for defective products. However, a manufacturer may avoid liability if the customer's misuse of the product was the proximate cause of the injury. The manufacturer must prove that the misuse was unforeseeable and that the product was safe when used as intended.",
+    "Relevant Sections": "Relevant sections of the applicable product liability law (e.g., The Consumer Protection Act, 2019 in India)",
+    "Context": "Jurisdiction: India. Case Type: Product Liability"
+  },
+  {
+    "Query": "A bank is seeking to foreclose on a mortgage due to the borrower's default. The borrower claims that the bank failed to properly disclose the terms of the mortgage and that this failure constitutes a violation of consumer protection laws. Can the borrower successfully argue that the bank's failure to disclose the terms of the mortgage prevents them from foreclosing?",
+    "Legal Principles": "Consumer protection laws aim to prevent unfair and deceptive practices in the lending industry. A borrower may challenge a foreclosure if the lender failed to comply with disclosure requirements. The borrower must demonstrate that the lender's failure to disclose material information prejudiced their decision to enter into the mortgage agreement.",
+    "Relevant Sections": "Relevant sections of the applicable consumer protection law (e.g., The Consumer Protection Act, 2019 in India)",
+    "Context": "Jurisdiction: India. Case Type: Mortgage Foreclosure"
+  },
+  {
+    "Query": "A company is seeking to enforce an arbitration clause in a contract. The other party argues that the arbitration clause is unenforceable because it was not properly negotiated or because it violates public policy. Can the company successfully enforce the arbitration clause?",
+    "Legal Principles": "Arbitration clauses are generally enforceable in contracts, but they must meet certain requirements.  A clause can be challenged if it was not properly negotiated, is procedurally unfair, or violates public policy. Courts can review an arbitration clause to ensure its validity.",
+    "Relevant Sections": "Relevant sections of the applicable arbitration law (e.g., The Arbitration and Conciliation Act, 1996 in India)",
+    "Context": "Jurisdiction: India. Case Type: Arbitration"
+  },
+  {
+    "Query": "A business partner is suing another partner for breach of fiduciary duty. The partner alleges that the other partner misappropriated company funds and made decisions that benefited them personally while harming the business. Can the suing partner successfully establish a breach of fiduciary duty?",
+    "Legal Principles": "Fiduciary duty arises from a relationship of trust and confidence, such as in a partnership.  A partner owes a fiduciary duty to the other partners to act in the best interests of the partnership and avoid self-dealing. A breach of fiduciary duty requires proof of a conflict of interest and that the partner acted in a way that harmed the partnership.",
+    "Relevant Sections": "Relevant sections of the applicable partnership law (e.g., The Indian Partnership Act, 1932 in India)",
+    "Context": "Jurisdiction: India. Case Type: Partnership Dispute"
+  },
+  {
+    "Query": "A company is being sued for copyright infringement. The plaintiff claims that the company copied their original artwork without permission. The company argues that their artwork is a transformative use of the original and is therefore protected under fair use principles. Can the company successfully argue that their use of the original artwork was transformative?",
+    "Legal Principles": "Copyright law protects original works of authorship.  Fair use doctrine allows limited use of copyrighted material without permission for purposes such as criticism, commentary, news reporting, teaching, scholarship, and research. Transformative use occurs when a new work is created that alters the original work in a meaningful way.",
+    "Relevant Sections": "Relevant sections of the applicable copyright law (e.g., The Copyright Act, 1957 in India)",
+    "Context": "Jurisdiction: India. Case Type: Copyright Infringement"
+  }
+]
+```

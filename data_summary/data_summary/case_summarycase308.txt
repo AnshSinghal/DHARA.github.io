@@ -1,0 +1,107 @@
+## 1. Case Title
+
+* **Case Name:** Lord Sai Maa Pvt Ltd Thr Director ... vs Hotel Goradias Pvt Ltd Thr Priti ... 
+* **Court:** Bombay High Court, Bench at Aurangabad
+* **Date of Judgment:** 7th May 2021
+* **Citation:** Comm.Apeal 1 & 2 - 2021 
+
+## 2. Background and Context
+
+* **Brief Overview:** This case involves a dispute between a hotel owner, Hotel Goradias Pvt Ltd (respondent), and a company that was granted a leave and license agreement to operate a hotel on the premises, Lord Sai Maa Pvt Ltd (appellant). The dispute arose after the leave and license agreement expired, and the respondent sought possession of the property, claiming unpaid rent and breach of agreement terms. The appellant contested the respondent's claim, arguing that the case should be heard under the Maharashtra Rent Control Act, 1999, and that the respondent's suit was barred by limitation.
+* **Key Issues:** 
+    * **Jurisdiction:** Whether the Commercial Court had jurisdiction to hear the case, given the appellant's argument that the Maharashtra Rent Control Act applied.
+    * **Maintainability of Suit:** Whether the suit was barred by limitation, as argued by the appellant.
+    * **Interim Injunction:** Whether the Commercial Court was justified in granting an interim mandatory injunction, ordering the appellant to vacate the premises and deposit Rs. 4 Crores.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * **Commercial Courts Act, 2015:**  Sections 2, 3, 11, 12-A, 13. 
+    * **Maharashtra Rent Control Act, 1999:** Sections 3, 47, 49, 51.
+    * **Specific Relief Act, 1963:** Section 39, 41.
+    * **Code of Civil Procedure, 1908:** Order XXXIX, Rules 1 & 2.
+    * **Limitation Act, 1963:** Article 113.
+* **Precedents Cited:**
+    * **Royal Orchid Hotels Ltd. Vs. Rock Realty Pvt. Ltd.** (Civil Revision Application (Stamp) No.15282 of 2019, decided on 25.6.2019 by the learned Single Judge at principal seat)
+    * **Mahadev P Kambekar (D) TR. LRs., Vs. Shree Krishna Woolen Mills Pvt. Ltd.** (Civil Appeal Nos. 5753- 5754 of 2011 decided on 31.1.2019 by the Apex Court)
+    * **Dorab Cawasji Warden vs. Coomi Sorab Warden & Ors.** (AIR 1990 867)
+    * **Kishore Kumar and Ors., vs. Parveen Kumar Singh.** (AIR 2006 SC 1474)
+    * **Metro Marins & Anr. Vs. Bonus Watch Co. Pvt. Ltd. & Ors.** (2004) 7 SCC 478
+    * **Ganga Taro Vazirani Vs. Deepak Raheja** (Summons for Judgment No.45 of 2019 in Comm. Summary Suit No.972 of 2019 decided on 16.2.2021) 
+    * **Sathyam Wood Industries Vs. Adoniss (P) Ltd., and anr.** (C.R.P. (MD) No.804 of 2019 decided on 10.6.2019) 
+    * **GSD Constructions Pvt. Ltd., Vs. Balaji Febtech Engineering Pvt. Ltd.** (M.A. No.4081/2019 decided on 7.8.2019)
+    * **Terai Overseas Private Limited & Ors. Vs. Kejriwal Sugar Agencies Private Limited & Ors.** (C.S. No.78 of 2020 decided on 3.9.2020)
+    * **M/s Amit Motorcycles Pvt. Ltd., Vs. M/s Axis Bank Ltd.** (I.A. No.GA 3 of 2019 in CS 217 of 2018, decided on 15.12.2020)
+    * **Deoraj Vs. State of Maharashtra and ors.** (2004) 4 SCC 697
+    * **Sanjeev Pillai Vs. Venu Kunnapalli** (FAQ No.191/2019 decided on 11.12.2019)
+    * **Saregama India Limited Vs. Balaji Motion Pictures Limited & Ors.** (CS (COM) 492/2019 decided on 13.9.2019)
+    * **Kirtibhai Vs. Raghuram** (Appeal from Order no.262 of 2007 decided on 20.1.2010) 
+* **Legal Doctrines:**
+    * **Jurisdiction of Courts:** This case highlights the principle of determining the appropriate court based on the nature of the dispute and applicable laws.
+    * **Waiver of Objection:** The court considered whether the appellant's objection regarding the Commercial Court's jurisdiction was waived by their failure to raise it before the trial court.
+    * **Interim Mandatory Injunction:** The court reviewed the principles governing the grant of interim mandatory injunctions, especially when the dispute involved possession of property.
+    * **Interpretation of Statutes:** The court interpreted the provisions of the Commercial Courts Act and the Maharashtra Rent Control Act to determine their application to the facts of the case.
+    * **Equitable Relief:** The court considered the concept of equitable relief and its application to the dispute. 
+
+## 4. Arguments Presented
+
+* **Appellant’s Argument:**
+    * **Jurisdiction:** The appellant argued that the dispute was governed by the Maharashtra Rent Control Act, 1999, and that the Civil Court, not the Commercial Court, had jurisdiction. They cited Section 47 of the Act, which bars injunctions and designates the competent authority under Section 49 as the sole decision-maker.
+    * **Maintainability of Suit:** The appellant argued that the suit was barred by limitation as the cause of action arose in April 2016, and the respondent filed the suit in 2019.
+    * **Interim Injunction:** The appellant argued that the interim mandatory injunction was tantamount to granting final relief, as it was not intended to maintain the status quo but to give possession to the respondent. They contended that granting such relief before framing issues and hearing evidence was inappropriate. They also argued that the Commercial Court failed to comply with Section 12-A of the Commercial Courts Act regarding mandatory pre-institution mediation. 
+* **Respondent’s Argument:**
+    * **Jurisdiction:** The respondent argued that the Commercial Court had jurisdiction as the dispute was a commercial one, given the nature of the leave and license agreement and the appellant's status as a private limited company with share capital exceeding Rs. 2 Crores. They also claimed that the appellant's objection regarding jurisdiction was waived as it was not raised before the trial court. 
+    * **Maintainability of Suit:** The respondent argued that the suit was not barred by limitation, as it was not a suit for mandatory injunction but for possession.
+    * **Interim Injunction:** The respondent argued that the interim mandatory injunction was justified as the appellant was in illegal occupation of the premises, had not paid rent for a long time, and was earning profits while the respondent was deprived of their rightful income.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The court found that the Commercial Court had jurisdiction to hear the case, as the dispute was a commercial one.
+    * The court found that the appellant's objection regarding the Commercial Court's jurisdiction was waived by their failure to raise it before the trial court.
+    * The court found that the suit was not barred by limitation.
+    * The court found that the interim mandatory injunction was not appropriate in this case, as it amounted to granting final relief before framing issues and hearing evidence.
+* **Interpretation of Law:** The court interpreted the provisions of the Commercial Courts Act, the Maharashtra Rent Control Act, and the Code of Civil Procedure to reach its conclusion regarding jurisdiction and the application of the interim injunction.
+* **Application of Law:** The court applied the principles governing jurisdiction, limitation, and interim injunctions to the specific facts of the case. 
+
+## 6. Judgment
+
+* **Final Decision:** The court modified the order granting interim mandatory injunction.
+* **Relief Granted:** The court ordered the appellant to deposit Rs. 4 Crores within six weeks and continue to pay regular licence fees until the final decision of the case. The respondent was allowed to withdraw the amount deposited. 
+* **Orders:**
+    * The appellant was ordered to deposit Rs. 4 Crores within six weeks. 
+    * The appellant was ordered to continue paying the licence fees at Rs. 14,25,000/- per month until the final decision of the case.
+    * The respondent was allowed to withdraw the amount deposited by the appellant.
+    * If the appellant failed to comply with the order, the original order granting interim mandatory injunction would be operative, allowing the respondent to proceed with execution.
+    * The application for temporary injunction was dismissed. 
+
+## 7. Implications
+
+* **Impact on Law:** This judgment provides clarification regarding the jurisdiction of Commercial Courts in disputes involving leave and license agreements, particularly when the parties' status and the nature of the dispute meet the criteria under the Commercial Courts Act. It also emphasizes the importance of raising objections regarding jurisdiction at the earliest stage of the proceedings.
+* **Future Relevance:** This judgment can serve as a precedent for future cases involving similar disputes. It highlights the considerations for granting interim mandatory injunctions and the importance of maintaining the status quo pending the final decision of the case.
+* **Broader Context:** This case highlights the challenges of resolving commercial disputes involving property rights and the need for careful consideration of both the legal principles and the equitable considerations involved.
+
+## 8. Summary Points
+
+* The Bombay High Court upheld the Commercial Court's jurisdiction to hear the dispute.
+* The court found that the appellant's objections regarding jurisdiction were waived by their failure to raise them earlier.
+* The court modified the interim mandatory injunction order, directing the appellant to deposit Rs. 4 Crores and continue paying licence fees until the final decision of the case. 
+* The court emphasized the need to balance the rights of both parties while ensuring justice and equitable relief.
+
+## 9. References
+
+* **Statutes:**
+    * Commercial Courts Act, 2015
+    * Maharashtra Rent Control Act, 1999
+    * Specific Relief Act, 1963
+    * Code of Civil Procedure, 1908
+    * Limitation Act, 1963
+* **Cases:**
+    * All cases cited in the judgment are listed under "Precedents Cited" above.
+
+**Further Reading:**
+
+* The Commercial Courts Act, 2015
+* The Maharashtra Rent Control Act, 1999
+* Law on Interim Injunctions in India
+* Cases dealing with jurisdiction of Commercial Courts in similar disputes. 

@@ -1,0 +1,75 @@
+##  Case Title
+
+* **Case Name:** Akd Greka Drilling (India) Ltd vs M/S. Arihant Cargo Carriers Pvt. Ltd 
+* **Court:** Calcutta High Court (Appellete Side)
+* **Date of Judgment:** 20 November, 2017
+* **Citation:**  C.O. 3644 of 2017
+
+## Background and Context
+
+* **Brief Overview:**  Akd Greka Drilling (India) Ltd. (Petitioner) filed a suit against M/S. Arihant Cargo Carriers Pvt. Ltd. (Respondent) for recovery of Rs. 1,58,32,917/-. The Respondent had allegedly not paid for the utilization of various equipment despite the terms of their agreement. The Petitioner claimed that the case should be transferred to the Commercial Division of the High Court due to the Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015 (the Act). 
+* **Key Issues:** The main legal question was whether the suit was maintainable before the Civil Judge (Senior Division), Durgapur, or should be transferred to the Commercial Division of the High Court in light of the provisions of the Act. 
+
+## Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015 (the Act)
+    * Section 2 (c), 2 (h)(i), 3, 3(1), 4, 5, 7, 11, 12, 15 (2) of the Act
+    * Code of Civil Procedure
+    * Order VII Rule 11 of the Code of Civil Procedure
+    * Arbitration and Conciliation Act, 1996
+    * Designs Act, 2000 (16 of 2000)
+    * Patents Act, 1970 (39 of 1970)
+* **Precedents Cited:** 
+    * The court referenced the case of C.O. 914 of 2017, where a similar issue was raised before the Co-ordinate Bench of the High Court.
+* **Legal Doctrines:** 
+    * Jurisdiction of Courts
+    * Interpretation of Statutes
+    * Binding Precedents
+    * Forum non Conveniens (the principle of not rendering a litigant remediless)
+
+## Arguments Presented
+
+* **Plaintiff’s Argument (Respondent):** The Respondent argued that the suit should be heard by the Civil Judge (Senior Division), Durgapur, as no Commercial Court had been established at the District level. They cited Section 15(2) of the Act, which states that suits relating to commercial disputes of a Specified Value pending in the Civil Court should be transferred to the Commercial Court only after it is constituted.
+* **Defendant’s Argument (Petitioner):** The Petitioner argued that the suit should be transferred to the Commercial Division of the High Court based on the provisions of Section 7 of the Act. They contended that the Civil Judge (Senior Division) lacked jurisdiction to entertain the suit due to the provisions of Section 11 of the Act.
+
+## Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The court observed that no Commercial Court had been established at the District level.
+    * The court interpreted Section 7 of the Act, particularly its first proviso, and held that it did not apply to suits pending before a Court inferior to the Court of District Judge.
+    * The court relied on the previous decision in C.O. 914 of 2017, where the Co-ordinate Bench held that the Civil Court had jurisdiction to entertain the suit until a Commercial Court is established.
+* **Interpretation of Law:** The court interpreted the provisions of the Act, particularly Section 7 and 15(2), in light of the objective of the Act, which is to ensure the speedy disposal of commercial disputes. The court stressed that the Act does not aim to render a litigant remediless.
+* **Application of Law:** The court applied the law to the specific facts of the case, noting the absence of a Commercial Court at the District level and the binding precedent established in C.O. 914 of 2017.
+
+## Judgment
+
+* **Final Decision:** The revisional application filed by the Petitioner was dismissed.
+* **Relief Granted:** No relief was granted to the Petitioner.
+* **Orders:** There was no order as to costs.
+
+## Implications
+
+* **Impact on Law:** This judgment clarifies the interpretation of Section 7 of the Act and reiterates the principle that a litigant should not be rendered remediless due to the non-establishment of a special forum.
+* **Future Relevance:** The case may serve as precedent in future cases concerning the maintainability of suits relating to commercial disputes in the absence of a designated Commercial Court.
+* **Broader Context:** The judgment highlights the importance of timely establishment of specialized courts to ensure efficient and expeditious justice delivery in commercial disputes.
+
+## Summary Points
+
+* The court upheld the jurisdiction of the Civil Judge (Senior Division) to entertain the suit in the absence of a Commercial Court at the District level.
+* The court interpreted Section 7 of the Act, noting that the first proviso does not apply to suits pending before a court inferior to the Court of District Judge.
+* The court relied on the binding precedent established in C.O. 914 of 2017.
+* The judgment highlights the importance of balancing the need for specialized forums for commercial disputes with the principle of not rendering a litigant remediless.
+
+## References
+
+* **Citations:** 
+    * The Act: Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015
+    * C.O. 914 of 2017
+    * Code of Civil Procedure
+    * Arbitration and Conciliation Act, 1996
+    * Designs Act, 2000 (16 of 2000)
+    * Patents Act, 1970 (39 of 1970)
+* **Further Reading:**
+    * The Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015
+    * Relevant judgments on commercial dispute jurisdiction and forum non conveniens. 

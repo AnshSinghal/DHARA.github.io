@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A construction company, awarded a contract for a road project by the State government, failed to complete the project within the stipulated timeframe. The State government rescinded the contract and the company invoked arbitration proceedings, claiming damages for breach of contract. The Arbitral Tribunal ruled in favor of the company, but the State government filed an appeal against the award, arguing that the company's delay was unjustified. The State government filed the appeal beyond the statutory limitation period and seeks condonation of delay. What are the legal principles governing condonation of delay in such cases, particularly when the party seeking condonation is a government entity?",
+    "Legal Principles": "Condonation of delay is governed by Section 5 of the Limitation Act, 1963. The court has the discretion to condone delay, but it must be satisfied that sufficient cause has been shown. The burden of proof lies on the party seeking condonation. In the case of a government entity, the court may take a stricter approach and require a more compelling reason for condonation of delay.",
+    "Relevant Sections": "Section 5 of the Limitation Act, 1963\nSection 13(1A) of the Commercial Courts Act, 2015\nOrder XXIII, Rule 1(3) of the Code of Civil Procedure, 1908",
+    "Context": "Jurisdiction: India\nCase Type: Commercial Appeal, Condonation of Delay"
+  },
+  {
+    "Query": "A company entered into a contract with the State government for the supply of goods. The company failed to deliver the goods on time, and the State government terminated the contract. The company filed an arbitration claim seeking damages for wrongful termination. The Arbitral Tribunal ruled in favor of the company, but the State government filed an appeal against the award, arguing that the company was in breach of contract. The State government filed the appeal beyond the statutory limitation period and seeks condonation of delay, claiming that the delay was due to internal departmental processes. Can the State government's argument be accepted, and what is the legal standard for condonation of delay in such circumstances?",
+    "Legal Principles": "The court must be satisfied that the delay was caused by sufficient cause, and that the party seeking condonation exercised due diligence. The usual explanation of red tapism and internal departmental processes may not be sufficient to constitute sufficient cause. The government is expected to exercise due diligence and ensure that its legal proceedings are filed within the stipulated time frame.",
+    "Relevant Sections": "Section 5 of the Limitation Act, 1963\nSection 13(1A) of the Commercial Courts Act, 2015",
+    "Context": "Jurisdiction: India\nCase Type: Commercial Appeal, Condonation of Delay"
+  },
+  {
+    "Query": "A private company filed a suit against the State government for breach of contract, seeking damages. The State government filed a counterclaim. The trial court dismissed the company's suit and upheld the State government's counterclaim. The company filed an appeal against the trial court's judgment, but the appeal was dismissed for being barred by limitation. The company filed a review application before the High Court, but it was also dismissed. The company now seeks to file a fresh appeal before the High Court against the dismissal of its review application. Can the company file a fresh appeal, and if so, what are the limitations applicable?",
+    "Legal Principles": "A review application is not a substantive right, but a discretionary remedy. There is no right to appeal against the dismissal of a review application. However, the High Court may condone delay in filing a fresh appeal against the original judgment, if sufficient cause is shown.",
+    "Relevant Sections": "Order XLVII of the Code of Civil Procedure, 1908\nSection 5 of the Limitation Act, 1963",
+    "Context": "Jurisdiction: India\nCase Type: Civil Appeal, Review Application"
+  },
+  {
+    "Query": "Two companies entered into a contract for the supply of goods. One company breached the contract, and the other company filed an arbitration claim seeking damages. The Arbitral Tribunal ruled in favor of the company that had been breached. The breaching company filed an appeal against the award, but the appeal was dismissed for being barred by limitation. The breaching company filed a review application before the High Court, but it was dismissed. The breaching company now seeks to file a fresh appeal before the High Court against the dismissal of its review application. Can the breaching company file a fresh appeal, and if so, what are the limitations applicable?",
+    "Legal Principles": "A review application is not a substantive right, but a discretionary remedy. There is no right to appeal against the dismissal of a review application. However, the High Court may condone delay in filing a fresh appeal against the original judgment, if sufficient cause is shown.",
+    "Relevant Sections": "Order XLVII of the Code of Civil Procedure, 1908\nSection 5 of the Limitation Act, 1963",
+    "Context": "Jurisdiction: India\nCase Type: Commercial Appeal, Review Application"
+  },
+  {
+    "Query": "A dispute arose between a contractor and the State government over the execution of a construction project. The contractor invoked arbitration proceedings and the Arbitral Tribunal ruled in favor of the contractor. The State government filed an appeal against the award, but the appeal was dismissed as barred by limitation. The State government filed a review application, but it was also dismissed. The State government now seeks to file a fresh appeal against the dismissal of the review application. Can the State government file a fresh appeal, and what are the legal principles governing such appeals?",
+    "Legal Principles": "A review application is not a substantive right, but a discretionary remedy. There is no right to appeal against the dismissal of a review application. However, the High Court may condone delay in filing a fresh appeal against the original judgment, if sufficient cause is shown. The court may also consider the merits of the original appeal in deciding whether to condone the delay.",
+    "Relevant Sections": "Order XLVII of the Code of Civil Procedure, 1908\nSection 5 of the Limitation Act, 1963",
+    "Context": "Jurisdiction: India\nCase Type: Commercial Appeal, Review Application"
+  },
+  {
+    "Query": "A company filed a suit against the State government for recovery of dues. The trial court dismissed the suit. The company appealed against the judgment, but the appeal was dismissed as barred by limitation. The company filed a review application, but it was also dismissed. The company now seeks to file a fresh appeal against the dismissal of the review application. Can the company file a fresh appeal, and if so, what are the limitations applicable?",
+    "Legal Principles": "A review application is not a substantive right, but a discretionary remedy. There is no right to appeal against the dismissal of a review application. However, the High Court may condone delay in filing a fresh appeal against the original judgment, if sufficient cause is shown. The court may also consider the merits of the original appeal in deciding whether to condone the delay.",
+    "Relevant Sections": "Order XLVII of the Code of Civil Procedure, 1908\nSection 5 of the Limitation Act, 1963",
+    "Context": "Jurisdiction: India\nCase Type: Civil Appeal, Review Application"
+  },
+  {
+    "Query": "A company entered into a contract with the State government for the supply of goods. The company failed to deliver the goods on time, and the State government terminated the contract. The company filed an arbitration claim seeking damages for wrongful termination. The Arbitral Tribunal ruled in favor of the company, but the State government filed an appeal against the award, arguing that the company was in breach of contract. The State government filed the appeal beyond the statutory limitation period and seeks condonation of delay. What are the legal principles that apply to condonation of delay in such cases?",
+    "Legal Principles": "The court will consider whether the delay was caused by sufficient cause, and whether the party seeking condonation exercised due diligence. The court may also consider the merits of the case in deciding whether to condone the delay. In cases involving government entities, the court may take a stricter approach and require a more compelling reason for condonation of delay.",
+    "Relevant Sections": "Section 5 of the Limitation Act, 1963\nSection 13(1A) of the Commercial Courts Act, 2015",
+    "Context": "Jurisdiction: India\nCase Type: Commercial Appeal, Condonation of Delay"
+  },
+  {
+    "Query": "A dispute arose between a company and the State government over the execution of a construction project. The company invoked arbitration proceedings and the Arbitral Tribunal ruled in favor of the company. The State government filed an appeal against the award, but the appeal was dismissed as barred by limitation. The State government filed a review application, but it was also dismissed. The State government now seeks to file a fresh appeal against the dismissal of the review application. What are the legal arguments that the State government can present in support of its request for a fresh appeal?",
+    "Legal Principles": "A review application is not a substantive right, but a discretionary remedy. There is no right to appeal against the dismissal of a review application. However, the High Court may condone delay in filing a fresh appeal against the original judgment, if sufficient cause is shown. The court may also consider the merits of the original appeal in deciding whether to condone the delay.",
+    "Relevant Sections": "Order XLVII of the Code of Civil Procedure, 1908\nSection 5 of the Limitation Act, 1963",
+    "Context": "Jurisdiction: India\nCase Type: Commercial Appeal, Review Application"
+  },
+  {
+    "Query": "A contractor was awarded a contract by the State government for the construction of a road. The contractor failed to complete the work within the stipulated timeframe. The State government terminated the contract and withheld payments due to the contractor. The contractor filed an arbitration claim seeking payment of the withheld amount. The Arbitral Tribunal ruled in favor of the contractor, but the State government filed an appeal against the award, arguing that the contractor was in breach of contract. The State government filed the appeal beyond the statutory limitation period and seeks condonation of delay. What are the legal grounds on which the State government can seek condonation of delay?",
+    "Legal Principles": "The court will consider whether the delay was caused by sufficient cause, and whether the party seeking condonation exercised due diligence. The court may also consider the merits of the case in deciding whether to condone the delay. In cases involving government entities, the court may take a stricter approach and require a more compelling reason for condonation of delay.",
+    "Relevant Sections": "Section 5 of the Limitation Act, 1963\nSection 13(1A) of the Commercial Courts Act, 2015",
+    "Context": "Jurisdiction: India\nCase Type: Commercial Appeal, Condonation of Delay"
+  },
+  {
+    "Query": "A private company filed a suit against the State government for breach of contract, seeking damages. The State government filed a counterclaim. The trial court dismissed the company's suit and upheld the State government's counterclaim. The company filed an appeal against the trial court's judgment, but the appeal was dismissed for being barred by limitation. The company filed a review application before the High Court, but it was also dismissed. The company now seeks to file a fresh appeal before the High Court against the dismissal of its review application. What are the legal principles that govern the filing of a fresh appeal after the dismissal of a review application?",
+    "Legal Principles": "A review application is not a substantive right, but a discretionary remedy. There is no right to appeal against the dismissal of a review application. However, the High Court may condone delay in filing a fresh appeal against the original judgment, if sufficient cause is shown.",
+    "Relevant Sections": "Order XLVII of the Code of Civil Procedure, 1908\nSection 5 of the Limitation Act, 1963",
+    "Context": "Jurisdiction: India\nCase Type: Civil Appeal, Review Application"
+  }
+]
+```

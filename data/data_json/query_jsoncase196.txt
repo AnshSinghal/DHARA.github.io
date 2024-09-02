@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A company based in India entered into an agreement with a foreign company, stipulating arbitration in London and governed by English law. The Indian company is challenging the arbitral award in an Indian court. Is the Indian court's jurisdiction barred due to the arbitration clause?",
+    "Legal Principles": "The 'seat' of arbitration determines the governing law and the jurisdiction of courts to challenge awards.  If the parties agree to a seat outside India and a foreign law, Part I of the Indian Arbitration and Conciliation Act, 1996 is excluded, barring Indian courts from reviewing the award.",
+    "Relevant Sections": "Section 2(2), Section 34, Section 37 of the Arbitration and Conciliation Act, 1996.  Section 4(2), Section 4(3) of the English Arbitration Act, 1996.  LCIA Rules 26.8.",
+    "Context": "Jurisdictional challenge in an international commercial arbitration, involving an agreement with a foreign company, choosing a seat of arbitration outside India and a foreign governing law."
+  },
+  {
+    "Query": "Two Indian companies have a contract specifying arbitration in Singapore under Singaporean law. One company seeks to challenge the arbitral award in India. Can the Indian courts entertain this challenge?",
+    "Legal Principles": "The 'seat' of arbitration determines the governing law and jurisdiction for challenging awards.  Indian courts have no jurisdiction to review awards if the seat is outside India and a foreign law governs the arbitration.",
+    "Relevant Sections": "Section 2(2), Section 34, Section 37 of the Arbitration and Conciliation Act, 1996.",
+    "Context": "Jurisdictional challenge in a domestic arbitration, where the parties have agreed to a seat of arbitration outside India and a foreign law."
+  },
+  {
+    "Query": "A contract between two Indian companies provides for arbitration in India, but the parties subsequently agree to amend the clause to move the seat of arbitration to Dubai and apply Dubai law. One company now seeks to challenge the award in India. Does the amendment to the arbitration clause affect the Indian court's jurisdiction?",
+    "Legal Principles": "Parties can agree to modify the seat of arbitration and governing law. If a valid agreement is reached to move the seat outside India and apply a foreign law, the Indian court's jurisdiction is barred.",
+    "Relevant Sections": "Section 2(2), Section 34, Section 37 of the Arbitration and Conciliation Act, 1996.",
+    "Context": "Jurisdictional challenge in a domestic arbitration with an amended arbitration clause changing the seat of arbitration to a foreign country and applying foreign law."
+  },
+  {
+    "Query": "A contract between an Indian company and a US company provides for arbitration in New York under US law. The Indian company files a challenge to the arbitral award in India.  Will the Indian court have jurisdiction to hear the case?",
+    "Legal Principles": "The 'seat' of arbitration determines the governing law and jurisdiction for challenging awards. Indian courts have no jurisdiction to review awards if the seat is outside India and a foreign law governs the arbitration.",
+    "Relevant Sections": "Section 2(2), Section 34, Section 37 of the Arbitration and Conciliation Act, 1996.",
+    "Context": "Jurisdictional challenge in an international commercial arbitration, involving an agreement with a foreign company, choosing a seat of arbitration outside India and a foreign governing law."
+  },
+  {
+    "Query": "A contract for the construction of a power plant in India includes an arbitration clause specifying the seat of arbitration as London and English law as the governing law. The Indian contractor seeks to challenge the award in an Indian court. Is the Indian court's jurisdiction over the matter barred?",
+    "Legal Principles": "The 'seat' of arbitration determines the governing law and jurisdiction for challenging awards.  Indian courts have no jurisdiction to review awards if the seat is outside India and a foreign law governs the arbitration.",
+    "Relevant Sections": "Section 2(2), Section 34, Section 37 of the Arbitration and Conciliation Act, 1996.",
+    "Context": "Jurisdictional challenge in a construction contract with an international arbitration clause, involving an agreement with a foreign company, choosing a seat of arbitration outside India and a foreign governing law."
+  },
+  {
+    "Query": "Two Indian companies enter into a contract with an arbitration clause specifying a seat of arbitration in Hong Kong and Hong Kong law as the governing law. One company seeks to challenge the arbitral award in India. Is the Indian court's jurisdiction over the matter barred?",
+    "Legal Principles": "The 'seat' of arbitration determines the governing law and jurisdiction for challenging awards.  Indian courts have no jurisdiction to review awards if the seat is outside India and a foreign law governs the arbitration.",
+    "Relevant Sections": "Section 2(2), Section 34, Section 37 of the Arbitration and Conciliation Act, 1996.",
+    "Context": "Jurisdictional challenge in a domestic arbitration with an arbitration clause, involving a seat of arbitration outside India and a foreign governing law."
+  },
+  {
+    "Query": "Two Indian companies enter into a contract for the sale of goods.  The arbitration clause is silent about the seat of arbitration but states that the contract is governed by English law.  One company seeks to challenge the arbitral award in India. Can the Indian court entertain this challenge?",
+    "Legal Principles": "If the arbitration clause is silent about the seat of arbitration but the contract is governed by a foreign law, it can be inferred that the seat is in the country of the governing law, in this case, England.  Indian courts have no jurisdiction to review awards if the seat is outside India.",
+    "Relevant Sections": "Section 2(2), Section 34, Section 37 of the Arbitration and Conciliation Act, 1996.",
+    "Context": "Jurisdictional challenge in a domestic arbitration where the contract is governed by a foreign law, with a silent seat of arbitration."
+  },
+  {
+    "Query": "An Indian company and a Swiss company entered into a contract with an arbitration clause specifying London as the seat of arbitration and English law as the governing law.  The Indian company seeks to challenge the award in India. Is the Indian court's jurisdiction barred due to the arbitration clause?",
+    "Legal Principles": "The 'seat' of arbitration determines the governing law and the jurisdiction of courts to challenge awards.  If the parties agree to a seat outside India and a foreign law, Part I of the Indian Arbitration and Conciliation Act, 1996 is excluded, barring Indian courts from reviewing the award.",
+    "Relevant Sections": "Section 2(2), Section 34, Section 37 of the Arbitration and Conciliation Act, 1996.  Section 4(2), Section 4(3) of the English Arbitration Act, 1996.  LCIA Rules 26.8.",
+    "Context": "Jurisdictional challenge in an international commercial arbitration, involving an agreement with a foreign company, choosing a seat of arbitration outside India and a foreign governing law."
+  },
+  {
+    "Query": "A contract between an Indian company and a German company specifies arbitration in Paris under French law. The Indian company files a challenge to the arbitral award in India.  Will the Indian court have jurisdiction to hear the case?",
+    "Legal Principles": "The 'seat' of arbitration determines the governing law and jurisdiction for challenging awards. Indian courts have no jurisdiction to review awards if the seat is outside India and a foreign law governs the arbitration.",
+    "Relevant Sections": "Section 2(2), Section 34, Section 37 of the Arbitration and Conciliation Act, 1996.",
+    "Context": "Jurisdictional challenge in an international commercial arbitration, involving an agreement with a foreign company, choosing a seat of arbitration outside India and a foreign governing law."
+  },
+  {
+    "Query": "A contract between two Indian companies for the supply of software includes an arbitration clause specifying arbitration in New York under US law. The Indian buyer seeks to challenge the award in an Indian court. Is the Indian court's jurisdiction over the matter barred?",
+    "Legal Principles": "The 'seat' of arbitration determines the governing law and jurisdiction for challenging awards.  Indian courts have no jurisdiction to review awards if the seat is outside India and a foreign law governs the arbitration.",
+    "Relevant Sections": "Section 2(2), Section 34, Section 37 of the Arbitration and Conciliation Act, 1996.",
+    "Context": "Jurisdictional challenge in a domestic contract with an international arbitration clause, involving a seat of arbitration outside India and a foreign governing law."
+  }
+]
+```

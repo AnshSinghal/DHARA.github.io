@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A distribution licensee terminated a franchise agreement with a franchisee, who then initiated arbitration proceedings. The licensee claims the franchisee was merely an agent of the successful bidder and thus lacks the capacity to sue, while the franchisee argues it was an independent entity and the licensee waived its objection by participating in the arbitration. How should the court determine the proper party to the arbitration proceedings?",
+    "Legal Principles": "Agency, capacity to sue, arbitration agreements, waiver, privity of contract, interpretation of contracts, Section 230 of the Contract Act, 1872, Section 4 of the Arbitration and Conciliation Act, 1996",
+    "Relevant Sections": "Section 230 of the Contract Act, 1872, Section 4 of the Arbitration and Conciliation Act, 1996",
+    "Context": "Jurisdiction: India, Case Type: Arbitration, Contract Law"
+  },
+  {
+    "Query": "A dispute arises over the validity of a time extension granted by an arbitral tribunal. The parties disagree on whether the tribunal had authority to extend its own mandate after the initial time period expired. What are the legal requirements for a valid extension of an arbitral tribunal's mandate?",
+    "Legal Principles": "Arbitration, time limits, arbitral tribunal mandate, Section 29A of the Arbitration and Conciliation Act, 1996",
+    "Relevant Sections": "Section 29A of the Arbitration and Conciliation Act, 1996",
+    "Context": "Jurisdiction: India, Case Type: Arbitration, Procedural Law"
+  },
+  {
+    "Query": "An arbitral tribunal's mandate has expired. The parties dispute whether the principal civil court has jurisdiction to extend the mandate or whether such power rests solely with the High Court or Supreme Court, depending on the appointment procedure. What is the proper forum for seeking an extension of an arbitral tribunal's mandate?",
+    "Legal Principles": "Jurisdiction, arbitral tribunal mandate, Section 2(e), Section 11(4), Section 29A of the Arbitration and Conciliation Act, 1996",
+    "Relevant Sections": "Section 2(e), Section 11(4), Section 29A of the Arbitration and Conciliation Act, 1996",
+    "Context": "Jurisdiction: India, Case Type: Arbitration, Procedural Law"
+  },
+  {
+    "Query": "A party to an arbitration agreement seeks to appoint a new arbitrator after the original tribunal's mandate expired and the parties disagree on whether the principal civil court or the High Court has jurisdiction to appoint a substitute arbitrator. What is the proper forum for the appointment of a substitute arbitrator?",
+    "Legal Principles": "Arbitration, substitute arbitrator appointment, Section 2(e), Section 11(4), Section 29A(6) of the Arbitration and Conciliation Act, 1996",
+    "Relevant Sections": "Section 2(e), Section 11(4), Section 29A(6) of the Arbitration and Conciliation Act, 1996",
+    "Context": "Jurisdiction: India, Case Type: Arbitration, Procedural Law"
+  },
+  {
+    "Query": "A party to an arbitration agreement argues that the other party waived its right to object to a procedural defect in the arbitration by participating in the proceedings without raising the objection. What are the legal requirements for a valid waiver of a procedural objection in arbitration?",
+    "Legal Principles": "Arbitration, procedural objections, waiver, Section 4 of the Arbitration and Conciliation Act, 1996",
+    "Relevant Sections": "Section 4 of the Arbitration and Conciliation Act, 1996",
+    "Context": "Jurisdiction: India, Case Type: Arbitration, Procedural Law"
+  },
+  {
+    "Query": "A party to a contract seeks to appoint an arbitrator under Section 11(6) of the Arbitration and Conciliation Act, 1996, after a dispute arises over the appointment procedure agreed upon by the parties. What are the grounds for appointing an arbitrator under Section 11(6) and what is the procedure for doing so?",
+    "Legal Principles": "Arbitration, arbitrator appointment, Section 11(6) of the Arbitration and Conciliation Act, 1996",
+    "Relevant Sections": "Section 11(6) of the Arbitration and Conciliation Act, 1996",
+    "Context": "Jurisdiction: India, Case Type: Arbitration, Procedural Law"
+  },
+  {
+    "Query": "A party to a contract seeks to terminate the arbitration proceedings due to procedural defects and initiate a new arbitration. The other party argues that the earlier proceedings have settled the dispute. Can a party initiate a new arbitration after the first arbitration has been terminated?",
+    "Legal Principles": "Res judicata, arbitration, termination of arbitration proceedings, Section 34 of the Arbitration and Conciliation Act, 1996",
+    "Relevant Sections": "Section 34 of the Arbitration and Conciliation Act, 1996",
+    "Context": "Jurisdiction: India, Case Type: Arbitration, Procedural Law"
+  },
+  {
+    "Query": "A party to a contract seeks to challenge the appointment of an arbitrator under Section 13 of the Arbitration and Conciliation Act, 1996, arguing that the arbitrator lacks impartiality. What are the grounds for challenging the appointment of an arbitrator under Section 13?",
+    "Legal Principles": "Arbitrator impartiality, challenge to arbitrator appointment, Section 13 of the Arbitration and Conciliation Act, 1996",
+    "Relevant Sections": "Section 13 of the Arbitration and Conciliation Act, 1996",
+    "Context": "Jurisdiction: India, Case Type: Arbitration, Procedural Law"
+  },
+  {
+    "Query": "A party to a contract seeks to challenge the arbitral award under Section 34 of the Arbitration and Conciliation Act, 1996, arguing that the award is based on a misinterpretation of the contract. What are the grounds for challenging an arbitral award under Section 34?",
+    "Legal Principles": "Arbitral award challenge, Section 34 of the Arbitration and Conciliation Act, 1996",
+    "Relevant Sections": "Section 34 of the Arbitration and Conciliation Act, 1996",
+    "Context": "Jurisdiction: India, Case Type: Arbitration, Procedural Law"
+  },
+  {
+    "Query": "A party to a contract seeks to appeal the decision of the court regarding the termination of an arbitral tribunal's mandate under Section 37 of the Arbitration and Conciliation Act, 1996. What are the grounds for appealing a court's decision regarding the termination of an arbitral tribunal's mandate?",
+    "Legal Principles": "Appeal, arbitral tribunal termination, Section 37 of the Arbitration and Conciliation Act, 1996",
+    "Relevant Sections": "Section 37 of the Arbitration and Conciliation Act, 1996",
+    "Context": "Jurisdiction: India, Case Type: Arbitration, Procedural Law"
+  }
+]
+```

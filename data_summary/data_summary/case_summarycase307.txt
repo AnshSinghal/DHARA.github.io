@@ -1,0 +1,107 @@
+## 1. Case Title
+
+* **Case Name:** Prasar Bharati vs. M/S Stracon India Limited & Anr.
+* **Court:** Delhi High Court
+* **Date of Judgment:** 13 July, 2020
+* **Citation:** AIRONLINE 2020 DEL 960
+
+## 2. Background and Context
+
+* **Brief Overview:** This case arose from a dispute between Prasar Bharati (appellant) and M/S Stracon India Limited & Anr. (respondents) over a broadcasting licence agreement. The agreement granted Stracon exclusive global marketing rights for cricketing events in India. Disputes arose over the non-delivery of two series by Prasar Bharati, leading to an arbitration award in favor of Stracon. Prasar Bharati challenged the award, and the High Court partially upheld the award. The dispute then shifted to enforcement of the award, with Stracon seeking release of funds deposited by Prasar Bharati with the court.
+* **Key Issues:**
+    * Maintainability of an appeal against an order passed in arbitration proceedings under Section 36 of the Arbitration and Conciliation Act, 1996 (A&C Act).
+    * Whether an appeal is maintainable under Section 13 of the Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015 (Commercial Courts Act).
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * Arbitration and Conciliation Act, 1996 (A&C Act)
+        * Section 8: Referral to arbitration
+        * Section 9: Interim Measures
+        * Section 16: Pleadings and Hearing
+        * Section 17: Interim Measures by Arbitral Tribunal
+        * Section 34: Setting Aside Award
+        * Section 36: Enforcement of Award
+        * Section 37: Appealable Orders
+    * Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015 (Commercial Courts Act)
+        * Section 10: Jurisdiction of Commercial Courts
+        * Section 11: Appeals from decrees of Commercial Courts and Commercial Divisions
+        * Section 13: Appeals from decrees of Commercial Courts and Commercial Divisions
+    * Code of Civil Procedure, 1908 (CPC)
+        * Order 43: Appeals
+        * Order 38: Security for Costs
+* **Precedents Cited:**
+    * Kandla Export Corporation & Anr. vs M/s OCI Corporation & Anr. (2018 14 SCC 715)
+    * Reliance Communications Ltd vs. ATC Telecom Infrastructure Pvt Ltd. (EFA(OS)(COMM) 4/2019)
+    * Kakade Construction Company Ltd. vs. Vistra ITCL (India) Ltd. (2019 SCC OnLine Bombay 1521)
+    * South Delhi Municipal Corporation vs. M/s Tech Mahindra (EFA(OS) (COMM) 3/2019)
+    * D&H India Ltd vs. Superon Schweisstechnik India Ltd. (FAO (OS) (COMM) 237/2019)
+    * Life Insurance Corporation of India vs. D.J. Bahadur and Others (1981 1 SCC 315)
+* **Legal Doctrines:**
+    * Generalia Specialibus Non Derogant: General provisions of law do not derogate from specific provisions.
+    * "Ubi jus ibi remedium" (where there is a right, there is a remedy): A legal principle suggesting that for every legal right, there exists a remedy.
+    * “Creature of Statute”: A right or legal entity that exists only by virtue of a statute.
+
+## 4. Arguments Presented
+
+* **Appellant’s Argument:**
+    * The appeal was maintainable under Section 13 of the Commercial Courts Act, as all matters relating to arbitration fall within the ambit of this Act.
+    * The Commercial Courts Act, being a later enactment, overrides the A&C Act.
+    * The appellant intended to challenge the order dated 13.03.2020, by filing an appeal under Section 13 of the A&C Act.
+    * The appellant argued that there were three awards in its favor against the respondents for which it had filed separate applications seeking enforcement, and these applications should be heard together.
+* **Respondent’s Argument:**
+    * The appeal was not maintainable under Section 13 of the Commercial Courts Act, as the order challenged was not one specified in Order XLIII of the CPC or Section 37 of the A&C Act.
+    * The appeal was filed against an order passed in proceedings under Section 36 of the A&C Act and was therefore not maintainable under Section 37 of the A&C Act.
+    * The amended Section 37 of the A&C Act (with the non-obstante clause) restricts appeals to the orders specified in the section.
+    * The appellant was entitled to recover only a sum of Rs. 22,43,55,126/- from the respondents under the three awards, and it was therefore appropriate to withhold this sum from the deposited amount.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The court held that the Commercial Courts Act did not override the A&C Act, and there was no inconsistency between the two Acts.
+    * The court applied the principle of "generalia specialibus non derogant" to determine that the A&C Act, being a special Act, prevails over the Commercial Courts Act.
+    * The court noted that Section 37 of the A&C Act was amended in 2019, and the non-obstante clause introduced in the provision would prevail over the Commercial Courts Act.
+    * The court found that the appeal was directed against an interlocutory order passed in proceedings under Section 36 of the A&C Act, and that no appeal is maintainable from such orders under Section 37 of the A&C Act.
+    * The court concluded that the impugned order did not fall under Order XLIII of the CPC or Section 37 of the A&C Act, and therefore the appeal was not maintainable.
+* **Interpretation of Law:**
+    * The court interpreted the relevant statutory provisions and precedents to determine the scope and limitations of appeals under the Commercial Courts Act and the A&C Act.
+    * The court emphasized the importance of the non-obstante clause introduced in the amended Section 37 of the A&C Act, which limits appealability to the orders specified in the section.
+* **Application of Law:**
+    * The court applied the relevant legal principles to the facts of the case, considering the specific orders challenged and the relevant statutory provisions.
+    * The court applied the principle of "generalia specialibus non derogant" to prioritize the A&C Act, being a special Act, over the Commercial Courts Act.
+
+## 6. Judgment
+
+* **Final Decision:** The appeal was dismissed as not maintainable.
+* **Relief Granted:** No relief was granted as the appeal was dismissed.
+* **Orders:** The court ordered the dismissal of the appeal.
+
+## 7. Implications
+
+* **Impact on Law:** The judgment further clarifies the limited scope of appealable orders under the Commercial Courts Act and the A&C Act, particularly in relation to arbitration proceedings. It emphasizes the importance of the non-obstante clause in Section 37 of the A&C Act and reinforces the principle that specific provisions take precedence over general provisions.
+* **Future Relevance:** The judgment provides guidance for future cases concerning appeals arising from orders passed under Section 36 of the A&C Act, and it reinforces the importance of carefully analyzing the provisions of both the Commercial Courts Act and the A&C Act in determining the appealability of such orders.
+* **Broader Context:** The case highlights the ongoing tension between the desire for expedited resolution of commercial disputes through arbitration and the need to ensure fairness and due process through appeal mechanisms.
+
+## 8. Summary Points
+
+* The appeal against an order passed in arbitration proceedings under Section 36 of the A&C Act was dismissed as not maintainable.
+* The court applied the principle of "generalia specialibus non derogant" to prioritize the A&C Act over the Commercial Courts Act.
+* The non-obstante clause in the amended Section 37 of the A&C Act restricts appealability to the orders specified in the section.
+* The court emphasized the limited scope of appealable orders under the Commercial Courts Act and the A&C Act.
+
+## 9. References
+
+* **Citations:**
+    * Arbitration and Conciliation Act, 1996
+    * Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015
+    * Code of Civil Procedure, 1908
+    * Kandla Export Corporation & Anr. vs M/s OCI Corporation & Anr. (2018 14 SCC 715)
+    * Reliance Communications Ltd vs. ATC Telecom Infrastructure Pvt Ltd. (EFA(OS)(COMM) 4/2019)
+    * Kakade Construction Company Ltd. vs. Vistra ITCL (India) Ltd. (2019 SCC OnLine Bombay 1521)
+    * South Delhi Municipal Corporation vs. M/s Tech Mahindra (EFA(OS) (COMM) 3/2019)
+    * D&H India Ltd vs. Superon Schweisstechnik India Ltd. (FAO (OS) (COMM) 237/2019)
+    * Life Insurance Corporation of India vs. D.J. Bahadur and Others (1981 1 SCC 315)
+* **Further Reading:**
+    * Articles and commentaries on the Commercial Courts Act and the Arbitration and Conciliation Act, 1996.
+    * Case law related to appeals from orders passed in arbitration proceedings.
+    * Legal texts on the principles of statutory interpretation and legal doctrines discussed in the judgment. 

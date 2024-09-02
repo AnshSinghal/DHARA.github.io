@@ -1,0 +1,140 @@
+##  Modipon Fibres Company vs. Gujarat State Fertilizers And Chemicals Limited
+
+**Case Name:** Modipon Fibres Company vs. Gujarat State Fertilizers And Chemicals Limited
+**Court:** Gujarat High Court
+**Date of Judgment:** 10 July, 2018
+**Citation:** AIRONLINE 2018 GUJ 92
+
+## 1. Background and Context
+
+**Brief Overview:**
+
+Modipon Fibres Company (original defendant, appellant) and Gujarat State Fertilizers and Chemicals Limited (original plaintiff, respondent) were engaged in a business relationship for approximately 25 years. The original plaintiff supplied Caprolactam, a raw material for Nylon Filament Yarn, to the original defendant under annual agreements.  The original plaintiff claimed that the original defendant failed to make payments for the supplied goods and issued numerous dishonored checks. Consequently, the original plaintiff filed a summary suit under Order XXXVII of the Code of Civil Procedure (CPC) to recover the outstanding amount.
+
+**Key Issues:**
+
+* Maintainability of the summary suit under Order XXXVII of the CPC in the absence of a signed written contract between the parties.
+* Validity of the conditional leave granted to the original defendant to defend the suit upon deposit of Rs. 5 Crores, instead of unconditional leave.
+* Legality of the original plaintiff claiming interest and penal interest without a specific contractual agreement.
+
+## 2. Legal Principles Involved
+
+**Relevant Statutes and Provisions:**
+
+* Article 226 of the Constitution of India: This article empowers the High Courts to issue writs for the enforcement of fundamental rights and other legal remedies.
+* Order XXXVII of the CPC: This order governs summary suits, which are intended for swift resolution of claims based on written contracts.
+* The Companies Act, 2013: Section 46 of this Act deals with the requirement for Board of Directors' approval for contracts entered into by a company.
+* The Negotiable Instruments Act, 1881: Section 138 of this Act deals with the offense of dishonoring a check.
+
+**Precedents Cited:**
+
+* **Mechelec Engineers and Manufacturers vs. Basic Equipment Corporation** (1976) 4 SCC 687:  This case established the principle that unconditional leave to defend should be granted in summary suits if triable issues are raised.
+* **State Bank of Hyderabad vs. Rabo Bank** (2015) 10 SCC 521: This case further clarified the principles relating to conditional and unconditional leave to defend in summary suits.
+* **Neebha Kapoor vs. Jayantilal Khandwala and Others** (2008) 3 SCC 770: This case dealt with the admissibility of documents in evidence.
+* **IDBI Trusteeship Services Limited vs. Hubtown Limited** (2017) 1 SCC 568: This case examined the impact of amendments to Order XXXVII, Rule 3 of the CPC and overruled the principle established in Mechelec Engineers case regarding unconditional leave to defend.
+* **Satellite Television Asian Region Limited and Anr. vs. Kunvar Ajay Foods Pvt. Ltd.** 2009 (1) GLH 590: This case explored the necessity of specific averments in the plaint under Order XXXVII, Rule 2 of the CPC.
+
+**Legal Doctrines:**
+
+* **Summary Suits:**  A legal process designed for swift resolution of claims based on written contracts.
+* **Triable Issues:**  Disputed points of fact or law that need to be determined by a court.
+* **Conditional Leave to Defend:**  Permission granted to a defendant to defend a suit subject to certain conditions, such as deposit of a sum or furnishing security.
+* **Unconditional Leave to Defend:**  Permission granted to a defendant to defend a suit without any conditions attached.
+* **Maintainability of Suit:**  Whether a legal action can be pursued in a particular court based on applicable laws and procedures.
+* **Estoppel:**  A legal principle preventing a party from asserting a claim that is contrary to their previous conduct or representations.
+
+## 3. Arguments Presented
+
+**Plaintiff’s Argument:**
+
+* The original plaintiff claimed that the summary suit was maintainable under Order XXXVII of the CPC because the invoices and debit notes constituted a written contract, even in the absence of a signed formal agreement.
+* The original plaintiff argued that the original defendant's defences, including the lack of a written contract, lack of authority to file the suit, and disputed interest claims, were frivolous and lacking in good faith.
+* The original plaintiff contended that the original defendant's failure to challenge the conditional leave order before the judgment and decree and their subsequent request for extension of time to comply with the order demonstrated their acceptance of the conditions imposed.
+* The original plaintiff relied on the recent decision of the Supreme Court in Hubtown Limited (Supra) to argue that even if triable issues existed, the court could impose conditions, such as deposit into court, to ensure the efficient disposal of commercial disputes.
+
+**Defendant’s Argument:**
+
+* The original defendant argued that the summary suit was not maintainable because there was no signed written contract between the parties, as required under Order XXXVII of the CPC.
+* The original defendant pointed out that the proforma contract was not signed by the original defendant No. 1 and that the annual agreement dated 08.04.2004 was also not a legally valid contract as it was not signed by both parties.
+* The original defendant argued that the person who filed the suit on behalf of the original plaintiff was not authorized to do so, raising questions about the suit's validity.
+* The original defendant raised various triable issues regarding the disputed principal amount, the claim for interest and penal interest, and the timing of certain claims.
+* The original defendant relied on the earlier Supreme Court decision in Mechelec Engineers (Supra) to argue that unconditional leave to defend should be granted when triable issues are raised.
+
+## 4. Court's Analysis and Reasoning
+
+**Key Findings:**
+
+* The court acknowledged that the original defendant raised several triable issues but emphasized that the original defendant's failure to challenge the conditional leave order earlier and their subsequent application for extension of time to comply with the order suggested their acceptance of the conditions.
+* The court noted that the original defendant consumed the goods supplied by the original plaintiff without raising any dispute regarding quantity or quality, suggesting a lack of good faith in their later defenses.
+* The court considered the recent Supreme Court decision in Hubtown Limited (Supra), which superseded the principle established in Mechelec Engineers (Supra) regarding unconditional leave to defend.
+* The court determined that the original plaintiff's claim for interest was valid based on the invoices that clearly contained an interest clause, and the original defendant's failure to raise any dispute about the interest clause after receiving the invoices.
+
+**Interpretation of Law:**
+
+* The court interpreted Order XXXVII of the CPC in light of the Supreme Court decision in Hubtown Limited (Supra), emphasizing the importance of expeditious disposal of commercial disputes while balancing the defendant's right to a fair trial.
+* The court recognized the principle that conditional leave to defend can be imposed in summary suits, even if triable issues are raised, if the court has doubts about the defendant's good faith or the genuineness of the triable issues.
+* The court found that the invoices and debit notes constituted a written contract under Order XXXVII of the CPC, despite the absence of a formal signed agreement, due to the original defendant's subsequent actions and failure to raise any disputes.
+
+**Application of Law:**
+
+* The court applied the principles established in Hubtown Limited (Supra) to the facts of the case, finding that the conditions imposed by the Commercial Court for conditional leave to defend were justified considering the original defendant's conduct and the lack of good faith in their defenses.
+* The court held that the original defendant's late challenge to the conditional leave order, their earlier acceptance of the conditions, and their failure to raise a limitation defense earlier contributed to the dismissal of their appeal.
+
+## 5. Judgment
+
+**Final Decision:**
+
+The court dismissed the original defendant's Special Civil Application No. 4764/2017 challenging the conditional leave order and the First Appeal No. 1438/2017 challenging the subsequent judgment and decree passed by the Commercial Court.
+
+**Relief Granted:**
+
+The original plaintiff was allowed to proceed with the judgment and decree passed by the Commercial Court, including the recovery of Rs. 22,47,83,286/­ along with running interest at 10% p.a. from the date of filing the suit till realization of the amount.
+
+**Orders:**
+
+The court issued no order as to costs.
+
+## 6. Implications
+
+**Impact on Law:**
+
+This judgment reaffirms the principle that in commercial disputes, courts can impose conditions on defendants seeking leave to defend in summary suits if doubts exist regarding their good faith or the genuineness of their triable issues. The judgment also clarifies that invoices and debit notes can constitute a written contract under Order XXXVII of the CPC, even in the absence of a formal signed agreement, if the defendant's actions demonstrate acceptance of the terms.
+
+**Future Relevance:**
+
+This case provides guidance to courts dealing with summary suits, particularly in commercial disputes, on the balance between ensuring efficient dispute resolution and protecting defendants' rights to a fair trial. The judgment emphasizes the importance of considering the defendant's conduct and good faith when deciding whether to grant conditional or unconditional leave to defend.
+
+**Broader Context:**
+
+This case highlights the complexities of commercial relationships and the challenges in enforcing contractual obligations. The judgment underscores the significance of clear written agreements and the need for parties to raise disputes promptly to avoid potential legal complications.
+
+## 7. Summary Points
+
+* The court upheld the conditional leave order requiring the original defendant to deposit Rs. 5 Crores, even though triable issues were raised.
+* The court considered the original defendant's lack of good faith and their previous acceptance of the conditional leave order.
+* The court applied the principles established in Hubtown Limited (Supra) regarding conditional leave to defend in summary suits.
+* The court determined that the invoices and debit notes constituted a written contract under Order XXXVII of the CPC, despite the absence of a formal signed agreement.
+* The court found the original plaintiff's claim for interest valid based on the invoices containing an interest clause and the original defendant's failure to raise any dispute.
+
+## 8. References
+
+**Citations:**
+
+* Article 226 of the Constitution of India
+* Order XXXVII of the Code of Civil Procedure (CPC)
+* The Companies Act, 2013 (Section 46)
+* The Negotiable Instruments Act, 1881 (Section 138)
+* Mechelec Engineers and Manufacturers vs. Basic Equipment Corporation (1976) 4 SCC 687
+* State Bank of Hyderabad vs. Rabo Bank (2015) 10 SCC 521
+* Neebha Kapoor vs. Jayantilal Khandwala and Others (2008) 3 SCC 770
+* IDBI Trusteeship Services Limited vs. Hubtown Limited (2017) 1 SCC 568
+* Satellite Television Asian Region Limited and Anr. vs. Kunvar Ajay Foods Pvt. Ltd. 2009 (1) GLH 590
+
+**Further Reading:**
+
+* Black's Law Dictionary
+* Order XXXVII of the CPC (Complete Text)
+* The Companies Act, 2013 (Complete Text)
+* The Negotiable Instruments Act, 1881 (Complete Text)
+
+This summary provides a detailed breakdown of the case, including the relevant legal principles, arguments presented by both parties, the court's reasoning, the final judgment, and the potential implications. It also includes relevant citations and suggestions for further reading. 

@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A construction company is challenging an interlocutory order issued by a Commercial Court in a dispute over a construction contract. The company argues that the order is incorrect and is seeking to have it set aside. The Commercial Court Act 2015 states that no civil revision application or petition shall be entertained against any interlocutory order of a Commercial Court. Can the construction company still file a writ petition under Article 227 of the Constitution of India to challenge the order?",
+    "Legal Principles": "The High Court's power of judicial superintendence under Article 227 of the Constitution of India cannot be curtailed by any statutory provisions. While Section 8 of the Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015 bars civil revision applications or petitions against interlocutory orders of a Commercial Court, this does not bar the High Court's power under Article 227.",
+    "Relevant Sections": "Article 227 of the Constitution of India, Section 8 of the Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015.",
+    "Context": "Jurisdiction: India, Case Type: Writ Petition challenging an interlocutory order of a Commercial Court under Article 227 of the Constitution of India."
+  },
+  {
+    "Query": "A company is challenging an interlocutory order passed by a Commercial Court, arguing that the court lacked jurisdiction to hear the case. The company wants to know if they can file a writ petition under Article 227 of the Constitution of India against the order, considering Section 8 of the Commercial Courts Act 2015.",
+    "Legal Principles": "The High Court's power of judicial superintendence under Article 227 of the Constitution of India is a fundamental aspect of the Constitution and cannot be taken away by any legislation.  Therefore, even though Section 8 of the Commercial Courts Act 2015 bars civil revision applications or petitions against interlocutory orders, it does not restrict the High Court's power under Article 227.",
+    "Relevant Sections": "Article 227 of the Constitution of India, Section 8 of the Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015.",
+    "Context": "Jurisdiction: India, Case Type: Writ Petition challenging an interlocutory order on jurisdiction of a Commercial Court under Article 227 of the Constitution of India."
+  },
+  {
+    "Query": "A software developer is facing a lawsuit filed by a client in a Commercial Court, alleging breach of contract. The developer believes that the court's order staying the proceedings pending arbitration is incorrect. Can the developer file a writ petition under Article 227 of the Constitution of India to challenge the order?",
+    "Legal Principles": "The High Court's power of judicial superintendence under Article 227 of the Constitution of India remains intact even with the enactment of the Commercial Courts Act 2015. Section 8 of the Act aims to streamline proceedings in Commercial Courts but does not take away the High Court's inherent power to rectify jurisdictional errors.",
+    "Relevant Sections": "Article 227 of the Constitution of India, Section 8 of the Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015.",
+    "Context": "Jurisdiction: India, Case Type: Writ Petition challenging an interlocutory order staying proceedings under Article 227 of the Constitution of India."
+  },
+  {
+    "Query": "A company is challenging an interlocutory order of a Commercial Court, arguing that it violates a fundamental right guaranteed under the Indian Constitution. Can the company file a writ petition under Article 227 of the Constitution of India to challenge the order?",
+    "Legal Principles": "The High Court's power under Article 227 of the Constitution of India is broad enough to address issues of fundamental rights violations even in the context of interlocutory orders by Commercial Courts. Section 8 of the Commercial Courts Act 2015 does not limit this power.",
+    "Relevant Sections": "Article 227 of the Constitution of India, Section 8 of the Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015.",
+    "Context": "Jurisdiction: India, Case Type: Writ Petition challenging an interlocutory order violating fundamental rights under Article 227 of the Constitution of India."
+  },
+  {
+    "Query": "A company is seeking to challenge an interlocutory order of a Commercial Court, alleging that it was passed without proper consideration of evidence. The company wants to know if they can file a writ petition under Article 227 of the Constitution of India against the order, considering Section 8 of the Commercial Courts Act 2015.",
+    "Legal Principles": "The High Court's power under Article 227 of the Constitution of India extends to reviewing interlocutory orders of Commercial Courts for procedural irregularities or errors of law. While Section 8 of the Commercial Courts Act 2015 restricts traditional remedies like revision, it does not limit the High Court's power under Article 227.",
+    "Relevant Sections": "Article 227 of the Constitution of India, Section 8 of the Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015.",
+    "Context": "Jurisdiction: India, Case Type: Writ Petition challenging an interlocutory order for procedural irregularities under Article 227 of the Constitution of India."
+  },
+  {
+    "Query": "A company is challenging an interlocutory order of a Commercial Court, claiming that the court misapplied the law in reaching its decision. The company wants to know if they can file a writ petition under Article 227 of the Constitution of India against the order, considering Section 8 of the Commercial Courts Act 2015.",
+    "Legal Principles": "The High Court's power under Article 227 of the Constitution of India can be invoked to correct legal errors made by Commercial Courts in their interlocutory orders. Section 8 of the Commercial Courts Act 2015 does not prevent the High Court from exercising its supervisory jurisdiction.",
+    "Relevant Sections": "Article 227 of the Constitution of India, Section 8 of the Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015.",
+    "Context": "Jurisdiction: India, Case Type: Writ Petition challenging an interlocutory order for misapplication of law under Article 227 of the Constitution of India."
+  },
+  {
+    "Query": "A company is challenging an interlocutory order of a Commercial Court, arguing that the court failed to follow proper procedure in arriving at its decision. The company wants to know if they can file a writ petition under Article 227 of the Constitution of India against the order, considering Section 8 of the Commercial Courts Act 2015.",
+    "Legal Principles": "The High Court's power under Article 227 of the Constitution of India includes the ability to review interlocutory orders of Commercial Courts for procedural fairness. Section 8 of the Commercial Courts Act 2015 does not limit the High Court's power to ensure procedural compliance.",
+    "Relevant Sections": "Article 227 of the Constitution of India, Section 8 of the Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015.",
+    "Context": "Jurisdiction: India, Case Type: Writ Petition challenging an interlocutory order for procedural fairness under Article 227 of the Constitution of India."
+  },
+  {
+    "Query": "A company is challenging an interlocutory order of a Commercial Court, arguing that the order was passed based on an erroneous interpretation of a relevant statute. The company wants to know if they can file a writ petition under Article 227 of the Constitution of India against the order, considering Section 8 of the Commercial Courts Act 2015.",
+    "Legal Principles": "The High Court's power under Article 227 of the Constitution of India extends to correcting errors of law made by Commercial Courts, including those related to statutory interpretation. Section 8 of the Commercial Courts Act 2015 does not prevent the High Court from reviewing such errors.",
+    "Relevant Sections": "Article 227 of the Constitution of India, Section 8 of the Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015.",
+    "Context": "Jurisdiction: India, Case Type: Writ Petition challenging an interlocutory order for statutory interpretation errors under Article 227 of the Constitution of India."
+  },
+  {
+    "Query": "A company is challenging an interlocutory order of a Commercial Court, arguing that the order was passed in violation of the principles of natural justice. The company wants to know if they can file a writ petition under Article 227 of the Constitution of India against the order, considering Section 8 of the Commercial Courts Act 2015.",
+    "Legal Principles": "The High Court's power under Article 227 of the Constitution of India encompasses the authority to ensure that interlocutory orders of Commercial Courts comply with the principles of natural justice. Section 8 of the Commercial Courts Act 2015 does not limit this power.",
+    "Relevant Sections": "Article 227 of the Constitution of India, Section 8 of the Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015.",
+    "Context": "Jurisdiction: India, Case Type: Writ Petition challenging an interlocutory order for violation of natural justice under Article 227 of the Constitution of India."
+  },
+  {
+    "Query": "A company is challenging an interlocutory order of a Commercial Court, alleging that the order is so fundamentally flawed that it amounts to a denial of justice. The company wants to know if they can file a writ petition under Article 227 of the Constitution of India against the order, considering Section 8 of the Commercial Courts Act 2015.",
+    "Legal Principles": "The High Court's power under Article 227 of the Constitution of India extends to situations where interlocutory orders of Commercial Courts lead to a manifest miscarriage of justice. While Section 8 of the Commercial Courts Act 2015 seeks to expedite commercial disputes, it does not prevent the High Court from intervening in cases of gross injustice.",
+    "Relevant Sections": "Article 227 of the Constitution of India, Section 8 of the Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015.",
+    "Context": "Jurisdiction: India, Case Type: Writ Petition challenging an interlocutory order for denial of justice under Article 227 of the Constitution of India."
+  }
+]
+```

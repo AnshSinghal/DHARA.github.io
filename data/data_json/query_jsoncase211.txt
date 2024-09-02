@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A company is seeking to enforce an arbitration award against another company, but the award was passed before the Commercial Courts Act came into force. The company argues that the Commercial Court should execute the award because it's a commercial dispute of significant value. The defendant contends that the regular Civil Court should handle the execution, as the Commercial Courts Act does not explicitly address execution proceedings. What is the applicable law regarding the execution of arbitration awards in such a scenario?",
+    "Legal Principles": "Jurisdiction of Commercial Courts, Execution of Arbitration Awards, Purposive Interpretation of Statutes, Doctrine of Harmonious Construction, Exclusion of Civil Court Jurisdiction",
+    "Relevant Sections": "Section 15, Section 16, Section 36 of the Commercial Courts Act, 2015; Order 21 of the Code of Civil Procedure, 1908; Section 36 of the Arbitration and Conciliation Act, 1996",
+    "Context": "Jurisdiction of Commercial Courts in India, Execution of Arbitration Awards, Commercial Disputes"
+  },
+  {
+    "Query": "A party to a commercial dispute wants to challenge the jurisdiction of the designated Commercial Court, arguing that the dispute should be handled by a regular Civil Court. The party claims the Commercial Courts Act does not grant the Commercial Court the authority to handle the specific type of dispute in question. How does the court determine the scope of the Commercial Court's jurisdiction?",
+    "Legal Principles": "Jurisdiction of Commercial Courts, Interpretation of Statutes, Exclusive vs. Concurrent Jurisdiction, Statutory Interpretation",
+    "Relevant Sections": "Section 6, Section 10, Section 15 of the Commercial Courts Act, 2015",
+    "Context": "Jurisdiction of Commercial Courts in India, Commercial Disputes, Statutory Interpretation"
+  },
+  {
+    "Query": "A decree was passed by a court before the Commercial Courts Act came into force. The decree is now being executed in a Civil Court, but the plaintiff argues that the Commercial Court should handle the execution, given the decree's value. The defendant claims that the execution should continue in the Civil Court. What are the legal arguments for and against transferring the execution to the Commercial Court in this situation?",
+    "Legal Principles": "Jurisdiction of Commercial Courts, Execution of Decrees, Retroactive Application of Laws, Transfer of Cases",
+    "Relevant Sections": "Section 15 of the Commercial Courts Act, 2015, Order 21 of the Code of Civil Procedure, 1908",
+    "Context": "Jurisdiction of Commercial Courts in India, Execution of Decrees, Retroactive Application of Laws"
+  },
+  {
+    "Query": "A dispute arises during the execution of an arbitration award in a Commercial Court. The parties disagree on the interpretation and application of certain provisions of the Arbitration and Conciliation Act. What are the legal principles governing the interpretation of the Arbitration Act in the context of Commercial Court proceedings?",
+    "Legal Principles": "Interpretation of Statutes, Doctrine of Harmonious Construction, Special vs. General Laws, Arbitration Law",
+    "Relevant Sections": "Arbitration and Conciliation Act, 1996, Commercial Courts Act, 2015",
+    "Context": "Commercial Courts in India, Arbitration Disputes, Interpretation of Arbitration Law"
+  },
+  {
+    "Query": "A company is seeking to enforce an arbitration award against another company, but the award was passed before the Commercial Courts Act came into force. The company argues that the Commercial Court should execute the award because it's a commercial dispute of significant value. The defendant contends that the regular Civil Court should handle the execution, as the Commercial Courts Act does not explicitly address execution proceedings. What is the applicable law regarding the execution of arbitration awards in such a scenario?",
+    "Legal Principles": "Jurisdiction of Commercial Courts, Execution of Arbitration Awards, Purposive Interpretation of Statutes, Doctrine of Harmonious Construction, Exclusion of Civil Court Jurisdiction",
+    "Relevant Sections": "Section 15, Section 16, Section 36 of the Commercial Courts Act, 2015; Order 21 of the Code of Civil Procedure, 1908; Section 36 of the Arbitration and Conciliation Act, 1996",
+    "Context": "Jurisdiction of Commercial Courts in India, Execution of Arbitration Awards, Commercial Disputes"
+  },
+  {
+    "Query": "A party to a commercial dispute wants to challenge the jurisdiction of the designated Commercial Court, arguing that the dispute should be handled by a regular Civil Court. The party claims the Commercial Courts Act does not grant the Commercial Court the authority to handle the specific type of dispute in question. How does the court determine the scope of the Commercial Court's jurisdiction?",
+    "Legal Principles": "Jurisdiction of Commercial Courts, Interpretation of Statutes, Exclusive vs. Concurrent Jurisdiction, Statutory Interpretation",
+    "Relevant Sections": "Section 6, Section 10, Section 15 of the Commercial Courts Act, 2015",
+    "Context": "Jurisdiction of Commercial Courts in India, Commercial Disputes, Statutory Interpretation"
+  },
+  {
+    "Query": "A decree was passed by a court before the Commercial Courts Act came into force. The decree is now being executed in a Civil Court, but the plaintiff argues that the Commercial Court should handle the execution, given the decree's value. The defendant claims that the execution should continue in the Civil Court. What are the legal arguments for and against transferring the execution to the Commercial Court in this situation?",
+    "Legal Principles": "Jurisdiction of Commercial Courts, Execution of Decrees, Retroactive Application of Laws, Transfer of Cases",
+    "Relevant Sections": "Section 15 of the Commercial Courts Act, 2015, Order 21 of the Code of Civil Procedure, 1908",
+    "Context": "Jurisdiction of Commercial Courts in India, Execution of Decrees, Retroactive Application of Laws"
+  },
+  {
+    "Query": "A dispute arises during the execution of an arbitration award in a Commercial Court. The parties disagree on the interpretation and application of certain provisions of the Arbitration and Conciliation Act. What are the legal principles governing the interpretation of the Arbitration Act in the context of Commercial Court proceedings?",
+    "Legal Principles": "Interpretation of Statutes, Doctrine of Harmonious Construction, Special vs. General Laws, Arbitration Law",
+    "Relevant Sections": "Arbitration and Conciliation Act, 1996, Commercial Courts Act, 2015",
+    "Context": "Commercial Courts in India, Arbitration Disputes, Interpretation of Arbitration Law"
+  },
+  {
+    "Query": "A company is seeking to enforce an arbitration award against another company. The award involves a commercial dispute of substantial value and was passed after the establishment of Commercial Courts in the state. The defendant argues that the Civil Court, where the execution was initiated, is the proper forum, claiming that the Commercial Courts Act does not explicitly confer execution powers on Commercial Courts. What are the legal arguments supporting the company's contention that the Commercial Court has jurisdiction to execute the award?",
+    "Legal Principles": "Jurisdiction of Commercial Courts, Execution of Arbitration Awards, Purposive Interpretation of Statutes, Doctrine of Harmonious Construction, Exclusive vs. Concurrent Jurisdiction",
+    "Relevant Sections": "Section 10, Section 15, Section 16 of the Commercial Courts Act, 2015, Order 21 of the Code of Civil Procedure, 1908; Section 36 of the Arbitration and Conciliation Act, 1996",
+    "Context": "Jurisdiction of Commercial Courts in India, Execution of Arbitration Awards, Commercial Disputes"
+  },
+  {
+    "Query": "A company is facing a legal dispute related to a commercial contract. The dispute involves a significant value and falls under the purview of the Commercial Courts Act. However, the company wants to avoid the Commercial Court and have the dispute resolved in a regular Civil Court. What are the legal arguments the company can make to support its contention that the Civil Court has jurisdiction?",
+    "Legal Principles": "Jurisdiction of Commercial Courts, Interpretation of Statutes, Exclusive vs. Concurrent Jurisdiction, Statutory Interpretation",
+    "Relevant Sections": "Section 6, Section 10, Section 15 of the Commercial Courts Act, 2015",
+    "Context": "Jurisdiction of Commercial Courts in India, Commercial Disputes, Statutory Interpretation"
+  }
+]
+```

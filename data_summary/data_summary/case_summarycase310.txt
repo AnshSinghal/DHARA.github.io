@@ -1,0 +1,113 @@
+## Case Title
+
+* **Case Name:** Sayan Sarker vs. Austin Distribution Private Limited
+* **Court:** Calcutta High Court (Appellate Side)
+* **Date of Judgment:** 21st January 2021
+* **Citation:** C.O. No. 1470 of 2020
+
+## Background and Context
+
+* **Brief Overview:** Sayan Sarker (defendant) filed an application under Article 227 of the Indian Constitution challenging an order passed by the Commercial Court at Alipore. The order rejected Sarker's written statement, filed 141 days after receiving summons, and deemed the suit undefended. 
+* **Key Issues:**
+    * Whether the suit filed in 2018 before the Civil Judge (Senior Division) was a commercial suit despite the absence of a Commercial Court in Alipore.
+    * Whether the amended provisions of the Code of Civil Procedure (CPC) regarding the filing of written statements within 120 days applied to the suit transferred to the Commercial Court in 2019.
+    * Whether the Commercial Court erred in not holding a case management hearing and accepting the written statement filed by Sarker.
+
+## Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * Article 227 of the Indian Constitution
+    * The Commercial Courts Act, 2015 (Sections 3, 15)
+    * The Code of Civil Procedure, 1908 (Order V Rule 1, Order VIII Rule 1, Order VIII Rule 10, Order VI Rule 15-A)
+    * The Arbitration and Conciliation Act, 1996
+* **Precedents Cited:**
+    * SCG Contracts India Pvt. Ltd. v. K.S. Chamankar Infrastructure Pvt. Ltd. and ors. AIR 2019 SC 2691
+    * RDB Textile v. Union of India & ors. (CS 214 of 2016)
+    * Raj Television Network Ltd. v. Sony Music Entertainment India Pvt. Ltd. (2018 (3) CTC 256)
+    * Colonial Life Insurance Company (Trinidad) Ltd. & anr. v. Reliance General Insurance Company Ltd. (Commercial Suit No.29 of 2013)
+    * A.R. Antulay v. R.S. Nayak and ors., AIR 1988 SC 1531
+    * Dilip Choudhury v. Pratishruti Projects Limited and ors. (C.S. 23 of 2015)
+    * Gulf DTH FZ LCC v. Dishtv India Limited and ors. (CS (OS) 3355 of 2015)
+    * Citicrop International Limited v. Gtl Infrastructure Limited (CS 159 of 2017)
+    * OKU Tech Private Limited v. Sangeet Agarwal and ors. (CS (OS) 3390 of 2015)
+    * New India Assurance Company Vs. HILLI (2015 (16) SCC 22)
+* **Legal Doctrines:**
+    *  Interpretation of statutory provisions
+    *  Judicial discretion
+    *  Principles of procedural fairness
+    *  Application of law to specific facts
+
+## Arguments Presented
+
+* **Plaintiff’s Argument:**
+    * The dispute involved a commercial transaction exceeding Rs. 3 crores, making it a commercial suit under the Commercial Courts Act, 2015.
+    * The Act came into force on January 1, 2016, and the amended provisions regarding the filing of written statements within 120 days applied to the suit regardless of when it was filed.
+    * Even though the suit was initially filed before the Civil Judge (Senior Division) in the absence of a Commercial Court, the transfer to the Commercial Court after its establishment didn't change the nature of the suit. 
+    * The defendant should have been diligent and filed the written statement within 120 days from receiving the summons.
+    * The defendant cannot rely on the delays caused by the local bar resolutions to justify the late filing.
+    * The precedents cited by the defendant were distinguishable as they involved suits filed before the Commercial Courts Act came into force.
+* **Defendant’s Argument:**
+    * The suit was filed as a regular money suit before the Civil Judge (Senior Division), and the Commercial Court's jurisdiction only began on July 5, 2019. 
+    * The Commercial Courts Act would not have applied prior to the establishment of the Commercial Court in Alipore.
+    * The suit should be treated as a transferred suit under Section 15 of the Commercial Courts Act, 2015, which allows for the court to set new deadlines for filing written statements.
+    * The Commercial Court failed to hold a case management hearing as mandated by Section 15(4) of the Act, which allows for the court to prescribe a new time period for filing the written statement.
+    * The defendant's delay in filing the written statement was not due to negligence or laches, as it was filed on the first date set by the Civil Judge, and the delay was caused by the inability of the court to hold hearings due to the bar resolutions.
+    * The amended provisions regarding the written statement within 120 days were directory, not mandatory.
+    * If the plaintiff’s claim that the suit was a commercial suit from its inception was true, then the plaint itself would be defective as it did not adhere to the formalities required for commercial suits.
+
+## Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The Commercial Court at Alipore became functional on July 5, 2019, and the Civil Judge (Senior Division) was not a Commercial Court as defined by the Act.
+    * The suit, initially filed before the Civil Judge, should be treated as a transferred suit under Section 15 of the Commercial Courts Act, 2015.
+    * Section 15(4) of the Act allows the Commercial Court to set new timelines for filing written statements in transferred suits, overriding the 120-day limit.
+    * The delay in filing the written statement was not attributable to the defendant’s negligence, as it was filed on the first date set by the Civil Judge, and the subsequent delays were caused by the inability of the court to hold proceedings.
+    * The plaintiff's argument that the suit was a commercial suit from its inception is not tenable, as the plaint does not adhere to the formalities prescribed for commercial suits.
+* **Interpretation of Law:**
+    * The court interpreted Section 15 of the Commercial Courts Act, 2015, as applicable to suits transferred to the Commercial Court after its establishment, granting the court discretion to set new deadlines for filing written statements.
+    * The court also interpreted the second proviso to Order V Rule 1 of the CPC as not being applicable to transferred suits, allowing the Commercial Court to exercise discretion in accepting the written statement.
+* **Application of Law:**
+    * The court applied the principles of judicial discretion and procedural fairness in deciding that the defendant’s late filing of the written statement was not due to negligence.
+    * The court found that the Commercial Court erred in not holding a case management hearing and applying the provisions of Section 15(4) of the Act.
+
+## Judgment
+
+* **Final Decision:** The court set aside the order of the Commercial Court and quashed it.
+* **Relief Granted:** The Commercial Court was directed to accept the written statement filed by the defendant and proceed with the suit according to law, after holding a case management hearing to set new timelines for the parties.
+* **Orders:** The court ordered the Commercial Court to accept the defendant's written statement and proceed with the suit, following the prescribed procedures.
+
+## Implications
+
+* **Impact on Law:** The judgment clarifies that the mandatory 120-day limit for filing written statements in commercial suits under the Commercial Courts Act, 2015, does not apply to suits transferred to the Commercial Court after its establishment. It reaffirms the court's discretion to set new deadlines in such cases.
+* **Future Relevance:** This case will likely be cited in future cases involving transferred suits under the Commercial Courts Act, 2015, where the defendant seeks to file a written statement after the 120-day limit.
+* **Broader Context:** The judgment highlights the importance of procedural fairness and ensuring that litigants are not prejudiced by delays caused by the courts or other external factors.
+
+## Summary Points
+
+* The Commercial Courts Act, 2015, applies to suits transferred to the Commercial Court after its establishment.
+* The 120-day limit for filing written statements does not apply to transferred suits.
+* The court has discretion to set new deadlines for filing written statements in transferred suits.
+* Litigants should not be penalized for delays caused by external factors beyond their control.
+
+## References
+
+* Article 227 of the Indian Constitution
+* The Commercial Courts Act, 2015 (Sections 3, 15)
+* The Code of Civil Procedure, 1908 (Order V Rule 1, Order VIII Rule 1, Order VIII Rule 10, Order VI Rule 15-A)
+* The Arbitration and Conciliation Act, 1996
+* SCG Contracts India Pvt. Ltd. v. K.S. Chamankar Infrastructure Pvt. Ltd. and ors. AIR 2019 SC 2691
+* RDB Textile v. Union of India & ors. (CS 214 of 2016)
+* Raj Television Network Ltd. v. Sony Music Entertainment India Pvt. Ltd. (2018 (3) CTC 256)
+* Colonial Life Insurance Company (Trinidad) Ltd. & anr. v. Reliance General Insurance Company Ltd. (Commercial Suit No.29 of 2013)
+* A.R. Antulay v. R.S. Nayak and ors., AIR 1988 SC 1531
+* Dilip Choudhury v. Pratishruti Projects Limited and ors. (C.S. 23 of 2015)
+* Gulf DTH FZ LCC v. Dishtv India Limited and ors. (CS (OS) 3355 of 2015)
+* Citicrop International Limited v. Gtl Infrastructure Limited (CS 159 of 2017)
+* OKU Tech Private Limited v. Sangeet Agarwal and ors. (CS (OS) 3390 of 2015)
+* New India Assurance Company Vs. HILLI (2015 (16) SCC 22)
+
+## Further Reading
+
+* The Commercial Courts Act, 2015
+* The Code of Civil Procedure, 1908
+* Legal articles and commentaries on the Commercial Courts Act, 2015. 

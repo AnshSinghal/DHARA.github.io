@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A borrower has filed a commercial suit alleging fraud by a bank in invoking SARFAESI Act provisions to seize their property. The bank argues that the borrower defaulted on their loan, and their actions were legitimate. Does the Commercial Court have jurisdiction to hear the fraud allegations, or should the case be dismissed in favor of the Debt Recovery Tribunal?",
+    "Legal Principles": "Jurisdiction of Commercial Courts, Applicability of SARFAESI Act, Fraud as a Defense, Debt Recovery Tribunal (DRT) Jurisdiction",
+    "Relevant Sections": "Section 13(1A) of the Commercial Courts Act, 2015, Section 17 of the Recovery of Debts and Bankruptcy Act, 1993, Order VII Rule 10 and Rule 11(d) of the Code of Civil Procedure, 1908, SARFAESI Act",
+    "Context": "Commercial Suit filed by borrower against a bank, alleging fraud in invoking SARFAESI Act provisions, Jurisdiction dispute between Commercial Court and DRT"
+  },
+  {
+    "Query": "A construction company filed a suit against a bank alleging wrongful invocation of SARFAESI Act provisions. The bank claims the company defaulted on their loan and took the necessary steps. The company seeks a declaration that the bank's actions were illegal and seeks damages. The bank claims the suit is not maintainable and should be filed with the Debt Recovery Tribunal. Can the Commercial Court hear this claim, or should it be dismissed?",
+    "Legal Principles": "Jurisdiction of Commercial Courts, Applicability of SARFAESI Act, Debt Recovery Tribunal (DRT) Jurisdiction",
+    "Relevant Sections": "Section 13(1A) of the Commercial Courts Act, 2015, Section 17 of the Recovery of Debts and Bankruptcy Act, 1993, Order VII Rule 10 and Rule 11(d) of the Code of Civil Procedure, 1908, SARFAESI Act",
+    "Context": "Commercial Suit filed by a construction company against a bank, alleging wrongful invocation of SARFAESI Act provisions, Jurisdiction dispute between Commercial Court and DRT"
+  },
+  {
+    "Query": "A company has been served with a notice under Section 13(2) of the SARFAESI Act by a bank for recovery of loan dues. The company claims the notice is invalid and seeks a declaration to this effect. The bank argues that the company defaulted and the notice is valid. Is the Commercial Court the appropriate forum to adjudicate this dispute?",
+    "Legal Principles": "Jurisdiction of Commercial Courts, Applicability of SARFAESI Act, Notice under Section 13(2) of SARFAESI Act",
+    "Relevant Sections": "Section 13(1A) of the Commercial Courts Act, 2015, Section 13(2) of the SARFAESI Act",
+    "Context": "Dispute regarding validity of notice under Section 13(2) of SARFAESI Act, Jurisdiction of Commercial Court"
+  },
+  {
+    "Query": "A company has challenged the bank's taking of symbolic possession of its property under Section 13(4) of the SARFAESI Act, claiming it was wrongful. The bank maintains the company defaulted and the possession was justified. The company seeks a declaration that the possession was illegal and seeks damages. Can the Commercial Court hear this case?",
+    "Legal Principles": "Jurisdiction of Commercial Courts, Applicability of SARFAESI Act, Section 13(4) of SARFAESI Act, Symbolic Possession",
+    "Relevant Sections": "Section 13(1A) of the Commercial Courts Act, 2015, Section 13(4) of the SARFAESI Act",
+    "Context": "Dispute regarding legality of symbolic possession under Section 13(4) of SARFAESI Act, Jurisdiction of Commercial Court"
+  },
+  {
+    "Query": "A borrower claims a bank fraudulently invoked the SARFAESI Act to seize their property, despite the loan being repaid. The bank claims the borrower still owes money and the actions were legitimate. The borrower seeks a declaration of wrongful invocation of SARFAESI and damages. The bank claims the case should be heard by the DRT.  Can the Commercial Court hear this case?",
+    "Legal Principles": "Jurisdiction of Commercial Courts, Applicability of SARFAESI Act, Fraud as a Defense, Debt Recovery Tribunal (DRT) Jurisdiction",
+    "Relevant Sections": "Section 13(1A) of the Commercial Courts Act, 2015, Section 17 of the Recovery of Debts and Bankruptcy Act, 1993, Order VII Rule 10 and Rule 11(d) of the Code of Civil Procedure, 1908, SARFAESI Act",
+    "Context": "Commercial Suit filed by borrower against a bank, alleging fraudulent invocation of SARFAESI Act provisions, Jurisdiction dispute between Commercial Court and DRT"
+  },
+  {
+    "Query": "A company alleges a bank unlawfully invoked SARFAESI Act provisions to take possession of its property. The company claims the bank misrepresented the loan amount and terms. The bank asserts the company defaulted on the loan and the actions were justified. The company seeks a declaration of wrongful invocation and damages. Does the Commercial Court have jurisdiction to hear this claim?",
+    "Legal Principles": "Jurisdiction of Commercial Courts, Applicability of SARFAESI Act, Misrepresentation, Debt Recovery Tribunal (DRT) Jurisdiction",
+    "Relevant Sections": "Section 13(1A) of the Commercial Courts Act, 2015, Section 17 of the Recovery of Debts and Bankruptcy Act, 1993, Order VII Rule 10 and Rule 11(d) of the Code of Civil Procedure, 1908, SARFAESI Act",
+    "Context": "Commercial Suit filed by a company against a bank, alleging wrongful invocation of SARFAESI Act provisions based on misrepresentation, Jurisdiction dispute between Commercial Court and DRT"
+  },
+  {
+    "Query": "A company filed a suit against a bank, alleging it violated SARFAESI Act procedures during the seizure of its property. The company claims the bank failed to properly serve notice and did not follow the proper steps for possession. The bank claims the company defaulted and the actions were legitimate. The company seeks a declaration of unlawful seizure and damages. Can the Commercial Court hear this case?",
+    "Legal Principles": "Jurisdiction of Commercial Courts, Applicability of SARFAESI Act, Procedural Violations of SARFAESI Act, Debt Recovery Tribunal (DRT) Jurisdiction",
+    "Relevant Sections": "Section 13(1A) of the Commercial Courts Act, 2015, Section 17 of the Recovery of Debts and Bankruptcy Act, 1993, Order VII Rule 10 and Rule 11(d) of the Code of Civil Procedure, 1908, SARFAESI Act",
+    "Context": "Commercial Suit filed by a company against a bank, alleging violation of SARFAESI Act procedures during seizure of property, Jurisdiction dispute between Commercial Court and DRT"
+  },
+  {
+    "Query": "A company argues that a bank wrongly invoked the SARFAESI Act because the loan was already settled through a compromise agreement. The bank claims the settlement was not valid and the company still owes money. The company seeks a declaration of wrongful invocation and damages. Does the Commercial Court have jurisdiction to decide this dispute?",
+    "Legal Principles": "Jurisdiction of Commercial Courts, Applicability of SARFAESI Act, Compromise Agreement, Debt Recovery Tribunal (DRT) Jurisdiction",
+    "Relevant Sections": "Section 13(1A) of the Commercial Courts Act, 2015, Section 17 of the Recovery of Debts and Bankruptcy Act, 1993, Order VII Rule 10 and Rule 11(d) of the Code of Civil Procedure, 1908, SARFAESI Act",
+    "Context": "Commercial Suit filed by a company against a bank, alleging wrongful invocation of SARFAESI Act based on a compromise agreement, Jurisdiction dispute between Commercial Court and DRT"
+  },
+  {
+    "Query": "A company claims a bank violated the terms of a loan agreement by prematurely invoking SARFAESI Act provisions. The company argues the bank failed to provide sufficient notice and opportunity to repay. The bank claims the company defaulted on the loan and the actions were justified. The company seeks a declaration of wrongful invocation and damages. Can the Commercial Court hear this case?",
+    "Legal Principles": "Jurisdiction of Commercial Courts, Applicability of SARFAESI Act, Breach of Loan Agreement, Debt Recovery Tribunal (DRT) Jurisdiction",
+    "Relevant Sections": "Section 13(1A) of the Commercial Courts Act, 2015, Section 17 of the Recovery of Debts and Bankruptcy Act, 1993, Order VII Rule 10 and Rule 11(d) of the Code of Civil Procedure, 1908, SARFAESI Act",
+    "Context": "Commercial Suit filed by a company against a bank, alleging premature invocation of SARFAESI Act based on breach of loan agreement, Jurisdiction dispute between Commercial Court and DRT"
+  },
+  {
+    "Query": "A company alleges a bank unfairly invoked SARFAESI Act provisions, claiming the bank miscalculated the outstanding loan amount and interest. The company claims the bank's calculation is incorrect and the invocation was unjustified. The bank maintains the calculation is accurate and the company defaulted. The company seeks a declaration of wrongful invocation and damages. Should the Commercial Court hear this claim?",
+    "Legal Principles": "Jurisdiction of Commercial Courts, Applicability of SARFAESI Act, Miscalculation of Loan Amount, Debt Recovery Tribunal (DRT) Jurisdiction",
+    "Relevant Sections": "Section 13(1A) of the Commercial Courts Act, 2015, Section 17 of the Recovery of Debts and Bankruptcy Act, 1993, Order VII Rule 10 and Rule 11(d) of the Code of Civil Procedure, 1908, SARFAESI Act",
+    "Context": "Commercial Suit filed by a company against a bank, alleging wrongful invocation of SARFAESI Act based on miscalculation of loan amount, Jurisdiction dispute between Commercial Court and DRT"
+  }
+]
+``` 

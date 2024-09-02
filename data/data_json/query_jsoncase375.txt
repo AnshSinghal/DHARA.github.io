@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A company, 'Tech Solutions Inc.', filed a suit for recovery of Rs. 2 crore from 'WebDev Solutions Pvt. Ltd.'  for unpaid services rendered.  The defendant argues that the suit should be heard in a Commercial Court, as the amount exceeds the specified value. However, no Commercial Court has yet been established in the district.  Should the suit be heard by the regular Civil Court or transferred to the High Court's Commercial Division?",
+    "Legal Principles": "Jurisdiction of Commercial Courts, specified value in commercial disputes, applicability of the Commercial Courts Act, 2015, forum non conveniens, transfer of cases to Commercial Division.",
+    "Relevant Sections": "Sections 2(c), 3(3), 7, 11, 12, 15(2) of the Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015.",
+    "Context": "Jurisdiction of courts in India, commercial disputes, applicability of the Commercial Courts Act, 2015, specific value threshold for commercial disputes, transfer of cases."
+  },
+  {
+    "Query": "A dispute has arisen between 'Alpha Trading Co.' and 'Beta Exports Ltd.' over a contract for the supply of goods worth Rs. 1.5 crore.  Alpha Trading Co. filed a suit in the District Court.  Beta Exports Ltd. argues that the suit should be heard in a Commercial Court. However, no Commercial Court has yet been established in the district.  Can the District Court entertain the suit, or should it be transferred to a Commercial Court or the High Court's Commercial Division?",
+    "Legal Principles": "Jurisdiction of Commercial Courts, specified value in commercial disputes, applicability of the Commercial Courts Act, 2015, forum non conveniens, transfer of cases to Commercial Division.",
+    "Relevant Sections": "Sections 2(c), 3(3), 7, 11, 12, 15(2) of the Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015.",
+    "Context": "Jurisdiction of courts in India, commercial disputes, applicability of the Commercial Courts Act, 2015, specific value threshold for commercial disputes, transfer of cases."
+  },
+  {
+    "Query": "A construction company, 'Buildwell Ltd.', filed a suit against a real estate developer, 'Prime Properties Pvt. Ltd.', for non-payment of Rs. 3 crore for construction work completed.  Prime Properties Pvt. Ltd. argues that the suit should be heard in a Commercial Court, as the amount exceeds the specified value. However, no Commercial Court has yet been established in the district.  Should the suit be heard by the regular Civil Court or transferred to the High Court's Commercial Division?",
+    "Legal Principles": "Jurisdiction of Commercial Courts, specified value in commercial disputes, applicability of the Commercial Courts Act, 2015, forum non conveniens, transfer of cases to Commercial Division.",
+    "Relevant Sections": "Sections 2(c), 3(3), 7, 11, 12, 15(2) of the Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015.",
+    "Context": "Jurisdiction of courts in India, commercial disputes, applicability of the Commercial Courts Act, 2015, specific value threshold for commercial disputes, transfer of cases."
+  },
+  {
+    "Query": "A manufacturing company, 'Indus Products Ltd.', filed a suit against a distributor, 'Global Trade Corp.', for breach of contract involving the supply of goods worth Rs. 5 crore.  Global Trade Corp. argues that the suit should be heard in a Commercial Court, as the amount exceeds the specified value. However, no Commercial Court has yet been established in the district.  Should the suit be heard by the regular Civil Court or transferred to the High Court's Commercial Division?",
+    "Legal Principles": "Jurisdiction of Commercial Courts, specified value in commercial disputes, applicability of the Commercial Courts Act, 2015, forum non conveniens, transfer of cases to Commercial Division.",
+    "Relevant Sections": "Sections 2(c), 3(3), 7, 11, 12, 15(2) of the Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015.",
+    "Context": "Jurisdiction of courts in India, commercial disputes, applicability of the Commercial Courts Act, 2015, specific value threshold for commercial disputes, transfer of cases."
+  },
+  {
+    "Query": "A software company, 'Code Solutions Inc.', filed a suit against a client, 'TechCorp Ltd.', for non-payment of Rs. 8 crore for software development services.  TechCorp Ltd. argues that the suit should be heard in a Commercial Court, as the amount exceeds the specified value. However, no Commercial Court has yet been established in the district.  Should the suit be heard by the regular Civil Court or transferred to the High Court's Commercial Division?",
+    "Legal Principles": "Jurisdiction of Commercial Courts, specified value in commercial disputes, applicability of the Commercial Courts Act, 2015, forum non conveniens, transfer of cases to Commercial Division.",
+    "Relevant Sections": "Sections 2(c), 3(3), 7, 11, 12, 15(2) of the Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015.",
+    "Context": "Jurisdiction of courts in India, commercial disputes, applicability of the Commercial Courts Act, 2015, specific value threshold for commercial disputes, transfer of cases."
+  },
+  {
+    "Query": "A logistics company, 'TransGlobal Logistics Ltd.', filed a suit against a client, 'RetailMart Inc.', for non-payment of Rs. 12 crore for transportation services.  RetailMart Inc. argues that the suit should be heard in a Commercial Court, as the amount exceeds the specified value. However, no Commercial Court has yet been established in the district.  Should the suit be heard by the regular Civil Court or transferred to the High Court's Commercial Division?",
+    "Legal Principles": "Jurisdiction of Commercial Courts, specified value in commercial disputes, applicability of the Commercial Courts Act, 2015, forum non conveniens, transfer of cases to Commercial Division.",
+    "Relevant Sections": "Sections 2(c), 3(3), 7, 11, 12, 15(2) of the Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015.",
+    "Context": "Jurisdiction of courts in India, commercial disputes, applicability of the Commercial Courts Act, 2015, specific value threshold for commercial disputes, transfer of cases."
+  },
+  {
+    "Query": "A pharmaceutical company, 'MedTech Pharma Ltd.', filed a suit against a distributor, 'HealthCare Supplies Inc.', for breach of contract involving the supply of medicines worth Rs. 15 crore.  HealthCare Supplies Inc. argues that the suit should be heard in a Commercial Court, as the amount exceeds the specified value. However, no Commercial Court has yet been established in the district.  Should the suit be heard by the regular Civil Court or transferred to the High Court's Commercial Division?",
+    "Legal Principles": "Jurisdiction of Commercial Courts, specified value in commercial disputes, applicability of the Commercial Courts Act, 2015, forum non conveniens, transfer of cases to Commercial Division.",
+    "Relevant Sections": "Sections 2(c), 3(3), 7, 11, 12, 15(2) of the Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015.",
+    "Context": "Jurisdiction of courts in India, commercial disputes, applicability of the Commercial Courts Act, 2015, specific value threshold for commercial disputes, transfer of cases."
+  },
+  {
+    "Query": "A financial services company, 'FinTech Solutions Ltd.', filed a suit against a client, 'InvestCorp Ltd.', for non-payment of Rs. 20 crore for financial advisory services.  InvestCorp Ltd. argues that the suit should be heard in a Commercial Court, as the amount exceeds the specified value. However, no Commercial Court has yet been established in the district.  Should the suit be heard by the regular Civil Court or transferred to the High Court's Commercial Division?",
+    "Legal Principles": "Jurisdiction of Commercial Courts, specified value in commercial disputes, applicability of the Commercial Courts Act, 2015, forum non conveniens, transfer of cases to Commercial Division.",
+    "Relevant Sections": "Sections 2(c), 3(3), 7, 11, 12, 15(2) of the Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015.",
+    "Context": "Jurisdiction of courts in India, commercial disputes, applicability of the Commercial Courts Act, 2015, specific value threshold for commercial disputes, transfer of cases."
+  },
+  {
+    "Query": "A manufacturing company, 'MetalWorks Ltd.', filed a suit against a supplier, 'SteelCo Inc.', for breach of contract involving the supply of steel worth Rs. 25 crore.  SteelCo Inc. argues that the suit should be heard in a Commercial Court, as the amount exceeds the specified value. However, no Commercial Court has yet been established in the district.  Should the suit be heard by the regular Civil Court or transferred to the High Court's Commercial Division?",
+    "Legal Principles": "Jurisdiction of Commercial Courts, specified value in commercial disputes, applicability of the Commercial Courts Act, 2015, forum non conveniens, transfer of cases to Commercial Division.",
+    "Relevant Sections": "Sections 2(c), 3(3), 7, 11, 12, 15(2) of the Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015.",
+    "Context": "Jurisdiction of courts in India, commercial disputes, applicability of the Commercial Courts Act, 2015, specific value threshold for commercial disputes, transfer of cases."
+  },
+  {
+    "Query": "A real estate developer, 'UrbanHomes Ltd.', filed a suit against a contractor, 'BuildTech Construction Inc.', for non-payment of Rs. 30 crore for construction work completed.  BuildTech Construction Inc. argues that the suit should be heard in a Commercial Court, as the amount exceeds the specified value. However, no Commercial Court has yet been established in the district.  Should the suit be heard by the regular Civil Court or transferred to the High Court's Commercial Division?",
+    "Legal Principles": "Jurisdiction of Commercial Courts, specified value in commercial disputes, applicability of the Commercial Courts Act, 2015, forum non conveniens, transfer of cases to Commercial Division.",
+    "Relevant Sections": "Sections 2(c), 3(3), 7, 11, 12, 15(2) of the Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015.",
+    "Context": "Jurisdiction of courts in India, commercial disputes, applicability of the Commercial Courts Act, 2015, specific value threshold for commercial disputes, transfer of cases."
+  }
+]
+```

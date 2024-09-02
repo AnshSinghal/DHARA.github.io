@@ -1,0 +1,83 @@
+## 1. Case Title
+
+* **Case Name:** Ram Kripal Singh Construction Private Limited vs. The State of Jharkhand Through The Secretary, Department of Building Construction 
+* **Court:** Jharkhand High Court
+* **Date of Judgment:** 29th July 2024
+* **Citation:** Commercial Appeal No. 13 of 2023
+
+## 2. Background and Context
+
+* **Brief Overview:** Ram Kripal Singh Construction Private Limited (Appellant) filed a suit in Commercial Court, Ranchi, which was dismissed on 12th July 2018. The Appellant appealed the decision, but the appeal was dismissed by a coordinate Division Bench of the Jharkhand High Court on 16th March 2023 with the liberty to file a fresh appeal within three months. This present appeal is the Appellant's attempt to challenge the original dismissal of the suit. 
+* **Key Issues:** 
+    * Whether the appeal was barred by limitation, considering the delay of 1022 days in filing it. 
+    * Whether the delay could be condoned based on the liberty granted by the coordinate Division Bench and the applicability of Section 14 of the Limitation Act, 1963.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * **Commercial Courts Act, 2015:** Specifically, Section 13, which mandates that appeals be filed within 60 days from the date of the judgment or order.
+    * **Limitation Act, 1963:** Particularly Section 5 (power to condone delay) and Section 14 (exclusion of time of proceeding bona fide in court without jurisdiction).
+    * **Code of Civil Procedure, 1908:** Rule XXIII Rule 2 (limitation law not affected by first suit).
+* **Precedents Cited:**
+    * **Government of Maharashtra (Water Resources Department) represented by Executive Engineer v. Borse Brothers Engineers and Contractors Private Limited [(2021) 6 SCC 460]**: This case dealt with the interpretation of Section 13 of the Commercial Courts Act and the applicability of Section 5 of the Limitation Act in commercial disputes.
+    * **Basawaraj & Anr. Vrs. Spl. Land Acquisition Officer, [(2013) 14 SCC 81]**: This case provided a definition of "sufficient cause" for condoning delay. 
+* **Legal Doctrines:** 
+    * **Harmonious Interpretation:** The court sought to interpret the statutory provisions in a way that harmonizes them.
+    * **Expeditious Disposal:** The court acknowledged the intent of the Commercial Courts Act, 2015 to ensure speedy resolution of commercial disputes.
+
+## 4. Arguments Presented
+
+* **Appellant's Argument:** 
+    * The appeal was filed within the three-month period granted by the coordinate Division Bench, making it not barred by limitation.
+    * Even if the appeal is barred by limitation, the delay should be condoned under Section 14 of the Limitation Act since the Appellant was diligently pursuing the case and the period consumed in the previous proceedings should be excluded.
+* **Respondent's Argument:**
+    * Section 13 of the Commercial Courts Act clearly mandates filing the appeal within 60 days, which was not adhered to.
+    * The liberty granted by the Division Bench was for filing a fresh appeal, not for extending the limitation period.
+    * The Appellant's conduct demonstrated negligence and lack of due diligence.
+    * The power to condone delay under Section 5 of the Limitation Act should be applied exceptionally and only with bona fide conduct, which the Appellant lacked.
+
+## 5. Court's Analysis and Reasoning
+
+* **Key Findings:**
+    * The court found that the appellant had not diligently pursued the case and was negligent in its approach. 
+    * The three-month period granted by the Division Bench was meant for filing the appeal and did not extend the limitation period prescribed by Section 13 of the Commercial Courts Act, 2015.
+    * The court considered the application of Section 5 of the Limitation Act in light of the Commercial Courts Act, 2015 and the precedent set by the case of *Government of Maharashtra (Water Resources Department) v. Borse Brothers Engineers and Contractors Private Limited*.
+* **Interpretation of Law:**
+    * The court interpreted Section 13 of the Commercial Courts Act as having a strict limitation period of 60 days.
+    * The court also interpreted Section 5 of the Limitation Act as applicable only in exceptional circumstances and with demonstrably bona fide conduct.
+* **Application of Law:**
+    * The court applied the interpretation of Section 13 to the facts of the case, concluding that the delay of 1022 days exceeded the statutory period for filing the appeal.
+    * The court refused to apply Section 5 to condone the delay because of the Appellant's negligent conduct and lack of sufficient cause for the delay.
+
+## 6. Judgment
+
+* **Final Decision:** The appeal was dismissed.
+* **Relief Granted:** No relief was granted to the Appellant.
+* **Orders:** The appeal was dismissed as hopelessly barred by limitation. 
+
+## 7. Implications
+
+* **Impact on Law:** This case emphasizes the strict adherence to the limitation periods prescribed by the Commercial Courts Act, 2015, particularly regarding the limited scope for condoning delay. 
+* **Future Relevance:** This judgment serves as a reminder of the importance of diligent conduct and adherence to legal timelines in commercial disputes. Courts may use this case as a precedent when evaluating claims for condonation of delay in similar situations.
+* **Broader Context:** This case highlights the need for clear and efficient legal procedures in commercial disputes to ensure timely resolution and reduce potential delays.
+
+## 8. Summary Points
+
+* The court emphasized the importance of expeditious disposal of commercial disputes.
+* The court strictly interpreted the limitation periods under the Commercial Courts Act, 2015.
+* The court held that the Appellant's negligent conduct and lack of sufficient cause did not justify condoning the delay.
+* The court considered the precedent established by *Government of Maharashtra (Water Resources Department) v. Borse Brothers Engineers and Contractors Private Limited* in applying the provision for condoning delay.
+
+## 9. References
+
+* **Citations:**
+    * Commercial Courts Act, 2015
+    * Limitation Act, 1963
+    * Code of Civil Procedure, 1908
+    * Government of Maharashtra (Water Resources Department) represented by Executive Engineer v. Borse Brothers Engineers and Contractors Private Limited [(2021) 6 SCC 460] 
+    * Basawaraj & Anr. Vrs. Spl. Land Acquisition Officer, [(2013) 14 SCC 81]
+* **Further Reading:** 
+    * Other judgments related to condonation of delay under the Limitation Act.
+    * Legal literature on the Commercial Courts Act, 2015.
+
+This summary provides a comprehensive overview of the case, its legal arguments, the court's analysis, and the final judgment. It highlights the critical legal principles involved and their application in the specific context of the case. 

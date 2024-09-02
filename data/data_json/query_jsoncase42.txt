@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A company is seeking to terminate the mandate of an arbitrator due to undue delay in completing the arbitration proceedings. The company argues that the arbitrator has failed to act within the time limit prescribed by the court, even though the company itself has contributed to the delay by filing various motions and appeals. Can the mandate of the arbitrator be terminated under these circumstances?",
+    "Legal Principles": "Section 14 of the Arbitration and Conciliation Act, 1996 deals with the termination of the mandate of an arbitrator due to failure or impossibility to act. Undue delay, as defined by the court, is a key factor in determining whether to terminate the mandate. The concept of waiver by conduct, where parties may be deemed to have waived their right to object to delays, is also relevant.",
+    "Relevant Sections": "Section 14 of the Arbitration and Conciliation Act, 1996, Section 4 of the Arbitration and Conciliation Act, 1996 (dealing with waiver of right to object)",
+    "Context": "This query concerns the application of Section 14 of the Arbitration and Conciliation Act, 1996, in a case where there is undue delay in arbitration proceedings. The query highlights the complexities involved in determining whether a party has waived its right to object to delays by its own actions."
+  },
+  {
+    "Query": "A party to an arbitration agreement seeks to challenge the appointment of an arbitrator on the grounds of bias. The party claims that the arbitrator's previous dealings with the opposing party create a conflict of interest. How does the court determine whether the arbitrator is biased and if so, what are the consequences?",
+    "Legal Principles": "The principle of impartiality and independence of arbitrators is essential in arbitration proceedings.  A party can challenge the appointment of an arbitrator on grounds of bias, but the burden of proof lies with the party alleging bias. The court will examine the nature of the alleged bias, the arbitrator's previous relationships, and the likelihood of prejudice.",
+    "Relevant Sections": "Section 12 of the Arbitration and Conciliation Act, 1996 (dealing with challenges to the appointment of an arbitrator on grounds of bias)",
+    "Context": "This query focuses on the legal principles surrounding arbitrator bias in arbitration proceedings. The court's role in determining bias, the burden of proof, and the potential consequences of finding bias are all explored."
+  },
+  {
+    "Query": "A construction company is involved in a dispute with a property developer regarding a construction project. The parties have agreed to arbitration but have not specified a time limit for the completion of the arbitration proceedings. Can the court impose a time limit on the arbitration proceedings, and if so, what are the factors the court will consider?",
+    "Legal Principles": "While the parties can agree to a time limit for arbitration proceedings, the court can intervene in specific cases to ensure timely resolution of disputes. The court will consider factors such as the complexity of the issues, the availability of evidence, and the potential for prejudice due to delay.",
+    "Relevant Sections": "Section 29-A of the Arbitration and Conciliation Act, 2015 (dealing with time limits for arbitral proceedings)",
+    "Context": "This query explores the court's power to impose time limits on arbitration proceedings in situations where the parties have not agreed on such limits. The query emphasizes the court's role in balancing the need for timely resolution with the need for a fair and thorough process."
+  },
+  {
+    "Query": "A party to an arbitration agreement seeks to terminate the mandate of an arbitrator on the grounds of 'de jure' inability to perform his functions. The party claims that the arbitrator has become incapacitated due to a health condition. Can the court terminate the arbitrator's mandate based on 'de jure' incapacity?",
+    "Legal Principles": "Section 14 of the Arbitration and Conciliation Act, 1996 allows for termination of an arbitrator's mandate if the arbitrator becomes 'de jure' or 'de facto' unable to perform his functions.  'De jure' incapacity refers to a legal impediment or inability to function, often related to a specific condition or legal restriction.",
+    "Relevant Sections": "Section 14 of the Arbitration and Conciliation Act, 1996 (dealing with termination of an arbitrator's mandate due to incapacity)",
+    "Context": "This query focuses on the legal concept of 'de jure' incapacity as a ground for terminating an arbitrator's mandate under Section 14 of the Act. The court's role in determining the nature of the incapacity and its impact on the arbitrator's ability to function is crucial."
+  },
+  {
+    "Query": "Two parties are involved in a commercial dispute and have agreed to arbitration. However, the arbitrator has failed to complete the arbitration proceedings within the time limit agreed upon by the parties. One party seeks to terminate the arbitrator's mandate on grounds of undue delay. Can the court terminate the arbitrator's mandate under these circumstances, and what factors will the court consider?",
+    "Legal Principles": "Section 14 of the Arbitration and Conciliation Act, 1996 provides for termination of an arbitrator's mandate for undue delay. The court will consider the reasons for the delay, the parties' conduct, and the impact of the delay on the proceedings.",
+    "Relevant Sections": "Section 14 of the Arbitration and Conciliation Act, 1996 (dealing with termination of an arbitrator's mandate due to undue delay)",
+    "Context": "This query examines the application of Section 14 of the Arbitration and Conciliation Act, 1996, specifically in cases where parties have agreed to a time limit for arbitration proceedings, but the arbitrator has failed to meet that deadline. The court's role in balancing the need for timely resolution with the need for a fair process is highlighted."
+  },
+  {
+    "Query": "A company is challenging an arbitration award on the grounds that the arbitrator exceeded his authority by deciding issues that were not within the scope of the arbitration agreement. Can the court set aside the award based on this argument?",
+    "Legal Principles": "Arbitrators are bound by the terms of the arbitration agreement and cannot exceed their authority. The court can set aside an award if it is found to be 'ultra vires', meaning that it exceeds the arbitrator's power.",
+    "Relevant Sections": "Section 34 of the Arbitration and Conciliation Act, 1996 (dealing with grounds for challenging an arbitral award)",
+    "Context": "This query explores the concept of 'ultra vires' in relation to arbitration awards. The court's role in determining whether an arbitrator has exceeded its authority and the consequences of such an act are examined."
+  },
+  {
+    "Query": "A party to an arbitration agreement seeks to challenge the appointment of an arbitrator on grounds that the arbitrator is not qualified to handle the specific technical aspects of the dispute. Does the court have the authority to review the arbitrator's qualifications and if so, what criteria will it use?",
+    "Legal Principles": "While parties can agree to the qualifications of an arbitrator, the court can intervene to ensure that the arbitrator is competent to handle the specific issues in dispute. The court will consider the nature of the dispute, the arbitrator's expertise, and the potential for prejudice due to lack of qualification.",
+    "Relevant Sections": "Section 11 of the Arbitration and Conciliation Act, 1996 (dealing with qualifications of arbitrators)",
+    "Context": "This query delves into the legal framework surrounding the qualifications of arbitrators and the court's role in reviewing these qualifications in the context of a specific dispute."
+  },
+  {
+    "Query": "A construction company is involved in a dispute with a property developer regarding a construction defect. The parties have agreed to arbitration but have not specified a time limit for the completion of the arbitration proceedings. The construction company argues that the property developer is delaying the arbitration process by repeatedly seeking adjournments. Can the court intervene to expedite the arbitration proceedings?",
+    "Legal Principles": "While the court generally respects the autonomy of the arbitration process, it can intervene to ensure that the proceedings are conducted fairly and efficiently. The court will consider the reasons for the delays, the parties' conduct, and the potential for prejudice.",
+    "Relevant Sections": "Section 29-A of the Arbitration and Conciliation Act, 2015 (dealing with time limits for arbitral proceedings)",
+    "Context": "This query explores the court's role in managing the timeliness of arbitration proceedings, specifically in situations where one party is allegedly delaying the process. The query highlights the delicate balance between court intervention and respecting the parties' right to a fair and thorough arbitration."
+  },
+  {
+    "Query": "A party to an arbitration agreement seeks to challenge the appointment of an arbitrator on grounds of potential bias. The party claims that the arbitrator's spouse is employed by the opposing party, although there is no evidence of any direct influence or communication. Can the court terminate the arbitrator's mandate based on this perceived conflict of interest?",
+    "Legal Principles": "The principle of impartiality and independence of arbitrators is paramount in arbitration proceedings.  While the court will carefully examine any perceived conflicts of interest, it must balance this with the need for a fair and efficient process. The court will consider the nature of the potential bias, the likelihood of prejudice, and the impact of terminating the arbitrator's mandate.",
+    "Relevant Sections": "Section 12 of the Arbitration and Conciliation Act, 1996 (dealing with challenges to the appointment of an arbitrator on grounds of bias)",
+    "Context": "This query delves into the complex issue of perceived bias in arbitration proceedings. The court's role in assessing the significance of a potential conflict of interest, even in the absence of direct evidence of influence, is examined."
+  },
+  {
+    "Query": "A company is challenging an arbitration award on the grounds that the arbitrator failed to properly consider a key piece of evidence that was presented during the proceedings. Can the court set aside the award based on this argument?",
+    "Legal Principles": "Arbitrators are expected to consider all relevant evidence presented during the arbitration proceedings. The court can set aside an award if it is found to be based on a material error of law or fact, including the failure to properly consider evidence.",
+    "Relevant Sections": "Section 34 of the Arbitration and Conciliation Act, 1996 (dealing with grounds for challenging an arbitral award)",
+    "Context": "This query explores the legal principles surrounding the proper consideration of evidence in arbitration proceedings. The court's role in reviewing an arbitrator's assessment of evidence and the potential grounds for setting aside an award are examined."
+  }
+]
+```

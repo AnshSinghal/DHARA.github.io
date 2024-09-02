@@ -1,0 +1,97 @@
+## Case Title
+
+* **Case Name:** M/S HCIL-Adhikarya-ARSS(JV) vs Rahee- GPT (JV) And Anr. 
+* **Court:** Orissa High Court
+* **Date of Judgment:** 19th May 2023
+* **Citation:** ARBA No.38 of 2022
+
+## Background and Context
+
+* **Brief Overview:**  This case arose from a contract dispute between M/S HCIL-Adhikarya-ARSS(JV) (Appellant) and Rahee-GPT (JV) (Respondent No. 1). The Appellant was contracted by the Indian Railways to build a railway line, and they sub-contracted a portion of the work, specifically steel girder bridge erection, to Respondent No. 1.  Due to delays alleged to be caused by the Railway (Respondent No. 2), the project was delayed and ultimately terminated.  The Appellant blamed the delays on Respondent No. 1's failure to complete the work.
+* **Key Issues:**
+    * Whether the lower court's judgment was based on a fair hearing, considering the Appellant's claim that they were not properly informed about the transfer of the case to the Commercial Court.
+    * Whether the lower court correctly applied legal principles in upholding the Arbitral Award, given the Appellant's arguments about its illegality and lack of reasoning.
+
+## Legal Principles Involved
+
+* **Relevant Statutes and Provisions:** 
+    * **Arbitration and Conciliation Act, 1996 (A&C Act):**
+        * Section 37: Appeal against the decision of the lower court regarding a petition under Section 34.
+        * Section 34: Petition to set aside an arbitral award.
+    * **Commercial Courts Act, 2015:**
+        * Section 15: Transfer of pending suits, including arbitration petitions, to Commercial Courts.
+    * **Odisha Civil Courts Act, 1984:**
+        * Section 3, 9(1), 10: Provisions related to the establishment of courts and their powers.
+* **Precedents Cited:** 
+    * **Mcdermott International Inc. v. Burn Standard Co. Ltd. (2006) 11 SCC 181:** Supreme Court case defining the scope of judicial intervention in arbitral awards.
+    * **UHL Power Co. Ltd. v. State of H.P. (2022) 4 SCC 116:** Supreme Court case on the role of courts in scrutinizing arbitral awards.
+    * **K. Sugumar v. Hindustan Petroleum Corpn. Ltd. (2020) 12 SCC 539:** Supreme Court case on judicial review of arbitral awards.
+    * **Jaycee Housing (P) Ltd. v. High Court of Orissa (2023) 1 SCC 549:** Supreme Court case upholding the establishment of Commercial Courts in Odisha.
+    * **P.R. Shah Shares & Stock Broker (P) Ltd. v. B.H.H. Securities (P) Ltd. (2012) 1 SCC 594:** Supreme Court case on the limited scope of judicial review of arbitral awards.
+    * **Swan Gold Mining Ltd. v. Hindustan Copper Ltd. (2015) 5 SCC 739:** Supreme Court case reiterating the limited scope of judicial review.
+    * **K.V. Mohd. Zakir v. Regional Sports Center AIR 2009 (SCW) 6217:** Supreme Court case on judicial review of arbitral awards.
+    * **State of U.P. v. Ram Nath Constructions (1996) 1 SCC 18:** Supreme Court case on the role of courts in reviewing arbitral awards.
+    * **M/S Pragya Electronics Pvt. Ltd. v. M/s Cosmo Ferrites Ltd. 2021 SCC OnLine Del 3428:** Delhi High Court case on the limitations of judicial review of arbitral awards.
+    * **State of Orissa v. Bhagyadhar Dash 2016 SCC OnLine Ori 1039:**  Orissa High Court case on the role of courts in reviewing arbitral awards.
+
+* **Legal Doctrines:** 
+    * **Principles of Natural Justice:**  The right to a fair hearing, including notice and an opportunity to be heard. 
+    * **Judicial Review of Arbitral Awards:** The limited role of courts in reviewing arbitral awards, focusing on issues of jurisdiction, public policy, and procedural fairness.
+    * **"Quando aliquid prohibetur ex directo, prohibetur et per obliquum"** (What cannot be done directly, should not be done indirectly) - a Latin maxim applied in the case to the Appellant's argument about the lack of notice regarding the transfer.
+
+## Arguments Presented
+
+* **Appellant’s Argument:**
+    * The Appellant argued that the lower court's judgment was a result of a denial of a fair hearing because they were not notified about the transfer of the case to the Commercial Court.
+    * They argued that the lower court's judgment was flawed because it did not adequately address their arguments regarding the illegality of the Arbitral Award and the lack of reasoning by the Arbitrator. 
+* **Respondent’s Argument (Respondent No. 1):**
+    * The Respondent (No. 1) argued that the lower court had properly applied legal principles and that the Appellant's arguments were baseless.
+    * They contended that the transfer of the case was legal and that the Appellant was aware of it. They pointed to the Appellant's own petition and written statement as evidence of their awareness.
+
+## Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The court acknowledged the Supreme Court's rulings on the limited scope of judicial intervention in arbitral awards.
+    * The court recognized the validity of the establishment of the Commercial Courts in Odisha, citing the Supreme Court's judgment in Jaycee Housing (P) Ltd. v. High Court of Orissa.
+    * The court found that the Appellant was not denied a fair hearing because the transfer process was legal, and the Appellant was aware of the transfer. 
+    * The court noted that the Appellant had stated in their own petition that they were regularly appearing in the case during the transfer period.
+    * The court determined that the Arbitrator had adequately considered the evidence and provided reasoning for their decision. 
+
+* **Interpretation of Law:**
+    * The court emphasized the limited scope of judicial review under Section 34 of the A&C Act, noting that courts are not to re-appreciate the evidence presented to the Arbitrator.
+    * The court interpreted Section 15(4) of the Commercial Courts Act, 2015, to suggest that case management hearings after transfer are not mandatory, meaning the court had discretion in conducting them.
+
+* **Application of Law:**
+    * The court applied the principle of "Quando aliquid prohibetur ex directo, prohibetur et per obliquum" to refute the Appellant's argument that they were not properly informed about the transfer. 
+    * The court applied the principles of judicial review of arbitral awards, concluding that the lower court had acted within its jurisdiction and the Appellant did not provide sufficient grounds for setting aside the award. 
+
+## Judgment
+
+* **Final Decision:** The appeal was dismissed as devoid of merits. 
+* **Relief Granted:** No relief was granted to the Appellant.
+* **Orders:** The Appellant was ordered to pay the amount awarded to the Respondent No. 1, without further delay. 
+
+## Implications
+
+* **Impact on Law:** This judgment reaffirms the limited scope of judicial review of arbitral awards and emphasizes the importance of following legal procedures, even when there are disagreements about the outcome. 
+* **Future Relevance:** This case provides guidance for future cases involving challenges to arbitral awards, particularly regarding procedural issues like transfers and notice.
+* **Broader Context:** This judgment highlights the ongoing trend towards resolving commercial disputes through arbitration, and the need for parties to be aware of the rules and procedures governing arbitration.
+
+## Summary Points
+
+* The Appellant's claim that the lower court's judgment was a result of a denial of a fair hearing due to lack of notice about the transfer was rejected. 
+* The court upheld the validity of the Commercial Court's establishment and the transfer procedure.
+* The court found no grounds to overturn the Arbitral Award, emphasizing the limited scope of judicial review.
+* The Appellant was ordered to pay the amount awarded to the Respondent No. 1.
+
+## References
+
+* **Citations:** 
+    * Arbitration and Conciliation Act, 1996 (A&C Act), Sections 34, 37.
+    * Commercial Courts Act, 2015, Section 15.
+    * Odisha Civil Courts Act, 1984, Sections 3, 9(1), 10.
+    * All cases cited in the body of the summary. 
+* **Further Reading:**
+    * **Arbitration and Conciliation Act, 1996**
+    * **Commercial Courts Act, 2015**
+    * **Supreme Court judgments on arbitral awards.** 

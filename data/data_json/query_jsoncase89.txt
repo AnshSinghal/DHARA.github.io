@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A construction company filed a suit against a contractor for non-payment of dues. The contractor, in turn, filed an application under Section 8 of the A&C Act to refer the dispute to arbitration. The suit was already at the stage of evidence submission, and the contractor had not filed a written statement. Can the contractor still seek arbitration?",
+    "Legal Principles": "A party loses the right to refer a dispute to arbitration under Section 8 of the A&C Act if it fails to apply for arbitration before submitting its first statement on the substance of the dispute, including the written statement, or if the proceedings have progressed beyond the stage of completion of pleadings.",
+    "Relevant Sections": "Section 8 of the A&C Act (as amended in 2015), particularly the phrase 'not later than the date of submitting his first statement on the substance of the dispute.'",
+    "Context": "This is a commercial dispute case in India involving a construction contract, with the defendant (contractor) seeking to refer the matter to arbitration after failing to file a written statement and the case progressing to the evidence stage."
+  },
+  {
+    "Query": "A company sued its former employee for breach of contract, alleging the employee misappropriated confidential information. The employee argued that the employment contract contained an arbitration clause and filed an application under Section 8 of the A&C Act. The court, however, dismissed the application, finding that the employee had already participated in the proceedings by filing a counterclaim. Can the employee appeal this decision?",
+    "Legal Principles": "A party waives its right to arbitration if it participates in the proceedings, indicating an intent to contest the case in court. Filing a counterclaim constitutes such participation and can be seen as submitting a statement on the substance of the dispute.",
+    "Relevant Sections": "Section 8(1) of the A&C Act, which requires an application for arbitration to be made 'not later than the date of submitting his first statement on the substance of the dispute.'",
+    "Context": "This case involves a breach of contract suit arising from an employment relationship in India, where the employee seeks to enforce an arbitration clause after participating in the legal proceedings."
+  },
+  {
+    "Query": "A software development company filed a lawsuit against its client for non-payment of services. The client, in turn, filed an application under Section 8 of the A&C Act to refer the matter to arbitration. However, the client had already filed a written statement and engaged in pre-trial discovery. Can the client still seek arbitration?",
+    "Legal Principles": "Once a party files a written statement in a suit, it indicates an intention to contest the case in court and waives its right to seek arbitration under Section 8 of the A&C Act.",
+    "Relevant Sections": "Section 8 of the A&C Act, which clearly states that an application for arbitration 'shall not be entertained unless it is accompanied by the original arbitration agreement or a duly certified copy thereof.'",
+    "Context": "This is a commercial dispute case in India involving a software development contract, where the defendant (client) attempts to invoke an arbitration clause after filing a written statement and participating in pre-trial discovery."
+  },
+  {
+    "Query": "A landlord filed an eviction suit against a tenant for non-payment of rent. The tenant claimed that the lease agreement contained an arbitration clause and applied for arbitration under Section 8 of the A&C Act. The court, however, found that the tenant's application was untimely, as it was filed after the tenant had filed a written statement. Is the court's decision correct?",
+    "Legal Principles": "A party cannot seek arbitration under Section 8 of the A&C Act after it has filed its written statement in a suit, as this signifies an intention to contest the case in court.",
+    "Relevant Sections": "Section 8(1) of the A&C Act, which requires an application for arbitration to be made 'not later than the date of submitting his first statement on the substance of the dispute.'",
+    "Context": "This case involves a landlord-tenant dispute in India, where the tenant seeks to invoke an arbitration clause after filing a written statement in the eviction lawsuit."
+  },
+  {
+    "Query": "A company sued its supplier for defective goods. The supplier, in turn, filed an application under Section 8 of the A&C Act to refer the dispute to arbitration. The court, however, dismissed the application, finding that the supplier had already filed a counterclaim and participated in pre-trial discovery. Can the supplier appeal this decision?",
+    "Legal Principles": "A party waives its right to arbitration by participating in the proceedings, including filing a counterclaim and engaging in discovery. This demonstrates an intent to contest the case in court.",
+    "Relevant Sections": "Section 8(1) of the A&C Act, which requires an application for arbitration to be made 'not later than the date of submitting his first statement on the substance of the dispute.'",
+    "Context": "This is a commercial dispute case in India involving a contract for the supply of goods, where the defendant (supplier) seeks to invoke an arbitration clause after filing a counterclaim and engaging in discovery."
+  },
+  {
+    "Query": "A business partner filed a lawsuit against another partner alleging breach of contract. The defendant partner argued that the partnership agreement contained an arbitration clause and sought to refer the dispute to arbitration. However, the defendant had already filed a written statement and participated in several pre-trial hearings. Can the defendant still seek arbitration?",
+    "Legal Principles": "A party loses the right to seek arbitration under Section 8 of the A&C Act if it files a written statement or participates in the legal proceedings, as this indicates an intention to contest the case in court.",
+    "Relevant Sections": "Section 8(1) of the A&C Act, which requires an application for arbitration to be made 'not later than the date of submitting his first statement on the substance of the dispute.'",
+    "Context": "This is a commercial dispute case in India involving a partnership agreement, where the defendant partner seeks to invoke an arbitration clause after filing a written statement and participating in pre-trial hearings."
+  },
+  {
+    "Query": "A property developer sued a contractor for defective construction work. The contractor filed an application under Section 8 of the A&C Act to refer the dispute to arbitration. However, the contractor had already filed a written statement and participated in several pre-trial conferences. Can the contractor still seek arbitration?",
+    "Legal Principles": "A party waives its right to arbitration under Section 8 of the A&C Act if it files a written statement or participates in the legal proceedings, as this demonstrates an intention to contest the case in court.",
+    "Relevant Sections": "Section 8(1) of the A&C Act, which requires an application for arbitration to be made 'not later than the date of submitting his first statement on the substance of the dispute.'",
+    "Context": "This is a commercial dispute case in India involving a construction contract, where the defendant (contractor) seeks to invoke an arbitration clause after filing a written statement and participating in pre-trial conferences."
+  },
+  {
+    "Query": "A medical clinic filed a lawsuit against a patient for non-payment of medical bills. The patient argued that the clinic's patient agreement contained an arbitration clause and filed an application under Section 8 of the A&C Act to refer the dispute to arbitration. However, the patient had already filed a counterclaim and participated in discovery. Can the patient still seek arbitration?",
+    "Legal Principles": "A party loses the right to seek arbitration under Section 8 of the A&C Act if it files a written statement, counterclaim, or participates in the legal proceedings, as this signifies an intention to contest the case in court.",
+    "Relevant Sections": "Section 8(1) of the A&C Act, which requires an application for arbitration to be made 'not later than the date of submitting his first statement on the substance of the dispute.'",
+    "Context": "This is a dispute case in India involving a medical service agreement, where the defendant (patient) seeks to invoke an arbitration clause after filing a counterclaim and engaging in discovery."
+  },
+  {
+    "Query": "A technology company filed a lawsuit against its former employee for breach of confidentiality. The former employee argued that the employment agreement contained an arbitration clause and sought to refer the dispute to arbitration. However, the former employee had already filed a written statement and participated in several pre-trial motions. Can the former employee still seek arbitration?",
+    "Legal Principles": "A party waives its right to arbitration under Section 8 of the A&C Act if it files a written statement or participates in the legal proceedings, as this indicates an intention to contest the case in court.",
+    "Relevant Sections": "Section 8(1) of the A&C Act, which requires an application for arbitration to be made 'not later than the date of submitting his first statement on the substance of the dispute.'",
+    "Context": "This is a commercial dispute case in India involving an employment agreement, where the defendant (former employee) seeks to invoke an arbitration clause after filing a written statement and participating in pre-trial motions."
+  },
+  {
+    "Query": "A retail store filed a lawsuit against a customer for shoplifting. The customer argued that the store's terms and conditions contained an arbitration clause and filed an application under Section 8 of the A&C Act to refer the dispute to arbitration. However, the customer had already filed a written statement and participated in a pre-trial hearing. Can the customer still seek arbitration?",
+    "Legal Principles": "A party waives its right to arbitration under Section 8 of the A&C Act if it files a written statement or participates in the legal proceedings, as this signifies an intention to contest the case in court.",
+    "Relevant Sections": "Section 8(1) of the A&C Act, which requires an application for arbitration to be made 'not later than the date of submitting his first statement on the substance of the dispute.'",
+    "Context": "This is a dispute case in India involving a shoplifting incident, where the defendant (customer) seeks to invoke an arbitration clause after filing a written statement and participating in a pre-trial hearing."
+  }
+]
+```

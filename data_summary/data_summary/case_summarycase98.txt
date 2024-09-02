@@ -1,0 +1,76 @@
+##  Gujarat Energy Transmission Corporation Ltd. vs. Deora Wires N Machines Pvt. Ltd.
+
+**1. Case Title**
+
+* **Case Name:** Gujarat Energy Transmission Corporation Ltd. (GETCO) vs. Deora Wires N Machines Pvt. Ltd.
+* **Court:** Gujarat High Court
+* **Date of Judgment:** 10th April 2017
+* **Citation:** AIR 2017 GUJARAT 85
+
+**2. Background and Context**
+
+* **Brief Overview:**  GETCO (appellant) and Deora Wires (respondent) were engaged in a contractual agreement. A dispute arose, which led Deora Wires to initiate arbitration proceedings under Section 11 of the Arbitration and Conciliation Act, 1996 (Arbitration Act).  The Arbitrator declared an award in favor of Deora Wires for a sum of Rs. 1,38,64,606.89. GETCO challenged the award under Section 34 of the Arbitration Act. Deora Wires, claiming to be a small-scale unit, filed an application under Section 19 of the Micro, Small and Medium Enterprises Development Act, 2006 (MSMED Act) seeking 75% deposit of the awarded amount from GETCO. The Commercial Court, Vadodara, partly allowed this application, directing GETCO to deposit 75% of the awarded amount. GETCO appealed this order before the Gujarat High Court. 
+* **Key Issues:** The primary legal issue was whether Section 19 of the MSMED Act could be applied in an application under Section 34 of the Arbitration Act when the arbitration proceedings were conducted solely under the Arbitration Act, not the MSMED Act.
+
+**3. Legal Principles Involved**
+
+* **Relevant Statutes and Provisions:** 
+    * Arbitration and Conciliation Act, 1996 (Sections 11, 34)
+    * Micro, Small and Medium Enterprises Development Act, 2006 (Sections 18, 19)
+* **Precedents Cited:**
+    * JMC Projects (India) Ltd. vs. Mechtech Engineers (Special Civil Application No. 14629 of 2010), subsequently overturned by the Supreme Court.
+* **Legal Doctrines:**
+    * Statutory Interpretation: The Court had to interpret the provisions of both the Arbitration Act and the MSMED Act to determine their application in the present case. 
+    * Legislative Intent: The court considered the object and purpose of the MSMED Act, specifically Section 19, in the context of the dispute.
+
+**4. Arguments Presented**
+
+* **Appellant’s Argument (GETCO):**  
+    * The learned Commercial Court erred in applying Section 19 of the MSMED Act since the arbitration proceedings were conducted under the Arbitration Act, not the MSMED Act.
+    * The award was declared by an Arbitrator appointed under the Arbitration Act, not by the Council or any alternate dispute resolution body established under the MSMED Act.
+    * Section 34 of the Arbitration Act grants an unconditional right to file an application challenging the award, and no conditions, such as a 75% deposit requirement, should be imposed.
+* **Respondent’s Argument (Deora Wires):**
+    * The Commercial Court rightly applied Section 19 of the MSMED Act as Deora Wires is a small-scale unit and the MSMED Act aims to protect such enterprises.
+    * The legislative intent behind the MSMED Act is to ensure timely payments to small-scale businesses, including through the requirement of a 75% deposit during challenges to awards. 
+    * The term “decree” in Section 19 of the MSMED Act should be interpreted broadly to include arbitration awards, and the 75% deposit requirement applies even in applications under Section 34 of the Arbitration Act.
+    *  The Supreme Court’s decision in the JMC Projects (India) Ltd. case, though reversing the Single Judge’s order, directed the judgment debtor to deposit 75% of the awarded amount, supporting the application of Section 19 in arbitration proceedings.
+
+**5. Court’s Analysis and Reasoning**
+
+* **Key Findings:** 
+    * The Court observed that the arbitration proceedings in the present case were initiated and concluded solely under the provisions of the Arbitration Act, not the MSMED Act.
+    * The award was not declared by the Council or any alternate dispute resolution body established under the MSMED Act, but by an Arbitrator appointed under the Arbitration Act.
+* **Interpretation of Law:**
+    * The Court interpreted Section 19 of the MSMED Act as being applicable only to applications challenging decrees, awards, or orders made by the Council or any alternate dispute resolution body established under the MSMED Act.
+    * The Court emphasized the clear wording of Section 19, which explicitly refers to applications concerning decrees, awards, or orders made by the Council or its designated bodies.
+* **Application of Law:**
+    * The Court held that the Commercial Court erred in applying Section 19 of the MSMED Act to the present case as the award was declared under the Arbitration Act and not under the provisions of the MSMED Act.
+
+**6. Judgment**
+
+* **Final Decision:**  The appeal filed by GETCO was allowed.
+* **Relief Granted:** The impugned order passed by the Commercial Court, Vadodara, was quashed and set aside.
+* **Orders:** The Court ordered the Commercial Court to dispose of the application under Section 34 of the Arbitration Act within a year.
+* **Conditions:** The Court clarified that its order specifically related to the application of Section 19 of the MSMED Act and did not affect any other rights of the respondent available under the Arbitration Act. The order was not a stay of execution of the arbitration award.
+
+**7. Implications**
+
+* **Impact on Law:** This judgment reinforces the principle that the MSMED Act’s provisions, particularly Section 19 regarding the 75% deposit requirement, apply only to challenges against decisions made by the Council or its designated bodies. It clarifies that the Act does not automatically extend to arbitration proceedings solely conducted under the Arbitration Act.
+* **Future Relevance:** This case serves as a precedent for future cases involving disputes where the MSMED Act and the Arbitration Act intersect. It helps establish a clear distinction between the scope of each Act and clarifies the conditions for applying Section 19 of the MSMED Act.
+* **Broader Context:** The case highlights the importance of carefully considering the relevant statutory frameworks and their specific provisions when determining the applicability of certain provisions in disputes involving multiple legal regimes. 
+
+**8. Summary Points**
+
+* The Gujarat High Court held that Section 19 of the MSMED Act is not applicable in applications under Section 34 of the Arbitration Act when the arbitration proceedings are solely under the Arbitration Act and the award is declared by an Arbitrator appointed under the Arbitration Act.
+* The court emphasized the clear wording of Section 19 of the MSMED Act, which limits its application to decrees, awards, or orders made by the Council or designated bodies.
+* The Court quashed the Commercial Court's order requiring a 75% deposit and directed the Commercial Court to dispose of the application under Section 34 of the Arbitration Act within a year.
+
+**9. References**
+
+* **Citations:** 
+    * Arbitration and Conciliation Act, 1996 
+    * Micro, Small and Medium Enterprises Development Act, 2006
+    * JMC Projects (India) Ltd. vs. Mechtech Engineers (Special Civil Application No. 14629 of 2010)
+* **Further Reading:**
+    *  Analysis of the MSMED Act and its application in arbitration proceedings.
+    *  Cases involving the interplay between the Arbitration Act and the MSMED Act. 

@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A plaintiff filed a suit for recovery of money in 2015. The defendant applied for extension of time to file their written statements in 2018. The plaintiff argued that the suit was a regular suit and not a commercial dispute under the Commercial Courts Act, 2015. The court allowed the defendants' applications for extension of time. The plaintiff appealed against the order, arguing that the dispute was a commercial dispute and the court should have applied the provisions of the Commercial Courts Act. The appeal was dismissed as not maintainable. The plaintiff then filed a review application, arguing that the court had made an error in applying the law and that the suit was a commercial dispute. Should the court review its order?",
+    "Legal Principles": "Review of a judgment is an exception to the principle of finality of judicial pronouncements.  The review jurisdiction is confined to the grounds mentioned in Order XLVII of the Code of Civil Procedure, 1908.  A review is for an error that is apparent on the face of the record, one that is easily identified upon revisiting the order and not consequent to elaborate arguments. The error must be patent in character, a disregard of a settled proposition of law or a relevant statutory provision as it stood on the day of passing of the order.  A review is not a reconsideration of a case on merits undertaken for a fresh decision upon re-hearing of the matter.  A matter may be resisted and reopened to correct a substantial injustice which may have resulted from the decision.",
+    "Relevant Sections": "Order XLVII of the Code of Civil Procedure, 1908, Section 15 of the Commercial Courts Act, 2015, Order VIII Rule 1 of the Code of Civil Procedure, 1908 (as amended by the Commercial Courts Act)",
+    "Context": "Civil Suit, Review Application, Commercial Courts Act, 2015, Order XLVII of the Code of Civil Procedure, 1908"
+  },
+  {
+    "Query": "A plaintiff filed a suit for specific performance of a contract for sale of property in 2016. The defendant applied for an injunction to restrain the plaintiff from proceeding with the suit, arguing that the contract was void due to certain irregularities. The court granted the injunction. The plaintiff appealed against the order, arguing that the injunction was wrongly granted and that the contract was valid. The appeal was dismissed. The plaintiff then filed a review application, arguing that the court had failed to consider certain crucial evidence related to the validity of the contract.  Should the court review its order?",
+    "Legal Principles": "The review jurisdiction of a court is restricted and should not be exercised lightly.  It is not an appeal in disguise and should not be used to reconsider the case on merits.  A review is only available for errors that are apparent on the face of the record, and not for errors that require detailed scrutiny of evidence or legal arguments.",
+    "Relevant Sections": "Order XLVII of the Code of Civil Procedure, 1908",
+    "Context": "Civil Suit, Injunction, Specific Performance, Review Application, Order XLVII of the Code of Civil Procedure, 1908"
+  },
+  {
+    "Query": "A plaintiff filed a suit for damages against a defendant for breach of contract in 2018. The defendant filed a written statement denying the breach and arguing that the contract was unenforceable due to a lack of consideration. The court dismissed the suit, finding that the plaintiff had failed to prove the existence of a valid contract. The plaintiff appealed against the order, arguing that the court had erred in its finding on the issue of consideration. The appeal was dismissed. The plaintiff then filed a review application, arguing that the court had overlooked a crucial document that proved the existence of consideration. Should the court review its order?",
+    "Legal Principles": "A review is only available for errors that are apparent on the face of the record.  Errors that require the consideration of new evidence are not generally grounds for review.  A review is not an opportunity to re-argue the case on merits.",
+    "Relevant Sections": "Order XLVII of the Code of Civil Procedure, 1908",
+    "Context": "Civil Suit, Breach of Contract, Damages, Review Application, Order XLVII of the Code of Civil Procedure, 1908"
+  },
+  {
+    "Query": "A plaintiff filed a suit for partition of property in 2017. The defendant filed a written statement denying the plaintiff's claim and alleging that the plaintiff had no right to the property. The court dismissed the suit, finding that the plaintiff had failed to prove his claim. The plaintiff appealed against the order, arguing that the court had erred in its finding on the issue of title. The appeal was dismissed. The plaintiff then filed a review application, arguing that the court had misconstrued the relevant law on inheritance and that he was entitled to a share in the property. Should the court review its order?",
+    "Legal Principles": "A review is available for an error of law, but only if the error is apparent on the face of the record and not based on a complex legal analysis.  The court should only review its decision if a patent error has been made and not merely for a different legal interpretation of the law.",
+    "Relevant Sections": "Order XLVII of the Code of Civil Procedure, 1908",
+    "Context": "Civil Suit, Partition, Inheritance, Review Application, Order XLVII of the Code of Civil Procedure, 1908"
+  },
+  {
+    "Query": "A plaintiff filed a suit for recovery of a loan amount in 2019. The defendant filed a written statement denying the loan and alleging that the plaintiff had already been paid. The court dismissed the suit, finding that the plaintiff had failed to prove the loan. The plaintiff appealed against the order, arguing that the court had failed to consider certain documentary evidence that proved the loan. The appeal was dismissed. The plaintiff then filed a review application, arguing that the court had overlooked a crucial witness statement that corroborated the documentary evidence.  Should the court review its order?",
+    "Legal Principles": "A review is not available for errors that require the consideration of new evidence.  The court should only review its decision if a clear error of law or a patent mistake has been made.",
+    "Relevant Sections": "Order XLVII of the Code of Civil Procedure, 1908",
+    "Context": "Civil Suit, Loan Recovery, Review Application, Order XLVII of the Code of Civil Procedure, 1908"
+  },
+  {
+    "Query": "A plaintiff filed a suit for defamation in 2020. The defendant filed a written statement denying the defamatory statements and claiming that the statements were true. The court dismissed the suit, finding that the plaintiff had failed to prove the defamatory nature of the statements. The plaintiff appealed against the order, arguing that the court had erred in its finding on the issue of truth. The appeal was dismissed. The plaintiff then filed a review application, arguing that the court had overlooked a crucial legal precedent on the definition of truth in defamation cases. Should the court review its order?",
+    "Legal Principles": "A review is available for an error of law, but only if the error is apparent on the face of the record.  The court should only review its decision if a patent error has been made and not merely for a different legal interpretation of the law.",
+    "Relevant Sections": "Order XLVII of the Code of Civil Procedure, 1908",
+    "Context": "Civil Suit, Defamation, Review Application, Order XLVII of the Code of Civil Procedure, 1908"
+  },
+  {
+    "Query": "A plaintiff filed a suit for recovery of rent in 2021. The defendant filed a written statement denying the plaintiff's claim and alleging that the plaintiff had no right to the property. The court dismissed the suit, finding that the plaintiff had failed to prove his claim. The plaintiff appealed against the order, arguing that the court had erred in its finding on the issue of title. The appeal was dismissed. The plaintiff then filed a review application, arguing that the court had overlooked a crucial document that proved the plaintiff's ownership of the property.  Should the court review its order?",
+    "Legal Principles": "A review is not available for errors that require the consideration of new evidence.  The court should only review its decision if a clear error of law or a patent mistake has been made.",
+    "Relevant Sections": "Order XLVII of the Code of Civil Procedure, 1908",
+    "Context": "Civil Suit, Rent Recovery, Review Application, Order XLVII of the Code of Civil Procedure, 1908"
+  },
+  {
+    "Query": "A plaintiff filed a suit for injunction against a defendant to prevent the defendant from constructing a building on a disputed piece of land in 2022. The defendant filed a written statement denying the plaintiff's claim and arguing that the land belonged to him. The court dismissed the suit, finding that the plaintiff had failed to prove his claim. The plaintiff appealed against the order, arguing that the court had erred in its finding on the issue of ownership. The appeal was dismissed. The plaintiff then filed a review application, arguing that the court had overlooked a crucial survey report that established the plaintiff's ownership of the land.  Should the court review its order?",
+    "Legal Principles": "A review is not available for errors that require the consideration of new evidence.  The court should only review its decision if a clear error of law or a patent mistake has been made.",
+    "Relevant Sections": "Order XLVII of the Code of Civil Procedure, 1908",
+    "Context": "Civil Suit, Injunction, Land Dispute, Review Application, Order XLVII of the Code of Civil Procedure, 1908"
+  },
+  {
+    "Query": "A plaintiff filed a suit for breach of contract against a defendant in 2023. The defendant filed a written statement denying the breach and arguing that the contract was void due to a lack of capacity. The court dismissed the suit, finding that the plaintiff had failed to prove the existence of a valid contract. The plaintiff appealed against the order, arguing that the court had erred in its finding on the issue of capacity. The appeal was dismissed. The plaintiff then filed a review application, arguing that the court had overlooked a crucial legal precedent on the concept of capacity in contract law. Should the court review its order?",
+    "Legal Principles": "A review is available for an error of law, but only if the error is apparent on the face of the record.  The court should only review its decision if a patent error has been made and not merely for a different legal interpretation of the law.",
+    "Relevant Sections": "Order XLVII of the Code of Civil Procedure, 1908",
+    "Context": "Civil Suit, Breach of Contract, Review Application, Order XLVII of the Code of Civil Procedure, 1908"
+  },
+  {
+    "Query": "A plaintiff filed a suit for specific performance of a contract for the sale of a business in 2024. The defendant filed a written statement denying the existence of a valid contract and arguing that the plaintiff had failed to fulfill certain conditions precedent. The court dismissed the suit, finding that the plaintiff had failed to prove the existence of a valid contract. The plaintiff appealed against the order, arguing that the court had erred in its finding on the issue of conditions precedent. The appeal was dismissed. The plaintiff then filed a review application, arguing that the court had misconstrued the relevant legal principles on conditions precedent and that the plaintiff had fulfilled all the conditions. Should the court review its order?",
+    "Legal Principles": "A review is available for an error of law, but only if the error is apparent on the face of the record.  The court should only review its decision if a patent error has been made and not merely for a different legal interpretation of the law.",
+    "Relevant Sections": "Order XLVII of the Code of Civil Procedure, 1908",
+    "Context": "Civil Suit, Specific Performance, Contract for Sale of Business, Review Application, Order XLVII of the Code of Civil Procedure, 1908"
+  }
+]
+```

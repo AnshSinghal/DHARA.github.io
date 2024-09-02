@@ -1,0 +1,112 @@
+## 1. Case Title
+
+* **Case Name:** Union of India Represented Through ... vs M/S Ekta Telecommunications Systems 
+* **Court:** Jharkhand High Court
+* **Date of Judgment:** 16th August 2023
+* **Citation:** LPA No. 644 of 2022
+
+## 2. Background and Context
+
+* **Brief Overview:** The Union of India (Appellant) contracted with M/S Ekta Telecommunications Systems (Respondent) for the supply of online UPS. The Respondent supplied 282 UPS but failed to supply the remaining 22. Further, some of the installed UPS were non-functional and the Respondent failed to repair or replace them. The Appellant invoked the arbitration clause in the contract. 
+* **Key Issues:**
+    * Whether the award passed by the Facilitation Council constituted under the MSMED Act is a nullity due to the improper composition of the Council.
+    * Whether the Appellant waived its right to challenge the composition of the Facilitation Council by not raising it before the Council itself.
+    * Whether the Appellant's challenge to the award under Section 34 of the Arbitration Act was time-barred.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * **MSMED Act (The Micro, Small and Medium Enterprises Development Act, 2006):** This act provides for the establishment of Facilitation Councils for dispute resolution between buyers and suppliers.
+    * **Arbitration and Conciliation Act, 1996:** This act governs arbitration proceedings in India.
+    * **Section 21 of MSMED Act:** This section defines the composition of the Facilitation Council, requiring a minimum of 3 and a maximum of 5 members.
+    * **Section 16 of Arbitration Act:** This section allows an arbitral tribunal to rule on its own jurisdiction.
+    * **Section 34 of Arbitration Act:** This section allows for setting aside arbitral awards on various grounds, including improper constitution of the arbitral tribunal.
+
+* **Precedents Cited:**
+    * **Gujarat State Civil Supplies Corporation Limited Vs. Mahakali Foods Private Limited and another (2023) 6 SCC 401:** This case dealt with the applicability of the Arbitration Act to disputes under the MSMED Act.
+    * **Indian Farmers Fertilizer Cooperative Limited versus Bhadra Projects (2018) 2 SCC 534:** This case explained the three elements of jurisdiction under Section 16 of the Arbitration Act.
+    * **Electrosteel Steels Ltd. Vs. State of Jharkhand and others (W.P.(C) No. 3699 of 2015):** This case held that awards rendered by Facilitation Councils constituted in violation of Section 21 of the MSMED Act were void ab initio.
+    * **Heavy Engineering Corporation Ltd. Vs. State of Jharkhand and others (2022 SCC OnLine Jhar 843):** This case followed the Electrosteel Steels case regarding the void nature of awards passed by improperly constituted Facilitation Councils.
+    * **Simplex Infrastructure Limited Vs. Union of India (2019) 2 SCC 455:** This case dealt with the time limitation for challenging arbitral awards under Section 34 of the Arbitration Act.
+    * **Lion Engineering Consultants Vs. State of Madhya Pradesh and others (2018) 16 SCC 758:** This case overruled certain observations in the MSP Infrastructure Ltd. case.
+
+* **Legal Doctrines:**
+    * **Kompetenz Principle:** This principle states that an arbitral tribunal has the authority to rule on its own jurisdiction.
+    * **Waiver of Right:** This principle states that a party may waive its right to raise a particular objection.
+    * **Nullity of Proceedings:** An award rendered by a tribunal lacking jurisdiction due to a violation of statutory provisions is considered void ab initio (from the beginning).
+    * **Time Limitation:** A time limit set by law for taking legal action.
+
+## 4. Arguments Presented
+
+* **Appellant's Arguments:**
+    * The Facilitation Council was improperly constituted as it had 9 members, violating Section 21 of the MSMED Act which mandates a maximum of 5 members.
+    * This violation renders the award a nullity.
+    * The Appellant was not aware of the violation until recently, as they did not receive the complete order sheet of the Facilitation Council proceedings.
+    * The Appellant was not precluded from challenging the composition of the Council at this stage, as it goes to the root of the tribunal's jurisdiction.
+    * The Appellant was not required to challenge the award under Section 34 of the Arbitration Act within the prescribed time limit because the LPA court had granted them liberty to do so.
+
+* **Respondent's Arguments:**
+    * The Facilitation Council is an arbitral tribunal under Section 7(1) of the Arbitration Act and therefore Section 16 applies, allowing it to rule on its own jurisdiction.
+    * The Appellant could have challenged the composition of the Facilitation Council before the Council but failed to do so.
+    * By not challenging the composition earlier, the Appellant waived its right to do so later.
+    * The Appellant's challenge to the award under Section 34 of the Arbitration Act was time-barred, as the prescribed time limit had already elapsed when the Appellant initially challenged the award in the first writ petition.
+
+## 5. Court's Analysis and Reasoning
+
+* **Key Findings:**
+    * Section 16 of the Arbitration Act applies to the arbitral proceedings before the Facilitation Council.
+    * While the Facilitation Council was improperly constituted, the Appellant waived its right to challenge this by not raising the issue before the Council.
+    * The Appellant's challenge to the award under Section 34 was time-barred, as the initial writ petition challenging the award was filed after the time limit for filing under Section 34 had expired.
+
+* **Interpretation of Law:**
+    * The Court interpreted the Gujarat State Civil Supplies Corporation case to find that Section 16 of the Arbitration Act applies to the Facilitation Council.
+    * The Court interpreted the Indian Farmers Fertilizer Cooperative Limited case to identify the three aspects of jurisdiction under Section 16.
+    * The Court interpreted the Simplex Infrastructure Limited case to reaffirm the strict time limitation for challenging awards under Section 34.
+
+* **Application of Law:**
+    * The Court applied the Kompetenz principle and found that the Facilitation Council, being an arbitral tribunal, had the power to rule on its own jurisdiction.
+    * The Court applied the doctrine of waiver and found that the Appellant had waived its right to challenge the composition of the Facilitation Council by not raising the issue before the Council.
+    * The Court applied the time limitation provisions of Section 34 and found that the Appellant's challenge to the award under Section 34 was time-barred.
+
+## 6. Judgment
+
+* **Final Decision:** The appeal was dismissed.
+* **Relief Granted:** No relief was granted to the Appellant.
+* **Orders:** The impugned orders passed by the lower courts were upheld.
+
+## 7. Implications
+
+* **Impact on Law:** The judgment reinforces the applicability of the Arbitration Act to proceedings before Facilitation Councils under the MSMED Act. It also reemphasizes the importance of raising objections to the composition of an arbitral tribunal before the tribunal itself and the strict time limit for challenging arbitral awards under Section 34 of the Arbitration Act.
+* **Future Relevance:** The case will be highly relevant in future cases involving disputes arising under the MSMED Act, particularly regarding the jurisdiction and composition of Facilitation Councils and the time limitation for challenging arbitral awards.
+* **Broader Context:** The judgment reflects the importance of adhering to legal timelines in dispute resolution and the need for parties to raise objections at the appropriate stage.
+
+## 8. Summary Points
+
+* **Key Takeaways:**
+    * Facilitation Councils under the MSMED Act are subject to the Arbitration Act.
+    * Objections to the composition of an arbitral tribunal must be raised before the tribunal.
+    * Time limitations for challenging arbitral awards are strictly enforced.
+    * Repeated challenges to the same award are not permissible.
+
+## 9. References
+
+* **Citations:**
+    * MSMED Act, 2006
+    * Arbitration and Conciliation Act, 1996
+    * Gujarat State Civil Supplies Corporation Limited Vs. Mahakali Foods Private Limited and another (2023) 6 SCC 401
+    * Indian Farmers Fertilizer Cooperative Limited versus Bhadra Projects (2018) 2 SCC 534
+    * Electrosteel Steels Ltd. Vs. State of Jharkhand and others (W.P.(C) No. 3699 of 2015)
+    * Heavy Engineering Corporation Ltd. Vs. State of Jharkhand and others (2022 SCC OnLine Jhar 843)
+    * Simplex Infrastructure Limited Vs. Union of India (2019) 2 SCC 455
+    * Lion Engineering Consultants Vs. State of Madhya Pradesh and others (2018) 16 SCC 758
+    * Narayan Prasad Lohia Vs. Nikunj Kumar Lohia and others (2002) 3 SCC 572
+    * P. Bandopadhya and others Vs. Union of India and others (2019) 13 SCC 42
+    * Balvant N. Viswamitra and others Vs. Yadav Sadashiv Mule (Dead) through Lrs. and others (2004) 8 SCC 706
+    * Indian Farmers Fertilizer Cooperative Limited Vs. Bhadra Products (2018) 2 SCC 534
+    * Quippo Construction Equipment Limited Vs. Janardan Nirman Private Limited (2020) 18 SCC 277
+    * Bhaven Construction Vs. Executive Engineer, Sadar Sarovar Narmada Nigam Limited and another (2022) 1 SCC 75
+    * GPT Infra Projects Limited Vs. M/s. Miki Wire Works Pvt. Ltd. (C.O. 1078 of 2019)
+
+* **Further Reading:** 
+    * Other cases dealing with the interplay of the MSMED Act and the Arbitration Act. 
+    * Legal articles and commentaries on the time limitation for challenging arbitral awards under Section 34 of the Arbitration Act. 

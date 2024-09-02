@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A developer entered into a Joint Venture Agreement with a landowner to develop a property. The developer defaulted on the agreement, and the landowner is seeking to recover their investment and profits.  Is the dispute a commercial dispute under the Commercial Courts Act, 2015, giving the Commercial Court jurisdiction?",
+    "Legal Principles": "The Commercial Courts Act, 2015 defines 'commercial dispute' to include disputes arising out of joint venture agreements. The Act aims to expedite the resolution of commercial disputes. Determining whether a dispute is a commercial dispute involves examining the nature of the agreement and the transaction's commercial nature.",
+    "Relevant Sections": "Section 2(1)(c)(xi) of the Commercial Courts Act, 2015: 'commercial dispute' means a dispute arising out of... (xi) Joint Venture agreements.",
+    "Context": "Jurisdiction of Commercial Courts in India, Commercial Disputes, Joint Venture Agreements, Contract Law"
+  },
+  {
+    "Query": "A company entered into an agreement with a supplier for the supply of raw materials. The supplier failed to deliver the materials as per the agreement, causing significant financial losses to the company. The company is suing the supplier for breach of contract and damages. Does the Commercial Court have jurisdiction to hear this case?",
+    "Legal Principles": "The Commercial Courts Act, 2015 vests jurisdiction in Commercial Courts for commercial disputes, including disputes arising from contracts. The Act aims to provide a specialized forum for resolving commercial disputes efficiently.",
+    "Relevant Sections": "Section 68 of the Commercial Courts Act, 2015: 'The Commercial Court shall have jurisdiction to try all suits and applications relating to a commercial dispute of a Specified Value arising out of the entire territory of the State over which it has been vested territorial jurisdiction.",
+    "Context": "Jurisdiction of Commercial Courts in India, Commercial Disputes, Contract Law, Breach of Contract, Damages"
+  },
+  {
+    "Query": "Two companies entered into a partnership agreement to develop a new technology.  One partner alleges that the other partner misappropriated funds and intellectual property. The aggrieved partner seeks to dissolve the partnership and recover their share of the profits. Is this a commercial dispute within the jurisdiction of the Commercial Court?",
+    "Legal Principles": "The Commercial Courts Act, 2015 defines 'commercial dispute' broadly, encompassing disputes arising from business relationships. Partnership agreements fall under the ambit of commercial transactions, making disputes arising from them eligible for resolution in Commercial Courts.",
+    "Relevant Sections": "Section 2(1)(c) of the Commercial Courts Act, 2015: 'commercial dispute' means a dispute arising out of... (iv) partnership agreements; (ix) Joint Venture agreements; (x) agreements relating to the acquisition, disposal or transfer of shares or securities.",
+    "Context": "Jurisdiction of Commercial Courts in India, Commercial Disputes, Partnership Law, Dissolution of Partnership, Intellectual Property"
+  },
+  {
+    "Query": "A company issued a promissory note to a lender.  The company defaulted on the payment, and the lender is seeking to enforce the note. Is this a commercial dispute, giving the Commercial Court jurisdiction?",
+    "Legal Principles": "The Commercial Courts Act, 2015 covers disputes related to negotiable instruments, such as promissory notes.  These disputes are considered commercial disputes and fall under the jurisdiction of Commercial Courts.",
+    "Relevant Sections": "Section 2(1)(c) of the Commercial Courts Act, 2015: 'commercial dispute' means a dispute arising out of... (i) negotiable instruments; (ii) bills of exchange; (iii) cheques; (v)  recovery of money; (vi)  enforcement of arbitration awards.",
+    "Context": "Jurisdiction of Commercial Courts in India, Commercial Disputes, Negotiable Instruments Act, Promissory Notes, Debt Recovery"
+  },
+  {
+    "Query": "A distributor entered into a franchise agreement with a franchisor. The franchisor terminated the agreement, alleging breaches by the distributor. The distributor claims the termination was wrongful and seeks damages. Is this a dispute that the Commercial Court can handle?",
+    "Legal Principles": "The Commercial Courts Act, 2015 encompasses disputes arising from franchise agreements, as they fall under the category of commercial relationships.  Such disputes are considered commercial disputes and are within the purview of Commercial Courts.",
+    "Relevant Sections": "Section 2(1)(c) of the Commercial Courts Act, 2015: 'commercial dispute' means a dispute arising out of... (vii) agreements relating to immovable property used exclusively in trade or commerce; (viii)  agreements relating to intellectual property rights;  (ix) Joint Venture agreements; (x) agreements relating to the acquisition, disposal or transfer of shares or securities.",
+    "Context": "Jurisdiction of Commercial Courts in India, Commercial Disputes, Franchise Agreements, Contract Law, Termination of Agreement"
+  },
+  {
+    "Query": "Two parties entered into a contract for the sale of goods. The buyer refused to accept the goods, claiming they were defective. The seller is seeking payment for the goods. Is this a commercial dispute that can be brought before the Commercial Court?",
+    "Legal Principles": "The Commercial Courts Act, 2015 covers disputes arising from contracts for the sale of goods.  These are considered commercial disputes and fall under the jurisdiction of Commercial Courts.",
+    "Relevant Sections": "Section 2(1)(c) of the Commercial Courts Act, 2015: 'commercial dispute' means a dispute arising out of... (v)  recovery of money; (vii) agreements relating to immovable property used exclusively in trade or commerce; (viii)  agreements relating to intellectual property rights.",
+    "Context": "Jurisdiction of Commercial Courts in India, Commercial Disputes, Sale of Goods Act, Contract Law, Breach of Contract"
+  },
+  {
+    "Query": "A company filed for bankruptcy. Several creditors are seeking to recover their outstanding debts. Is this a commercial dispute that the Commercial Court can handle?",
+    "Legal Principles": "The Commercial Courts Act, 2015 covers disputes related to insolvency and bankruptcy, including the recovery of debts by creditors.  These are considered commercial disputes and fall under the jurisdiction of Commercial Courts.",
+    "Relevant Sections": "Section 2(1)(c) of the Commercial Courts Act, 2015: 'commercial dispute' means a dispute arising out of... (v)  recovery of money; (vi)  enforcement of arbitration awards.",
+    "Context": "Jurisdiction of Commercial Courts in India, Commercial Disputes, Insolvency and Bankruptcy Code, Debt Recovery"
+  },
+  {
+    "Query": "A company alleges that another company infringed its trademark. The company is seeking an injunction to stop the infringement and damages. Does the Commercial Court have jurisdiction to hear this case?",
+    "Legal Principles": "The Commercial Courts Act, 2015 covers disputes relating to intellectual property rights, including trademark infringement.  These are considered commercial disputes and fall under the jurisdiction of Commercial Courts.",
+    "Relevant Sections": "Section 2(1)(c) of the Commercial Courts Act, 2015: 'commercial dispute' means a dispute arising out of... (viii)  agreements relating to intellectual property rights.",
+    "Context": "Jurisdiction of Commercial Courts in India, Commercial Disputes, Intellectual Property Law, Trademark Infringement, Injunctions"
+  },
+  {
+    "Query": "Two parties entered into a construction contract. The contractor failed to complete the project on time and within budget. The owner is suing the contractor for breach of contract and damages. Does the Commercial Court have jurisdiction to handle this case?",
+    "Legal Principles": "The Commercial Courts Act, 2015 covers disputes arising from construction contracts, as they are considered commercial agreements. Such disputes are within the jurisdiction of Commercial Courts.",
+    "Relevant Sections": "Section 2(1)(c) of the Commercial Courts Act, 2015: 'commercial dispute' means a dispute arising out of... (vii) agreements relating to immovable property used exclusively in trade or commerce; (ix) Joint Venture agreements; (x) agreements relating to the acquisition, disposal or transfer of shares or securities.",
+    "Context": "Jurisdiction of Commercial Courts in India, Commercial Disputes, Construction Contracts, Contract Law, Breach of Contract"
+  },
+  {
+    "Query": "A company issued shares to investors.  Some investors allege that the company misrepresented its financial status in its prospectus. The investors are seeking to recover their losses.  Is this a dispute that falls within the jurisdiction of the Commercial Court?",
+    "Legal Principles": "The Commercial Courts Act, 2015 covers disputes related to the acquisition, disposal, or transfer of shares or securities.  These are considered commercial disputes and fall under the jurisdiction of Commercial Courts.",
+    "Relevant Sections": "Section 2(1)(c) of the Commercial Courts Act, 2015: 'commercial dispute' means a dispute arising out of... (x) agreements relating to the acquisition, disposal or transfer of shares or securities.",
+    "Context": "Jurisdiction of Commercial Courts in India, Commercial Disputes, Securities Law, Share Issuance, Misrepresentation"
+  }
+]
+```

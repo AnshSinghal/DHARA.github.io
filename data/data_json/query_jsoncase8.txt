@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A dispute has arisen between a software developer and a client regarding the terms of a software development agreement. The client claims that the developer failed to deliver the software on time and with the agreed upon functionalities, while the developer argues that the client made numerous changes to the requirements, delaying the project. The agreement contains an arbitration clause. Should the dispute be referred to arbitration?",
+    "Legal Principles": "Arbitration Agreement, Arbitration Clause, Scope of Arbitration Clause, Existence of Arbitration Agreement, Survival of Arbitration Clause, Section 11 of the Arbitration and Conciliation Act, 1996, Section 16 of the Arbitration and Conciliation Act, 1996, Interpretation of Contractual Terms",
+    "Relevant Sections": "Section 11(4) and (6) of the Arbitration and Conciliation Act, 1996, Section 16(1)(a) of the Arbitration and Conciliation Act, 1996, Article 16 of the UNCITRAL Model Law",
+    "Context": "Commercial dispute, Contract Law, Arbitration Law, India"
+  },
+  {
+    "Query": "Two parties entered into a joint venture agreement for the development of a new technology. The agreement included a clause stating that any disputes arising from the agreement would be settled through arbitration. One party later alleges that the other party breached the agreement by using the technology for their own personal gain. Can the dispute be referred to arbitration even though the joint venture agreement has been terminated?",
+    "Legal Principles": "Joint Venture Agreement, Termination of Agreement, Arbitration Clause, Survival of Arbitration Clause, Section 16 of the Arbitration and Conciliation Act, 1996, Independent Existence of Arbitration Clause",
+    "Relevant Sections": "Section 16(1)(a) of the Arbitration and Conciliation Act, 1996",
+    "Context": "Commercial dispute, Joint Venture Law, Arbitration Law, India"
+  },
+  {
+    "Query": "A construction company and a property developer signed a contract for the construction of a commercial building. The contract contained an arbitration clause. The construction company claims that the developer failed to make timely payments, causing delays and financial losses. The developer, in turn, claims that the construction company failed to meet the agreed upon deadlines and quality standards. Both parties are seeking to resolve the dispute through arbitration. What are the key considerations for the arbitrator in determining the scope of the dispute and the applicable legal principles?",
+    "Legal Principles": "Construction Contract, Breach of Contract, Payment Obligations, Timelines, Quality Standards, Arbitration Clause, Scope of Arbitration, Interpretation of Contractual Terms",
+    "Relevant Sections": "None specified in the provided case file",
+    "Context": "Commercial dispute, Construction Law, Contract Law, Arbitration Law, India"
+  },
+  {
+    "Query": "A supplier and a retailer entered into an agreement for the supply of goods. The agreement included an arbitration clause specifying that any disputes would be settled by a single arbitrator appointed by the parties. The parties failed to agree on an arbitrator within the stipulated timeframe. Can the court appoint an arbitrator in such a situation?",
+    "Legal Principles": "Supply Agreement, Arbitration Clause, Appointment of Arbitrator, Failure to Agree on Arbitrator, Section 11 of the Arbitration and Conciliation Act, 1996",
+    "Relevant Sections": "Section 11(4) and (6) of the Arbitration and Conciliation Act, 1996",
+    "Context": "Commercial dispute, Contract Law, Arbitration Law, India"
+  },
+  {
+    "Query": "A franchisor and a franchisee entered into a franchise agreement, which contained an arbitration clause. The franchisee alleges that the franchisor breached the agreement by failing to provide adequate support and training, leading to financial losses. The franchisor claims that the franchisee failed to meet the required performance standards. The franchisee seeks to initiate arbitration proceedings. Is the franchisor obligated to participate in arbitration?",
+    "Legal Principles": "Franchise Agreement, Breach of Contract, Support and Training Obligations, Performance Standards, Arbitration Clause, Enforceability of Arbitration Agreement",
+    "Relevant Sections": "None specified in the provided case file",
+    "Context": "Commercial dispute, Franchise Law, Contract Law, Arbitration Law, India"
+  },
+  {
+    "Query": "A company entered into a distribution agreement with a foreign entity, containing an arbitration clause specifying that disputes would be settled in a foreign country. A dispute arose regarding the termination of the agreement, with the company claiming that the foreign entity breached the agreement. The foreign entity is now seeking to enforce the arbitration clause and have the dispute resolved in the foreign country. Can the company challenge the enforceability of the arbitration clause and the venue?",
+    "Legal Principles": "Distribution Agreement, Termination of Agreement, Arbitration Clause, Enforceability of Arbitration Agreement, Choice of Law, Choice of Forum, Jurisdiction",
+    "Relevant Sections": "None specified in the provided case file",
+    "Context": "International Commercial Dispute, Contract Law, Arbitration Law, Choice of Law, Choice of Forum"
+  },
+  {
+    "Query": "A landlord and a tenant entered into a lease agreement containing an arbitration clause. The tenant claims that the landlord breached the agreement by failing to maintain the property, causing damage and inconvenience. The landlord claims that the tenant breached the agreement by failing to pay rent on time. The parties are seeking to resolve the dispute through arbitration. What are the key considerations for the arbitrator in resolving the dispute?",
+    "Legal Principles": "Lease Agreement, Breach of Contract, Maintenance Obligations, Rent Payments, Arbitration Clause, Interpretation of Contractual Terms",
+    "Relevant Sections": "None specified in the provided case file",
+    "Context": "Real Estate Dispute, Contract Law, Landlord-Tenant Law, Arbitration Law, India"
+  },
+  {
+    "Query": "A company entered into a contract for the sale of goods with a buyer. The contract contained an arbitration clause specifying that any disputes would be resolved through arbitration in a specific jurisdiction. The buyer failed to make payment for the goods, and the company is seeking to enforce the arbitration clause and initiate arbitration proceedings. The buyer argues that the arbitration clause is unenforceable due to a lack of proper notice and consent. Can the company successfully initiate arbitration proceedings?",
+    "Legal Principles": "Sale of Goods Contract, Breach of Contract, Payment Obligations, Arbitration Clause, Enforceability of Arbitration Agreement, Notice and Consent Requirements",
+    "Relevant Sections": "None specified in the provided case file",
+    "Context": "Commercial Dispute, Contract Law, Sale of Goods Law, Arbitration Law, India"
+  },
+  {
+    "Query": "A customer and a service provider entered into a service agreement, which included an arbitration clause. The customer claims that the service provider failed to provide the agreed upon services, resulting in financial losses. The service provider claims that the customer breached the agreement by failing to make timely payments. Both parties are seeking to resolve the dispute through arbitration. How does the arbitrator determine the proper procedure for conducting the arbitration proceedings?",
+    "Legal Principles": "Service Agreement, Breach of Contract, Performance Obligations, Payment Obligations, Arbitration Clause, Arbitration Procedure, Rules of Arbitration",
+    "Relevant Sections": "None specified in the provided case file",
+    "Context": "Commercial Dispute, Contract Law, Service Law, Arbitration Law, India"
+  },
+  {
+    "Query": "A partnership agreement between two individuals included an arbitration clause. One partner claims that the other partner misappropriated partnership funds for personal gain. The aggrieved partner seeks to initiate arbitration proceedings. Can the partnership agreement be dissolved prior to the completion of the arbitration proceedings?",
+    "Legal Principles": "Partnership Agreement, Breach of Partnership Agreement, Misappropriation of Funds, Dissolution of Partnership, Arbitration Clause, Effect of Arbitration on Partnership",
+    "Relevant Sections": "None specified in the provided case file",
+    "Context": "Partnership Dispute, Contract Law, Partnership Law, Arbitration Law, India"
+  }
+]
+```

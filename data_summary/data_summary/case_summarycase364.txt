@@ -1,0 +1,85 @@
+## 1. Case Title
+
+* **Case Name:** Daimler Financial Services India Pvt. Limited. vs. Vikash Kumar & Anr.
+* **Court:** Jharkhand High Court
+* **Date of Judgment:** 24th June, 2020
+* **Citation:** W.P. (C). No. 3941 of 2019 
+
+## 2. Background and Context
+
+* **Brief Overview:** Daimler Financial Services India Pvt. Limited. (Daimler), a non-banking finance company, had lent money to Vikash Kumar and Vikram Kumar. When the loan was not repaid, Daimler initiated arbitration proceedings, leading to an award in their favor. Daimler then filed for execution of this award in the Commercial Court, Dhanbad. However, the Commercial Court dismissed the execution petition, claiming it lacked pecuniary jurisdiction after the amendment of the Commercial Courts Act, 2015.
+* **Key Issues:** 
+    *  Whether the Commercial Court, Dhanbad, had the requisite pecuniary jurisdiction to execute the award under the amended Commercial Courts Act, 2015.
+    *  Whether the petitioner (Daimler) was entitled to execution of the award, despite the respondents' arguments about the alleged forceful repossession of the vehicle.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * The Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015 (amended by The Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts (Amendment) Act, 2018 (28 of 2018))
+    * Section 3(1-A) of the Commercial Courts Act, 2015
+    * Section 2(1)(i) of the Commercial Courts Act, 2015 
+    * Section 12 of the Commercial Courts Act, 2015
+* **Precedents Cited:**
+    * Vijay Cotton And Fiber Company vs. Agarwal Cotton Spinning Pvt. Ltd. (Gujarat High Court, 11.02.2019)
+    * Radhey Shyam & Anr. vs. Chhabi Nath & Ors. (2015) 5 SCC 423
+* **Legal Doctrines:**
+    * Retroactive Effect of Legislation: The court examined the applicability of the amendment to the Commercial Courts Act with retrospective effect.
+    * Statutory Interpretation: The court analyzed the interplay between various provisions of the Commercial Courts Act, 2015, specifically concerning the "specified value" and the jurisdiction of the Commercial Court.
+    * Judicial Review: The court considered whether the impugned order of the Commercial Court, Dhanbad, was amenable to judicial review under Article 227 of the Constitution of India.
+
+## 4. Arguments Presented
+
+* **Petitioner's Argument:** 
+    * The amendment to the Commercial Courts Act, 2018, with retrospective effect from 03.05.2018, reduced the "specified value" for commercial courts to a minimum of INR 3 lakhs.
+    *  The Central Government's notification publishing the amendment effectively set the "specified value" for all purposes at INR 3 lakhs or more. 
+    * The State Government's absence of a notification under Section 3(1-A) meant that the Commercial Court, Dhanbad, retained a "specified value" of at least INR 3 lakhs. 
+    * The execution petition, therefore, fell within the pecuniary jurisdiction of the Commercial Court, Dhanbad.
+    * The petitioner cited the judgments of the Gujarat High Court and the Supreme Court to support their arguments regarding the interpretation of the amended Act and the applicability of Article 227 of the Constitution.
+* **Respondent's Argument:**
+    * The Commercial Court, Dhanbad, correctly dismissed the execution petition, as it lacked the required pecuniary jurisdiction. 
+    * The petitioner's conduct was not fair, as they had forcefully repossessed the vehicle in Bihar while it was still registered in the respondent's name.
+    * The execution petition was without merit.
+
+## 5. Court's Analysis and Reasoning
+
+* **Key Findings:**
+    * The court found that the amendment to the Commercial Courts Act, 2018, with its retrospective effect, significantly altered the pecuniary jurisdiction of commercial courts. 
+    * The court interpreted Section 2(1)(i) and Section 3(1-A) together, concluding that the Central Government's notification publishing the amendment effectively established a "specified value" of INR 3 lakhs or more for all commercial courts. 
+    * The court ruled that, in the absence of a specific notification by the State Government, the "specified value" for the Commercial Court, Dhanbad, remained at INR 3 lakhs or more.
+* **Interpretation of Law:** 
+    * The court carefully interpreted the provisions of the amended Commercial Courts Act, 2018, highlighting the impact of the retrospective effect on the "specified value." 
+    * The court reconciled the seemingly conflicting provisions of Section 2(1)(i) and Section 3(1-A) by emphasizing the Central Government's notification as a key factor in establishing the "specified value."
+* **Application of Law:**
+    * The court applied the legal principles of statutory interpretation and the retrospective effect of legislation to determine the pecuniary jurisdiction of the Commercial Court, Dhanbad. 
+    * The court relied on the precedent of the Gujarat High Court, acknowledging the relevance of the "specified value" in the absence of a specific notification by the State Government. 
+
+## 6. Judgment
+
+* **Final Decision:** The court quashed and set aside the impugned order of the Commercial Court, Dhanbad, finding that it was not sustainable in law. 
+* **Relief Granted:** The court directed the Commercial Court, Dhanbad, to proceed with Execution Case No. 29 of 2019, from the stage where it was left before the dismissal order. 
+* **Orders:** The court clarified that it did not express any opinion on the respondents' contention regarding the merits of the execution petition, allowing the respondents to raise these arguments before the Commercial Court at the appropriate stage. 
+
+## 7. Implications
+
+* **Impact on Law:** The judgment clarified the application of the amended Commercial Courts Act, 2018, particularly concerning the interpretation of the "specified value" and the retrospective effect of the legislation. 
+* **Future Relevance:** The judgment will serve as a precedent for future cases involving the interpretation of the Commercial Courts Act, 2015, and the determination of the pecuniary jurisdiction of commercial courts.
+* **Broader Context:** The judgment highlights the importance of clear and timely notifications by the State Governments to ensure proper implementation of legal amendments and to avoid confusion regarding the jurisdiction of courts. 
+
+## 8. Summary Points
+
+*  The amendment to the Commercial Courts Act, 2018, retrospectively reduced the "specified value" of commercial courts to INR 3 lakhs or more.
+* The absence of a specific State Government notification meant that the Commercial Court, Dhanbad, retained the "specified value" of INR 3 lakhs or more.
+* The court quashed the order of the Commercial Court, Dhanbad, finding it lacked the necessary legal basis for dismissing the execution petition.
+* The court directed the Commercial Court, Dhanbad, to proceed with the execution petition, allowing the respondents to raise their arguments regarding its merits at the appropriate stage.
+
+## 9. References
+
+* The Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015 (amended by The Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts (Amendment) Act, 2018 (28 of 2018))
+* Vijay Cotton And Fiber Company vs. Agarwal Cotton Spinning Pvt. Ltd. (Gujarat High Court, 11.02.2019)
+* Radhey Shyam & Anr. vs. Chhabi Nath & Ors. (2015) 5 SCC 423
+
+## Further Reading
+
+* The Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015
+*  Legal Texts on Civil Procedure and Arbitration Law in India
+*  Relevant Case Laws on the Jurisdiction of Commercial Courts. 

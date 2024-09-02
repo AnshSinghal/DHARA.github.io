@@ -1,0 +1,112 @@
+## 1. Case Title
+
+* **Case Name:** Damodarbhai Kumanbhai Kansagara vs. World Express Elevator
+* **Court:** Gujarat High Court
+* **Date of Judgment:** 4th May 2023
+* **Citation:** Not provided in the text. 
+
+## 2. Background and Context
+
+* **Brief Overview:** This case involves a group of appeals against orders passed by a Commercial Court in Gujarat, dismissing injunction applications filed by the plaintiff (Damodarbhai Kumanbhai Kansagara) against various defendants (World Express Elevator and others) in trademark infringement and passing off suits.
+* **Key Issues:**
+    * Whether the plaintiff had the right to exclusively use the word "Express" in its registered trademark considering the disclaimer clause in the registration certificate.
+    * Whether the plaintiff was the prior user of the word "Express" in the business of manufacturing and selling lifts, elevators, and escalators.
+    * Whether the defendants' use of the word "Express" amounted to trademark infringement and passing off.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * Order 43 Rule 1(r) of the Code of Civil Procedure, 1908 (CPC)
+    * Section 5 and 3 of the Commercial Court Act, 2015
+    * Order 39 Rule 1 and 2 of the CPC
+    * Section 135 of the Trademark Act, 1999
+    * Sections 9, 15, and 17 of the Trademark Act, 1999
+    * The Gujarat Lift and Elevator Act 
+* **Precedents Cited:**
+    * *S. Syed Mohideen Vs. P. Sulochana Bai* (2016(66) PTC 1[SC])
+    * *Kaviraj Pandit Durga Dutt Sharma Vs. Navratna Pharmaceuticals Laboratories* (AIR 1965 SC 980)
+    * *Renaissance Hotel Holdings Inc. Vs. B. Vijaya* (2022(5) SCC 1)
+    * *Ozone Spa Pvt. Ltd. Vs. Ozone Clun* (MANU/DE/0151/2010)
+    * *VMS Bathware Private Limited Vs. Graffiti India Pvt. Ltd.* (MANU/GJ/1360/2018)
+    * *Duncan Agro Industries Ltd. Vs. Samabhai Tea Processors (P) Ltd.* (MANU/GJ/0002/1994)
+    * *Neon Laboratories Ltd. Vs. Medical Technologies Ltd. and others* (MANU/SC/1192/2015)
+    * *Midas Hygiene Industries Private Limited Vs. Sudhir Bhatia and others* (MANU/SC/0186/2004)
+    * *Uniply Industries Limited Vs. Unicorn Plywood Private Limited and others* (2001) 5 SCC 95
+    * *Registrar of Trademarks Vs. Ashokchandra Rakhit* (AIR 1955 SC 5581)
+    * *Matrix Telecom Private Limited Vs. Matrix Cellular Services Private Limited* (AO No.6 of 2010, Gujarat High Court)
+    * *Apollo Parker Construction Equipments Private Limited Vs. Ammann India Private Limited* (AO No.43 of 2022, Gujarat High Court)
+    * *Apple Silk Mills Private Limited Vs. Apple Sarees Private Limited* (AO No.89 of 2017, Gujarat High Court)
+    * *Delhivery Private Limtied Vs. Treasure Vase Ventures Private Limited* (LAWS (DLH) 2020 1038)
+    * *Wander Limited and another Vs. Antox India Private Limited* (1990 SCC Suppl. 727)
+    * *Ramdev Food Products (P) Ltd. Vs. Arvindbhai Rambhai Patel* (2006(8) SCC 726)
+* **Legal Doctrines:**
+    * **Trademark Infringement:** Unauthorized use of a registered trademark that is likely to cause confusion among consumers.
+    * **Passing Off:** A tort where one party uses a trademark or trade name that is similar to another party's established mark, creating the impression that their goods or services are associated with the other party.
+    * **Prior User:** The party that first used a trademark or trade name in a particular market, usually having greater rights.
+    * **Generic Mark:** A term or mark that is commonly used in a trade to describe a specific type of good or service, not eligible for trademark protection.
+    * **Disclaimer Clause:** A provision in a trademark registration that clarifies that the registration does not grant exclusive rights to certain descriptive elements of the mark.
+    * **Balance of Convenience:** A factor considered in granting injunctions, weighing the potential harm to the plaintiff if the injunction is denied against the potential harm to the defendant if the injunction is granted.
+
+## 4. Arguments Presented
+
+* **Plaintiff’s Argument:**
+    * The plaintiff claimed to be the registered proprietor of the word mark "Express" Electro Elevators with an e-logo, registered in Class 7 and 37 for manufacturing and services of elevators, lifts, and escalators.
+    * The plaintiff argued that the disclaimer clause in the registration certificate applied only to the descriptive elements of the mark and not to the word "Express," which was prominently displayed.
+    * The plaintiff claimed to be the prior user of the word "Express" in the relevant business since 1999, establishing significant goodwill and reputation.
+    * The plaintiff asserted that the defendants' use of the word "Express" in their trademark and promotional materials constituted trademark infringement and passing off.
+    * The plaintiff argued that the defendants' use of "Express" would cause confusion among consumers and harm the plaintiff's reputation.
+    * The plaintiff countered the defendants' arguments about delay and laches, arguing that the plaintiff's rights as a registered trademark holder and prior user warranted injunctive relief.
+* **Defendant’s Argument:**
+    * The defendants highlighted the disclaimer clause in the plaintiff's registration certificate, arguing that it prohibited the plaintiff from claiming exclusive rights to the descriptive matter, including the word "Express."
+    * The defendants argued that the plaintiff had not applied for separate registration of the word "Express," implying a lack of exclusive rights to its use.
+    * The defendants presented evidence of their use of the word "Express" in their business since 1995, challenging the plaintiff's claim of prior user.
+    * The defendants argued that the word "Express" is a generic term, widely used in the industry to denote speed and efficiency, and therefore not eligible for exclusive trademark protection.
+    * The defendants emphasized the common usage of the word "Express" in various contexts and by numerous other businesses, negating the plaintiff's claim of distinctiveness.
+    * The defendants contended that the plaintiff's case lacked merit, particularly regarding the passing off claim, as consumers in the relevant industry were sophisticated and unlikely to be misled.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The court found that the plaintiff's trademark registration, which included the word "Express," was for a device mark and a word mark as a whole, with a disclaimer clause prohibiting exclusive use of the descriptive matter. 
+    * The court determined that the plaintiff had not applied for separate registration of the word "Express," meaning the plaintiff did not have exclusive rights to its use.
+    * The court emphasized that the word "Express" is a common term with dictionary meaning, indicating speed and efficiency, and is widely used in various industries.
+    * The court acknowledged that the plaintiff's registration certificate stated that it had used the word "Express" since 1999. However, it found that the defendants' use of the word since 1995 contradicted this claim of prior user.
+    * The court considered the sophisticated nature of the target audience for lifts, elevators, and escalators, concluding that confusion among consumers was unlikely.
+    * The court recognized the defendants' evidence of using the word "Express" in their trademark and promotional materials since 1995.
+* **Interpretation of Law:**
+    * The court thoroughly analyzed relevant provisions of the Trademark Act, particularly sections 9, 15, and 17, relating to generic terms, registration of parts of trademarks, and the effect of registration.
+    * The court interpreted the disclaimer clause in the plaintiff's registration certificate as a clear indication that the plaintiff did not possess exclusive rights to the word "Express."
+    * The court applied legal principles of trademark infringement and passing off, considering factors such as prior user, distinctiveness, and likelihood of confusion.
+* **Application of Law:**
+    * The court found that the plaintiff's claim of exclusive rights to the word "Express" was not supported by the registration certificate or by applicable trademark law.
+    * The court determined that the plaintiff had not proven to be the prior user of the word "Express" in the relevant market.
+    * The court concluded that the defendants' use of the word "Express" did not constitute trademark infringement or passing off. 
+    * The court considered precedents cited by both parties and applied their rationale to the facts of the case.
+
+## 6. Judgment
+
+* **Final Decision:** The Gujarat High Court rejected all appeals from order, confirming the Commercial Court's decision to dismiss the plaintiff's injunction applications.
+* **Relief Granted:** No relief was granted to the plaintiff.
+* **Orders:** The impugned orders passed by the Commercial Court were confirmed, and any interim relief granted earlier was vacated.
+
+## 7. Implications
+
+* **Impact on Law:** The judgment reaffirms the importance of a clear disclaimer clause in trademark registrations, particularly when generic terms are used as part of the mark.
+* **Future Relevance:** The case highlights the need for businesses to carefully consider the distinctiveness of their trademarks and the potential for confusion with existing marks. The judgment underscores the need for clear evidence to establish prior user in passing off claims.
+* **Broader Context:** The case demonstrates the ongoing challenge of balancing the rights of trademark holders with the need to allow businesses to use common terms in their marketing. The judgment emphasizes the importance of carefully navigating trademark law and seeking proper legal advice when developing and registering trademarks.
+
+## 8. Summary Points
+
+* The plaintiff's claim to exclusive rights to the word "Express" failed because of the disclaimer clause in the registration certificate and the lack of separate registration for the word.
+* The plaintiff failed to prove that it was the prior user of the word "Express" in the relevant market.
+* The court found that the word "Express" is a common term with no distinctiveness, making it ineligible for trademark protection.
+* The court concluded that the defendants' use of the word "Express" did not constitute trademark infringement or passing off.
+
+## 9. References
+
+* **Citations:** Refer to the "Precedents Cited" section for complete citations of the cases referenced in the summary.
+* **Further Reading:** For further reading on trademark law in India, consult the following resources:
+    * The Trademark Act, 1999
+    * The Trade Marks Rules, 2017
+    * *The Law of Trademarks and Designs in India* by Dr. G.D. Sardana
+    * *Intellectual Property Law in India* by P.S. Narayana 

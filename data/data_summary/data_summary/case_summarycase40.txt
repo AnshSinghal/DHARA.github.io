@@ -1,0 +1,167 @@
+## 1. Case Title
+
+* **Case Name:** KKR India Financial Services Limited vs. Axis Bank Limited
+* **Court:** Gujarat High Court
+* **Date of Judgment:** 5th March, 2020
+* **Citation:** AIRONLINE 2020 GUJ 193
+
+## 2. Background and Context
+
+**Brief Overview:**  This case involved a dispute between KKR India Financial Services Limited (KKR) and L&T Finance Limited (L&T) (the "Applicants"), who were senior secured lenders to Sintex BAPL Limited (Sintex), and Axis Bank Limited (Axis Bank), another creditor of Sintex. The dispute arose from Sintex's sale of shares in its foreign subsidiary, Sintex NP SAS (French Company), which was meant to be used for debt repayment. Axis Bank obtained an ex parte injunction preventing the sale, claiming a first charge over the sale proceeds based on an undertaking given by Sintex. KKR and L&T, arguing that they had a prior charge and were not consulted about the transaction, challenged the injunction order before the Gujarat High Court.
+
+**Key Issues:**
+
+* **Maintainability of the third party’s application under Article 227 of the Constitution of India:** Whether KKR and L&T, not being parties to the suit between Axis Bank and Sintex, could challenge the injunction order.
+* **Validity of the consent order:** Whether the consent order obtained by Axis Bank from Sintex and the Commercial Court was valid considering KKR and L&T's prior charge and lack of consultation.
+* **Priority of claims:** Which of the creditors, Axis Bank or KKR & L&T, had a prior and superior claim to the sale proceeds.
+* **Jurisdiction of the Commercial Court:** Whether the Commercial Court had jurisdiction to hear the suit filed by Axis Bank for recovery of debts, as the RDB Act may have barred it.
+
+## 3. Legal Principles Involved
+
+**Relevant Statutes and Provisions:**
+
+* **Article 227 of the Constitution of India:** Grants High Courts supervisory jurisdiction over inferior courts and tribunals.
+* **Order 39, Rule 1, 2, 3, and 4 of the Code of Civil Procedure, 1908 (CPC):**  Deals with the grant of injunctions, including ex parte injunctions.
+* **The Recovery of Debts Due to Banks and Financial Institutions Act, 1993 (RDB Act):** Regulates the recovery of debts due to banks and financial institutions.
+* **The Companies Act, 2013:**  Deals with registration of charges by secured creditors.
+* **The Insolvency and Bankruptcy Code, 2016:**  Regulates corporate insolvency resolution processes.
+* **Reserve Bank of India's Prudential Framework for Resolution of Stressed Assets, dated 7th June 2019:**  Provides a framework for resolving stressed assets in banks.
+
+**Precedents Cited:**
+
+* **Virudhunagar Hindu Nadargal Dharma Paribalana Sabai and others vs. Tuticorin Educational Society and others:**  Deals with the maintainability of applications under Article 227 when an appeal remedy is available.
+* **State of Punjab (now Haryana) v. Amar Singh:**  Addresses the right of non-parties to file appeals.
+* **Province of Bombay v. W. I. Automobile Association:**  Confirms that non-parties can appeal with leave of the appellate court.
+* **SM K Ponnalagu Ammal vs. State of Madras:**  Clarifies the practice of granting leave to appeal to non-parties.
+* **S. Govinda Menon vs. K Madhavan Nair:**  Further discusses the practice of granting leave to appeal to non-parties.
+* **Waryam Singh v. Amarnath:**  Explores the history and scope of Article 227.
+* **Baby v. Travancore Devaswom Board:**  Establishes that Article 227 powers are in addition to other revision powers.
+* **Achutananda Vadya v. Prafullya Kumar Gayen and others:**  Confirms that Article 227 includes judicial review powers.
+* **Ramesh Chandra Sanka etc. vs. Vikram Cement etc:**  Highlights the discretionary and equitable nature of Article 226 and 227 powers.
+* **Dalpat Kumar vs. Prahlad Singh:**  Emphasizes that a prima facie case is not sufficient to grant an injunction.
+* **Gujarat Bottling Co. Ltd vs. Coca Cola and others:**  States that clean hands are necessary for obtaining equitable relief.
+* **M. Gurudas and others vs. Rasaranjan and others:**  Outlines the factors considered for granting injunctions.
+* **Shiv Kumar Chadha vs. Municipal Corporation of Delhi and others:**  Discusses the significance of recording reasons for granting ex parte injunctions under Order 39 Rule 3 of the CPC.
+* **Seema Arshad Zaheer and others vs. Municipal Corporation of Greater Mumbai and others:**  Explains the requirements for granting temporary injunctions.
+
+**Legal Doctrines:**
+
+* **Supervisory Jurisdiction:**  The power of High Courts under Article 227 to oversee inferior courts and tribunals.
+* **Priority of Charges:**  The principle of determining which secured creditor has a higher priority over the assets of a debtor.
+* **Balance of Convenience:**  A principle used in injunction cases to determine which party would suffer greater hardship if the injunction is granted or refused.
+* **Irreparable Injury:**  A key factor for granting injunctions, where the injury to one party cannot be compensated by monetary damages.
+* **Clean Hands Doctrine:**  An equitable principle that requires a party seeking relief to have acted fairly and ethically.
+
+## 4. Arguments Presented
+
+**Applicant's Argument (KKR & L&T):**
+
+* **Prior Charge:**  They argued that their facility agreement and debenture trust deed, including the registered deed of hypothecation, gave them a first ranking charge over all assets of Sintex, including the sale proceeds from the French Company.
+* **Lack of Consent:**  They claimed that they were not consulted or given any notice before the sale, violating the terms of their agreements.
+* **Unenforceable Undertaking:**  They argued that the undertaking given by Sintex to Axis Bank was unenforceable and that Axis Bank had full knowledge of their prior charge.
+* **Unilateral Agreement:**  They argued that Axis Bank had acted unilaterally by obtaining the injunction and consent order without their participation, violating the principle of all lenders acting jointly in debt restructuring.
+* **Jurisdictional Bar:**  They contended that the suit filed by Axis Bank for recovery was barred by the RDB Act, which required such matters to be decided by the Debt Recovery Tribunal.
+* **Miscarriage of Justice:**  They alleged that the consent order, obtained by Axis Bank without consulting them, resulted in a serious miscarriage of justice.
+
+**Respondent's Argument (Axis Bank):**
+
+* **Maintainability:**  They argued that the applicants had no locus standi to challenge the injunction order as they were not parties to the suit. They suggested that the applicants should have sought to be impleaded as defendants.
+* **First Charge:**  They claimed that the undertaking given by Sintex gave them a first charge over the sale proceeds.
+* **Valid Consent Order:**  They argued that the consent order was obtained legally and did not prejudice the applicants' rights.
+* **Clean Hands:**  They asserted that they acted in good faith and as a vigilant banker to protect their interests.
+
+**Defendant's Argument (Sintex):**
+
+* **Financial Distress:**  They explained that they were in financial distress and needed to sell the shares of their French subsidiary to repay debts.
+* **Consensus:**  They argued that they obtained the consent order from the Commercial Court in order to facilitate the sale transaction and avoid its collapse.
+* **No Duping Intention:**  They denied any intention to dupe the applicants and stated that they still acknowledged the applicants' first charge on the sale proceeds.
+
+## 5. Court's Analysis and Reasoning
+
+**Key Findings:**
+
+* **Third Party Maintainability:** The court acknowledged that the applicants were directly affected by the consent order but noted that they had an alternative remedy of seeking leave to appeal. However, they considered the unique circumstances of the case, including the consent order’s potential for miscarriage of justice, and concluded that the applications were maintainable.
+* **Invalidity of Consent Order:** The court found the consent order invalid, as it was obtained without consulting the applicants who had a prior charge and were essential parties to any resolution of the dispute. 
+* **Unfair Advantage:** The court recognized that Axis Bank had gained an unfair advantage by unilaterally obtaining the consent order.
+* **Jurisdictional Issue:** The court expressed concern about the maintainability of the suit filed by Axis Bank for recovery, as it appeared to be barred by the RDB Act.
+
+**Interpretation of Law:**
+
+* **Article 227:** The court emphasized that the High Court’s supervisory jurisdiction under Article 227 is not limited to mere administrative oversight but also includes judicial review to prevent injustice.
+* **Order 39:** The court interpreted Order 39, particularly Rule 3, to require notice and proper hearing before granting injunctions. The court also ruled that Order 39 Rule 4, which deals with discharge or modification of injunction orders, was not applicable to third parties.
+* **Consent Orders:** The court reiterated that consent orders, while binding on the parties, cannot override the rights of third parties.
+
+**Application of Law:**
+
+* **Balance of Convenience:** The court acknowledged that the deal had already been completed but considered the potential hardship to the applicants and the larger issue of ensuring fair treatment of all creditors in debt restructuring.
+* **Irreparable Injury:** The court recognized that the applicants could potentially suffer irreparable harm if the consent order remained in place.
+
+## 6. Judgment
+
+**Final Decision:**
+
+* The court quashed the consent order passed by the Commercial Court.
+
+**Relief Granted:**
+
+* The matter was remitted to the Commercial Court for a fresh hearing.
+
+**Orders:**
+
+* The plaintiff (Axis Bank) was ordered to implead the applicants as defendants in the suit.
+* The applicants were given the right to file their written statements and take other legal steps as defendants.
+* The Commercial Court was directed to complete the proceedings within four weeks.
+
+## 7. Implications
+
+**Impact on Law:**
+
+* This judgment strengthens the role of High Courts in exercising supervisory jurisdiction under Article 227 to protect the rights of third parties and prevent miscarriage of justice.
+* It reaffirms the importance of proper notice and hearings before granting injunctions under Order 39 of the CPC.
+* It reiterates that consent orders cannot be used to infringe upon the rights of non-parties.
+
+**Future Relevance:**
+
+* The case serves as a reminder that courts should carefully consider the interests of all stakeholders, including non-parties, when dealing with consent orders and debt restructuring matters.
+* It may influence future decisions on the maintainability of third-party applications under Article 227 and the applicability of Order 39 Rule 4.
+
+**Broader Context:**
+
+* The case highlights the complexities of debt restructuring and the need for a collaborative approach between all creditors to ensure fairness. 
+* It raises concerns about the potential for opportunistic behavior by individual creditors seeking to prioritize their interests over others.
+
+## 8. Summary Points
+
+* The Gujarat High Court upheld the maintainability of third-party applications under Article 227 to address potential miscarriage of justice.
+* The court invalidated a consent order obtained by a creditor without consulting other creditors who had a prior charge.
+* The judgment emphasized the importance of a collaborative approach in debt restructuring and the need for equitable treatment of all creditors.
+
+## 9. References
+
+* **Citations:**
+    * Article 227 of the Constitution of India.
+    * Order 39 of the Code of Civil Procedure, 1908.
+    * The Recovery of Debts Due to Banks and Financial Institutions Act, 1993.
+    * The Companies Act, 2013.
+    * The Insolvency and Bankruptcy Code, 2016.
+    * Reserve Bank of India's Prudential Framework for Resolution of Stressed Assets, dated 7th June 2019. 
+    * Virudhunagar Hindu Nadargal Dharma Paribalana Sabai and others vs. Tuticorin Educational Society and others.
+    * State of Punjab (now Haryana) v. Amar Singh.
+    * Province of Bombay v. W. I. Automobile Association.
+    * SM K Ponnalagu Ammal vs. State of Madras.
+    * S. Govinda Menon vs. K Madhavan Nair.
+    * Waryam Singh v. Amarnath.
+    * Baby v. Travancore Devaswom Board.
+    * Achutananda Vadya v. Prafullya Kumar Gayen and others.
+    * Ramesh Chandra Sanka etc. vs. Vikram Cement etc.
+    * Dalpat Kumar vs. Prahlad Singh.
+    * Gujarat Bottling Co. Ltd vs. Coca Cola and others.
+    * M. Gurudas and others vs. Rasaranjan and others.
+    * Shiv Kumar Chadha vs. Municipal Corporation of Delhi and others.
+    * Seema Arshad Zaheer and others vs. Municipal Corporation of Greater Mumbai and others.
+
+* **Further Reading:**
+    * The Recovery of Debts Due to Banks and Financial Institutions Act, 1993.
+    * The Insolvency and Bankruptcy Code, 2016.
+    * Reserve Bank of India's Prudential Framework for Resolution of Stressed Assets.
+    * Legal articles and commentaries on Article 227 of the Constitution of India, Order 39 of the CPC, and consent orders in Indian law. 

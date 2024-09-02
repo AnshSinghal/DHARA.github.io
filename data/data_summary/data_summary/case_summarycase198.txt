@@ -1,0 +1,116 @@
+##  1. Case Title
+
+* **Case Name:** Rajasthan Rajya Vidyut Utpadan Nigam Ltd. vs. Parsa Kente Collieries Ltd.
+* **Court:** Rajasthan High Court
+* **Date of Judgment:** 28 February 2018
+* **Citation:** D.B. Civil Miscellaneous Appeal No. 3785/2017
+
+## 2. Background and Context
+
+* **Brief Overview:** Rajasthan Rajya Vidyut Utpadan Nigam Limited (RVUNL), a power generating company owned by the State of Rajasthan, entered into a Joint Venture Agreement with Adani Enterprises Limited to form a company, Parsa Kente Collieries Limited (PKCL), for coal block development and mining. The agreement (CMDA) stipulated a commencement date for coal supply within 48 months from the date of allocation (25.06.2007), with a possible extension due to force majeure events. Delays in obtaining clearances led to an extension of the commencement date to 25.03.2013. Disputes arose regarding the price adjustment clause, fixed costs, and deductions for an Escrow Account opened for mine closure. 
+* **Key Issues:** 
+    * Whether the price adjustment clause should be applied with reference to the original commencement date (25.06.2011) or the extended date (25.03.2013).
+    * Whether RVUNL is liable for fixed costs incurred by PKCL due to RVUNL's inability to off-take the scheduled quantity of coal.
+    * Whether RVUNL was justified in deducting money from PKCL's coal supply bills for deposit in the Escrow Account for mine closure.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * Arbitration and Conciliation Act, 1996:
+        * Section 34: Provides for the grounds on which a court can set aside an arbitral award.
+        * Section 37: Provides for appeals against the orders of the court on applications under Section 34.
+    * Indian Contract Act, 1872:
+        * Section 73: Deals with compensation for breach of contract.
+    * Electricity Act, 2003:
+        * Section 2(8): Defines a power generating company.
+* **Precedents Cited:**
+    * Oil & Natural Gas Corporation Ltd. vs. Saw Pipes Ltd. - (2003) 5 SCC 705
+    * Hindustan Zinc. Ltd. vs. Friends Coal Carbonisation - (2006) 4 SCC 445
+    * McDermott International Inc. v. Burn Standard Co. Ltd. - (2006) 11 SCC 181
+    * Delhi Development Authority Vs. R.S. Sharma and Co., (2008) 13 SCC 80
+    * Associate Builders Vs. Delhi Development Authority - (2015) 3 SCC 49
+    * Quality Manufacturing Vs. Central Warehousing Corporation - (2009) 5 SCC 142
+    * SAIL Vs. Gupta Brother Steel Tubes Limited - (2009) 10 SCC 63
+    * C. Beepathumma & Others Vs. V.S. Kadambolithaya & Others - AIR 1965 SC 241
+    * New Bihar Biri Leaves Co. & Ors. Vs. State of Bihar & Ors., (1981) 1 SCC 537
+    * Oil and Natural Gas Corporation Ltd. Vs. Western Geco International Ltd.,- (2014) 9 SCC 263
+    * Sudarsan Trading Co. Vs. Govt. of Kerala - (1989) 2 SCC 38
+    * Dugar Tea Industries (P) Ltd. Vs. State of Assam - (2016) 9 SCC 519
+    * Dharanjamal Gobindram Vs. Shamji Kalidas & Co. (1961) 3 SCR 1020
+    * Bareilly Electricity Supply Company Ltd. Vs. Workmen and Others - (1971) 2 SCC 617
+    * Kailash Nath Associates Vs. Delhi Development Authority - (2015) 4 SCC 136
+    * Delta International Ltd. Vs. Shyam Sundar Ganeriwalla and Another - (1999) 4 SCC 545
+    * Larson and Toubro Limited Vs. Mohan Lal Harbans Lal Bhayana - (2015) 2 SCC 461
+    * M/s. Sharma & Associates Contractors Pvt. Ltd. Vs. Progressive Constructions Ltd. - (2017) 5 SCC 743
+    * J.G. Engineers (P) Ltd. v. Union of India - (2011) 5 SCC 758
+    * Kinnari Mullick & Another Vs. Ghanshyam Das Damani - AIR 2017 SC 2785
+    * Kuldeep Singh Vs. Commissioner of Police - (1999) 2 SCC 10
+    * Excise and Taxation Officer-cum-Assessing Authority v. Gopi Nath & Sons - 1992 Supp (2) SCC 312
+    * Rajasthan State Mines & Minerals Ltd. Vs. Eastern Engineering Enterprises and Another - (1999) 9 SCC 283
+    * Satyanarayana Construction Company Vs. Union of India and Others - (2011) 15 SCC 101
+    * Centrotrade Minerals & Metals Inc. v. Hindustan Copper Ltd. - (2006) 11 SCC 245
+* **Legal Doctrines:**
+    * **Interpretation of Contracts:**  The court focused on the interpretation of the CMDA, specifically its provisions on commencement date, price adjustment, and force majeure.
+    * **Harmonious Construction:**  The court emphasized the need to interpret different clauses of the CMDA in a harmonious manner.
+    * **Public Policy:** The court examined whether the arbitral award was patently illegal and contrary to public policy.
+    * **Estoppel:** The court considered whether PKCL was estopped from challenging RVUNL's deduction policy for the Escrow Account.
+    * **Damages for Breach of Contract:** The court analyzed the requirements for awarding damages under Section 73 of the Contract Act.
+
+## 4. Arguments Presented
+
+* **Appellant's Argument (RVUNL):**
+    * The price adjustment clause should be applied with reference to the extended commencement date (25.03.2013), not the original date (25.06.2011).
+    * RVUNL is not liable for fixed costs incurred by PKCL because those costs arose from PKCL's agreement with AMPL, a third party.
+    * The deductions for the Escrow Account were justified because PKCL agreed to them and they were within the scope of work defined in the CMDA.
+    * The award was patently illegal and against public policy because it misconstrued the CMDA, violated the principles of awarding damages, and ignored PKCL's acceptance of the escrow deduction policy.
+* **Respondent's Argument (PKCL):**
+    * The price adjustment clause should be applied with reference to the original commencement date (25.06.2011) because the force majeure clause does not preclude price adjustment for the period covered by the delay.
+    * RVUNL's inability to off-take the scheduled quantity of coal constituted a breach of contract, making them liable for PKCL's fixed costs.
+    * RVUNL was not justified in deducting money from PKCL's coal supply bills for the Escrow Account because the responsibility for mine closure lay with RVUNL, the mine owner.
+    * The arbitral award was based on a plausible interpretation of the CMDA and did not violate public policy.
+
+## 5. Court's Analysis and Reasoning
+
+* **Key Findings:**
+    * The court agreed with RVUNL's interpretation of the commencement date, holding that the extended date (25.03.2013) was the operative date for applying the price adjustment clause.
+    * The court held that the arbitral award regarding fixed costs was unreasoned and perverse because it awarded damages for the loss of a third party (AMPL) without proper justification or evidence.
+    * The court agreed with RVUNL's position on the Escrow Account, finding that PKCL had accepted the deduction policy and that RVUNL, as the mine owner, was responsible for mine closure.
+* **Interpretation of Law:**
+    * The court strictly construed the CMDA, emphasizing the importance of adhering to the express terms of the contract.
+    * The court applied the principles of public policy, holding that an award must be in accordance with the substantive law and must not be patently illegal.
+    * The court interpreted the force majeure clause as not precluding price adjustment for the period covered by the delay.
+* **Application of Law:**
+    * The court applied the principles of contract interpretation, focusing on the plain language of the CMDA and considering the conduct of the parties.
+    * The court applied the principles of damages for breach of contract, finding that the award of fixed costs was not supported by evidence or proper reasoning.
+    * The court applied the doctrine of estoppel to the Escrow Account issue, finding that PKCL was bound by its acceptance of the deduction policy.
+
+## 6. Judgment
+
+* **Final Decision:** The Rajasthan High Court allowed the appeal, setting aside both the arbitral award and the order of the Commercial Court. 
+* **Relief Granted:** The judgment effectively overturned the arbitral award, relieving RVUNL of the financial obligations imposed by the award.
+* **Orders:** The court ordered the setting aside of the arbitral award and the order of the Commercial Court.
+
+## 7. Implications
+
+* **Impact on Law:** The judgment reaffirms the importance of adhering to the express terms of a contract and the need for reasoned and justified awards in arbitration proceedings. It also clarifies the principles of public policy in relation to arbitral awards.
+* **Future Relevance:** This case will likely be cited in future cases involving contract interpretation, price adjustment clauses, force majeure events, and the judicial review of arbitral awards.
+* **Broader Context:** The case highlights the importance of carefully drafting contracts to avoid ambiguities and ensure clarity on key issues. It also underscores the limitations of equity and the need for evidence and reasoning in awarding damages for breach of contract.
+
+## 8. Summary Points
+
+* RVUNL successfully challenged the arbitral award, which had ordered them to pay a significant amount to PKCL.
+* The court held that the price adjustment clause should be applied based on the extended commencement date, not the original date.
+* The court found that the award of fixed costs was unreasoned and perverse because it was based on the losses of a third party without sufficient justification.
+* The court upheld RVUNL's position on the Escrow Account, finding that PKCL was estopped from challenging the deduction policy.
+* The judgment highlights the importance of contract interpretation, public policy, and the principles of damages in arbitration proceedings.
+
+## 9. References
+
+* **Citations:**
+    * Arbitration and Conciliation Act, 1996
+    * Indian Contract Act, 1872
+    * Electricity Act, 2003
+    * All cases cited in the judgment 
+* **Further Reading:**
+    * Other judgments on contract interpretation, force majeure, and the judicial review of arbitral awards.
+    * Textbooks on Indian Contract Law and Arbitration Law. 

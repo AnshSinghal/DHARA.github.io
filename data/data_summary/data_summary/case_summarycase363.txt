@@ -1,0 +1,93 @@
+##  1. Case Title
+
+•	Case Name: Baroda Extrusion Limited & 2 vs Sicom Limited & 9
+•	Court: Gujarat High Court
+•	Date of Judgment: 18th January 2017
+•	Citation: AIR 2017 GUJARAT 34, 2017 ACD 1017 (GUJ) (2017) 2 CURCC 120, (2017) 2 CURCC 120
+
+## 2. Background and Context
+
+•	**Brief Overview:** Baroda Extrusion Limited (BEL), along with two other plaintiffs, filed a suit against Sicom Limited (SL), a public financial institution, and Sicom Arc Limited (SAL), an assets reconstruction company, seeking compensation for breach of agreement, damages, and defamation. BEL claimed that SL and SAL had illegally taken action against them under the Securitization and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002 (SARFAESI Act) for recovery of a loan. BEL also alleged that SAL was operating illegally without the required license.
+•	**Key Issues:** 
+	- Whether the suit filed by BEL was maintainable before the Commercial Court, Vadodara.
+	- Whether the suit was frivolous and vexatious.
+	- Whether the Commercial Court erred in dismissing the suit with exemplary cost. 
+
+## 3. Legal Principles Involved
+
+•	**Relevant Statutes and Provisions:**
+	- Securitization and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002 (SARFAESI Act)
+	- Recovery of Debts Due to Banks and Financial Institutions Act, 1993 
+	- Code of Civil Procedure, 1908 (CPC), Order VII Rule 11
+	- Sick Industrial Companies (Special Provisions) Act, 1985 (SICA)
+
+•	**Precedents Cited:**
+	- T. Arivandandam vs. T.V. Satyapal (1977) 4 SCC 467
+
+•	**Legal Doctrines:**
+	-  Jurisdiction of Courts 
+	- Vexatious and Frivolous Litigations 
+	- Abuse of Process 
+
+## 4. Arguments Presented
+
+•	**Plaintiff’s Argument:** 
+	- The plaintiffs argued that the suit was not frivolous and vexatious. They claimed they had suffered damages due to the illegal actions of the defendants, particularly SL and SAL.
+	- BEL argued that the Commercial Court erred in dismissing the suit and imposing exemplary costs.
+
+•	**Defendant’s Argument:** 
+	- The defendants argued that the suit was not maintainable before the Commercial Court as the issues raised were already being addressed in other proceedings initiated by the plaintiffs and against them. 
+	- They argued that the suit was frivolous and vexatious because the plaintiffs were attempting to obstruct the recovery of public funds and had initiated multiple lawsuits on similar grounds in various courts. 
+
+## 5. Court’s Analysis and Reasoning
+
+•	**Key Findings:** 
+	- The court found that the suit was not maintainable before the Commercial Court as it lacked jurisdiction to grant the reliefs sought by BEL.  The reliefs related to the SARFAESI Act and recovery of the loan amount should have been pursued before the DRT. 
+	- The court also found that the suit was frivolous and vexatious, considering the numerous proceedings already initiated by both parties in other courts on similar grounds.
+
+•	**Interpretation of Law:** 
+	- The court interpreted Order VII Rule 11 of the CPC, which empowers the court to dismiss frivolous and vexatious suits. The court emphasized the importance of preventing such litigation from clogging court dockets.
+
+•	**Application of Law:** 
+	-  The court held that the suit was barred under the SARFAESI Act and DRT Act as the plaintiffs could not seek relief against actions taken under these legal frameworks through a civil suit.
+	- The court applied the principle laid down in T. Arivandandam vs. T.V. Satyapal to hold that the suit was vexatious and meritless, considering the plaintiffs' intention to "settle personal scores" through multiple lawsuits. 
+
+## 6. Judgment
+
+•	**Final Decision:** The First Appeal was dismissed.
+•	**Relief Granted:** The court upheld the dismissal of the suit by the Commercial Court and confirmed the exemplary cost of Rs. 50,000 to be deposited with the District Legal Services Authority.
+•	**Orders:** The court dismissed the Civil Application filed alongside the First Appeal.
+
+## 7. Implications
+
+•	**Impact on Law:** 
+	- The judgment reiterates the importance of courts exercising their powers under Order VII Rule 11 to prevent frivolous and vexatious litigation.
+	- It highlights the need for parties to pursue appropriate legal avenues for addressing their disputes and avoid forum-shopping. 
+
+•	**Future Relevance:**  
+	- The judgment serves as a precedent for courts in evaluating the maintainability and genuineness of suits filed before them.
+	- It provides guidance on how courts should handle cases where multiple litigations are initiated by parties on similar grounds.
+
+•	**Broader Context:** 
+	- The case emphasizes the importance of responsible litigation and the need for legal professionals to prevent frivolous lawsuits.
+	- It highlights the potential for abuse of the legal process when parties engage in "forum shopping" and filing multiple suits for similar reliefs. 
+
+## 8. Summary Points
+
+•	**Key Takeaways:**
+	- Courts have a duty to dismiss frivolous and vexatious lawsuits to prevent abuse of legal process.
+	- Parties must seek appropriate legal avenues to address their disputes and avoid filing multiple suits on similar grounds.
+	-  Civil courts lack jurisdiction to intervene in matters already under the purview of specialized tribunals like the DRT.
+
+## 9. References
+
+•	**Citations:** 
+	- Securitization and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002 (SARFAESI Act)
+	- Recovery of Debts Due to Banks and Financial Institutions Act, 1993 
+	- Code of Civil Procedure, 1908 (CPC), Order VII Rule 11
+	- Sick Industrial Companies (Special Provisions) Act, 1985 (SICA)
+	- T. Arivandandam vs. T.V. Satyapal (1977) 4 SCC 467
+
+•	**Further Reading:**
+	-  Cases on vexatious litigation and abuse of legal process. 
+	-  Articles on forum-shopping and the role of courts in preventing frivolous lawsuits. 

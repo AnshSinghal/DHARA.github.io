@@ -1,0 +1,96 @@
+## 1. Case Title
+
+* **Case Name:** Arss - Sips (Jv) A Joint Venture vs Union Of India
+* **Court:** Chattisgarh High Court
+* **Date of Judgment:** 20 December, 2021
+* **Citation:**  Arb. Appeal No.33/2020
+
+## 2. Background and Context
+
+* **Brief Overview:** Arss-Sips (JV), a joint venture, entered into a contract with the South East Central Railway (SECR) for construction work in the Lajkura-Raigarh section. The work was to be completed within 24 months from the date of the Letter of Acceptance (LOA) issued on 21-9-2016. Due to delays in the work, SECR terminated the contract on 2-1-2020. Arss-Sips challenged the termination before the Chattisgarh High Court, but the petition was dismissed, allowing them to seek arbitration.
+* **Key Issues:** 
+    * Whether the Court could entertain the arbitration appeal after the constitution of an Arbitral Tribunal.
+    * Whether the Commercial Court was justified in rejecting the application for an interim injunction against the encashment of the performance bank guarantee (PBG).
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * Section 37 of the Arbitration and Conciliation Act, 1996 (AC Act): This section provides for appellate jurisdiction of the High Court in matters related to arbitration.
+    * Section 9(1) of the AC Act: This section allows parties to an arbitration agreement to apply to the court for interim measures before or during the arbitral proceedings.
+    * Section 9(3) of the AC Act: This section states that the court shall not entertain an application under Section 9(1) once an arbitral tribunal is constituted.
+    * Section 126 of the Indian Contract Act, 1872: This section defines the contract of guarantee, surety, principal debtor, and creditor.
+* **Precedents Cited:**
+    * Hindustan Construction Co. Ltd. v. State of Bihar and others
+    * Standard Chartered Bank v. Heavy Engineering Corporation Ltd. and another
+    * Hindustan Steelworks Construction Ltd. v. Tarapore & Co. and another
+    * Gujarat Maritime Board v. Larsen and Toubro Infrastructure Development Project Limited and another
+    * Andhra Pradesh Pollution Control Board v. CCL Products (India) Limited
+    * Arcelor Mittal Nippon Steel India Ltd. v. Essar Bulk Terminal Ltd.
+    * Himadri Chemicals Industries Ltd. v. Coal Tar Refining Co.
+    * Vinitec Electronics Pvt. Ltd. v. HCL Info Systems Ltd.
+    * NHAI v. Ganga Enterprise
+    * State of Maharashtra v. National Construction Co. Bombay
+    * General Electric Technical Services Company Inc. v. M/s. Punj Sons (P) Ltd. and another
+    * Svenska Handelsnbanken v. Indian Charge Chrome
+    * B.S.E.S. Ltd. (Now Reliance Energy Ltd.) v. Fenner India Ltd.
+    * Dwarikesh Sugar Industries Ltd. v. Prem Heavy Engineering Works (P) Ltd.
+    * Ansal Engg. Projects Ltd. v. Tehri Hydro Development Corpn. Ltd.
+    * SBI v. Mula Sahakari Sakhar Karkhana Ltd.
+    * U.P. State Sugar Corporation v. Sumac International Ltd.
+    * Intertoll ICS Cecons O&M Company P. Ltd. v. National Highways Authority of India
+    * State Trading Corporation of India Ltd. v. Jainsons Clothing Corporation and another
+* **Legal Doctrines:**
+    * **Bank Guarantee as an independent contract:** A bank guarantee is an independent contract between the bank and the beneficiary, separate from the underlying contract between the principal debtor and the beneficiary.
+    * **Exceptions to injunction against bank guarantee enforcement:**  Injunctions against enforcement of bank guarantees are only granted in exceptional circumstances, such as fraud of an egregious nature or special equities to prevent irretrievable injustice.
+
+## 4. Arguments Presented
+
+* **Appellant’s Argument:**
+    * The invocation of the bank guarantee was unjust, illegal, and bad in law as the SECR had extended the contract period without invoking any penalty clauses.
+    * The extension of the contract period under Clause 17-A of the general conditions of contract amounted to "special equity", justifying an interim injunction against the encashment of the PBG.
+    * The constitution of the Arbitral Tribunal after the application under Section 9(1) of the AC Act was entertained did not bar the appeal.
+* **Respondent’s Argument:**
+    * The arbitration appeal was not maintainable in view of the constitution of the Arbitral Tribunal, as per Section 9(3) of the AC Act.
+    * The appellant had not established a prima facie case, balance of convenience, or irreparable loss to justify the interim injunction.
+    * The earlier order of the High Court dismissing the appellant's writ petition indicated that the progress of work was not satisfactory, justifying the termination of the contract.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The Court, referencing the Supreme Court decision in Arcelor Mittal Nippon Steel India Ltd. v. Essar Bulk Terminal Ltd., ruled that the constitution of the Arbitral Tribunal after the entertainment of the application under Section 9(1) did not render the appeal non-maintainable.
+    * The Court emphasized that the bank guarantee was an unconditional and absolute contract, independent of the main contract between the parties.
+    * The Court held that the appellant had not specifically pleaded any grounds of fraud, irretrievable injustice, or special equity to justify the interim injunction against the encashment of the PBG.
+* **Interpretation of Law:**
+    * The Court interpreted Section 9(3) of the AC Act to mean that the bar only applies when the application under Section 9(1) is not entertained before the constitution of the Arbitral Tribunal.
+    * The Court cited numerous precedents to establish that the bank guarantee is an independent contract and the bank is obligated to honor it, unless there is fraud or special equities.
+* **Application of Law:**
+    * The Court applied the legal principles established in numerous Supreme Court decisions to the facts of the case, finding that the appellant had failed to meet the requirements for a court intervention in the enforcement of the bank guarantee.
+    * The Court specifically rejected the argument that the extension of the contract period under Clause 17-A constituted "special equity", finding that it was merely a contractual dispute between the parties and did not fall under the exception to the rule regarding bank guarantee enforcement.
+
+## 6. Judgment
+
+* **Final Decision:** The appeal was dismissed, and the interim order dated 30-7-2020 was vacated.
+* **Relief Granted:** No relief was granted to the appellant.
+* **Orders:** The Court ordered the appellant to pay costs.
+
+## 7. Implications
+
+* **Impact on Law:** This judgment reaffirms the principle that courts should be reluctant to interfere in the enforcement of unconditional bank guarantees, unless there is a clear case of fraud or special equities to prevent irretrievable injustice.
+* **Future Relevance:** This case provides valuable guidance to courts on the interpretation of Section 9(3) of the AC Act and the application of the legal principles governing bank guarantees in arbitration disputes.
+* **Broader Context:** The judgment highlights the importance of carefully drafting bank guarantee agreements to ensure that the terms are clear and absolute, minimizing potential disputes.
+
+## 8. Summary Points
+
+* The Court upheld the bank's right to enforce the unconditional bank guarantee in this case.
+* The Court found that the appellant had failed to establish a case for fraud, irretrievable injustice, or special equity to justify the interim injunction.
+* The Court ruled that the constitution of the Arbitral Tribunal after the entertainment of the Section 9(1) application did not bar the appeal.
+
+## 9. References
+
+* **Citations:**
+    * Arbitration and Conciliation Act, 1996 (AC Act)
+    * Indian Contract Act, 1872
+    * All cases cited in the judgment.
+* **Further Reading:**
+    * Supreme Court decisions related to bank guarantees and injunctions.
+    * Legal texts on arbitration and contract law.

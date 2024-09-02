@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A construction company is suing a government agency for breach of contract after the agency terminated the contract for a hydroelectric project. The agency argues that the company failed to submit the required detailed project reports (DPRs) within the specified time frame, but the company claims that the agency's delay in providing land and access roads prevented them from submitting the DPRs.",
+    "Legal Principles": "Breach of contract, specific performance, termination of contract, essential terms of contract,  doctrine of frustration, waiver,  construction of contract,  principles of natural justice, Article 299 of the Constitution of India",
+    "Relevant Sections": "Sections 34 and 37 of the Arbitration & Conciliation Act, 1996, Section 16 of the Specific Relief Act, 1963, Section 63 of the Indian Contract Act, 1872, Article 299 of the Constitution of India",
+    "Context": "Arbitration appeal case in the Sikkim High Court concerning a dispute between a construction company and a government agency over a hydroelectric project contract. The case involves arguments about breach of contract, specific performance, termination of contract, and the interpretation of essential terms."
+  },
+  {
+    "Query": "A developer is seeking specific performance of a contract with a municipality to develop a commercial property. The municipality argues that the developer failed to obtain the necessary environmental permits and approvals within the stipulated timeframe, but the developer claims that the municipality's delay in providing necessary infrastructure hindered their progress.",
+    "Legal Principles": "Specific performance, breach of contract,  essential terms of contract,  time is of the essence,  frustration of contract, waiver,  construction of contract,  principles of natural justice",
+    "Relevant Sections": "Sections 34 and 37 of the Arbitration & Conciliation Act, 1996, Section 16 of the Specific Relief Act, 1963, Section 63 of the Indian Contract Act, 1872",
+    "Context": "Arbitration appeal case in a High Court concerning a dispute between a developer and a municipality over a commercial development contract. The case involves arguments about specific performance, breach of contract, and the interpretation of essential terms."
+  },
+  {
+    "Query": "A software company is suing a government agency for breach of contract after the agency terminated the contract for developing a software system. The agency claims that the software company failed to deliver the software on time and according to the agreed-upon specifications, but the company argues that the agency's late provision of data and unclear requirements caused the delays.",
+    "Legal Principles": "Breach of contract,  essential terms of contract, time is of the essence,  construction of contract,  frustration of contract,  termination of contract",
+    "Relevant Sections": "Sections 34 and 37 of the Arbitration & Conciliation Act, 1996",
+    "Context": "Arbitration appeal case in a High Court concerning a dispute between a software company and a government agency over a software development contract. The case involves arguments about breach of contract, termination of contract, and the interpretation of essential terms."
+  },
+  {
+    "Query": "A farmer is suing a government agency for compensation after the agency took over his land for a public project without providing adequate compensation. The farmer claims that the agency's valuation of his land is too low and does not reflect its true market value.",
+    "Legal Principles": "Eminent domain, just compensation,  valuation of property,  principles of natural justice",
+    "Relevant Sections": "Sections 34 and 37 of the Arbitration & Conciliation Act, 1996, The Land Acquisition Act, 1894",
+    "Context": "Arbitration appeal case in a High Court concerning a dispute between a farmer and a government agency over land acquisition for a public project. The case involves arguments about just compensation and the valuation of property."
+  },
+  {
+    "Query": "A construction company is suing a private developer for breach of contract after the developer terminated the contract for building a residential complex. The developer claims that the company failed to complete the construction within the stipulated time frame, but the company argues that the developer's late provision of building materials and design changes caused the delays.",
+    "Legal Principles": "Breach of contract,  essential terms of contract,  time is of the essence,  frustration of contract,  termination of contract",
+    "Relevant Sections": "Sections 34 and 37 of the Arbitration & Conciliation Act, 1996",
+    "Context": "Arbitration appeal case in a High Court concerning a dispute between a construction company and a private developer over a residential construction contract. The case involves arguments about breach of contract, termination of contract, and the interpretation of essential terms."
+  },
+  {
+    "Query": "A mining company is suing a government agency for breach of contract after the agency revoked the company's mining license. The agency claims that the company violated environmental regulations, but the company argues that the agency's failure to provide clear guidelines and timely inspections contributed to the violations.",
+    "Legal Principles": "Breach of contract,  environmental regulations,  mining license revocation,  due process,  principles of natural justice",
+    "Relevant Sections": "Sections 34 and 37 of the Arbitration & Conciliation Act, 1996, The Mines and Minerals (Development and Regulation) Act, 1957, The Environment Protection Act, 1986",
+    "Context": "Arbitration appeal case in a High Court concerning a dispute between a mining company and a government agency over the revocation of a mining license. The case involves arguments about breach of contract, environmental regulations, and due process."
+  },
+  {
+    "Query": "A technology company is suing a government agency for breach of contract after the agency failed to pay for a software system that the company developed. The agency claims that the software does not meet the agreed-upon specifications, but the company argues that the agency's late provision of requirements and changes during development caused the discrepancies.",
+    "Legal Principles": "Breach of contract,  essential terms of contract,  payment for services,  construction of contract",
+    "Relevant Sections": "Sections 34 and 37 of the Arbitration & Conciliation Act, 1996",
+    "Context": "Arbitration appeal case in a High Court concerning a dispute between a technology company and a government agency over the payment for a software system. The case involves arguments about breach of contract and the interpretation of essential terms."
+  },
+  {
+    "Query": "A real estate developer is suing a government agency for breach of contract after the agency revoked the developer's building permit. The agency claims that the developer did not comply with zoning regulations, but the developer argues that the agency's unclear regulations and inconsistent enforcement caused the non-compliance.",
+    "Legal Principles": "Breach of contract,  zoning regulations,  building permit revocation,  due process,  principles of natural justice",
+    "Relevant Sections": "Sections 34 and 37 of the Arbitration & Conciliation Act, 1996, The Town and Country Planning Act, 1971",
+    "Context": "Arbitration appeal case in a High Court concerning a dispute between a real estate developer and a government agency over the revocation of a building permit. The case involves arguments about breach of contract, zoning regulations, and due process."
+  },
+  {
+    "Query": "A construction company is suing a government agency for breach of contract after the agency failed to provide the company with the necessary utilities for a construction project. The company claims that the agency's delay in providing utilities caused significant delays and increased costs, but the agency argues that the company failed to follow the proper procedures for obtaining utilities.",
+    "Legal Principles": "Breach of contract,  essential terms of contract,  provision of utilities,  construction delays",
+    "Relevant Sections": "Sections 34 and 37 of the Arbitration & Conciliation Act, 1996",
+    "Context": "Arbitration appeal case in a High Court concerning a dispute between a construction company and a government agency over the provision of utilities for a construction project. The case involves arguments about breach of contract, delays, and the interpretation of essential terms."
+  },
+  {
+    "Query": "A software developer is suing a government agency for breach of contract after the agency terminated the contract for developing a software system. The agency claims that the software developer failed to deliver the software on time and according to the agreed-upon specifications, but the developer argues that the agency's late provision of data and unclear requirements caused the delays.",
+    "Legal Principles": "Breach of contract,  essential terms of contract, time is of the essence,  construction of contract,  frustration of contract,  termination of contract",
+    "Relevant Sections": "Sections 34 and 37 of the Arbitration & Conciliation Act, 1996",
+    "Context": "Arbitration appeal case in a High Court concerning a dispute between a software developer and a government agency over a software development contract. The case involves arguments about breach of contract, termination of contract, and the interpretation of essential terms."
+  }
+]
+```

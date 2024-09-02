@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A hotel company entered into a Build, Operate, and Transfer (BOT) agreement with a government agency to build a hotel.  After delays in construction, the government agency terminated the agreement. The hotel company seeks to challenge the termination in court, arguing that the agency's actions were arbitrary and illegal. The court must decide whether to grant a stay of the termination notice pending the outcome of the case.",
+    "Legal Principles": "Arbitration and Conciliation Act, 1996; Specific Performance; Termination of Contract; Judicial Review; Interim Relief; Stay of Operation of Arbitral Award",
+    "Relevant Sections": "Section 34, Section 36, Section 9 of the Arbitration and Conciliation Act, 1996.",
+    "Context": "This case involves a dispute arising from a BOT agreement.  The court is asked to decide whether to grant a stay of the termination notice pending the outcome of the case."
+  },
+  {
+    "Query": "A company filed a lawsuit seeking to set aside an arbitral award that ruled in favor of its competitor. The company argues that the award is based on an incorrect interpretation of the contract.  The competitor seeks to enforce the award. The court must decide whether to grant the company's request to stay the enforcement of the award.",
+    "Legal Principles": "Arbitration and Conciliation Act, 1996; Enforcement of Arbitral Award; Setting Aside Arbitral Award; Stay of Enforcement; Judicial Review",
+    "Relevant Sections": "Section 34, Section 36, Section 47 of the Arbitration and Conciliation Act, 1996.",
+    "Context": "This case involves a dispute over an arbitral award. The court is asked to decide whether to grant a stay of the enforcement of the award pending the outcome of the case."
+  },
+  {
+    "Query": "A landlord terminated a lease agreement with a tenant due to alleged breaches of the lease. The tenant claims the termination was wrongful and seeks to have the lease reinstated. The court must decide whether to grant the tenant a temporary injunction preventing the landlord from evicting the tenant while the case is pending.",
+    "Legal Principles": "Landlord and Tenant Law; Breach of Contract; Termination of Lease; Injunction; Interim Relief; Possession of Property",
+    "Relevant Sections": "Specific Relief Act, 1963; Code of Civil Procedure, 1908; Transfer of Property Act, 1882.",
+    "Context": "This case involves a dispute between a landlord and tenant over the termination of a lease. The court is asked to decide whether to grant a temporary injunction to prevent eviction pending the outcome of the case."
+  },
+  {
+    "Query": "A company filed a lawsuit claiming breach of contract against a supplier.  The company seeks to obtain a temporary injunction preventing the supplier from supplying goods to a competitor while the case is pending. The court must decide whether to grant the injunction, considering the potential harm to both parties.",
+    "Legal Principles": "Breach of Contract; Injunction; Interim Relief; Competition Law; Balance of Convenience",
+    "Relevant Sections": "Specific Relief Act, 1963; Code of Civil Procedure, 1908; Competition Act, 2002.",
+    "Context": "This case involves a dispute over a breach of contract. The court is asked to decide whether to grant an injunction to prevent the supplier from supplying goods to a competitor pending the outcome of the case."
+  },
+  {
+    "Query": "A developer obtained a building permit but faced delays due to environmental concerns. The local government revoked the permit.  The developer seeks to have the permit reinstated and challenges the government's decision.  The court must decide whether to grant a stay of the revocation pending the outcome of the case.",
+    "Legal Principles": "Administrative Law; Judicial Review; Environmental Law; Planning and Development; Building Permits; Stay of Decision",
+    "Relevant Sections": "Environment Protection Act, 1986; Town and Country Planning Act, 1974; Code of Civil Procedure, 1908.",
+    "Context": "This case involves a dispute over the revocation of a building permit. The court is asked to decide whether to grant a stay of the revocation pending the outcome of the case."
+  },
+  {
+    "Query": "A company is facing a hostile takeover bid by a competitor. The company seeks a temporary injunction to prevent the takeover pending the outcome of the case, arguing that the bid is unfair and detrimental to its shareholders. The court must decide whether to grant the injunction, considering the complex factors involved in corporate transactions.",
+    "Legal Principles": "Company Law; Takeover Regulations; Injunction; Interim Relief; Shareholders' Rights; Corporate Governance",
+    "Relevant Sections": "Companies Act, 2013; Securities and Exchange Board of India (SEBI) Act, 1992; Code of Civil Procedure, 1908.",
+    "Context": "This case involves a dispute over a hostile takeover bid. The court is asked to decide whether to grant an injunction to prevent the takeover pending the outcome of the case."
+  },
+  {
+    "Query": "Two parties entered into a joint venture agreement to develop a new technology. A dispute arose over intellectual property rights and one party terminated the agreement. The other party seeks to enforce the agreement and prevent the termination. The court must decide whether to grant an injunction to prevent the termination pending the outcome of the case.",
+    "Legal Principles": "Joint Ventures; Intellectual Property Law; Breach of Contract; Termination of Agreement; Injunction; Interim Relief",
+    "Relevant Sections": "Indian Contract Act, 1872; Patents Act, 1970; Designs Act, 2000; Copyright Act, 1957; Code of Civil Procedure, 1908.",
+    "Context": "This case involves a dispute over a joint venture agreement. The court is asked to decide whether to grant an injunction to prevent the termination of the agreement pending the outcome of the case."
+  },
+  {
+    "Query": "A bank granted a loan to a company but later demanded immediate repayment based on an alleged default. The company claims the demand is wrongful and seeks a temporary injunction to prevent the bank from recovering the loan while the case is pending. The court must decide whether to grant the injunction, considering the potential for irreparable harm to the company.",
+    "Legal Principles": "Banking Law; Loan Agreements; Default; Injunction; Interim Relief; Financial Distress",
+    "Relevant Sections": "Banking Regulation Act, 1949; The Recovery of Debts Due to Banks and Financial Institutions Act, 1993; Code of Civil Procedure, 1908.",
+    "Context": "This case involves a dispute between a bank and a borrower over a loan agreement. The court is asked to decide whether to grant an injunction to prevent the bank from recovering the loan pending the outcome of the case."
+  },
+  {
+    "Query": "A government agency awarded a contract to a company, but another company challenged the award claiming irregularities in the bidding process. The challenging company seeks a temporary injunction to halt the contract until the case is resolved. The court must decide whether to grant the injunction, considering the public interest involved in government contracts.",
+    "Legal Principles": "Public Procurement; Government Contracts; Judicial Review; Injunction; Interim Relief; Public Interest",
+    "Relevant Sections": "The Right to Information Act, 2005; The Public Procurement (Regulation) Act, 2017; Code of Civil Procedure, 1908.",
+    "Context": "This case involves a dispute over a government contract award. The court is asked to decide whether to grant an injunction to halt the contract pending the outcome of the case."
+  },
+  {
+    "Query": "A software developer created a new program and claimed copyright protection. A competitor launched a similar program, leading to accusations of infringement. The developer seeks a preliminary injunction to prevent the competitor from distributing its program until the case is resolved. The court must decide whether to grant the injunction, balancing the developer's copyright rights against the competitor's business interests.",
+    "Legal Principles": "Copyright Law; Infringement; Preliminary Injunction; Balance of Convenience; Intellectual Property Protection",
+    "Relevant Sections": "Copyright Act, 1957; Code of Civil Procedure, 1908.",
+    "Context": "This case involves a dispute over copyright infringement. The court is asked to decide whether to grant an injunction to prevent the competitor from distributing its program pending the outcome of the case."
+  }
+]
+```

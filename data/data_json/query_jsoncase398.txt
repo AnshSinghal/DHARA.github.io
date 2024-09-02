@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A company files an arbitration petition against another company seeking damages for breach of contract. The defendant company applies for an interim order to attach the plaintiff's bank accounts under Section 9 of the Arbitration and Conciliation Act, 1996. The Commercial Court grants an ad-interim order but fails to include all the requested accounts. The defendant appeals the order to the High Court, which subsequently dismisses the appeal on grounds of maintainability. The defendant then files a review petition. What are the grounds on which the review petition can be allowed?",
+    "Legal Principles": "The review petition can be allowed on the grounds of maintainability of the appeal under Section 13(1) of the Commercial Courts Act, 2015, the scope of interim relief under Section 9 of the Arbitration and Conciliation Act, 1996, and the power of the High Court to review its own judgment under Order XLVII, Rule 1 of the Code of Civil Procedure, 1908.",
+    "Relevant Sections": "Section 9 of the Arbitration and Conciliation Act, 1996, Section 13(1) of the Commercial Courts Act, 2015, Order XLVII, Rule 1 of the Code of Civil Procedure, 1908.",
+    "Context": "Jurisdiction: Kerala High Court; Case Type: Review Petition"
+  },
+  {
+    "Query": "A landlord files a suit for eviction against a tenant for non-payment of rent. The tenant files a counterclaim seeking damages for breach of the lease agreement. The trial court dismisses the suit and allows the counterclaim. The landlord appeals the judgment to the High Court, which dismisses the appeal on grounds of maintainability. The landlord then files a review petition. What are the grounds on which the review petition can be allowed?",
+    "Legal Principles": "The review petition can be allowed on the grounds of maintainability of the appeal under the relevant appellate jurisdiction, the validity of the trial court's decision on the eviction suit and the counterclaim, and the power of the High Court to review its own judgment under Order XLVII, Rule 1 of the Code of Civil Procedure, 1908.",
+    "Relevant Sections": "Order XLVII, Rule 1 of the Code of Civil Procedure, 1908, relevant provisions regarding jurisdiction of appellate courts.",
+    "Context": "Jurisdiction: Kerala High Court; Case Type: Review Petition"
+  },
+  {
+    "Query": "A husband files a divorce petition against his wife alleging cruelty and adultery. The wife files a counterclaim seeking maintenance and restitution of conjugal rights. The trial court grants divorce and dismisses the wife's counterclaim. The wife appeals the judgment to the High Court, which dismisses the appeal on grounds of maintainability. The wife then files a review petition. What are the grounds on which the review petition can be allowed?",
+    "Legal Principles": "The review petition can be allowed on the grounds of maintainability of the appeal under the relevant appellate jurisdiction, the validity of the trial court's decision on the divorce petition and the wife's counterclaim, and the power of the High Court to review its own judgment under Order XLVII, Rule 1 of the Code of Civil Procedure, 1908.",
+    "Relevant Sections": "Order XLVII, Rule 1 of the Code of Civil Procedure, 1908, relevant provisions regarding jurisdiction of appellate courts.",
+    "Context": "Jurisdiction: Kerala High Court; Case Type: Review Petition"
+  },
+  {
+    "Query": "A bank files a suit against a borrower for recovery of loan dues. The borrower files a counterclaim alleging that the bank misrepresented the terms of the loan agreement. The trial court dismisses the suit and allows the counterclaim. The bank appeals the judgment to the High Court, which dismisses the appeal on grounds of maintainability. The bank then files a review petition. What are the grounds on which the review petition can be allowed?",
+    "Legal Principles": "The review petition can be allowed on the grounds of maintainability of the appeal under the relevant appellate jurisdiction, the validity of the trial court's decision on the suit for recovery and the borrower's counterclaim, and the power of the High Court to review its own judgment under Order XLVII, Rule 1 of the Code of Civil Procedure, 1908.",
+    "Relevant Sections": "Order XLVII, Rule 1 of the Code of Civil Procedure, 1908, relevant provisions regarding jurisdiction of appellate courts.",
+    "Context": "Jurisdiction: Kerala High Court; Case Type: Review Petition"
+  },
+  {
+    "Query": "A person is accused of theft and arrested. The police file a chargesheet before the magistrate. The magistrate takes cognizance of the offence and frames charges against the accused. The accused pleads not guilty and the trial commences. The trial court convicts the accused and sentences him to imprisonment. The accused appeals the judgment to the High Court. What are the grounds on which the appeal can be allowed?",
+    "Legal Principles": "The appeal can be allowed on the grounds of errors of law or fact in the trial court's judgment, insufficiency of evidence, violation of the accused's rights during the trial, and the severity of the sentence imposed.",
+    "Relevant Sections": "Relevant provisions of the Criminal Procedure Code, 1973, dealing with appeals against convictions.",
+    "Context": "Jurisdiction: Kerala High Court; Case Type: Criminal Appeal"
+  },
+  {
+    "Query": "A person is accused of causing hurt to another person. The police file a chargesheet before the magistrate. The magistrate takes cognizance of the offence and frames charges against the accused. The accused pleads not guilty and the trial commences. The trial court acquits the accused. The prosecution appeals the judgment to the High Court. What are the grounds on which the appeal can be allowed?",
+    "Legal Principles": "The appeal can be allowed on the grounds of errors of law or fact in the trial court's judgment, sufficiency of evidence to establish the guilt of the accused, violation of the principles of natural justice during the trial, and the incorrect application of the law.",
+    "Relevant Sections": "Relevant provisions of the Criminal Procedure Code, 1973, dealing with appeals against acquittals.",
+    "Context": "Jurisdiction: Kerala High Court; Case Type: Criminal Appeal"
+  },
+  {
+    "Query": "A company files a suit for recovery of money against another company. The defendant company files a counterclaim alleging that the plaintiff company breached the contract. The trial court dismisses the suit and allows the counterclaim. The plaintiff company appeals the judgment to the High Court, which dismisses the appeal on grounds of maintainability. The plaintiff company then files a review petition. What are the grounds on which the review petition can be allowed?",
+    "Legal Principles": "The review petition can be allowed on the grounds of maintainability of the appeal under the relevant appellate jurisdiction, the validity of the trial court's decision on the suit for recovery and the defendant's counterclaim, and the power of the High Court to review its own judgment under Order XLVII, Rule 1 of the Code of Civil Procedure, 1908.",
+    "Relevant Sections": "Order XLVII, Rule 1 of the Code of Civil Procedure, 1908, relevant provisions regarding jurisdiction of appellate courts.",
+    "Context": "Jurisdiction: Kerala High Court; Case Type: Review Petition"
+  },
+  {
+    "Query": "A person is accused of driving under the influence of alcohol. The police file a chargesheet before the magistrate. The magistrate takes cognizance of the offence and frames charges against the accused. The accused pleads not guilty and the trial commences. The trial court convicts the accused and sentences him to imprisonment. The accused appeals the judgment to the High Court. What are the grounds on which the appeal can be allowed?",
+    "Legal Principles": "The appeal can be allowed on the grounds of errors of law or fact in the trial court's judgment, insufficiency of evidence to establish the guilt of the accused, violation of the accused's rights during the trial, and the severity of the sentence imposed.",
+    "Relevant Sections": "Relevant provisions of the Motor Vehicles Act, 1988, dealing with offences related to driving under the influence of alcohol, and relevant provisions of the Criminal Procedure Code, 1973, dealing with appeals against convictions.",
+    "Context": "Jurisdiction: Kerala High Court; Case Type: Criminal Appeal"
+  },
+  {
+    "Query": "A person is accused of assault. The police file a chargesheet before the magistrate. The magistrate takes cognizance of the offence and frames charges against the accused. The accused pleads not guilty and the trial commences. The trial court acquits the accused. The prosecution appeals the judgment to the High Court. What are the grounds on which the appeal can be allowed?",
+    "Legal Principles": "The appeal can be allowed on the grounds of errors of law or fact in the trial court's judgment, sufficiency of evidence to establish the guilt of the accused, violation of the principles of natural justice during the trial, and the incorrect application of the law.",
+    "Relevant Sections": "Relevant provisions of the Indian Penal Code, 1860, dealing with offences related to assault, and relevant provisions of the Criminal Procedure Code, 1973, dealing with appeals against acquittals.",
+    "Context": "Jurisdiction: Kerala High Court; Case Type: Criminal Appeal"
+  },
+  {
+    "Query": "A tenant is facing eviction proceedings initiated by the landlord. The tenant claims that the landlord violated the terms of the lease agreement and seeks damages. The tenant files an application for interim relief under Section 9 of the Arbitration and Conciliation Act, 1996, seeking to restrain the eviction proceedings. The Commercial Court grants an ad-interim order but the landlord appeals the order to the High Court. The High Court dismisses the appeal and the landlord files a review petition. What are the grounds on which the review petition can be allowed?",
+    "Legal Principles": "The review petition can be allowed on the grounds of maintainability of the appeal under Section 13(1) of the Commercial Courts Act, 2015, the scope of interim relief under Section 9 of the Arbitration and Conciliation Act, 1996, and the power of the High Court to review its own judgment under Order XLVII, Rule 1 of the Code of Civil Procedure, 1908.",
+    "Relevant Sections": "Section 9 of the Arbitration and Conciliation Act, 1996, Section 13(1) of the Commercial Courts Act, 2015, Order XLVII, Rule 1 of the Code of Civil Procedure, 1908.",
+    "Context": "Jurisdiction: Kerala High Court; Case Type: Review Petition"
+  }
+]
+```

@@ -1,0 +1,169 @@
+## Case Title
+
+* **Case Name:** Lord Sai Maa Pvt Ltd Thr Director ... vs Hotel Goradias Pvt Ltd Thr Priti ...
+* **Court:** Bombay High Court, Bench at Aurangabad
+* **Date of Judgment:** 7 May, 2021
+* **Citation:** Comm.Apeal 1 & 2 - 2021
+
+## Background and Context
+
+**Brief Overview:**
+
+This case involved a dispute between Lord Sai Maa Pvt. Ltd. (the Appellant) and Hotel Goradias Pvt. Ltd. (the Respondent). The Respondent, owner of a hotel in Shirdi, had leased it to the Appellant under a leave and license agreement in 2015. The agreement outlined various terms, including a security deposit, renovation expenses, and monthly rent. The agreement expired in 2019, but the Appellant continued to occupy the hotel, leading to a dispute about possession, settlement of accounts, and payment of arrears.
+
+**Key Issues:**
+
+* **Jurisdiction:** Whether the Commercial Court had jurisdiction to hear the case, considering the nature of the dispute and potential application of the Maharashtra Rent Control Act, 1999.
+* **Maintainability:** Whether the suit was maintainable before the Commercial Court, considering the alleged non-compliance with Section 12-A of the Commercial Courts Act, 2015, which mandates pre-institution mediation.
+* **Interim Injunction:** Whether the Commercial Court was justified in granting an interim mandatory injunction, directing the Appellant to vacate the hotel premises.
+* **Limitation:** Whether the Respondent's claim for possession was barred by the limitation period under the Limitation Act, 1963.
+
+## Legal Principles Involved
+
+**Relevant Statutes and Provisions:**
+
+* **Commercial Courts Act, 2015:** 
+    * Section 2 (c) (i) & (vii): Definition of commercial dispute
+    * Section 3: Exclusions from the Act based on share capital of companies
+    * Section 11: Jurisdiction of the Commercial Court
+    * Section 12-A: Mandatory pre-institution mediation
+* **Maharashtra Rent Control Act, 1999:** 
+    * Section 3: Applicability based on share capital of companies
+    * Section 47: Bar on granting injunctions
+    * Section 49: Appointment of competent authority 
+    * Section 51: Deemed civil court status of competent authority
+* **Specific Relief Act, 1963:** 
+    * Section 39: Power to grant interim injunctions
+    * Section 41:  Limitations on granting injunctions based on delay
+* **Code of Civil Procedure:** 
+    * Order XXXIX, Rule 1 & 2: Powers of the court to grant interim injunctions
+* **Limitation Act, 1963:** 
+    * Article 113: Limitation period for suits for possession
+
+**Precedents Cited:**
+
+* Royal Orchid Hotels Ltd. Vs. Rock Realty Pvt. Ltd.
+* Mahadev P Kambekar (D) TR. LRs., Vs. Shree Krishna Woolen Mills Pvt. Ltd.
+* Dorab Cawasji Warden vs. Coomi Sorab Warden & Ors.
+* Kishore Kumar and Ors., vs. Parveen Kumar Singh
+* Metro Marins & Anr. Vs. Bonus Watch Co. Pvt. Ltd. & Ors.
+* Ganga Taro Vazirani Vs. Deepak Raheja
+* Sathyam Wood Industries Vs. Adoniss (P) Ltd., and anr. 
+* GSD Constructions Pvt. Ltd., Vs. Balaji Febtech Engineering Pvt. Ltd.
+* Terai Overseas Private Limited & Ors. Vs. Kejriwal Sugar Agencies Private Limited & Ors.
+* M/s Amit Motorcycles Pvt. Ltd., Vs. M/s Axis Bank Ltd.
+* Deoraj Vs. State of Maharashtra and ors.
+* Sanjeev Pillai Vs. Venu Kunnapalli 
+* Saregama India Limited Vs. Balaji Motion Pictures Limited & Ors.
+* Kirtibhai Vs. Raghuram
+
+**Legal Doctrines:**
+
+* **Jurisdictional Challenge:**  The principle that a party cannot raise jurisdictional objections for the first time in appeal if they did not raise them before the trial court.
+* **Waiver:**  A party can be deemed to have waived a right or objection if they fail to raise it at the appropriate time.
+* **Mandatory vs. Directory Provisions:**  The distinction between legal provisions that are strictly required (mandatory) and those that are merely suggestions (directory).
+* **Interim Mandatory Injunction:** The principle that interim mandatory injunctions should be granted sparingly and only in exceptional circumstances, particularly when the suit itself concerns possession.
+* **Status Quo:** The principle that an interim injunction aims to maintain the situation as it existed at the time of the suit, not to change it.
+* **Equitable Relief:** The court's power to grant relief based on fairness and justice, even when strict legal rules might not apply.
+
+## Arguments Presented
+
+**Plaintiff’s Argument:**
+
+* The Respondent (plaintiff) argued that the dispute was a commercial dispute within the jurisdiction of the Commercial Court. 
+* They asserted that the Appellant, a company with a share capital exceeding Rs.2 Crore, was not covered by the Maharashtra Rent Control Act, 1999.
+* The Respondent emphasized that the Appellant had failed to pay license fees for several months, leading to significant arrears.
+* They claimed that the Appellant's continued occupation of the hotel was illegal and detrimental to the Respondent's financial interests.
+* The Respondent argued that the suit was not barred by limitation, as it was for possession and not for a specific injunction.
+* They defended the granting of the interim mandatory injunction, stating that it was necessary to protect their rights and prevent further financial loss.
+
+**Defendant’s Argument:**
+
+* The Appellant (defendant) argued that the Commercial Court lacked jurisdiction to hear the case, as the Maharashtra Rent Control Act, 1999, provided for a specific dispute resolution mechanism through a competent authority.
+* They claimed that the Respondent was not entitled to equitable relief of injunction due to the delay in filing the suit.
+* The Appellant argued that the interim mandatory injunction amounted to granting a final relief at an interim stage, which was inappropriate.
+* They claimed that the suit was defective because of the Respondent's failure to comply with the mandatory pre-institution mediation requirement of Section 12-A of the Commercial Courts Act, 2015.
+* The Appellant argued that the Respondent's claim was barred by the limitation period under the Limitation Act, 1963.
+
+## Court’s Analysis and Reasoning
+
+**Key Findings:**
+
+* The court found that the Appellant's objection about the Commercial Court's jurisdiction was untenable, as the Appellant had initially accepted the transfer of the suit to the Commercial Court and had contested the case on its merits.
+* The court ruled that the provisions of Section 12-A of the Commercial Courts Act, 2015, were directory, not mandatory, and that the Appellant had waived their right to raise this objection by not raising it before the trial court. 
+* The court found that the Appellant's objection regarding the suit being barred by limitation was misconstrued, as the suit was for possession, not for a specific injunction.
+* The court recognized that the Appellant had spent a significant sum on renovations, but also found that the Respondent had paid Rs.1,20,00,000/- towards renovations in advance.
+* The court acknowledged that the Appellant had been enjoying the benefits of occupying the hotel, but found that the Respondent was entitled to receive the agreed-upon license fees.
+
+**Interpretation of Law:**
+
+* The court interpreted the Commercial Courts Act, 2015, to establish that the Commercial Court had jurisdiction to hear disputes involving commercial transactions. 
+* The court interpreted the Maharashtra Rent Control Act, 1999, to apply only to companies with share capital less than Rs.1 Crore, thus not applicable in this case.
+* The court interpreted Section 12-A of the Commercial Courts Act, 2015, to be directory, not mandatory, allowing for exceptions based on circumstances.
+* The court interpreted the Limitation Act, 1963, to apply differently to suits for possession, requiring a different approach to limitation.
+* The court interpreted the concept of interim mandatory injunctions to apply strictly, only in cases where exceptional circumstances justified their use.
+
+**Application of Law:**
+
+* The court applied the principles of jurisdictional challenge to determine that the Appellant could not raise objections regarding the Commercial Court's jurisdiction at an appellate stage.
+* The court applied the doctrine of waiver to dismiss the Appellant's argument regarding non-compliance with Section 12-A of the Commercial Courts Act, 2015.
+* The court applied the relevant provisions of the Limitation Act, 1963, to determine that the Respondent's suit for possession was not barred by limitation.
+* The court applied the principles of interim mandatory injunctions to determine that the granting of the injunction was not appropriate in this case, as it essentially granted a final relief at an interim stage.
+
+## Judgment
+
+**Final Decision:**
+
+* The court modified the Commercial Court's order regarding the interim mandatory injunction.
+
+**Relief Granted:**
+
+* The Appellant was ordered to deposit Rs.4 Crores within six weeks from the date of the order.
+* The Appellant was directed to continue paying the regular license fees of Rs.14,25,000/- per month until the final decision of the Commercial Suit.
+* The Respondent was entitled to withdraw the amount deposited by the Appellant in the trial court.
+
+**Orders:**
+
+* The court ordered the Appellant to comply with the revised order regarding payment and continued license fees.
+* The court ruled that the Respondent could proceed with execution proceedings if the Appellant failed to comply with the court's orders.
+* The court did not pass any order regarding the temporary injunction application, allowing it to stand filed.
+
+## Implications
+
+**Impact on Law:**
+
+* The judgment clarifies the scope of jurisdiction of the Commercial Court, affirming its competence to hear commercial disputes, even those potentially related to the Maharashtra Rent Control Act, 1999, under specific circumstances.
+* The judgment reaffirms the principle that mandatory pre-institution mediation under Section 12-A of the Commercial Courts Act, 2015, is directory, not mandatory, with exceptions based on circumstances.
+
+**Future Relevance:**
+
+* The case sets a precedent for future cases involving similar disputes, highlighting the need for a careful analysis of the specific facts and legal provisions applicable to the dispute.
+* The case emphasizes the need for parties to raise jurisdictional objections promptly and to address the requirements of pre-institution mediation at the appropriate stage to avoid potential pitfalls.
+
+**Broader Context:**
+
+* The case highlights the importance of carefully drafting lease agreements and leave and license agreements to avoid potential disputes and to ensure clarity regarding payment obligations and termination provisions.
+* The case demonstrates the potential consequences of neglecting payment obligations and the need for parties to take proactive measures to protect their interests and address disputes effectively.
+
+## Summary Points
+
+* The Bombay High Court modified the interim mandatory injunction order of the Commercial Court, requiring the Appellant to pay Rs.4 Crores and continue paying license fees.
+* The court emphasized that the Commercial Court had jurisdiction over the commercial dispute, even though the Appellant argued for the applicability of the Maharashtra Rent Control Act, 1999.
+* The court affirmed that Section 12-A of the Commercial Courts Act, 2015, regarding pre-institution mediation, is directory, not mandatory, and that the Appellant had waived this objection.
+* The court stressed the need for parties to raise objections and address legal requirements at the appropriate stage to avoid potential complications.
+
+## References
+
+* **Commercial Courts Act, 2015**
+* **Maharashtra Rent Control Act, 1999**
+* **Specific Relief Act, 1963**
+* **Code of Civil Procedure**
+* **Limitation Act, 1963**
+* All cases cited in the judgment
+
+**Further Reading:**
+
+* **Commercial Courts Act, 2015: A Comprehensive Guide** by [Author Name]
+* **The Maharashtra Rent Control Act, 1999: A Commentary** by [Author Name]
+* **Law of Injunctions in India** by [Author Name]
+* **Landlord-Tenant Disputes: A Practical Guide** by [Author Name] 

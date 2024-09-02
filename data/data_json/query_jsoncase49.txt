@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A company terminated its distributorship agreement with another company, alleging the sale of counterfeit goods. The terminated company filed a suit for wrongful termination and damages, while the terminating company filed a suit for passing off.  Can the terminated company appeal the order denying their request to produce documents in the passing off suit?",
+    "Legal Principles": "Right to appeal is a vested right that accrues upon the institution of the original action, protected from retrospective operation unless explicitly stated or implied.  The right to appeal against orders is a substantive right governed by the law prevailing at the time of the suit's commencement.",
+    "Relevant Sections": "Sec. 13(2) of the Commercial Courts Act, 2015: 'Notwithstanding anything contained in any other law for the time being in force or Letters Patent of a High Court, no appeal shall lie from any order or decree of a Commercial Division or Commercial Court otherwise than in accordance with the provisions of this Act.'",
+    "Context": "Jurisdiction: Madras High Court. Case Type: Original Side Appeal challenging an order denying a request to produce documents in a passing off suit."
+  },
+  {
+    "Query": "A contractor seeks to appeal an order dismissing their application for an injunction preventing the owner from hiring another contractor. The injunction application was filed in a construction contract dispute where the owner breached the original agreement.",
+    "Legal Principles": "An interlocutory order, even if affecting a valuable right of a party, does not qualify as a 'judgment' for appeal under Clause 15 of the Letters Patent unless it possesses the characteristics of finality, directly and immediately affecting the party.",
+    "Relevant Sections": "Clause 15 of the Letters Patent.  Shah Babulal Khimji Vs.Jayaben D.Kania and Another [(1981)4 SCC 8]: Criteria for identifying 'judgments' under Clause 15.",
+    "Context": "Jurisdiction: Madras High Court. Case Type: Original Side Appeal challenging an interlocutory order dismissing an injunction application in a construction contract dispute."
+  },
+  {
+    "Query": "A company filed a suit for breach of contract against a supplier.  The supplier filed a counterclaim seeking damages for wrongful termination of the agreement. The court dismissed the company's application to strike out the supplier's counterclaim as frivolous and vexatious. Can the company appeal this order?",
+    "Legal Principles": "The right to appeal is limited to 'judgments' within the meaning of Clause 15 of the Letters Patent, which includes orders possessing finality in a broader sense, directly affecting a party's valuable right.",
+    "Relevant Sections": "Clause 15 of the Letters Patent. Shah Babulal Khimji Vs.Jayaben D.Kania and Another [(1981)4 SCC 8]: Criteria for identifying 'judgments' under Clause 15.",
+    "Context": "Jurisdiction: Madras High Court. Case Type: Original Side Appeal challenging an order refusing to strike out a counterclaim in a breach of contract suit."
+  },
+  {
+    "Query": "A landlord filed an eviction suit against a tenant, alleging violation of the lease agreement. The tenant filed a counterclaim for damages due to the landlord's failure to provide essential services.  The court granted the tenant's application for production of documents related to the landlord's maintenance records.  Can the landlord appeal this order?",
+    "Legal Principles": "Orders regulating the trial proceedings, such as granting a request for document production, do not constitute 'judgments' for appeal under Clause 15 of the Letters Patent unless they directly and immediately affect the party's right to action.",
+    "Relevant Sections": "Clause 15 of the Letters Patent. Shah Babulal Khimji Vs.Jayaben D.Kania and Another [(1981)4 SCC 8]: Criteria for identifying 'judgments' under Clause 15.",
+    "Context": "Jurisdiction: Madras High Court. Case Type: Original Side Appeal challenging an order granting a request for document production in an eviction suit."
+  },
+  {
+    "Query": "A bank filed a suit to recover a loan from a borrower. The borrower filed a counterclaim for damages due to the bank's alleged negligence in processing the loan.  The court granted the borrower's application to amend the counterclaim to include additional claims. Can the bank appeal this order?",
+    "Legal Principles": "Orders regulating the trial proceedings, such as granting permission to amend pleadings, do not constitute 'judgments' for appeal under Clause 15 of the Letters Patent unless they directly and immediately affect the party's right to action.",
+    "Relevant Sections": "Clause 15 of the Letters Patent. Shah Babulal Khimji Vs.Jayaben D.Kania and Another [(1981)4 SCC 8]: Criteria for identifying 'judgments' under Clause 15.",
+    "Context": "Jurisdiction: Madras High Court. Case Type: Original Side Appeal challenging an order granting permission to amend pleadings in a loan recovery suit."
+  },
+  {
+    "Query": "A software developer filed a copyright infringement suit against a competitor. The competitor filed a counterclaim for breach of contract. The court dismissed the developer's application to strike out the competitor's counterclaim as frivolous and vexatious. Can the developer appeal this order?",
+    "Legal Principles": "An order dismissing an application to strike out a counterclaim, while potentially affecting the developer's case, does not directly and immediately affect the right to action and does not qualify as a 'judgment' under Clause 15 of the Letters Patent.",
+    "Relevant Sections": "Clause 15 of the Letters Patent.  Shah Babulal Khimji Vs.Jayaben D.Kania and Another [(1981)4 SCC 8]: Criteria for identifying 'judgments' under Clause 15.",
+    "Context": "Jurisdiction: Madras High Court. Case Type: Original Side Appeal challenging an order refusing to strike out a counterclaim in a copyright infringement suit."
+  },
+  {
+    "Query": "A property owner filed a suit against a neighbor for trespass. The neighbor filed a counterclaim for damages due to the property owner's alleged interference with their property rights. The court granted the neighbor's application to examine the property owner as a witness. Can the property owner appeal this order?",
+    "Legal Principles": "Orders regulating the trial proceedings, such as granting permission to examine a witness, do not constitute 'judgments' for appeal under Clause 15 of the Letters Patent unless they directly and immediately affect the party's right to action.",
+    "Relevant Sections": "Clause 15 of the Letters Patent. Shah Babulal Khimji Vs.Jayaben D.Kania and Another [(1981)4 SCC 8]: Criteria for identifying 'judgments' under Clause 15.",
+    "Context": "Jurisdiction: Madras High Court. Case Type: Original Side Appeal challenging an order granting permission to examine a witness in a trespass suit."
+  },
+  {
+    "Query": "A business partner filed a suit against another partner for dissolution of the partnership. The other partner filed a counterclaim for breach of fiduciary duty. The court dismissed the partner's application to stay the dissolution proceedings pending the resolution of the counterclaim. Can the partner appeal this order?",
+    "Legal Principles": "An order refusing to stay proceedings, while potentially affecting the partner's strategy, does not directly and immediately affect the right to action and does not qualify as a 'judgment' under Clause 15 of the Letters Patent.",
+    "Relevant Sections": "Clause 15 of the Letters Patent.  Shah Babulal Khimji Vs.Jayaben D.Kania and Another [(1981)4 SCC 8]: Criteria for identifying 'judgments' under Clause 15.",
+    "Context": "Jurisdiction: Madras High Court. Case Type: Original Side Appeal challenging an order refusing to stay proceedings in a partnership dissolution suit."
+  },
+  {
+    "Query": "A customer filed a consumer complaint against a company for defective goods. The company filed a counterclaim for defamation due to the customer's public statements about the defect. The court dismissed the company's application to strike out the customer's complaint as frivolous and vexatious. Can the company appeal this order?",
+    "Legal Principles": "An order dismissing an application to strike out a complaint, while potentially affecting the company's case, does not directly and immediately affect the right to action and does not qualify as a 'judgment' under Clause 15 of the Letters Patent.",
+    "Relevant Sections": "Clause 15 of the Letters Patent.  Shah Babulal Khimji Vs.Jayaben D.Kania and Another [(1981)4 SCC 8]: Criteria for identifying 'judgments' under Clause 15.",
+    "Context": "Jurisdiction: Madras High Court. Case Type: Original Side Appeal challenging an order refusing to strike out a complaint in a consumer complaint suit."
+  },
+  {
+    "Query": "A tenant filed a suit against a landlord for breach of the lease agreement. The landlord filed a counterclaim for unpaid rent. The court granted the landlord's application to compel the tenant to provide financial records related to their ability to pay rent. Can the tenant appeal this order?",
+    "Legal Principles": "Orders regulating the trial proceedings, such as compelling the production of financial records, do not constitute 'judgments' for appeal under Clause 15 of the Letters Patent unless they directly and immediately affect the party's right to action.",
+    "Relevant Sections": "Clause 15 of the Letters Patent. Shah Babulal Khimji Vs.Jayaben D.Kania and Another [(1981)4 SCC 8]: Criteria for identifying 'judgments' under Clause 15.",
+    "Context": "Jurisdiction: Madras High Court. Case Type: Original Side Appeal challenging an order compelling the production of financial records in a lease agreement breach suit."
+  }
+]
+```

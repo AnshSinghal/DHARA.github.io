@@ -1,0 +1,100 @@
+## Case Title
+
+* **Case Name:** Arindam Chaudhuri vs Zest Systems Pvt Ltd & Anr 
+* **Court:** Delhi High Court
+* **Date of Judgment:** 10 September 2021
+* **Citation:** AIRONLINE 2021 DEL 1677
+
+## Background and Context
+
+**Brief Overview:** This case involved three separate commercial appeals challenging orders passed by a single judge in commercial causes. The appeals arose from different situations:
+
+* **Appeal 1 (FAO(OS)(COMM) No. 23/2020):** The plaintiff's right to file a replication and affidavit of admission/denial was closed by the Joint Registrar, and the Single Judge dismissed a Chamber Appeal against this decision.
+* **Appeal 2 (FAO(OS)(COMM) No. 17/2020):** The Single Judge rejected three issues proposed by the defendant, including an issue on limitation. The appeal focused solely on the disallowance of the limitation issue.
+* **Appeal 3 (FAO(OS)(COMM) No. 17/2020):** The Single Judge granted an application to amend the plaint.
+
+**Key Issues:**  The central legal question was whether these appeals were maintainable under Section 13 of the Commercial Courts, Commercial Division and Commercial Appellate Division of the High Courts Act, 2015 (Commercial Courts Act).  Specifically, the court had to determine if the impugned orders were appealable under Order XLIII of the Code of Civil Procedure (CPC), as the Act only allows appeals for orders specifically enumerated in Order XLIII.
+
+## Legal Principles Involved
+
+**Relevant Statutes and Provisions:**
+
+* **Commercial Courts Act, 2015:** Section 13(1), 13(1A), 13(2)
+* **Code of Civil Procedure (CPC), 1908:** Order XLIII
+* **Arbitration and Conciliation Act, 1996:** Section 37
+* **Delhi High Court Act**
+* **2018 Original Side Rules**
+
+**Precedents Cited:**
+
+* **D & H India Ltd. vs Superon Schweisstechnik India Ltd.** [FAO(OS)(COMM) No. 237/2019]
+* **Rahul Gupta Vs. Pratap Singh & Ors.** MANU/DE/4330/2013
+* **HPL (India) Limited and Ors. Vs. QRG Enterprises and Ors** MANU/DE/0347/2017
+* **Samsung Leasing Ltd. and Ors. Vs. Samsung Electronics Co. Ltd. And Ors.** MANU/DE/2107/2017
+* **Shah Babulal Khimji V. Jayaben D. Kania & Another,** AIR 1981 SC 1786
+* **Kandla Export Corporation & Ors. vs OCI Corporation &Ors.**, (2018) 14 SCC 715
+* **CIT v. Indo-Mercantile Bank Ltd.,** MANU/SC/0070/1959: 1959 Supp (2) SCR 256
+* **Abdul Jabar Butt v. State of Jammu & Kashmir** [MANU/SC/0017 1956: [(1957) SCR 51
+* **Ram Narain Sons Ltd. v. Assistant Commissioner of Sales Tax** [MANU/SC/0084 1955:[(1955) 2 SCR 483
+* **Madras & Southern Maharatta Railway Co. v. Bezwada Municipality** [MANU/PR/0060/1944 [(1944) LR 71 IA 113
+* **Corporation of City of Toronto v. Attorney-General for Canada** [(1946) AC 32
+
+**Legal Doctrines:**
+
+* **Interpretation of Statutes:**  The court applied the principles of statutory interpretation, particularly regarding the role of provisos in qualifying the generality of main enactments.
+* **Precedent:** The court discussed the weight of precedent and the obligation to follow decisions of higher courts, specifically the Supreme Court.
+
+## Arguments Presented
+
+**Appellants’ Argument:** The appellants relied on the decision in **D & H India Ltd. vs Superon Schweisstechnik India Ltd.**, which interpreted Section 13 of the Commercial Courts Act to allow appeals against all orders passed by Commercial Courts and Commercial Divisions, with the proviso regarding Order XLIII merely clarifying the scope of appeals.
+
+**Respondents’ Argument:** The respondents argued that the appeals were not maintainable because the impugned orders were not specifically appealable under Order XLIII of the CPC. They cited the Supreme Court's decision in **Kandla Export Corporation & Ors. vs OCI Corporation &Ors.**, which interpreted Section 13 of the Commercial Courts Act to allow appeals only from orders specifically enumerated in Order XLIII or Section 37 of the Arbitration Act.
+
+## Court’s Analysis and Reasoning
+
+**Key Findings:**
+
+* The court expressed doubts about the correctness of the **D & H India Ltd. vs Superon Schweisstechnik India Ltd.** judgment, finding that it expanded the scope of appealable orders beyond the intent of the Commercial Courts Act, which aimed for speedier resolution of commercial disputes.
+* The court recognized the Supreme Court's decision in **Kandla Export Corporation & Ors. vs OCI Corporation &Ors.** as a binding precedent, clarifying that the proviso to Section 13(1A) of the Commercial Courts Act serves as an exception to the general rule.
+
+**Interpretation of Law:** The court emphasized that the proviso to Section 13(1A) limited the right of appeal to orders specifically enumerated in Order XLIII or Section 37 of the Arbitration Act. They interpreted Section 13(2) to further restrict appeals to those defined by Section 13(1) and 13(1A), explicitly excluding appeals under Letters Patent.
+
+**Application of Law:** Applying these interpretations, the court found that the impugned orders in all three appeals did not fall within the scope of appealable orders under Order XLIII. 
+
+## Judgment
+
+**Final Decision:** The appeals were dismissed as not maintainable.
+
+**Relief Granted:** No relief was granted to the appellants.
+
+**Orders:** The court directed the Registry to register Appeal 1 as FAO (OS)(COMM) No. 23/2020, correcting a clerical error.
+
+## Implications
+
+**Impact on Law:** This judgment clarifies the interpretation of Section 13 of the Commercial Courts Act, affirming that the proviso to Section 13(1A) restricts appeals to those specified in Order XLIII or Section 37 of the Arbitration Act. It overrules the decision in **D & H India Ltd. vs Superon Schweisstechnik India Ltd.** and establishes a precedent for future cases.
+
+**Future Relevance:** This case will be significant for future appeals in commercial cases, particularly when challenging interlocutory orders passed in Commercial Courts and Commercial Divisions. 
+
+**Broader Context:** The court's emphasis on the purpose of the Commercial Courts Act – to expedite commercial disputes – highlights the importance of balancing the right to appeal with the need for efficiency in the legal process.
+
+## Summary Points
+
+* Appeals challenging interlocutory orders in commercial cases are only maintainable if the orders are specifically enumerated under Order XLIII of the CPC or Section 37 of the Arbitration Act.
+* The Supreme Court's interpretation of the proviso to Section 13(1A) of the Commercial Courts Act is binding precedent.
+* The **D & H India Ltd. vs Superon Schweisstechnik India Ltd.** judgment is no longer considered a correct interpretation of the Commercial Courts Act.
+* The judgment underscores the importance of judicial efficiency in commercial cases, emphasizing that appeals should not unnecessarily delay dispute resolution.
+
+## References
+
+**Citations:**
+
+* **Commercial Courts Act, 2015:** [Statutory Citation]
+* **Code of Civil Procedure (CPC), 1908:** [Statutory Citation]
+* **Arbitration and Conciliation Act, 1996:** [Statutory Citation]
+* **D & H India Ltd. vs Superon Schweisstechnik India Ltd.** [FAO(OS)(COMM) No. 237/2019]
+* **Kandla Export Corporation & Ors. vs OCI Corporation &Ors.**, (2018) 14 SCC 715
+
+**Further Reading:**
+
+* **Shah Babulal Khimji V. Jayaben D. Kania & Another,** AIR 1981 SC 1786 (for interpretation of "judgments")
+* Other cases concerning Section 13 of the Commercial Courts Act.

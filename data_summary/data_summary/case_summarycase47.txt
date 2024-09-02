@@ -1,0 +1,114 @@
+## 1. Case Title
+
+* **Case Name:** Amit Bansal Alias Amit Agarwal vs Csh Power Himoinsa Private Limited
+* **Court:** Delhi High Court
+* **Date of Judgment:** 14th September 2022
+* **Citation:**  Not provided in the text.
+
+## 2. Background and Context
+
+* **Brief Overview:** This case involves a dispute between CSH Power Himoinsa Private Limited (Plaintiff/Respondent) and Amit Bansal (Defendant/Petitioner), the proprietor of a proprietorship firm named M/s. Raj Power Projects (RPP). The Plaintiff filed a suit for recovery of ₹ 27,08,912/- against RPP, claiming that it had supplied goods to RPP's client, SRS Real Infrastructure Limited (SRS), under an agreement where RPP was obligated to raise invoices and release payments to the Plaintiff.
+* **Key Issues:** 
+    * Whether the Plaintiff was allowed to amend the memo of parties to replace the incorrect name of the proprietor of RPP (Tarun Sehgal) with the actual proprietor, Amit Bansal.
+    * Whether the amendment sought by the Plaintiff materially altered the cause of action in the suit.
+    * Whether the amendment would introduce a new cause of action that was barred by limitation.
+    * Whether the trial had commenced before the Plaintiff filed the application for amendment, thus preventing the amendment under the proviso to Order VI Rule 17 of the CPC.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * Code of Civil Procedure, 1908 (CPC)
+        * Order VI Rule 17:  Deals with amendment of pleadings.
+        * Order 1 Rule (2):  Allows the Court to add or remove parties from a suit.
+        * Order XV(A): Deals with case management in commercial courts.
+        * Order 18: Deals with the hearing of a suit and examination of witnesses.
+    * Constitution of India
+        * Article 227: Allows High Courts to supervise subordinate courts.
+    * Commercial Courts Act, 2015:  Amended provisions of the CPC for commercial courts. 
+* **Precedents Cited:**
+    * Sugandhi v. P. Raj Kumar (2020) 1 SCC 706
+    * Kailash v. Nanhku (2005) 4 SCC 480
+    * Ajendraprasadji N. Pande v. Swami Keshavprakeshdasji N. (2006) 12 SCC 1
+    * LIC v. Sanjeev Builders Pvt. Ltd. (2022) SCC OnLine SC 1128
+    * L.J. Leach & Co. Ltd. v. Jardine Skinner & Co. AIR 1957 SC 357
+    * T.N. Alloy Foundry Co. Ltd. v. T.N. Electricity Board (2004) 3 SCC 392
+    * Charan Das v. Amir Khan AIR 1921 PC 50
+    * Pirgonda Hongonda Patil v. Kalgonda Shidgonda Patil 1957 SCR 595
+    * Kisandas Rupchand v. Rachappa Vithoba Shilwant ILR (1909) 33 Bom 644
+    * Ganga Bai v. Vijay Kumar (1974) 2 SCC 393
+    * Ganesh Trading Co. v. Moji Ram (1978) 2 SCC 91
+    * South Konkan Distilleries v. Prabhakar Gajanan Naik (2008) 14 SCC 632
+    * A.K. Gupta & Sons Ltd. v. Damodar Valley Corporation AIR 1967 SC 96
+    * Weldon v. Neale (L.R.) 19 Q.B. 394
+    * G. Nagamma v. Siromanamma (1996) 2 SCC 25
+    * Pankaja v. Yellappa (dead) by lrs. (2004) 6 SCC 415
+    * Ragu Thilak D. John v. S. Rayappan (2001) 2 SCC 4
+    * Vishwambhar v. Laxminarayan (Dead) through Lrs. (2001) 6 SCC 163
+    * Vineet Kumar v. Mangal Sain Wadhera (1984) 3 SCC 352
+    * B.K. Narayana Pillai v. Parameshwaran Pillai (2000) 1 Supreme Court Cases 712
+    * Rajesh Kumar Aggarwal v. K.K. Modi (2006) 4 SCC 385
+    * Cooke v. Gill [L.R.] 26 Ch.D. 700
+    * Robinson v. Unicos Property Corpn. Ltd. (1962) 2 All ER 24
+    * Dornan v. J.W. Ellis and Co. Ltd. (1962) 1 All ER 303
+    * Mohinder Kumar Mehra v. Roop Rani Mehra (2018) 2 SCC 132
+    * Vidyabai v. Padmalatha (2009) 2 SCC 409
+* **Legal Doctrines:**
+    * **Liberality in Amendment:** The court should generally be liberal in allowing amendments to pleadings unless it would cause irreversible injustice to the opposing party.
+    * **Subserving Justice:** The primary objective of amendments is to promote justice and prevent unnecessary litigation.
+    * **Time Barred Amendments:** While courts generally disallow amendments introducing time-barred claims, it's not an absolute bar. The discretion rests with the court to allow such amendments in the interest of justice.
+    * **Commencement of Trial:** The timing of amendment applications is crucial, as they are generally prohibited after the trial begins. However, the Court defines "commencement of trial" based on specific actions, such as fixing dates for evidence recording.
+    * **Material Alteration:** Amendments that introduce entirely new causes of action or materially alter the original suit's basis are usually disallowed.
+
+## 4. Arguments Presented
+
+* **Plaintiff’s Argument:**
+    * The Plaintiff sought to amend the memo of parties to correct the name of RPP's proprietor, as they were initially unaware of the actual proprietor, Amit Bansal.
+    * The amendment did not alter the cause of action, which remained the recovery of dues from RPP.
+    * The amendment was necessary to ensure proper representation of the defendant firm and prevent any procedural delays. 
+* **Defendant’s Argument:**
+    * The amendment was filed after the trial had commenced, making it inadmissible under the proviso to Order VI Rule 17 of the CPC.
+    * The amendment materially altered the cause of action as it introduced a new defendant (Amit Bansal) against whom the original suit did not have a cause of action.
+    * The amendment introduced a time-barred claim against Amit Bansal.
+    * The suit was defective in its title, as it didn't mention the proprietor's name in the body of the plaint.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The Court found that the Plaintiff's intention was to correct an error in the memo of parties, not to introduce a new cause of action.
+    * The amendment did not materially alter the cause of action, as the suit remained against RPP. 
+    * The amendment was not barred by limitation, as it did not introduce a new cause of action. 
+    * The Court considered the precedents cited by the Defendant but found that they were distinguishable from the present case.
+    * The trial had not commenced in the context of the proviso to Order VI Rule 17, as the date for recording evidence had not been fixed.
+* **Interpretation of Law:** 
+    * The Court emphasized the liberal approach towards amendments under Order VI Rule 17 and the importance of ensuring justice and preventing unnecessary litigation.
+    * The Court clarified that the commencement of trial for the purpose of Order VI Rule 17 is determined by specific actions like fixing a date for evidence recording, not merely by framing issues. 
+    * The Court emphasized the concept of "cause of action" and how it relates to the underlying factual basis of the suit, not just the named parties.
+* **Application of Law:**
+    * The Court applied the principles of liberality towards amendments, considering that the amendment did not introduce a new cause of action or prejudice the Defendant.
+    * The Court applied the principle of subserving justice, finding that allowing the amendment would prevent unnecessary delays and lead to a more efficient resolution of the dispute.
+
+## 6. Judgment
+
+* **Final Decision:**  The petition filed by Amit Bansal was dismissed with costs. 
+* **Relief Granted:** The Court upheld the impugned order of the Commercial Court, allowing the Plaintiff to amend the memo of parties.
+* **Orders:** The Defendant was ordered to pay ₹ 50,000/- in costs to the Delhi High Court Legal Services Committee. 
+
+## 7. Implications
+
+* **Impact on Law:** The judgment reinforces the liberal approach taken towards amendments of pleadings, especially in cases where the amendment aims to correct a procedural error and does not introduce a new cause of action or prejudice the opposing party.
+* **Future Relevance:**  The case provides a useful precedent for determining when amendments can be allowed even after the framing of issues, but before evidence recording commences. It also clarifies the application of the "cause of action" principle in the context of amendments to pleadings.
+* **Broader Context:**  The case underscores the importance of ensuring that parties have the opportunity to correct procedural errors in their pleadings, while simultaneously promoting the efficient administration of justice. 
+
+## 8. Summary Points
+
+* The Plaintiff was allowed to amend the memo of parties to correct the name of RPP's proprietor.
+* The amendment did not materially alter the cause of action, as the suit remained against RPP.
+* The Court considered several precedents regarding amendments, but ultimately found that the present case was distinguishable.
+* The Court clarified that "commencement of trial" for the purpose of Order VI Rule 17 is determined by specific actions, not just framing issues.
+* The judgment emphasizes the importance of judicial efficiency and ensuring that procedural errors do not impede the resolution of disputes on their merits.
+
+## 9. References
+
+* This section should include the full citations for the precedents mentioned in the summary.  Unfortunately, the provided text does not include the full citations for the cases. 
+* Further Reading:  For a deeper understanding of the legal principles involved, you can research the cited cases in their entirety. You can also look into the broader topic of amendments to pleadings and the principles of procedural justice in civil litigation.
+

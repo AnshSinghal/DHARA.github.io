@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A business partner, Mr. X, claims that his former business partner, Ms. Y, has violated their partnership agreement by transferring company shares to a third party without his consent. Mr. X seeks an injunction to prevent further transfers and the enforcement of the agreement's terms regarding share transfer.",
+    "Legal Principles": "Contractual obligations, specific performance, injunctions, breach of contract, share transfer agreements, partnership agreements.",
+    "Relevant Sections": "Order XXXIX Rules 1 and 2 of the Code of Civil Procedure, 1908 (CPC), Section 16 (C) of the Specific Relief Act, Section 29 of the Contract Act, 1872",
+    "Context": "Commercial dispute, injunction application, breach of partnership agreement, share transfer, jurisdiction: India, High Court"
+  },
+  {
+    "Query": "A software developer, Mr. A, claims that a tech startup, TechCo, has failed to pay him royalties as per their agreement for a software program he developed. Mr. A is seeking a court order to enforce the royalty payment clause in their agreement.",
+    "Legal Principles": "Contractual obligations, royalty agreements, breach of contract, enforcement of contracts, intellectual property rights.",
+    "Relevant Sections": "Order XXXIX Rules 1 and 2 of the Code of Civil Procedure, 1908 (CPC), Section 16 (C) of the Specific Relief Act",
+    "Context": "Commercial dispute, enforcement of royalty agreement, breach of contract, jurisdiction: India, High Court"
+  },
+  {
+    "Query": "A real estate developer, Mr. B, claims that a property buyer, Ms. C, has breached their purchase agreement by refusing to complete the purchase. Mr. B seeks an injunction to prevent Ms. C from selling the property to a third party and a court order to enforce the purchase agreement.",
+    "Legal Principles": "Contractual obligations, purchase agreements, breach of contract, specific performance, injunctions, real estate law.",
+    "Relevant Sections": "Order XXXIX Rules 1 and 2 of the Code of Civil Procedure, 1908 (CPC), Section 16 (C) of the Specific Relief Act, Section 29 of the Contract Act, 1872",
+    "Context": "Real estate dispute, enforcement of purchase agreement, breach of contract, injunction application, jurisdiction: India, High Court"
+  },
+  {
+    "Query": "A construction company, BuildCo, claims that a client, Mr. D, has failed to pay outstanding construction costs as per their contract. BuildCo seeks a court order to enforce the payment clause in their contract.",
+    "Legal Principles": "Contractual obligations, construction contracts, breach of contract, enforcement of contracts, payment terms.",
+    "Relevant Sections": "Order XXXIX Rules 1 and 2 of the Code of Civil Procedure, 1908 (CPC), Section 16 (C) of the Specific Relief Act",
+    "Context": "Construction dispute, enforcement of construction contract, breach of contract, jurisdiction: India, High Court"
+  },
+  {
+    "Query": "A fashion designer, Ms. E, claims that a clothing manufacturer, GarCo, has infringed on her design copyright by copying her designs without her permission. Ms. E seeks an injunction to prevent further infringement and damages for copyright violation.",
+    "Legal Principles": "Copyright infringement, intellectual property rights, injunctions, damages, design copyright.",
+    "Relevant Sections": "Copyright Act, 1957 (India), Order XXXIX Rules 1 and 2 of the Code of Civil Procedure, 1908 (CPC)",
+    "Context": "Intellectual property dispute, copyright infringement, injunction application, damages claim, jurisdiction: India, High Court"
+  },
+  {
+    "Query": "A music producer, Mr. F, claims that a music streaming platform, StreamCo, has used his music without his permission and failed to pay him royalties. Mr. F seeks an injunction to stop the unauthorized use of his music and damages for copyright violation.",
+    "Legal Principles": "Copyright infringement, intellectual property rights, injunctions, damages, music copyright, licensing agreements.",
+    "Relevant Sections": "Copyright Act, 1957 (India), Order XXXIX Rules 1 and 2 of the Code of Civil Procedure, 1908 (CPC)",
+    "Context": "Intellectual property dispute, copyright infringement, injunction application, damages claim, jurisdiction: India, High Court"
+  },
+  {
+    "Query": "A publishing house, PubCo, claims that a bookstore, BookMart, has sold counterfeit copies of their books, violating their copyright. PubCo seeks an injunction to stop the sale of counterfeit books and damages for copyright violation.",
+    "Legal Principles": "Copyright infringement, intellectual property rights, injunctions, damages, book copyright, counterfeit goods.",
+    "Relevant Sections": "Copyright Act, 1957 (India), Order XXXIX Rules 1 and 2 of the Code of Civil Procedure, 1908 (CPC)",
+    "Context": "Intellectual property dispute, copyright infringement, injunction application, damages claim, jurisdiction: India, High Court"
+  },
+  {
+    "Query": "A software company, SoftCo, claims that a competitor, CompCo, has stolen their trade secrets and is using them to develop their own software product. SoftCo seeks an injunction to prevent CompCo from using the stolen trade secrets and damages for misappropriation.",
+    "Legal Principles": "Trade secret misappropriation, intellectual property rights, injunctions, damages, unfair competition.",
+    "Relevant Sections": "Trade Secrets Act, 1999 (India), Order XXXIX Rules 1 and 2 of the Code of Civil Procedure, 1908 (CPC)",
+    "Context": "Intellectual property dispute, trade secret misappropriation, injunction application, damages claim, jurisdiction: India, High Court"
+  },
+  {
+    "Query": "A technology company, TechCo, claims that a former employee, Mr. G, has breached his confidentiality agreement by disclosing company trade secrets to a competitor. TechCo seeks an injunction to prevent Mr. G from further disclosing confidential information and damages for breach of contract.",
+    "Legal Principles": "Confidentiality agreements, breach of contract, intellectual property rights, injunctions, damages.",
+    "Relevant Sections": "Order XXXIX Rules 1 and 2 of the Code of Civil Procedure, 1908 (CPC), Section 16 (C) of the Specific Relief Act",
+    "Context": "Employment dispute, breach of confidentiality agreement, injunction application, damages claim, jurisdiction: India, High Court"
+  },
+  {
+    "Query": "A pharmaceutical company, PharmCo, claims that a competitor, CompPharm, has infringed on their patent for a new drug. PharmCo seeks an injunction to prevent CompPharm from manufacturing and selling the infringing drug and damages for patent infringement.",
+    "Legal Principles": "Patent infringement, intellectual property rights, injunctions, damages, pharmaceutical patents.",
+    "Relevant Sections": "Patents Act, 1970 (India), Order XXXIX Rules 1 and 2 of the Code of Civil Procedure, 1908 (CPC)",
+    "Context": "Intellectual property dispute, patent infringement, injunction application, damages claim, jurisdiction: India, High Court"
+  }
+]
+```

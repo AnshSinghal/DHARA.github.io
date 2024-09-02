@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A company entered into an agreement to sell its shares in a property to another company. The buyer later mortgaged the property to a bank without the seller's consent. The seller is now seeking to declare the mortgage void and recover damages. Is the dispute a commercial dispute under the Commercial Courts Act, 2015?",
+    "Legal Principles": "Commercial dispute under the Commercial Courts Act, 2015, definition of commercial dispute, Section 2(1)(c) of the Act, agreements relating to immovable property used exclusively in trade or commerce.",
+    "Relevant Sections": "Section 2(1)(c) of the Commercial Courts Act, 2015",
+    "Context": "Commercial dispute, transfer of pending cases, jurisdiction of Commercial Courts, agreement for sale of shares in a property, mortgage of property without consent, declaration of mortgage void, damages."
+  },
+  {
+    "Query": "A company entered into a loan agreement with a bank. The company defaulted on the loan and the bank is seeking to recover the loan amount by enforcing a mortgage on the company's property. The company claims that the mortgage is invalid. Is the dispute a commercial dispute under the Commercial Courts Act, 2015?",
+    "Legal Principles": "Commercial dispute under the Commercial Courts Act, 2015, definition of commercial dispute, Section 2(1)(c) of the Act, loan agreements, enforcement of mortgage, validity of mortgage.",
+    "Relevant Sections": "Section 2(1)(c) of the Commercial Courts Act, 2015",
+    "Context": "Commercial dispute, transfer of pending cases, jurisdiction of Commercial Courts, loan agreement, default, enforcement of mortgage, validity of mortgage."
+  },
+  {
+    "Query": "A company entered into a contract with another company for the supply of goods. The supplier failed to deliver the goods as per the contract. The buyer is now seeking to recover damages from the supplier. Is the dispute a commercial dispute under the Commercial Courts Act, 2015?",
+    "Legal Principles": "Commercial dispute under the Commercial Courts Act, 2015, definition of commercial dispute, Section 2(1)(c) of the Act, contract for supply of goods, breach of contract, damages.",
+    "Relevant Sections": "Section 2(1)(c) of the Commercial Courts Act, 2015",
+    "Context": "Commercial dispute, transfer of pending cases, jurisdiction of Commercial Courts, contract for supply of goods, breach of contract, damages."
+  },
+  {
+    "Query": "A company entered into a joint venture agreement with another company. The joint venture failed and the parties are now in dispute over the division of assets and profits. Is the dispute a commercial dispute under the Commercial Courts Act, 2015?",
+    "Legal Principles": "Commercial dispute under the Commercial Courts Act, 2015, definition of commercial dispute, Section 2(1)(c) of the Act, joint venture agreement, division of assets and profits.",
+    "Relevant Sections": "Section 2(1)(c) of the Commercial Courts Act, 2015",
+    "Context": "Commercial dispute, transfer of pending cases, jurisdiction of Commercial Courts, joint venture agreement, division of assets and profits."
+  },
+  {
+    "Query": "A company issued shares to the public. A shareholder is now claiming that the company made false statements in its prospectus and is seeking to recover damages. Is the dispute a commercial dispute under the Commercial Courts Act, 2015?",
+    "Legal Principles": "Commercial dispute under the Commercial Courts Act, 2015, definition of commercial dispute, Section 2(1)(c) of the Act, issue of shares, prospectus, false statements, damages.",
+    "Relevant Sections": "Section 2(1)(c) of the Commercial Courts Act, 2015",
+    "Context": "Commercial dispute, transfer of pending cases, jurisdiction of Commercial Courts, issue of shares, prospectus, false statements, damages."
+  },
+  {
+    "Query": "A company entered into a franchise agreement with another company. The franchisee is now alleging that the franchisor breached the agreement and is seeking to terminate the franchise. Is the dispute a commercial dispute under the Commercial Courts Act, 2015?",
+    "Legal Principles": "Commercial dispute under the Commercial Courts Act, 2015, definition of commercial dispute, Section 2(1)(c) of the Act, franchise agreement, breach of agreement, termination of franchise.",
+    "Relevant Sections": "Section 2(1)(c) of the Commercial Courts Act, 2015",
+    "Context": "Commercial dispute, transfer of pending cases, jurisdiction of Commercial Courts, franchise agreement, breach of agreement, termination of franchise."
+  },
+  {
+    "Query": "A company is seeking to recover a debt from another company. The debtor is claiming that the debt is invalid and is seeking to have it set aside. Is the dispute a commercial dispute under the Commercial Courts Act, 2015?",
+    "Legal Principles": "Commercial dispute under the Commercial Courts Act, 2015, definition of commercial dispute, Section 2(1)(c) of the Act, recovery of debt, validity of debt.",
+    "Relevant Sections": "Section 2(1)(c) of the Commercial Courts Act, 2015",
+    "Context": "Commercial dispute, transfer of pending cases, jurisdiction of Commercial Courts, recovery of debt, validity of debt."
+  },
+  {
+    "Query": "A company is in dispute with a supplier over the quality of goods supplied. The buyer is seeking to return the goods and recover damages. Is the dispute a commercial dispute under the Commercial Courts Act, 2015?",
+    "Legal Principles": "Commercial dispute under the Commercial Courts Act, 2015, definition of commercial dispute, Section 2(1)(c) of the Act, supply of goods, quality of goods, return of goods, damages.",
+    "Relevant Sections": "Section 2(1)(c) of the Commercial Courts Act, 2015",
+    "Context": "Commercial dispute, transfer of pending cases, jurisdiction of Commercial Courts, supply of goods, quality of goods, return of goods, damages."
+  },
+  {
+    "Query": "A company is in dispute with a customer over a breach of contract. The company is seeking to recover damages from the customer. Is the dispute a commercial dispute under the Commercial Courts Act, 2015?",
+    "Legal Principles": "Commercial dispute under the Commercial Courts Act, 2015, definition of commercial dispute, Section 2(1)(c) of the Act, breach of contract, damages.",
+    "Relevant Sections": "Section 2(1)(c) of the Commercial Courts Act, 2015",
+    "Context": "Commercial dispute, transfer of pending cases, jurisdiction of Commercial Courts, breach of contract, damages."
+  },
+  {
+    "Query": "A company is seeking to enforce an arbitration award against another company. The respondent is challenging the validity of the award. Is the dispute a commercial dispute under the Commercial Courts Act, 2015?",
+    "Legal Principles": "Commercial dispute under the Commercial Courts Act, 2015, definition of commercial dispute, Section 2(1)(c) of the Act, enforcement of arbitration award, validity of award.",
+    "Relevant Sections": "Section 2(1)(c) of the Commercial Courts Act, 2015",
+    "Context": "Commercial dispute, transfer of pending cases, jurisdiction of Commercial Courts, enforcement of arbitration award, validity of award."
+  }
+]
+```

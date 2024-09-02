@@ -1,0 +1,100 @@
+## 1. Case Title
+
+* **Case Name:** Daxin Gujarat Vij Company Ltd Through ... vs Essar Steel India Ltd 
+* **Court:** Gujarat High Court
+* **Date of Judgment:** 24th February 2023
+* **Citation:** C/FA/3659/2021 CAV JUDGMENT DATED: 24/02/2023
+
+## 2. Background and Context
+
+* **Brief Overview:** The dispute arose between Daxin Gujarat Vij Company Ltd (DGVCL), an electricity supplier, and Essar Steel India Ltd (ESIL), a steel manufacturing company.  The dispute centered around unauthorized use of electricity by ESIL and its group companies, resulting in DGVCL claiming substantial unpaid dues. This led to a series of legal battles, including appeals to the Gujarat High Court and ultimately to the Supreme Court.  
+* **Key Issues:** 
+    * Whether ESIL's unauthorized use of electricity constituted a breach of the 2010 agreement between the parties.
+    * Whether DGVCL's claim for unpaid dues survived the approval of ESIL's resolution plan under the Insolvency and Bankruptcy Code (IBC).
+    * Whether the Commercial Court properly dismissed DGVCL's suit through a summary judgment under Order XIII A of the Code of Civil Procedure.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * The Electricity Act, 2003 (Sections 126, 127, 145)
+    * The Insolvency and Bankruptcy Code, 2016 (Sections 29, 30, 31, 60, 238)
+    * The Commercial Courts Act, 2015 (Order XIII A)
+    * The Code of Civil Procedure, 1908 (Order I Rule X, Order VII Rule XI, Section 151)
+    * The Limitation Act, 1963 (Section 9) 
+* **Precedents Cited:**
+    * Committee of Creditors of Essar Steel India Limited vs. Satish Kumar Gupta, reported in 2019 SCC Online 1478 (ESIL SC judgment)
+    * Ghanshyam Mishra vs. Edelweiss Asset Reconstruction Company, reported in (2021) 9 SCC 657
+    * Essar Steel Limited vs. State of Gujarat, reported in 2020 (8) SCC 531
+    * North Delhi Power Limited vs. Devinder Singh (Civil Appeal No.20842 of 2017)
+    * State Tax Officer (1) vs. Rainbow Papers Limited, reported in (2022) ibclaw.in 107 SC Civil Appeal No.1661 of 2020 With Civil Appeal No.2568 of 2020 (Rainbow Papers judgment)
+    * State of Gujarat vs. Arcelor Mittal Nippon Steel India Limited, reported in (2022) 6 SCC 459
+    * Tata Steel BSL Limited vs. Varsa, reported in 2019 6 MLR 682 (Bombay)
+    * Monsanto Technology Llc Thru The Authorised Representative Ms. Natalia Voruz & Others Vs. Nuziveedu Seeds Ltd. Thru The Director & Others, reported in (2019) 3 SCC 381
+    * Ambalal Sarabhai Enterprise vs. K.S. Infrastructure, reported in 2020 15 SCC 585
+* **Legal Doctrines:** 
+    * Res Judicata:  Prevents the relitigation of issues already decided by a court of competent jurisdiction.
+    * Extinguishment of Claims: Refers to the termination or cancellation of legal rights or obligations, often in the context of resolution plans under the IBC.
+    * Statutory Dues:  Payments owed by entities under specific laws, which may hold a special legal status.
+    * Summary Judgment: A procedure in civil cases where a court can issue a judgment without a full trial if there are no genuine issues of fact.
+
+## 4. Arguments Presented
+
+* **Appellant's Argument (DGVCL):**
+    * ESIL had breached the 2010 agreement by using DGVCL's electricity for its group companies, not just its own operations. 
+    * DGVCL's claim for unpaid dues is a "statutory due" and thus, not extinguished under ESIL's resolution plan.
+    * The Commercial Court erred by dismissing DGVCL's suit summarily under Order XIII A of the CPC without sufficient opportunity to contest.
+    * The ESIL SC judgment, while acknowledging DGVCL's claim, did not extinguish it. The notional amount of INR 1/- admitted in the resolution plan was merely for ensuring DGVCL's participation in the CIRP and not a final adjudication of its claim.
+    * The Rainbow Papers judgment supports DGVCL's position that statutory dues should not be waived under resolution plans. 
+* **Respondent's Argument (ESIL/Arcelor Mittal):**
+    * ESIL's resolution plan, approved by the NCLT, NCLAT, and the Supreme Court, extinguished all claims against the company, including DGVCL's claim.
+    * The ESIL SC judgment clearly established that the resolution plan creates a "fresh slate" for the new entity, ArcelorMittal, and that any pre-CIRP claims are extinguished. 
+    * DGVCL's claim, admitted at a notional value of INR 1/- in the resolution plan, implies it was fully settled.
+    * The Commercial Court was correct to dismiss DGVCL's suit under Order XIII A of the CPC as the claim lacked merit after the ESIL SC judgment.
+    * DGVCL's claim is barred by res judicata as it was already considered and adjudicated under the resolution plan.
+
+## 5. Court's Analysis and Reasoning
+
+* **Key Findings:**
+    * The court acknowledged the ESIL SC judgment's emphasis on the "fresh slate" principle and the extinguishment of pre-CIRP claims.
+    * However, the court also recognized that the ESIL SC judgment did not specifically address the issue of statutory dues.
+    * The court found that the Commercial Court's dismissal of DGVCL's suit through a summary judgment under Order XIII A of the CPC was premature and procedurally flawed.
+    * The court held that while the notional amount of INR 1/- admitted for DGVCL's claim in the resolution plan was not a final adjudication of the claim, it did not necessarily extinguish the entire claim.
+    * The court considered the Rainbow Papers judgment, which emphasized the importance of protecting statutory dues.
+* **Interpretation of Law:**
+    * The court interpreted the ESIL SC judgment as applying to claims generally, but not necessarily to statutory dues.
+    * The court interpreted Order XIII A of the CPC as requiring strict compliance with procedural safeguards to ensure a fair hearing and prevent premature dismissal of claims.
+    * The court interpreted the IBC as aiming to protect statutory dues while allowing for a fresh start for companies undergoing CIRP.
+* **Application of Law:**
+    * The court applied the "fresh slate" principle of the ESIL SC judgment to ESIL's obligations but distinguished statutory dues.
+    * The court applied the procedural requirements of Order XIII A of the CPC and found the Commercial Court's summary judgment to be procedurally defective.
+    * The court applied the principle of protecting statutory dues as outlined in the Rainbow Papers judgment.
+
+## 6. Judgment
+
+* **Final Decision:** The court allowed DGVCL's appeal and quashed the Commercial Court's summary judgment.
+* **Relief Granted:** The suit was remitted back to the Commercial Court for a full trial on merits. 
+* **Orders:** The Commercial Court was directed to conduct a fair and expeditious trial of the suit, considering all legal arguments and evidence presented by both sides.
+
+## 7. Implications
+
+* **Impact on Law:**
+    * This judgment clarifies that the "fresh slate" principle of the ESIL SC judgment does not automatically extinguish all pre-CIRP claims, particularly those related to statutory dues.
+    * The judgment emphasizes the importance of procedural fairness in summary judgments, reminding courts to ensure sufficient opportunity to contest claims.
+    * The judgment suggests a potential distinction between general pre-CIRP claims and statutory dues in the context of resolution plans.
+* **Future Relevance:** This judgment provides guidance for future cases involving statutory dues and resolution plans under the IBC. Courts may be more inclined to scrutinize summary judgments and ensure that statutory dues are adequately protected.
+* **Broader Context:** This judgment highlights the balancing act between protecting the rights of creditors (like DGVCL) and facilitating the successful rehabilitation of companies undergoing CIRP.
+
+## 8. Summary Points
+
+* DGVCL's claim for unpaid electricity dues was not automatically extinguished by ESIL's resolution plan.
+* Statutory dues may require special consideration under the IBC, and their protection may not be fully covered by the "fresh slate" principle.
+* Courts must follow procedural safeguards in summary judgments to ensure fairness and avoid premature dismissals.
+* This case reinforces the importance of protecting the rights of creditors, particularly when it comes to statutory dues, while acknowledging the objectives of the IBC.
+
+## 9. References
+
+* **Citations:** All cited statutes, cases, and legal texts are mentioned within the summary.
+* **Further Reading:** 
+    * The Insolvency and Bankruptcy Code, 2016
+    * The Commercial Courts Act, 2015
+    * Relevant case law on statutory dues and resolution plans under the IBC. 

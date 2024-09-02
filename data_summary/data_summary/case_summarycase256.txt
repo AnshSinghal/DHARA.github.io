@@ -1,0 +1,86 @@
+##  Bank Of India And Another vs M/S. Maruti Civil Works
+
+**1. Case Title**
+
+* **Case Name:** Bank Of India And Another vs M/S. Maruti Civil Works
+* **Court:** Bombay High Court
+* **Date of Judgment:** December 15, 2023
+* **Citation:** 2023:BHC-AS:37793-DB
+
+**2. Background and Context**
+
+* **Brief Overview:**  Maruti Civil Works (Plaintiff/Respondent), a partnership firm engaged in construction, filed a commercial suit against Bank of India (Defendant/Appellant) seeking recovery of Rs.100 crores + Rs.10,10,733/-  plus interest, alleging fraudulent invocation of the Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002 (SARFAESI Act) to seize their property.
+* **Key Issues:** 
+    * **Jurisdiction:** Whether the Commercial Court had jurisdiction to entertain the suit or if the case should have been filed before the Debt Recovery Tribunal (DRT).
+    * **Fraud:** Whether the Bank's actions constituted fraud under the SARFAESI Act. 
+
+**3. Legal Principles Involved**
+
+* **Relevant Statutes and Provisions:** 
+    * The Commercial Courts Act, 2015
+    * The Code of Civil Procedure, 1908 (CPC)
+    * The Recovery of Debts and Bankruptcy Act, 1993 
+    * The Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002 (SARFAESI Act) 
+* **Precedents Cited:**
+    * D & H India Ltd. Vs. Superon Schweisstechnik India Ltd. (268 (2020) Delhi Law Times 15 (DB) 
+    * Delhi Chemical and Pharmaceutical Works Pvt. Ltd. Vs. Himgiri Realtors Pvt. Ltd. and Another (2021 SCC Online Del 3603)
+    * Skil- Himachal Infrastructure & Tourism Ltd. & Ors. Vs IL and FS Financial Services Ltd. (2022 SCC Onine Bom 3152)
+    * Shailendra Bhadauria Vs. Matrix Partners India Investment Holdings LLC (2018 SCC OnLine Bom 13804)
+    * Hubtown Ltd. Vs. IDBI Trusteeship Services Ltd. (2016 SCC OnLine Bom 9019)
+    * Sigmarq Technologies Pvt. Ltd. Vs. Manugraph India Ltd. (2017 SCC OnLine Bom 9191)
+    * Kandla Export Corporation Vs. OCI Corporation (2018) 14 SCC 715
+* **Legal Doctrines:** 
+    * **Jurisdiction:** Determining the appropriate forum for legal disputes.
+    * **Res Judicata:** A legal doctrine preventing the re-litigation of issues already decided.
+    * **Non-obstante Clause:** A clause overriding other conflicting laws.
+
+**4. Arguments Presented**
+
+* **Plaintiff’s Argument:** 
+    * The Bank acted fraudulently by invoking the SARFAESI Act to seize the Plaintiff's property.
+    * The Plaintiff sought a declaration of fraud, along with other reliefs, which were beyond the scope of the DRT's jurisdiction.
+* **Defendant’s Argument:**
+    * The Plaintiff defaulted on loan repayments, leading to the invocation of the SARFAESI Act. 
+    * The DRT, not the Commercial Court, had jurisdiction over disputes between a borrower (Plaintiff) and a Bank (Defendant).
+    * The Plaintiff's claims of fraud were an attempt to avoid the DRT's jurisdiction.
+
+**5. Court’s Analysis and Reasoning**
+
+* **Key Findings:**
+    * The court examined the amended provisions of Section 13 of the Commercial Courts Act, 2015, particularly the proviso limiting appeals to orders enumerated in Order XLIII of the CPC.
+    * The court found that an order rejecting an application under Order VII Rule 10 or 11(d) of the CPC was not listed in Order XLIII, therefore, making the appeal non-maintainable.
+* **Interpretation of Law:**
+    * The court interpreted the "shall" and "specifically" terms in the proviso of Section 13 as limitations on appealability.
+    * The court differentiated the cases cited by the Defendant, highlighting the fact that the present appeal was against a decision by a Commercial Court under the Act of 2015, not by a Commercial Division of the High Court, as in the cited cases. 
+* **Application of Law:**
+    * The court applied the established legal principles concerning jurisdiction and the interpretation of statutory provisions.
+    * The court emphasized the need for a clear statutory basis for granting an appeal.
+
+**6. Judgment**
+
+* **Final Decision:** The appeal was dismissed as non-maintainable.
+* **Relief Granted:** No relief was granted to the Defendant.
+* **Orders:** The appeal and any interim applications were dismissed.
+
+**7. Implications**
+
+* **Impact on Law:**  The judgment reaffirms the strict interpretation of the proviso in Section 13 of the Commercial Courts Act, 2015, emphasizing the limited appealability of orders not explicitly enumerated in Order XLIII of the CPC. 
+* **Future Relevance:** This case serves as a precedent for future cases involving similar procedural issues and the interpretation of Section 13 of the Act of 2015.
+* **Broader Context:** The judgment highlights the importance of determining the correct forum for legal disputes and adhering to statutory provisions governing appeals.
+
+**8. Summary Points**
+
+* The appeal was dismissed because the order rejecting the application under Order VII Rule 10 and 11(d) of the CPC was not listed in Order XLIII, rendering the appeal non-maintainable under the Commercial Courts Act, 2015.
+* The court emphasized the strict interpretation of the "shall" and "specifically" terms in the proviso of Section 13, limiting appealability to enumerated orders.
+* The judgment highlights the importance of understanding the specific provisions governing appeals in commercial disputes.
+
+**9. References**
+
+* **Citations:** All the statutes, cases, and legal texts mentioned in the case have been provided in the relevant sections.
+* **Further Reading:** 
+    * The Commercial Courts Act, 2015
+    * The Code of Civil Procedure, 1908 (CPC) 
+    * The Recovery of Debts and Bankruptcy Act, 1993 
+    * The Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002 (SARFAESI Act) 
+
+This detailed summary provides a comprehensive overview of the Bank Of India And Another vs M/S. Maruti Civil Works case, including the relevant facts, legal principles, arguments, and the final judgment. It also highlights the implications of the judgment for future legal decisions and practice. 

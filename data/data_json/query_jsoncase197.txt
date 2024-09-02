@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A dispute arises between a power generating company and a distribution licensee regarding the billing of unscheduled interchange charges (UI charges). The generating company claims that the distribution licensee has wrongly billed UI charges based on a software developed after the event, arguing that the existing open access agreement should be used as the basis for billing. ",
+    "Legal Principles": "Arbitrability of disputes under the Electricity Act, 2003, and the applicability of special redressal mechanisms under the Electricity Act, 2003 and the related Regulations. The validity of contracts entered into under a mistake of law, and the doctrine of severability in contracts. The principle of estoppel in contracts and the concept of unconscionability in contracts.",
+    "Relevant Sections": "Section 16(2) and 16(3) of the Arbitration & Conciliation Act, 1996; Section 4 of the Arbitration & Conciliation Act, 1996; Section 34(2)(b)(i) of the Arbitration & Conciliation Act, 1996; Section 86(1)(f) of the Electricity Act, 2003; Section 2(28) and Section 2(17) of the Electricity Act, 2003; Section 42(2) and Section 181 of the Electricity Act, 2003; Section 182 of the Electricity Act, 2003; Section 158 of the Electricity Act, 2003; Section 21 and Section 23 of the Contract Act, 1872; Section 28(1)(a) and Section 28(3) of the Arbitration & Conciliation Act, 1996.",
+    "Context": "This case involves a dispute between a power generating company (operating a captive power plant) and a distribution licensee regarding billing of unscheduled interchange charges (UI charges) under the Electricity Act, 2003, and the related Open Access Regulations. The dispute concerns the validity and interpretation of the open access agreement and the applicability of a special redressal mechanism under the Regulations. The case involves principles of arbitrability, contract law, and the doctrine of estoppel."
+  },
+  {
+    "Query": "A construction company claims that the government agency it contracted with has wrongly terminated the contract based on an alleged breach of contract. The construction company argues that the termination is unlawful as the agency is estopped from terminating the contract due to its previous acceptance of the company's performance. ",
+    "Legal Principles": "Termination of contracts for breach, estoppel in contracts, principles of contract interpretation, and the doctrine of waiver.",
+    "Relevant Sections": "None specific, as the query relates to general principles of contract law.",
+    "Context": "This case involves a commercial dispute between a construction company and a government agency over the termination of a construction contract. The legal principles of estoppel and contract termination are at the heart of this dispute."
+  },
+  {
+    "Query": "A landlord seeks to evict a tenant who is allegedly in breach of the lease agreement by subletting the property without the landlord's permission. The tenant argues that the landlord's actions constitute a waiver of the lease provision prohibiting subletting, as the landlord had previously tolerated subletting by other tenants in the building.",
+    "Legal Principles": "Landlord-tenant law, breach of lease agreements, waiver in contracts, and the doctrine of implied consent.",
+    "Relevant Sections": "None specific, as the query relates to general principles of landlord-tenant law and contract law.",
+    "Context": "This case involves a landlord-tenant dispute related to the interpretation of a lease agreement and the concept of waiver in contracts. The dispute arises from the landlord's attempt to enforce a provision against subletting and the tenant's argument that the landlord's previous actions constitute a waiver."
+  },
+  {
+    "Query": "A bank refuses to honor a letter of credit issued to a supplier, claiming that the supplier failed to provide the required documents in a timely manner. The supplier argues that the bank's delay in notifying the supplier about the missing documents constituted a waiver of the time requirement for document submission.",
+    "Legal Principles": "Letter of credit law, principles of banking law, waiver in contracts, and the doctrine of estoppel.",
+    "Relevant Sections": "None specific, as the query relates to general principles of banking and commercial law.",
+    "Context": "This case involves a dispute between a supplier and a bank regarding the performance of a letter of credit. The supplier argues that the bank's delay in objecting to the documents constituted a waiver, while the bank argues that the supplier's failure to comply with the time requirement for document submission led to the refusal to honor the letter of credit."
+  },
+  {
+    "Query": "A borrower defaults on a loan agreement by failing to make timely payments. The lender seeks to accelerate the loan and demand immediate repayment of the entire outstanding amount. The borrower argues that the lender's previous acceptance of late payments constituted a waiver of the right to accelerate the loan.",
+    "Legal Principles": "Loan agreements, default on loans, acceleration clauses, waiver in contracts, and the doctrine of estoppel.",
+    "Relevant Sections": "None specific, as the query relates to general principles of loan agreements and contract law.",
+    "Context": "This case involves a dispute between a borrower and a lender regarding the enforcement of a loan agreement. The borrower argues that the lender's previous acceptance of late payments created a waiver, while the lender seeks to enforce the acceleration clause and demand immediate repayment."
+  },
+  {
+    "Query": "A software developer claims that a client breached a software development agreement by failing to make timely payments. The client argues that the developer's continued performance of the project despite the delayed payments constituted a waiver of the right to terminate the agreement.",
+    "Legal Principles": "Software development agreements, breach of contract, waiver in contracts, and the doctrine of estoppel.",
+    "Relevant Sections": "None specific, as the query relates to general principles of software development agreements and contract law.",
+    "Context": "This case involves a dispute between a software developer and a client regarding the enforcement of a software development agreement. The developer argues that the client's failure to make timely payments constitutes a breach, while the client argues that the developer's continued work constituted a waiver."
+  },
+  {
+    "Query": "A company seeks to enforce a non-compete agreement against a former employee who has started a competing business. The former employee argues that the non-compete agreement is unenforceable because it is overly broad and restricts the employee's ability to earn a living.",
+    "Legal Principles": "Employment law, non-compete agreements, enforceability of restrictive covenants, and principles of contract interpretation.",
+    "Relevant Sections": "None specific, as the query relates to general principles of employment and contract law.",
+    "Context": "This case involves a dispute between a company and a former employee regarding the enforceability of a non-compete agreement. The company seeks to enforce the agreement, while the employee argues that the agreement is overly broad and unenforceable."
+  },
+  {
+    "Query": "A business owner seeks to enforce a contract against a customer who has refused to pay for goods delivered. The customer argues that the contract is unenforceable because it was not properly signed. The business owner claims that the customer's actions in accepting the goods and using them constitute a waiver of the requirement for a signed contract.",
+    "Legal Principles": "Contract law, enforceability of contracts, waiver in contracts, and the doctrine of implied consent.",
+    "Relevant Sections": "None specific, as the query relates to general principles of contract law.",
+    "Context": "This case involves a dispute between a business owner and a customer regarding the enforceability of a contract for goods delivered. The customer argues that the contract was not properly signed, while the business owner argues that the customer's actions in accepting the goods constitute a waiver."
+  },
+  {
+    "Query": "A homeowner claims that a contractor breached a contract to remodel their kitchen by failing to complete the work within the agreed-upon timeframe. The contractor argues that the homeowner's repeated requests for changes to the work plan constitute a waiver of the time requirement in the contract.",
+    "Legal Principles": "Construction contracts, breach of contract, waiver in contracts, and the doctrine of estoppel.",
+    "Relevant Sections": "None specific, as the query relates to general principles of construction contracts and contract law.",
+    "Context": "This case involves a dispute between a homeowner and a contractor regarding the completion of a kitchen remodeling project. The homeowner argues that the contractor's failure to complete the work on time constitutes a breach, while the contractor argues that the homeowner's changes to the work plan constitute a waiver."
+  },
+  {
+    "Query": "A manufacturer sues a distributor for breach of contract, claiming that the distributor failed to meet its sales targets. The distributor argues that the manufacturer's prior acceptance of lower sales figures constitutes a waiver of the sales target requirement.",
+    "Legal Principles": "Distribution agreements, breach of contract, waiver in contracts, and the doctrine of estoppel.",
+    "Relevant Sections": "None specific, as the query relates to general principles of distribution agreements and contract law.",
+    "Context": "This case involves a dispute between a manufacturer and a distributor regarding the performance of a distribution agreement. The manufacturer argues that the distributor's failure to meet sales targets constitutes a breach, while the distributor argues that the manufacturer's prior acceptance of lower sales figures constitutes a waiver."
+  }
+]
+```

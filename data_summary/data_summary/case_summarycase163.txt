@@ -1,0 +1,163 @@
+## 1. Case Title
+
+* **Case Name:** Arun Kumar Jagatramka vs. Ultrabulk A/S
+* **Court:** Gujarat High Court
+* **Date of Judgment:** 22nd September 2023
+* **Citation:** C/SCA/5509/2021 
+
+## 2. Background and Context
+
+**Brief Overview:** This case involves the enforcement of a foreign judgment and decree passed by the High Court of Justice, Queens' Bench, Commercial Court of London, against Arun Kumar Jagatramka (petitioner), who had issued a personal guarantee on behalf of Gujarat (NRE) Coke Limited to Ultrabulk A/S (respondent) for a debt of USD 4,259,395.  When Ultrabulk A/S sought to execute the decree in India, Jagatramka objected, claiming the foreign judgment was not conclusive and the guarantee was not enforceable in India.
+
+**Key Issues:**
+
+* **Enforceability of Foreign Judgment:** Whether the foreign judgment and decree are conclusive and enforceable in India under Section 44A of the Code of Civil Procedure, 1908 (CPC).
+* **Compliance with Section 13 CPC:**  Whether the foreign judgment meets the requirements of Section 13 CPC, which outlines exceptions to the conclusiveness of foreign judgments.
+* **Personal Guarantee and On-Demand Bond:** Whether the personal guarantee issued by Jagatramka should be considered an on-demand bond, making him liable for the full amount regardless of payments made by Gujarat (NRE) Coke Limited.
+* **Validity of Guarantee under FEMA:** Whether the personal guarantee issued without prior permission from the Reserve Bank of India violated the Foreign Exchange Management Act (FEMA) and Regulations.
+* **Expert Witness Credibility:** Whether the respondent's expert witness, Mr. Amitava Majumdar, had a conflict of interest due to his previous representation of the respondent in another case.
+* **Interim Moratorium and IBC:** Whether the personal insolvency proceedings initiated by the State Bank of India against Jagatramka under the Insolvency and Bankruptcy Code, 2016 (IBC) automatically stayed the execution proceedings under Section 96 of the IBC. 
+
+## 3. Legal Principles Involved
+
+**Relevant Statutes and Provisions:**
+
+* **Code of Civil Procedure, 1908 (CPC):**  
+    * Section 13:  When foreign judgment is not conclusive (outlines exceptions to enforceability).
+    * Section 44A: Execution of decrees passed by Courts in reciprocating territory (deals with enforcing foreign decrees in India).
+    * Section 47: Execution of Decrees (applies to proceedings for execution of decrees under Section 44A).
+* **Insolvency and Bankruptcy Code, 2016 (IBC):**
+    * Section 95: Application by creditor to initiate insolvency resolution process.
+    * Section 96: Interim Moratorium (imposes a statutory stay on legal actions during insolvency proceedings).
+    * Section 238: Overriding Effect of IBC Provisions.
+* **Foreign Exchange Management Act (FEMA), 1999:**  Regulation of foreign exchange transactions.
+* **Foreign Exchange Management (Guarantees) (Regulations), 2000:**  Regulations governing guarantees issued by Indian residents to non-residents.
+
+**Precedents Cited:**
+
+* **Mannalal Khaitan and others v. Kedarnath Khaitan and others** [(1977) 2 SCC 424]
+* **Algemene Bank Netherland NV v. Satish Dayalal Choksi** [1989 SCC Online Bombay 282]
+* **Mrs Shobha Vishwanatha v. DP Kingsley** [(1996) 1 CTC 620]
+* **Noy Vellesena Engineering Spa v. Jindal Drugs Limited** [2006 SCC Online Bombay 545]
+* **R.K.Agarwal v. Rana Harishchandra Ranjeetsingh and others** [1994 Mh.L.J. 186]
+* **Vijay Karia and others v. Prysmian Cavi E Sistemi SRL and others** [(2020) 11 SCC 1]
+* **SRM Exploration Pvt. Ltd. v. N & S & N Consultants S.R.O** [2012 (129) DRJ 113 (DB)]
+* **Videocon Industries Limited v. Intesa Sanpaolo S.P.A** [2014 SCC OnLine Bom 1276]
+* **Axis Trustee Services Limited v. Brij Bhushan Singal and Another** [2022 SCC OnLine Del 3634]
+* **Stichting Doen-postcode Loterij v. Vin Poly Recyclers Pvt. Ltd. & Ors.** [2010 (115) DRJ 708 (DB)]
+* **Rahul S. Shah v. Jinendra Kumar Gandhi and others** [(2021) 6 SCC 418]
+* **Cauvery Coffee Traders, Mangalore v. Hornor Resourcers (International) Company Limited** [(2011) 10 SCC 420]
+* **Forward Construction Co. and others** [(1986) 1 SCC 100]
+* **Shiv Chander More and others** [(2014) 11 SCC 744]
+* **Arce Polymers Private Limited v. Alphine Pharmaceuticals Private Limited and others** [(2022) 2 SCC 221]
+* **Maharashtra State Road Transport Corporation v. Shri Balwant Regular Motor Service, Amravati and others ETC.** [(1969) 1 SCR 808]
+* **Moon Mills Ltd. v. M.R. Meher, President, Industrial Court, Bombay and others** [AIR 1967 SC 1450]
+* **Sarguja Transport Service v. State Transport Appellate Tribunal, M.P. Gwalior and others** [(1987) 1 SCC 5]
+* **Babulal Badriprasad Varma v. Surat Municipal Corporation and others** [(2008) 12 SCC 401]
+* **Alcon Electronics Private Limited v. Celem S.A. of FOS 34320 Roujan, France and Another** [(2017) 2 SCC 253]
+* **Udyami Evam Khadi Gramodyog Welfare Sanstha and another v. State of Uttar Pradesh and others** [(2008) 1 SCC ]
+* **Advocate-General, State of Bihar v. M/s. Madhya Pradesh Khair Industries and Another** [(1980) 3 SCC 311]
+* **Life Insurance Corporation of India Vs. Escorts Ltd.** [(1986) 1 SCC 264]
+* **Vitol S.A. v. Bhatia International Limited** [(2015) 1 Bom CR 100] 
+* **Texmaco Ltd.v. Deputy Director, Enforcement Directorate** [1997 Company Cases Vol. 88 Pg. 228]
+* **POL India Projects Limited v. Aurelia Reederi Eugen Friederich** [(2015) 7 Bom CR 757]
+
+**Legal Doctrines:**
+
+* **Res Judicata:**  The principle that a matter already decided by a court cannot be relitigated between the same parties. 
+* **Constructive Res Judicata:**  Applies when a party could have raised a specific issue in a previous proceeding but failed to do so, barring them from raising it later.
+* **Waiver:**  The voluntary relinquishment of a known right or privilege.
+* **Approbate and Reprobate:**  The legal principle that a party cannot benefit from a position while also challenging its validity.
+* **Abuse of Process:**  Using legal proceedings for an improper purpose, such as to harass or delay.
+
+## 4. Arguments Presented
+
+**Plaintiff’s Argument (Arun Kumar Jagatramka):**
+
+* **Lack of Jurisdiction:** The English Court lacked jurisdiction to pass the judgment as Jagatramka was not a resident of England, and the cause of action did not arise there.
+* **Judgment not on Merits:** The judgment did not address Jagatramka's claim that the guarantee was not a primary liability but a secondary liability mirroring the principal debtor's liability. The English Court failed to properly apportion the payments made by Gujarat (NRE) Coke Limited.
+* **Violation of Indian Law:** The guarantee was invalid because it was issued without prior permission from the Reserve Bank of India, in violation of the Foreign Exchange Management (Guarantees) (Regulations), 2000.  The English Court wrongly interpreted FEMA provisions.
+* **Violation of Natural Justice:** Jagatramka was denied a fair opportunity to defend himself in the English Court when his request for video conferencing was denied.
+* **Conflict of Interest:** The respondent's expert witness, Mr. Amitava Majumdar, had a conflict of interest because he previously represented the respondent in another case.  His opinion on Indian law was therefore not independent.
+* **Automatic Moratorium under IBC:**  The personal insolvency proceedings initiated against Jagatramka under the IBC automatically imposed an interim moratorium, staying further proceedings in the execution petition.
+
+**Defendant’s Argument (Ultrabulk A/S):**
+
+* **Jurisdiction Established:** The guarantee explicitly stipulated English law and jurisdiction, and Jagatramka agreed not to contest jurisdiction.
+* **Judgment on Merits:** The English Court carefully considered all relevant evidence and arguments, including Jagatramka's defenses, and arrived at a reasoned decision.
+* **FEMA Compliance:**  The guarantee was not a violation of FEMA, as post-facto permission could be obtained. The English Court correctly interpreted FEMA.
+* **No Conflict of Interest:** Mr. Majumdar disclosed his previous representation of the respondent, and Jagatramka did not object at the time. The English Court followed proper procedures for expert witness testimony.
+* **No Automatic Moratorium:**  Jagatramka cannot benefit from the IBC proceedings while simultaneously challenging their validity. His conduct demonstrates waiver of his rights under Section 96 of the IBC.
+
+## 5. Court’s Analysis and Reasoning
+
+**Key Findings:**
+
+* The Gujarat High Court upheld the lower court's decision that the foreign decree was enforceable in India under Section 44A of the CPC.
+* The High Court found no merit in Jagatramka's arguments that the foreign judgment was not conclusive under Section 13 of the CPC.
+* The Court determined that the personal guarantee was a primary liability and not a secondary one, making Jagatramka liable for the full amount, as the English Court had correctly interpreted the terms of the guarantee. 
+* The Court rejected Jagatramka's arguments concerning FEMA violations, finding that the English Court had correctly interpreted the provisions of FEMA, and that the guarantee could be made valid by obtaining post-facto permission from the Reserve Bank of India.
+* The Court dismissed Jagatramka's claim of conflict of interest with regard to the respondent's expert witness, noting the disclosure and Jagatramka's lack of objection at the time.
+* Regarding the IBC proceedings, the Court found that Jagatramka's conduct, including his attempts to challenge the IBC provisions while simultaneously seeking protection under them, constituted waiver of his rights under Section 96 of the IBC.  The Court further ruled that the interim moratorium under the IBC could not be applied indefinitely.
+
+**Interpretation of Law:**
+
+* The High Court confirmed the applicability of Section 44A of the CPC for executing foreign decrees in India, emphasizing the need for due judicial process and reasonable opportunity for parties to be heard in the foreign court.
+* The court carefully examined each exception outlined in Section 13 of the CPC and determined that Jagatramka's claims did not meet the requirements for any of them.
+* The Court adopted a consistent interpretation of FEMA and its regulations, emphasizing that a post-facto permission could rectify any violation, and that the principle of "approbate and reprobate" prevented parties from taking advantage of their own wrongdoings.
+
+**Application of Law:**
+
+* The Court applied the legal principles of res judicata and constructive res judicata to Jagatramka's repeated challenges to the lower court's decisions, finding that he had already had the opportunity to raise his arguments in previous proceedings.
+* The Court applied the doctrine of waiver to Jagatramka's attempt to benefit from the IBC proceedings while simultaneously challenging their validity. 
+* The Court emphasized the need for prompt and expeditious resolution of insolvency proceedings under the IBC.
+
+## 6. Judgment
+
+* **Final Decision:** The Gujarat High Court dismissed all the petitions filed by Arun Kumar Jagatramka.
+* **Relief Granted:** No specific relief was granted, as all the petitions were dismissed.
+* **Orders:** 
+    * The execution proceedings were to be decided by the Executing Court within three months from the date of receipt of the High Court's order.
+    * The High Court rejected Jagatramka's request for a stay of the judgment and order.
+
+## 7. Implications
+
+**Impact on Law:**
+
+* The judgment reaffirms the enforceability of foreign decrees in India under Section 44A of the CPC, provided that the foreign court followed due process and provided adequate opportunity for the parties to present their case.
+* It provides a clearer understanding of the exceptions to the conclusiveness of foreign judgments under Section 13 of the CPC.
+* The judgment reinforces the principles of waiver and "approbate and reprobate" in the context of challenging statutory provisions and seeking protection under them.
+
+**Future Relevance:**
+
+* This case serves as a precedent for future cases involving the execution of foreign decrees in India.
+* It clarifies the interpretation of FEMA provisions in the context of personal guarantees.
+* It guides courts in determining the applicability of the IBC moratorium in complex legal situations.
+
+**Broader Context:**
+
+* The judgment underscores the importance of clear and unambiguous contractual provisions, particularly regarding jurisdiction and dispute resolution.
+* It highlights the significance of proper procedural safeguards in international litigation.
+* It provides guidance on the interpretation and application of the IBC, a critical piece of legislation for financial stability and corporate governance in India.
+
+## 8. Summary Points
+
+* The Gujarat High Court upheld the enforceability of a foreign judgment and decree in India.
+* Jagatramka's objections to the foreign judgment, based on lack of jurisdiction, procedural irregularities, and violation of Indian law, were dismissed.
+* The Court found that the personal guarantee was a primary liability and that Jagatramka was liable for the full amount despite payments made by the principal debtor.
+* The Court rejected Jagatramka's claims of FEMA violations and expert witness conflict of interest.
+* The Court determined that Jagatramka's conduct demonstrated waiver of his rights under the IBC, preventing him from benefiting from the moratorium while simultaneously challenging its validity.
+
+## 9. References
+
+* **Code of Civil Procedure, 1908 (CPC)**
+* **Insolvency and Bankruptcy Code, 2016 (IBC)**
+* **Foreign Exchange Management Act (FEMA), 1999**
+* **Foreign Exchange Management (Guarantees) (Regulations), 2000**
+
+**Further Reading:**
+
+* Cases cited in the judgment, particularly those concerning the interpretation of FEMA, res judicata, and waiver.
+* Articles and commentary on the execution of foreign judgments in India and the application of the IBC.
+
+This summary provides a comprehensive overview of the Arun Kumar Jagatramka vs. Ultrabulk A/S case, covering the background, legal principles, arguments, court analysis, judgment, and potential implications. The detailed information on statutes, precedents, and legal doctrines involved should be helpful in understanding the case in its legal context. 

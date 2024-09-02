@@ -1,0 +1,110 @@
+##  Case Title
+
+•	Case Name: Dhani Aggarwal vs. Mahesh Yadav & Ors.
+•	Court: Delhi High Court
+•	Date of Judgment: 15th December 2022
+•	Citation: 2022/DHC/005691
+
+## Background and Context
+
+•	**Brief Overview:** This case revolved around a review petition filed by the respondents (Mahesh Yadav & Ors.) challenging a judgment passed by the Delhi High Court on 22nd August 2022. The respondents argued that the High Court had no jurisdiction to hear the appeal arising from an order passed by a Commercial Court, as per Section 13(1A) of the Commercial Courts Act, 2015. They maintained that only the Commercial Appellate Division of the High Court could adjudicate such appeals.
+•	**Key Issues:** 
+    - Whether the suit filed by the appellant (Dhani Aggarwal) was a "Commercial Suit" as defined under the Commercial Courts Act, 2015.
+    - Whether the High Court had jurisdiction to hear the appeal, given the alleged "Commercial Suit" nature of the case. 
+    - Whether the valuation of the suit, which was below the specified value for a Commercial Suit, was sufficient to trigger the application of the Commercial Courts Act, 2015.
+
+## Legal Principles Involved
+
+•	**Relevant Statutes and Provisions:**
+    - Commercial Courts Act, 2015: Section 6 (Jurisdiction of Commercial Courts), Section 2(1)(c) (Definition of "Commercial Dispute"), Section 2(1)(i) (Definition of "Specified Value"), Section 13(1A) (Appeal against Commercial Court orders).
+    - Code of Civil Procedure, 1908: Order XXXIX Rule 4 (Injunction), Section 151 (Inherent powers of the Court).
+
+•	**Precedents Cited:**
+    - Delhi Tourism and Transportation Development Corporation v. Swadeshi Civil Infrastructure Pvt. Ltd., FAO No. 232/2020 (Delhi High Court)
+    - Mr. Hari Singh v. M S Superhouse Ltd., CRP No. 61/2021 (Delhi High Court)
+    - Vishal Pipes Limited v. Bhavya Pipe Industry, 2022 SCC OnLine Del 1730 (Delhi High Court)
+    - Patel Roadways Limited, Bombay v. Prasad Trading Company, (1991) 4 SCC 270 (Supreme Court of India)
+
+•	**Legal Doctrines:**
+    - Jurisdiction: The power of a court to hear and decide a case.
+    - Statutory Interpretation: Analyzing the meaning and application of legal provisions.
+    - Res Judicata: The principle that a matter once decided by a court cannot be reopened.
+    - Consent and Jurisdiction: Parties cannot, through their consent, confer jurisdiction on a court that lacks it.
+
+## Arguments Presented
+
+•	**Appellant’s Argument:**
+    - The suit was valued below Rs. 3,00,000, therefore, it did not fall under the definition of a "Commercial Suit" of a specified value as per Section 2(1)(i) of the Commercial Courts Act, 2015.
+    - The Commercial Courts Act, 2015 would not apply to the suit, rendering Section 13(1A) inapplicable.
+    - There was no challenge to the valuation of the suit, and therefore, it should be considered a non-commercial suit.
+
+•	**Respondent’s Argument:**
+    - The suit was initiated after the amendment to the Commercial Courts Act, 2018, and was initially titled as a "Commercial Suit."
+    - Even though the order passed by the Trial Court mistakenly numbered the suit as non-commercial, the underlying nature of the dispute remained commercial.
+    - The Commercial Courts Act, 2015 applies to all suits heard by Commercial Courts, regardless of their actual classification.
+    - The suit was treated as a "Commercial Suit" by the Trial Court, as evidenced by the "Case Management Hearing" held.
+    - The appellant, by valuing the suit below Rs. 3,00,000, was attempting to circumvent the application of the Act.
+
+## Court’s Analysis and Reasoning
+
+•	**Key Findings:**
+    - The Court found that the appellant had valued the suit below Rs. 3,00,000, the specified value for a "Commercial Suit."
+    - The Court concluded that the suit, as it stood, was not within the jurisdiction of a Commercial Court under the Act.
+    - The Court rejected the respondent's argument that the Act applied regardless of the suit's classification, emphasizing that the "Specified Value" requirement was crucial.
+    - The Court cited precedents establishing that parties cannot create jurisdiction for a court through consent or conduct.
+
+•	**Interpretation of Law:**
+    - The Court interpreted Section 6 and Section 2(1)(i) of the Commercial Courts Act, 2015 to determine the requirements for a "Commercial Suit of a Specified Value."
+    - The Court differentiated the "Commercial Suit" classification from the underlying nature of the dispute, emphasizing that the specified value criterion must be met.
+
+•	**Application of Law:**
+    - The Court applied the established legal principle that a court lacking jurisdiction cannot be vested with it through consent.
+    - The Court distinguished the precedent cited by the respondent (Mr. Hari Singh v. M S Superhouse Ltd.), arguing that the facts of that case involved an admitted "Commercial Suit" misclassified as an ordinary suit.
+    - The Court also analyzed the Vishal Pipes Limited case, clarifying that the direction to list IPR suits valued below Rs. 3,00,000 before the Commercial Court was a procedural requirement, not an automatic conferral of jurisdiction.
+
+## Judgment
+
+•	**Final Decision:**
+    - The Court dismissed the review petition, finding no merit in the respondent's arguments.
+
+•	**Relief Granted:**
+    - No specific relief was granted.
+
+•	**Orders:**
+    - The review petition was dismissed with costs quantified at Rs. 1,00,000, payable by the Review Petitioner to the Delhi High Court Bar Clerk's Association.
+
+## Implications
+
+•	**Impact on Law:**
+    - The judgment reinforces the importance of the "Specified Value" criterion for determining the jurisdiction of Commercial Courts under the Act.
+    - It clarifies that the Act does not automatically apply to all suits heard by Commercial Courts, even if the nature of the dispute is commercial.
+    - It reiterates the legal principle that parties cannot confer jurisdiction on a court that lacks it.
+
+•	**Future Relevance:**
+    - This case will likely serve as a precedent for future cases involving valuation disputes in relation to Commercial Courts jurisdiction.
+    - Courts will likely refer to this judgment when examining whether a suit satisfies the "Specified Value" requirement under the Act.
+
+•	**Broader Context:**
+    - The judgment emphasizes the importance of procedural requirements and accurate valuation in determining the proper court for hearing a case.
+    - It contributes to the ongoing debate regarding the application and scope of the Commercial Courts Act, 2015.
+
+## Summary Points
+
+•	The suit in question was valued below the specified value for a "Commercial Suit."
+•	The Delhi High Court held that the suit, therefore, was not a "Commercial Suit" under the Act.
+•	The Court dismissed the review petition, emphasizing that parties cannot confer jurisdiction on a court that lacks it.
+•	The judgment clarifies the application of the "Specified Value" requirement under the Commercial Courts Act, 2015.
+
+## References
+
+•	Commercial Courts Act, 2015
+•	Code of Civil Procedure, 1908
+•	Delhi Tourism and Transportation Development Corporation v. Swadeshi Civil Infrastructure Pvt. Ltd., FAO No. 232/2020 (Delhi High Court)
+•	Mr. Hari Singh v. M S Superhouse Ltd., CRP No. 61/2021 (Delhi High Court)
+•	Vishal Pipes Limited v. Bhavya Pipe Industry, 2022 SCC OnLine Del 1730 (Delhi High Court)
+•	Patel Roadways Limited, Bombay v. Prasad Trading Company, (1991) 4 SCC 270 (Supreme Court of India)
+
+## Further Reading
+
+•	The Commercial Courts Act, 2015: A Critical Analysis (Legal Texts)
+•	Jurisdiction and the Commercial Courts Act, 2015: Case Law Developments (Academic Journals)

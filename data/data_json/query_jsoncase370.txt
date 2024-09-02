@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A plaintiff mistakenly filed a suit in a court that lacked territorial jurisdiction. The defendant raised this jurisdictional issue, and the plaintiff sought to return the plaint to the correct court. Can the court impose exemplary costs on the plaintiff for this mistake, especially when the defendant did not object to the pecuniary jurisdiction of the court?",
+    "Legal Principles": "Territorial jurisdiction, Exemplary Costs, Misuse of Judicial Process, Order VII Rule 10 of the Code of Civil Procedure, 1908 (CPC), Frivolous Litigation",
+    "Relevant Sections": "Order VII Rule 10 of the Code of Civil Procedure, 1908 (CPC), Section 35 of the CPC, Section 35B of the CPC, Commercial Courts Act, 2015",
+    "Context": "This query deals with the legal principles related to territorial jurisdiction, exemplary costs, and the misuse of judicial process. It is based on the case where a plaintiff made a mistake in filing the suit and sought to correct it. The query focuses on whether the court can impose exemplary costs for such a mistake and the relevant legal principles and sections involved."
+  },
+  {
+    "Query": "A plaintiff filed a suit but underestimated the value of the suit, resulting in underpayment of court fees. The court found the plaintiff's conduct to be 'scandalous' and imposed exemplary costs. Is this decision justified when the defendant did not object to the pecuniary jurisdiction of the court?",
+    "Legal Principles": "Valuation of Suit, Court Fees, Pecuniary Jurisdiction, Exemplary Costs, Scandalous Conduct, Order VII Rule 2 of the Code of Civil Procedure, 1908 (CPC)",
+    "Relevant Sections": "Order VII Rule 2 of the Code of Civil Procedure, 1908 (CPC), Section 35 of the CPC, Section 35B of the CPC, Commercial Courts Act, 2015",
+    "Context": "This query focuses on the legal principles surrounding the valuation of a suit, court fees, and the consequences of underpayment. It examines the court's decision to impose exemplary costs on the plaintiff for underestimating the value of the suit and whether this decision is justifiable."
+  },
+  {
+    "Query": "A plaintiff, upon realizing a mistake in filing a suit in the wrong court, applied for the return of the plaint to file it in the correct court. Can the court deny the plaintiff's request for interest on the principal amount as a punitive measure for the initial mistake?",
+    "Legal Principles": "Territorial Jurisdiction, Return of Plaint, Interest on Principal Amount, Punitive Measures, Order VII Rule 10 of the Code of Civil Procedure, 1908 (CPC)",
+    "Relevant Sections": "Order VII Rule 10 of the Code of Civil Procedure, 1908 (CPC)",
+    "Context": "This query focuses on the legal principles regarding the return of plaint due to jurisdictional errors and whether the court can impose punitive measures such as denying interest as a consequence of the initial mistake."
+  },
+  {
+    "Query": "A plaintiff filed a suit in a court that lacked territorial jurisdiction based on a mistaken belief about the defendant's address. The defendant objected to the jurisdiction, but the plaintiff explained the error and sought to return the plaint. Can the court deny the plaintiff's request for interest on the principal amount as a punitive measure for the initial mistake?",
+    "Legal Principles": "Territorial Jurisdiction, Return of Plaint, Interest on Principal Amount, Punitive Measures, Order VII Rule 10 of the Code of Civil Procedure, 1908 (CPC)",
+    "Relevant Sections": "Order VII Rule 10 of the Code of Civil Procedure, 1908 (CPC)",
+    "Context": "This query explores the legal principles governing territorial jurisdiction, return of plaint, and the imposition of punitive measures, especially in cases where the plaintiff made a mistake regarding the defendant's address and sought to rectify it."
+  },
+  {
+    "Query": "A plaintiff mistakenly filed a suit in a court with inadequate pecuniary jurisdiction. Can the court impose exemplary costs on the plaintiff for this mistake, even if the defendant did not raise an objection regarding the pecuniary jurisdiction of the court?",
+    "Legal Principles": "Pecuniary Jurisdiction, Exemplary Costs, Misuse of Judicial Process, Order VII Rule 10 of the Code of Civil Procedure, 1908 (CPC), Frivolous Litigation",
+    "Relevant Sections": "Order VII Rule 10 of the Code of Civil Procedure, 1908 (CPC), Section 35 of the CPC, Section 35B of the CPC, Commercial Courts Act, 2015",
+    "Context": "This query focuses on the legal principles related to pecuniary jurisdiction, exemplary costs, and the misuse of judicial process. It is based on a scenario where the plaintiff mistakenly filed a suit in a court with inadequate pecuniary jurisdiction, and the query explores the legal ramifications of this error, including the possibility of exemplary costs."
+  },
+  {
+    "Query": "A plaintiff filed a suit but underestimated the value of the suit, resulting in underpayment of court fees. The court found the plaintiff's conduct to be 'scandalous' and imposed exemplary costs. Is this decision justified, especially if the defendant did not object to the valuation of the suit or the court's pecuniary jurisdiction?",
+    "Legal Principles": "Valuation of Suit, Court Fees, Pecuniary Jurisdiction, Exemplary Costs, Scandalous Conduct, Order VII Rule 2 of the Code of Civil Procedure, 1908 (CPC)",
+    "Relevant Sections": "Order VII Rule 2 of the Code of Civil Procedure, 1908 (CPC), Section 35 of the CPC, Section 35B of the CPC, Commercial Courts Act, 2015",
+    "Context": "This query examines the legal principles surrounding the valuation of a suit, court fees, and the consequences of underpayment. It focuses on the court's decision to impose exemplary costs for underestimating the value of the suit and analyzes whether this decision is justified, especially considering the lack of objections from the defendant."
+  },
+  {
+    "Query": "A plaintiff filed a suit in the wrong court, but upon realizing the mistake, promptly sought to return the plaint to the correct court. Can the court justify denying the plaintiff's request for interest on the principal amount as a punitive measure for the initial mistake, especially if the defendant did not object to the court's jurisdiction?",
+    "Legal Principles": "Territorial Jurisdiction, Return of Plaint, Interest on Principal Amount, Punitive Measures, Order VII Rule 10 of the Code of Civil Procedure, 1908 (CPC)",
+    "Relevant Sections": "Order VII Rule 10 of the Code of Civil Procedure, 1908 (CPC)",
+    "Context": "This query focuses on the legal principles regarding the return of plaint due to jurisdictional errors and whether the court can impose punitive measures such as denying interest as a consequence of the initial mistake. It specifically examines the scenario where the defendant did not object to the court's jurisdiction."
+  },
+  {
+    "Query": "A plaintiff filed a suit in a court lacking territorial jurisdiction due to a mistaken belief about the defendant's address. The defendant objected to the jurisdiction, but the plaintiff explained the error and sought to return the plaint. Can the court deny the plaintiff's request for interest on the principal amount as a punitive measure for the initial mistake, especially when the defendant did not raise any objections regarding the pecuniary jurisdiction of the court?",
+    "Legal Principles": "Territorial Jurisdiction, Return of Plaint, Interest on Principal Amount, Punitive Measures, Order VII Rule 10 of the Code of Civil Procedure, 1908 (CPC)",
+    "Relevant Sections": "Order VII Rule 10 of the Code of Civil Procedure, 1908 (CPC)",
+    "Context": "This query explores the legal principles governing territorial jurisdiction, return of plaint, and the imposition of punitive measures, especially in cases where the plaintiff made a mistake regarding the defendant's address and sought to rectify it. It examines the scenario where the defendant did not object to the pecuniary jurisdiction."
+  },
+  {
+    "Query": "A plaintiff filed a suit in a court with inadequate pecuniary jurisdiction due to an error in calculating the value of the suit. The defendant did not object to the court's jurisdiction, but the plaintiff promptly sought to return the plaint to the correct court. Can the court justify imposing exemplary costs on the plaintiff for the initial mistake, considering the defendant did not raise any objections?",
+    "Legal Principles": "Pecuniary Jurisdiction, Exemplary Costs, Misuse of Judicial Process, Order VII Rule 10 of the Code of Civil Procedure, 1908 (CPC), Frivolous Litigation",
+    "Relevant Sections": "Order VII Rule 10 of the Code of Civil Procedure, 1908 (CPC), Section 35 of the CPC, Section 35B of the CPC, Commercial Courts Act, 2015",
+    "Context": "This query focuses on the legal principles related to pecuniary jurisdiction, exemplary costs, and the misuse of judicial process. It is based on a scenario where the plaintiff mistakenly filed a suit in a court with inadequate pecuniary jurisdiction due to an error in calculation and the query explores the legal ramifications of this error, including the possibility of exemplary costs, considering the defendant did not raise any objections."
+  },
+  {
+    "Query": "A plaintiff filed a suit but underestimated the value of the suit, resulting in underpayment of court fees. The court found the plaintiff's conduct to be 'scandalous' and imposed exemplary costs. Is this decision justified when the defendant did not object to the valuation of the suit or the court's jurisdiction?",
+    "Legal Principles": "Valuation of Suit, Court Fees, Pecuniary Jurisdiction, Exemplary Costs, Scandalous Conduct, Order VII Rule 2 of the Code of Civil Procedure, 1908 (CPC)",
+    "Relevant Sections": "Order VII Rule 2 of the Code of Civil Procedure, 1908 (CPC), Section 35 of the CPC, Section 35B of the CPC, Commercial Courts Act, 2015",
+    "Context": "This query examines the legal principles surrounding the valuation of a suit, court fees, and the consequences of underpayment. It focuses on the court's decision to impose exemplary costs for underestimating the value of the suit and analyzes whether this decision is justified, especially considering the lack of objections from the defendant."
+  }
+]
+```

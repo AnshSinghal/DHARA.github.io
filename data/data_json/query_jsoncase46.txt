@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A plaintiff has filed a suit in the Delhi High Court seeking a declaration of title to a property. The defendant has argued that the suit should be transferred to the District Court because the value of the property does not meet the pecuniary jurisdiction of the High Court. The plaintiff is seeking to amend the plaint to increase the valuation of the property so that the suit can remain in the High Court. What are the legal principles that govern this situation?",
+    "Legal Principles": "The legal principles governing this situation include: \n* **Pecuniary jurisdiction:** The court's power to hear cases based on the value of the subject matter in dispute.\n* **Amendment of plaint:** The procedure for altering the contents of a lawsuit, which is permitted under Order VI Rule 17 of the CPC.\n* **Transfer of suits:** The power of a higher court to transfer a case to a lower court under Section 24 of the CPC.\n* **Dominus litis:** The plaintiff's right to determine the court in which they choose to file their suit, subject to the court's jurisdiction.",
+    "Relevant Sections": "Section 24 of the Code of Civil Procedure, 1908, Order VI Rule 17 of the CPC",
+    "Context": "This is a case in the Delhi High Court involving a dispute over real estate. The judge is considering whether to allow the plaintiff's application to amend the plaint and increase the valuation of the property."
+  },
+  {
+    "Query": "A company has filed a suit against its former employee for breach of contract, seeking damages for confidential information disclosure. The defendant is arguing that the suit should be transferred to the District Court as the value of the claim does not meet the High Court's jurisdiction. The plaintiff seeks to amend the plaint, increasing the damage claim. Can the High Court allow the amendment?",
+    "Legal Principles": "* **Pecuniary Jurisdiction:** The court's authority to hear cases based on the value of the subject matter.\n* **Amendment of Plaint:** Procedure for altering a lawsuit's content under Order VI Rule 17 of the CPC.\n* **Transfer of Suits:** A higher court's power to move a case to a lower court under Section 24 of the CPC.\n* **Dominus Litis:** The plaintiff's right to choose the court where their lawsuit is filed, subject to jurisdiction.",
+    "Relevant Sections": "Order VI Rule 17 of the CPC, Section 24 of the CPC",
+    "Context": "This case is in the Delhi High Court and involves a breach of contract dispute with confidential information disclosure. The judge must decide on the plaintiff's application to amend the plaint and increase the damage claim."
+  },
+  {
+    "Query": "A trademark infringement suit is filed in the Delhi High Court, with the plaintiff seeking an injunction and damages. The defendants argue the suit should be transferred to the District Court due to the value not meeting the High Court's jurisdiction. The plaintiff seeks to amend the plaint by increasing the damages claim. How does the Commercial Courts Act affect this?",
+    "Legal Principles": "* **Pecuniary Jurisdiction:** The court's authority to hear cases based on the value of the subject matter.\n* **Amendment of Plaint:** Procedure for altering a lawsuit's content under Order VI Rule 17 of the CPC.\n* **Transfer of Suits:** A higher court's power to move a case to a lower court under Section 24 of the CPC.\n* **Commercial Courts Act:** The legislation that created Commercial Divisions in High Courts and Commercial Courts in District Courts for commercial disputes, potentially impacting jurisdiction.\n* **Dominus Litis:** The plaintiff's right to choose the court where their lawsuit is filed, subject to jurisdiction.",
+    "Relevant Sections": "Order VI Rule 17 of the CPC, Section 24 of the CPC, The Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015",
+    "Context": "This case is in the Delhi High Court and involves a trademark infringement dispute with the plaintiff seeking an injunction and damages. The judge needs to consider the Commercial Courts Act's impact on the plaintiff's application to amend the plaint and increase the damages claim."
+  },
+  {
+    "Query": "Two companies are involved in a contract dispute, with the plaintiff seeking a declaration of rights and performance of the contract. The defendant claims the suit should be transferred to the District Court, as the value of the contract does not meet the High Court's jurisdiction. The plaintiff seeks to amend the plaint, increasing the value of the contract. What are the relevant legal principles?",
+    "Legal Principles": "* **Pecuniary Jurisdiction:** The court's authority to hear cases based on the value of the subject matter.\n* **Amendment of Plaint:** Procedure for altering a lawsuit's content under Order VI Rule 17 of the CPC.\n* **Transfer of Suits:** A higher court's power to move a case to a lower court under Section 24 of the CPC.\n* **Dominus Litis:** The plaintiff's right to choose the court where their lawsuit is filed, subject to jurisdiction.",
+    "Relevant Sections": "Order VI Rule 17 of the CPC, Section 24 of the CPC",
+    "Context": "This case is in the Delhi High Court and involves a contract dispute between two companies. The judge must decide on the plaintiff's application to amend the plaint and increase the value of the contract."
+  },
+  {
+    "Query": "An individual has filed a suit against a company for damages arising from a defective product. The defendant argues the suit should be transferred to the District Court, as the value of the claim does not meet the High Court's jurisdiction. The plaintiff seeks to amend the plaint, increasing the damages claim. Can the High Court allow the amendment?",
+    "Legal Principles": "* **Pecuniary Jurisdiction:** The court's authority to hear cases based on the value of the subject matter.\n* **Amendment of Plaint:** Procedure for altering a lawsuit's content under Order VI Rule 17 of the CPC.\n* **Transfer of Suits:** A higher court's power to move a case to a lower court under Section 24 of the CPC.\n* **Dominus Litis:** The plaintiff's right to choose the court where their lawsuit is filed, subject to jurisdiction.",
+    "Relevant Sections": "Order VI Rule 17 of the CPC, Section 24 of the CPC",
+    "Context": "This case is in the Delhi High Court and involves a product liability dispute with the plaintiff seeking damages. The judge needs to decide on the plaintiff's application to amend the plaint and increase the damages claim."
+  },
+  {
+    "Query": "Two parties are involved in a property dispute, with the plaintiff seeking specific performance of a contract for sale. The defendant claims the suit should be transferred to the District Court, as the value of the property does not meet the High Court's jurisdiction. The plaintiff seeks to amend the plaint, increasing the value of the property. How does the court's jurisdiction apply?",
+    "Legal Principles": "* **Pecuniary Jurisdiction:** The court's authority to hear cases based on the value of the subject matter.\n* **Amendment of Plaint:** Procedure for altering a lawsuit's content under Order VI Rule 17 of the CPC.\n* **Transfer of Suits:** A higher court's power to move a case to a lower court under Section 24 of the CPC.\n* **Dominus Litis:** The plaintiff's right to choose the court where their lawsuit is filed, subject to jurisdiction.",
+    "Relevant Sections": "Order VI Rule 17 of the CPC, Section 24 of the CPC",
+    "Context": "This case is in the Delhi High Court and involves a property dispute with the plaintiff seeking specific performance. The judge needs to consider the court's jurisdiction regarding the plaintiff's application to amend the plaint and increase the value of the property."
+  },
+  {
+    "Query": "A company has filed a suit against another company for copyright infringement, seeking an injunction and damages. The defendant argues the suit should be transferred to the District Court, as the value of the claim does not meet the High Court's jurisdiction. The plaintiff seeks to amend the plaint, increasing the damages claim. What are the relevant legal precedents?",
+    "Legal Principles": "* **Pecuniary Jurisdiction:** The court's authority to hear cases based on the value of the subject matter.\n* **Amendment of Plaint:** Procedure for altering a lawsuit's content under Order VI Rule 17 of the CPC.\n* **Transfer of Suits:** A higher court's power to move a case to a lower court under Section 24 of the CPC.\n* **Dominus Litis:** The plaintiff's right to choose the court where their lawsuit is filed, subject to jurisdiction.",
+    "Relevant Sections": "Order VI Rule 17 of the CPC, Section 24 of the CPC",
+    "Context": "This case is in the Delhi High Court and involves a copyright infringement dispute with the plaintiff seeking an injunction and damages. The judge needs to consider relevant legal precedents regarding the plaintiff's application to amend the plaint and increase the damages claim."
+  },
+  {
+    "Query": "A partnership has filed a suit against its former partner for dissolution of the partnership and accounting. The defendant claims the suit should be transferred to the District Court, as the value of the partnership assets does not meet the High Court's jurisdiction. The plaintiff seeks to amend the plaint, increasing the value of the partnership assets. Can the High Court allow the amendment?",
+    "Legal Principles": "* **Pecuniary Jurisdiction:** The court's authority to hear cases based on the value of the subject matter.\n* **Amendment of Plaint:** Procedure for altering a lawsuit's content under Order VI Rule 17 of the CPC.\n* **Transfer of Suits:** A higher court's power to move a case to a lower court under Section 24 of the CPC.\n* **Dominus Litis:** The plaintiff's right to choose the court where their lawsuit is filed, subject to jurisdiction.",
+    "Relevant Sections": "Order VI Rule 17 of the CPC, Section 24 of the CPC",
+    "Context": "This case is in the Delhi High Court and involves a partnership dispute with the plaintiff seeking dissolution and accounting. The judge needs to decide on the plaintiff's application to amend the plaint and increase the value of the partnership assets."
+  },
+  {
+    "Query": "A consumer has filed a suit against a company for a defective product, seeking compensation for damages and inconvenience. The defendant claims the suit should be transferred to the District Court, as the value of the claim does not meet the High Court's jurisdiction. The plaintiff seeks to amend the plaint, increasing the value of the claim. What are the legal arguments for and against allowing the amendment?",
+    "Legal Principles": "* **Pecuniary Jurisdiction:** The court's authority to hear cases based on the value of the subject matter.\n* **Amendment of Plaint:** Procedure for altering a lawsuit's content under Order VI Rule 17 of the CPC.\n* **Transfer of Suits:** A higher court's power to move a case to a lower court under Section 24 of the CPC.\n* **Dominus Litis:** The plaintiff's right to choose the court where their lawsuit is filed, subject to jurisdiction.",
+    "Relevant Sections": "Order VI Rule 17 of the CPC, Section 24 of the CPC",
+    "Context": "This case is in the Delhi High Court and involves a consumer dispute with the plaintiff seeking compensation. The judge needs to consider the legal arguments for and against allowing the plaintiff's application to amend the plaint and increase the value of the claim."
+  },
+  {
+    "Query": "A shareholder has filed a suit against a company for breach of fiduciary duty, seeking damages and an injunction. The defendant claims the suit should be transferred to the District Court, as the value of the claim does not meet the High Court's jurisdiction. The plaintiff seeks to amend the plaint, increasing the value of the claim. Can the High Court allow the amendment?",
+    "Legal Principles": "* **Pecuniary Jurisdiction:** The court's authority to hear cases based on the value of the subject matter.\n* **Amendment of Plaint:** Procedure for altering a lawsuit's content under Order VI Rule 17 of the CPC.\n* **Transfer of Suits:** A higher court's power to move a case to a lower court under Section 24 of the CPC.\n* **Dominus Litis:** The plaintiff's right to choose the court where their lawsuit is filed, subject to jurisdiction.",
+    "Relevant Sections": "Order VI Rule 17 of the CPC, Section 24 of the CPC",
+    "Context": "This case is in the Delhi High Court and involves a shareholder dispute with the plaintiff seeking damages and an injunction. The judge needs to decide on the plaintiff's application to amend the plaint and increase the value of the claim."
+  }
+]
+```

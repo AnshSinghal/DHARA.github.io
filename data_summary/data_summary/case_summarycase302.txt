@@ -1,0 +1,102 @@
+## 1. Case Title
+
+* **Case Name:** M/S Ladakh Road Lines vs. Union Territory of J&K and Ors
+* **Court:** Jammu & Kashmir High Court 
+* **Date of Judgment:** 30 December, 2020
+* **Citation:** Not explicitly provided in the judgment.
+
+## 2. Background and Context
+
+* **Brief Overview:** The appellant, M/S Ladakh Road Lines, contested the allotment of a contract for supplying vehicles to the Jammu & Kashmir Road Transport Corporation (JKRTC) by the respondent,  No.9 (an unregistered transport firm). Ladakh Road Lines argued that respondent No.9 was ineligible to participate in the bidding process due to lack of registration. The case originated from a petition filed by Ladakh Road Lines under Section 9 of the Arbitration and Conciliation Act, 1996, seeking an injunction to stop JKRTC from awarding the contract to respondent No.9. The Commercial Court, Jammu, dismissed the petition citing lack of jurisdiction. This appeal challenged that dismissal.
+* **Key Issues:** 
+    * Jurisdiction of the Commercial Court, Jammu, to entertain the petition under Section 9 of the Arbitration and Conciliation Act, 1996.
+    * Whether the presence of a subordinate office of JKRTC in Jammu, without a part of the cause of action arising there, confers jurisdiction on the Jammu courts.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * **Arbitration and Conciliation Act, 1996:** 
+        * Section 9: Allows a party to apply to court before or during arbitral proceedings for interim relief.
+        * Section 2(1)(e): Defines "Court" for the purpose of arbitration, referencing the principal Civil Court of original jurisdiction in a district.
+    * **Code of Civil Procedure, 1908:** 
+        * Section 20:  Determines the jurisdiction of courts based on the residence of the defendant, the place where the cause of action arises, or where the defendant carries on business.
+        * Explanation II to Section 20: Defines where a corporation can be deemed to carry on business for the purpose of jurisdiction.
+
+* **Precedents Cited:**
+    * **M. Venkatasamaiappa vs. Srinidhi Ltd., 63 LW 468 (Madras High Court):**  Established that the court with jurisdiction in an arbitration matter is the one that would have had jurisdiction if the case were a civil suit.
+    * **Bharat Insurance Company vs Wasudeo Ramchandra, AIR 1956 Nag 203 (Nagpur High Court):**  Held that a corporation can be sued at a place where it has a subordinate office only if the cause of action arises at that location.
+    * **Nedungadi Bank Ltd. Vs. Central Bank of India, AIR 1961 Kerala 50 (Kerala High Court):** Affirmed the principle that a corporation cannot be sued at its branch office unless the cause of action arises there.
+    * **Kamala Chopra vs Life Insurance Corporation of India, AIR 1975 Delhi 15 (Delhi High Court):** Reaffirmed the principle that mere presence of a branch office doesn't confer jurisdiction unless the cause of action arises there.
+    * **Surinder Kumar Arora vs. The Bengal National Textile Mills, AIR 1978 P&H 156 (Punjab and Haryana High Court):**  Argued that the presence of a branch office alone could confer jurisdiction, even without the cause of action arising there.
+    * **Food Corporation of India vs. Evdomen Corporation, (1999) 2 SCC 446 (Supreme Court):**  Clarified that the presence of a branch office does not automatically confer jurisdiction on the court at that location. Jurisdiction arises only if a part of the cause of action occurs there.
+    * **M/S South East Asia Shipping Co. vs M/S Nav Bharat Enterprises Pvt. Ltd, 1996 SCC (3) 443 (Supreme Court):**  Defined "cause of action" as a bundle of facts giving rise to a legal right to claim relief.
+
+* **Legal Doctrines:**
+    * **Jurisdiction:** The legal power of a court to hear and decide a case.
+    * **Cause of Action:** The facts that give rise to a legal claim.
+    * **Territorial Jurisdiction:** The geographical area within which a court has the power to hear cases.
+
+## 4. Arguments Presented
+
+* **Appellant’s Argument (Ladakh Road Lines):**
+    * Respondent No. 9 was ineligible to participate in the bidding process because it was not a registered transport firm. 
+    * The Commercial Court, Jammu, had jurisdiction to hear the case because the JKRTC had a subordinate office in Jammu, and Ladakh Road Lines corresponded with JKRTC from Jammu.
+    * The contract included routes passing through Jammu, therefore, part of the cause of action arose within Jammu's jurisdiction.
+
+* **Respondent’s Argument (JKRTC and respondent No.9):**
+    * JKRTC argued that the Commercial Court, Jammu, lacked jurisdiction because the tender notice was issued from Srinagar, the site of the contract was in Kashmir, and Ladakh Road Lines is ordinarily residing in Kashmir.
+    * Respondent No.9 contended that the company was eligible to participate in the tender process and that no arbitration agreement existed between them and Ladakh Road Lines. 
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The court found that no part of the cause of action arose within the jurisdiction of the Commercial Court, Jammu.
+    * The court rejected the argument that the presence of a subordinate office of JKRTC in Jammu, without any part of the cause of action arising there, conferred jurisdiction.
+    * The court found that the appellant's argument that the contract included routes passing through Jammu was misconceived, as the contract was for supplying vehicles for routes in the Ladakh region, and not specifically Jammu. 
+    * The court deemed the judgment of the Commercial Court, Jammu, to be cryptic and lacking reasoning, but ultimately upheld its decision on jurisdictional grounds. 
+
+* **Interpretation of Law:**
+    * The court interpreted Section 20 of the CPC and its explanation, emphasizing that a corporation can be sued at its branch office only if the cause of action arises there. 
+    * The court followed the Supreme Court's judgment in Food Corporation of India vs. Evdomen Corporation (1999) 2 SCC 446, which established that the presence of a branch office alone does not confer jurisdiction. 
+    * The court applied the definition of "cause of action" as established by the Supreme Court in M/S South East Asia Shipping Co. vs M/S Nav Bharat Enterprises Pvt. Ltd, 1996 SCC (3) 443.
+
+* **Application of Law:**
+    * The court applied the legal principles of jurisdiction, cause of action, and territorial jurisdiction to the specific facts of the case. 
+    * The court determined that the primary office of JKRTC was in Srinagar, the contract's location was in Kashmir, and the appellant's correspondence with JKRTC was not solely from Jammu.
+    * Based on the facts and the legal principles, the court found that the Commercial Court, Jammu, lacked jurisdiction to hear the case.
+
+## 6. Judgment
+
+* **Final Decision:** The appeal was dismissed.
+* **Relief Granted:** No relief was granted to the appellant. 
+* **Orders:** The court held that the Commercial Court, Jammu, lacked jurisdiction. The appellant was advised to approach a court with competent jurisdiction.
+
+## 7. Implications
+
+* **Impact on Law:** The judgment reinforces the established legal principles regarding jurisdiction and the importance of establishing a connection between the cause of action and the location of the defendant's branch office to confer jurisdiction. 
+* **Future Relevance:** This judgment will be relevant for future cases involving corporations with multiple offices, highlighting the necessity for a cause of action arising within the jurisdiction of the chosen court.
+* **Broader Context:** The case demonstrates the complexities of jurisdictional disputes in multi-state corporations and the importance of careful analysis of the legal principles involved.
+
+## 8. Summary Points
+
+* The Commercial Court, Jammu, lacked jurisdiction to hear the petition filed by Ladakh Road Lines under Section 9 of the Arbitration and Conciliation Act, 1996, because no part of the cause of action arose within its jurisdiction. 
+* The presence of a subordinate office of JKRTC in Jammu, without a part of the cause of action arising there, does not confer jurisdiction on the Jammu courts.
+* The appellant's argument that the contract included routes passing through Jammu was rejected because the contract was for routes in the Ladakh region.
+* The judgment reinforces the importance of a connection between the cause of action and the location of the defendant's branch office for a court to have jurisdiction.
+
+## 9. References
+
+* **Arbitration and Conciliation Act, 1996**
+* **Code of Civil Procedure, 1908**
+* **M. Venkatasamaiappa vs. Srinidhi Ltd., 63 LW 468 (Madras High Court)**
+* **Bharat Insurance Company vs Wasudeo Ramchandra, AIR 1956 Nag 203 (Nagpur High Court)**
+* **Nedungadi Bank Ltd. Vs. Central Bank of India, AIR 1961 Kerala 50 (Kerala High Court)**
+* **Kamala Chopra vs Life Insurance Corporation of India, AIR 1975 Delhi 15 (Delhi High Court)**
+* **Surinder Kumar Arora vs. The Bengal National Textile Mills, AIR 1978 P&H 156 (Punjab and Haryana High Court)**
+* **Food Corporation of India vs. Evdomen Corporation, (1999) 2 SCC 446 (Supreme Court)**
+* **M/S South East Asia Shipping Co. vs M/S Nav Bharat Enterprises Pvt. Ltd, 1996 SCC (3) 443 (Supreme Court)**
+
+**Further Reading:**
+* **Arbitration and Conciliation Act, 1996** (Full text available online)
+* **Code of Civil Procedure, 1908** (Full text available online)
+* Cases cited in the judgment. 

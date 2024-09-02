@@ -1,0 +1,116 @@
+## 1. Case Title
+
+* **Case Name:** India Oil Corporation Ltd. And Another vs The Commercial Court And Another
+* **Court:** Allahabad High Court
+* **Date of Judgment:** 6th September 2023
+* **Citation:** 2023:AHC:176040
+
+## 2. Background and Context
+
+* **Brief Overview:**  This case involved a dispute arising from an arbitration proceeding initiated under the Indian Arbitration Act, 1940 (Old Act, 1940). The original suit was filed in 1989, and the arbitrator appointed in 1991 passed an award in 2005. However, the respondent subsequently filed an application for modification of the award under Section 33 of the Arbitration and Conciliation Act, 1996 (New Act, 1996), leading to an additional award in 2006. The petitioner challenged the additional award, arguing that the arbitrator lacked jurisdiction to act under the New Act, 1996 after the arbitration had begun under the Old Act, 1940. 
+* **Key Issues:**
+    * Whether the arbitrator had jurisdiction to continue the arbitration proceedings under the New Act, 1996, despite the initial proceedings being initiated under the Old Act, 1940.
+    * Whether the additional award issued in 2006 was valid considering the time limit for modification of awards under Section 33 of the New Act, 1996.
+    * Whether an arbitral award is a "decree" as defined under Section 2(2) of the Code of Civil Procedure, 1908 (CPC), and if not, whether objections could be raised against the award under Section 47 of the CPC.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * Indian Arbitration Act, 1940 (Old Act, 1940)
+    * Arbitration and Conciliation Act, 1996 (New Act, 1996)
+        * Section 14 (Submission of records by arbitrator under Old Act)
+        * Section 33 (Modification of awards)
+        * Section 34 (Application to set aside award)
+        * Section 36 (Enforcement of award)
+        * Section 85 (Repeal and saving clause)
+    * Code of Civil Procedure, 1908 (CPC)
+        * Section 2(2) (Definition of "decree")
+        * Section 47 (Questions to be determined by the Court executing a decree)
+
+* **Precedents Cited:**
+    * Thyssen Stahlunion GMBH etc. Vs. Steel Authority of India Ltd. : 1999 9 SCC 334
+    * N D Nayak Vs. State of Goa: 2003(6) SCC 56
+    * Neeraj Munjal Vs. Atul Grover Minor: 2005 5 SCC 404
+    * Kiran Singh and others Vs. Chaman Paswan and others: AIR Supreme Court 340
+    * Bhavan Vaja Vs. Solanki Hanuji Khodaji Mansang: 1973(2) SCC 40
+    * Harsad Chiman Lal Modi Vs. DLF Universal Ltd. 2005(7) SCC 791
+    * Chief Engineer Hydel Project Vs. Ravinder Nath: AIR 2008 Supreme Court 1315
+    * Smt. Shakuntala Devi vs. Smt. Vimla reported in 2005 (59) ALR 5999
+    * Trading engineers Internation Ltd. Vs. U.P. power Transmission Corp. Ltd.: 2022(10) ADJ 176(LB)
+    * Sweta construction Vs. Chhatisgarh State Power Generation Company Limited: 2022 SCC Online SC 1447
+    * Padmajeet Singh Patheja Vs. ICDS LTD: (2006) SCC 322
+    * Larsen & Tubro Limited Vs. Maharaji Educational Trust: 2010 SCC Online AII 1866
+    * Bharat Pumps and Compressors Ltd. Vs. Chopra Fabricators and Manufactures Pvt. Ltd.
+    * Hari Shankar Lal vs. Shairtbhu Nath reported in 1962 0 AIR (SC) 78
+
+* **Legal Doctrines:**
+    * Res judicata (a matter that has been decided by a court cannot be brought before a court again)
+    * Functus officio (an official who has completed their term or duties)
+    * Legal fiction (a legal assumption that is made for the purposes of a particular legal case)
+    * Interpretation of contracts (determination of the meaning and intent of parties to a contract)
+
+## 4. Arguments Presented
+
+* **Petitioner’s Argument:**
+    * The arbitration proceedings commenced under the Old Act, 1940, and the arbitrator became functus officio after submitting the award in 2005.
+    * The respondent's application for modification of the award under Section 33 of the New Act, 1996, was beyond the time limit and without the consent of the parties, making it invalid.
+    * There was no agreement between the parties to continue the arbitration proceedings under the New Act, 1996, as required by Section 85(2)(a). Therefore, the arbitrator lacked jurisdiction to proceed under the New Act.
+    * The awards were null and void due to the arbitrator's lack of jurisdiction, and the petitioner could raise this issue even during execution proceedings.
+    * The award was not a decree, and the petitioner was entitled to raise objections under Section 47 of the CPC.
+
+* **Respondent’s Argument:**
+    * The petitioner could not challenge the additional award as it had not objected to the continuation of proceedings under the New Act, 1996, when the arbitrator issued an order in 2002.
+    * The agreement between the parties contained a clause explicitly stating that the applicable law would be the Indian Arbitration Act, 1940, and all its statutory re-enactments, including the New Act, 1996.
+    * The case was similar to the Thyssen Stahlunion case, where the Supreme Court held that parties can agree to the applicability of the New Act even before its enactment.
+    * The petitioner had not raised any objections to the applicability of the New Act during earlier appeals, and could not raise these objections at a later stage.
+    * An arbitral award is not a decree under Section 2(2) of the CPC, and objections under Section 47 of the CPC are not maintainable.
+    * The award was valid and enforceable as per Section 36 of the New Act, 1996, with the provisions of the CPC.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The Court recognized the agreement between the parties in the contract, specifically Section 9.1.1.0 of the agreement, which indicated that the parties had agreed to the applicability of the Indian Arbitration Act, 1940, and all its re-enactments and modifications.
+    * The Court found that the parties had agreed to the applicability of the New Act, 1996, through the arbitration clause in their contract, fulfilling the requirement of Section 85(2)(a).
+    * The Court relied on the Supreme Court judgment in Thyssen Stahlunion GMBH to support its finding that an agreement for the applicability of the New Act could be made even before its enactment.
+    * The Court affirmed that an arbitral award is not a decree as defined under Section 2(2) of the CPC.
+    * The Court concluded that objections under Section 47 of the CPC were not applicable in the context of an arbitral award.
+
+* **Interpretation of Law:**
+    * The Court carefully interpreted the relevant provisions of the Indian Arbitration Act, 1940, the Arbitration and Conciliation Act, 1996, and the Code of Civil Procedure, 1908.
+    * The Court specifically focused on the interpretation of the "unless otherwise agreed" clause in Section 85(2)(a) of the New Act, 1996, and determined that the agreement between the parties in the contract satisfied this requirement.
+
+* **Application of Law:**
+    * The Court applied the legal principles established by the Supreme Court in the Thyssen Stahlunion case to the specific facts of the case, concluding that the parties had agreed to the application of the New Act, 1996, through the contract.
+    * The Court further applied the existing law regarding the nature of arbitral awards as not being decrees, and thus, the objections under Section 47 of the CPC were not maintainable.
+
+## 6. Judgment
+
+* **Final Decision:** The Court dismissed the writ petition as lacking merit.
+* **Relief Granted:** None.
+* **Orders:** The petitioners were ordered to pay Rs. 1,00,000/- in costs to the respondent.
+
+## 7. Implications
+
+* **Impact on Law:** The judgment reinforces the principle that parties can agree to the applicability of new legislation, even before its enactment, through clear provisions in their contracts. This clarifies the interpretation of Section 85(2)(a) of the New Act, 1996.
+* **Future Relevance:** This case provides guidance for interpreting arbitration clauses in contracts that refer to the applicability of statutory re-enactments and modifications. The decision also reaffirms the established legal position that arbitral awards are not decrees under the CPC, and objections under Section 47 of the CPC are not relevant to such awards.
+* **Broader Context:** The judgment highlights the significance of carefully drafting arbitration clauses in contracts to ensure that the parties clearly understand the applicable law and potential future developments in legal frameworks. It also emphasizes the importance of timely raising any objections to an award, as subsequent attempts to challenge the award may be barred.
+
+## 8. Summary Points
+
+* The Court found that the parties had agreed to the applicability of the New Act, 1996, through the arbitration clause in their contract, even though the initial proceedings commenced under the Old Act, 1940.
+* The Court dismissed the petitioner's challenge to the additional award, concluding that the arbitrator had jurisdiction to proceed under the New Act, 1996.
+* The Court upheld the principle that an arbitral award is not a decree under the CPC, and objections under Section 47 of the CPC are not applicable to such awards.
+
+## 9. References
+
+* **Citations:**
+    * Indian Arbitration Act, 1940
+    * Arbitration and Conciliation Act, 1996
+    * Code of Civil Procedure, 1908
+    * Thyssen Stahlunion GMBH etc. Vs. Steel Authority of India Ltd. : 1999 9 SCC 334
+    * Padmajeet Singh Patheja Vs. ICDS LTD: (2006) SCC 322
+
+* **Further Reading:** 
+    * Larsen & Tubro Limited Vs. Maharaji Educational Trust: 2010 SCC Online AII 1866
+    * Bharat Pumps and Compressors Ltd. Vs. Chopra Fabricators and Manufactures Pvt. Ltd. 
+    * Other judgments cited in the case. 

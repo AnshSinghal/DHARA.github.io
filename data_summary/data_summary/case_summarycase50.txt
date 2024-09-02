@@ -1,0 +1,91 @@
+## 1. Case Title
+
+* **Case Name:** Satyanarain Khandelwal vs Prem Arora
+* **Court:** Delhi High Court
+* **Date of Judgment:** 18th July 2022
+* **Citation:**  Not Provided
+
+## 2. Background and Context
+
+* **Brief Overview:** The case involves six separate transfer petitions filed by six tenants (petitioners) against a landlord (respondent) seeking transfer of their respective pending suits from the Additional District Judge, Patiala House Courts, New Delhi, to the designated Commercial Court. The dispute arises from an Agreement to Sell entered into between the petitioners and the respondent regarding shops located in a property owned by the respondent. The respondent later filed suits against the petitioners for possession, arrears of rent, and mesne profits. The petitioners, in turn, filed suits for specific performance and permanent prohibitory injunction against the respondent. The transfer petitions were filed under Section 15(5) of the Commercial Courts Act, 2015 (hereinafter "2015 Act") arguing that the suits were commercial in nature and should be transferred to the Commercial Court.
+
+* **Key Issues:** The key issue is whether the Commercial Courts (Amendment) Act, 2018 (hereinafter "Amending Act") should apply retrospectively to the petitioners' cases filed before the date of the Amending Act, 03.05.2018. 
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * Commercial Courts Act, 2015 (2015 Act)
+        * Section 2(i): Defines "Specified Value" as the value of the subject matter in a commercial dispute.
+        * Section 15(5): Allows the Commercial Appellate Division of the High Court to transfer pending suits to the Commercial Division or Commercial Court, if not already done so, as per subsections (1), (2), or (3).
+    * Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts (Amendment) Act, 2018 (Amending Act)
+        * Section 19:  States that the provisions of the Amending Act shall apply only to cases relating to commercial disputes filed on or after the date of commencement of the Act, unless otherwise provided.
+* **Precedents Cited:**
+    * Monnet Ispat and Energy Limited v. Union of India and Ors., (2012) 11 SCC 1
+    * Hitendra Vishnu Thakur v. State of Maharashtra, (1994) 4 SCC 602
+    * Jharkhand v. Govind Singh, (2005) 10 SCC 437
+    * Gurudevdatta VKSSS Maryadit v. State of Maharashtra, (2001) 4 SCC 534
+* **Legal Doctrines:**
+    * **Presumption of Prospectivity:** Statutes are presumed to have a prospective effect unless made retrospective expressly or by necessary implication.
+    * **Golden Rule of Interpretation:**  Words in a statute must be given their ordinary meaning unless this leads to absurdity or contradicts the context or object of the statute.
+    * **Saving Clause:** A saving clause preserves certain existing rights, remedies, and privileges.
+    * **Purposive Interpretation:**  The court interprets the law to achieve the purpose of the statute.
+
+## 4. Arguments Presented
+
+* **Plaintiff’s Argument (Petitioners):**
+    * The 2015 Act aimed to expedite commercial disputes of high pecuniary value.
+    * The Amending Act lowered the "specified value" to Rs. 3 lakhs, thereby bringing more cases under the purview of the Commercial Courts.
+    * The "saving clause" in Section 19 of the Amending Act preserves the effect of Section 15 of the 2015 Act, allowing transfer of pending cases even with a value lower than Rs. 1 crore.
+    * A purposive interpretation of the Amending Act requires the transfer of pending cases to the Commercial Court.
+
+* **Defendant’s Argument (Respondents & Delhi High Court):**
+    * Section 19 of the Amending Act explicitly states its application only to cases filed on or after 03.05.2018.
+    * Applying the Amending Act retrospectively would affect the substantive rights of parties who had already filed suits in ordinary courts.
+    * It would create administrative and practical difficulties, such as the mandatory pre-institution mediation requirement introduced by Section 12A of the 2015 Act.
+    * The "saving clause" in Section 19 applies only to the provisions of the Amending Act, not to the 2015 Act.
+    * A retrospective application would defeat the purpose of the 2015 Act, which was to expedite high-value commercial disputes, and would overburden the Commercial Courts system.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The court acknowledges the purpose of the 2015 Act and the Amending Act to expedite commercial disputes.
+    * The court notes the administrative and practical difficulties associated with retrospective application.
+    * The court recognizes the principle of presumption of prospectivity and the golden rule of interpretation.
+* **Interpretation of Law:**
+    * The court interprets Section 19 of the Amending Act as clearly stating that the provisions apply only to cases filed after 03.05.2018.
+    * The court interprets the "saving clause" in Section 19 as preserving existing rights and privileges, not creating new ones.
+* **Application of Law:**
+    * The court applies the principle of presumption of prospectivity to the Amending Act, concluding that it does not apply retrospectively.
+    * The court finds that the petitioners' argument based on the "saving clause" is not valid as it does not create new rights.
+
+## 6. Judgment
+
+* **Final Decision:** The petitions for transfer are dismissed.
+* **Relief Granted:** None.
+* **Orders:** The suits will remain pending before the Additional District Judge, Patiala House Courts, New Delhi.
+
+## 7. Implications
+
+* **Impact on Law:** The judgment clarifies that the Amending Act does not have retrospective effect, upholding the principle of presumption of prospectivity in statutory interpretation.
+* **Future Relevance:** The case serves as a precedent for similar disputes concerning the retrospective application of the Amending Act.
+* **Broader Context:** The judgment highlights the need for clarity in legislation regarding retrospective effect and the importance of preserving vested rights in judicial proceedings.
+
+## 8. Summary Points
+
+* The Delhi High Court dismissed transfer petitions seeking to transfer suits to the Commercial Court, holding that the Commercial Courts (Amendment) Act, 2018 does not apply retrospectively.
+* The court relied on the principle of presumption of prospectivity and the clear language of Section 19 of the Amending Act, which explicitly states its prospective application.
+* The court found that the petitioners' argument based on the "saving clause" in Section 19 was not valid. 
+* The judgment upholds the principle of vested rights and avoids potential administrative and practical difficulties associated with a retrospective application.
+
+## 9. References
+
+* **Citations:**
+    * Commercial Courts Act, 2015 (2015 Act)
+    * Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts (Amendment) Act, 2018 (Amending Act)
+    * Monnet Ispat and Energy Limited v. Union of India and Ors., (2012) 11 SCC 1
+    * Hitendra Vishnu Thakur v. State of Maharashtra, (1994) 4 SCC 602
+    * Jharkhand v. Govind Singh, (2005) 10 SCC 437
+    * Gurudevdatta VKSSS Maryadit v. State of Maharashtra, (2001) 4 SCC 534
+* **Further Reading:**
+    * The 188th Report of the Law Commission of India on "Proposals for Constitution of Hi-Tech Fast-Track Commercial Divisions in High Courts."
+    * Other judgments on the interpretation of the Commercial Courts Act, 2015 and the Amending Act. 

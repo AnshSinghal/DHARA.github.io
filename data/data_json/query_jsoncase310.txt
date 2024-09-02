@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A defendant in a commercial suit filed after the Commercial Courts Act came into force, but before a Commercial Court was established, failed to file a written statement within 120 days. The suit was later transferred to the Commercial Court. Can the defendant's written statement, filed after the 120-day period but before transfer, be accepted?",
+    "Legal Principles": "The Commercial Courts Act provides for the constitution of Commercial Courts and the transfer of pending cases relating to commercial disputes. In the case of transferred suits, the court retains the discretion to prescribe a new time period for filing the written statement, overriding the 120-day limitation.",
+    "Relevant Sections": "Section 15 of the Commercial Courts Act, 2015, particularly Sub-section 4 and the proviso thereto, grants discretion to the Commercial Court to prescribe a new time period for filing the written statement in transferred suits.",
+    "Context": "This case deals with the interpretation of the Commercial Courts Act, 2015, specifically its application to transferred suits and the time limit for filing written statements."
+  },
+  {
+    "Query": "A construction contract dispute was filed as a regular money suit before the establishment of a Commercial Court. The suit was subsequently transferred to the Commercial Court after it became operational. The defendant had filed a written statement within the time allowed by the original court but it was not formally accepted. Does the 120-day limit for filing written statements in commercial suits apply in this transferred case?",
+    "Legal Principles": "The 120-day limitation for filing written statements in commercial suits applies only to suits filed after the establishment of a Commercial Court. Suits filed before the court's establishment and subsequently transferred, are subject to the provisions of Section 15 of the Commercial Courts Act, which grants discretion to the court regarding time periods.",
+    "Relevant Sections": "Section 15 of the Commercial Courts Act, 2015, specifically the proviso to Sub-section 4, which provides for the court's discretion to prescribe new time periods in transferred cases.",
+    "Context": "This case involves the interpretation of the Commercial Courts Act, 2015, in the context of a transferred suit, and the applicability of the 120-day limit for filing written statements in commercial suits."
+  },
+  {
+    "Query": "A plaintiff filed a commercial suit before the Commercial Court was established. The suit was transferred to the Commercial Court after its operationalization. The defendant filed a written statement after the 120-day period. Can the Commercial Court accept the written statement, considering the delay is due to the court's inability to hold proceedings due to bar association resolutions?",
+    "Legal Principles": "The court has the discretion to accept a written statement filed after the 120-day period in a transferred commercial suit, considering the delay is due to the court's inability to hold proceedings. An act of court should prejudice no one, and the defendant should not suffer due to the court's fault.",
+    "Relevant Sections": "Section 15(4) of the Commercial Courts Act, 2015, provides for the court's discretion to prescribe new time periods in transferred cases, overriding the 120-day limit.",
+    "Context": "This case deals with the application of the Commercial Courts Act, 2015, to transferred suits and the interpretation of the proviso to Section 15(4) regarding the court's discretion to accept a written statement filed beyond the 120-day limit."
+  },
+  {
+    "Query": "A company filed a commercial suit against another company, claiming damages for breach of contract. The defendant filed a written statement, but the court failed to accept it due to administrative delays. The suit was subsequently transferred to the Commercial Court. The defendant now seeks to have the written statement accepted. Is the court bound to accept the written statement, even though it was filed outside the 120-day limit?",
+    "Legal Principles": "The Commercial Court has the discretion to accept a written statement filed after the 120-day limit in a transferred commercial suit, if the delay was caused by factors outside the defendant's control, such as administrative delays. The court has the power to prescribe a new time period for filing the written statement.",
+    "Relevant Sections": "Section 15(4) of the Commercial Courts Act, 2015, provides for the court's discretion to prescribe new time periods in transferred cases, overriding the 120-day limit.",
+    "Context": "This case involves the interpretation of the Commercial Courts Act, 2015, in the context of a transferred commercial suit, specifically the court's power to accept a written statement filed beyond the 120-day limit due to administrative delays."
+  },
+  {
+    "Query": "A plaintiff filed a commercial suit seeking recovery of a debt before the Commercial Court was established. The suit was transferred to the Commercial Court after it became operational. The defendant failed to file a written statement within the 120-day limit. Can the defendant's written statement, filed after the 120-day period, be accepted?",
+    "Legal Principles": "The court has the discretion to accept a written statement filed after the 120-day limit in a transferred commercial suit, considering the circumstances of the case. The court should consider the delay, the reasons for the delay, and the potential prejudice to the parties.",
+    "Relevant Sections": "Section 15(4) of the Commercial Courts Act, 2015, provides for the court's discretion to prescribe new time periods in transferred cases, overriding the 120-day limit.",
+    "Context": "This case deals with the interpretation of the Commercial Courts Act, 2015, specifically its application to transferred suits and the time limit for filing written statements."
+  },
+  {
+    "Query": "A commercial dispute involving a breach of contract was filed as a regular suit before a civil court. The suit was later transferred to the Commercial Court. The defendant failed to file a written statement within the 120-day limit prescribed for commercial suits. Can the defendant's written statement, filed after the 120-day period, be accepted?",
+    "Legal Principles": "The court has the discretion to accept a written statement filed after the 120-day limit in a transferred commercial suit, considering the circumstances of the case. The court should consider the delay, the reasons for the delay, and the potential prejudice to the parties.",
+    "Relevant Sections": "Section 15(4) of the Commercial Courts Act, 2015, provides for the court's discretion to prescribe new time periods in transferred cases, overriding the 120-day limit.",
+    "Context": "This case deals with the interpretation of the Commercial Courts Act, 2015, specifically its application to transferred suits and the time limit for filing written statements."
+  },
+  {
+    "Query": "A company filed a commercial suit against another company, claiming damages for breach of contract. The defendant filed a written statement within the 30-day time limit, but the court failed to formally accept it due to administrative delays. The suit was later transferred to the Commercial Court. The defendant now seeks to have the written statement accepted. Is the Commercial Court obligated to accept the written statement, even though it was filed before the Commercial Court was established?",
+    "Legal Principles": "The Commercial Court has the discretion to accept a written statement filed before the court's establishment, even if it was filed outside the 120-day limit for commercial suits. The court should consider the circumstances of the case, including the delay, the reasons for the delay, and the potential prejudice to the parties.",
+    "Relevant Sections": "Section 15(4) of the Commercial Courts Act, 2015, provides for the court's discretion to prescribe new time periods in transferred cases, overriding the 120-day limit.",
+    "Context": "This case involves the interpretation of the Commercial Courts Act, 2015, in the context of a transferred commercial suit, specifically the court's power to accept a written statement filed before the court's establishment but outside the 120-day limit."
+  },
+  {
+    "Query": "A plaintiff filed a commercial suit seeking recovery of a debt, claiming that the defendant had failed to make timely payments. The suit was filed before the Commercial Court was established. The suit was subsequently transferred to the Commercial Court. The defendant, due to a misunderstanding of the new rules, failed to file a written statement within the 120-day limit for commercial suits. Can the Commercial Court accept the defendant's written statement, filed after the 120-day period?",
+    "Legal Principles": "The Commercial Court has the discretion to accept a written statement filed after the 120-day limit in a transferred commercial suit, considering the circumstances of the case. The court should consider the delay, the reasons for the delay, and the potential prejudice to the parties.",
+    "Relevant Sections": "Section 15(4) of the Commercial Courts Act, 2015, provides for the court's discretion to prescribe new time periods in transferred cases, overriding the 120-day limit.",
+    "Context": "This case deals with the interpretation of the Commercial Courts Act, 2015, specifically its application to transferred suits and the time limit for filing written statements."
+  },
+  {
+    "Query": "A construction company filed a commercial suit against a property developer, claiming damages for breach of contract. The suit was filed before the Commercial Court was established. The suit was subsequently transferred to the Commercial Court. The defendant, due to unforeseen circumstances, failed to file a written statement within the 120-day limit for commercial suits. Can the Commercial Court accept the defendant's written statement, filed after the 120-day period?",
+    "Legal Principles": "The Commercial Court has the discretion to accept a written statement filed after the 120-day limit in a transferred commercial suit, considering the circumstances of the case. The court should consider the delay, the reasons for the delay, and the potential prejudice to the parties.",
+    "Relevant Sections": "Section 15(4) of the Commercial Courts Act, 2015, provides for the court's discretion to prescribe new time periods in transferred cases, overriding the 120-day limit.",
+    "Context": "This case deals with the interpretation of the Commercial Courts Act, 2015, specifically its application to transferred suits and the time limit for filing written statements."
+  },
+  {
+    "Query": "A software company filed a commercial suit against a client, claiming payment for services rendered. The suit was filed before the Commercial Court was established. The suit was subsequently transferred to the Commercial Court. The defendant, due to a lack of legal representation, failed to file a written statement within the 120-day limit for commercial suits. Can the Commercial Court accept the defendant's written statement, filed after the 120-day period?",
+    "Legal Principles": "The Commercial Court has the discretion to accept a written statement filed after the 120-day limit in a transferred commercial suit, considering the circumstances of the case. The court should consider the delay, the reasons for the delay, and the potential prejudice to the parties.",
+    "Relevant Sections": "Section 15(4) of the Commercial Courts Act, 2015, provides for the court's discretion to prescribe new time periods in transferred cases, overriding the 120-day limit.",
+    "Context": "This case deals with the interpretation of the Commercial Courts Act, 2015, specifically its application to transferred suits and the time limit for filing written statements."
+  }
+]
+```

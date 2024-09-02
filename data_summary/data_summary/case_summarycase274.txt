@@ -1,0 +1,94 @@
+##  1. Case Title
+
+•	Case Name: Tata Consumer Products Limited vs Itc Limited 
+•	Court: Telangana High Court
+•	Date of Judgment: 21st April 2023
+•	Citation: CMA No.69 of 2023
+
+## 2. Background and Context
+
+•	Brief Overview: ITC Limited (Respondent/Plaintiff) filed a suit against Tata Consumer Products Limited (Appellant/Respondent/Defendant) alleging infringement of their registered trademark "AASHIRVAAD" salt and passing off due to the defendant's launch of "SHUDDH by TATA salt" in a packaging allegedly similar to the plaintiff's. 
+•	Key Issues: 
+    - Whether the defendant's packaging for "SHUDDH by TATA salt" infringes the plaintiff's registered trademark "AASHIRVAAD" salt.
+    - Whether the defendant's packaging constitutes passing off.
+    - Whether the plaintiff was required to undergo pre-institution mediation under Section 12-A of the Commercial Courts Act, 2015 before filing the suit.
+
+## 3. Legal Principles Involved
+
+•	Relevant Statutes and Provisions:
+    - The Trade Marks Act, 1999
+    - The Commercial Courts Act, 2015 (including Section 12-A)
+    - The Code of Civil Procedure, 1908 (including Order VII Rule 1, Order XXXIX Rules 1 and 2)
+    - The Limitation Act, 1963
+    - The Legal Services Authorities Act, 1987
+    - The Arbitration and Conciliation Act, 1996
+•	Precedents Cited:
+    - M/s. Patil Automation Private Limited and others vs. Rakheja Engineers Private Limited (2022 (10) SCC 1)
+    - Deepak Raheja vs. Ganga Taro Vazirani (Commercial Appeal (L) No.11950 of 2021 of Bombay High Court dated 1.10.2021)
+•	Legal Doctrines:
+    - Trademark infringement
+    - Passing off
+    - Mandatory pre-institution mediation under the Commercial Courts Act
+
+## 4. Arguments Presented
+
+•	Plaintiff’s Argument:
+    - The defendant's "SHUDDH by TATA salt" packaging is a colourable imitation of the plaintiff's "AASHIRVAAD salt" packaging, leading to confusion among consumers.
+    - The defendant's actions constitute infringement of the plaintiff's registered trademark and passing off.
+    - The defendant is intentionally trying to capitalize on the goodwill and reputation of the plaintiff's "AASHIRVAAD salt" brand.
+    - The plaintiff is suffering irreparable damage and requires immediate injunction to prevent further infringement and passing off.
+    - Section 12-A of the Commercial Courts Act, 2015 does not apply in this case because the plaintiff needs urgent interim relief.
+•	Defendant’s Argument:
+    - The defendant's packaging is not deceptively similar to the plaintiff's packaging and does not infringe their trademark.
+    - The plaintiff failed to comply with Section 12-A of the Commercial Courts Act, 2015 by not availing pre-institution mediation before filing the suit, rendering the suit non-maintainable.
+    - The plaintiff's claim of urgency is exaggerated, and the injunction granted by the trial court was unjustified.
+
+## 5. Court’s Analysis and Reasoning
+
+•	Key Findings:
+    - The court recognized the importance of pre-institution mediation as a means to resolve commercial disputes and reduce court congestion.
+    - The court found that Section 12-A of the Commercial Courts Act, 2015 is mandatory and cannot be easily bypassed.
+    - The court determined that the plaintiff did not convincingly demonstrate the urgency required to dispense with pre-institution mediation.
+•	Interpretation of Law:
+    - The court interpreted Section 12-A of the Commercial Courts Act, 2015 to be a mandatory requirement for all suits that do not contemplate urgent interim relief.
+    - The court relied on precedents from the Supreme Court and the Bombay High Court to support its interpretation of Section 12-A.
+•	Application of Law:
+    - The court applied the principles established in the cited precedents to the facts of the case.
+    - The court considered the plaintiff's claim of urgency and concluded that the need for immediate injunction did not justify bypassing pre-institution mediation.
+
+## 6. Judgment
+
+•	Final Decision: The court allowed the appeal and set aside the order granting injunction against the defendant.
+•	Relief Granted: The court remitted the matter back to the Commercial Court to reconsider the maintainability of the suit based on the mandatory requirement of pre-institution mediation under Section 12-A of the Commercial Courts Act, 2015.
+•	Orders: The court directed the Commercial Court to determine whether the plaintiff fulfilled the conditions to dispense with mediation before instituting the suit.
+
+## 7. Implications
+
+•	Impact on Law: The judgment reaffirms the mandatory nature of pre-institution mediation under Section 12-A of the Commercial Courts Act, 2015.
+•	Future Relevance: This case serves as a precedent for future cases involving similar disputes and highlights the strict application of the pre-institution mediation requirement.
+•	Broader Context: The judgment underscores the increasing importance of alternative dispute resolution mechanisms in India, particularly in the realm of commercial disputes. 
+
+## 8. Summary Points
+
+•	Key Takeaways:
+    - Pre-institution mediation under Section 12-A of the Commercial Courts Act, 2015 is mandatory for commercial disputes that do not require urgent interim relief.
+    - Plaintiffs seeking to bypass mediation must demonstrate convincing evidence of urgency and irreparable harm.
+    - The court emphasized the importance of promoting mediation as an effective way to resolve commercial disputes and alleviate court congestion.
+
+## 9. References
+
+•	Citations:
+    - The Commercial Courts Act, 2015
+    - The Trade Marks Act, 1999
+    - The Code of Civil Procedure, 1908
+    - The Limitation Act, 1963
+    - The Legal Services Authorities Act, 1987
+    - The Arbitration and Conciliation Act, 1996
+    - M/s. Patil Automation Private Limited and others vs. Rakheja Engineers Private Limited (2022 (10) SCC 1)
+    - Deepak Raheja vs. Ganga Taro Vazirani (Commercial Appeal (L) No.11950 of 2021 of Bombay High Court dated 1.10.2021)
+
+•	Further Reading:
+    - The Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015
+    - The World Bank's “Doing Business Report”
+    - Articles and reports on mediation in India
+    - Case law on Section 12-A of the Commercial Courts Act, 2015

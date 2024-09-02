@@ -1,0 +1,100 @@
+## 1. Case Title
+
+* **Case Name:** Ram Kumar & Anr. vs. Shriram Transport Finance Co. Ltd.
+* **Court:** Delhi High Court
+* **Date of Judgment:** 5 December, 2022
+* **Citation:** 2022/DHC/005313
+
+## 2. Background and Context
+
+* **Brief Overview:** The appellants, Ram Kumar and Sunil Mehta, took a loan from the respondent, Shriram Transport Finance Co. Ltd., to purchase a vehicle.  The loan was secured by a loan-cum-hypothecation agreement. When the appellants defaulted on their payments, the respondent seized the vehicle and sold it. The appellants challenged the sale price and disputed the respondent's demand for further sums. The case went to arbitration, resulting in an award in favor of the respondent. The appellants challenged this award in the Commercial Court, which upheld the award. The present appeal is against that order.
+* **Key Issues:**
+    * Was the appointment of the sole arbitrator by the respondent without the appellants' knowledge permissible?
+    * Did the sole arbitrator fail to make the necessary disclosures as required under Section 12(1) of the Arbitration and Conciliation Act, 1996 (A&C Act)?
+    * Was the sole arbitrator ineligible to be appointed as an arbitrator under Section 12(5) of the A&C Act?
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * **Arbitration and Conciliation Act, 1996:**
+        * Section 12(1): Requires an arbitrator to disclose circumstances that may give rise to justifiable doubts about their independence or impartiality.
+        * Section 12(5): Makes certain individuals ineligible to be appointed as arbitrators, including those with a relationship to the parties or the subject matter of the dispute.
+        * Section 34: Provides grounds for challenging an arbitral award.
+        * Section 37: Allows for an appeal against an order of the court on an application under Section 34.
+    * **Companies Act, 1956:** Incorporation of the respondent company.
+
+* **Precedents Cited:**
+    * **TRF Ltd. v. Energo Engineering Projects Ltd.: (2017) 8 SCC 377:** Held that the Managing Director of a party is ineligible to be an arbitrator, and therefore, ineligible to appoint an arbitrator.
+    * **Perkins Eastman Architects DPC & Anr. v. HSCC (India) Ltd.: (2020) 20 SCC 760:** Affirmed the principle from TRF Ltd. case, holding that a Chairman-cum-Managing Director is also ineligible.
+    * **Proddatur Cable TV Digi Services v. Siti Cable Network Limited: (2020) 267 DLT 51:**  Held that unilateral appointment of an arbitrator by a party is not permissible.
+    * **Bharat Broadband Network Limited v. United Telecoms Limited: (2019) 5 SCC 755:**  Rejected the notion that waiver of the right to object to an ineligible arbitrator under Section 12(5) can be inferred by conduct; it requires an express written agreement.
+
+* **Legal Doctrines:**
+    * **Independence and Impartiality of Arbitrators:** A fundamental principle of arbitration that requires arbitrators to be free from any bias or prejudice that could affect their decision-making.
+    * **Unilateral Appointment of Arbitrators:**  Generally considered impermissible, as it can raise concerns about the fairness of the process.
+    * **Waiver of Ineligibility:**  The right to object to an ineligible arbitrator can be waived by the parties, but this must be done expressly and in writing.
+
+## 4. Arguments Presented
+
+* **Appellants' Argument:**
+    * The sole arbitrator was appointed unilaterally by the respondent without their knowledge or concurrence.
+    * The arbitrator was ineligible to be appointed as he had been appointed by the respondent in several matters and was on their panel.
+    * The arbitrator failed to make the necessary disclosures under Section 12(1) of the A&C Act regarding his relationship with the respondent.
+    * The sale of the seized vehicle was non-transparent and at a price below its market value.
+
+* **Respondent's Argument:**
+    * The appellants had invoked the arbitration clause and requested the appointment of an arbitrator.
+    * The sole arbitrator made no disclosures because he believed there were no circumstances raising justifiable doubts about his independence or impartiality.
+    * The appellants failed to challenge the arbitrator's appointment during the arbitration proceedings.
+    * The vehicle was sold at the best available market price.
+
+## 5. Court's Analysis and Reasoning
+
+* **Key Findings:**
+    * The sole arbitrator was appointed unilaterally by the respondent, which is impermissible.
+    * The arbitrator was required to disclose his numerous appointments by the respondent under Section 12(1) of the A&C Act. 
+    * The respondent's failure to provide details of the arbitrator's previous appointments raises serious concerns about his independence and impartiality.
+    * The court did not accept the respondent's argument that the appellants failed to challenge the arbitrator's appointment during the arbitration.
+    * The court found that the arbitrator was ineligible under Section 12(5) of the A&C Act due to his repeated appointments by the respondent.
+
+* **Interpretation of Law:**
+    * The court interpreted Section 12(1) of the A&C Act as mandating the disclosure of any circumstances that may raise doubts about an arbitrator's independence or impartiality.
+    * The court found that the disclosure requirement is not optional and must be made even if the arbitrator believes there are no grounds for suspicion.
+    * The court applied the precedents from TRF Ltd. v. Energo Engineering Projects Ltd. and Perkins Eastman Architects DPC & Anr. v. HSCC (India) Ltd. to determine the ineligibility of the arbitrator under Section 12(5) of the A&C Act.
+
+* **Application of Law:**
+    * The court applied the legal principles of independence and impartiality of arbitrators, finding that the sole arbitrator's repeated appointments by the respondent created a justifiable doubt about his neutrality.
+    * The court applied the principle of unilateral appointment, concluding that the respondent's unilateral appointment of the arbitrator violated the principles of fairness and due process.
+
+## 6. Judgment
+
+* **Final Decision:** The appeal is allowed.
+* **Relief Granted:** The impugned order upholding the arbitral award, as well as the arbitral award itself, are set aside.
+* **Orders:** All pending applications are disposed of. The parties are left to bear their own costs.
+
+## 7. Implications
+
+* **Impact on Law:** The judgment reinforces the importance of ensuring the independence and impartiality of arbitrators, particularly in cases where a party has repeatedly appointed the same arbitrator in numerous matters. It highlights the mandatory nature of disclosure requirements under Section 12(1) of the A&C Act and the impermissibility of unilateral appointment of arbitrators.
+* **Future Relevance:** This case provides valuable guidance to parties involved in arbitration proceedings, particularly in cases where the appointment of an arbitrator is challenged. It emphasizes the need for parties to ensure that arbitrators are independent and impartial and that the necessary disclosures are made.
+* **Broader Context:** The judgment contributes to the overall effort to uphold the integrity of arbitration as a reliable and fair method of dispute resolution.
+
+## 8. Summary Points
+
+* The Delhi High Court set aside an arbitral award because the sole arbitrator was appointed unilaterally by the respondent and failed to make necessary disclosures about his previous appointments.
+* The court emphasized the importance of arbitrator independence and impartiality, stating that the disclosure requirement under Section 12(1) of the A&C Act is mandatory, not optional.
+* The judgment reiterated the principle that unilateral appointment of arbitrators is impermissible and that parties must ensure the appointment of independent and impartial arbitrators.
+
+## 9. References
+
+* **Arbitration and Conciliation Act, 1996**
+* **Companies Act, 1956**
+* **TRF Ltd. v. Energo Engineering Projects Ltd.: (2017) 8 SCC 377**
+* **Perkins Eastman Architects DPC & Anr. v. HSCC (India) Ltd.: (2020) 20 SCC 760**
+* **Proddatur Cable TV Digi Services v. Siti Cable Network Limited: (2020) 267 DLT 51**
+* **Bharat Broadband Network Limited v. United Telecoms Limited: (2019) 5 SCC 755**
+
+## Further Reading
+
+* **Arbitration and Conciliation Act, 1996 (A&C Act)**
+* **Law Commission of India Report on Arbitration and Conciliation**
+* **The Supreme Court of India's website (for full judgments in cited cases)** 

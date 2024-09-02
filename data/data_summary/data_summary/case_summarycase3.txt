@@ -1,0 +1,95 @@
+## 1. Case Title
+
+* **Case Name:** Ambalal Sarabhai Enterprises Ltd. vs. K.S. Infraspace LLP & Anr.
+* **Court:** Supreme Court of India
+* **Date of Judgment:** 4th October 2019
+* **Citation:** AIRONLINE 2019 SC 1170, (2019) 13 SCALE 575
+
+## 2. Background and Context
+
+* **Brief Overview:** The appellant, Ambalal Sarabhai Enterprises Ltd. (ASEL), had sold a piece of land to the respondent, K.S. Infraspace LLP (KSIL), under an agreement to sell dated 14.02.2012. KSIL later assigned its rights under the agreement to sell to another respondent. As part of the transaction, ASEL and the respondents entered into a Memorandum of Understanding (MOU) on 03.11.2017, which required KSIL to execute a Mortgage Deed in ASEL's favour. KSIL executed the Mortgage Deed but did not register it. ASEL then filed a suit in the Commercial Court at Vadodara seeking to enforce the execution of the Mortgage Deed and other reliefs. The respondents challenged the maintainability of the suit in the Commercial Court arguing that the dispute was not a "commercial dispute" within the meaning of the Commercial Courts Act, 2015. The Commercial Court rejected this argument, but the Gujarat High Court reversed the decision and directed the return of the plaint to be presented in an appropriate court. ASEL appealed the High Court's decision to the Supreme Court.
+
+* **Key Issues:**
+    * Whether the dispute between the parties constituted a "commercial dispute" under the Commercial Courts Act, 2015.
+    * Whether the immovable property involved was being "used exclusively in trade or commerce" as required under Section 2(1)(c)(vii) of the Act.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * Commercial Courts Act, 2015, specifically Section 2(1)(c)(vii) defining "commercial dispute" as disputes arising out of "agreements relating to immovable property used exclusively in trade or commerce".
+    * Code of Civil Procedure, 1908, particularly Order VII Rule 10 dealing with returning plaints.
+
+* **Precedents Cited:**
+    * Jagmohan Behl vs. State Bank of Indore, 2017 SCC OnLine Del 10706 
+    * Vasu Healthcare Private Limited vs. Gujarat Akruti TCG Biotech Limited, AIR 2017 Gujarat 153
+    * Federation of A.P. Chambers of Commerce & Industry and Ors. vs. State of A.P. and Ors., (2000) 6 SCC 550 
+    * Ujwala Raje Gaekwar v. Hemaben Achyut Shah 2017 SCC Guj 583
+    * Vasu Healthcare Private Limited v. Gujarat Akruti TCG Biotch Limited & Another 2017 SCC OnLine Guj 724
+
+* **Legal Doctrines:** 
+    * **Purposive Interpretation:** The court considered the intent and purpose behind the enactment of the Commercial Courts Act, 2015 while interpreting its provisions.
+    * **Strict Interpretation:** The court emphasized that the definition of "commercial dispute" in the Act should be interpreted strictly to prevent the clogging of the system with non-commercial disputes and ensure speedy resolution of genuine commercial disputes.
+
+## 4. Arguments Presented
+
+* **Appellant’s Argument (ASEL):**
+    * ASEL argued that the land was used for industrial purposes by the company and subsequently by the respondent who intended to develop it, making it fall under the definition of "immovable property used exclusively in trade or commerce".
+    * ASEL relied on the statement of objects and reasons for the Commercial Courts Act, 2015, emphasizing the need for a speedy resolution of high-value commercial disputes and advocating for a wider interpretation of "commercial dispute".
+
+* **Respondent’s Argument (KSIL):**
+    * KSIL argued that ASEL's company had ceased to function several years prior and the land was not being used for trade or commerce at the time of the transaction.
+    * KSIL argued that the land would only be used for trade or commerce if the change of land use permission was granted, which was uncertain and not a current reality.
+    * KSIL relied on precedents that emphasized the "actually used" interpretation of the "used exclusively in trade or commerce" provision.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The court acknowledged that the intent behind the Commercial Courts Act was to provide speedy resolution of high-value commercial disputes. However, the court emphasized that this purpose would be defeated if all disputes, regardless of their actual commercial nature, were entertained by the Commercial Courts.
+    * The court found that the pleadings in the plaint did not adequately establish that the land was being used exclusively in trade or commerce at the time of the agreement or the suit.
+    * The court emphasized that the phrase "used exclusively in trade or commerce" in the Act requires actual use and not just a potential or future use.
+
+* **Interpretation of Law:**
+    * The court adopted a strict interpretation of the definition of "commercial dispute" in Section 2(1)(c)(vii) of the Commercial Courts Act, 2015, to ensure that only genuine commercial disputes are entertained by the Commercial Courts.
+    * The court rejected the appellant's argument for a wider interpretation of "commercial dispute" based on the statement of objects and reasons of the Act.
+    * The court emphasized that the term "used" in the Act denotes actual use and not potential or future use.
+
+* **Application of Law:**
+    * The court applied the principles of purposive interpretation and strict interpretation to the relevant provisions of the Act.
+    * The court examined the pleadings in the plaint and found that they lacked sufficient evidence to establish the actual use of the property in trade or commerce.
+    * The court relied on precedents that favored the "actually used" interpretation of the "used exclusively in trade or commerce" provision.
+
+## 6. Judgment
+
+* **Final Decision:** The Supreme Court dismissed the appeal.
+* **Relief Granted:** The court upheld the High Court's order to return the plaint to be presented in a court having jurisdiction.
+* **Orders:** The Commercial Court was directed to return the plaint with a date for its presentation before a court having jurisdiction.
+
+## 7. Implications
+
+* **Impact on Law:** The judgment reinforces the need for a strict interpretation of the definition of "commercial dispute" under the Commercial Courts Act, 2015, to ensure that only genuine commercial disputes are entertained by the Commercial Courts. It also emphasizes the "actually used" interpretation of the "used exclusively in trade or commerce" provision.
+
+* **Future Relevance:** The case sets a precedent for future cases involving the interpretation of "commercial dispute" and the application of Section 2(1)(c)(vii) of the Commercial Courts Act, 2015. It provides guidance on the level of proof required to establish actual use of immovable property in trade or commerce.
+
+* **Broader Context:** The judgment contributes to the understanding and application of the Commercial Courts Act, 2015, aimed at ensuring the efficient and speedy resolution of commercial disputes in India. It also highlights the importance of accurate pleadings in civil suits to establish the jurisdiction of the relevant court.
+
+## 8. Summary Points
+
+* **Key Takeaways:**
+    * The "used exclusively in trade or commerce" provision in the Commercial Courts Act, 2015 requires actual use of the property at the time of the agreement or the suit, not just potential or future use.
+    * Pleadings in the plaint must clearly establish the actual use of the property in trade or commerce to invoke the jurisdiction of the Commercial Court.
+    * The intent of the Commercial Courts Act is to expedite the resolution of genuine commercial disputes, but this purpose should not be used to justify the inclusion of non-commercial disputes within its purview.
+
+## 9. References
+
+* **Citations:**
+    * Commercial Courts Act, 2015
+    * Code of Civil Procedure, 1908
+    * Jagmohan Behl vs. State Bank of Indore, 2017 SCC OnLine Del 10706 
+    * Vasu Healthcare Private Limited vs. Gujarat Akruti TCG Biotech Limited, AIR 2017 Gujarat 153
+    * Federation of A.P. Chambers of Commerce & Industry and Ors. vs. State of A.P. and Ors., (2000) 6 SCC 550 
+    * Ujwala Raje Gaekwar v. Hemaben Achyut Shah 2017 SCC Guj 583
+    * Vasu Healthcare Private Limited v. Gujarat Akruti TCG Biotch Limited & Another 2017 SCC OnLine Guj 724
+
+* **Further Reading:** 
+    * Law Commission’s 253rd Report - Commercial Division and Commercial Appellate Division of High Courts and Commercial Courts Bill, 2015.
+    * Cases involving the interpretation of "commercial dispute" and Section 2(1)(c)(vii) of the Commercial Courts Act, 2015. 

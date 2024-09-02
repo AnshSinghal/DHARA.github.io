@@ -1,0 +1,81 @@
+## Case Title
+
+* **Case Name:** M/S.Magic Frames vs M/S.Radiance Media P. Ltd.
+* **Court:** Madras High Court
+* **Date of Judgment:** 04.06.2019
+* **Citation:** O.S.A.No.447 of 2018
+
+## Background and Context
+
+* **Brief Overview:** This case involves a dispute between M/S.Magic Frames, a film production company, and M/S. Radiance Media P. Ltd., a finance company. Radiance Media had lent money to Magic Frames for the production of a feature film, secured by a mortgage and an undertaking. When Magic Frames failed to repay the loan, Radiance Media filed a summary suit seeking the recovery of the loan amount. Magic Frames, in turn, sought a summary judgment to dismiss the suit, arguing that the loan was discharged through a mortgage by conditional sale. 
+* **Key Issues:** 
+    * Whether the loan was discharged by the mortgage by conditional sale.
+    * Whether the suit was maintainable based on the cheques issued by Magic Frames. 
+    * The maintainability of the appeal against the order dismissing the application for summary judgment.
+
+## Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015 (Act 4 of 2016)
+    * Order 4 Rule 1, Order 37 Rules 1 & 2, and Order 13-A of the Code of Civil Procedure, 1908 (CPC)
+    * Order 43 of CPC
+    * Transfer of Property Act, 1882
+* **Precedents Cited:** 
+    * LIC Vs. Sanjeev Builders (P) Ltd. (2018 (11) SCC 722)
+    * Shah Babulal Khimji Vs. Jayaben D.Kania (1981 (4) SCC 8)
+    * Kandla Export Corporation and others Vs. OCI Corporation and others (2018 (10) SCJ 550)
+    * Rubinetterie Bresciane Bonomi SpA Vs. Lehry Instrumentation and Valves Pvt. Ltd (2019 (2) MLJ 257)
+    * HPL (India) Ltd. and others Vs. QRG Enterprises and others (2017 Supreme (Del) 526)
+    * Shailendra Bhadauria and others Vs. Matrix Partners India Investment Holdings LLC and others (2018 Supreme (Mah) 1264)
+* **Legal Doctrines:** 
+    * Summary Judgment under Order 13-A CPC
+    * Mortgage by Conditional Sale under Section 58(c) of the Transfer of Property Act
+    * Interpretation of Statutes
+
+## Arguments Presented
+
+* **Plaintiff’s Argument:** Radiance Media argued that the loan was not discharged by the mortgage by conditional sale. They asserted that the mortgage deed was merely a security for the loan amount and did not extinguish the debt. They also pointed out that Magic Frames had undertaken to provide additional securities and had issued cheques as part payment, proving their intention to repay the debt. 
+* **Defendant’s Argument:** Magic Frames argued that the mortgage deed constituted a mortgage by conditional sale, effectively discharging the earlier loan. They claimed that the cheques were issued prior to the mortgage deed and, therefore, cannot be the subject of the suit. They further argued that under the mortgage by conditional sale, no personal liability was cast on them, and they only had an option to redeem the properties or abandon them.
+
+## Court’s Analysis and Reasoning
+
+* **Key Findings:** The court found that the mortgage deed was not a mortgage by conditional sale, but a mere security for the loan amount. It observed that the mortgage deed stipulated that the loan amount would become absolute only if the mortgagor failed to repay it on or before the due date. The court also noted that Magic Frames had continued to issue cheques and make promises to repay the debt, indicating their acknowledgment of the outstanding loan.
+* **Interpretation of Law:** The court interpreted the provisions of Order 13-A CPC and the Commercial Courts Act, 2015. It held that the appeal against the order dismissing the application for summary judgment is not maintainable under the Commercial Courts Act, as the appealable orders are specifically enumerated under Order 43 of CPC.
+* **Application of Law:** The court applied the relevant legal principles to the facts of the case and concluded that the suit was maintainable, as the loan was not discharged by the mortgage deed. The court also rejected the argument that the appeal was maintainable, as the order dismissing the application for summary judgment did not fall within the appealable orders under the Commercial Courts Act.
+
+## Judgment
+
+* **Final Decision:** The appeal filed by M/S.Magic Frames was dismissed.
+* **Relief Granted:** No relief was granted to the appellants.
+* **Orders:** The appeal was dismissed, and the connected miscellaneous petition was closed.
+
+## Implications
+
+* **Impact on Law:** This judgment clarifies the interpretation of Order 13-A CPC and the Commercial Courts Act, 2015, in relation to the maintainability of appeals against orders dismissing applications for summary judgment.
+* **Future Relevance:** This case serves as a precedent for future cases involving similar disputes related to the scope of the Commercial Courts Act and the maintainability of appeals against orders passed under the Act.
+* **Broader Context:** The judgment emphasizes the need for speedy disposal of commercial disputes and discourages the filing of unnecessary appeals to delay proceedings.
+
+## Summary Points
+
+* The mortgage deed was a mere security for the loan and did not extinguish the debt.
+* The appeal against the order dismissing the application for summary judgment was dismissed as not maintainable under the Commercial Courts Act.
+* The judgment highlights the need for expeditious resolution of commercial disputes and discourages the use of appeals as a means to delay proceedings.
+
+## References
+
+* **Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015 (Act 4 of 2016)**
+* **Code of Civil Procedure, 1908 (CPC)**
+* **Transfer of Property Act, 1882**
+* **LIC Vs. Sanjeev Builders (P) Ltd. (2018 (11) SCC 722)**
+* **Shah Babulal Khimji Vs. Jayaben D.Kania (1981 (4) SCC 8)**
+* **Kandla Export Corporation and others Vs. OCI Corporation and others (2018 (10) SCJ 550)**
+* **Rubinetterie Bresciane Bonomi SpA Vs. Lehry Instrumentation and Valves Pvt. Ltd (2019 (2) MLJ 257)**
+* **HPL (India) Ltd. and others Vs. QRG Enterprises and others (2017 Supreme (Del) 526)**
+* **Shailendra Bhadauria and others Vs. Matrix Partners India Investment Holdings LLC and others (2018 Supreme (Mah) 1264)**
+
+## Further Reading
+
+* **Commercial Courts Act, 2015**
+* **Code of Civil Procedure, 1908**
+* **Transfer of Property Act, 1882**
+* **Cases related to summary judgment and mortgage by conditional sale** 

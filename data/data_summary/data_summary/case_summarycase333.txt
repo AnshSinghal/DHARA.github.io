@@ -1,0 +1,82 @@
+## 1. Case Title
+
+* **Case Name:** Ganga Prasad Memorial Trust and another vs DHK Eduserve Limited
+* **Court:** Allahabad High Court
+* **Date of Judgment:** 29th April 2024
+* **Citation:** 2024:AHC:76378-DB
+
+## 2. Background and Context
+
+* **Brief Overview:** The case involves a dispute between Ganga Prasad Memorial Trust (appellant) and DHK Eduserve Limited (respondent) concerning an agreement for academic consultancy services. The respondent, DHK Eduserve, claimed that the appellant, Ganga Prasad Memorial Trust, failed to pay consultancy charges amounting to Rs. 45,57,781/- and subsequently,  dishonored cheques issued by the appellant.  The respondent filed an application under Section 9 of the Arbitration and Conciliation Act, 1996 (the Act) seeking an injunction against the appellant from using the name "Sunbeam" and logo and operating a school under the name "Sunbeam School, Babatpur." 
+* **Key Issues:**
+    * Whether the Commercial Court was justified in granting the injunction under Section 9 of the Act after the Arbitral Tribunal had been constituted.
+    * Whether the Commercial Court properly considered the essential parameters for granting interim injunctions, namely, prima facie case, balance of convenience, and irreparable injury. 
+    * Interpretation of the term "entertain" as used in Section 9(3) of the Act.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * Arbitration and Conciliation Act, 1996, Section 9 (Interim measures, etc., by Court)
+    * Arbitration and Conciliation Act, 1996, Section 9(3) (Restriction on court's power to entertain an application under Section 9 after Arbitral Tribunal is constituted)
+    * Arbitration and Conciliation Act, 1996, Section 17 (Powers of Arbitral Tribunal)
+    * Code of Civil Procedure, 1908, Order XXI, Rule 90 (Setting aside sale)
+    * U.P. Urban Buildings (Regulation of Letting, Rent and Eviction) Act, 1972, Section 21 (Application of Act)
+* **Precedents Cited:**
+    * Arcelor Mittal Nippon Steel India Ltd. v. Essar Bulk Terminal Ltd. : (2022) 1 SCC 712
+    * Kundan Lal v Jagan Nath Sharma and Ors. (supra)
+    * Hindustan Commercial Bank Ltd. v Punnu Sahu (supra)
+    * Martin & Haris Limited (supra)
+* **Legal Doctrines:**
+    * Interpretation of statutory provisions.
+    * Principles of injunctions (prima facie case, balance of convenience, irreparable injury). 
+    * Principles of arbitration and judicial review.
+
+## 4. Arguments Presented
+
+* **Appellant’s Argument:**
+    * The Commercial Court erred in granting the injunction without properly considering the three parameters for interim injunctions. 
+    * The order violated Section 9(3) of the Act because the Arbitral Tribunal had been constituted prior to the order being passed. 
+    * The Court should not have entertained the respondent’s application under Section 9 once the Arbitral Tribunal had been formed, as the remedy under Section 17 (powers of the Arbitral Tribunal) was available.
+* **Respondent’s Argument:**
+    * The Commercial Court was justified in granting the injunction as the appellant had failed to respond to the application within the prescribed time. 
+    * The appellant was prohibited from using the "Sunbeam" name and logo by the CBSE and the Basic Shiksha Adhikari, Varanasi.
+    * The term "entertain" in Section 9(3) means "to consider the application by applying mind to the issues involved/raised," which the Commercial Court had done.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The Commercial Court failed to properly record findings on the three parameters for interim injunctions (prima facie case, balance of convenience, and irreparable injury) and, therefore, the order was vitiated.
+    * The Commercial Court violated Section 9(3) of the Act by passing the order after the Arbitral Tribunal had been constituted.
+    * The Commercial Court's consideration of the respondent's applications concerning dismissal and amendments did not amount to a consideration on merits for the purpose of granting an injunction.
+* **Interpretation of Law:**
+    * The court interpreted the term "entertain" in Section 9(3) to mean "to consider by application of mind to the issues raised." This meant that once the Arbitral Tribunal had been constituted, the court could not take up an application under Section 9 for consideration unless the remedy under Section 17 was inefficacious.
+* **Application of Law:**
+    * The court applied the principle that the Commercial Court should not have entertained the respondent’s application under Section 9 once the Arbitral Tribunal had been constituted because the remedy under Section 17 was available.
+    * The court applied the principles of injunctions, emphasizing the need for the Commercial Court to properly record findings on the three essential parameters.
+
+## 6. Judgment
+
+* **Final Decision:** The appeal filed by the appellant was allowed.
+* **Relief Granted:** The order dated 18.01.2024 passed by the Commercial Court was quashed and set aside. The application filed by the respondent under Section 9 of the Act was dismissed.
+* **Orders:** The respondent was free to approach the Arbitral Tribunal under Section 17 of the Act.
+
+## 7. Implications
+
+* **Impact on Law:** This case clarifies the interpretation of the term "entertain" in Section 9(3) of the Arbitration and Conciliation Act, 1996. It reaffirms the principle that once an Arbitral Tribunal is constituted, a court should not entertain an application under Section 9 unless the remedy under Section 17 is inefficacious.
+* **Future Relevance:** This case sets a precedent for future cases involving the interplay between Section 9 and Section 17 of the Arbitration and Conciliation Act, 1996.
+* **Broader Context:** This case highlights the importance of proper judicial review in arbitration proceedings and emphasizes the need for courts to follow established principles when granting interim injunctions.
+
+## 8. Summary Points
+
+* The Commercial Court violated Section 9(3) of the Arbitration and Conciliation Act, 1996 by passing an injunction order after the Arbitral Tribunal had been constituted.
+* The court interpreted "entertain" as "to consider by application of mind to the issues raised," emphasizing that the court should not entertain an application under Section 9 after the Arbitral Tribunal is constituted unless the remedy under Section 17 is inefficacious.
+* The Commercial Court erred in failing to properly record findings on the three parameters for interim injunctions (prima facie case, balance of convenience, and irreparable injury).
+
+## 9. References
+
+* **Citations:**
+    * Arbitration and Conciliation Act, 1996
+    * Arcelor Mittal Nippon Steel India Ltd. v. Essar Bulk Terminal Ltd. : (2022) 1 SCC 712
+* **Further Reading:**
+    *  For a comprehensive understanding of the legal principles governing arbitration in India, refer to the book "The Law of Arbitration and Conciliation in India" by Dr. Avtar Singh.
+

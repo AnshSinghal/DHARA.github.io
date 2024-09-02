@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A company has been ordered to pay an arbitral award by an MSME Facilitation Council. The company has appealed the award, but the appeal is pending. The District Collector is seeking to enforce the award as arrears of land revenue. Can the District Collector proceed with the enforcement while the appeal is pending?",
+    "Legal Principles": "The legal principles involved include the execution of arbitral awards under the MSMED Act, 2006, the effect of pending appeals on execution proceedings, and the power of the District Collector to enforce arbitral awards as arrears of land revenue.",
+    "Relevant Sections": "Section 14 of The Uttar Pradesh Micro, Small and Medium Enterprises (Facilitation of Establishment and Operation) Act, 2020, Section 19 of the MSMED Act, 2006, Section 34 of the Arbitration and Conciliation Act, 1996.",
+    "Context": "This is a case involving a dispute between a company and an MSME Facilitation Council, concerning the execution of an arbitral award while an appeal is pending before a Commercial Court."
+  },
+  {
+    "Query": "A company has been ordered to pay an arbitral award by an MSME Facilitation Council. The company has appealed the award, but the appeal is pending. The company claims that the Facilitation Council did not follow the proper arbitration procedures. Can the company challenge the award in a writ petition?",
+    "Legal Principles": "The legal principles involved include the jurisdiction of the High Court to review arbitral awards, the exhaustion of statutory remedies before approaching the High Court, and the principles of res judicata.",
+    "Relevant Sections": "Article 226 of the Constitution of India, Section 19 of the MSMED Act, 2006, Section 34 of the Arbitration and Conciliation Act, 1996.",
+    "Context": "This is a case involving a dispute between a company and an MSME Facilitation Council, concerning the validity of an arbitral award and the proper forum for challenging the award."
+  },
+  {
+    "Query": "A company has been ordered to pay an arbitral award by an MSME Facilitation Council. The company argues that it was not given a proper opportunity to be heard during the arbitration proceedings. Can the company challenge the award on this ground?",
+    "Legal Principles": "The legal principles involved include the requirement of a fair hearing in arbitration proceedings, the principles of natural justice, and the grounds for challenging an arbitral award under the Arbitration and Conciliation Act, 1996.",
+    "Relevant Sections": "Section 18 of the MSMED Act, 2006, Section 34 of the Arbitration and Conciliation Act, 1996.",
+    "Context": "This is a case involving a dispute between a company and an MSME Facilitation Council, concerning the validity of an arbitral award due to procedural irregularities."
+  },
+  {
+    "Query": "A company has been ordered to pay an arbitral award by an MSME Facilitation Council. The company argues that the award is against the principles of natural justice. Can the company challenge the award on this ground?",
+    "Legal Principles": "The legal principles involved include the principles of natural justice, the grounds for challenging an arbitral award under the Arbitration and Conciliation Act, 1996, and the scope of judicial review of arbitral awards.",
+    "Relevant Sections": "Section 34 of the Arbitration and Conciliation Act, 1996.",
+    "Context": "This is a case involving a dispute between a company and an MSME Facilitation Council, concerning the fairness and validity of an arbitral award."
+  },
+  {
+    "Query": "A company has been ordered to pay an arbitral award by an MSME Facilitation Council. The company claims that the award is based on a fundamental error of law. Can the company challenge the award on this ground?",
+    "Legal Principles": "The legal principles involved include the grounds for challenging an arbitral award under the Arbitration and Conciliation Act, 1996, the scope of judicial review of arbitral awards, and the concept of a fundamental error of law.",
+    "Relevant Sections": "Section 34 of the Arbitration and Conciliation Act, 1996.",
+    "Context": "This is a case involving a dispute between a company and an MSME Facilitation Council, concerning the legal basis and validity of an arbitral award."
+  },
+  {
+    "Query": "A company has been ordered to pay an arbitral award by an MSME Facilitation Council. The company claims that the award is against public policy. Can the company challenge the award on this ground?",
+    "Legal Principles": "The legal principles involved include the grounds for challenging an arbitral award under the Arbitration and Conciliation Act, 1996, the concept of public policy, and the scope of judicial review of arbitral awards.",
+    "Relevant Sections": "Section 34 of the Arbitration and Conciliation Act, 1996.",
+    "Context": "This is a case involving a dispute between a company and an MSME Facilitation Council, concerning the public interest implications and validity of an arbitral award."
+  },
+  {
+    "Query": "A company has been ordered to pay an arbitral award by an MSME Facilitation Council. The company argues that the award is excessive and unreasonable. Can the company challenge the award on this ground?",
+    "Legal Principles": "The legal principles involved include the grounds for challenging an arbitral award under the Arbitration and Conciliation Act, 1996, the concept of excessive and unreasonable awards, and the scope of judicial review of arbitral awards.",
+    "Relevant Sections": "Section 34 of the Arbitration and Conciliation Act, 1996.",
+    "Context": "This is a case involving a dispute between a company and an MSME Facilitation Council, concerning the reasonableness and validity of an arbitral award."
+  },
+  {
+    "Query": "A company has been ordered to pay an arbitral award by an MSME Facilitation Council. The company argues that the award is based on fraud or misrepresentation. Can the company challenge the award on this ground?",
+    "Legal Principles": "The legal principles involved include the grounds for challenging an arbitral award under the Arbitration and Conciliation Act, 1996, the concept of fraud and misrepresentation, and the scope of judicial review of arbitral awards.",
+    "Relevant Sections": "Section 34 of the Arbitration and Conciliation Act, 1996.",
+    "Context": "This is a case involving a dispute between a company and an MSME Facilitation Council, concerning the integrity and validity of an arbitral award due to alleged fraud or misrepresentation."
+  },
+  {
+    "Query": "A company has been ordered to pay an arbitral award by an MSME Facilitation Council. The company claims that the award is not enforceable because it was not properly served on the company. Can the company challenge the award on this ground?",
+    "Legal Principles": "The legal principles involved include the requirements for valid service of an arbitral award, the grounds for challenging an arbitral award under the Arbitration and Conciliation Act, 1996, and the concept of enforceability of awards.",
+    "Relevant Sections": "Section 34 of the Arbitration and Conciliation Act, 1996.",
+    "Context": "This is a case involving a dispute between a company and an MSME Facilitation Council, concerning the proper service and enforceability of an arbitral award."
+  },
+  {
+    "Query": "A company has been ordered to pay an arbitral award by an MSME Facilitation Council. The company claims that the award is not enforceable because it was not properly signed by the arbitrator. Can the company challenge the award on this ground?",
+    "Legal Principles": "The legal principles involved include the requirements for a valid arbitral award, the grounds for challenging an arbitral award under the Arbitration and Conciliation Act, 1996, and the concept of enforceability of awards.",
+    "Relevant Sections": "Section 34 of the Arbitration and Conciliation Act, 1996.",
+    "Context": "This is a case involving a dispute between a company and an MSME Facilitation Council, concerning the validity and enforceability of an arbitral award due to alleged deficiencies in its form or execution."
+  }
+]
+```

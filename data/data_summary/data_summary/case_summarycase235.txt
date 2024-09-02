@@ -1,0 +1,108 @@
+##  1. Case Title
+
+•	**Case Name:** Shapoorji Pallonji And Co. Pvt. Ltd vs Gujarat State Electricity Corporation Ltd.
+•	**Court:** Gujarat High Court
+•	**Date of Judgment:** 1st July 2023
+•	**Citation:** C/SCA/9590/2023
+
+## 2. Background and Context
+
+•	**Brief Overview:** This case stemmed from a dispute between Shapoorji Pallonji And Co. Pvt. Ltd. (the petitioner) and Gujarat State Electricity Corporation Ltd. (the respondent) arising from a contract for construction work at a Lignite Thermal Power Plan in Bhavnagar. The petitioner, after completing the work, claimed payment from the respondent, which was refused. This led to arbitration proceedings where the petitioner was awarded a substantial amount. The respondent challenged the award, leading to a stay order by the Additional District Judge, Bhavnagar - Commercial Court, which ordered the respondent to deposit 50% of the principal amount awarded. The petitioner challenged this order in the Gujarat High Court, seeking modification to require the respondent to deposit the entire awarded amount, including interest and costs.
+
+•	**Key Issues:**
+    * Whether the Gujarat High Court could exercise jurisdiction under Article 227 of the Constitution to modify the order passed by the Commercial Court under Section 36 of the Arbitration and Conciliation Act, 1996.
+    * Whether the Commercial Court erred in only directing the respondent to deposit 50% of the principal amount awarded while granting a stay on the operation of the arbitral award.
+    * Whether the respondent, a semi-governmental corporation, was exempt from depositing the full awarded amount, including interest and costs, under Order 27 Rule 8A of the Code of Civil Procedure, 1908.
+
+## 3. Legal Principles Involved
+
+•	**Relevant Statutes and Provisions:**
+    * Article 227 of the Constitution of India 
+    * Section 34, 36 of the Arbitration and Conciliation Act, 1996
+    * Order 27 Rule 8A, Order 41 Rule 1(3), Order 41 Rule 5 of the Code of Civil Procedure, 1908
+
+•	**Precedents Cited:**
+    * Deep Industries Ltd. vs. Oil & Natural Gas Corporation [(2020) 15 SCC 706]
+    * Bhaven Construction vs. Executive Engineer, Sardar Sarovar Narmada Nigam Ltd.[(2022 (1) SCC 75]
+    * National Aluminum Co. Ltd. V. Pressteel & Fabrications, (2004) 1 SCC 540
+    * Afcons Infrastructure Limited v. The Board of Trustees, Port of Mumbai 2014 (1) Arb LR 512 (Bom)
+    * PAM Developments Pvt. Ltd. Vs. State of West Bengal [(2019) 8 SCC 112]
+    * Union of India vs. Amitava Paul [AIR 2015 Cal 89]
+    * Manish vs. Godawari Marathawada Irrigation Development Corporation (Special Leave to Appeal No. 11760-11761 of 2018, decided by order dated 16.07.2018)
+
+•	**Legal Doctrines:**
+    * Principles of natural justice and fair play
+    * Interpretation of statutes and precedent
+    * Principles of equity and balancing of equities between parties
+    * Applicability of special legislation over general legislation 
+
+## 4. Arguments Presented
+
+•	**Petitioner's Argument:** 
+    * The Commercial Court's order was erroneous and against the intention of the legislature behind amending Section 36 of the Arbitration Act in 2015.
+    * The Court failed to consider the interest and costs awarded in the arbitral award, which were integral parts of the total awarded amount.
+    * The respondent should have been required to deposit the entire awarded amount as a condition for stay of the award.
+    * Relying on the Supreme Court's decision in *Manish vs. Godawari Marathawada Irrigation Development Corporation*, the petitioner argued for a 100% deposit.
+
+•	**Respondent's Argument:** 
+    * The order passed by the Commercial Court was just and proper, safeguarding the petitioner's awarded amount while the challenge to the award was pending.
+    * The petitioner was seeking to withdraw the amount before the final adjudication of proceedings under Section 34, and the remedy of appeal under Section 37 was available.
+    * Citing Order 27 Rule 8A of the CPC, the respondent argued that, as a semi-governmental corporation, it was exempt from the mandatory requirement of depositing the full decretal amount.
+    * The respondent relied on the Full Bench of the Calcutta High Court judgment in *Union of India vs. Amitava Paul* to support their argument regarding the exemption.
+
+## 5. Court’s Analysis and Reasoning
+
+•	**Key Findings:**
+    * The Court rejected the preliminary objection regarding the maintainability of the petition under Article 227 of the Constitution. 
+    * The Court found that the Commercial Court's order was erroneous in not directing the respondent to deposit the interest and cost awarded by the Arbitral Tribunal.
+    * The Court emphasized that an arbitral award for payment of money, akin to a money decree, necessitates the deposit of the entire awarded amount, including interest and costs, as a condition for staying the award.
+    * The Court rejected the respondent's reliance on Order 27 Rule 8A of the CPC, emphasizing that the Arbitration Act, being a special Act, takes precedence and mandates equal treatment of all parties, including the government.
+
+•	**Interpretation of Law:**
+    * The Court interpreted Section 36 of the Arbitration Act to mandate the deposit of the awarded amount, including interest and costs, as a condition for stay, unless there were exceptional circumstances, such as fraud or corruption, which were absent in this case.
+    * The Court interpreted the relevant provisions of the CPC to clarify that Order 27 Rule 8A only exempts the government from furnishing security and does not exempt it from depositing the awarded amount.
+
+•	**Application of Law:**
+    * The Court applied the principles of equity and balance of equities between the parties, considering that the petitioner had substantially succeeded in the arbitration proceedings.
+    * The Court applied the principle of special legislation prevailing over general legislation, noting the specific provisions of the Arbitration Act concerning the enforcement and stay of arbitral awards.
+
+## 6. Judgment
+
+•	**Final Decision:** The Gujarat High Court allowed the petitioner's Special Civil Application and modified the Commercial Court's order.
+
+•	**Relief Granted:** The Court directed the respondent to deposit the interest and costs awarded by the Arbitral Tribunal as a condition for the stay on the operation of the award. The Court also allowed the petitioner to withdraw 50% of the amount already deposited by the respondent.
+
+•	**Orders:**
+    * The respondent was ordered to deposit the interest and costs awarded by the Arbitral Tribunal within a specified timeframe.
+    * The Court directed the Commercial Court to expedite the hearing and disposal of the application under Section 34 of the Arbitration Act within a specified period.
+
+## 7. Implications
+
+•	**Impact on Law:** The judgment clarifies the application of Section 36 of the Arbitration Act in cases involving arbitral awards for payment of money. It reinforces the requirement for the deposit of the full awarded amount, including interest and costs, as a condition for staying the award.
+    
+•	**Future Relevance:** This judgment will be relevant for future cases involving the enforcement and stay of arbitral awards for payment of money, particularly where the respondent is a government entity. 
+    
+•	**Broader Context:** The judgment emphasizes the need to ensure fair treatment and protect the rights of the winning party in arbitration proceedings, ensuring that they are not deprived of the fruits of the award simply due to the respondent's challenge.
+
+## 8. Summary Points
+
+•	**Key Takeaways:**
+    * The Gujarat High Court emphasized the requirement for the deposit of the full awarded amount, including interest and costs, as a condition for staying an arbitral award for payment of money.
+    * The Court rejected the argument that government entities are exempt from this requirement under the CPC.
+    * The judgment highlights the need for swift resolution of disputes in arbitration proceedings and underscores the importance of ensuring fair treatment of all parties.
+
+## 9. References
+
+•	**Citations:**
+    * Article 227 of the Constitution of India
+    * Section 34, 36 of the Arbitration and Conciliation Act, 1996
+    * Order 27 Rule 8A, Order 41 Rule 1(3), Order 41 Rule 5 of the Code of Civil Procedure, 1908
+
+•	**Further Reading:**
+    * Deep Industries Ltd. vs. Oil & Natural Gas Corporation [(2020) 15 SCC 706]
+    * Bhaven Construction vs. Executive Engineer, Sardar Sarovar Narmada Nigam Ltd.[(2022 (1) SCC 75]
+    * National Aluminum Co. Ltd. V. Pressteel & Fabrications, (2004) 1 SCC 540
+    * Afcons Infrastructure Limited v. The Board of Trustees, Port of Mumbai 2014 (1) Arb LR 512 (Bom)
+    * PAM Developments Pvt. Ltd. Vs. State of West Bengal [(2019) 8 SCC 112]
+    * Union of India vs. Amitava Paul [AIR 2015 Cal 89]
+    * Manish vs. Godawari Marathawada Irrigation Development Corporation (Special Leave to Appeal No. 11760-11761 of 2018, decided by order dated 16.07.2018)

@@ -1,0 +1,90 @@
+## 1. Case Title
+
+* **Case Name:** Kinjal Lalitbhai Dave vs. Red Ribbon Entertainment Private Limited
+* **Court:** Gujarat High Court
+* **Date of Judgment:** 24th January 2019
+* **Citation:** AIR 2019 GUJARAT 86
+
+## 2. Background and Context
+
+* **Brief Overview:**  Kinjal Lalitbhai Dave (Appellant) was sued by Red Ribbon Entertainment Private Limited (Respondent) for copyright infringement of the song "Char Bangadi Wari Gaadi." The Respondent claimed that Kartik Patel, who assigned the copyright to them, was the original creator of the song. The Appellant, along with two others, were accused of copying the song and uploading their version on YouTube.
+* **Key Issues:**
+    * Whether the Appellant infringed the copyright of the Respondent's song.
+    * Whether the Commercial Court was justified in granting an ex parte injunction against the Appellant without following the procedural requirements of Order XXXIX Rule 3 of the Code of Civil Procedure.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * Order XXXIX Rule 3 of the Code of Civil Procedure, 1908 (regarding grant of injunctions)
+    * Section 13 of the Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015
+* **Precedents Cited:**
+    * Morgan Stanley Mutual Fund v. Kartick Das, (1994) 4 SCC 225 
+    * Shiv Kumar Chadha v. Municipal Corporation of Delhi, (1993) 3 SCC 161
+    * J M S Labs v. Yusufali Eesmail Hadvaid, 1998 (2) GLR 1776
+    * Angur Foods Private Limited v. Patel Chaturbhai Ranchhodbhai and Co. (unreported decision dated 23.12.2015)
+* **Legal Doctrines:**
+    * Principles of copyright infringement.
+    * Principles governing ex parte injunctions, including the need for urgency and irreparable harm.
+    * Interpretation of statutory provisions and their mandatory nature.
+
+## 4. Arguments Presented
+
+* **Appellant’s Argument:**
+    * The Commercial Court did not comply with the requirement of Order XXXIX Rule 3 by not recording reasons for granting an ex parte injunction without notice to the Appellant.
+    * The Respondent's delay in pursuing the case, despite having notice of the alleged infringement, indicated that the matter was not urgent.
+* **Respondent’s Argument:**
+    * The Appellant delayed filing a response to the injunction application and appealed the order without seeking to vacate the ex parte injunction before the trial court.
+    * The Commercial Court was justified in granting an ex parte injunction based on the prima facie case and balance of convenience.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The Commercial Court failed to record reasons for granting an ex parte injunction under Order XXXIX Rule 3.
+    * The Respondent did not establish urgency or irreparable harm to justify the grant of an ex parte injunction.
+    * The Respondent's delay in pursuing the case, despite having notice of the alleged infringement, negated the urgency requirement.
+* **Interpretation of Law:** 
+    * The court emphasized the mandatory nature of the requirement to record reasons for granting ex parte injunctions without notice, as established by the Supreme Court in the cited precedents.
+* **Application of Law:**
+    * The court applied the principles of ex parte injunctions, requiring urgency, irreparable harm, and good faith on the part of the applicant.
+    * The court considered the Respondent's delay in pursuing the case as evidence of a lack of urgency and good faith.
+
+## 6. Judgment
+
+* **Final Decision:**
+    * The appeal was allowed.
+* **Relief Granted:**
+    * The impugned order granting an ex parte injunction was quashed and set aside.
+* **Orders:**
+    * The Appellant was directed to file a reply to the plaint and injunction application within three days.
+    * The Respondent was given two days to file a rejoinder.
+    * The Commercial Court was directed to hear the application and decide it expeditiously within fifteen days.
+
+## 7. Implications
+
+* **Impact on Law:**
+    * This judgment reinforces the strict interpretation of Order XXXIX Rule 3, emphasizing the mandatory requirement of recording reasons for granting ex parte injunctions without notice. 
+* **Future Relevance:**
+    * This case serves as a precedent for future cases where the grant of ex parte injunctions is contested, particularly in situations where the applicant's delay or lack of urgency is evident.
+* **Broader Context:**
+    * This case underscores the importance of procedural fairness and the need for courts to carefully consider all relevant factors before granting ex parte relief.
+
+## 8. Summary Points
+
+* The court emphasized the mandatory nature of recording reasons for granting ex parte injunctions under Order XXXIX Rule 3 of the Code of Civil Procedure.
+* The Respondent's delay in pursuing the case negated the urgency requirement for an ex parte injunction.
+* The court quashed the ex parte injunction, highlighting the importance of procedural fairness and the need to consider all relevant factors before granting such relief.
+
+## 9. References
+
+* **Citations:**
+    * Code of Civil Procedure, 1908
+    * Order XXXIX Rule 3 of the Code of Civil Procedure, 1908
+    * Section 13 of the Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015
+    * Morgan Stanley Mutual Fund v. Kartick Das, (1994) 4 SCC 225 
+    * Shiv Kumar Chadha v. Municipal Corporation of Delhi, (1993) 3 SCC 161
+    * J M S Labs v. Yusufali Eesmail Hadvaid, 1998 (2) GLR 1776
+    * Angur Foods Private Limited v. Patel Chaturbhai Ranchhodbhai and Co. (unreported decision dated 23.12.2015)
+* **Further Reading:**
+    * Textbooks on Code of Civil Procedure, 1908
+    * Law articles on ex parte injunctions and Order XXXIX Rule 3
+    * Judgments on similar cases dealing with copyright infringement and ex parte injunctions. 

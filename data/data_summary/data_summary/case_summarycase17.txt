@@ -1,0 +1,101 @@
+##  1. Case Title
+
+* **Case Name:** Chandra Kishore Chaurasia vs. R A Perfumery Works Private Limited
+* **Court:** Delhi High Court
+* **Date of Judgment:** 27th October, 2022
+* **Citation:** FAO (COMM) 128/2021
+
+## 2. Background and Context
+
+* **Brief Overview:**  Chandra Kishore Chaurasia (appellant/plaintiff), a resident of Varanasi, Uttar Pradesh, is the registered proprietor of the trademarks "1192" and "JAGMAG 1192" for chewing tobacco products. He also holds copyright for the label and packaging of "JAGMAG 1192."  R A Perfumery Works Private Limited (respondent/defendant), a company incorporated in Kolkata, West Bengal, is alleged to be selling similar chewing tobacco products under the deceptively similar label "SIGNAL 1191." Chaurasia filed a suit seeking a permanent injunction against the respondent for trademark infringement, copyright infringement, passing off, and rendition of accounts. 
+* **Key Issues:**
+    * Whether the Delhi High Court had territorial jurisdiction to hear the case.
+    * Whether the plaintiff's suit was barred by the mandatory requirement of pre-institution mediation under Section 12A of the Commercial Courts Act, 2015.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * Code of Civil Procedure, 1908 (CPC)
+        * Order VII Rule 10 (Objection to territorial jurisdiction)
+        * Order VII Rule 11 (Rejection of plaint)
+    * Commercial Courts Act, 2015
+        * Section 2(1)(d) (Definition of commercial dispute)
+        * Section 12A (Pre-institution mediation)
+    * Copyright Act, 1957
+    * Trade Marks Act, 1999
+* **Precedents Cited:**
+    * D. Ramachandran v. R.V. Janakiraman: (1999) 3 SCC 267 
+    * Liverpool & London S.P. & I Association Ltd. v. M.V. Sea Success I & Anr.: (2004) 9 SCC 512
+    * Exphar Sa and Anr. v. Eupharma Laboratories Ltd. and Anr.: (2004) 3 SCC 688
+    * M/s RSPL Limited v. Mukesh Sharma & Anr.: (2016) SCC OnLine Del 4285
+    * M/s Allied Blenders and Distillers Pvt. Ltd. v. Prag Distillery Pvt. Ltd. & Anr.: (2017) SCC OnLine Del 6422 & 7225
+    * Patil Automation Private Limited and Ors. v. Rakheja Engineers Private Limited: 2022 SCC OnLine SC 1028
+    * Anil Gupta v. Baburam Singla, Proprietor of Singla Sweets & Anr.: 2020 Delhi High Court Order (cited by the respondent)
+* **Legal Doctrines:**
+    * Territorial jurisdiction in civil suits
+    * Mandatory vs. Directory provisions
+    * Pre-institution mediation in commercial disputes
+    * Demurrer (assuming facts in the plaint as true)
+    * Quia timet action (preventing anticipated injury)
+    * Urgent interim relief
+
+## 4. Arguments Presented
+
+* **Plaintiff's Argument:**
+    * The respondent was clandestinely selling its infringing products within the jurisdiction of the Delhi High Court.
+    * The respondent was advertising and selling its products within the jurisdiction of the court through its online presence.
+    * The respondent was carrying on business activities in Delhi.
+    * The plaintiff sought urgent interim reliefs due to the alleged infringement and potential damage to his business.
+* **Defendant's Argument:**
+    * The plaintiff had failed to establish a prima facie case for territorial jurisdiction.
+    * The plaintiff had not provided sufficient evidence of the respondent's clandestine sales within Delhi.
+    * The plaintiff's claims about the respondent's online presence and business activities in Delhi were not substantiated.
+    * The plaintiff's claim of urgent relief was not justified, and he should have followed the pre-institution mediation process under Section 12A of the Commercial Courts Act, 2015.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The court accepted the plaintiff's averments as true for the purposes of considering the application under Order VII Rule 10 of the CPC (territorial jurisdiction). 
+    * The court found that the plaintiff had alleged sufficient facts in the plaint to establish a prima facie case for territorial jurisdiction, despite lacking concrete proof of clandestine sales.
+    * The court held that the plaintiff's claim of urgent interim relief was sufficient to exempt him from the pre-institution mediation requirement under Section 12A of the Commercial Courts Act, 2015.
+* **Interpretation of Law:**
+    * The court reiterated the well-established principle that in a demurrer, the court must assume the truth of the averments in the plaint. 
+    * The court interpreted Section 12A of the Commercial Courts Act, 2015 as being mandatory for cases that do not involve urgent interim relief but not applicable to cases that do.
+    * The court rejected the respondent's argument that the plaintiff should have filed a separate application for exemption from pre-institution mediation, as there is no such provision in the Act.
+* **Application of Law:**
+    * The court applied the principle of demurrer to find that the plaintiff's averments in the plaint, if accepted as true, established a prima facie case for territorial jurisdiction.
+    * The court applied the language of Section 12A of the Commercial Courts Act, 2015 to conclude that the plaintiff was not required to undergo pre-institution mediation because he sought urgent interim relief.
+
+## 6. Judgment
+
+* **Final Decision:** The appeal was allowed. The impugned order of the Commercial Court, directing the return of the plaint, was set aside.
+* **Relief Granted:**  The plaintiff's suit was allowed to proceed.
+* **Orders:** The court rejected the respondent's cross-objections.
+
+## 7. Implications
+
+* **Impact on Law:**
+    * This judgment reinforces the principle that objections to territorial jurisdiction under Order VII Rule 10 of the CPC should be decided on a demurrer, accepting the plaintiff's averments as true.
+    * The judgment clarifies that the requirement of pre-institution mediation under Section 12A of the Commercial Courts Act, 2015 is not applicable to suits that contemplate urgent interim relief.
+* **Future Relevance:** This judgment is likely to serve as a precedent in future cases dealing with similar issues of territorial jurisdiction and the applicability of pre-institution mediation in commercial disputes.
+* **Broader Context:** The case highlights the importance of procedural fairness and the need for courts to balance the interests of both parties in commercial disputes, particularly in situations involving alleged infringement and the potential need for urgent relief.
+
+## 8. Summary Points
+
+* The Delhi High Court ruled in favor of the plaintiff, finding that the Commercial Court erred in dismissing the suit for lack of territorial jurisdiction.
+* The court found that the plaintiff's averments in the plaint, if taken as true, established a prima facie case for territorial jurisdiction.
+* The court held that the plaintiff's claim of urgent interim relief exempted him from the mandatory requirement of pre-institution mediation under Section 12A of the Commercial Courts Act, 2015.
+* The judgment clarifies the application of Section 12A of the Commercial Courts Act, 2015 and reiterates the importance of a demurrer when considering objections to territorial jurisdiction.
+
+## 9. References
+
+* **Citations:** 
+    * Code of Civil Procedure, 1908 
+    * Commercial Courts Act, 2015
+    * Copyright Act, 1957
+    * Trade Marks Act, 1999
+    * All cases cited in the judgment 
+
+* **Further Reading:**
+    * Other cases dealing with territorial jurisdiction in intellectual property disputes.
+    * Legal commentary on Section 12A of the Commercial Courts Act, 2015 and its application to urgent relief situations. 

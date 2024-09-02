@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A company has filed an application under Section 9 of the Arbitration Act seeking interim relief. The Arbitral Tribunal has been constituted. The company argues that the remedy under Section 17 is not efficacious due to the delays caused by the other party. Can the Court still entertain the application?",
+    "Legal Principles": "The Court can entertain an application under Section 9(1) of the Arbitration Act even after the Arbitral Tribunal has been constituted if the Court finds that circumstances exist which may not render the remedy provided under Section 17 efficacious. The Court has to examine whether the remedy available to the Applicant under Section 17 is efficacious.",
+    "Relevant Sections": "Section 9(1), Section 9(3), Section 17 of the Arbitration and Conciliation Act, 1996",
+    "Context": "This query relates to the interpretation of Section 9(3) of the Arbitration Act and the Court's power to grant interim relief after the constitution of an Arbitral Tribunal."
+  },
+  {
+    "Query": "A party to an arbitration agreement has filed an application under Section 9 of the Arbitration Act seeking interim relief. The application was fully heard and reserved for orders before the Arbitral Tribunal was constituted. Can the Court entertain the application despite the constitution of the Arbitral Tribunal?",
+    "Legal Principles": "The Court can entertain an application under Section 9 of the Arbitration Act even after the Arbitral Tribunal has been constituted if the application was fully heard and reserved for orders before the Arbitral Tribunal was constituted. The bar of Section 9(3) would not operate once an application has been entertained and taken up for consideration.",
+    "Relevant Sections": "Section 9(1), Section 9(3) of the Arbitration and Conciliation Act, 1996",
+    "Context": "This query focuses on the specific situation where an application under Section 9 has been fully heard and reserved for orders before the constitution of the Arbitral Tribunal."
+  },
+  {
+    "Query": "Two parties have entered into an arbitration agreement. Disputes arise between them and the parties apply to the Court under Section 9 of the Arbitration Act for interim relief. The Arbitral Tribunal is constituted later. Can the Court still proceed to pass orders on the Section 9 applications?",
+    "Legal Principles": "The Court can proceed to pass orders on the Section 9 applications even after the Arbitral Tribunal has been constituted, provided the applications were fully heard and reserved for orders before the Arbitral Tribunal was constituted.",
+    "Relevant Sections": "Section 9(1), Section 9(3) of the Arbitration and Conciliation Act, 1996",
+    "Context": "This query concerns the Court's power to proceed with pending Section 9 applications after the Arbitral Tribunal has been formed."
+  },
+  {
+    "Query": "Two parties have a dispute arising out of an arbitration agreement. One party files an application under Section 9 of the Arbitration Act seeking interim relief, while the other party also files a counter-application under Section 9. Can the Court entertain both applications after the Arbitral Tribunal is constituted?",
+    "Legal Principles": "The Court can entertain both applications under Section 9 of the Arbitration Act after the Arbitral Tribunal is constituted, provided the applications were fully heard and reserved for orders before the Arbitral Tribunal was constituted.",
+    "Relevant Sections": "Section 9(1), Section 9(3) of the Arbitration and Conciliation Act, 1996",
+    "Context": "This query focuses on the Court's ability to entertain multiple applications under Section 9 filed by different parties after the Arbitral Tribunal is formed."
+  },
+  {
+    "Query": "A party to an arbitration agreement has filed an application under Section 9 of the Arbitration Act seeking interim relief. The Arbitral Tribunal is constituted. However, the Arbitral Tribunal is not functional due to a temporary unavailability of one of the arbitrators. Can the Court entertain the Section 9 application in this situation?",
+    "Legal Principles": "The Court can entertain the Section 9 application even after the Arbitral Tribunal has been constituted, as circumstances may exist which render the remedy under Section 17 inefficacious. The Court must examine whether the remedy under Section 17 is efficacious in the given situation.",
+    "Relevant Sections": "Section 9(1), Section 9(3), Section 17 of the Arbitration and Conciliation Act, 1996",
+    "Context": "This query deals with the situation where the Arbitral Tribunal is not functional due to a temporary issue, raising the question of whether the remedy under Section 17 is still efficacious."
+  },
+  {
+    "Query": "A party to an arbitration agreement has filed an application under Section 9 of the Arbitration Act seeking interim relief. The Arbitral Tribunal has been constituted, but the party argues that the Arbitral Tribunal is biased and the remedy under Section 17 is not efficacious. Can the Court entertain the Section 9 application in this situation?",
+    "Legal Principles": "The Court can entertain the Section 9 application even after the Arbitral Tribunal has been constituted if the party can demonstrate that circumstances exist which may not render the remedy under Section 17 efficacious. This includes situations where the party can prove bias or other factors that render the Arbitral Tribunal incapable of providing a fair and impartial hearing.",
+    "Relevant Sections": "Section 9(1), Section 9(3), Section 17 of the Arbitration and Conciliation Act, 1996",
+    "Context": "This query examines the Court's power to entertain a Section 9 application when the party claims bias and inefficacy of the remedy under Section 17."
+  },
+  {
+    "Query": "A party to an arbitration agreement has filed an application under Section 9 of the Arbitration Act seeking interim relief. The Arbitral Tribunal has been constituted, but the party is facing financial difficulties and cannot afford to pursue the remedy under Section 17. Can the Court entertain the Section 9 application in this situation?",
+    "Legal Principles": "The Court can entertain the Section 9 application even after the Arbitral Tribunal has been constituted if the party can demonstrate that circumstances exist which may not render the remedy under Section 17 efficacious.  The Court must determine whether the party's financial difficulties make the remedy under Section 17 impractical or ineffective.",
+    "Relevant Sections": "Section 9(1), Section 9(3), Section 17 of the Arbitration and Conciliation Act, 1996",
+    "Context": "This query explores the Court's power to entertain a Section 9 application when the party claims financial hardship and the inefficacy of the remedy under Section 17."
+  },
+  {
+    "Query": "Two parties to an arbitration agreement have a dispute. One party files an application under Section 9 of the Arbitration Act for interim relief. The Arbitral Tribunal is constituted, but the parties are unable to agree on a procedure for the Arbitral Tribunal to handle the interim relief application. Can the Court entertain the Section 9 application in this situation?",
+    "Legal Principles": "The Court can entertain the Section 9 application even after the Arbitral Tribunal has been constituted if the parties are unable to agree on a procedure for the Arbitral Tribunal to handle the interim relief application. The Court must examine whether the lack of agreement renders the remedy under Section 17 inefficacious.",
+    "Relevant Sections": "Section 9(1), Section 9(3), Section 17 of the Arbitration and Conciliation Act, 1996",
+    "Context": "This query examines the Court's power to entertain a Section 9 application when the parties disagree on the procedures for seeking interim relief from the Arbitral Tribunal."
+  },
+  {
+    "Query": "A party to an arbitration agreement files an application under Section 9 of the Arbitration Act for interim relief. The Arbitral Tribunal is constituted, but the party claims that the Arbitral Tribunal is not capable of providing a timely decision on the interim relief application. Can the Court entertain the Section 9 application in this situation?",
+    "Legal Principles": "The Court can entertain the Section 9 application even after the Arbitral Tribunal has been constituted if the party can demonstrate that circumstances exist which may not render the remedy under Section 17 efficacious. The Court must examine whether the delay in providing a decision by the Arbitral Tribunal makes the remedy under Section 17 ineffective.",
+    "Relevant Sections": "Section 9(1), Section 9(3), Section 17 of the Arbitration and Conciliation Act, 1996",
+    "Context": "This query explores the Court's power to entertain a Section 9 application when the party argues that the Arbitral Tribunal will not be able to provide a timely decision on the interim relief."
+  },
+  {
+    "Query": "A party to an arbitration agreement files an application under Section 9 of the Arbitration Act for interim relief. The Arbitral Tribunal is constituted, but the party claims that the Arbitral Tribunal lacks the expertise or jurisdiction to handle the specific type of interim relief sought. Can the Court entertain the Section 9 application in this situation?",
+    "Legal Principles": "The Court can entertain the Section 9 application even after the Arbitral Tribunal has been constituted if the party can demonstrate that circumstances exist which may not render the remedy under Section 17 efficacious. The Court must examine whether the Arbitral Tribunal's lack of expertise or jurisdiction renders the remedy under Section 17 ineffective.",
+    "Relevant Sections": "Section 9(1), Section 9(3), Section 17 of the Arbitration and Conciliation Act, 1996",
+    "Context": "This query examines the Court's power to entertain a Section 9 application when the party claims the Arbitral Tribunal lacks the expertise or jurisdiction to grant the specific type of interim relief sought."
+  }
+]
+```

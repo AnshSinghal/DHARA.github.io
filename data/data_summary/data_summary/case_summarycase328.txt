@@ -1,0 +1,73 @@
+## Case Title
+
+* **Case Name:** Scarpe Marketing Private Limited vs. Anheuser Busch Inbev India Limited
+* **Court:** Karnataka High Court
+* **Date of Judgment:** 13th August 2024
+* **Citation:** NC: 2024:KHC:32412-DB, COMAP No. 383 of 2023
+
+## Background and Context
+
+* **Brief Overview:** This case involved a commercial dispute arising from a Brewing Agreement between SABMiller India Limited (now Anheuser Busch Inbev India Limited) and East Godavari Breweries Private Limited. SABMiller had paid an advance of Rs. 17.5 Crores to East Godavari Breweries for setting up a brewery in Andhra Pradesh. After the acquisition of SABMiller by Anheuser Busch Inbev, the latter initiated arbitration proceedings against East Godavari Breweries under the Brewing Agreement.  
+* **Key Issues:** 
+    * Maintainability of an application for extension of time for making an arbitral award under Section 29A(4) and (5) of the Arbitration and Conciliation Act, 1996.
+    * Jurisdiction of the Commercial Court to entertain the application for extension of time.
+    * Whether the High Court had the power to entertain an appeal against the Commercial Court's order.
+
+## Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * Arbitration and Conciliation Act, 1996 (26 of 1996), particularly Sections 8, 9, 11, 16, 17, 29A, 34, and 37.
+    * Commercial Courts Act, 2015, specifically Section 13.
+    * Code of Civil Procedure, 1908, Order XLIII.
+* **Precedents Cited:** The judgment referenced a Supreme Court judgment in Special Leave to Appeal No. 10544/2024 dated 13.05.2024, which interpreted Section 29A of the Arbitration Act.
+* **Legal Doctrines:** Principles of Natural Justice, Inherent Powers of the Court (Section 151 of CPC).
+
+## Arguments Presented
+
+* **Appellant's Argument:**
+    * The Commercial Court lacked jurisdiction to entertain the application under Section 29A of the Act because the High Court had already appointed the arbitrators under Section 11.
+    * The Commercial Court passed the final order allowing the petition without giving the appellants adequate opportunity to present their objections, violating principles of natural justice.
+    * The appeal should be remanded to the lower court to allow the appellants to file detailed objections.
+* **Respondent's Argument:**
+    * The application for extension of time was maintainable under Sections 29A(4) and (5) of the Act.
+    * The Commercial Court had jurisdiction to entertain the application under Section 29A.
+    * The appeal was not maintainable under Section 13(1A) of the Commercial Courts Act, 2015.
+
+## Court's Analysis and Reasoning
+
+* **Key Findings:** The court noted that the High Court had already appointed the arbitrators in the initial proceedings.  It also highlighted the Supreme Court's interpretation of Section 29A, stating that the power to extend time under Section 29A(4) vests in the principal civil court of original jurisdiction, which could be a High Court if it has ordinary original civil jurisdiction. However, the High Court in this case did not have ordinary original civil jurisdiction.
+* **Interpretation of Law:**  The court interpreted Section 37 of the Arbitration Act, which defines appealable orders, and determined that the High Court did not have jurisdiction to entertain an appeal against the Commercial Court's order. 
+* **Application of Law:**  The court applied Section 151 of the CPC to uphold the principle of securing ends of justice, but ultimately concluded that the appeal was not maintainable.
+
+## Judgment
+
+* **Final Decision:** The appeal filed under Section 13(1A) of the Commercial Courts Act, 2015 was dismissed. 
+* **Relief Granted:** The impugned order of the Commercial Court was set aside.
+* **Orders:**
+    * The matter was remitted back to the Commercial Court for fresh consideration.
+    * The appellants were allowed to file additional objections.
+    * The Commercial Court was directed to decide the matter within 3 weeks.
+
+## Implications
+
+* **Impact on Law:** The case reinforces the interpretation of Section 29A of the Arbitration Act, confirming that the power to extend time under Section 29A(4) rests with the principal civil court of original jurisdiction. 
+* **Future Relevance:** This judgment could serve as a precedent in cases where the High Court's jurisdiction to entertain appeals from the Commercial Court is challenged.
+* **Broader Context:** The case highlights the complex interplay of different legal frameworks, particularly the Arbitration and Conciliation Act, 1996, and the Commercial Courts Act, 2015, in resolving commercial disputes. 
+
+## Summary Points
+
+* The High Court dismissed the appeal against the Commercial Court's order extending time for making an arbitral award.
+* The court found that the appeal was not maintainable under Section 13(1A) of the Commercial Courts Act.
+* The case emphasizes the importance of understanding the jurisdiction of various courts within the framework of the Commercial Courts Act and the Arbitration Act. 
+
+## References
+
+* **Arbitration and Conciliation Act, 1996**
+* **Commercial Courts Act, 2015**
+* **Code of Civil Procedure, 1908**
+* **Supreme Court Special Leave to Appeal No. 10544/2024 dated 13.05.2024**
+
+## Further Reading
+
+* **Commercial Courts Act, 2015: A Commentary** by A.V. Amarnath
+* **The Arbitration and Conciliation Act, 1996: A Commentary** by Justice S.B. Sinha

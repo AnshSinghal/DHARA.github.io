@@ -1,0 +1,94 @@
+## Case Title
+
+* **Case Name:** Dr. Dilip Choudhury vs. Pratishruti Projects Limited & Ors.
+* **Court:** Calcutta High Court
+* **Date of Judgment:** 9th January 2020
+* **Citation:** Not provided in the text.
+
+## Background and Context
+
+* **Brief Overview:** This case involves a dispute between Dr. Dilip Choudhury (Plaintiff) and Pratishruti Projects Limited & Ors. (Defendants) arising from a joint venture agreement related to two medical institutions facing financial difficulties. The plaintiff invested a significant amount in the venture but was later denied his promised share in the management and the defendants failed to fulfill their obligations. Dr. Choudhury filed a suit seeking a monetary decree and damages.
+* **Key Issues:**
+    * Whether the suit was a "commercial dispute" under the Commercial Courts Act, 2015.
+    * Whether the defendant was entitled to an extension of time to file their written statement.
+    * Whether the suit should be transferred to the Commercial Division of the High Court.
+
+## Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * The Commercial Courts Act, 2015:
+        * Section 2(1)(c)(xi) - Defining "commercial dispute" to include joint venture agreements.
+        * Section 4 - Establishing the Commercial Division in High Courts.
+        * Section 5 - Establishing the Commercial Appellate Division in High Courts.
+        * Section 7 - Defining the jurisdiction of Commercial Divisions.
+        * Section 15 - Transfer of pending cases to the Commercial Division.
+        * Section 16 - Amendments to the Code of Civil Procedure, 1908 in its application to commercial disputes.
+    * The Code of Civil Procedure, 1908:
+        * Order VIII Rule 1 - Provisions for filing written statements.
+        * Order XV-A - Provisions for case management hearings.
+
+* **Precedents Cited:**
+    * 2019 SCC online Bom 848 (Reliance General Insurance Company Ltd. vs. Colonial Life Insurance Company (Trinidad) Limited).
+
+* **Legal Doctrines:**
+    * Interpretation of Statutes: The court examined the provisions of the Commercial Courts Act, 2015 and the Code of Civil Procedure, 1908 to determine their applicability in the case.
+    * Discretionary Power: The court considered its discretionary power to extend the time for filing a written statement.
+
+## Arguments Presented
+
+* **Plaintiff’s Argument:**
+    * The suit involved a "commercial dispute" under the Commercial Courts Act, 2015, specifically related to a joint venture agreement.
+    * The defendant was not entitled to an extension of time to file a written statement as the time prescribed under the Act had already expired.
+    * The suit should be transferred to the Commercial Division of the High Court for trial.
+
+* **Defendant’s Argument:**
+    * The suit should not be treated as a commercial dispute under the Act of 2015 as the court had not transferred it to the Commercial Division.
+    * There were just causes for extending the time to file a written statement due to various proceedings and personal difficulties faced by the defendant.
+
+## Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The suit involved a commercial dispute under the definition of Section 2(1)(c)(xi) of the Commercial Courts Act, 2015.
+    * The court, despite not formally transferring the suit to the Commercial Division, recognized it as a commercial dispute based on the nature of the dispute and a prior order of the Division Bench.
+    * The defendant was entitled to one opportunity to file a written statement, taking into account the various proceedings and the defendant's explanation for the delay.
+
+* **Interpretation of Law:**
+    * The court interpreted Section 15 of the Commercial Courts Act, 2015, recognizing the mandatory transfer of suits involving commercial disputes to the Commercial Division.
+    * The court interpreted Section 16 of the Act, acknowledging that the Commercial Division must follow the Code of Civil Procedure, 1908, as amended by the Act.
+    * The court also considered the proviso to Sub-section (4) of Section 15, granting the court the discretion to prescribe a new time period for filing a written statement in transferred suits.
+
+* **Application of Law:**
+    * The court applied the provisions of the Commercial Courts Act, 2015 and the Code of Civil Procedure, 1908 to determine the applicable timelines for filing written statements.
+    * The court considered the Bombay High Court's judgment in Reliance General Insurance Company Ltd. vs. Colonial Life Insurance (Tribunal) Ltd., which dealt with the applicability of timelines for filing written statements in suits transferred to the Commercial Division.
+    * The court exercised its discretion in granting an extension of time to file a written statement, taking into account the defendant's justifications.
+
+## Judgment
+
+* **Final Decision:** The court ruled in favor of the defendant and granted them an extension of time to file a written statement within seven days.
+* **Relief Granted:** The defendant was granted an extension of time to file their written statement.
+* **Orders:** The court directed the transfer of the suit to the Commercial Division of the High Court for trial. The Commercial Division was directed to hold case management hearings to prescribe new timelines for further proceedings.
+
+## Implications
+
+* **Impact on Law:** The judgment reinforces the mandatory transfer of suits involving commercial disputes to the Commercial Division as per the Commercial Courts Act, 2015.
+* **Future Relevance:** The case provides guidance on the application of timelines for filing written statements in suits transferred to the Commercial Division from other courts.
+* **Broader Context:** The judgment highlights the challenges faced by courts in applying the provisions of the Commercial Courts Act, 2015, particularly in cases pending before the Act's enactment.
+
+## Summary Points
+
+* The suit involved a commercial dispute under the Commercial Courts Act, 2015, but was not formally transferred to the Commercial Division.
+* The court recognized the suit as a commercial dispute based on its nature and a previous order.
+* The defendant was granted an extension of time to file a written statement due to various proceedings and personal difficulties.
+* The court directed the transfer of the suit to the Commercial Division for trial and case management hearings to be held.
+
+## References
+
+* **Citations:**
+    * The Commercial Courts Act, 2015: Sections 2(1)(c)(xi), 4, 5, 7, 15, 16.
+    * The Code of Civil Procedure, 1908: Order VIII Rule 1, Order XV-A.
+    * 2019 SCC online Bom 848 (Reliance General Insurance Company Ltd. vs. Colonial Life Insurance Company (Trinidad) Limited).
+
+* **Further Reading:**
+    *  The Commercial Courts Act, 2015.
+    *  The Code of Civil Procedure, 1908.
+    *  Other judgments related to the application of the Commercial Courts Act, 2015. 

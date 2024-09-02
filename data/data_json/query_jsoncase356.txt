@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A case involving a dispute over the ownership of a trademark, where the plaintiff claims infringement and the defendant seeks to revoke the trademark registration. The case was initially filed in a District Court but is now before the High Court due to the defendant's request for revocation.",
+    "Legal Principles": "Trademark infringement, trademark revocation, jurisdiction of Commercial Courts, transfer of proceedings under the Designs Act, 2000, overriding effect of the Commercial Courts Act, 2015.",
+    "Relevant Sections": "Section 22(4) of the Designs Act, 2000, Section 3, 3A, 4, 5, 7, 13, and 21 of the Commercial Courts Act, 2015, Clause 9 of the Letters Patent of the High Court.",
+    "Context": "Dispute over trademark ownership, defendant's request for revocation, High Court jurisdiction, application of the Commercial Courts Act, 2015, and the Designs Act, 2000."
+  },
+  {
+    "Query": "A case where a company has entered into a contract for the supply of goods, but the supplier has failed to deliver the goods on time. The company has filed a suit for breach of contract and damages, and the defendant is arguing that the contract was frustrated due to unforeseen circumstances.",
+    "Legal Principles": "Breach of contract, frustration of contract, force majeure, damages, jurisdiction of Commercial Courts, transfer of proceedings under the Commercial Courts Act, 2015.",
+    "Relevant Sections": "Section 7 of the Commercial Courts Act, 2015, relevant provisions of the Indian Contract Act, 1872",
+    "Context": "Commercial contract dispute, breach of contract, frustration, force majeure, damages, jurisdiction of Commercial Courts."
+  },
+  {
+    "Query": "A case involving a dispute between two parties over the interpretation of a commercial agreement. The plaintiff is claiming that the defendant breached the agreement, while the defendant argues that the agreement is ambiguous and should be interpreted in their favor.",
+    "Legal Principles": "Contract interpretation, ambiguity, parol evidence rule, breach of contract, jurisdiction of Commercial Courts, transfer of proceedings under the Commercial Courts Act, 2015.",
+    "Relevant Sections": "Section 7 of the Commercial Courts Act, 2015, relevant provisions of the Indian Contract Act, 1872",
+    "Context": "Commercial agreement dispute, contract interpretation, ambiguity, breach of contract, jurisdiction of Commercial Courts."
+  },
+  {
+    "Query": "A case where a company has filed a suit for recovery of a debt owed by another company. The defendant is arguing that the debt is not due and payable, and is seeking to have the suit dismissed.",
+    "Legal Principles": "Debt recovery, jurisdiction of Commercial Courts, transfer of proceedings under the Commercial Courts Act, 2015, statute of limitations.",
+    "Relevant Sections": "Section 7 of the Commercial Courts Act, 2015, relevant provisions of the Limitation Act, 1963",
+    "Context": "Commercial debt recovery dispute, jurisdiction of Commercial Courts, statute of limitations."
+  },
+  {
+    "Query": "A case involving a dispute between a landlord and tenant over the terms of a commercial lease agreement. The landlord is seeking to evict the tenant for breach of the agreement, while the tenant is arguing that the landlord has not complied with the notice requirements.",
+    "Legal Principles": "Commercial lease agreement, breach of contract, eviction, notice requirements, jurisdiction of Commercial Courts, transfer of proceedings under the Commercial Courts Act, 2015.",
+    "Relevant Sections": "Section 7 of the Commercial Courts Act, 2015, relevant provisions of the Transfer of Property Act, 1882",
+    "Context": "Commercial lease dispute, eviction, breach of contract, notice requirements, jurisdiction of Commercial Courts."
+  },
+  {
+    "Query": "A case where a company has been accused of unfair trade practices by the Competition Commission of India (CCI). The company is seeking to challenge the CCI's order before the High Court.",
+    "Legal Principles": "Unfair trade practices, Competition Commission of India (CCI), jurisdiction of High Court, judicial review of administrative actions, competition law",
+    "Relevant Sections": "Relevant sections of the Competition Act, 2002, relevant provisions of the Code of Civil Procedure, 1908.",
+    "Context": "Challenge to CCI order, unfair trade practices, judicial review, competition law."
+  },
+  {
+    "Query": "A case involving a dispute over a joint venture agreement between two companies. One company is claiming that the other company breached the agreement, while the other company is arguing that the agreement was terminated due to a material breach by the first company.",
+    "Legal Principles": "Joint venture agreement, breach of contract, termination of agreement, material breach, jurisdiction of Commercial Courts, transfer of proceedings under the Commercial Courts Act, 2015.",
+    "Relevant Sections": "Section 7 of the Commercial Courts Act, 2015, relevant provisions of the Indian Contract Act, 1872",
+    "Context": "Joint venture dispute, breach of contract, termination, material breach, jurisdiction of Commercial Courts."
+  },
+  {
+    "Query": "A case where a company has filed a suit for specific performance of a contract for the sale of land. The defendant is arguing that the contract is not enforceable due to a lack of proper documentation.",
+    "Legal Principles": "Specific performance, contract for sale of land, enforceability of contract, jurisdiction of Commercial Courts, transfer of proceedings under the Commercial Courts Act, 2015,  transfer of property act, 1882",
+    "Relevant Sections": "Section 7 of the Commercial Courts Act, 2015, relevant provisions of the Transfer of Property Act, 1882,  Specific Relief Act, 1877",
+    "Context": "Contract for sale of land, specific performance, enforceability, jurisdiction of Commercial Courts."
+  },
+  {
+    "Query": "A case involving a dispute between a company and its former employee over a non-compete clause in the employment contract. The company is seeking to enforce the clause, while the employee is arguing that the clause is unreasonable and unenforceable.",
+    "Legal Principles": "Non-compete clause, employment contract, enforceability of contract, reasonableness, jurisdiction of Commercial Courts, transfer of proceedings under the Commercial Courts Act, 2015.",
+    "Relevant Sections": "Section 7 of the Commercial Courts Act, 2015, relevant provisions of the Indian Contract Act, 1872",
+    "Context": "Non-compete clause dispute, employment contract, enforceability, reasonableness, jurisdiction of Commercial Courts."
+  },
+  {
+    "Query": "A case where a company has filed a suit for recovery of money owed to it by a partnership firm. The partnership firm is arguing that it is not liable for the debt as the partner who incurred the debt has left the firm.",
+    "Legal Principles": "Partnership firm, liability of partners, debt recovery, jurisdiction of Commercial Courts, transfer of proceedings under the Commercial Courts Act, 2015, Indian partnership act, 1932",
+    "Relevant Sections": "Section 7 of the Commercial Courts Act, 2015, relevant provisions of the Indian Partnership Act, 1932",
+    "Context": "Debt recovery from partnership firm, liability of partners, jurisdiction of Commercial Courts."
+  }
+]
+```

@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A company has filed an application under Section 9 of the Arbitration and Conciliation Act, 1996 for interim protection. However, an Arbitral Tribunal has been constituted after the application was heard but before the order was pronounced. Can the Court still entertain the application under Section 9, or should it be referred to the Arbitral Tribunal?",
+    "Legal Principles": "The interpretation of Section 9(3) of the Arbitration and Conciliation Act, 1996, particularly the meaning of \"entertain\" in the context of an application for interim protection. The principle of party autonomy and the Court's role in assisting arbitral proceedings.",
+    "Relevant Sections": "Section 9(1), 9(2), and 9(3) of the Arbitration and Conciliation Act, 1996. Section 17 of the Arbitration and Conciliation Act, 1996.",
+    "Context": "This query relates to a common scenario in arbitration proceedings where an interim application under Section 9 is pending before a Court and the Arbitral Tribunal is constituted during the pendency of the application. This situation requires the Court to determine whether it can continue to entertain the application or refer it to the Arbitral Tribunal."
+  },
+  {
+    "Query": "Two parties are involved in a contractual dispute that contains an arbitration clause. One party filed an application under Section 9 for interim protection, and the other party filed a separate application for similar relief. The Arbitral Tribunal was later constituted. Should the Court entertain both Section 9 applications, or should they be referred to the Arbitral Tribunal?",
+    "Legal Principles": "The interpretation of Section 9(3) of the Arbitration and Conciliation Act, 1996, in relation to multiple applications for interim protection filed by different parties. The Court's role in balancing the need for urgency with the principle of party autonomy.",
+    "Relevant Sections": "Section 9(1), 9(2), and 9(3) of the Arbitration and Conciliation Act, 1996. Section 17 of the Arbitration and Conciliation Act, 1996.",
+    "Context": "This query raises a practical issue that often arises in arbitration proceedings with multiple parties, each seeking interim relief. The Court must consider the implications of Section 9(3) and determine whether it should continue to entertain both applications or refer them to the Arbitral Tribunal."
+  },
+  {
+    "Query": "A dispute arose between two parties over a construction contract that contained an arbitration clause. One party filed an application under Section 9 for an injunction to stop construction work. The Arbitral Tribunal was subsequently constituted. Does the Court still have jurisdiction to decide the injunction application, or is it now exclusively within the Arbitral Tribunal's jurisdiction?",
+    "Legal Principles": "The interpretation of Section 9(3) of the Arbitration and Conciliation Act, 1996, in relation to specific types of interim relief, such as injunctions. The Court's ability to balance the urgency of the relief sought with the principle of party autonomy.",
+    "Relevant Sections": "Section 9(1), 9(2), and 9(3) of the Arbitration and Conciliation Act, 1996. Section 17 of the Arbitration and Conciliation Act, 1996.",
+    "Context": "This query deals with a specific type of interim relief – an injunction – and explores the application of Section 9(3) in determining whether the Court or the Arbitral Tribunal has jurisdiction to decide the application. This case highlights the practical challenges of balancing judicial efficiency and the principles governing arbitration."
+  },
+  {
+    "Query": "Two companies have a dispute over a lease agreement, which contains an arbitration clause. One company filed an application under Section 9 seeking a stay of eviction. The Arbitral Tribunal was appointed after the hearing but before the Court issued its order. Can the Court still decide the stay of eviction application, or is it now the Arbitral Tribunal's responsibility?",
+    "Legal Principles": "The interpretation of Section 9(3) of the Arbitration and Conciliation Act, 1996, with respect to stay of eviction applications. The Court's role in balancing the need for urgent relief with the principle of party autonomy in arbitration.",
+    "Relevant Sections": "Section 9(1), 9(2), and 9(3) of the Arbitration and Conciliation Act, 1996. Section 17 of the Arbitration and Conciliation Act, 1996.",
+    "Context": "This query focuses on a particular type of interim relief – stay of eviction – and explores the application of Section 9(3) in deciding whether the Court or the Arbitral Tribunal should decide the application. This case highlights the potential for conflicts between the Court and the Arbitral Tribunal in specific legal situations."
+  },
+  {
+    "Query": "A company filed a Section 9 application for an order compelling another company to provide financial information related to an ongoing arbitration. The Arbitral Tribunal was appointed after the hearing but before the order was pronounced. Should the Court proceed with its order, or should the application be referred to the Arbitral Tribunal?",
+    "Legal Principles": "The interpretation of Section 9(3) of the Arbitration and Conciliation Act, 1996, with respect to applications for specific discovery or disclosure of information. The Court's role in determining the efficacy of remedies under Section 17 of the Act.",
+    "Relevant Sections": "Section 9(1), 9(2), and 9(3) of the Arbitration and Conciliation Act, 1996. Section 17 of the Arbitration and Conciliation Act, 1996.",
+    "Context": "This query focuses on a situation where a Section 9 application seeks a specific order relating to discovery of information relevant to the arbitration proceedings. The Court must analyze the application of Section 9(3) in light of the existence of the Arbitral Tribunal and the efficacy of remedies available under Section 17."
+  },
+  {
+    "Query": "A company filed a Section 9 application seeking an order to compel another company to release a certain quantity of raw materials. The Arbitral Tribunal was appointed after the hearing and before the order was pronounced. Can the Court still decide the application for release of materials, or should the Arbitral Tribunal decide it?",
+    "Legal Principles": "The interpretation of Section 9(3) of the Arbitration and Conciliation Act, 1996, with respect to applications seeking specific orders relating to the release of goods or materials. The Court's role in determining the efficacy of remedies available under Section 17.",
+    "Relevant Sections": "Section 9(1), 9(2), and 9(3) of the Arbitration and Conciliation Act, 1996. Section 17 of the Arbitration and Conciliation Act, 1996.",
+    "Context": "This query focuses on a Section 9 application seeking a specific order for the release of goods or materials. The Court must consider the application of Section 9(3) and determine whether it can proceed with the order or refer it to the Arbitral Tribunal."
+  },
+  {
+    "Query": "Two parties have a dispute involving an agreement with an arbitration clause. One party filed a Section 9 application seeking an order to compel the other party to deposit a certain sum of money into an escrow account. The Arbitral Tribunal was constituted after the hearing. Should the Court decide the application for deposit into an escrow account, or should the Arbitral Tribunal decide it?",
+    "Legal Principles": "The interpretation of Section 9(3) of the Arbitration and Conciliation Act, 1996, with respect to applications for specific financial orders, such as deposit into an escrow account. The Court's role in determining the efficacy of remedies under Section 17.",
+    "Relevant Sections": "Section 9(1), 9(2), and 9(3) of the Arbitration and Conciliation Act, 1996. Section 17 of the Arbitration and Conciliation Act, 1996.",
+    "Context": "This query focuses on a Section 9 application seeking a specific financial order relating to the deposit of money into an escrow account. The Court must analyze the application of Section 9(3) in light of the existence of the Arbitral Tribunal and the efficacy of remedies under Section 17."
+  },
+  {
+    "Query": "A company filed a Section 9 application seeking an order to compel another company to provide access to certain documents relevant to an ongoing arbitration. The Arbitral Tribunal was appointed after the hearing but before the order was pronounced. Can the Court still decide the application for access to documents, or should the Arbitral Tribunal decide it?",
+    "Legal Principles": "The interpretation of Section 9(3) of the Arbitration and Conciliation Act, 1996, with respect to applications for access to specific documents relevant to the arbitration proceedings. The Court's role in determining the efficacy of remedies under Section 17.",
+    "Relevant Sections": "Section 9(1), 9(2), and 9(3) of the Arbitration and Conciliation Act, 1996. Section 17 of the Arbitration and Conciliation Act, 1996.",
+    "Context": "This query focuses on a Section 9 application seeking an order for access to specific documents relevant to the arbitration. The Court must consider the application of Section 9(3) and determine whether it can proceed with the order or refer it to the Arbitral Tribunal."
+  },
+  {
+    "Query": "Two parties are in a dispute over a joint venture agreement that includes an arbitration clause. One party filed a Section 9 application seeking an order to appoint a receiver for a specific asset of the joint venture. The Arbitral Tribunal was constituted after the hearing but before the order was pronounced. Should the Court decide the application for appointment of a receiver, or should the Arbitral Tribunal decide it?",
+    "Legal Principles": "The interpretation of Section 9(3) of the Arbitration and Conciliation Act, 1996, with respect to applications for appointment of a receiver. The Court's role in determining the efficacy of remedies under Section 17.",
+    "Relevant Sections": "Section 9(1), 9(2), and 9(3) of the Arbitration and Conciliation Act, 1996. Section 17 of the Arbitration and Conciliation Act, 1996.",
+    "Context": "This query focuses on a Section 9 application seeking an order for the appointment of a receiver for a specific asset. The Court must consider the application of Section 9(3) and determine whether it can proceed with the order or refer it to the Arbitral Tribunal."
+  },
+  {
+    "Query": "A company filed a Section 9 application seeking an order to compel another company to provide a bank guarantee related to a contractual dispute involving an arbitration clause. The Arbitral Tribunal was appointed after the hearing. Can the Court still decide the application for a bank guarantee, or should the Arbitral Tribunal decide it?",
+    "Legal Principles": "The interpretation of Section 9(3) of the Arbitration and Conciliation Act, 1996, with respect to applications for specific financial orders, such as the provision of a bank guarantee. The Court's role in determining the efficacy of remedies under Section 17.",
+    "Relevant Sections": "Section 9(1), 9(2), and 9(3) of the Arbitration and Conciliation Act, 1996. Section 17 of the Arbitration and Conciliation Act, 1996.",
+    "Context": "This query focuses on a Section 9 application seeking a specific financial order relating to the provision of a bank guarantee. The Court must analyze the application of Section 9(3) in light of the existence of the Arbitral Tribunal and the efficacy of remedies under Section 17."
+  }
+]
+```

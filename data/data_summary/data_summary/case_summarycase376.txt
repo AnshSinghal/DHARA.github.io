@@ -1,0 +1,116 @@
+##  1. Case Title
+
+* **Case Name:** M/s. Orange Business Services India Technology Pvt. Ltd. vs. Central Coalfield Limited (Govt. of India Undertaking)
+* **Court:** Jharkhand High Court
+* **Date of Judgment:** 18th January 2024
+* **Citation:** Commercial Appeal No. 17 of 2022
+
+## 2. Background and Context
+
+* **Brief Overview:** This case involved a contract dispute between M/s Orange Business Services India Technology Pvt. Ltd. (appellant) and Central Coalfield Limited (CCL, respondent) arising from a "Turnkey project for Supply, installation, commissioning and maintenance of RISC/EPIC Servers along with allied accessories on a rental basis for a period of (5) years". The appellant was awarded the contract but disputes arose regarding the timely submission of security deposit, performance bank guarantee, and the finalization of the contract price. The appellant eventually discontinued services, leading to CCL terminating the contract and invoking the performance bank guarantee. The appellant filed a suit seeking recovery of outstanding dues and damages for wrongful termination, which was partly allowed by the Commercial Court. This appeal challenged the rejection of the appellant's claim for damages.
+
+* **Key Issues:** 
+    * Whether CCL was justified in terminating the contract.
+    * Whether the appellant was entitled to damages for:
+        * Loss on account of equipment supplied
+        * Loss due to unpaid maintenance services
+        * Loss suffered due to the encashment of performance bank guarantee
+    * Whether CCL was entitled to retain the amount collected through the performance bank guarantee as liquidated damages without filing a counterclaim.
+    * Whether CCL could retain liquidated damages without proving the actual loss suffered. 
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * Indian Contract Act, 1872:
+        * Section 73: Compensation for breach of contract.
+        * Section 74: Compensation for breach of contract where penalty stipulated for.
+    * Central Sales Tax Act, 1956:
+        * Form C: Used for availing concessional rate of CST.
+    * Code of Civil Procedure (CPC):
+        * Section 80: Legal notice for recovery of dues.
+* **Precedents Cited:**
+    * Sir Chunilal V. Mehta and Sons Ltd. Vs. The Century Spinning and Manufacturing Co., Ltd. (1962 (3) SCR 549): On liquidated damages.
+    * Fateh Chand Vs. Balkishan Das (1964 (1) SCR 515): On reasonable compensation.
+    * Maula Bux Vs. UOI (1969) 2 SCC 554: On proving actual damage in breach of contract.
+    * ONGC Ltd. v. Saw Pipes Ltd. (2003) 5 SCC 705: On liquidated damages and proving actual loss.
+    * Kailash Nath Associates Vs. DDA (2015) 4 SCC 136: On forfeiture of earnest money and Section 74 of the Contract Act.
+    * Desh Raj Vs. Rohtash Singh (2023 (3) SCC 714): On pre-estimated amounts and Section 74 of the Contract Act.
+    * MTNL Vs. Finolax Cables Ltd. (2017 SCC OnLine Del 10497): On the need to prove loss even when liquidated damages are specified.
+* **Legal Doctrines:**
+    * Liquidated Damages: A pre-agreed sum payable in case of breach of contract.
+    * Estoppel: Prevents a party from asserting a claim or taking a position contrary to a previous representation made.
+    * Waiver: Voluntary relinquishment of a known right.
+
+## 4. Arguments Presented
+
+* **Appellant’s Argument:**
+    * The supply order was ambiguous regarding the contract price and tax rates, hindering the appellant's ability to furnish the performance bank guarantee.
+    * The delay in commissioning the project was due to CCL's failure to issue required permits and Form C.
+    * The discontinuation of services was justified due to CCL's non-payment of bills.
+    * The termination of the contract was arbitrary and without prior notice, violating the terms of the contract.
+    * CCL had no right to terminate the contract under the given circumstances.
+    * CCL failed to prove actual loss or damage to justify the encashment of the performance bank guarantee.
+* **Respondent’s Argument:**
+    * The appellant breached the contract by not depositing the security amount within the stipulated timeframe.
+    * The appellant's actions caused significant losses to CCL due to the shutdown of critical IT systems.
+    * CCL was justified in terminating the contract due to the appellant's breach of contract.
+    * The performance bank guarantee was rightfully invoked as a pre-estimated loss (liquidated damages) for the appellant's breach of contract.
+    * CCL was not required to prove actual loss suffered since liquidated damages were agreed upon in the contract. 
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The supply order was clear and unambiguous regarding the amount of security deposit and performance bank guarantee.
+    * The appellant failed to furnish the security deposit within the stipulated timeframe, even after the supply order was amended. 
+    * The appellant's failure to deposit the security deposit constituted a material breach of the contract.
+    * CCL's termination of the contract was justified due to the appellant's breach.
+    * The appellant's discontinuation of services further compounded the breach of contract.
+    * The court recognized the difficulty in proving actual damages for the disruption of critical IT services and accepted the liquidated damages as a reasonable pre-estimate of loss.
+    * The court held that the respondents were entitled to retain the amount collected through the performance bank guarantee as liquidated damages without filing a counterclaim.
+
+* **Interpretation of Law:**
+    * The court interpreted the relevant clauses of the contract and the NIT, emphasizing the importance of timely submission of the security deposit.
+    * The court applied the principle of liquidated damages as stated in Section 74 of the Indian Contract Act, 1872, recognizing that the amount named in the contract could be awarded as reasonable compensation even without proof of actual loss when it was a genuine pre-estimate of damage.
+    * The court cited and analyzed various precedents to justify its interpretation of the law related to liquidated damages and breach of contract.
+
+* **Application of Law:**
+    * The court applied the principles of breach of contract and liquidated damages to the specific facts of the case, finding that the appellant had breached the contract and that CCL was entitled to enforce the liquidated damages clause.
+    * The court weighed the appellant's arguments regarding ambiguity in the contract, but ultimately found that the terms were clear and that the appellant had violated those terms.
+
+## 6. Judgment
+
+* **Final Decision:** The appeal was dismissed. The court upheld the Commercial Court's decision, finding that the appellant was not entitled to any relief. 
+* **Relief Granted:** No relief was granted to the appellant.
+* **Orders:** The court ordered the dismissal of the appeal and upheld the judgment of the Commercial Court.
+
+## 7. Implications
+
+* **Impact on Law:** This judgment reiterates the importance of adhering to contractual obligations, particularly regarding security deposits and performance bank guarantees. It also affirms the applicability of liquidated damages clauses in contracts, even without proof of actual loss, when such clauses represent a genuine pre-estimate of damage.
+* **Future Relevance:** This case serves as a precedent for future contract disputes involving similar clauses. It emphasizes the need for clarity in contract terms and the consequences of breaching those terms.
+* **Broader Context:** The judgment highlights the importance of robust legal frameworks for managing contractual obligations, especially in complex projects involving critical IT infrastructure. It underscores the need for parties to carefully negotiate and understand the consequences of breaching contractual terms.
+
+## 8. Summary Points
+
+* The appellant failed to furnish the security deposit as required by the contract, leading to a breach of contract.
+* CCL was justified in terminating the contract due to the appellant's breach.
+* The appellant's discontinuation of services further compounded the breach.
+* The court accepted the liquidated damages clause in the contract as a reasonable pre-estimate of loss.
+* The appellant's claim for damages was dismissed. 
+
+## 9. References
+
+* **Citations:**
+    * Indian Contract Act, 1872
+    * Central Sales Tax Act, 1956
+    * Code of Civil Procedure (CPC)
+    * Sir Chunilal V. Mehta and Sons Ltd. Vs. The Century Spinning and Manufacturing Co., Ltd. (1962 (3) SCR 549)
+    * Fateh Chand Vs. Balkishan Das (1964 (1) SCR 515)
+    * Maula Bux Vs. UOI (1969) 2 SCC 554)
+    * ONGC Ltd. v. Saw Pipes Ltd. (2003) 5 SCC 705)
+    * Kailash Nath Associates Vs. DDA (2015) 4 SCC 136)
+    * Desh Raj Vs. Rohtash Singh (2023 (3) SCC 714)
+    * MTNL Vs. Finolax Cables Ltd. (2017 SCC OnLine Del 10497)
+* **Further Reading:**
+    *  "Liquidated Damages: A Guide for Contractors" by the American Bar Association
+    * "The Law of Contract" by Avtar Singh
+    * "The Indian Contract Act, 1872" by R.K. Bangia

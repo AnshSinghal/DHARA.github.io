@@ -1,0 +1,98 @@
+## 1. Case Title
+
+* **Case Name:** Airports Authority of India vs. M/S. Lite Bite Foods Private Limited
+* **Court:** Kerala High Court
+* **Date of Judgment:** 24th January 2024
+* **Citation:** OP(C) Nos. 2612 & 2650 of 2023
+
+## 2. Background and Context
+
+* **Brief Overview:** The Airports Authority of India (AAI) entered into an agreement with M/S. Lite Bite Foods Private Limited (Lite Bite) for Lite Bite to set up and operate food and beverage outlets at the Calicut International Airport. A dispute arose regarding the performance of the agreement, leading to AAI invoking a bank guarantee provided by Lite Bite. Lite Bite challenged the invocation of the bank guarantee through various legal proceedings, ultimately leading to an arbitral award in their favor. The AAI then challenged the award under Section 34 of the Arbitration and Conciliation Act, 1996, while simultaneously seeking to keep the bank guarantee alive through an interlocutory application.
+* **Key Issues:**
+    * Whether AAI could invoke the bank guarantee after an arbitral award found no default on Lite Bite's part, especially when the award wasn't stayed under Section 36(3) of the Arbitration and Conciliation Act.
+    * Whether the High Court could interfere under Article 227 of the Constitution with a decision refusing interim relief under Section 9 when an application under Section 34 was pending, particularly in the absence of the four parameters outlined in the Whirlpool Corporation case.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * Article 227 of the Constitution of India
+    * Section 5, 9, 17, 34, 36, and 37 of the Arbitration and Conciliation Act, 1996
+* **Precedents Cited:**
+    * Deep Industries Limited v. Oil and Natural Gas Corporation [(2020) 15 SCC 706]
+    * Whirlpool Corporation v. Registrar of Trade Marks, Mumbai [(1998) 8 SCC 1]
+    * Madhya Pradesh High Court Advocates Bar Association v. Union of India [(AIR 2022 SC 2713]
+    * L. Chandrakumar v. Union of India [(1997) 3 SCC 261]
+    * I.T.I. v. Seimens Public Communications Network Ltd. [(2002) 5 SCC 510]
+    * Essar House Private Limited v. Arcellor Mittal Nippon Steel India Limited [(AIR 2022 SC 4294)]
+    * Canara Nidhi Limited (M/s) v. M Shashikala [(2019) 9 SCC 462]
+    * Vinitec Electronics Private Limited v. HCL Infosystems Limited [(2008) 1 SCC 544]
+    * U.P.State Sugar Corporation v. M/s.Surnac International Ltd. [(1997) 1 SCC 568]
+    * Hindustan Construction Co. Ltd. v. State of Bihar [(1999) 8 SCC 436]
+* **Legal Doctrines:**
+    * Principles of Natural Justice
+    * Jurisdiction of Courts
+    * Superintendence of Courts over Tribunals
+    * Interpretation of Statutes
+    * Independent Contractual Nature of Bank Guarantees
+    * Interim Measures in Arbitration Proceedings
+    * Judicial Intervention in Arbitration Matters
+
+## 4. Arguments Presented
+
+* **AAI's Argument:**
+    * Bank guarantees are independent contracts separate from the main agreement, and AAI can invoke them regardless of the findings of the arbitral award.
+    * The arbitral award didn't address the issue of bank guarantee invocation, leaving it open to be decided later.
+    * AAI's right to invoke the bank guarantee should be assessed based on the situation prevailing at the time of the application, not the subsequent award.
+* **Lite Bite's Argument:**
+    * The arbitral award, finding no default by Lite Bite, renders the bank guarantee unenforceable as the contingency for its invocation no longer exists.
+    * The award, not being stayed, remains binding on the parties, making the bank guarantee moot.
+    * AAI's attempt to invoke the bank guarantee through an interlocutory application in a Section 34 proceeding is improper and not contemplated by the Arbitration Act.
+    * The High Court's power under Article 227 should be exercised sparingly and only in exceptional circumstances.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The bank guarantee was provided as security for Lite Bite's performance under the agreement.
+    * The arbitral award conclusively determined that Lite Bite had not committed any default, thereby negating the basis for invoking the bank guarantee.
+    * The award being unstayed remained binding on the parties.
+    * An interlocutory application seeking to keep the bank guarantee alive in a Section 34 proceeding is not maintainable.
+    * The High Court's jurisdiction under Article 227 is limited and should be exercised judiciously.
+* **Interpretation of Law:**
+    * The court interpreted Section 5 of the Arbitration Act to emphasize the limited scope of judicial intervention in arbitral matters.
+    * The court highlighted the distinct and independent nature of bank guarantees, emphasizing that they can be invoked even in the absence of a prior adjudication of default.
+    * The court stressed that the purpose of the Arbitration Act is to provide for a streamlined and expedited process for dispute resolution.
+    * The court clarified that the scope of Section 34 is limited to challenging an award and does not extend to seeking interim relief.
+    * The court reiterated the principles governing the High Court's power of superintendence under Article 227, particularly the requirement of exceptional circumstances and the non-availability of alternate remedies.
+* **Application of Law:**
+    * The court applied the principle of independent contracts to bank guarantees, but noted that this principle does not grant arbitrary power to invoke them.
+    * The court held that the arbitral award's findings negated AAI's claims of default by Lite Bite, rendering the bank guarantee unenforceable.
+    * The court refused to entertain AAI's arguments based on the need for preserving the subject matter of the Section 34 proceedings, finding that AAI should have sought a stay of the award under Section 36(3).
+    * The court rejected AAI's attempt to rely on the three-month period under Section 34(3) to argue against the enforceability of the award, highlighting the applicability of Section 36(2), which makes the award enforceable even when a Section 34 application is pending, unless stayed.
+
+## 6. Judgment
+
+* **Final Decision:** The court dismissed both Original Petitions filed by AAI.
+* **Relief Granted:**  The court upheld the lower court's order directing the release of the bank guarantee to Lite Bite.
+* **Orders:** The court ordered the dismissal of both Original Petitions (OP(C) Nos. 2612 & 2650 of 2023).
+
+## 7. Implications
+
+* **Impact on Law:** The judgment reaffirms the principles governing bank guarantees in arbitration proceedings and emphasizes the limited scope of judicial intervention under Article 227. It underscores the need for parties seeking to challenge an arbitral award to pursue appropriate legal remedies, including seeking a stay of the award under Section 36(3) of the Arbitration Act.
+* **Future Relevance:** The case provides guidance on the proper interpretation and application of the Arbitration and Conciliation Act, particularly in relation to bank guarantees and interim relief. It is likely to be cited in future cases dealing with similar disputes.
+* **Broader Context:** The judgment reflects the evolving legal framework surrounding arbitration and its role in resolving commercial disputes, particularly the emphasis on finality and limited judicial interference. 
+
+## 8. Summary Points
+
+* The bank guarantee cannot be invoked after an arbitral award finds no default by the party against whom the guarantee was provided.
+* The award, unless stayed, remains enforceable even when a Section 34 challenge is pending.
+* Interlocutory applications seeking interim relief in Section 34 proceedings are not maintainable.
+* The High Court's power under Article 227 should be exercised sparingly and only in exceptional circumstances.
+* Parties seeking to challenge an award must take timely steps to obtain a stay of its operation under Section 36(3).
+
+## 9. References
+
+* **Citations:** See the "Legal Principles Involved" section above for full citations of all statutes, cases, and legal texts.
+* **Further Reading:**
+    * The Arbitration and Conciliation Act, 1996
+    * Recent case law on bank guarantees in arbitration proceedings
+    * Scholarly articles on judicial intervention in arbitration matters

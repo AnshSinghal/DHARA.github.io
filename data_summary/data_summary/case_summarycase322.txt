@@ -1,0 +1,129 @@
+## Case Title
+
+* **Case Name:** Dan Bunkering Limited vs PFS Shipping India Limited
+* **Court:** Bombay High Court, Admiralty and Vice-Admiralty Jurisdiction
+* **Date of Judgment:** 21st June 2018
+* **Citation:** AIRONLINE 2018 BOM 1009
+
+## Background and Context
+
+**Brief Overview:**
+
+Dan Bunkering Limited (Plaintiff) filed a suit seeking payment of US$ 163,089.65 plus interest from PFS Shipping India Limited (Defendant). The claim stemmed from a judgment passed by the Supreme Court of Denmark confirming a prior judgment by the Maritime and Commercial Court, Copenhagen. 
+
+This case originated from a charterparty agreement between PFS Shipping India Limited and Britannia Bulk PLC, where PFS Shipping India Limited leased its vessel PFS NARAYANA. Britannia Bulk PLC placed an order with Dan Bunkering Limited for bunker supply, but subsequently went insolvent. Dan Bunkering Limited, unable to recover payment, arrested the vessel in Amsterdam.  A Settlement Agreement was reached, but PFS Shipping India Limited failed to fulfill its obligations.
+
+**Key Issues:**
+
+* Whether the judgment passed by the Supreme Court of Denmark is a conclusive foreign judgment under Section 13 of the Code of Civil Procedure (CPC) for enforcement in India.
+* Whether the plaintiff is entitled to the claimed sum of US$ 163,089.65 plus interest.
+* Whether the defendant's arguments regarding lack of cause of action, misjoinder of necessary parties, duress, and violation of Indian contract law are valid defenses.
+
+## Legal Principles Involved
+
+**Relevant Statutes and Provisions:**
+
+* **Code of Civil Procedure, 1908 (CPC)**
+    * **Section 13:** When foreign judgment not conclusive.
+    * **Section 14:** Presumption as to foreign judgments.
+* **Arbitration and Conciliation Act, 1996**
+* **Contract Act**
+* **Danish Contract Act**
+* **Danish Interest Act**
+
+**Precedents Cited:**
+
+* **Alcon Electronics (P) Ltd. v. Celem S.A. of France (2017) 2 SCC 253**
+
+**Legal Doctrines:**
+
+* **Foreign Judgment:** The principles of recognition and enforcement of foreign judgments under CPC.
+* **Res Judicata:** The principle of finality of judgments.
+* **Duress:** The legal doctrine related to contracts entered under coercion.
+* **Public Policy:** The principles of public interest and morality relevant to contract law.
+
+## Arguments Presented
+
+**Plaintiff’s Argument:**
+
+* The judgments passed by the Danish courts are conclusive foreign judgments under Section 13 of the CPC and are enforceable in India.
+* The defendant failed to prove any grounds to challenge the conclusive nature of the foreign judgments.
+* The plaintiff is entitled to the remaining balance of US$ 163,089.65 plus interest based on the Danish judgments.
+* The defendant's arguments are without merit and are based on bald statements without any substantial evidence.
+
+**Defendant’s Argument:**
+
+* The plaintiff should have sought redress through the Arbitration and Conciliation Act, 1996.
+* The plaintiff has not disclosed a valid cause of action.
+* The suit is flawed due to misjoinder of necessary parties (Britannia Bulk PLC).
+* The judgments are not enforceable in India because the Settlement Agreement was obtained under duress and violates Indian contract law.
+
+## Court’s Analysis and Reasoning
+
+**Key Findings:**
+
+* The Court found that the defendant's arguments lacked substance and were not supported by evidence.
+* The judgments passed by the Danish courts were pronounced by courts of competent jurisdiction and were given on the merits of the case.
+* The defendant failed to demonstrate how the judgments fell under any of the exceptions mentioned in Section 13 of the CPC.
+* The Court acknowledged that the Danish judgments were not impeachable on facts or law unless proven to fall within the exceptions of Section 13.
+* The Court accepted the evidence of PW-1, a Danish lawyer, regarding the computation of interest under Danish law.
+
+**Interpretation of Law:**
+
+* The Court interpreted Section 13 of the CPC to mean that foreign judgments are conclusive unless proven to fall under specific exceptions.
+* The Court interpreted Section 14 of the CPC to establish a presumption of competence for foreign courts.
+
+**Application of Law:**
+
+* The Court applied the principles of Section 13 and Section 14 of the CPC to determine the conclusiveness of the Danish judgments.
+* The Court applied the principles of res judicata to uphold the finality of the Danish judgments.
+* The Court considered the legal principles of duress and public policy but found that the defendant failed to provide sufficient evidence to support these claims.
+
+## Judgment
+
+**Final Decision:**
+
+The judgment was in favor of the plaintiff, Dan Bunkering Limited.
+
+**Relief Granted:**
+
+The Court granted the plaintiff a decree against the defendant in the sum of US$ 163,089.65, along with interest at 8% per annum from 18th December 2013 till the date of filing the suit and further interest at 8% per annum from the date of the suit until the date of payment/realization.
+
+**Orders:**
+
+* The Court awarded costs of Rs. 5 lakhs to the plaintiff due to the need to bring a witness from Denmark.
+
+## Implications
+
+**Impact on Law:**
+
+This judgment reinforces the principles of recognizing and enforcing conclusive foreign judgments in India, especially under Section 13 of the CPC. It clarifies that the onus is on the party challenging the judgment to prove its invalidity under the exceptions.
+
+**Future Relevance:**
+
+The case highlights the importance of carefully examining the grounds for challenging foreign judgments, providing substantial evidence to support the claims, and avoiding reliance on mere bald statements.
+
+**Broader Context:**
+
+The case showcases the complexities of international commercial disputes involving multiple jurisdictions and the challenges of enforcing foreign judgments in different legal systems.
+
+## Summary Points
+
+* The Bombay High Court upheld the conclusiveness of judgments passed by the Supreme Court of Denmark regarding a commercial dispute.
+* The defendant failed to provide sufficient evidence to challenge the foreign judgments, which were based on a thorough examination of the facts and legal arguments.
+* The court awarded the plaintiff the remaining amount owed plus interest and costs due to the defendant's failure to prove its defenses.
+
+## References
+
+* **Code of Civil Procedure, 1908 (CPC)**
+* **Arbitration and Conciliation Act, 1996**
+* **Contract Act**
+* **Danish Contract Act**
+* **Danish Interest Act**
+* **Alcon Electronics (P) Ltd. v. Celem S.A. of France (2017) 2 SCC 253**
+
+## Further Reading
+
+* **The Code of Civil Procedure, 1908 (CPC)**
+* **The Arbitration and Conciliation Act, 1996**
+* **Books and articles on international commercial disputes and enforcement of foreign judgments.**

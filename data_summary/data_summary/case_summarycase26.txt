@@ -1,0 +1,100 @@
+## 1. Case Title
+
+* **Case Name:** M/S Ok Play India Pvt Ltd vs M/S A P Distributors & Anr
+* **Court:** Delhi High Court
+* **Date of Judgment:** 25th October, 2021
+* **Citation:** Not explicitly provided in the text.
+
+## 2. Background and Context
+
+* **Brief Overview:** M/S Ok Play India Pvt Ltd (non-applicant/petitioner) filed a commercial suit against M/S A.P. Distributors & Anr (applicants/respondents) for recovery of money. The respondents filed their written statement belatedly without an application for condonation of delay. The Commercial Court, despite objections from the petitioner, condoned the delay and accepted the written statement. This decision was challenged by the petitioner before the Delhi High Court, which set aside the Commercial Court's order.
+* **Key Issues:** 
+    * Whether the Commercial Court erred in accepting the belated written statement without a proper application for condonation of delay. 
+    * Whether the Original Side Rules of the Delhi High Court apply to District Courts, specifically Commercial Courts. 
+    * Whether the need for an application for condonation of delay constitutes an impermissible legislative incursion by the Court.
+    * Whether the Court's judgment curtailed the powers of the Commercial Court under Order VIII Rule 5 CPC and Order VII Rule 11 CPC.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * Article 227 of the Constitution of India
+    * Order VIII Rule 1, 5, and 10 of the Code of Civil Procedure (CPC)
+    * Order VII Rule 11 of the CPC
+    * Order XLVII Rule 1 of the CPC
+    * Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015
+    * Delhi High Court (Original Side) Rules, 2018
+* **Precedents Cited:**
+    * Red Bull AG v. Pepsico India Holdings Pvt. Ltd., 2019 SCC OnLine Del 9901
+    * SCG Contracts (India) (P) Ltd. v. K.S. Chamankar Infrastructure (P) Ltd., (2019) 12 SCC 210
+    * Friends Motel Pvt. Ltd. Through its director Mr. Arun Dwivedi Vs. Shreeved Consultancy LLP & Ors. (Judgment dated 15th January, 2020 in CS (COMM) 140/2019)
+    * Unilin Beheer B.V. v. Balaji Action Buildwell, 2019 SCC OnLine Del 8498
+    * Rajesh Goel v. Jasbir Singh, 2017 SCC OnLine Del 8370
+    * Shreeved Consultancy LLP v. Friends Motels Pvt. Ltd., 2020 SCC OnLine Del 684
+    * Mothers Pride Education Institution Pvt. Ltd. v. Shukla Sehgal, 2021 SCC OnLine Del 2407
+* **Legal Doctrines:**
+    * Condonation of Delay
+    * Interpretation of Statutory Provisions
+    * Judicial Review
+    * Principles of Natural Justice
+    *  Application of Procedural Rules to Commercial Courts
+
+## 4. Arguments Presented
+
+* **Plaintiff’s Argument (Non-applicant/Petitioner):** 
+    * The respondents filed their written statement and affidavit of admission and denial with excessive delay without a valid application for condonation of delay. 
+    * The Original Side Rules are applicable to Commercial Courts, and the respondents failed to comply with the procedural requirements of the Commercial Courts Act, 2015.
+    * The respondent’s belated filing was not justifiable, and the Commercial Court erred in condoning the delay.
+    * The Commercial Court should have proceeded under Order VIII Rule 10 CPC due to the respondents' failure to comply with the procedural requirements. 
+* **Defendant’s Argument (Applicants/Respondents):**
+    * The High Court erred in interpreting the facts and law in its judgment.
+    * The plaintiff failed to properly quantify the claim and pay the required court fees, making the plaint invalid before the written statement was filed.
+    * The Original Side Rules are not applicable to District Courts, including Commercial Courts. 
+    * The court's requirement for an application for condonation of delay constitutes an impermissible legislative incursion.
+    * The Court's judgment unfairly curtailed the Commercial Court's powers under Order VIII Rule 5 and Order VII Rule 11 CPC.
+    * The judgment in Red Bull AG (supra) supported the argument that an application for condonation of delay is not always necessary for accepting belatedly filed written statements.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:** 
+    * The Original Side Rules are applicable to Commercial Courts, as the Practice Directions issued under Section 18 of the Commercial Courts Act explicitly supplement the Original Side Rules for commercial disputes in District Courts.
+    * The Court found no merit in the respondents' claim that an application for condonation of delay is not necessary. The court relied on several previous judgments, including Unilin Beheer B.V. (supra), Rajesh Goel (supra), Shreeved Consultancy LLP (supra), and Mothers Pride Education Institution Pvt. Ltd. (supra), to support its position. 
+    * The Court rejected the respondents' argument regarding the invalidity of the plaint due to the late payment of court fees, as the payment was made after objections raised by the respondents, not due to a court order.
+    * The Court upheld the previous judgment regarding the application of Order VIII Rule 10 CPC to the case.
+* **Interpretation of Law:**
+    * The Court emphasized the need for strict adherence to procedural rules and timelines under the Commercial Courts Act, 2015.
+    * The Court interpreted the provisions of the Commercial Courts Act and the Original Side Rules to be applicable to Commercial Courts at the District level.
+    * The Court found that the requirement of an application for condonation of delay, when filing a written statement with delay, is a well-established practice supported by numerous precedents.
+* **Application of Law:**
+    * The Court applied the relevant legal principles and precedents to the specific facts of the case.
+    * The Court found that the respondents failed to comply with the statutory requirements regarding the filing of a written statement and the application for condonation of delay.
+    * The Court applied the principle of judicial review, holding that the Commercial Court's order accepting the belated written statement was an error apparent on the face of the record.
+
+## 6. Judgment
+
+* **Final Decision:** The review petition filed by the respondents was dismissed.
+* **Relief Granted:** None, except the dismissal of the review petition. 
+* **Orders:** The Court imposed costs of Rs.10,000/- on the respondents, to be shared equally between the petitioner and Bharat Key Vir Funds.
+
+## 7. Implications
+
+* **Impact on Law:** The judgment reinforces the importance of adherence to procedural rules and timelines in commercial disputes, especially in Commercial Courts. 
+* **Future Relevance:** This case serves as a precedent for the applicability of the Original Side Rules to Commercial Courts and the necessity of filing an application for condonation of delay when filing a written statement with delay.
+* **Broader Context:** The judgment highlights the need for parties to understand and comply with the specific procedures and rules governing commercial litigation. It also underscores the role of judicial review in ensuring the proper application of legal principles and precedents.
+
+## 8. Summary Points
+
+* The Delhi High Court upheld its previous order setting aside the Commercial Court's decision to accept a belated written statement.
+* The Original Side Rules of the Delhi High Court apply to Commercial Courts at the District level.
+* An application for condonation of delay is mandatory when filing a written statement with delay. 
+* The Court clarified the applicability of Order VIII Rule 10 CPC to cases where a defendant fails to comply with procedural requirements.
+
+## 9. References
+
+* **Citations:** 
+    * All cited judgments are referenced in the text with case names and relevant information.
+* **Further Reading:** 
+    * Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015
+    * Delhi High Court (Original Side) Rules, 2018
+    * Code of Civil Procedure (CPC) 
+
+This summary provides a detailed analysis of the case, including the relevant legal principles, arguments presented, and the court's reasoning. It is important to note that this summary is based on the provided text and may not encompass all aspects of the case. 

@@ -1,0 +1,112 @@
+## 1. Case Title
+
+* **Case Name:** Atcom Technology Co. Ltd vs. Rahul Gupta & Ors & Ors.
+* **Court:** Delhi High Court
+* **Date of Judgment:** 20 February, 2023
+* **Citation:** 2023/DHC/001263
+
+## 2. Background and Context
+
+* **Brief Overview:** Atcom Technology Co. Ltd (petitioner) filed a lawsuit against Rahul Gupta & Ors (respondents) in the Commercial Court alleging copyright infringement and passing off. The petitioner claimed the respondents were using their logo and selling products as the petitioner's. The petitioner sought injunctive relief.
+* **Key Issues:**
+    * Whether the Delhi High Court (Original Side) Rules, 2018 (Original Side Rules) applied to Commercial Courts in Delhi.
+    * Whether the respondents' additional documents, filed after the written statement, could be taken on record.
+    * Whether the respondents had established "reasonable cause" for not filing the documents with the written statement as required by Order XI Rule 1(10) of the CPC.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * Article 227 of the Constitution of India (Supervisory Jurisdiction of High Courts).
+    * Code of Civil Procedure, 1908 (CPC).
+    * Order XI Rule 1 (10) of the CPC (Disclosure and Discovery of Documents).
+    * Commercial Courts Act, 2015.
+    * Delhi High Court (Original Side) Rules, 2018 (Original Side Rules).
+* **Precedents Cited:**
+    * *M/s OK Play India Pvt. Ltd. v. M/s A.P. Distributors & Anr* (CM(M) 346/2020, decision dated 25th October, 2021).
+    * *Bela Creatin Pvt. Ltd. v. Anuj Textiles* (2022 SCC OnLine Del 1366).
+    * *Hassad Food Company Q.S.C. v. Bank of India* (2019 SCC OnLine 10647).
+    * *Md. Islamuddin v. S.S. Kapoor* (2022 SCC OnLine Del 3608).
+    * *State of Bihar v. Bihar Rajya Bhumi Vikas Bank Samiti* (2002) 1 SCC 535).
+    * *Sugandhi v. P. Raj Kumar* (2020) 10 SCC 706).
+    * *Estralla Rubber v. Dass Estate (P) Ltd.* (2001) 8 SCC 97).
+    * *Garment Craft v. Prakash Chand Goel* (2022 SCC Online SC 29).
+    * *Ibrat Faizan v. Omaxe Buildhome Pvt. Ltd.* (2022 SCC Online SC 620).
+    * *Puri Investments v. Young Friends and Co.* (2022 SCC Online SC 283).
+    * *Sadhana Lodh v. National Insurance Co. Ltd.* (2003) 3 SSC 524).
+    * *Ahmedabad Mfg. & Calico Ptg. Co. Ltd. v. Ram Tahel Ramnand* (AIR 1972 SC 1598).
+    * *Waryam Singh v. Amarnath* (AIR 1954 SC 215).
+    * *Bathutmal Raichand Oswal v. Laxmibai R. Tarte* (AIR 1975 SC 1297).
+    * *Prakash Chand Goel v. Garment Craft* (2019 SCC OnLine Del 11943).
+    * *Celina Coelho Pereira v. Ulhas Mahabaleshwar Kholkar* (2010) 1 SCC 217).
+    * *Re : Cognizance for Extension of Limitation Suo Motu Writ Petition (C) 3/2020* (2022) 3 SCC 117).
+    * *Centaur Pharmaceuticals Pvt. Ltd. v. Stanford Laboratories Pvt. Ltd.* (2022 SCC OnLine SC 1607).
+    * *Babasaheb Raosaheb Kobarne v. Pyrotek India Private Limited* (2022 SCC OnLine SC 1315).
+    * *Prakash Corporates v. Dee Vee Projects Ltd* (2022) 5 SCC 112).
+    * *Sagufa Ahmed v. Upper Assam Plywood Products (P) Ltd* (2021) 2 SCC 317).
+    * *Kamlesh v. Sudhir Sharma* (2022 SCC OnLine Del 4069).
+    * *A.P. Distributors v. Ok Play India Pvt. Ltd* (SLP(C) 9733-9734/2022, order dated 12th September 2022).
+* **Legal Doctrines:**
+    * **Supervisory Jurisdiction:** The High Court's power under Article 227 to oversee the proceedings of lower courts.
+    * **Perverse Findings:** Findings made by a lower court that are so unreasonable that no reasonable person could arrive at them.
+    * **Liberal Interpretation of Procedural Rules:** Courts generally favor a less strict approach to procedural rules when they do not cause serious prejudice to the other party.
+    * **Reasonable Cause:** A higher standard than "sufficient cause" or "good cause", requiring a more compelling justification for failing to comply with a procedural requirement.
+
+## 4. Arguments Presented
+
+* **Petitioner's Argument:**
+    * The Original Side Rules applied to Commercial Courts in Delhi, and therefore the respondents should not have been able to file documents after the pleadings were complete.
+    * The respondents failed to show "reasonable cause" for not filing the documents with their written statement, making the additional documents inadmissible.
+    * Allowing the additional documents was an abuse of process since they were filed after the petitioner had filed its replication.
+* **Respondent's Argument:**
+    * The Original Side Rules did not apply to Commercial Courts.
+    * The COVID-19 pandemic constituted "reasonable cause" for the delay in filing the documents with the written statement.
+    * The documents were filed within the extended period of limitation for filing pleadings due to the pandemic.
+    * Order XI Rule 1(10) was not a strict requirement, and even if the documents were not filed with the written statement, they could still be taken on record.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The Original Side Rules did not apply to Commercial Courts in Delhi.
+    * The COVID-19 pandemic constituted "reasonable cause" for the respondents' delay in filing documents.
+    * The respondents' written statement and documents were filed within the extended period of limitation for filing pleadings due to the pandemic.
+    * The documents were not belatedly filed, and there was no need to strictly adhere to Order XI Rule 1(10) in this case.
+* **Interpretation of Law:**
+    * The court interpreted the Supreme Court's orders regarding extending limitations periods during the pandemic as applying to all legal proceedings, including filing pleadings.
+    * The court interpreted "reasonable cause" in Order XI Rule 1(10) broadly, accepting the pandemic as a valid justification for the delay.
+* **Application of Law:**
+    * The court applied the extended limitation period due to the pandemic to the case, determining that the respondents' written statement and documents were filed within the permitted time.
+    * The court applied the principle of liberal interpretation to procedural rules, accepting the respondents' explanation for the delay and allowing the documents to be taken on record.
+
+## 6. Judgment
+
+* **Final Decision:** The petition was dismissed.
+* **Relief Granted:** No relief was granted.
+* **Orders:** The impugned order dated 4th July 2022 passed by the learned Commercial Court was upheld.
+
+## 7. Implications
+
+* **Impact on Law:** This judgment clarifies that the Original Side Rules do not apply to Commercial Courts. It also confirms the continued application of the Supreme Court's orders extending limitations periods during the pandemic.
+* **Future Relevance:** This case may be cited in future cases involving similar issues, such as the applicability of the Original Side Rules to lower courts and the interpretation of "reasonable cause" for failing to comply with procedural requirements during extraordinary circumstances.
+* **Broader Context:** This case highlights the need for courts to adopt a flexible and practical approach to procedural rules in light of unforeseen events like pandemics, ensuring that justice is not hindered by technicalities.
+
+## 8. Summary Points
+
+* The Original Side Rules do not apply to Commercial Courts in Delhi.
+* The COVID-19 pandemic was accepted as "reasonable cause" for delay in filing documents with a written statement.
+* The extended limitation period due to the pandemic allowed the respondent's written statement and documents to be filed within the permitted time.
+* The court upheld the Commercial Court's decision to allow the documents to be taken on record.
+
+## 9. References
+
+* **Citations:**
+    * Article 227 of the Constitution of India.
+    * Code of Civil Procedure, 1908 (CPC).
+    * Order XI Rule 1 (10) of the CPC.
+    * Commercial Courts Act, 2015.
+    * Delhi High Court (Original Side) Rules, 2018.
+    * All precedents listed in "Legal Principles Involved."
+* **Further Reading:**
+    * *Re : Cognizance for Extension of Limitation Suo Motu Writ Petition (C) 3/2020* (2022) 3 SCC 117.
+    * *Sugandhi v. P. Raj Kumar* (2020) 10 SCC 706.
+    * *A.P. Distributors v. Ok Play India Pvt. Ltd* (SLP(C) 9733-9734/2022, order dated 12th September 2022).
+    * *Estralla Rubber v. Dass Estate (P) Ltd.* (2001) 8 SCC 97.

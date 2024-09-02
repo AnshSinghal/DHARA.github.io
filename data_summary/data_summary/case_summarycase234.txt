@@ -1,0 +1,88 @@
+## 1. Case Title
+
+* **Case Name:** Krishna Bhagya Jala Nigam Ltd vs A Prabhakara Reddy
+* **Court:** Karnataka High Court, Kalaburagi Bench
+* **Date of Judgment:** 11th September 2023
+* **Citation:** NC: 2023:KHC-K:7285, WP No. 201900 of 2023 
+
+## 2. Background and Context
+
+* **Brief Overview:** Krishna Bhagya Jala Nigam Ltd. (KBJNL), a government undertaking, sued A. Prabhakara Reddy (Reddy), a Class-I contractor, for a sum of Rs. 57,48,47,264/- in a commercial suit for recovery. This sum included interest and liquidated damages related to a contractual agreement between the parties. KBJNL claimed that Reddy had failed to fulfill his contractual obligations.
+* **Key Issues:**
+    * The admissibility of further evidence by the plaintiff (KBJNL) after the matter was posted for arguments.
+    * The interpretation and application of Order 18 Rule 4(1A) and (1B) of the Code of Civil Procedure (CPC) as amended by the Commercial Courts Act, 2015 (CCA) in commercial suits.
+    * The maintainability of the writ petition challenging the trial court's order in light of Section 8 of the CCA. 
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * Code of Civil Procedure, 1908 (CPC)
+    * Commercial Courts Act, 2015 (CCA)
+    * Order 18 Rule 4(1A) and (1B) of CPC
+    * Section 8 of the CCA
+    * Section 151 of CPC
+    * Order 15A of CPC
+* **Precedents Cited:**
+    * Janki Vashdeo Bhojwani and Another vs. Indusind Bank Ltd, 2005 (2) SCC 217
+    * Surya Dev Rai vs Ram Chander Rai, 2003 AIR SCW 3872
+    * State of Gujarat vs. Union of India, (Commercial Civil Suit No.247/2016)
+    * Imtiyaz Sheikh vs Puma Se, CM(M) No.132/2021 and CM No.5689/2021 
+    * M/S Deep Industries Ltd. vs Oil and Natural Gas Corporation Limited, 2020 (15) SCC 706
+* **Legal Doctrines:**
+    * Jurisdiction of Commercial Courts
+    * Power of High Court under Article 227 of the Constitution
+    * Interlocutory Orders
+    * Case Management Hearings
+    * Burden of Proof
+    * Principles of Natural Justice
+
+## 4. Arguments Presented
+
+* **Plaintiff’s Argument:** (KBJNL)
+    * The trial court rightly allowed the plaintiff to adduce further evidence as the power of attorney holder who testified for the plaintiff was not authorized to give evidence on all aspects of the case. 
+    * The plaintiff argued that Order 18 Rule 4(1B) of CPC allows for the admission of additional evidence upon showing sufficient cause.
+    * The plaintiff further argued that Section 8 of the CCA does not completely bar the High Court's jurisdiction under Article 227 of the Constitution.
+* **Defendant’s Argument:** (Reddy)
+    * The trial court erred in allowing the plaintiff to adduce further evidence after the matter was posted for arguments.
+    * The defendant argued that the plaintiff had not complied with the requirements of Order 18 Rule 4(1A) and Order 15A of CPC regarding the filing of affidavits and witness lists.
+    * The defendant contended that the plaintiff had failed to establish sufficient cause for leading further evidence.
+    * The defendant argued that the writ petition challenging the trial court's order is maintainable in light of the legal infirmities in the order and the potential for grave injustice to the defendant.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The court found that the Commercial Courts Act, 2015 significantly amended the Code of Civil Procedure to expedite commercial disputes.
+    * The court emphasized the importance of adhering to the timeframes and procedures outlined in the amended CPC for commercial suits, particularly those relating to case management hearings and witness affidavits.
+    * The court concluded that the trial court had wrongly allowed the plaintiff's application for further evidence as it did not satisfy the requirements of Order 18 Rule 4(1B) of CPC. 
+* **Interpretation of Law:**
+    * The court interpreted Order 18 Rule 4(1A) and (1B) of CPC as amended by the CCA to require the simultaneous filing of all witness affidavits at the time directed in the case management hearing.
+    * The court held that the trial court could only allow further evidence under Order 18 Rule 4(1B) upon showing sufficient cause.
+    * The court recognized the bar imposed by Section 8 of the CCA but acknowledged that this bar is not absolute and the High Court may intervene in exceptional circumstances where there is a manifest error and the potential for grave injustice.
+* **Application of Law:**
+    * The court found that the plaintiff had not filed its own affidavit in lieu of evidence as required by the CPC and that the plaintiff had failed to establish sufficient cause for allowing further evidence.
+    * The court held that the trial court's order was based on a wrong premise and that the defendant's willingness to accept the power of attorney holder's evidence nullified the plaintiff's concern regarding the competency of the power of attorney.
+    * The court concluded that the trial court's order would likely delay the proceedings and therefore violated the objective of Section 8 of the CCA.
+
+## 6. Judgment
+
+* **Final Decision:** The writ petition is allowed.
+* **Relief Granted:** The impugned order dated 13.06.2023 passed by the Court of Principal District & Sessions Judge and Commercial Court, Raichur on IA-XI in Commercial O.S. No.1/2018 is quashed. IA-XI is dismissed. 
+* **Orders:** The Principal District and Sessions Judge and Commercial Court is directed to dispose of the matter as expeditiously as possible.
+
+## 7. Implications
+
+* **Impact on Law:** The judgment emphasizes the importance of adhering to the procedural requirements outlined in the Commercial Courts Act, 2015, particularly those relating to the filing of witness affidavits and the grounds for allowing further evidence.
+* **Future Relevance:** The case is a significant reminder that the High Court may intervene under Article 227 of the Constitution to correct a manifest error in a commercial suit even though the Commercial Courts Act, 2015 generally restricts such interventions.
+* **Broader Context:** The judgment reinforces the need for efficient and expeditious disposal of commercial disputes, as intended by the Commercial Courts Act.
+
+## 8. Summary Points
+
+* The Karnataka High Court quashed a trial court order allowing the plaintiff to adduce further evidence in a commercial suit.
+* The court found that the plaintiff had not met the procedural requirements of the CPC as amended by the CCA.
+* The court held that the trial court's order violated the objective of the CCA to expedite commercial disputes.
+* The case highlights the High Court's power to intervene under Article 227 of the Constitution to correct manifest errors even in cases where the CCA generally restricts such interventions.
+
+## 9. References
+
+* **Citations:** All statutes, cases, and legal texts cited above.
+* **Further Reading:** Further research on the Commercial Courts Act, 2015 and the powers of High Courts under Article 227 of the Constitution. 

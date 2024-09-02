@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A plaintiff has filed a suit for recovery of money against a defendant in a High Court having Ordinary Original Civil Jurisdiction. The suit involves a commercial dispute within the meaning of the Commercial Courts Act, 2015. However, the plaintiff did not undertake pre-institution mediation before filing the suit. The defendant has raised a plea of non-compliance with Section 12A of the Act. Can the suit be dismissed on this ground?",
+    "Legal Principles": "Section 12A of the Commercial Courts Act, 2015 mandates pre-institution mediation for commercial disputes, except in cases of urgency. The provision is mandatory and non-compliance can lead to dismissal of the suit. However, suits filed before the necessary infrastructure for pre-institution mediation was in place (before December 11, 2020) are exempt from this requirement.",
+    "Relevant Sections": "Section 12A of the Commercial Courts Act, 2015",
+    "Context": "Commercial dispute, mandatory pre-institution mediation, non-compliance with Section 12A, jurisdiction of High Court"
+  },
+  {
+    "Query": "A case involving a commercial dispute worth Rs. 5 lakh is currently pending in a regular civil court. The plaintiff has applied for its transfer to the Commercial Court. The defendant argues that the suit was filed before the Commercial Court was established and therefore cannot be transferred. What are the legal principles governing the transfer of pending cases to the Commercial Courts?",
+    "Legal Principles": "Section 15 of the Commercial Courts Act, 2015 mandates the transfer of all suits involving commercial disputes of the specified value pending in regular civil courts to the Commercial Courts. This provision applies to suits pending before the establishment of the Commercial Courts. However, suits where the final judgment has been reserved before the establishment of the Commercial Court are not transferred.",
+    "Relevant Sections": "Section 15 of the Commercial Courts Act, 2015",
+    "Context": "Transfer of pending cases, commercial dispute, specified value, jurisdiction of Commercial Court, regular civil court"
+  },
+  {
+    "Query": "A company has filed an arbitration petition against another company in a regular civil court, claiming a commercial dispute. The court has raised concerns about the applicability of the Commercial Courts Act, 2015 and the need for pre-institution mediation. How do the provisions of the Commercial Courts Act, 2015 apply to arbitration proceedings?",
+    "Legal Principles": "Section 15 of the Commercial Courts Act, 2015 mandates the transfer of all arbitration applications involving commercial disputes of the specified value to the Commercial Division of the High Court or Commercial Court, as the case may be. However, Section 12A of the Act, requiring pre-institution mediation, does not apply to arbitration proceedings.",
+    "Relevant Sections": "Section 15 and Section 12A of the Commercial Courts Act, 2015",
+    "Context": "Arbitration proceedings, commercial dispute, specified value, pre-institution mediation, jurisdiction of Commercial Division or Commercial Court"
+  },
+  {
+    "Query": "A case involving a commercial dispute worth Rs. 2 lakh is currently pending in the Commercial Division of the High Court. The defendant claims that the dispute does not fall under the definition of a commercial dispute under the Commercial Courts Act, 2015. Can the Commercial Division of the High Court transfer the case to the regular civil court?",
+    "Legal Principles": "The Commercial Courts Act, 2015 does not explicitly provide for the transfer of a suit from the Commercial Division of the High Court to the regular civil court. However, the Commercial Division can invoke Order VII Rule 10 of the Code of Civil Procedure, 1908 to return the plaint for presentation before the appropriate court.",
+    "Relevant Sections": "Order VII Rule 10 of the Code of Civil Procedure, 1908",
+    "Context": "Transfer of cases, commercial dispute, jurisdiction of Commercial Division, regular civil court"
+  },
+  {
+    "Query": "A company has filed a suit for specific performance of a contract relating to an immovable property used exclusively for commercial purposes in the Commercial Division of the High Court. The defendant argues that the suit should be dismissed as the plaintiff did not undertake pre-institution mediation. Does the Commercial Division have the power to dismiss the suit on this ground?",
+    "Legal Principles": "Section 12A of the Commercial Courts Act, 2015 mandates pre-institution mediation for commercial disputes. Non-compliance with this provision can lead to dismissal of the suit. However, this requirement applies to suits filed after December 11, 2020. Suits filed before this date are exempt from pre-institution mediation.",
+    "Relevant Sections": "Section 12A of the Commercial Courts Act, 2015",
+    "Context": "Commercial dispute, pre-institution mediation, specific performance, immovable property, jurisdiction of Commercial Division"
+  },
+  {
+    "Query": "A case involving a commercial dispute of Rs. 4 lakh is currently pending in a regular civil court. The plaintiff seeks transfer to the Commercial Court. The defendant argues that the transfer is not possible as the plaintiff did not comply with Section 12A of the Commercial Courts Act, 2015. Is the defendant's argument valid?",
+    "Legal Principles": "Section 15 of the Commercial Courts Act, 2015 mandates the transfer of pending cases involving commercial disputes of the specified value to the Commercial Court. The requirement of pre-institution mediation under Section 12A does not apply to transfers under Section 15. The Commercial Court, upon transfer, will ensure compliance with Section 12A.",
+    "Relevant Sections": "Section 15 and Section 12A of the Commercial Courts Act, 2015",
+    "Context": "Transfer of cases, commercial dispute, specified value, pre-institution mediation, jurisdiction of Commercial Court, regular civil court"
+  },
+  {
+    "Query": "A case involving a commercial dispute worth Rs. 10 lakh is currently pending in the Commercial Division of the High Court. The plaintiff has applied for its transfer to the regular civil court. Can the Commercial Division transfer the case to the regular civil court?",
+    "Legal Principles": "The Commercial Courts Act, 2015 does not explicitly provide for the transfer of a suit from the Commercial Division of the High Court to the regular civil court. The Commercial Division can invoke Order VII Rule 10 of the Code of Civil Procedure, 1908 to return the plaint for presentation before the appropriate court.",
+    "Relevant Sections": "Order VII Rule 10 of the Code of Civil Procedure, 1908",
+    "Context": "Transfer of cases, commercial dispute, jurisdiction of Commercial Division, regular civil court"
+  },
+  {
+    "Query": "A company has filed an arbitration application against another company in a regular civil court. The dispute involves a commercial transaction worth Rs. 7 lakh. Should the regular civil court transfer the application to the Commercial Division of the High Court?",
+    "Legal Principles": "Section 15 of the Commercial Courts Act, 2015 mandates the transfer of all arbitration applications involving commercial disputes of the specified value to the Commercial Division of the High Court. This provision applies to cases pending before the establishment of the Commercial Division. The court must ensure compliance with the provisions of the Act.",
+    "Relevant Sections": "Section 15 of the Commercial Courts Act, 2015",
+    "Context": "Arbitration proceedings, commercial dispute, specified value, jurisdiction of Commercial Division, regular civil court"
+  },
+  {
+    "Query": "A case involving a commercial dispute is currently pending in the regular civil court. The plaintiff has applied for its transfer to the Commercial Court. The defendant argues that the transfer is not possible as the dispute does not involve the specified value. Is the defendant's argument valid?",
+    "Legal Principles": "Section 15 of the Commercial Courts Act, 2015 mandates the transfer of pending cases involving commercial disputes of the specified value to the Commercial Court. The specified value is a threshold that must be met for the transfer to occur. If the dispute does not meet the specified value, the transfer cannot be made.",
+    "Relevant Sections": "Section 15 of the Commercial Courts Act, 2015",
+    "Context": "Transfer of cases, commercial dispute, specified value, jurisdiction of Commercial Court, regular civil court"
+  },
+  {
+    "Query": "A company has filed a suit for recovery of money against another company in the Commercial Division of the High Court. The defendant argues that the suit should be dismissed as the plaintiff did not comply with Section 12A of the Commercial Courts Act, 2015. Is the defendant's argument valid?",
+    "Legal Principles": "Section 12A of the Commercial Courts Act, 2015 mandates pre-institution mediation for commercial disputes. Non-compliance with this provision can lead to dismissal of the suit. However, this requirement applies to suits filed after December 11, 2020. Suits filed before this date are exempt from pre-institution mediation.",
+    "Relevant Sections": "Section 12A of the Commercial Courts Act, 2015",
+    "Context": "Commercial dispute, pre-institution mediation, recovery of money, jurisdiction of Commercial Division"
+  }
+]
+```

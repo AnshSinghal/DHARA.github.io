@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A company (Plaintiff) entered into an agreement to sell a commercial property to another company (Defendant). The Defendant made a partial payment but failed to pay the remaining balance. The Plaintiff filed a suit for specific performance. The Defendant argued that the agreement was not commercial in nature and therefore the Commercial Court lacked jurisdiction. Should the Commercial Court have jurisdiction to hear the case?",
+    "Legal Principles": "The jurisdiction of the Commercial Court depends on whether the dispute is commercial in nature. An agreement relating to immovable property used exclusively in trade or commerce is considered a commercial dispute. The court must consider whether the property was actually used in trade or commerce at the time of the agreement.",
+    "Relevant Sections": "Section 2(1)(c)(vii) of the Commercial Courts Act, 2015: Agreements relating to immovable property used exclusively in trade or commerce.",
+    "Context": "Jurisdiction of Commercial Court, Commercial Dispute, Immovable Property used in Trade or Commerce"
+  },
+  {
+    "Query": "A buyer (Plaintiff) entered into an agreement to purchase a commercial property from a seller (Defendant). The Defendant failed to deliver the property and the Plaintiff filed a suit for specific performance. The Defendant argued that the Plaintiff failed to comply with the pre-institution mediation requirement under Section 12A of the Commercial Courts Act. Does the Plaintiff need to undergo pre-institution mediation if they are seeking urgent interim relief?",
+    "Legal Principles": "Section 12A of the Commercial Courts Act mandates pre-institution mediation in commercial disputes unless the plaintiff seeks urgent interim relief. The court must determine whether the plaintiff's claim for urgent interim relief is bona fide and whether there is a prima facie case for such relief.",
+    "Relevant Sections": "Section 12A of the Commercial Courts Act, 2015: Pre-Institution Mediation",
+    "Context": "Pre-Institution Mediation, Urgent Interim Relief, Commercial Courts Act, 2015"
+  },
+  {
+    "Query": "A company (Plaintiff) entered into an agreement with another company (Defendant) for the supply of goods. The Defendant failed to deliver the goods as per the agreement and the Plaintiff filed a suit for damages. The Defendant argued that the agreement was not commercial in nature and that the Commercial Court lacked jurisdiction. Is the supply of goods a commercial dispute?",
+    "Legal Principles": "The supply of goods is generally considered a commercial transaction and falls within the purview of the Commercial Court Act. The court must assess the nature of the agreement and the commercial purpose of the transaction.",
+    "Relevant Sections": "Section 2(1)(c) of the Commercial Courts Act, 2015: Definition of 'commercial dispute'",
+    "Context": "Jurisdiction of Commercial Court, Commercial Dispute, Supply of Goods"
+  },
+  {
+    "Query": "A buyer (Plaintiff) entered into an agreement to purchase a commercial property from a seller (Defendant). The Defendant made false representations about the property and the Plaintiff suffered financial losses. The Plaintiff filed a suit for damages against the Defendant. Can the Plaintiff seek urgent interim relief in this case?",
+    "Legal Principles": "The court can grant urgent interim relief if the plaintiff demonstrates a prima facie case and a likelihood of irreparable harm if such relief is not granted. The court must consider the nature of the harm, the balance of convenience, and the overall fairness of the situation.",
+    "Relevant Sections": "Order XXXIX Rules 1 and 2 of the Code of Civil Procedure, 1908: Urgent Interim Relief",
+    "Context": "Urgent Interim Relief, Irreparable Harm, False Representations, Commercial Property"
+  },
+  {
+    "Query": "A company (Plaintiff) entered into an agreement with another company (Defendant) for the construction of a factory. The Defendant failed to complete the construction on time and the Plaintiff suffered financial losses. The Plaintiff filed a suit for damages against the Defendant. The Defendant argued that the agreement was not commercial in nature because it was for the construction of a factory and not for the production of goods. Is the construction of a factory a commercial dispute?",
+    "Legal Principles": "The construction of a factory can be considered a commercial dispute if it is for the purpose of carrying out commercial activities or manufacturing goods for commercial purposes. The court must examine the nature and purpose of the construction contract.",
+    "Relevant Sections": "Section 2(1)(c) of the Commercial Courts Act, 2015: Definition of 'commercial dispute'",
+    "Context": "Jurisdiction of Commercial Court, Commercial Dispute, Construction of Factory"
+  },
+  {
+    "Query": "A supplier (Plaintiff) entered into an agreement with a buyer (Defendant) for the supply of raw materials. The Defendant refused to accept the delivery of the goods and the Plaintiff filed a suit for breach of contract. The Defendant argued that the agreement was not commercial in nature because it was for the supply of raw materials to a manufacturing unit and not for the sale of finished goods. Is the supply of raw materials a commercial dispute?",
+    "Legal Principles": "The supply of raw materials is generally considered a commercial transaction and falls within the purview of the Commercial Court Act. The court must assess the nature of the agreement and the commercial purpose of the transaction.",
+    "Relevant Sections": "Section 2(1)(c) of the Commercial Courts Act, 2015: Definition of 'commercial dispute'",
+    "Context": "Jurisdiction of Commercial Court, Commercial Dispute, Supply of Raw Materials"
+  },
+  {
+    "Query": "A company (Plaintiff) entered into an agreement with another company (Defendant) for the lease of a commercial property. The Defendant failed to pay the rent and the Plaintiff filed a suit for eviction. The Defendant argued that the agreement was not commercial in nature because it was for the lease of a property and not for the conduct of business. Is the lease of a commercial property a commercial dispute?",
+    "Legal Principles": "The lease of a commercial property is generally considered a commercial transaction and falls within the purview of the Commercial Court Act. The court must assess the nature of the agreement and the commercial purpose of the transaction.",
+    "Relevant Sections": "Section 2(1)(c) of the Commercial Courts Act, 2015: Definition of 'commercial dispute'",
+    "Context": "Jurisdiction of Commercial Court, Commercial Dispute, Lease of Commercial Property"
+  },
+  {
+    "Query": "A company (Plaintiff) entered into an agreement with another company (Defendant) for the joint venture to develop a commercial project. The Defendant breached the agreement and the Plaintiff filed a suit for damages. The Defendant argued that the agreement was not commercial in nature because it was for the development of a project and not for the sale of goods or services. Is a joint venture agreement for commercial development a commercial dispute?",
+    "Legal Principles": "A joint venture agreement for commercial development is generally considered a commercial transaction and falls within the purview of the Commercial Court Act. The court must assess the nature of the agreement and the commercial purpose of the transaction.",
+    "Relevant Sections": "Section 2(1)(c) of the Commercial Courts Act, 2015: Definition of 'commercial dispute'",
+    "Context": "Jurisdiction of Commercial Court, Commercial Dispute, Joint Venture Agreement, Commercial Development"
+  },
+  {
+    "Query": "A company (Plaintiff) entered into an agreement with another company (Defendant) for the provision of services. The Defendant failed to pay for the services provided and the Plaintiff filed a suit for recovery of dues. The Defendant argued that the agreement was not commercial in nature because it was for the provision of services and not for the sale of goods. Is the provision of services a commercial dispute?",
+    "Legal Principles": "The provision of services is generally considered a commercial transaction and falls within the purview of the Commercial Court Act. The court must assess the nature of the agreement and the commercial purpose of the transaction.",
+    "Relevant Sections": "Section 2(1)(c) of the Commercial Courts Act, 2015: Definition of 'commercial dispute'",
+    "Context": "Jurisdiction of Commercial Court, Commercial Dispute, Provision of Services"
+  },
+  {
+    "Query": "A buyer (Plaintiff) entered into an agreement with a seller (Defendant) for the purchase of goods. The Defendant delivered defective goods and the Plaintiff filed a suit for damages. The Defendant argued that the agreement was not commercial in nature because it was for the purchase of goods for personal use and not for resale. Is the purchase of goods for personal use a commercial dispute?",
+    "Legal Principles": "The purchase of goods for personal use is generally not considered a commercial transaction and may not fall within the purview of the Commercial Court Act. The court must assess the nature of the agreement and the purpose of the transaction.",
+    "Relevant Sections": "Section 2(1)(c) of the Commercial Courts Act, 2015: Definition of 'commercial dispute'",
+    "Context": "Jurisdiction of Commercial Court, Commercial Dispute, Purchase of Goods for Personal Use"
+  }
+]
+```

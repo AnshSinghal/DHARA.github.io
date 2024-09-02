@@ -1,0 +1,141 @@
+## Case Title
+
+* **Case Name:** Sri Ashes Deb vs. The State of Tripura
+* **Court:** Tripura High Court
+* **Date of Judgment:** 10th April 2024
+* **Citation:** Arb. A. 05 of 2023 & Arb. A. 06 of 2023
+
+## Background and Context
+
+* **Brief Overview:** Sri Ashes Deb, a contractor, filed two appeals against the Tripura High Court's decision on an application under Section 34 of the Arbitration and Conciliation Act, 1996 (the Act). The appeals challenged the court's ruling on condoning the delay in filing the application, the court's territorial jurisdiction, and the competency of the court to hear the case.
+* **Key Issues:**
+    * Whether the delay in filing the application under Section 34 of the Act was beyond the permissible period and could be condoned.
+    * Whether the learned Commercial Court, West Tripura, had territorial jurisdiction to entertain the Section 34 application, as the subject matter of the dispute was located in Dhalai District.
+    * Whether the Court of Additional District Judge, West Tripura, was competent to hear and adjudicate the Commercial Appeal.
+    * Whether the explanations offered by the respondent for seeking condonation of delay were sufficient to condone the delay.
+
+## Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * Arbitration and Conciliation Act, 1996 (the Act)
+        * Section 5: Judicial intervention in matters governed by Part-I of the Act.
+        * Section 11(6): Appointment of an Arbitrator.
+        * Section 29(2): Applicability of Limitation Act in special or local laws.
+        * Section 31(5): Delivery of arbitral award.
+        * Section 32: Termination of arbitral proceedings.
+        * Section 33: Request for correction or interpretation of an award.
+        * Section 34: Setting aside an arbitral award.
+        * Section 34(3): Limitation period for filing an application for setting aside an award.
+        * Section 37: Appeal from the decision on setting aside an award.
+        * Section 42: Jurisdiction of Commercial Courts.
+        * Section 43(1) and (3): Applicability of Limitation Act to arbitrations.
+    * Commercial Courts Act, 2015
+        * Section 10: Jurisdiction of Commercial Courts.
+        * Section 13(1-A): Appeal from the decision of a Commercial Court.
+        * Section 20: Jurisdiction of Courts in commercial matters.
+    * Limitation Act, 1963
+        * Section 3: Applicability of Schedule provisions.
+        * Section 4 to 24: Provisions governing computation of limitation periods.
+        * Section 12(1): Exclusion of first day in computing limitation periods.
+        * Section 14: Condonation of delay.
+    * General Clauses Act, 1897
+        * Section 3(35): Definition of "month".
+        * Section 9(1) and (2): Interpretation of "from" and "to".
+* **Precedents Cited:**
+    * Union of India Vs. Tecco Trichy Engineers & Contractors, (2005) 4 SCC 239: Commencement of limitation period under Section 34(3) from the date of receipt of the award.
+    * State of Maharashtra & Ors. Vs. ARK Builders Pvt. Ltd., (2011) 4 SCC 616: Period of limitation under Section 34(3) starts from the date of delivery/receipt of the award by the party.
+    * Anil Kumar Jinabhai Patel Vs. Pravin Chandra Jinabhai Patel & Ors., (2018) 15 SCC 178: Limitation period starts from the date of receipt of signed copy of award by the party.
+    * Oriental Insurance Company ltd. Vs. Tejparas Associates and Exports Pvt. Ltd., (2019) 9 SCC 435:  Dismissal of Section 34 petition on limitation grounds and the procedure for re-presentation under Order 7 Rule 10 and 10A of CPC.
+    * P Radha Bai & Ors. Vs. P Ashok Kumar & Anr. (2019) 13 SCC 445: Limitation period under Section 34(3) commences from the date of receipt of the award, and provisions of Limitation Act are excluded.
+    * Dakshin Haryana Bijli Vitran Nigam Ltd., Vs Navigant Technologies Private Limited., (2021) 7 SCC 657: Limitation period commences from the date of receipt of signed copy of the arbitral award.
+    * Bhimashankar Sahakari Sakkare Karkhane Niyamita Vs. Walchandnagar Industries Limited (WIL), (2023) 8 SCC 453: Benefit of exclusion of period during which court is closed is available only for the 3-month period under Section 34(3), not for the extended 30 days.
+    * Consolidated Engineering Enterprises Vs. Principal Secretary, Irrigation Department & Ors., (2008) 7 SCC 169:  Applicability of Section 14 of the Limitation Act to condone delay in filing applications under Section 34.
+    * State of Himachal Pradesh & Anr., Vs. Himachal Techno Engineers & Anr., (2010) 12 SCC 210:  Meaning of "three months" and "thirty days" under Section 34(3) and the applicability of the Limitation Act.
+    * Simplex Infrastructure Limited Vs. Union of India (2019) 2 SCC 505: Inapplicability of Section 5 and Section 14 of the Limitation Act to applications under Section 34.
+    * Union of India v. Popular Construction Company, (2001) 8 SCC 470: Section 5 of the Limitation Act does not apply to Section 34 applications.
+    * Assam Urban Water Supply and Sewerage Board Vs. Subash Projects and Marketing Limited, (2012) 2 SCC 624:  Applicability of Limitation Act in the context of Section 34.
+    * Rameshchandra Ambalal Joshi Vs. State of Gujarat & Anr. (2014) 11 SCC 759: Interpretation of "calendar month" and calculation of periods in legal proceedings.
+* **Legal Doctrines:**
+    * **Special law overrides general law (generalia specialibus non derogant):** When a special law contains specific provisions, they override general laws governing the same subject matter.
+    * **Principle of legislative intent:** The court interprets the law based on the presumed intention of the legislature.
+    * **Doctrine of precedent:** Courts are bound by the decisions of higher courts in similar cases.
+
+## Arguments Presented
+
+* **Appellant’s Argument:**
+    * The limitation period for filing a Section 34 application starts from the date of receipt of the award, not the day following the receipt.
+    * The combined effect of the "three months" and "thirty days" provisions in Section 34(3) and its proviso is a total period of 120 days.
+    * The Commercial Court, West Tripura, lacked territorial jurisdiction as the subject matter of the dispute was located in Dhalai District.
+    * The Court of Additional District Judge, West Tripura, was incompetent to hear the Commercial Appeal.
+    * The explanations offered by the respondent for condoning the delay were insufficient.
+* **Respondent’s Argument:**
+    * The appellant entered appearance before the Commercial Court but did not file written objections to the condonation petition.
+    * The court had territorial jurisdiction based on the appellant's residence in Agartala and the issuance of the award in Agartala.
+    * The appellant's filing of execution applications against the same awards demonstrated a dual stand.
+    * The delay of 30 days was condonable as it was explained in the condonation application.
+    * The "three months" period under Section 34(3) is not 90 days, but an actual calendar month.
+    * The "thirty days" period for condonation of delay is a distinct period.
+    * The General Clauses Act and Limitation Act provisions are applicable for calculating the limitation period.
+    * The court's jurisdiction as a Commercial Court was established through government notification and had not been challenged before.
+
+## Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The court found that the appellant received the arbitral award on the same date in both cases (25th July 2022).
+    * The application under Section 34 was filed on 24th November 2022, with a condonation application seeking condonation of a 30-day delay.
+    * The court relied on the precedents set by the Supreme Court, particularly the decisions in Union of India vs. Tecco Trichy Engineers & Contractors, State of Maharashtra vs. ARK Builders Pvt. Ltd., P Radha Bai vs. P Ashok Kumar, and Dakshin Haryana Bijli Vitran Nigam vs. Navigant Technologies, to determine that the limitation period under Section 34(3) starts from the date of receipt of the award.
+    * The court found that the language of Section 34(3) specifically refers to the date of receipt of the award, making other interpretations, such as the application of Section 12(1) of the Limitation Act, inappropriate.
+    * The court further observed that the proviso to Section 34(3) refers to "thirty days" separately, implying that the period of "three months" is not equivalent to 90 days but rather three actual calendar months.
+* **Interpretation of Law:**
+    * The court interpreted Section 34(3) of the Act to mean that the limitation period for filing a Section 34 application is "three months" from the date of receipt of the award, which is to be understood as three calendar months.
+    * The court found that the specific language of Section 34(3) excluded the application of provisions such as Section 12(1) of the Limitation Act and Section 9 of the General Clauses Act.
+    * The court distinguished the decision in Himachal Techno Engineers from the later pronouncements by the Supreme Court.
+* **Application of Law:**
+    * The court applied the principles derived from the Supreme Court decisions to determine the commencement date of the limitation period.
+    * The court calculated the limitation period based on the date of receipt of the award (25th July 2022) and determined that the three-month period expired on 24th October 2022.
+    * The court concluded that the application filed on 24th November 2022 was beyond the limitation period and therefore barred by time, even after considering the 30-day extension period.
+
+## Judgment
+
+* **Final Decision:** The appeals were allowed.
+* **Relief Granted:** The court set aside the impugned orders of the Commercial Court, West Tripura, which condoned the delay in filing the Section 34 applications.
+* **Orders:** The court held that the Section 34 applications were barred by limitation and dismissed the matters pending before the Commercial Court, West Tripura, being CM (ARB) 06/2022 and CM (ARB) 07/2022.
+
+## Implications
+
+* **Impact on Law:** The judgment reinforces the importance of strictly adhering to the limitation periods prescribed under Section 34(3) of the Arbitration and Conciliation Act, 1996.
+* **Future Relevance:** The judgment is likely to be cited as precedent in future cases concerning the computation of limitation periods under Section 34(3) and the applicability of other relevant provisions.
+* **Broader Context:** The decision highlights the significance of clear and consistent interpretations of legal provisions, particularly in the context of time-bound proceedings such as those governed by the Arbitration and Conciliation Act.
+
+## Summary Points
+
+* The limitation period under Section 34(3) of the Act starts on the date of receipt of the arbitral award, not the day following the receipt.
+* The "three months" period under Section 34(3) is to be understood as three actual calendar months.
+* The provisions of the Limitation Act and General Clauses Act are not applicable for calculating the limitation period under Section 34(3).
+* The court cannot condone delays beyond the prescribed time limits under Section 34(3).
+
+## References
+
+* **Citations:**
+    * Arbitration and Conciliation Act, 1996
+    * Commercial Courts Act, 2015
+    * Limitation Act, 1963
+    * General Clauses Act, 1897
+    * Union of India Vs. Tecco Trichy Engineers & Contractors, (2005) 4 SCC 239
+    * State of Maharashtra & Ors. Vs. ARK Builders Pvt. Ltd., (2011) 4 SCC 616
+    * Anil Kumar Jinabhai Patel Vs. Pravin Chandra Jinabhai Patel & Ors., (2018) 15 SCC 178
+    * Oriental Insurance Company ltd. Vs. Tejparas Associates and Exports Pvt. Ltd., (2019) 9 SCC 435
+    * P Radha Bai & Ors. Vs. P Ashok Kumar & Anr. (2019) 13 SCC 445
+    * Dakshin Haryana Bijli Vitran Nigam Ltd., Vs Navigant Technologies Private Limited., (2021) 7 SCC 657
+    * Bhimashankar Sahakari Sakkare Karkhane Niyamita Vs. Walchandnagar Industries Limited (WIL), (2023) 8 SCC 453
+    * Consolidated Engineering Enterprises Vs. Principal Secretary, Irrigation Department & Ors., (2008) 7 SCC 169
+    * State of Himachal Pradesh & Anr., Vs. Himachal Techno Engineers & Anr., (2010) 12 SCC 210
+    * Simplex Infrastructure Limited Vs. Union of India (2019) 2 SCC 505
+    * Union of India v. Popular Construction Company, (2001) 8 SCC 470
+    * Assam Urban Water Supply and Sewerage Board Vs. Subash Projects and Marketing Limited, (2012) 2 SCC 624
+    * Rameshchandra Ambalal Joshi Vs. State of Gujarat & Anr. (2014) 11 SCC 759
+* **Further Reading:**
+    * Law Commission of India Report on Arbitration Law (Report No. 246)
+    * The Arbitration and Conciliation Act, 1996, Bare Act with Commentary by Justice A.K.  
+     Ganguly
+    * The Commercial Courts Act, 2015, Bare Act with Commentary by Justice S. Ravindra Bhat

@@ -1,0 +1,83 @@
+## 1. Case Title
+
+* **Case Name:** K.Srimannarayana Murthy And Another vs V.Agastya Sagar And 2 Others 
+* **Court:** Telangana High Court
+* **Date of Judgment:** 7 January, 2022
+* **Citation:**  (Not provided in the text)
+
+## 2. Background and Context
+
+* **Brief Overview:** This case involved a dispute between partners of a Limited Liability Partnership (LLP) called "Sagarasia Global LLP". The dispute arose after differences developed among the partners, with one partner, V.Agastya Sagar (the 1st respondent), claiming he was being unfairly treated by the other partners.
+* **Key Issues:**
+    *  Whether the Civil Court had jurisdiction to entertain an application under Section 9 of the Arbitration and Conciliation Act, 1996 (the "Act of 1996") for interim protection in a dispute involving the LLP.
+    * Whether the dispute was a "commercial dispute" under the Commercial Courts Act, 2015, and therefore, fell under the jurisdiction of the Commercial Court.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * The Arbitration and Conciliation Act, 1996 (the "Act of 1996") - Specifically Section 9 which deals with interim measures by the Court.
+    * The Commercial Courts Act, 2015 - Sections 2 (1) (c), 2 (1) (i), 6, 10 (3), 12 and 125 which define "commercial dispute," "specified value," and deal with the jurisdiction of Commercial Courts.
+* **Precedents Cited:** 
+    * Shailesh Dhairyawan Vs Mohan Balkrishna Lulla (2016) 3 SCC 619
+    * State of U.P. vs. Dr. Vijay Anand Maharaj (AIR 1963 SC 946)
+    * New India Assurance Co. Ltd., v. Nusli Neville Wadia (2008) 3 SCC 279
+    * Ambalal Sarabhai Enterprises Ltd. v. K.S. Infraspace (2020) 15 SCC 585
+* **Legal Doctrines:** 
+    * **Statutory Interpretation:**  The court applied principles of purposive interpretation to understand the intent of the legislature in enacting the Commercial Courts Act, 2015.
+    * **Jurisdiction:** The court examined the issue of jurisdiction, considering the specific provisions of the relevant Acts and precedents.
+
+## 4. Arguments Presented
+
+* **Plaintiff’s Argument:**  (Petitioners/Respondents 1 & 2)
+    * The dispute involved a commercial matter exceeding the specified value threshold for Commercial Courts, as the first respondent had a significant stake in the LLP (15%) and was claiming substantial losses. 
+    * The application filed by the first respondent under Section 9 of the Act of 1996 should have been filed in the Commercial Court, not the Civil Court.
+* **Defendant’s Argument:** (Respondent/Petitioner)
+    * The dispute was a purely personal one between partners of the LLP, not a commercial dispute.
+    * The value of the claim was not quantified at the time of filing the application, so it did not fall under the jurisdiction of the Commercial Court.
+    * The Civil Court had jurisdiction to entertain the application under Section 9 of the Act of 1996.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    *  The court found that the dispute was a "commercial dispute" based on the nature of the LLP agreement and the first respondent's substantial financial stake.
+    * The court observed that the first respondent's claim of Rs.20 crores in a subsequent application for arbitration indicated a significant financial dispute.
+    * The court concluded that the Civil Court had erred in assuming jurisdiction over the case due to the lack of a specified value at the time of filing the initial application. 
+* **Interpretation of Law:**
+    * The court interpreted the definition of "commercial dispute" under the Commercial Courts Act, 2015, to include partnership agreements.
+    * It also interpreted the provisions regarding "specified value" to mean that the court itself has the responsibility to determine the value, even if the applicant does not provide it initially.
+* **Application of Law:**
+    * The court applied the principle of purposive interpretation to the Commercial Courts Act, 2015, concluding that its intent was to streamline the resolution of commercial disputes and encourage investment in India.
+    *  The court applied this principle to conclude that the Commercial Court should have jurisdiction in this case, even though the value was not specifically stated in the initial application.
+
+## 6. Judgment
+
+* **Final Decision:** The court allowed the Civil Revision Petition, setting aside the order of the Civil Court that dismissed the application to reject the original application under Section 9 of the Act of 1996. The original application was dismissed, but the first respondent was given liberty to seek relief under Section 9 of the Act of 1996 before the Commercial Court.
+* **Relief Granted:** The court ruled that the Civil Court did not have jurisdiction to hear the application and dismissed the original application (A.O.P. No. 40 of 2020). 
+* **Orders:** The court ordered the Civil Court to dismiss the original application and granted the first respondent the right to refile his application under Section 9 of the Act of 1996 in the Commercial Court.
+
+## 7. Implications
+
+* **Impact on Law:** The judgment reaffirms the broad scope of "commercial dispute" under the Commercial Courts Act, 2015, and emphasizes that even if the value is not initially specified, the court has the responsibility to determine it.
+* **Future Relevance:** This case serves as a precedent for future cases involving disputes arising from partnership agreements and disputes falling under the jurisdiction of Commercial Courts.
+* **Broader Context:** The judgment contributes to the efforts of the Indian legal system to streamline and expedite the resolution of commercial disputes. 
+
+## 8. Summary Points
+
+* This case involved a dispute between partners of an LLP, where one partner claimed unfair treatment and significant financial losses.
+* The court held that the dispute was a "commercial dispute" as defined by the Commercial Courts Act, 2015.
+* The court ruled that even though the value was not initially specified, the Civil Court had a responsibility to determine the value and therefore did not have jurisdiction to hear the case.
+* The court directed the Civil Court to dismiss the application and gave the first respondent the right to refile his claim in the Commercial Court.
+
+## 9. References
+
+* **Citations:**
+    * The Arbitration and Conciliation Act, 1996
+    * The Commercial Courts Act, 2015
+    * All the cited case precedents:
+        * Shailesh Dhairyawan Vs Mohan Balkrishna Lulla (2016) 3 SCC 619
+        * State of U.P. vs. Dr. Vijay Anand Maharaj (AIR 1963 SC 946)
+        * New India Assurance Co. Ltd., v. Nusli Neville Wadia (2008) 3 SCC 279
+        * Ambalal Sarabhai Enterprises Ltd. v. K.S. Infraspace (2020) 15 SCC 585
+* **Further Reading:**
+    *  Relevant sections of the Arbitration and Conciliation Act, 1996 and the Commercial Courts Act, 2015
+    *  The cited cases for more detailed analysis on the legal doctrines applied. 

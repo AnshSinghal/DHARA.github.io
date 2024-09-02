@@ -1,0 +1,142 @@
+##  1. Case Title
+
+* **Case Name:** Shri Balaji Industrial Products Limited vs. AIA Engineering Limited and Ors.
+* **Court:** Rajasthan High Court
+* **Date of Judgment:** 2nd July, 2018
+* **Citation:** D.B. Civil Writ Petition No. 4411/2018
+
+## 2. Background and Context
+
+* **Brief Overview:** AIA Engineering Limited (AIA), the plaintiff, filed a suit against Shri Balaji Industrial Products Limited (Balaji), the defendant, alleging infringement of AIA's patented product. Balaji filed an application under Order VII Rule 11 CPC challenging the maintainability of the suit. This application was dismissed by the Commercial Court, leading to Balaji filing a writ petition in the Rajasthan High Court, which was also dismissed. Later, AIA filed an application under Order V Rule 1 CPC to close Balaji's right to file a written statement. Balaji then filed an application under Order VI Rule 15A CPC arguing that the suit was not duly instituted as the plaint was not accompanied by a "Statement of Truth" as required under the Commercial Courts Act, 2015. The Commercial Court dismissed this application and allowed AIA to file the "Statement of Truth" later. Balaji filed the current writ petition challenging the Commercial Court's order. 
+* **Key Issues:** 
+    * Whether the Commercial Court erred in allowing AIA to file the "Statement of Truth" belatedly, after Balaji had already filed a written statement.
+    * Whether the suit was not "duly instituted" as per Section 26 CPC due to the absence of the "Statement of Truth" in the plaint.
+    * Whether Balaji was obligated to file a written statement within 120 days, even when an application under Order VII Rule 11 CPC was pending.
+    * Whether the retrospective amendment introduced by the Ordinance of 2018, which re-introduced the "Statement of Truth" provision, applied to this case.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * Article 227 of the Constitution of India
+    * The Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015 (Act of 2015)
+    * The Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts (Amendment) Ordinance, 2018 (Ordinance of 2018)
+    * Code of Civil Procedure, 1908 (CPC): 
+        * Order V Rule 1
+        * Order VI Rule 15A
+        * Order VII Rule 11
+        * Order VIII Rule 1
+        * Section 26 CPC
+        * Section 148 CPC
+* **Precedents Cited:**
+    * Sangram Singh Vs. Election Tribunal, AIR 1955 SC 425
+    * Shalini Shyam Shetty Vs. Rajendra Shankar Patil, (2010) 8 SCC 329
+    * Jodhey & Others Vs. State through Ram Sahai, AIR 1952 All 788
+    * R.K. Roja Vs. U.S. Rayudu, (2016) 14 SCC 275
+    * Saleem Bhai & Others Vs. State of Maharashtra & Others, (2003) 1 SCC 557
+    * Gulf DTH FZ LIC Vs. Dish TV India Limited & Others, 2016 SCC Online Del 5005
+    * Sejal Glass Limited Vs. Navilan Merchants Private Limited, (2017) SCC Online SC 1000
+    * Parasramka Holdings Private Limited Vs. Ambience Private Limited & Another, 2018 SCC Online Del 6573
+    * Commissioner of Sales Tax Vs. Bijli Cotton Mills, 1964 AIR 1594
+    * Hitendra Vishnu Thakur Vs. State of Maharashtra, (1994) 4 SCC 602
+    * Anant Gopal Sheorey Vs. State of Bombay, AIR 1958 SC 915
+    * Uday Shankar Triyar Vs. Ram Kaleswar Singh, (2006) 1 SCC 75
+    * Union of India Vs. Major Bahadur Singh, (2006) 1 SCC 368
+    * KD Shanna Vs. SAIL, 2008 (12) SCC 481
+    * Ramjas Foundation Vs. Union of India 2010 (14) SCC 38
+    * Kailash Vs. Nankhu, 2005 (4) SCC 480
+    * Sharif-ud-din Vs. Abdul Gani Lone, (1980) 1 SCC 403
+    * Gasket Radiators Pvt. Ltd. Vs. ESIC & Another, (1985) 2 SCC 68
+    * Sreenivasa General Traders & Ors. Vs. State of AP. & Ors., AIR1983 SC 1246
+    * A-One Granites Vs. State of U.P. & Others, (2001) 3 SCC 537
+    * State of Rajasthan Vs. V. R. C. Mishra & Others, 2003 (2) WLC 235
+    * Vidyawati Gupta (supra)
+    * Bhikaji Keshao Joshi Vs. Brijlal Nandlal Biyani, AIR 1955 SC 610
+    * L. Chandra Kumar Vs. Union of India & Others, (1997) 3 SCC 261
+    * Sadhana Lodh Vs. National Insurance Company Limited, (2003) 3 SCC 524
+    * Radhey Shyam & Another Vs. Chhabi Nath & Others (2015) 5 SCC 423
+    * Navilan Merchants Pvt. Ltd. Vs. Sejal Glass Ltd. & Ors., 2016 SCC Online Del 6580
+    * (Sree Rajah) Venkata Rangiah Appa Rao Bahadur Vs. Secretary of State, AIR 1931 Madras 175
+    * Sopan Sukhdeo Sable case, (2004) 3 SCC 137
+    * Waryam Singh Vs. Amarnath, AIR 1954 SC 215
+    * Hitendra Vishnu Thakur Vs. State of Maharashtra, (1994) 4 SCC 602
+    * Shayara Bano Vs. Union of India, (2017) 9 SCC 1
+* **Legal Doctrines:**
+    * Judicial Review
+    * Superintendence under Article 227 of the Constitution
+    * Procedural Law
+    * Retrospective Legislation
+    * Constructive Res Judicata
+    * Principle of Natural Justice
+
+## 4. Arguments Presented
+
+* **Plaintiff’s Argument (AIA):**
+    * The Commercial Court's order dismissing Balaji's application under Order VI Rule 15A was correct. 
+    * The suit was "duly instituted" as per Section 26 CPC, even without the "Statement of Truth" initially, as the requirement for the "Statement of Truth" is not mandatory.
+    * The application under Order V Rule 1 CPC to close Balaji's right to file a written statement was valid, as Balaji had not filed the written statement within the 120 days time frame prescribed under Order V Rule 1.
+    * The retrospective amendment in the Ordinance of 2018 was intended to avoid the invalidation of suits filed before the notification of the Act of 2015 and was not meant to invalidate suits filed after the notification of the Act of 2015, including the current case. 
+    * Any procedural defects are curable, and AIA had already filed the "Statement of Truth" conforming to the format provided in the Ordinance.
+* **Defendant’s Argument (Balaji):**
+    * The Commercial Court committed a jurisdictional error by closing Balaji's right to file a written statement while Balaji's application under Order VI Rule 15A was pending.
+    * The suit was not "duly instituted" as per Section 26 CPC, as the plaint lacked the "Statement of Truth".
+    * Balaji was not obligated to file a written statement within 120 days because an application under Order VII Rule 11 CPC was pending.
+    * The retrospective amendment introduced by the Ordinance of 2018 applies to this case and renders the suit invalid due to the absence of the "Statement of Truth" at the time of filing.
+    * The "Statement of Truth" is a mandatory requirement and its absence makes the suit defective.
+    * The Commercial Court erred in accepting the belated "Statement of Truth" filed by AIA. 
+    * Balaji had no other alternative remedy available to challenge the Commercial Court's order.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The court acknowledged that the "Statement of Truth" was not part of the original plaint filed by AIA.
+    * The court recognized the mandatory nature of the "Statement of Truth" as per the Act of 2015.
+    * The court acknowledged the importance of the "Statement of Truth" in commercial disputes.
+    * The court found that Balaji's application under Order VII Rule 11 CPC was filed within the stipulated time frame.
+    * The court determined that the retrospective amendment in the Ordinance of 2018 was not applicable to this case.
+* **Interpretation of Law:**
+    * The court interpreted Section 26 CPC, Order VI Rule 15A, Order VII Rule 11, and Order VIII Rule 1 of the CPC in the context of the Act of 2015.
+    * The court analyzed the precedents cited by both parties and distinguished the relevant cases. 
+    * The court considered the legislative intent behind the Act of 2015 and the Ordinance of 2018. 
+* **Application of Law:**
+    * The court applied the principle of natural justice and held that Balaji should not be condemned unheard.
+    * The court recognized the power of judicial review under Article 227 of the Constitution and its limitations.
+    * The court decided that Balaji was not obligated to file a written statement within 120 days while an application under Order VII Rule 11 CPC was pending. 
+    * The court held that the retrospective amendment introduced by the Ordinance of 2018 did not apply to suits filed before the amendment.
+
+## 6. Judgment
+
+* **Final Decision:** The writ petition filed by Balaji was allowed.
+* **Relief Granted:** The impugned order of the Commercial Court was set aside to the extent it did not allow Balaji's written statement to be taken on record. 
+* **Orders:** The Commercial Court was directed to take Balaji's written statement on record subject to the payment of costs of Rs. 50,000/- by Balaji to AIA.
+
+## 7. Implications
+
+* **Impact on Law:**
+    * The judgment clarifies the application of Order VII Rule 11 CPC in the context of the Commercial Courts Act, 2015.
+    * The judgment emphasizes the importance of natural justice and the right to be heard in legal proceedings.
+    * The judgment provides guidance on the interpretation of retrospective amendments in procedural law.
+* **Future Relevance:** 
+    * The case may serve as a precedent in future cases involving similar issues under the Act of 2015.
+    * The case highlights the need for procedural clarity in commercial litigation.
+* **Broader Context:** 
+    * The judgment underscores the significance of procedural fairness in the resolution of commercial disputes.
+
+## 8. Summary Points
+
+* The Rajasthan High Court allowed Balaji's writ petition challenging the Commercial Court's order dismissing its application under Order VI Rule 15A CPC.
+* The High Court held that the suit was not "duly instituted" due to the absence of the "Statement of Truth" in the plaint.
+* The High Court ruled that Balaji was not obligated to file a written statement within 120 days while an application under Order VII Rule 11 CPC was pending. 
+* The High Court found that the retrospective amendment introduced by the Ordinance of 2018 was not applicable to this case.
+* The High Court set aside the Commercial Court's order and directed it to take Balaji's written statement on record.
+
+## 9. References
+
+* **Citations:**
+    * Article 227 of the Constitution of India
+    * The Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015 (Act of 2015)
+    * The Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts (Amendment) Ordinance, 2018 (Ordinance of 2018)
+    * Code of Civil Procedure, 1908 (CPC): Order V Rule 1, Order VI Rule 15A, Order VII Rule 11, Order VIII Rule 1, Section 26 CPC, Section 148 CPC
+    * All precedents cited in the body of the summary. 
+* **Further Reading:**
+    * Relevant sections of the CPC and the Commercial Courts Act, 2015.
+    * Other judgments dealing with the "Statement of Truth" provision and the application of Order VII Rule 11 CPC. 

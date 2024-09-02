@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A plaintiff filed a suit against a defendant for recovery of money. The defendant filed a counterclaim. The plaintiff filed an application seeking permission to lead secondary evidence of a document. The trial court dismissed the application. The plaintiff filed an appeal against the order of the trial court. Whether the appeal is maintainable?",
+    "Legal Principles": "The right to appeal is a statutory right. The right accrues on the date on which the suit is originally instituted. The right to appeal is a vested right and cannot be taken away by a subsequent enactment unless it expressly provides for retrospective effect.",
+    "Relevant Sections": "Section 13 of the Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015 (Act 4 of 2016) (CCA)",
+    "Context": "This is a case about the maintainability of an appeal against an interlocutory order passed by a Commercial Court. The appeal is being filed under the provisions of the Commercial Courts Act, 2015."
+  },
+  {
+    "Query": "A plaintiff filed a suit for recovery of money against a defendant. The defendant filed a written statement denying the plaintiff's claim. The plaintiff filed an application seeking permission to amend the plaint by introducing a new cause of action. The trial court granted the application. The defendant filed an appeal against the order of the trial court. Whether the appeal is maintainable?",
+    "Legal Principles": "An appeal can be filed against an interlocutory order if it decides a matter of moment or affects the vital and valuable rights of the parties. The adverse effect on the party concerned must be direct and immediate rather than indirect or remote.",
+    "Relevant Sections": "Clause 15 of the Letters Patent, Order 43 Rule 1 of the Code of Civil Procedure, 1908",
+    "Context": "This is a case about the maintainability of an appeal against an interlocutory order passed by a single judge of the High Court. The appeal is being filed under the provisions of the Letters Patent."
+  },
+  {
+    "Query": "A plaintiff filed a suit against a defendant for breach of contract. The defendant filed a counterclaim alleging that the plaintiff had breached the contract. The plaintiff filed an application seeking permission to lead secondary evidence of a document. The trial court rejected the application. The plaintiff filed an appeal against the order of the trial court. Whether the appeal is maintainable?",
+    "Legal Principles": "Secondary evidence of the contents of a document can be admitted only after the leave of the Court under Section 65 of the Indian Evidence Act.",
+    "Relevant Sections": "Section 65 of the Indian Evidence Act, 1872",
+    "Context": "This is a case about the admissibility of secondary evidence in a civil suit. The case is being heard by a commercial division of the High Court."
+  },
+  {
+    "Query": "A plaintiff filed a suit for specific performance of a contract against a defendant. The defendant filed a written statement denying the plaintiff's claim. The plaintiff filed an application seeking permission to amend the plaint by introducing a new cause of action. The trial court rejected the application. The plaintiff filed an appeal against the order of the trial court. Whether the appeal is maintainable?",
+    "Legal Principles": "The appellate court has the power to admit additional evidence only in cases where it is necessary for pronouncing judgment. A party who had ample opportunity to produce evidence in the trial court but failed to do so cannot have it admitted in appeal.",
+    "Relevant Sections": "Order 41 Rule 27 of the Code of Civil Procedure, 1908",
+    "Context": "This is a case about the admissibility of additional evidence in an appeal. The case is being heard by a division bench of the High Court."
+  },
+  {
+    "Query": "A plaintiff filed a suit for recovery of money against a defendant. The defendant filed a written statement denying the plaintiff's claim. The plaintiff filed an application seeking permission to examine a witness. The trial court rejected the application. The plaintiff filed an appeal against the order of the trial court. Whether the appeal is maintainable?",
+    "Legal Principles": "An appeal can be filed against an order passed by a commercial division of the High Court only if it is specifically enumerated under Order XLIII of the Code of Civil Procedure, 1908. The right to appeal is a procedural right and can be taken away by a subsequent enactment.",
+    "Relevant Sections": "Section 13 of the Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015 (Act 4 of 2016) (CCA)",
+    "Context": "This is a case about the maintainability of an appeal against an interlocutory order passed by a commercial division of the High Court. The appeal is being filed under the provisions of the Commercial Courts Act, 2015."
+  },
+  {
+    "Query": "A plaintiff filed a suit for declaration of title to property against a defendant. The defendant filed a counterclaim alleging that the plaintiff had no title to the property. The plaintiff filed an application seeking permission to produce a document. The trial court dismissed the application. The plaintiff filed an appeal against the order of the trial court. Whether the appeal is maintainable?",
+    "Legal Principles": "The appellate court may allow additional evidence to be produced if the court from whose decree the appeal is preferred has refused to admit evidence that ought to have been admitted. The omission to record the reasons for admitting additional evidence must be treated as a serious defect.",
+    "Relevant Sections": "Order 41 Rule 27 of the Code of Civil Procedure, 1908",
+    "Context": "This is a case about the admissibility of additional evidence in an appeal. The case is being heard by a division bench of the High Court."
+  },
+  {
+    "Query": "A plaintiff filed a suit for injunction against a defendant. The defendant filed a written statement denying the plaintiff's claim. The plaintiff filed an application seeking permission to examine a witness. The trial court granted the application. The defendant filed an appeal against the order of the trial court. Whether the appeal is maintainable?",
+    "Legal Principles": "An appeal can be filed against an order passed by a single judge of the High Court if it decides a matter of moment or affects the vital and valuable rights of the parties. The adverse effect on the party concerned must be direct and immediate rather than indirect or remote.",
+    "Relevant Sections": "Clause 15 of the Letters Patent, Order 43 Rule 1 of the Code of Civil Procedure, 1908",
+    "Context": "This is a case about the maintainability of an appeal against an interlocutory order passed by a single judge of the High Court. The appeal is being filed under the provisions of the Letters Patent."
+  },
+  {
+    "Query": "A plaintiff filed a suit for recovery of money against a defendant. The defendant filed a written statement denying the plaintiff's claim. The plaintiff filed an application seeking permission to lead secondary evidence of a document. The trial court dismissed the application. The plaintiff filed an appeal against the order of the trial court. Whether the appeal is maintainable?",
+    "Legal Principles": "Secondary evidence of the contents of a document can be admitted only after the leave of the Court under Section 65 of the Indian Evidence Act. The conditions laid down in Section 65 must be fulfilled before secondary evidence can be admitted.",
+    "Relevant Sections": "Section 65 of the Indian Evidence Act, 1872",
+    "Context": "This is a case about the admissibility of secondary evidence in a civil suit. The case is being heard by a commercial division of the High Court."
+  },
+  {
+    "Query": "A plaintiff filed a suit for possession of property against a defendant. The defendant filed a counterclaim alleging that the plaintiff had no right to possession. The plaintiff filed an application seeking permission to examine a witness. The trial court rejected the application. The plaintiff filed an appeal against the order of the trial court. Whether the appeal is maintainable?",
+    "Legal Principles": "The appellate court has the power to admit additional evidence only in cases where it is necessary for pronouncing judgment. The appellate court is not entitled to let in fresh evidence only for the purpose of pronouncing judgment in a particular way.",
+    "Relevant Sections": "Order 41 Rule 27 of the Code of Civil Procedure, 1908",
+    "Context": "This is a case about the admissibility of additional evidence in an appeal. The case is being heard by a division bench of the High Court."
+  },
+  {
+    "Query": "A plaintiff filed a suit for damages against a defendant. The defendant filed a written statement denying the plaintiff's claim. The plaintiff filed an application seeking permission to lead secondary evidence of a document. The trial court granted the application. The defendant filed an appeal against the order of the trial court. Whether the appeal is maintainable?",
+    "Legal Principles": "An appeal can be filed against an order passed by a commercial division of the High Court only if it is specifically enumerated under Order XLIII of the Code of Civil Procedure, 1908. The right to appeal is a procedural right and can be taken away by a subsequent enactment.",
+    "Relevant Sections": "Section 13 of the Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015 (Act 4 of 2016) (CCA)",
+    "Context": "This is a case about the maintainability of an appeal against an interlocutory order passed by a commercial division of the High Court. The appeal is being filed under the provisions of the Commercial Courts Act, 2015."
+  }
+]
+```

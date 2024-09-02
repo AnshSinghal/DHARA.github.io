@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A bank is seeking to recover funds from a shipping company due to the misdelivery of cargo. The bank financed the purchase of the cargo and was named as the consignee in the bill of lading. The cargo was delivered to a third party without the bank's consent or the presentation of the original bill of lading. The shipping company argues that they followed the instructions of the notify party, which was not the bank. Can the bank recover from the shipping company in this scenario?",
+    "Legal Principles": "The bank, as the consignee in the bill of lading, has a right to delivery of the cargo. The carrier (shipping company) has a duty to deliver the cargo to the consignee or as per their instructions.  The carrier can be liable for misdelivery if they deliver the cargo to a third party without the consignee's authorization.",
+    "Relevant Sections": "The Hague-Visby Rules, which govern Bills of Lading, state that delivery of goods covered by a Bill of Lading is ordinarily to be made on presentation of the bill. The Carrier may be liable to the person lawfully in possession of such a Bill, if he wrongly delivers the goods to anyone else.  The consignee in the bill of lading has the right to give instructions for delivery of the goods.",
+    "Context": "Admiralty law, carriage of goods by sea, bills of lading, misdelivery of cargo, consignee, notify party, carrier's liability"
+  },
+  {
+    "Query": "A ship owner is seeking to release their vessel from arrest, which was ordered due to a claim of misdelivery of cargo by a bank. The bank financed the purchase of the cargo and was named as the consignee in the bill of lading. The ship owner claims that they followed instructions from a third party, the notify party, to deliver the cargo, and therefore, are not liable for misdelivery.",
+    "Legal Principles": "A ship owner has a duty to deliver the cargo to the consignee as per the bill of lading. However, the consignee can authorize the carrier to release the cargo to another party, which might be the notify party mentioned in the bill of lading. If the consignee did not authorize the release to the notify party, the ship owner might be liable for misdelivery.",
+    "Relevant Sections": "A Bill of Lading serves as a receipt for the goods entrusted to the carrier and also as evidence of the terms of the contract of affreightment. The consignee has the right to give instructions or authorize the delivery of the goods covered by the bill of lading to any third party.",
+    "Context": "Admiralty law, carriage of goods by sea, bills of lading, misdelivery of cargo, consignee, notify party, ship owner's liability, arrest of vessel"
+  },
+  {
+    "Query": "A bank is suing a shipping company for misdelivery of cargo. The bank had financed the purchase of the cargo and was named as the consignee in the bill of lading.  The ship owner claims that the bank's claim is premature because the bank has not yet received payment from the ultimate buyer of the cargo. Is the bank's claim premature?",
+    "Legal Principles": "The bank, as the consignee in the bill of lading, has a right to delivery of the cargo.  The carrier's (shipping company) obligation to deliver the cargo to the consignee is independent of the bank's financial arrangements with the buyer.  The carrier's liability for misdelivery arises from the breach of contract of carriage, not the financial aspects of the transaction.",
+    "Relevant Sections": "The Hague-Visby Rules govern the liability of carriers in respect of cargo, covered by bills of lading. These rules impose certain non-derogable obligations on the shipowner, such as the duty to deliver the cargo to the consignee.",
+    "Context": "Admiralty law, carriage of goods by sea, bills of lading, misdelivery of cargo, consignee, carrier's liability, premature claim"
+  },
+  {
+    "Query": "A bank is suing a shipping company for misdelivery of cargo, claiming that the cargo was delivered without presentation of the original bill of lading. The shipping company claims that they were indemnified by a third party for the release of the cargo. Is the indemnity a valid defense against the bank's claim?",
+    "Legal Principles": "The carrier (shipping company) is generally required to deliver the cargo to the consignee only on presentation of the original bill of lading. An indemnity from a third party does not excuse the carrier from their obligation to deliver the cargo to the consignee or as per their instructions.",
+    "Relevant Sections": "The Hague-Visby Rules state that delivery of goods covered by a Bill of Lading is ordinarily to be made on presentation of the bill.  The carrier may be liable to the person lawfully in possession of such a Bill, if he wrongly delivers the goods to anyone else.",
+    "Context": "Admiralty law, carriage of goods by sea, bills of lading, misdelivery of cargo, consignee, carrier's liability, indemnity"
+  },
+  {
+    "Query": "A bank is suing a shipping company for misdelivery of cargo. The bank had financed the purchase of the cargo and was named as the consignee in the bill of lading.  The ship owner claims that the bank is not a proper party to the suit because the bank was not the owner of the cargo. Is the bank a proper party to the suit?",
+    "Legal Principles": "The consignee in the bill of lading has a right to delivery of the cargo, even if they are not the owner of the cargo.  The consignee is the party entitled to receive the cargo and can sue the carrier for misdelivery.",
+    "Relevant Sections": "A Bill of Lading serves as a receipt for the goods entrusted to the carrier and also as evidence of the terms of the contract of affreightment. The consignee has the right to give instructions or authorize the delivery of the goods covered by the bill of lading to any third party.",
+    "Context": "Admiralty law, carriage of goods by sea, bills of lading, misdelivery of cargo, consignee, carrier's liability, proper party to suit"
+  },
+  {
+    "Query": "A ship owner is seeking to add a third party, the buyer of the cargo, as a defendant in a suit filed by a bank for misdelivery of cargo. The bank financed the purchase of the cargo and was named as the consignee in the bill of lading. The ship owner argues that the buyer is a necessary party to determine the ultimate liability for the misdelivery. Is the buyer a necessary party to the suit?",
+    "Legal Principles": "A party is considered a necessary party if their presence is essential for a complete and final determination of the issues in the suit. In this case, the buyer's involvement in the transaction and potential liability for the misdelivery could be relevant. However, the ship owner's liability for misdelivery to the consignee (the bank) is a separate issue.",
+    "Relevant Sections": "Order 1 Rule 10(2) of the CPC states that the Court may add a party whose presence is necessary in order to enable the Court effectually and completely to adjudicate upon and settle all the questions involved in the suit.",
+    "Context": "Admiralty law, carriage of goods by sea, bills of lading, misdelivery of cargo, consignee, carrier's liability, necessary party"
+  },
+  {
+    "Query": "A bank is appealing an order of the court adding a third party, the buyer of the cargo, as a defendant in a suit for misdelivery. The bank argues that the buyer is not a necessary or proper party to the suit. Is the bank's appeal likely to succeed?",
+    "Legal Principles": "The decision to add a party is within the discretion of the court. The court must consider whether the presence of the party is necessary for a complete and final determination of the issues in the suit. If the court finds that the buyer's involvement in the transaction and potential liability for the misdelivery could be relevant, the addition of the buyer as a party may be justified.",
+    "Relevant Sections": "Order 1 Rule 10(2) of the CPC states that the Court may add a party whose presence is necessary in order to enable the Court effectually and completely to adjudicate upon and settle all the questions involved in the suit.",
+    "Context": "Admiralty law, carriage of goods by sea, bills of lading, misdelivery of cargo, consignee, carrier's liability, necessary party, appeal"
+  },
+  {
+    "Query": "A bank is suing a shipping company for misdelivery of cargo. The bank had financed the purchase of the cargo and was named as the consignee in the bill of lading. The ship owner claims that the bank's claim is barred by the statute of limitations. Is the ship owner's defense likely to succeed?",
+    "Legal Principles": "Statutes of limitation set time limits for bringing legal actions. The specific time limit for a claim for misdelivery of cargo will depend on the applicable jurisdiction. If the bank's claim was filed after the applicable time limit, it may be barred by the statute of limitations.",
+    "Relevant Sections": "The Carriage of Goods by Sea Act, 1971, which incorporates the Hague-Visby Rules, sets a time limit for bringing claims against carriers for misdelivery of cargo.  Other jurisdictions may have their own statutes of limitation for maritime claims.",
+    "Context": "Admiralty law, carriage of goods by sea, bills of lading, misdelivery of cargo, statute of limitations, time limit for claim"
+  },
+  {
+    "Query": "A bank is suing a shipping company for misdelivery of cargo. The bank had financed the purchase of the cargo and was named as the consignee in the bill of lading. The ship owner claims that the bank's claim is barred by a clause in the bill of lading. Is the ship owner's defense likely to succeed?",
+    "Legal Principles": "Bills of lading often contain clauses that limit the liability of carriers. If the bill of lading contains a clause that excludes or limits the carrier's liability for misdelivery, this clause could be a valid defense against the bank's claim. However, such clauses are subject to certain limitations under international law.",
+    "Relevant Sections": "The Hague-Visby Rules govern the liability of carriers in respect of cargo, covered by bills of lading.  These rules limit the extent to which carriers can exclude or limit their liability. For example, a carrier cannot exclude their liability for misdelivery caused by their negligence or fault.",
+    "Context": "Admiralty law, carriage of goods by sea, bills of lading, misdelivery of cargo, carrier's liability, bill of lading clauses, limitations of liability"
+  },
+  {
+    "Query": "A bank is suing a shipping company for misdelivery of cargo. The bank had financed the purchase of the cargo and was named as the consignee in the bill of lading. The ship owner claims that the bank's claim is barred by a clause in the charterparty agreement between the ship owner and the shipper. Is the ship owner's defense likely to succeed?",
+    "Legal Principles": "Charterparty agreements govern the relationship between the ship owner and the shipper, while bills of lading govern the relationship between the carrier and the consignee. The terms of the charterparty agreement might be relevant to the ship owner's liability for misdelivery, but it would not directly bar the bank's claim under the bill of lading.",
+    "Relevant Sections": "A Bill of Lading serves as a receipt for the goods entrusted to the carrier and also as evidence of the terms of the contract of affreightment.  The Hague-Visby Rules govern the liability of carriers in respect of cargo, covered by bills of lading.  These rules govern the relationship between the carrier and the consignee, independent of the charterparty agreement between the ship owner and the shipper.",
+    "Context": "Admiralty law, carriage of goods by sea, bills of lading, misdelivery of cargo, charterparty agreement, carrier's liability"
+  }
+]
+```

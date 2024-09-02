@@ -1,0 +1,103 @@
+## 1. Case Title
+
+* **Case Name:** Aditya Birla Retail Ltd. Now Known As More Retail Pvt. Ltd. vs Biren Sahni
+* **Court:** Punjab-Haryana High Court
+* **Date of Judgment:** 5th January 2024
+* **Citation:** 2024:PHHC:004418
+
+## 2. Background and Context
+
+* **Brief Overview:** Aditya Birla Retail Ltd. (now known as More Retail Pvt. Ltd.) leased a plot in Ludhiana from Biren Sahni. A dispute arose between the parties, leading to arbitration proceedings as per their "Memorandum of Agreed Terms" (MOAT). The MOAT specified Delhi as the venue for arbitration, but the seat of arbitration was not explicitly defined. After the arbitration tribunal delivered an award, both parties filed separate petitions under Section 34 of the Arbitration and Conciliation Act, 1996 (the Act), in the Commercial Court, Ludhiana, seeking modifications and setting aside of the award. The respondent (Sahni) later sought dismissal of the petitioner's (More Retail) petition under Section 34, claiming that Ludhiana lacked jurisdiction and the seat of arbitration was in Delhi. The Commercial Court, Ludhiana, dismissed the petitioner's petition, leading to this appeal.
+
+* **Key Issues:** 
+    * Whether the venue of arbitration (Delhi) should be treated as the seat of arbitration in the absence of a defined seat in the agreement.
+    * How to interpret the concept of 'seat' and 'venue' in light of conflicting judgments by the Supreme Court in BALCO's case, Hardy's case, Soma's case, and Mankastu's case.
+    * Whether the High Court's involvement in appointing an arbitrator under Section 11 of the Act confers jurisdiction on it for subsequent petitions under Section 34.
+    * Whether the conduct of the parties can be considered as 'contrary indicia' to determine the seat of arbitration, especially when the agreement doesn't explicitly define it.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * Section 2(1)(e) of the Arbitration and Conciliation Act, 1996: Defines 'Court' for the purpose of the Act.
+    * Section 11 of the Arbitration and Conciliation Act, 1996: Deals with the appointment of arbitrators.
+    * Section 20 of the Arbitration and Conciliation Act, 1996: Pertains to the place of arbitration.
+    * Section 34 of the Arbitration and Conciliation Act, 1996: Deals with setting aside arbitral awards.
+    * Section 42 of the Arbitration and Conciliation Act, 1996: Determines jurisdiction over arbitral proceedings and subsequent applications.
+* **Precedents Cited:**
+    * Bharat Aluminium Company Ltd. v. Kaiser Aluminum Technical Services (BALCO's case) (2012): Distinguished between 'seat' and 'venue' of arbitration.
+    * Union of India vs. Hardy Exploration and Production (Hardy's case) (2019): Held that 'venue' can be 'seat' only if additional factors support it.
+    * BGS SGS Soma JV v. NHPC Limited (Soma's case) (2020): Reiterated the 'Shashoua principle' and declared Hardy's case as not good law.
+    * Mankastu Impex Private Limited Vs. Airvisual Limited (Mankastu's case) (2020): Observed that Soma's case could not overrule Hardy's case and emphasized the importance of determining seat from clauses and conduct.
+    * BBR (India) Private Limited v. S.P. Singla Constructions Private Limited (2023): Reiterated that 'seat of arbitration' cannot be changed without mutual consent, but in a different context.
+    * State of West Bengal and others Vs. Associated Contractors (2015): Clarified that the High Court under Section 11 is not a 'court' for the purpose of Section 42.
+    * M/s Ravi Ranjan Developers Private Limited Versus Aditya Kumar Chatterji (2022): Emphasized that a judgment's interpretation should consider the facts and circumstances of the case.
+* **Legal Doctrines:**
+    * **Party autonomy:**  The principle that parties are free to agree on the terms of their arbitration.
+    * **Seat of arbitration:**  The place that determines the curial law and the court with supervisory jurisdiction over the arbitration.
+    * **Venue of arbitration:**  The geographical location where the arbitration proceedings are conducted.
+    * **Estoppel:**  A legal principle that prevents a party from asserting a claim that is inconsistent with their previous conduct or statements.
+    * **Contrary Indicia:**  Factors or evidence that contradict the general principle, such as the venue being the seat of arbitration.
+
+## 4. Arguments Presented
+
+* **Petitioner's Argument (More Retail):**
+    *  Mankastu's case (2020) contradicts Soma's case (2020), implying that venue doesn't automatically mean seat.
+    *  The respondent is estopped from challenging Ludhiana's jurisdiction because of his past conduct and pleadings.
+    *  BBR's case (2023) is not applicable because the issue there was shifting venue after an arbitrator's recusal.
+* **Respondent's Argument (Biren Sahni):**
+    *  The MOAT clearly designates Delhi as the venue, which should be treated as the seat of arbitration based on BALCO's case (2012).
+    *  The Commercial Court's order is well-reasoned and follows the established legal position as per BGS Soma's case (2020).
+    *  Mankastu's case (2020) does not overrule Soma's case (2020).
+    *  The High Court under Section 11 is not a 'court' for the purpose of Section 42, so its involvement doesn't confer jurisdiction on Ludhiana.
+    *  Filing petitions in Ludhiana was based on a mistaken belief and cannot create an estoppel.
+    *  Allowing jurisdiction based on previous actions would encourage "fastest fingers first" tactics and lead to conflicting decisions.
+
+## 5. Court's Analysis and Reasoning
+
+* **Key Findings:**
+    *  Mankastu's case (2020) does not overrule Soma's case (2020), but expands the concept of "contrary indicia" to include the conduct of the parties.
+    *  The High Court while appointing an arbitrator under Section 11 is not a 'court' as defined in Section 2(1)(e), so it does not automatically confer jurisdiction.
+    *  The consistent conduct of a party can be considered as "contrary indicia" to determine the seat of arbitration when it contradicts the general principle of 'venue' being 'seat'.
+* **Interpretation of Law:**
+    *  The court analyzed various Supreme Court judgments on the seat and venue of arbitration, acknowledging the conflicting positions and emphasizing the importance of considering specific facts and circumstances of each case.
+    *  The court emphasized that "contrary indicia" could be derived not only from the agreement but also from the conduct of the parties.
+* **Application of Law:**
+    *  The court found that the respondent's consistent actions, including filing petitions in Ludhiana and acknowledging its jurisdiction, constituted "contrary indicia" against treating Delhi as the seat of arbitration based solely on the venue being Delhi.
+    *  The court applied Section 42 of the Act, finding that the respondent, having initially acknowledged Ludhiana's jurisdiction, was estopped from later challenging it.
+
+## 6. Judgment
+
+* **Final Decision:** The petition was accepted, and the impugned order of the Commercial Court, Ludhiana, was set aside.
+* **Relief Granted:** The petitioner (More Retail) was granted the right to pursue its petition under Section 34 in the Commercial Court, Ludhiana.
+* **Orders:** The parties were directed to appear before the Commercial Court, Ludhiana, on 31st January 2024.
+
+## 7. Implications
+
+* **Impact on Law:** The judgment reiterates the importance of considering the conduct of parties as "contrary indicia" when determining the seat of arbitration, especially when the agreement doesn't define it. 
+* **Future Relevance:** This judgment sets a precedent for examining the conduct of parties in determining the seat of arbitration, adding a crucial factor to the existing legal framework.
+* **Broader Context:** This judgment highlights the ongoing debate surrounding the interpretation of "seat" and "venue" in arbitration, emphasizing the need for a more nuanced approach that considers all relevant factors, including the conduct of the parties.
+
+## 8. Summary Points
+
+*  The court acknowledged the confusion surrounding the "seat" and "venue" of arbitration due to conflicting Supreme Court judgments.
+*  The court held that the conduct of parties can be considered as "contrary indicia" to determine the seat of arbitration, especially when the agreement doesn't explicitly define it.
+*  The court found that the respondent, having consistently acknowledged Ludhiana's jurisdiction, was estopped from challenging it later.
+*  The judgment reinforces the importance of considering all relevant factors, including the conduct of parties, when determining the seat of arbitration.
+
+## 9. References
+
+* **Citations:**
+    * Arbitration and Conciliation Act, 1996
+    * Bharat Aluminium Company Ltd. v. Kaiser Aluminum Technical Services (2012) 9 SCC 552
+    * Union of India vs. Hardy Exploration and Production (India) INC. (2019) 13 SCC 472
+    * BGS SGS SOMA JV v. NHPC Ltd. (2020) 4 SCC 234
+    * Mankastu Inpex Private Ltd. v. Airvisual Ltd. (2020) 5 SCC 399
+    * BBR (India) Private Limited v. S.P. Singla Constructions Private Limited (2023) 1 SCC 693
+    * State of West Bengal and others Vs. Associated Contractors (2015) 1 SCC 32
+    * M/s Ravi Ranjan Developers Private Limited Versus Aditya Kumar Chatterji (2022) SCC Online 568
+* **Further Reading:**
+    * Roger Shashoua v Mukesh Sharma (English Law)
+    *  Harmony Innovation Shipping Ltd. v. Gupta Coal (India) Ltd., (2015) 9 SCC 172: (2015) 4 SCC (Civ) 341
+    * Hindustan Construction Company Limited v. NHPC Limited and Anr., (2020) 4 SCC 310
+    * Indus Mobile Distribution Private Limited v. Datawind Innovations Private Limited and Ors., (2017) 7 SCC 678
+    * Pandey & Co. Builders (P) Ltd. v. State of Bihar & Anr., (2007) 1 SCC 467 

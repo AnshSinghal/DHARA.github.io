@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A borrower took a loan from a company and failed to make timely repayments. The company appointed an arbitrator under an agreement that gave the lender the sole right to appoint the arbitrator. The borrower challenges the award, arguing the unilateral appointment violated the principles of natural justice. Does the borrower's challenge have merit?",
+    "Legal Principles": "Unilateral appointment of an arbitrator, principles of natural justice, Arbitration and Conciliation Act, 1996 (A&C Act), Section 12(5) of the A&C Act, express agreement in writing, Perkins Eastman Architects DPC and another Vs. HSCC (India) Limited, Bharat Broadband Network Limited Vs. United Telecoms Limited",
+    "Relevant Sections": "Section 12(5) of the Arbitration and Conciliation Act, 1996, Section 11(2) of the A&C Act, Section 14(1)(a) of the A&C Act, Section 30(1) of the A&C Act, Section 13(2) of the A&C Act",
+    "Context": "Arbitration, challenge to arbitral award, unilateral appointment of arbitrator, violation of natural justice, loan agreement, A&C Act, Indian jurisdiction"
+  },
+  {
+    "Query": "A construction contract contains an arbitration clause granting the employer the sole right to appoint the arbitrator. A dispute arises, and the employer appoints an arbitrator who has a prior professional relationship with the employer's legal counsel. Can the contractor challenge the appointment on the grounds of potential bias?",
+    "Legal Principles": "Potential bias, arbitrator's independence and impartiality, relationship with parties, Section 12(5) of the A&C Act, Seventh Schedule of the A&C Act, disclosure by arbitrator, challenge to appointment",
+    "Relevant Sections": "Section 12(5) of the Arbitration and Conciliation Act, 1996, Section 12(1) to 12(4) of the A&C Act, Section 13 of the A&C Act, Section 14(1)(a) of the A&C Act, Seventh Schedule of the A&C Act",
+    "Context": "Construction contract, arbitration clause, unilateral appointment of arbitrator, potential bias, challenge to arbitrator's appointment, A&C Act, Indian jurisdiction"
+  },
+  {
+    "Query": "A partnership agreement includes an arbitration clause allowing either partner to appoint an arbitrator. One partner files an arbitration claim, appointing a lawyer known to have close ties to the other partner. The other partner argues the appointment is unfair and breaches the partnership agreement. Can the appointment be challenged?",
+    "Legal Principles": "Arbitrator's impartiality, conflict of interest, partnership agreement, arbitration clause, Section 12(5) of the A&C Act, Seventh Schedule of the A&C Act, challenge to appointment",
+    "Relevant Sections": "Section 12(5) of the Arbitration and Conciliation Act, 1996, Section 12(1) to 12(4) of the A&C Act, Section 13 of the A&C Act, Section 14(1)(a) of the A&C Act, Seventh Schedule of the A&C Act",
+    "Context": "Partnership agreement, arbitration clause, appointment of arbitrator, conflict of interest, challenge to appointment, A&C Act, Indian jurisdiction"
+  },
+  {
+    "Query": "A commercial lease agreement grants the landlord the exclusive right to appoint the arbitrator. A dispute arises regarding rent payments, and the landlord appoints an arbitrator known for being highly favorable to landlords in similar cases. Can the tenant challenge the appointment on the grounds of bias?",
+    "Legal Principles": "Arbitrator's impartiality, bias, commercial lease agreement, arbitration clause, Section 12(5) of the A&C Act, Seventh Schedule of the A&C Act, challenge to appointment, perceived bias",
+    "Relevant Sections": "Section 12(5) of the Arbitration and Conciliation Act, 1996, Section 12(1) to 12(4) of the A&C Act, Section 13 of the A&C Act, Section 14(1)(a) of the A&C Act, Seventh Schedule of the A&C Act",
+    "Context": "Commercial lease, arbitration clause, landlord-tenant dispute, unilateral appointment of arbitrator, bias, challenge to appointment, A&C Act, Indian jurisdiction"
+  },
+  {
+    "Query": "A software licensing agreement allows the software vendor to appoint the arbitrator. A dispute arises regarding software defects, and the vendor appoints an arbitrator who previously worked as a consultant for the vendor's competitor. Can the licensee challenge the appointment on the grounds of potential conflict of interest?",
+    "Legal Principles": "Arbitrator's impartiality, conflict of interest, software licensing agreement, arbitration clause, Section 12(5) of the A&C Act, Seventh Schedule of the A&C Act, challenge to appointment",
+    "Relevant Sections": "Section 12(5) of the Arbitration and Conciliation Act, 1996, Section 12(1) to 12(4) of the A&C Act, Section 13 of the A&C Act, Section 14(1)(a) of the A&C Act, Seventh Schedule of the A&C Act",
+    "Context": "Software licensing, arbitration clause, dispute over software defects, unilateral appointment of arbitrator, conflict of interest, challenge to appointment, A&C Act, Indian jurisdiction"
+  },
+  {
+    "Query": "A joint venture agreement grants either party the right to appoint the arbitrator. One party, facing financial difficulties, appoints an arbitrator known for being lenient towards financially struggling businesses. Can the other party challenge the appointment on the grounds of potential bias?",
+    "Legal Principles": "Arbitrator's impartiality, potential bias, joint venture agreement, arbitration clause, Section 12(5) of the A&C Act, Seventh Schedule of the A&C Act, challenge to appointment",
+    "Relevant Sections": "Section 12(5) of the Arbitration and Conciliation Act, 1996, Section 12(1) to 12(4) of the A&C Act, Section 13 of the A&C Act, Section 14(1)(a) of the A&C Act, Seventh Schedule of the A&C Act",
+    "Context": "Joint venture, arbitration clause, financial difficulties, unilateral appointment of arbitrator, potential bias, challenge to appointment, A&C Act, Indian jurisdiction"
+  },
+  {
+    "Query": "An employment contract includes an arbitration clause allowing the employer to appoint the arbitrator. An employee files a claim for wrongful termination, and the employer appoints an arbitrator who has a history of ruling in favor of employers in similar cases. Can the employee challenge the appointment?",
+    "Legal Principles": "Arbitrator's impartiality, bias, employment contract, arbitration clause, Section 12(5) of the A&C Act, Seventh Schedule of the A&C Act, challenge to appointment",
+    "Relevant Sections": "Section 12(5) of the Arbitration and Conciliation Act, 1996, Section 12(1) to 12(4) of the A&C Act, Section 13 of the A&C Act, Section 14(1)(a) of the A&C Act, Seventh Schedule of the A&C Act",
+    "Context": "Employment contract, arbitration clause, wrongful termination, unilateral appointment of arbitrator, bias, challenge to appointment, A&C Act, Indian jurisdiction"
+  },
+  {
+    "Query": "A contract for the sale of goods grants the seller the right to appoint the arbitrator. A dispute arises over defective goods, and the seller appoints an arbitrator who is a close friend of the seller's CEO. Can the buyer challenge the appointment on the grounds of potential conflict of interest?",
+    "Legal Principles": "Arbitrator's impartiality, conflict of interest, contract for the sale of goods, arbitration clause, Section 12(5) of the A&C Act, Seventh Schedule of the A&C Act, challenge to appointment",
+    "Relevant Sections": "Section 12(5) of the Arbitration and Conciliation Act, 1996, Section 12(1) to 12(4) of the A&C Act, Section 13 of the A&C Act, Section 14(1)(a) of the A&C Act, Seventh Schedule of the A&C Act",
+    "Context": "Sale of goods, arbitration clause, defective goods, unilateral appointment of arbitrator, conflict of interest, challenge to appointment, A&C Act, Indian jurisdiction"
+  },
+  {
+    "Query": "A franchise agreement allows the franchisor to appoint the arbitrator. A dispute arises regarding the franchisee's compliance with the franchise agreement, and the franchisor appoints an arbitrator who has a reputation for being highly pro-franchisor in similar disputes. Can the franchisee challenge the appointment on the grounds of perceived bias?",
+    "Legal Principles": "Arbitrator's impartiality, perceived bias, franchise agreement, arbitration clause, Section 12(5) of the A&C Act, Seventh Schedule of the A&C Act, challenge to appointment",
+    "Relevant Sections": "Section 12(5) of the Arbitration and Conciliation Act, 1996, Section 12(1) to 12(4) of the A&C Act, Section 13 of the A&C Act, Section 14(1)(a) of the A&C Act, Seventh Schedule of the A&C Act",
+    "Context": "Franchise agreement, arbitration clause, franchisor-franchisee dispute, unilateral appointment of arbitrator, perceived bias, challenge to appointment, A&C Act, Indian jurisdiction"
+  },
+  {
+    "Query": "A real estate purchase agreement grants the seller the right to appoint the arbitrator. A dispute arises over the condition of the property, and the seller appoints an arbitrator who is a real estate agent known for representing sellers in similar disputes. Can the buyer challenge the appointment on the grounds of potential bias?",
+    "Legal Principles": "Arbitrator's impartiality, potential bias, real estate purchase agreement, arbitration clause, Section 12(5) of the A&C Act, Seventh Schedule of the A&C Act, challenge to appointment",
+    "Relevant Sections": "Section 12(5) of the Arbitration and Conciliation Act, 1996, Section 12(1) to 12(4) of the A&C Act, Section 13 of the A&C Act, Section 14(1)(a) of the A&C Act, Seventh Schedule of the A&C Act",
+    "Context": "Real estate purchase, arbitration clause, dispute over property condition, unilateral appointment of arbitrator, potential bias, challenge to appointment, A&C Act, Indian jurisdiction"
+  }
+]
+```

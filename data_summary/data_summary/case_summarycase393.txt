@@ -1,0 +1,91 @@
+## 1. Case Title
+
+* **Case Name:** Engineering Projects (India) Ltd. vs. M/S. M. P. Khaitan
+* **Court:** Tripura High Court
+* **Date of Judgment:** 12th September 2022
+* **Citation:** Arb. A. 3/2022
+
+## 2. Background and Context
+
+* **Brief Overview:** This case involved a dispute between Engineering Projects (India) Ltd. (EPIL), a Government of India enterprise, and M/S. M. P. Khaitan, a registered contractor. The dispute arose from a contract for the construction of a College of Agriculture at Lembucherra, Tripura. EPIL had awarded the contract to M/S. M. P. Khaitan, but there were delays in completing the project due to various issues, including alleged interruptions by EPIL and the unavailability of a proper site for the garage. After completion of the project, M/S. M. P. Khaitan claimed a balance payment of Rs. 92,74,632/- from EPIL and sought damages for various reasons, including delayed completion and escalation charges. EPIL disputed the claim and counterclaimed damages for the delay in completion.
+* **Key Issues:** 
+    * Whether M/S. M. P. Khaitan was entitled to the balance payment.
+    * Whether M/S. M. P. Khaitan was entitled to various damages claimed for delays, escalation charges, and other expenses.
+    * Whether EPIL was entitled to damages for the delayed completion of the project.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * **Arbitration and Conciliation Act, 1996 (Arbitration Act):**
+        * **Section 34:** Deals with the power of the Court to set aside an arbitral award.
+        * **Section 37:** Allows for appeal against an order passed under Section 34 of the Arbitration Act.
+    * **Indian Contract Act, 1872:**
+        * **Section 23:** Deals with void agreements.
+    * **Constitution of India:**
+        * **Article 14:** Ensures equality before law and equal protection of the laws.
+
+* **Precedents Cited:**
+    * **McDermott International INC vs. Burn Standard Co. Ltd. and Others reported in (2006) 11 SCC 181:** This case established the grounds for setting aside an arbitral award, including violation of public policy, interference with the interests of India, and patent arbitrariness.
+    * **Associate Builders vs. Delhi Development Authority reported in (2015) 3 SCC 49:** This case emphasized that the Court can only interfere with an arbitral award if it is arbitrary, capricious, perverse, or suffers from patent illegality.
+
+* **Legal Doctrines:**
+    * **Public Policy:** Refers to principles that are fundamental to the well-being of society and are not subject to arbitrary interpretation. 
+    * **Patent Illegality:** Refers to an award that is clearly and demonstrably wrong or against the law.
+
+## 4. Arguments Presented
+
+* **Appellant's (EPIL) Argument:**
+    * The arbitrator failed to specify the amount of the award, making it impossible to calculate the interest awarded.
+    * The arbitrator traveled beyond the terms of the arbitration agreement by not hearing the Director of Agriculture, who was responsible for the project.
+    * The arbitrator wrongly awarded damages to M/S. M. P. Khaitan, including those for escalation charges, longer retention of the work site, and illegal withholding of payments.
+
+* **Respondent's (M/S. M. P. Khaitan) Argument:**
+    * The arbitrator's award is well-founded and does not call for interference.
+    * The arbitrator clearly specified the amount awarded under various heads.
+    * The arbitrator properly considered the evidence and applied the law in deciding the issues.
+    * The arguments raised by EPIL do not fall under the grounds for setting aside an arbitral award under Section 34 of the Arbitration Act.
+
+## 5. Court's Analysis and Reasoning
+
+* **Key Findings:**
+    * The Court found that the arbitrator had specified the amounts awarded to M/S. M. P. Khaitan under various heads, contrary to EPIL's claim.
+    * The Court held that the arbitrator's decision was not based on patent illegality, arbitrariness, or a violation of public policy.
+    * The Court emphasized that it cannot sit in appeal and re-examine the arbitrator's findings on merit, as per the precedents cited.
+
+* **Interpretation of Law:** 
+    * The Court interpreted Section 34 of the Arbitration Act to limit the Court's power to interfere with arbitral awards only on specific grounds.
+    * The Court applied the precedents established in the McDermott International INC and Associate Builders cases, which highlight the limited scope of judicial review of arbitral awards.
+
+* **Application of Law:**
+    * The Court concluded that EPIL's arguments did not meet the requirements for setting aside the arbitral award under Section 34 of the Arbitration Act.
+    * The Court found that the arbitrator had followed the law, considered the evidence, and reached a well-reasoned decision.
+
+## 6. Judgment
+
+* **Final Decision:** The Tripura High Court dismissed EPIL's appeal and upheld the arbitral award.
+* **Relief Granted:** The arbitral award, including the balance payment and various damages awarded to M/S. M. P. Khaitan, stands confirmed.
+* **Orders:** The appeal is dismissed. Any pending applications are also disposed of.
+
+## 7. Implications
+
+* **Impact on Law:** This judgment reinforces the limited scope of judicial review of arbitral awards in India. It underscores the principle that courts can only interfere with an award on specific grounds under Section 34 of the Arbitration Act. 
+* **Future Relevance:** This case provides a clear example of the Court's approach to challenges against arbitral awards, particularly in cases where the appellant argues that the arbitrator has failed to specify the amount of the award or has made a patently illegal decision.
+* **Broader Context:** This case highlights the importance of thorough documentation and clear communication in arbitration cases to ensure that the arbitrator's findings are unambiguous and supported by evidence. 
+
+## 8. Summary Points
+
+* The Tripura High Court upheld the arbitral award in favor of M/S. M. P. Khaitan.
+* The Court found no basis for interfering with the arbitrator's findings, as they were not based on patent illegality or arbitrariness.
+* The judgment emphasizes the limited scope of judicial review of arbitral awards under Indian law.
+
+## 9. References
+
+* **Arbitration and Conciliation Act, 1996**
+* **Indian Contract Act, 1872**
+* **Constitution of India**
+* **McDermott International INC vs. Burn Standard Co. Ltd. and Others reported in (2006) 11 SCC 181**
+* **Associate Builders vs. Delhi Development Authority reported in (2015) 3 SCC 49** 
+
+**Further Reading:**
+* **Arbitration and Conciliation Act, 1996: A Commentary** by P.S. Atiya
+* **Law of Arbitration and Conciliation in India** by M.P. Singh 

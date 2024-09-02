@@ -1,0 +1,97 @@
+## 1. Case Title
+
+* **Case Name:** Universal Test Solutions LLP vs. S L K Software Services Private Limited
+* **Court:** Karnataka High Court
+* **Date of Judgment:** 4th October 2023
+* **Citation:**  (Not provided in the text)
+
+## 2. Background and Context
+
+* **Brief Overview:** This case concerns a dispute between Universal Test Solutions LLP (petitioner/defendant) and S.L.K. Software Services Private Limited (respondent/petitioner) arising from an arbitration award. The petitioner initiated arbitration proceedings against the respondent in CMP No. 345/2017, leading to an interim award in 2018 and a final award in 2019.  The respondent challenged the final award under Section 34 of the Arbitration and Conciliation Act, 1996 (Arbitration Act) before the Commercial Court in Bengaluru. 
+* **Key Issues:**
+    * Whether the Commercial Court was justified in refusing to invoke a bank guarantee furnished by the respondent as security for the award amount.
+    * Whether the petitioner could seek enforcement of the award by filing an application under Section 151 of CPC instead of initiating execution proceedings under Section 36 of the Arbitration Act.
+    * Whether the Commercial Court had the power to review its order dismissing the respondent's petition under Section 34 of the Arbitration Act.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * Article 227 of the Constitution of India
+    * Arbitration and Conciliation Act, 1996 (Arbitration Act), Sections 34, 36, 47
+    * Code of Civil Procedure, 1908 (CPC), Sections 151, 114
+    * Registration Act
+* **Precedents Cited:**
+    * Garment Craft v. Prakash Chand Goel (2022) 4 SCC 181
+    * Estralla Rubber v. Dass Estate (P) Ltd. (2001) 8 SCC 97
+    * M.Anasuy Devi and Another v. M.Manik Reddy and Others (2003) 8 SCC 565
+* **Legal Doctrines:**
+    * Supervisory jurisdiction of High Courts under Article 227 of the Constitution of India
+    * Functus officio doctrine
+    * Power of Review under CPC
+    * Enforcement of arbitration awards
+    * Stamping and registration of awards
+
+## 4. Arguments Presented
+
+* **Petitioner's Argument:**
+    * The bank guarantee was furnished as security for the award amount and should be invoked upon the dismissal of the respondent's challenge to the award.
+    * The Commercial Court should have directed the invocation of the bank guarantee along with the release of the amount deposited by the respondent.
+    * The petitioner faces difficulty in executing the award due to the expiration of the bank guarantee and the need to avoid lengthy execution proceedings.
+    * The petitioner sought to avoid paying stamp duty on the award by seeking invocation of the bank guarantee, which could have been addressed by the Commercial Court. 
+* **Respondent's Argument:**
+    * The Commercial Court lost jurisdiction to issue further directions after dismissing the respondent's petition under Section 34 of the Arbitration Act.
+    * The petitioner should file an execution petition under Section 36 of the Arbitration Act for enforcement of the award.
+    * The petitioner sought to avoid paying stamp duty on the award by filing an application under Section 151 of CPC.
+    * The bank guarantee was provided as security during the pendency of Section 34 proceedings and not for enforcement of the award.
+    * The petitioner cannot claim any right over the bank guarantee as it was given only for security purposes. 
+
+## 5. Court's Analysis and Reasoning
+
+* **Key Findings:**
+    * The bank guarantee was given as security during the pendency of the Section 34 proceedings and not for enforcement of the award under Section 36.
+    * The petitioner cannot convert Section 34 proceedings into Section 36 proceedings for enforcement of the award by filing an application under Section 151 of CPC.
+    * The petitioner is required to file an application for enforcement under Section 36 of the Arbitration Act and pay stamp duty on the award.
+    * The Commercial Court was justified in refusing to invoke the bank guarantee because it was given as security during the Section 34 proceedings, and no event or condition specified in the bank guarantee arose.
+* **Interpretation of Law:**
+    * The court emphasized that the High Court under Article 227 of the Constitution of India has supervisory jurisdiction and cannot act as an appellate court.
+    * The court interpreted Section 34 of the Arbitration Act as not providing for review of orders passed under it.
+    * The court applied Section 36 of the Arbitration Act for enforcement of awards and the requirement of paying stamp duty on the award.
+    * The court highlighted that the functus officio doctrine applies to courts after they have concluded proceedings under Section 34 of the Arbitration Act.
+* **Application of Law:**
+    * The court applied the principles of supervisory jurisdiction under Article 227 to uphold the Commercial Court's decision.
+    * The court found that the petitioner had not exhausted other legal remedies, making Article 227 jurisdiction inappropriate in this case.
+    * The court held that the Commercial Court's decision not to invoke the bank guarantee was not perverse or unreasonable.
+
+## 6. Judgment
+
+* **Final Decision:** The writ petition was rejected.
+* **Relief Granted:** No relief was granted to the petitioner.
+* **Orders:** The Commercial Court's order rejecting the petitioner's application under Section 151 of CPC was upheld.
+
+## 7. Implications
+
+* **Impact on Law:** The judgment reinforces the limitations of supervisory jurisdiction under Article 227 of the Constitution of India. It also clarifies that the functus officio doctrine applies to courts after concluding Section 34 proceedings under the Arbitration Act.
+* **Future Relevance:** This case may be cited in future cases involving the enforcement of arbitration awards and the role of bank guarantees provided as security during proceedings.
+* **Broader Context:** The case highlights the importance of following proper legal procedures for enforcing arbitration awards and the consequences of attempting to circumvent those procedures.
+
+## 8. Summary Points
+
+* The petitioner sought to invoke a bank guarantee provided as security during Section 34 proceedings, but the Commercial Court refused.
+* The court held that the petitioner should have filed an execution petition under Section 36 of the Arbitration Act instead of an application under Section 151 of CPC.
+* The court upheld the Commercial Court's decision, finding it was not perverse or unreasonable. 
+* The case emphasizes the limitations of supervisory jurisdiction under Article 227 and the application of the functus officio doctrine in arbitration proceedings.
+
+## 9. References
+
+* **Citations:**
+    * Article 227 of the Constitution of India
+    * Arbitration and Conciliation Act, 1996 (Arbitration Act)
+    * Code of Civil Procedure, 1908 (CPC)
+    * Registration Act
+    * Garment Craft v. Prakash Chand Goel (2022) 4 SCC 181
+    * Estralla Rubber v. Dass Estate (P) Ltd. (2001) 8 SCC 97
+    * M.Anasuy Devi and Another v. M.Manik Reddy and Others (2003) 8 SCC 565
+* **Further Reading:**
+    * Arbitration and Conciliation Act, 1996
+    * Code of Civil Procedure, 1908 
+    * Relevant case law on the enforcement of arbitration awards. 

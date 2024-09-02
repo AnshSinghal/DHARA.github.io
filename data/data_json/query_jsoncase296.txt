@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A contractor is suing a government agency for breach of contract. The agency claims that the contract was terminated due to the contractor's failure to meet performance obligations, while the contractor argues that the termination was wrongful and they were in fact meeting the terms of the contract. The contractor is seeking damages for lost profits and other expenses. What are the legal principles and relevant sections involved in this type of dispute?",
+    "Legal Principles": "Breach of Contract, Termination of Contract, Performance Obligations, Damages for Breach of Contract, Wrongful Termination",
+    "Relevant Sections": "Section 73 (Compensation for breach of contract), Section 39 (Termination for breach) of the Indian Contract Act, 1872",
+    "Context": "Commercial Law, Contract Law, Dispute Resolution, India"
+  },
+  {
+    "Query": "A company is seeking to enforce an arbitration award against another company, but the opposing party argues that the award should be set aside due to procedural irregularities in the arbitration process.  The company seeking enforcement argues that the procedural irregularities were minor and did not affect the fairness of the proceedings. What are the grounds for setting aside an arbitration award and how are they applied in this case?",
+    "Legal Principles": "Enforcement of Arbitration Awards, Setting Aside Arbitration Awards, Procedural Irregularities, Fairness of Proceedings, Arbitration Act 1996",
+    "Relevant Sections": "Section 34 of the Arbitration and Conciliation Act, 1996 (grounds for setting aside an arbitral award)",
+    "Context": "Arbitration Law, Dispute Resolution, India"
+  },
+  {
+    "Query": "Two parties entered into a contract for the sale of goods. The buyer refuses to accept the goods claiming that they do not meet the specifications outlined in the contract.  The seller argues that the goods meet the specifications and that the buyer is in breach of contract by refusing to accept them. The seller is seeking specific performance of the contract, requiring the buyer to accept the goods. What legal principles govern the determination of whether specific performance is an appropriate remedy?",
+    "Legal Principles": "Specific Performance, Breach of Contract, Sale of Goods, Contractual Specifications",
+    "Relevant Sections": "Section 14 of the Specific Relief Act, 1963 (Specific performance of contracts)",
+    "Context": "Contract Law, Commercial Law, Remedies, India"
+  },
+  {
+    "Query": "A real estate developer is facing a lawsuit by a homeowner alleging that the developer's construction of a new building resulted in damage to the homeowner's property. The developer denies responsibility, arguing that the damage was caused by other factors. The homeowner is seeking compensation for the damage. What are the legal principles related to property damage and liability that are relevant to this case?",
+    "Legal Principles": "Negligence, Property Damage, Liability, Causation, Damages",
+    "Relevant Sections": "Section 2(9) of the Indian Contract Act, 1872 (definition of 'tort'), Section 2 of the Torts (Miscellaneous Provisions) Act, 1959 (definition of 'negligence'),",
+    "Context": "Torts, Real Estate, Property Law, India"
+  },
+  {
+    "Query": "An employee is suing their former employer for wrongful termination. The employee alleges that they were terminated without cause and in violation of the terms of their employment contract. The employer argues that the termination was justified based on the employee's performance. What are the legal principles related to wrongful termination and the burden of proof in such cases?",
+    "Legal Principles": "Wrongful Termination, Employment Contract, Just Cause, Burden of Proof",
+    "Relevant Sections": "Section 25-F of the Industrial Disputes Act, 1947 (termination of employment), Section 25-C of the Industrial Disputes Act, 1947 (retrenchment)",
+    "Context": "Labor Law, Employment Law, India"
+  },
+  {
+    "Query": "A company is seeking to register a trademark for its new product, but another company files an opposition to the registration, claiming that the mark is confusingly similar to their existing trademark. The company seeking registration argues that the marks are sufficiently distinct and there is no likelihood of confusion. What legal principles govern the determination of trademark infringement and likelihood of confusion?",
+    "Legal Principles": "Trademark Infringement, Likelihood of Confusion, Trademark Registration, Trademark Opposition",
+    "Relevant Sections": "Section 11 of the Trademarks Act, 1999 (grounds for refusal of registration), Section 29 of the Trademarks Act, 1999 (infringement)",
+    "Context": "Intellectual Property Law, Trademark Law, India"
+  },
+  {
+    "Query": "A shareholder is suing a company alleging that the company's directors have breached their fiduciary duty to the shareholders by engaging in self-dealing transactions that were not in the best interests of the company. The directors argue that the transactions were made in good faith and were beneficial to the company. What are the legal principles related to fiduciary duty and corporate governance that apply to this case?",
+    "Legal Principles": "Fiduciary Duty, Corporate Governance, Self-Dealing, Best Interests of the Company, Good Faith",
+    "Relevant Sections": "Section 166 of the Companies Act, 2013 (duties of directors), Section 177 of the Companies Act, 2013 (related party transactions)",
+    "Context": "Corporate Law, Shareholder Rights, India"
+  },
+  {
+    "Query": "A company is seeking to recover unpaid debts from a customer. The customer claims that they are not liable for the debt because the contract was not validly formed. The company argues that the contract was valid and the customer is in breach of their payment obligations. What are the legal principles related to contract formation and breach of contract that are relevant to this case?",
+    "Legal Principles": "Contract Formation, Offer and Acceptance, Consideration, Breach of Contract, Debt Recovery",
+    "Relevant Sections": "Section 2(h) of the Indian Contract Act, 1872 (definition of 'agreement'), Section 10 of the Indian Contract Act, 1872 (legal enforceability of contracts), Section 73 of the Indian Contract Act, 1872 (compensation for breach of contract)",
+    "Context": "Commercial Law, Contract Law, India"
+  },
+  {
+    "Query": "A tenant is facing eviction proceedings by their landlord. The tenant claims that the eviction is wrongful because the landlord failed to provide proper notice and did not have a valid reason for termination of the tenancy. The landlord argues that the tenant breached the lease agreement and is therefore subject to eviction. What are the legal principles related to tenancy agreements, notice requirements, and grounds for eviction?",
+    "Legal Principles": "Tenancy Agreements, Lease Agreements, Notice Requirements, Grounds for Eviction, Wrongful Eviction",
+    "Relevant Sections": "Section 106 of the Transfer of Property Act, 1882 (determination of lease), Section 111 of the Transfer of Property Act, 1882 (recovery of possession of property)",
+    "Context": "Real Estate Law, Landlord-Tenant Law, India"
+  },
+  {
+    "Query": "A patient is suing a doctor for medical negligence, alleging that the doctor's actions caused harm during a medical procedure. The doctor argues that they acted with reasonable care and skill, and that the patient's injury was caused by other factors. What are the legal principles related to medical negligence, standard of care, and causation that are relevant to this case?",
+    "Legal Principles": "Medical Negligence, Standard of Care, Causation, Damages, Informed Consent",
+    "Relevant Sections": "Section 2(9) of the Indian Contract Act, 1872 (definition of 'tort'), Section 2 of the Torts (Miscellaneous Provisions) Act, 1959 (definition of 'negligence')",
+    "Context": "Torts, Medical Malpractice, India"
+  }
+]
+```

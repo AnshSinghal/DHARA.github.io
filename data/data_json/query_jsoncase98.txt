@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A company is challenging an arbitral award and the opposing party is a small-scale enterprise. The company claims that the MSMED Act does not apply because the arbitration was conducted under the Arbitration Act. Can the court compel the company to deposit 75% of the award amount under the MSMED Act?",
+    "Legal Principles": "The applicability of Section 19 of the MSMED Act in relation to arbitral awards under the Arbitration Act. The interpretation of the scope of Section 19 of the MSMED Act and its relationship to arbitral proceedings.",
+    "Relevant Sections": "Section 19 of the Micro, Small and Medium Enterprises Development Act, 2006 (MSMED Act). Section 34 of the Arbitration and Conciliation Act, 1996 (Arbitration Act).",
+    "Context": "Jurisdiction: India. Case Type: Appeal from Order in a commercial case involving an arbitration award. The query relates to the application of the MSMED Act in an arbitration context, specifically when a party is challenging an award under the Arbitration Act."
+  },
+  {
+    "Query": "A construction company is seeking to set aside an arbitral award that was decided under the Arbitration Act. The opposing party is a small-scale contractor. Can the court compel the construction company to deposit 75% of the award amount under the MSMED Act?",
+    "Legal Principles": "Applicability of Section 19 of the MSMED Act to arbitral awards. Whether the MSMED Act applies when the arbitration proceedings are conducted under the Arbitration Act. Interpretation of Section 19 of the MSMED Act.",
+    "Relevant Sections": "Section 19 of the Micro, Small and Medium Enterprises Development Act, 2006 (MSMED Act). Section 34 of the Arbitration and Conciliation Act, 1996 (Arbitration Act).",
+    "Context": "Jurisdiction: India. Case Type: Appeal from Order in a commercial case involving an arbitration award. The query relates to the application of the MSMED Act to a construction case involving an arbitration award."
+  },
+  {
+    "Query": "A supplier is seeking to enforce an arbitral award against a large corporation. The supplier is a small-scale enterprise. The corporation claims that the MSMED Act does not apply because the arbitration was conducted under the Arbitration Act. Is the corporation obligated to deposit 75% of the award amount under the MSMED Act?",
+    "Legal Principles": "The applicability of Section 19 of the MSMED Act to arbitral awards. The interpretation of the scope of Section 19 of the MSMED Act and its relationship to arbitral proceedings. The interplay between the MSMED Act and the Arbitration Act.",
+    "Relevant Sections": "Section 19 of the Micro, Small and Medium Enterprises Development Act, 2006 (MSMED Act). Section 34 of the Arbitration and Conciliation Act, 1996 (Arbitration Act).",
+    "Context": "Jurisdiction: India. Case Type: Appeal from Order in a commercial case involving an arbitration award. The query relates to the application of the MSMED Act in an arbitration context, specifically when a party is seeking to enforce an award under the Arbitration Act."
+  },
+  {
+    "Query": "A small-scale manufacturing company is challenging an arbitral award against them. The other party is a large corporation. Can the court compel the corporation to deposit 75% of the award amount under the MSMED Act?",
+    "Legal Principles": "Applicability of Section 19 of the MSMED Act to arbitral awards. The interpretation of the scope of Section 19 of the MSMED Act and its relationship to arbitral proceedings.",
+    "Relevant Sections": "Section 19 of the Micro, Small and Medium Enterprises Development Act, 2006 (MSMED Act). Section 34 of the Arbitration and Conciliation Act, 1996 (Arbitration Act).",
+    "Context": "Jurisdiction: India. Case Type: Appeal from Order in a commercial case involving an arbitration award. The query relates to the application of the MSMED Act to a manufacturing case involving an arbitration award."
+  },
+  {
+    "Query": "A software company is challenging an arbitral award and the opposing party is a small-scale software development firm. The company argues that the MSMED Act does not apply because the arbitration was conducted under the Arbitration Act. Can the court compel the company to deposit 75% of the award amount under the MSMED Act?",
+    "Legal Principles": "The applicability of Section 19 of the MSMED Act in relation to arbitral awards under the Arbitration Act. The interpretation of the scope of Section 19 of the MSMED Act and its relationship to arbitral proceedings.",
+    "Relevant Sections": "Section 19 of the Micro, Small and Medium Enterprises Development Act, 2006 (MSMED Act). Section 34 of the Arbitration and Conciliation Act, 1996 (Arbitration Act).",
+    "Context": "Jurisdiction: India. Case Type: Appeal from Order in a commercial case involving an arbitration award. The query relates to the application of the MSMED Act in a software development case involving an arbitration award."
+  },
+  {
+    "Query": "A small-scale retailer is challenging an arbitral award against them. The other party is a large retail chain. Can the court compel the retail chain to deposit 75% of the award amount under the MSMED Act?",
+    "Legal Principles": "Applicability of Section 19 of the MSMED Act to arbitral awards. The interpretation of the scope of Section 19 of the MSMED Act and its relationship to arbitral proceedings.",
+    "Relevant Sections": "Section 19 of the Micro, Small and Medium Enterprises Development Act, 2006 (MSMED Act). Section 34 of the Arbitration and Conciliation Act, 1996 (Arbitration Act).",
+    "Context": "Jurisdiction: India. Case Type: Appeal from Order in a commercial case involving an arbitration award. The query relates to the application of the MSMED Act to a retail case involving an arbitration award."
+  },
+  {
+    "Query": "A large corporation is seeking to set aside an arbitral award in favor of a small-scale business. The corporation claims that the MSMED Act does not apply because the arbitration was conducted under the Arbitration Act. Can the court compel the corporation to deposit 75% of the award amount under the MSMED Act?",
+    "Legal Principles": "The applicability of Section 19 of the MSMED Act to arbitral awards. The interpretation of the scope of Section 19 of the MSMED Act and its relationship to arbitral proceedings. The interplay between the MSMED Act and the Arbitration Act.",
+    "Relevant Sections": "Section 19 of the Micro, Small and Medium Enterprises Development Act, 2006 (MSMED Act). Section 34 of the Arbitration and Conciliation Act, 1996 (Arbitration Act).",
+    "Context": "Jurisdiction: India. Case Type: Appeal from Order in a commercial case involving an arbitration award. The query relates to the application of the MSMED Act in an arbitration context, specifically when a party is challenging an award under the Arbitration Act."
+  },
+  {
+    "Query": "A small-scale service provider is seeking to enforce an arbitral award against a large service provider. The small-scale service provider claims that the MSMED Act applies and that the large service provider should deposit 75% of the award amount. The large service provider argues that the arbitration was conducted under the Arbitration Act. Can the court compel the large service provider to deposit the amount?",
+    "Legal Principles": "The applicability of Section 19 of the MSMED Act to arbitral awards. The interpretation of the scope of Section 19 of the MSMED Act and its relationship to arbitral proceedings. The interplay between the MSMED Act and the Arbitration Act.",
+    "Relevant Sections": "Section 19 of the Micro, Small and Medium Enterprises Development Act, 2006 (MSMED Act). Section 34 of the Arbitration and Conciliation Act, 1996 (Arbitration Act).",
+    "Context": "Jurisdiction: India. Case Type: Appeal from Order in a commercial case involving an arbitration award. The query relates to the application of the MSMED Act in a service industry case involving an arbitration award."
+  },
+  {
+    "Query": "A small-scale farmer is challenging an arbitral award against them. The other party is a large agricultural corporation. The farmer argues that the corporation should be compelled to deposit 75% of the award amount under the MSMED Act. The corporation claims that the arbitration was conducted under the Arbitration Act. Can the court compel the corporation to deposit the amount?",
+    "Legal Principles": "Applicability of Section 19 of the MSMED Act to arbitral awards. The interpretation of the scope of Section 19 of the MSMED Act and its relationship to arbitral proceedings.",
+    "Relevant Sections": "Section 19 of the Micro, Small and Medium Enterprises Development Act, 2006 (MSMED Act). Section 34 of the Arbitration and Conciliation Act, 1996 (Arbitration Act).",
+    "Context": "Jurisdiction: India. Case Type: Appeal from Order in a commercial case involving an arbitration award. The query relates to the application of the MSMED Act to an agricultural case involving an arbitration award."
+  },
+  {
+    "Query": "A small-scale technology company is seeking to enforce an arbitral award against a large technology company. The small-scale company argues that the MSMED Act applies and that the large company should deposit 75% of the award amount. The large company argues that the arbitration was conducted under the Arbitration Act. Can the court compel the large technology company to deposit the amount?",
+    "Legal Principles": "The applicability of Section 19 of the MSMED Act to arbitral awards. The interpretation of the scope of Section 19 of the MSMED Act and its relationship to arbitral proceedings. The interplay between the MSMED Act and the Arbitration Act.",
+    "Relevant Sections": "Section 19 of the Micro, Small and Medium Enterprises Development Act, 2006 (MSMED Act). Section 34 of the Arbitration and Conciliation Act, 1996 (Arbitration Act).",
+    "Context": "Jurisdiction: India. Case Type: Appeal from Order in a commercial case involving an arbitration award. The query relates to the application of the MSMED Act in a technology sector case involving an arbitration award."
+  }
+]
+```

@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A judgment debtor is appealing an order requiring him to show cause why he should not be committed to civil prison for failing to pay a foreign judgment. He argues that the executing court prematurely found him capable of paying the debt and that he was not given proper opportunity to defend himself before the notice was issued.  The judgment debtor also argues that a pending application challenging the court's jurisdiction should have been decided before the show cause notice was issued. ",
+    "Legal Principles": "Order XXI Rule 37 of the Code of Civil Procedure, 1908,  Order XXI Rule 40 of the Code of Civil Procedure, 1908,  Section 44A of the Code of Civil Procedure, 1908, Section 51 of the Code of Civil Procedure, 1908",
+    "Relevant Sections": "37. Discretionary power to permit judgment-debtor to show cause against detention in prison--(1) Notwithstanding anything in these rules, where an application is for the execution of a decree for the payment of money by the arrest and detention in the civil prison of a judgment-debtor who is liable to be arrested in pursuance of the application, the Court shall, instead of issuing a warrant for his arrest, issue a notice calling upon him to appear before the Court on a day to be specified in the notice and show cause why he should not be committed to the civil prison:\n\nProvided that such notice shall not be necessary if the Court is satisfied, by affidavit, or otherwise that, with the object or effect of delaying the execution of the decree, the judgment-debtor is likely to abscond or leave the local limits of the jurisdiction of the Court.\n\n(2) Where appearance is not made in obedience to the notice, the Court shall, if the decree- holder so requires, issue a warrant for the arrest of the judgment-debtor.\n\n40. Proceedings on appearance of judgment-debtor in obedience to notice or after arrest--(1) When a judgment-debtor appears before the Court in obedience to a notice issued under rule 37, or is brought before the Court after being arrested in execution of a decree for the payment of money, the Court shall proceed to hear the decree-holder and take all such evidence as may be produced by him in support of his application for execution and shall then give the judgment-debtor an opportunity of showing cause why he should not be committed to the civil prison.\n\n(2) Pending the conclusion of the inquiry under sub-rule (1) the Court may, in its discretion, order the judgment-debtor to be detained in the custody of an officer of the Court or release him on his furnishing security to the satisfaction of the Court for his appearance when required.\n\n(3) Upon the conclusion of the inquiry under sub- rule (1) the Court may, subject to the provisions of section 51 and to the other provisions of the Code, make an order for the detention of the judgment-debtor in the civil prison and shall in that event cause him to be arrested if he is not already under arrest:\n\nProvided that in order to give the judgment- debtor an opportunity of satisfying the decree, the Court may, before making the order of detention, leave the judgment-debtor in the custody of an officer of the Court for a specified period not exceeding fifteen days or release him on his furnishing security to the satisfaction of the Court for his appearance at the expiration of the specified period if the decree be not sooner satisfied.\n\n(4) A judgment-debtor released under this rule may be re-arrested.\n\n(5) When the Court does not make an order of detention under sub-rule (3), it shall disallow the application and, if the judgment-debtor is under arrest, direct his release.",
+    "Context": "The case involves a petition filed by a judgment debtor in the Gujarat High Court challenging an order requiring him to show cause why he should not be committed to civil prison. The case involved a foreign judgment rendered in the UK, which the judgment debtor sought to have executed in India under Section 44A of the Code of Civil Procedure."
+  },
+  {
+    "Query": "A company is seeking to enforce a foreign judgment against a former director who provided a personal guarantee. The director argues that the Indian court lacks jurisdiction to execute the foreign judgment. The company claims that the foreign judgment is valid and enforceable under Section 44A of the Code of Civil Procedure.",
+    "Legal Principles": "Section 44A of the Code of Civil Procedure, 1908,  Principles of international comity and enforcement of foreign judgments, Personal jurisdiction and forum non conveniens",
+    "Relevant Sections": "44A. (1) Where a decree has been passed by a Court in any reciprocating territory and is sought to be executed in India, the Court in India shall, subject to the provisions of this section, proceed to execute such decree in the same manner as if such decree had been passed by itself and may, notwithstanding anything contained in this Code or any other law for the time being in force, in its discretion, order such execution, either unconditionally or upon such terms and conditions, if any, as it thinks fit: Provided that, where the decree is sought to be executed against any person who has not appeared in the suit in the reciprocating territory and no notice or process of the Court of that territory has been served on him in that territory, the Court in India, before ordering execution, shall satisfy itself that the provisions of this section have been complied with in respect of service of notice or process on the person against whom the execution is sought: Provided further that, where the decree is sought to be executed against any person residing in India and the decree has been passed in his absence, the Court in India shall, before ordering execution, satisfy itself that he has had due and sufficient opportunity to defend the suit in the reciprocating territory.",
+    "Context": "The case involves a company seeking to enforce a foreign judgment against a former director in India. The case involves the interpretation and application of Section 44A of the Code of Civil Procedure, which deals with the execution of foreign judgments in India."
+  },
+  {
+    "Query": "A plaintiff is seeking to recover damages from a defendant for breach of contract. The defendant argues that the plaintiff failed to mitigate its damages and that the court should reduce the amount of damages awarded. The plaintiff argues that it took reasonable steps to mitigate its damages.",
+    "Legal Principles": "Duty to mitigate damages, principles of contract law,  remedies for breach of contract,  calculation of damages",
+    "Relevant Sections": "Indian Contract Act, 1872 (Sections 73, 74)",
+    "Context": "The case involves a claim for breach of contract in India. The case involves the application of the principle of mitigation of damages, a legal concept that requires the injured party to take reasonable steps to minimize their losses."
+  },
+  {
+    "Query": "A defendant is arguing that the plaintiff's claim is barred by the principle of res judicata. The plaintiff argues that the previous judgment was on a different cause of action. The court must determine whether the current claim is barred by the previous judgment.",
+    "Legal Principles": "Res judicata, principles of civil procedure,  cause of action,  estoppel by judgment",
+    "Relevant Sections": "Section 11 of the Code of Civil Procedure, 1908",
+    "Context": "The case involves a plaintiff's attempt to sue a defendant for a second time on a similar claim. The case involves the application of the doctrine of res judicata, which bars parties from litigating the same cause of action more than once."
+  },
+  {
+    "Query": "A landlord is seeking to evict a tenant for non-payment of rent. The tenant argues that the landlord failed to provide adequate notice of the rent increase. The court must determine whether the landlord complied with the legal requirements for rent increases.",
+    "Legal Principles": "Landlord-tenant law,  lease agreements,  rent control laws,  notice requirements",
+    "Relevant Sections": "The Transfer of Property Act, 1882 (Sections 106, 108),  The Rent Control Act (applicable to the specific jurisdiction)",
+    "Context": "The case involves a dispute between a landlord and a tenant in India. The case involves the application of landlord-tenant law and rent control regulations to determine whether a valid notice for rent increase was provided."
+  },
+  {
+    "Query": "A company is seeking to recover unpaid taxes from a taxpayer. The taxpayer argues that the tax assessment was incorrect and that the company failed to follow proper procedures. The court must determine whether the tax assessment was valid and whether the company followed proper procedures.",
+    "Legal Principles": "Tax law,  tax assessment,  tax appeals,  administrative law",
+    "Relevant Sections": "The Income Tax Act, 1961,  The Central Excise Act, 1944,  The Goods and Services Tax Act, 2017 (as applicable)",
+    "Context": "The case involves a dispute between a taxpayer and a tax authority in India. The case involves the application of tax law and administrative law principles to determine the validity of a tax assessment."
+  },
+  {
+    "Query": "A plaintiff is suing a defendant for defamation. The defendant argues that the statements made were true and that the plaintiff is a public figure, making it more difficult to prove defamation. The court must determine whether the statements were defamatory and whether the plaintiff is a public figure.",
+    "Legal Principles": "Law of defamation,  truth as a defense,  public figure defense,  freedom of speech",
+    "Relevant Sections": "The Indian Penal Code, 1860 (Sections 499, 500),  The Information Technology Act, 2000 (as applicable)",
+    "Context": "The case involves a defamation lawsuit in India. The case involves the application of defamation law principles to determine whether the statements made were defamatory and whether the defenses raised by the defendant are valid."
+  },
+  {
+    "Query": "A company is seeking to enforce a contract against a party who claims they were not properly authorized to enter into the contract. The court must determine whether the party had the authority to bind the company to the contract.",
+    "Legal Principles": "Contract law,  agency law,  corporate law,  authority of agents,  ratification",
+    "Relevant Sections": "The Indian Contract Act, 1872 (Sections 182, 185, 187),  The Companies Act, 2013",
+    "Context": "The case involves a contract dispute in India. The case involves the application of agency law and contract law principles to determine whether a party had the authority to bind a company to a contract."
+  },
+  {
+    "Query": "A plaintiff is seeking a restraining order against a defendant who is harassing them. The defendant argues that the plaintiff is exaggerating the severity of the harassment. The court must determine whether the harassment meets the legal definition of harassment and whether a restraining order is warranted.",
+    "Legal Principles": "Domestic violence law,  harassment,  restraining orders,  legal definition of harassment",
+    "Relevant Sections": "The Protection of Women from Domestic Violence Act, 2005,  The Indian Penal Code, 1860 (Sections 354, 509),  The Criminal Procedure Code, 1973",
+    "Context": "The case involves a request for a restraining order in India. The case involves the application of domestic violence law and harassment laws to determine whether the harassment is severe enough to warrant a restraining order."
+  },
+  {
+    "Query": "A company is seeking to register a trademark for its product. A competitor argues that the trademark is too similar to their existing trademark and will cause confusion among consumers. The court must determine whether the proposed trademark is confusingly similar to the existing trademark.",
+    "Legal Principles": "Trademark law,  trademark infringement,  confusion of source,  likelihood of confusion",
+    "Relevant Sections": "The Trade Marks Act, 1999",
+    "Context": "The case involves a trademark dispute in India. The case involves the application of trademark law principles to determine whether a proposed trademark is confusingly similar to an existing trademark."
+  }
+]
+```

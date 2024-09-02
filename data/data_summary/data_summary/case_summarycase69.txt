@@ -1,0 +1,115 @@
+## 1. Case Title
+
+* **Case Name:** Essar Bulk Terminal Limited vs. ArcelorMittal Nippon Steel India Limited 
+* **Court:** Gujarat High Court
+* **Date of Judgment:** 3rd February 2022
+* **Citation:**  C/FA/3040/2021
+
+## 2. Background and Context
+
+* **Brief Overview:** This case arose from a dispute between Essar Bulk Terminal Limited (EBTL) and ArcelorMittal Nippon Steel India Limited (AMNS) over contractual obligations related to cargo handling charges at a deep-water jetty at Hazira Port (Surat). AMNS, which had acquired Essar Steel India Limited (ESIL), the original owner of the steel plant and captive jetty, refused to pay the agreed-upon "Dollar Tariff" for cargo handling services provided by EBTL, arguing it was onerous. EBTL, in turn, reduced the terminal draft, citing non-payment, and AMNS initiated arbitration proceedings.  Both parties approached the Commercial Court at Surat for interim relief under Section 9 of the Arbitration and Conciliation Act, 1996.
+* **Key Issues:**
+    * Whether EBTL was obligated to maintain a channel depth of 10 meters at all times, as AMNS claimed.
+    * Whether the Commercial Court could enforce the "Dollar Tariff" as an interim measure, despite AMNS's objection to the terms of the Third and Fourth Amendment Agreements.
+    * Whether the USD exchange rate for the "Dollar Tariff" should be calculated using the rate prevailing on 30th April 2013 (as per the contract) or on 30th December 2020 (when EBTL drew its first tranche of dollar loans).
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * Arbitration and Conciliation Act, 1996 (Sections 9, 11, 16, 17, 34, 36, 37)
+    * Indian Ports Act, 1908 (Sections 3(4), 4(1)(a), 5, 6(1)(a), 6(1)(b))
+    * Gujarat Maritime Board Act, 1981 (Sections 2(r), 2(o), 2(s))
+    * Specific Relief Act, 1963 (Sections 14(1)(b), 39)
+    * Companies Act, 2013 (Sections 230-232)
+* **Precedents Cited:**
+    * Union of India vs. Kishorilal Gupta, AIR 1959 SC 1362
+    * Nabha Power Ltd. (NPL) vs. Punjab State Power Corporation and another, 2018 11 SCC 508
+    * CRSC Research and Design Institute Group Co. Ltd. vs. Dedicated Freight Corridor Corporation of India Limited and others, 2020 SCC Online Del 1526
+    * Wander Ltd. and another vs. Antox India P. Ltd., 1990 Supp SCC 727
+    * Adhunik Steels Ltd vs. Orissa Manganese and Minerals (P) Ltd., (2007) 7 SCC 125
+    * Arvind Constructions Ltd vs. Kalinga Mining Corporation, (2007) 6 SCC 798
+    * Firm Ashok Traders vs. Gurmukh Das Saluja, (2004) 3 SCC 155
+    * Olex Facas Pvt Ltd vs. Skoda Export Co. Ltd, 2000 AIR (Del) 161
+    * V.Sekar vs. Akash Housing, 2011 AIR (Mad) 110
+    * ArcelorMittal Nippon Steel India Limited vs. Essar Bulk Terminal Limited : 2021 SCC OnLine SC 718
+    * Amazon.com NV Investment Holdings LLC vs. Future Retail Limited and others, reported in 2021 SCC OnLine SC 557
+    * Films Rover International Ltd. and others vs. Cannon Film Sales Ltd., (1986) 3 All ER 772
+    * Dorab Cawasji Warden vs. Coomi Sorab Warden and others, (1990) 2 SCC 117
+    * Bikash Chandra Deb vs. Vijaya Minerals Pvt Ltd., reported in (2005) 1 CalHN 582
+    * Deccan Asian Infrastructure (Mauritius) Inc. vs. BPL Communications Limited and others, reported in (2005) 3 KarLJ 143
+    * Union of India vs. U.P. State Bridge Corporation Limited, (2015) 2 SCC 52
+    * Kiritkumar Futarmal Jain vs. Valencia Corporation, reported in (2019) 3 GLH 667
+* **Legal Doctrines:**
+    * **Party Autonomy:** The principle of allowing parties to an agreement to determine their own terms and obligations.
+    * **Kompetenz-Kompetenz:** The power of an arbitral tribunal to decide its own jurisdiction.
+    * **Natural Hedge:** A risk mitigation strategy involving investments in assets negatively correlated.
+    * **Balance of Convenience:**  A principle used in granting injunctions, weighing the potential harm to each party if the injunction is granted or refused.
+    * **Ejusdem Generis:** A rule of statutory interpretation where a general term following a specific term should be interpreted as being similar to the specific term.
+
+## 4. Arguments Presented
+
+* **EBTL's Argument:**
+    * EBTL argued that it was only obligated to maintain a minimum draft of 10 meters at the terminal and a minimum depth of 10 meters below chart datum in the channel, not a constant 10-meter depth in the channel. 
+    * They claimed that deepening the channel to 12 meters below chart datum required significant cost and effort and that AMNS had refused to pay the agreed-upon additional cargo handling charges despite the increased depth.
+    * EBTL argued that AMNS should have been directed to pay the "Dollar Tariff" at the base exchange rate of USD 1 = INR 54.2190, as agreed in the Third Amendment Agreement, and not at the rate prevailing on 30th December 2020.
+* **AMNS's Argument:**
+    * AMNS argued that EBTL was obligated to maintain a channel depth of 10 meters at all times to ensure the safe berthing of vessels, including cape-sized and mini cape-sized vessels.
+    * They claimed that EBTL's failure to maintain this depth would result in costly delays and disruption to their operations.
+    * AMNS argued that the Third and Fourth Amendment Agreements were unenforceable and onerous, and therefore, they were not obligated to pay the "Dollar Tariff".
+    * They argued that if the "Dollar Tariff" were to be enforced, the USD exchange rate should be based on 30th December 2020, the date of EBTL's first tranche of dollar loans, to ensure a "natural hedge" and prevent windfall profits for EBTL.
+
+## 5. Court's Analysis and Reasoning
+
+* **Key Findings:**
+    * The court acknowledged that the arbitral tribunal, once constituted, had the primary jurisdiction to decide the substantive dispute.
+    * The court recognized the significance of the "natural hedge" concept in the Third Amendment Agreement and the need to prevent windfall profits.
+    * The court accepted that AMNS was likely to suffer financial loss if forced to pay the "Dollar Tariff" at the earlier exchange rate, but argued that this loss was not irreparable and could be addressed in the arbitration proceedings.
+    * The court found that EBTL had not demonstrated an obligation to maintain a channel depth of 10 meters at all times, particularly as they had previously increased the depth to 12 meters.
+* **Interpretation of Law:**
+    * The court interpreted Section 9 of the Arbitration Act as empowering the court to grant interim measures only to preserve the subject matter of arbitration and not to adjudicate the substantive dispute.
+    * The court interpreted the contract as a whole, considering the specific provisions of the CHA, SLA, and NSPC Certificate, along with the recitals and amendments.
+* **Application of Law:**
+    * The court applied the "balance of convenience" principle in considering the potential harm to both parties if interim relief was granted or denied.
+    * The court declined to grant a mandatory injunction to EBTL to maintain a channel depth of 10 meters at all times, finding that this would impose an undue burden on EBTL and that the matter should be resolved in the arbitration proceedings.
+    * The court allowed the "Dollar Tariff" to be enforced, but directed that the USD exchange rate be calculated as on 30th December 2020, reasoning that this would mitigate the risk of windfall profits for EBTL and align with the "natural hedge" intent of the amendment agreements.
+
+## 6. Judgment
+
+* **Final Decision:**
+    * First Appeal No. 3040 of 2021: Partly allowed. The order directing EBTL to maintain a 10-meter channel depth at all times was quashed and set aside.
+    * The other three appeals (First Appeal Nos. 3055, 3506, and 3507 of 2021) were dismissed.
+* **Relief Granted:**
+    * The Commercial Court's order was quashed in part, with the direction to maintain a 10-meter channel depth at all times being removed.
+* **Orders:**
+    * The parties were directed to proceed with the arbitration process to resolve the substantive dispute regarding the enforceability of the Third and Fourth Amendment Agreements and the appropriate USD exchange rate for the "Dollar Tariff".
+
+## 7. Implications
+
+* **Impact on Law:**
+    * This case reaffirms the limited scope of the court's power under Section 9 of the Arbitration Act in granting interim relief.
+    * The judgment emphasizes that courts should exercise restraint in enforcing contractual terms as interim measures, particularly when the substantive dispute is pending before an arbitral tribunal.
+* **Future Relevance:**
+    * The case provides guidance on the interpretation of "natural hedge" clauses in commercial agreements and the application of the "balance of convenience" principle in granting interim injunctions in arbitration cases.
+* **Broader Context:**
+    * The case highlights the increasing use of arbitration as a means of dispute resolution in commercial contracts and the importance of party autonomy in resolving disputes.
+
+## 8. Summary Points
+
+* The court acknowledged the arbitral tribunal's primary jurisdiction in resolving the substantive dispute.
+* The court recognized the "natural hedge" concept and its intent to prevent windfall profits.
+* The court declined to impose a mandatory injunction requiring EBTL to maintain a 10-meter channel depth at all times, considering the balance of convenience.
+* The court allowed the "Dollar Tariff" to be enforced, but determined the USD exchange rate to be based on 30th December 2020 to mitigate potential windfall profits.
+
+## 9. References
+
+* **Citations:**
+    * Arbitration and Conciliation Act, 1996
+    * Indian Ports Act, 1908
+    * Gujarat Maritime Board Act, 1981
+    * Specific Relief Act, 1963
+    * Companies Act, 2013
+    * All case names and citations listed under "Precedents Cited"
+* **Further Reading:**
+    * **Articles on the Arbitration and Conciliation Act, 1996**
+    * **Case law on the "natural hedge" concept in commercial agreements**
+    * **Legal literature on the "balance of convenience" principle in injunctions** 

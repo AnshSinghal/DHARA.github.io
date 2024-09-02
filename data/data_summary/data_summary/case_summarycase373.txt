@@ -1,0 +1,89 @@
+## Case Title
+
+* **Case Name:** Prakash Corporates vs. Dee Vee Projects Limited
+* **Court:** Chattisgarh High Court
+* **Date of Judgment:** 9th July, 2021
+* **Citation:** W.P.(227) No.312 of 2021 
+
+## Background and Context
+
+* **Brief Overview:** Prakash Corporates (Petitioner) challenged an order by the Commercial Court of Raipur, Chhattisgarh, closing the opportunity for them to file a written statement in a civil suit filed by Dee Vee Projects Limited (Respondent). The petitioner argued that the court wrongly applied the provisions of the Commercial Courts Act, 2015, and that the lockdown period due to the COVID-19 pandemic should have been excluded while calculating the time limit for filing the written statement.
+* **Key Issues:**
+    * Whether the impugned order was appealable under the Commercial Courts Act, 2015.
+    * Whether the petitioner was granted sufficient time to file the written statement.
+    * Whether the Supreme Court's order in the Suo-moto Writ (Civil) No. 03 of 2020 regarding extension of limitation was applicable in this case.
+
+## Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * Article 227 of the Constitution of India
+    * Commercial Courts Act, 2015
+    * Order VIII Rule 1 of the Code of Civil Procedure (CPC)
+    * Order 43 of the CPC
+    * Section 13(1)(A) of the Commercial Courts Act, 2015
+    * Section 16 of the Commercial Courts Act, 2015
+    * Section 37 of the Arbitration and Conciliation Act, 1996
+* **Precedents Cited:**
+    * S.S. Group Pvt. Ltd. Vs. Aaditiya J. Garg and Anr., 2020 SCC Online SC 1050
+    * Kailash Vs. Nanhku & Ors., (2005) 4 SCC 480
+    * S.C.G. Contracts (India) Private Limited Vs. K.S. Chamankar Infrastructure Private Limited & Ors., (2019) 12 SCC 210
+    * Shagufta Ahmed & Ors. Vs. Upper Assam Polywood Products Private Limited & Ors., (2021) 2 SCC 317
+    * New India Assurance Company Limited Vs. Hilli Multipurpose Cold Storage Private Limited, (2020) 5 SCC 757
+* **Legal Doctrines:**
+    * Limitation period
+    * Condonation of delay
+    * Mandatory provisions in law
+    * Interpretation of statutes
+
+## Arguments Presented
+
+* **Plaintiff’s Argument (Respondent):**
+    * The petition was not maintainable as the impugned order was appealable under the Commercial Courts Act, 2015.
+    * The petitioner was granted sufficient time to file the written statement.
+    * The Supreme Court's order in the Suo-moto Writ (Civil) No. 03 of 2020 was not applicable to the case as it only extended the limitation period and did not condone delays.
+* **Defendant’s Argument (Petitioner):**
+    * The order was not appealable under the Commercial Courts Act, 2015, making the petition under Article 227 of the Constitution maintainable.
+    * The petitioner was not granted sufficient time due to the lockdown and the medical grounds.
+    * The Supreme Court's order in the Suo-moto Writ (Civil) No. 03 of 2020 was applicable and should have been considered in calculating the time limit for filing the written statement.
+
+## Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The court found that the impugned order was not appealable under the Commercial Courts Act, 2015, as the order closing the opportunity to file a written statement was not specifically enumerated in Order 43 of the CPC.
+    * The court relied on the Supreme Court's judgment in S.C.G. Contracts (India) Private Limited (Supra), which held that the right to file a written statement stands forfeited after the prescribed time period and any extension allowed under the law.
+    * The court clarified that the Supreme Court's order in the Suo-moto Writ (Civil) No. 03 of 2020 only extended the limitation period and did not condone delays.
+* **Interpretation of Law:**
+    * The court interpreted the relevant provisions of the Commercial Courts Act, 2015, and the CPC, emphasizing the mandatory nature of the time limits for filing a written statement.
+    * The court also carefully considered the scope of the Supreme Court's order in the Suo-moto Writ (Civil) No. 03 of 2020.
+* **Application of Law:**
+    * The court applied the legal principles to the facts of the case, concluding that the petitioner had not filed the written statement within the prescribed time and that the lockdown period did not justify an extension.
+
+## Judgment
+
+* **Final Decision:** The petition was dismissed.
+* **Relief Granted:** No relief was granted to the petitioner.
+* **Orders:** The court affirmed the order of the Commercial Court closing the opportunity to file a written statement.
+
+## Implications
+
+* **Impact on Law:** The judgment reinforces the mandatory nature of time limits for filing written statements under the Commercial Courts Act, 2015, and clarifies the scope of the Supreme Court's order in the Suo-moto Writ (Civil) No. 03 of 2020.
+* **Future Relevance:** This case provides guidance for interpreting and applying the provisions of the Commercial Courts Act, 2015, and the CPC, particularly in relation to the time limits for filing written statements. 
+* **Broader Context:** The judgment highlights the importance of timely compliance with legal procedures and the need for litigants to be vigilant in protecting their rights. 
+
+## Summary Points
+
+* The petition was dismissed as the impugned order was not appealable and the petitioner failed to file the written statement within the prescribed time.
+* The court emphasized the mandatory nature of time limits for filing written statements and the limited scope of the Supreme Court's order on the extension of limitation period during the pandemic. 
+* The case reaffirms the importance of adhering to procedural deadlines and emphasizes the need for litigants to act promptly to protect their interests.
+
+## References
+
+* **Citations:** 
+    * Constitution of India, Article 227
+    * Commercial Courts Act, 2015, Sections 13(1)(A), 16
+    * Code of Civil Procedure (CPC), Orders VIII, 43
+    * Arbitration and Conciliation Act, 1996, Section 37
+    * Suo-moto Writ (Civil) No. 03 of 2020
+* **Further Reading:**
+    * S.C.G. Contracts (India) Private Limited Vs. K.S. Chamankar Infrastructure Private Limited & Ors., (2019) 12 SCC 210
+    * Shagufta Ahmed & Ors. Vs. Upper Assam Polywood Products Private Limited & Ors., (2021) 2 SCC 317

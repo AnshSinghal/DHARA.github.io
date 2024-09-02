@@ -1,0 +1,130 @@
+## 1. Case Title
+
+* **Case Name:** Ikon Associates vs. M/S Gopinath Enterprise Private Limited
+* **Court:** Gujarat High Court
+* **Date of Judgment:** 02/08/2022
+* **Citation:** C/SCA/20148/2021
+
+## 2. Background and Context
+
+* **Brief Overview:** This case involved three separate Special Civil Applications (SCAs) filed by Ikon Associates (defendant/petitioner) challenging an order passed by the Principal Senior Civil Judge, Kalol, in favor of M/S Gopinath Enterprise Private Limited (plaintiff/respondent) in three different suits filed for recovery of dues. The legal and factual issues in all three cases were identical. The core dispute revolved around the territorial jurisdiction of the Commercial Court, Kalol, to adjudicate the suit.
+* **Key Issues:**
+    * Did the Commercial Court, Kalol, have territorial jurisdiction to hear and decide the suits for recovery filed by M/S Gopinath Enterprise Private Limited?
+    * Did the inclusion of a "Subject to Ahmedabad jurisdiction" clause in the invoices raised by the plaintiff automatically confer exclusive jurisdiction on the Ahmedabad Court?
+    * Was the petition under Article 227 of the Constitution of India maintainable considering the availability of an appeal under Section 13 of the Commercial Courts Act, 2015?
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * **Article 227 of the Constitution of India:** Power of High Courts to issue writs and supervise subordinate courts.
+    * **Section 6 of the Commercial Courts Act, 2015:** Jurisdiction of Commercial Courts for commercial disputes.
+    * **Section 20 of the Code of Civil Procedure, 1908 (CPC):** Territorial jurisdiction of Courts in civil suits.
+    * **Order XXXVII of the CPC:** Summary Procedures for Recovery of Money.
+    * **Order XXXVIII, Rule 5 of the CPC:** Attachment Before Judgment.
+    * **Order VII, Rule 11 of the CPC:** Rejection of Plaint.
+    * **Section 13 of the Commercial Courts Act, 2015:** Appeals from decrees of Commercial Courts.
+* **Precedents Cited:**
+    * A.B.C. Laminart Pvt. Ltd. and Another vs. A.P. Ahencies, Salem (1990) 2 SCC 163
+    * Swastik Gases Private Limited vs. Indian Oil Corporation Limited (2013) 9 SCC 32
+    * S. Manuel Raj and Co. vs. J. Manilal and Co. (1962 SCCOnline (Guj.))
+    * Auto Movers vs. Luminous Power Technologies Pvt. Ltd. (2021) SCC Online Del. 4287
+    * State of Gujarat vs. Union of India (SCA No. 737 of 2018)
+    * Om Prakash Srivastava VS. Union of India & Anr. (2006) 6 SCC 207
+    * Economic Transport Organisation vs. United India Insurance Co.Ltd. (1985 SCC Online (Ker) 169)
+    * Maria Munnisa Begum vs. Noore Mohammad Saheb (AIR (1965) AP 231)
+    * North Bengal Das Brothers Zemindary Co Ltd. vs. Surendranath Das (MANY/WB/0307/1955)
+    * Satyapal vs. Slick Auto Accessories Pvt. Ltd. (2014 SCC Online Del)
+    * Soniram Jeetmull vs. R.D. Tata & Co. (1927 SCC Online PC 34)
+    * Bharumal Udhomal vs. Sakhawatmal Veshomal and Ors. (1955 SCC Online (Bom) 64)
+    * State of Punjab vs. A.K.Raha (AIR 1964 Calcutta 418)
+    * R.S.D.V. Finance Co.Pvt. Ltd. vs. Shree Vallabh Glass Works Ltd. (1993) 2 SCC 130
+    * Greentose PVT LTD vs. Gujarat Narmada Valley Fertilizers Co. Ltd. (Second Appeal No. 154 of 2013)
+    * Rajasthan High Court Advocate's Association vs. Union of India and others (2001) 2 SCC 294
+    * Surya Dev Rai vs. Ram Chander Rai And Others (2003)6 SCC 675
+    * Shalini Shyam Shetty And Another v. Rajendra Shankar Patil (2010) 8 SCC 329
+    * ONGC vs Modern Construction Company (1997 Law Suit (Gujarat) 123)
+* **Legal Doctrines:**
+    * **Territorial Jurisdiction:** Determination of the appropriate court based on the residence of the defendant or where the cause of action arose.
+    * **Ouster Clause:** A contractual provision that attempts to exclude the jurisdiction of certain courts.
+    * **Maxim expressio unius est exclusio alterius:** The expression of one thing is the exclusion of another.
+    * **Debt Seeking Creditor Principle:**  The debtor is obliged to seek the creditor for payment when no specific place of payment is mentioned in the contract.
+
+## 4. Arguments Presented
+
+* **Plaintiff’s Argument:**
+    * The plaintiff claimed that the Commercial Court, Kalol, had jurisdiction to hear the suit because the defendant had approached the plaintiff for procuring plastic material and the plaintiff's registered office and factory were both located within the jurisdiction of the Kalol Court. 
+    * The plaintiff asserted that purchase orders were received and payments were made within the jurisdiction of the Kalol Court.
+    * The plaintiff contended that the "Subject to Ahmedabad jurisdiction" clause in the invoices was inadvertently printed due to an old stationary practice, and it was not an agreed term of the contract.
+    * The plaintiff further argued that the defendant had not objected to the territorial jurisdiction during the initial stages of the suit and had only raised this objection after the Kalol Court itself questioned the jurisdiction clause.
+* **Defendant’s Argument:**
+    * The defendant argued that the Commercial Court, Kalol, did not have territorial jurisdiction as the defendant was registered and located in Hyderabad, and the agreement for supply of goods was accepted and the purchase orders were issued from Hyderabad.
+    * The defendant emphasized that the "Subject to Ahmedabad jurisdiction" clause in the invoices, along with the payment being made through RTGS to the bank at Ahmedabad, constituted an agreement between the parties conferring exclusive jurisdiction on the Ahmedabad Court.
+    * The defendant further contended that the plaintiff had admitted to the Ahmedabad Court having jurisdiction through its own actions, such as choosing Ahmedabad in the invoice and accepting payments made in Ahmedabad.
+    * The defendant also argued that the plaintiff had failed to demonstrate any cause of action arising within the jurisdiction of the Kalol Court, as the products were delivered in different districts of Telangana.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The court found that the plaintiff had its registered office and factory within the jurisdiction of the Kalol Court, and all transactions between the parties had taken place within this jurisdiction.
+    * The court determined that the inclusion of the "Subject to Ahmedabad jurisdiction" clause in the invoices, while considered by the defendant to be a jurisdiction agreement, was a unilateral statement by the plaintiff and not an agreed term of the contract.
+    * The court emphasized that the defendant had not raised any objection to the territorial jurisdiction of the Kalol Court until the court itself raised the issue, implying an implicit acceptance of the Kalol Court's jurisdiction.
+* **Interpretation of Law:**
+    * The court interpreted Section 20 of the CPC, which dictates the territorial jurisdiction of Courts, to mean that the suit could be instituted where the defendant resided or the cause of action arose. 
+    * The court referenced several precedents dealing with the interpretation of "ouster clauses," confirming that such clauses must be clear, unambiguous, and agreed upon by both parties to be valid.
+    * The court applied the maxim "expressio unius est exclusio alterius" in this context, meaning that a specific mention of one jurisdiction implies the exclusion of all others, but only if it was a clear intention of the parties. 
+* **Application of Law:**
+    * The court applied the legal principles to the facts of the case, finding that the defendant had not sufficiently proven that the parties had a clear agreement to confer exclusive jurisdiction on the Ahmedabad Court through the "Subject to Ahmedabad jurisdiction" clause.
+    * The court recognized that the defendant had made payments in Ahmedabad, but held that this action alone was not enough to conclude that the defendant had consented to exclusive jurisdiction in Ahmedabad. 
+    * The court determined that the Kalol Court had jurisdiction based on the plaintiff's place of business and the fact that the agreement for the supply of goods was accepted within the Kalol Court's jurisdiction.
+
+## 6. Judgment
+
+* **Final Decision:** The Gujarat High Court dismissed the petitions filed by Ikon Associates, upholding the order of the Principal Senior Civil Judge, Kalol.
+* **Relief Granted:** The court ruled in favor of M/S Gopinath Enterprise Private Limited, allowing the Kalol Court to proceed with the suits for recovery.
+* **Orders:** The court directed Ikon Associates not to obstruct the proceedings in the Kalol Court.
+
+## 7. Implications
+
+* **Impact on Law:** This case reinforces the legal principle that an ouster clause must be clear, unambiguous, and agreed upon by both parties to be legally valid. It also highlights the need for parties to clearly object to territorial jurisdiction early in the proceedings to avoid implicit acceptance of a court's jurisdiction. 
+* **Future Relevance:** This judgment serves as a useful precedent for future cases dealing with territorial jurisdiction and the interpretation of ouster clauses in contracts.
+* **Broader Context:** The case underscores the importance of precise language in commercial agreements and the potential consequences of failing to explicitly address jurisdictional clauses.
+
+## 8. Summary Points
+
+* The Gujarat High Court upheld the Kalol Court's jurisdiction in a recovery suit filed by M/S Gopinath Enterprise Private Limited against Ikon Associates.
+* The court determined that the "Subject to Ahmedabad jurisdiction" clause in the invoices was not a valid ouster clause as it was a unilateral statement by the plaintiff and not an agreed term of the contract.
+* The court found that the defendant's failure to object to the Kalol Court's jurisdiction initially constituted an implicit acceptance of its jurisdiction.
+
+## 9. References
+
+* **Article 227 of the Constitution of India**
+* **Section 6 of the Commercial Courts Act, 2015**
+* **Section 20 of the Code of Civil Procedure, 1908 (CPC)**
+* **Order XXXVII of the CPC**
+* **Order XXXVIII, Rule 5 of the CPC**
+* **Order VII, Rule 11 of the CPC**
+* **Section 13 of the Commercial Courts Act, 2015**
+* **A.B.C. Laminart Pvt. Ltd. and Another vs. A.P. Ahencies, Salem (1990) 2 SCC 163**
+* **Swastik Gases Private Limited vs. Indian Oil Corporation Limited (2013) 9 SCC 32**
+* **S. Manuel Raj and Co. vs. J. Manilal and Co. (1962 SCCOnline (Guj.))**
+* **Auto Movers vs. Luminous Power Technologies Pvt. Ltd. (2021) SCC Online Del. 4287**
+* **State of Gujarat vs. Union of India (SCA No. 737 of 2018)**
+* **Om Prakash Srivastava VS. Union of India & Anr. (2006) 6 SCC 207**
+* **Economic Transport Organisation vs. United India Insurance Co.Ltd. (1985 SCC Online (Ker) 169)**
+* **Maria Munnisa Begum vs. Noore Mohammad Saheb (AIR (1965) AP 231)**
+* **North Bengal Das Brothers Zemindary Co Ltd. vs. Surendranath Das (MANY/WB/0307/1955)**
+* **Satyapal vs. Slick Auto Accessories Pvt. Ltd. (2014 SCC Online Del)**
+* **Soniram Jeetmull vs. R.D. Tata & Co. (1927 SCC Online PC 34)**
+* **Bharumal Udhomal vs. Sakhawatmal Veshomal and Ors. (1955 SCC Online (Bom) 64)**
+* **State of Punjab vs. A.K.Raha (AIR 1964 Calcutta 418)**
+* **R.S.D.V. Finance Co.Pvt. Ltd. vs. Shree Vallabh Glass Works Ltd. (1993) 2 SCC 130**
+* **Greentose PVT LTD vs. Gujarat Narmada Valley Fertilizers Co. Ltd. (Second Appeal No. 154 of 2013)**
+* **Rajasthan High Court Advocate's Association vs. Union of India and others (2001) 2 SCC 294**
+* **Surya Dev Rai vs. Ram Chander Rai And Others (2003)6 SCC 675**
+* **Shalini Shyam Shetty And Another v. Rajendra Shankar Patil (2010) 8 SCC 329**
+* **ONGC vs Modern Construction Company (1997 Law Suit (Gujarat) 123)**
+
+* **Further Reading:**
+    * "The Law of Torts" by R.K. Bangia
+    * "The Code of Civil Procedure, 1908" by Mulla
+    * "The Commercial Courts Act, 2015" by Avtar Singh 

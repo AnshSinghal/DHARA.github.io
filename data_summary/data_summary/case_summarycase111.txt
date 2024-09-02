@@ -1,0 +1,91 @@
+##  Virender Kumar vs. Rekha Bhayana: A Case of Mishandled Commercial Suit
+
+**1. Case Title**
+
+* **Case Name:** Virender Kumar vs. Rekha Bhayana
+* **Court:** Delhi High Court
+* **Date of Judgment:** 25th August 2022
+* **Citation:** Not available in provided text.
+
+**2. Background and Context**
+
+* **Brief Overview:**  Rekha Bhayana filed a suit against Virender Kumar in a Civil Court (non-commercial). The suit was, in fact, a commercial suit, requiring filing in a designated Commercial Court. Virender Kumar challenged this filing, arguing that the suit should be rejected and returned to Rekha Bhayana for proper filing.
+* **Key Issues:** 
+    * Whether a commercial suit filed as a non-commercial suit should be returned to the plaintiff to be filed in the appropriate commercial court. 
+    * How to interpret Section 15(2) of the Commercial Courts Act, 2015 in cases where a commercial suit is wrongly filed in a Civil Court.
+
+**3. Legal Principles Involved**
+
+* **Relevant Statutes and Provisions:**
+    * The Code of Civil Procedure, 1908 (CPC), specifically:
+        * Order VII Rule 10 (Return of plaint)
+        * Order VII Rule 11 (Rejection of plaint)
+    * The Commercial Courts Act, 2015, specifically:
+        * Section 15(2) (Transfer of pending cases to Commercial Court)
+* **Precedents Cited:**
+    * Ambalal Sarabhai Enterprises Ltd. v. K.S. Infraspace LLP and Anr. (2020) 15 SCC 585
+    * Hari Singh v. M.S. Superhouse Ltd. (2021 SCC OnLine Del 4385)
+* **Legal Doctrines:**
+    * **Article 141 of the Constitution of India:** Declaration of the law by the Supreme Court.
+    * **Principle of "Ipso facto":** Implying that any action taken outside the specified method is automatically invalid.
+
+**4. Arguments Presented**
+
+* **Petitioner's Argument (Virender Kumar):**
+    * The suit filed by Rekha Bhayana was a commercial suit incorrectly filed in a Civil Court. 
+    * Relying on the Supreme Court decision in Ambalal Sarabhai Enterprises, he argued that the plaint should be returned to the respondent for proper filing in a Commercial Court under Order VII Rule 10 of the CPC. 
+    * He claimed that Section 15(2) of the Commercial Courts Act does not permit transferring commercial suits filed in the wrong court as a matter of course.
+* **Respondent's Argument (Rekha Bhayana):**
+    * Rekha Bhayana's Counsel admitted that the suit was a commercial suit, but argued against returning the plaint.
+    * They relied on:
+        * Circulars issued by the Principal District Judge (Rohini) and Pr. DSJ (North-West District) Rohini.
+        * The decision in Hari Singh v. M.S. Superhouse Ltd.
+        * Section 15(2) of the Commercial Courts Act.
+    * They argued that Ambalal Sarabhai Enterprises was distinguishable as it involved a non-commercial suit filed in a Commercial Court, not the reverse.
+
+**5. Court’s Analysis and Reasoning**
+
+* **Key Findings:**
+    * The Court disagreed with the Commercial Court's reliance on administrative circulars as they cannot override the CPC or Supreme Court decisions.
+    * The court held that the principle established in Ambalal Sarabhai Enterprises applies equally to cases where a commercial suit is wrongly filed in a Civil Court.
+    * The court interpreted Section 15(2) of the Commercial Courts Act as applying only to commercial suits pending at the time the Act came into force, not future cases.
+    * The Court recognized that commercial suits have a distinct protocol and format, requiring greater rigour than non-commercial suits. 
+* **Interpretation of Law:**
+    * The Court interpreted Order VII Rule 10 of the CPC as clearly requiring a plaint filed in the wrong court to be returned to the plaintiff.
+    * The court emphasized that allowing commercial suits filed in Civil Courts to be transferred to Commercial Courts would be counterproductive and inconsistent with the specific provisions and procedures established for commercial suits.
+    * The Court rejected the distinction proposed by the Commercial Court between Ambalal Sarabhai Enterprises and the current case, finding the principle of returning the plaint applicable in both situations.
+* **Application of Law:**
+    * The court applied the legal principles established in Ambalal Sarabhai Enterprises and Order VII Rule 10 of the CPC to the specific case before it.
+    * The Court concluded that the plaint should be returned to Rekha Bhayana to be properly instituted in a Commercial Court, following the correct procedures and format.
+
+**6. Judgment**
+
+* **Final Decision:** The impugned order dated 19th July 2022, passed by the learned Commercial Court in CS DJ 452/2018 (Rekha Bhayana v. Virender Kumar) was quashed and set aside.
+* **Relief Granted:** The plaint was returned to Rekha Bhayana to be filed in the appropriate Commercial Court.
+* **Orders:** The petitioner's petition was allowed, with no order as to costs.
+
+**7. Implications**
+
+* **Impact on Law:** This judgment clarifies the application of Order VII Rule 10 of the CPC in cases involving commercial suits wrongly filed in Civil Courts.
+* **Future Relevance:** This case serves as precedent for similar future cases involving incorrect filing of commercial suits.
+* **Broader Context:** This judgment highlights the importance of following proper procedural requirements in commercial litigation and clarifies the scope of Section 15(2) of the Commercial Courts Act.
+
+**8. Summary Points**
+
+* A commercial suit filed in a Civil Court must be returned to the plaintiff to be filed in the appropriate Commercial Court under Order VII Rule 10 of the CPC.
+* Section 15(2) of the Commercial Courts Act does not apply to cases where commercial suits are filed in the wrong court after the Act's implementation.
+* Administrative circulars cannot override provisions of the CPC or Supreme Court decisions.
+* The principle established in Ambalal Sarabhai Enterprises applies equally to cases where a commercial suit is filed in a Civil Court.
+
+**9. References**
+
+* **Citations:**
+    * The Code of Civil Procedure, 1908 (CPC)
+    * The Commercial Courts Act, 2015
+    * Ambalal Sarabhai Enterprises Ltd. v. K.S. Infraspace LLP and Anr. (2020) 15 SCC 585
+    * Hari Singh v. M.S. Superhouse Ltd. (2021 SCC OnLine Del 4385)
+    * Article 141 of the Constitution of India 
+* **Further Reading:**
+    * The Commercial Courts Act, 2015 and its implications for commercial litigation.
+    * Cases dealing with the interpretation of Order VII Rule 10 of the CPC.
+    * Research on the impact of administrative circulars on judicial decisions.

@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A real estate developer is suing a property owner for specific performance of a land sale agreement. The developer claims the owner breached the contract by refusing to sell the land after the developer paid a substantial deposit. The owner argues that the agreement was not binding because it lacked a crucial term about the price. The case is in a state court, and the developer is seeking to transfer the case to a commercial court. Should the case be transferred to a commercial court based on the Commercial Courts Act?",
+    "Legal Principles": "The Commercial Courts Act provides for the transfer of commercial disputes to commercial courts for faster and efficient resolution. The Act defines a commercial dispute as a dispute arising out of commercial transactions, including agreements for sale of immovable property. The Act also specifies the conditions for transferring cases to commercial courts, such as the value of the claim and the nature of the dispute.",
+    "Relevant Sections": "Section 15 of the Commercial Courts Act deals with the transfer of pending cases to commercial courts. It states that all suits relating to a commercial dispute of a Specified Value pending in any civil court in a district where a Commercial Court has been constituted shall be transferred to such Commercial Court. However, the Act also provides for exceptions to the transfer, such as cases where the final judgment has been reserved by the court prior to the constitution of the Commercial Court.",
+    "Context": "Jurisdiction: State court. Case Type: Specific Performance of Agreement of Sale."
+  },
+  {
+    "Query": "A company is suing its former employee for breach of contract. The employee signed a non-compete agreement that prohibited him from working for a competitor for a certain period after leaving the company. The employee started working for a competitor, and the company is seeking an injunction to prevent him from doing so. The case is pending in a district court, and the company is seeking to transfer it to a commercial court. Can the case be transferred to a commercial court based on the Commercial Courts Act?",
+    "Legal Principles": "The Commercial Courts Act applies to commercial disputes, which include disputes arising from employment contracts, including non-compete agreements. The Act allows for the transfer of such cases to commercial courts for faster and more efficient resolution.",
+    "Relevant Sections": "Section 15 of the Commercial Courts Act provides for the transfer of pending cases to commercial courts. The Act defines a commercial dispute as a dispute arising out of commercial transactions, which includes employment contracts.",
+    "Context": "Jurisdiction: District Court. Case Type: Breach of Contract, Injunctive Relief."
+  },
+  {
+    "Query": "A supplier is suing a retailer for non-payment of goods. The retailer claims that the goods delivered were defective and that he is entitled to a refund. The supplier denies the claims and is seeking payment for the goods. The case is in a state court, and the supplier is seeking to transfer it to a commercial court. Should the case be transferred to a commercial court based on the Commercial Courts Act?",
+    "Legal Principles": "The Commercial Courts Act applies to commercial disputes, including disputes arising out of the supply and purchase of goods. The Act allows for the transfer of such cases to commercial courts for faster and more efficient resolution.",
+    "Relevant Sections": "Section 15 of the Commercial Courts Act provides for the transfer of pending cases to commercial courts. The Act defines a commercial dispute as a dispute arising out of commercial transactions, which includes the supply and purchase of goods.",
+    "Context": "Jurisdiction: State Court. Case Type: Breach of Contract, Recovery of Payment."
+  },
+  {
+    "Query": "A company is suing a former distributor for breach of contract. The distributor terminated the distribution agreement without providing proper notice and is now competing with the company. The company is seeking damages for lost profits and is also seeking an injunction to prevent the distributor from competing with it. The case is pending in a district court, and the company is seeking to transfer it to a commercial court. Can the case be transferred to a commercial court based on the Commercial Courts Act?",
+    "Legal Principles": "The Commercial Courts Act applies to commercial disputes, including disputes arising from distribution agreements. The Act allows for the transfer of such cases to commercial courts for faster and more efficient resolution.",
+    "Relevant Sections": "Section 15 of the Commercial Courts Act provides for the transfer of pending cases to commercial courts. The Act defines a commercial dispute as a dispute arising out of commercial transactions, which includes distribution agreements.",
+    "Context": "Jurisdiction: District Court. Case Type: Breach of Contract, Injunctive Relief, Damages."
+  },
+  {
+    "Query": "A construction company is suing a property developer for non-payment of construction services. The developer claims that the construction company did not complete the work according to the contract and that he is not obligated to pay the remaining balance. The construction company denies the claims and is seeking payment for the services. The case is in a state court, and the construction company is seeking to transfer it to a commercial court. Should the case be transferred to a commercial court based on the Commercial Courts Act?",
+    "Legal Principles": "The Commercial Courts Act applies to commercial disputes, including disputes arising from construction contracts. The Act allows for the transfer of such cases to commercial courts for faster and more efficient resolution.",
+    "Relevant Sections": "Section 15 of the Commercial Courts Act provides for the transfer of pending cases to commercial courts. The Act defines a commercial dispute as a dispute arising out of commercial transactions, which includes construction contracts.",
+    "Context": "Jurisdiction: State Court. Case Type: Breach of Contract, Recovery of Payment."
+  },
+  {
+    "Query": "A company is suing a former supplier for breach of contract. The supplier failed to deliver the goods as per the agreed timeline, causing the company significant financial losses. The company is seeking damages for lost profits and is also seeking an injunction to prevent the supplier from supplying goods to competitors. The case is pending in a district court, and the company is seeking to transfer it to a commercial court. Can the case be transferred to a commercial court based on the Commercial Courts Act?",
+    "Legal Principles": "The Commercial Courts Act applies to commercial disputes, including disputes arising from supply contracts. The Act allows for the transfer of such cases to commercial courts for faster and more efficient resolution.",
+    "Relevant Sections": "Section 15 of the Commercial Courts Act provides for the transfer of pending cases to commercial courts. The Act defines a commercial dispute as a dispute arising out of commercial transactions, which includes supply contracts.",
+    "Context": "Jurisdiction: District Court. Case Type: Breach of Contract, Damages, Injunctive Relief."
+  },
+  {
+    "Query": "A franchisee is suing the franchisor for breach of contract. The franchisor terminated the franchise agreement without providing proper notice and without cause. The franchisee is seeking damages for lost profits and is also seeking an injunction to prevent the franchisor from terminating other franchise agreements without cause. The case is pending in a state court, and the franchisee is seeking to transfer it to a commercial court. Should the case be transferred to a commercial court based on the Commercial Courts Act?",
+    "Legal Principles": "The Commercial Courts Act applies to commercial disputes, including disputes arising from franchise agreements. The Act allows for the transfer of such cases to commercial courts for faster and more efficient resolution.",
+    "Relevant Sections": "Section 15 of the Commercial Courts Act provides for the transfer of pending cases to commercial courts. The Act defines a commercial dispute as a dispute arising out of commercial transactions, which includes franchise agreements.",
+    "Context": "Jurisdiction: State Court. Case Type: Breach of Contract, Damages, Injunctive Relief."
+  },
+  {
+    "Query": "A software company is suing a customer for non-payment of software licenses. The customer claims that the software did not meet the agreed specifications and that he is not obligated to pay for it. The software company denies the claims and is seeking payment for the licenses. The case is in a state court, and the software company is seeking to transfer it to a commercial court. Should the case be transferred to a commercial court based on the Commercial Courts Act?",
+    "Legal Principles": "The Commercial Courts Act applies to commercial disputes, including disputes arising from software licensing agreements. The Act allows for the transfer of such cases to commercial courts for faster and more efficient resolution.",
+    "Relevant Sections": "Section 15 of the Commercial Courts Act provides for the transfer of pending cases to commercial courts. The Act defines a commercial dispute as a dispute arising out of commercial transactions, which includes software licensing agreements.",
+    "Context": "Jurisdiction: State Court. Case Type: Breach of Contract, Recovery of Payment."
+  },
+  {
+    "Query": "A company is suing a former partner for breach of a partnership agreement. The partner withdrew from the partnership without providing proper notice and is now competing with the company. The company is seeking damages for lost profits and is also seeking an injunction to prevent the partner from competing with it. The case is pending in a district court, and the company is seeking to transfer it to a commercial court. Can the case be transferred to a commercial court based on the Commercial Courts Act?",
+    "Legal Principles": "The Commercial Courts Act applies to commercial disputes, including disputes arising from partnership agreements. The Act allows for the transfer of such cases to commercial courts for faster and more efficient resolution.",
+    "Relevant Sections": "Section 15 of the Commercial Courts Act provides for the transfer of pending cases to commercial courts. The Act defines a commercial dispute as a dispute arising out of commercial transactions, which includes partnership agreements.",
+    "Context": "Jurisdiction: District Court. Case Type: Breach of Contract, Damages, Injunctive Relief."
+  },
+  {
+    "Query": "A company is suing a former customer for non-payment of services. The customer claims that the services provided were not up to the agreed standard and that he is not obligated to pay for them. The company denies the claims and is seeking payment for the services. The case is in a state court, and the company is seeking to transfer it to a commercial court. Should the case be transferred to a commercial court based on the Commercial Courts Act?",
+    "Legal Principles": "The Commercial Courts Act applies to commercial disputes, including disputes arising from service agreements. The Act allows for the transfer of such cases to commercial courts for faster and more efficient resolution.",
+    "Relevant Sections": "Section 15 of the Commercial Courts Act provides for the transfer of pending cases to commercial courts. The Act defines a commercial dispute as a dispute arising out of commercial transactions, which includes service agreements.",
+    "Context": "Jurisdiction: State Court. Case Type: Breach of Contract, Recovery of Payment."
+  }
+]
+```

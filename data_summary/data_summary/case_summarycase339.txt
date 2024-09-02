@@ -1,0 +1,66 @@
+## 1. Case Title
+
+* **Case Name:** State of Uttarakhand & Others vs. M/s Hillways Construction Company Pvt. Ltd.
+* **Court:** Uttarakhand High Court
+* **Date of Judgment:** 12 December 2023
+* **Citation:** Not provided in the text. 
+
+## 2. Background and Context
+
+* **Brief Overview:** The State of Uttarakhand (Appellant) had previously challenged an arbitral award dated 28/30.5.2018 in a Section 34 application before the District Judge, New Tehri. This application was dismissed as not pressed on 3.7.2019. The State then sought restoration of this application, which was transferred to the Commercial Court, Dehradun after its establishment. The Commercial Court rejected the restoration application on 12.12.2019.  The State challenged this rejection in an appeal, which was disposed of by the Division Bench of the Uttarakhand High Court on 18.2.2020, directing the State to file a fresh application before the Commercial Court, Dehradun.  Following this, the State filed a new Section 34 application before the Commercial Court, which was dismissed on the grounds of delay on 10.2.2021. The present appeal challenges this dismissal order.
+* **Key Issues:** The primary issue is whether the Commercial Court was justified in rejecting the State's Section 34 application based on delay, considering the previous proceedings and the Division Bench's direction to file a fresh application.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * **Arbitration and Conciliation Act, 1996 (the Act):**
+        * **Section 34:** Deals with applications for setting aside an arbitral award.
+        * **Section 34(3):** Specifies the limitation period for challenging an award under Section 34, setting a three-month deadline with a 30-day extension for "sufficient cause."
+* **Precedents Cited:**
+    * **P. Radha Bai v. P. Ashok Kumar, (2019) 13 SCC 445:** This Supreme Court case highlights the mandatory nature of the "but not thereafter" clause in Section 34(3), restricting the court's power to extend the limitation period beyond 30 days.
+    * **BBM Enterprises v. State of West Bengal, (2020) 9 SCC 448:** This case reasserts the need for strict adherence to the 120-day limit in Section 34(3) and upholds the dismissal of a Section 34 petition beyond this period.
+* **Legal Doctrines:**
+    * **Limitation of Actions:** The court examines the application of statutory limitation periods for challenging arbitral awards under Section 34(3).
+    * **Statutory Interpretation:** The court analyzes the language and intent behind the "but not thereafter" clause in Section 34(3) and its implications on the court's discretion in condoning delay.
+
+## 4. Arguments Presented
+
+* **Appellant’s Argument (State of Uttarakhand):** The State likely argued that the delay should be condoned due to the previous proceedings before the District Judge and the Division Bench's directive to file a fresh application. They may have argued that the delay was caused by circumstances beyond their control. 
+* **Respondent’s Argument (M/s Hillways Construction Company Pvt. Ltd.):** The Respondent likely argued that the State had exceeded the statutory limitation period under Section 34(3) and that the previous proceedings did not constitute "sufficient cause" for condoning the delay. They may have also emphasized the binding nature of the "but not thereafter" clause and the precedents set by the Supreme Court.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:** 
+    * The court found that the Commercial Court had considered the time spent by the Appellant in pursuing the remedy before the District Judge and still held that the application was filed beyond the permissible time limit.
+    * The court affirmed the interpretation of Section 34(3) provided in the precedents of Radha Bai v. Ashok Kumar and BBM Enterprises v. State of West Bengal, stressing the mandatory nature of the "but not thereafter" clause. 
+* **Interpretation of Law:**  The court highlighted that Section 34(3) of the Arbitration and Conciliation Act, 1996 sets a clear three-month limitation period for challenging an award, which can only be extended for a further 30 days with sufficient cause. The court underlined the Supreme Court's stance that the "but not thereafter" clause restricts the court's discretion to extend the limitation period beyond these limits.
+* **Application of Law:** The court found that the Division Bench's direction to file a fresh application did not override the statutory limitation period in Section 34(3). It concluded that the Commercial Court was right in dismissing the application based on the delay exceeding the permissible time limit.
+
+## 6. Judgment
+
+* **Final Decision:** The Uttarakhand High Court dismissed the Appeal from Order, upholding the Commercial Court's decision to reject the State's Section 34 application.
+* **Relief Granted:** No relief was granted to the Appellant.
+* **Orders:** The court directed the dismissal of the Appeal from Order.
+
+## 7. Implications
+
+* **Impact on Law:** This judgment reinforces the strict interpretation of Section 34(3) of the Arbitration and Conciliation Act, 1996, emphasizing the need for strict adherence to the 120-day limitation period. It reiterates that courts have limited discretion in condoning delay beyond this period.
+* **Future Relevance:** This case provides a significant precedent for future cases involving challenges to arbitral awards under Section 34. It serves as a strong reminder to parties to adhere to the statutory limitation period and to seek timely extensions for "sufficient cause."
+* **Broader Context:** The judgment highlights the importance of clarity and certainty in procedural matters related to arbitration, ensuring a fair and efficient dispute resolution process. 
+
+## 8. Summary Points
+
+* The Uttarakhand High Court upheld the dismissal of a Section 34 application challenging an arbitral award based on delay.
+* The court confirmed the mandatory nature of the 120-day limit in Section 34(3) of the Arbitration and Conciliation Act, 1996, restricting the court's power to extend the limitation period.
+* The court emphasized the binding nature of the "but not thereafter" clause, even when considering previous proceedings and directions to file fresh applications. 
+
+## 9. References
+
+* **Arbitration and Conciliation Act, 1996:** Section 34(3)
+* **P. Radha Bai v. P. Ashok Kumar, (2019) 13 SCC 445:**
+* **BBM Enterprises v. State of West Bengal, (2020) 9 SCC 448:**
+
+## Further Reading
+
+*  **The Arbitration and Conciliation Act, 1996:** For a comprehensive understanding of the legal framework governing arbitration in India.
+*  **Supreme Court Cases on Limitation:** To explore the various interpretations of limitation provisions in different contexts. 

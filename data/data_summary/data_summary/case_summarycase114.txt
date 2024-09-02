@@ -1,0 +1,102 @@
+## 1. Case Title
+
+• Case Name: M/S. Saptarishi Hotels Pvt. Ltd. And ... vs National Institute Of Tourism And ...
+• Court: Telangana High Court
+• Date of Judgment: 16th July, 2019
+• Citation: Not provided in the text. 
+
+## 2. Background and Context
+
+• Brief Overview: This case involved a dispute between M/S. Saptarishi Hotels Pvt. Ltd. (petitioners) and the National Institute of Tourism and ... (first respondent), a government undertaking, regarding a Build, Operate and Transfer (BOT) agreement for a four-star hotel. The petitioners were awarded the project, but delays in execution led to the first respondent terminating the agreements and taking possession of the property. 
+
+• Key Issues:
+    *  The validity and enforceability of the termination notice issued by the first respondent.
+    * The entitlement of the petitioners to specific performance of the agreements or damages.
+    * The entitlement of the first respondent to recover unpaid lease rentals and annual development premium.
+    * Whether the Commercial Court had the power to grant interim relief beyond suspension of the arbitral award.
+    * The validity of the first respondent's taking over of possession under a panchanama dated 19.12.2018.
+
+## 3. Legal Principles Involved
+
+• Relevant Statutes and Provisions:
+    * Arbitration and Conciliation Act, 1996 (Act of 1996)
+        * Section 34: Application to set aside arbitral award
+        * Section 36: Enforcement of arbitral award, including stay of operation
+        * Section 9: Interim measures of protection
+    * Andhra Pradesh Societies Registration Act, 2001
+    * Code of Civil Procedure, 1908 (5 of 1908)
+
+• Precedents Cited:
+    * STATE OF UTTAR PRADESH V/s. MAHARAJA DHARMANDER SINGH (1989) 2 SCC 505
+    * MEGHMALA V/s. G.NARASIMHA REDDY (2010) 8 SCC 383
+    * SUNDER SINGH V/s. MUNICIPAL CORPORATION OF HYDERABAD 1998 (6) ALD 112 (DB)
+
+• Legal Doctrines:
+    * Judicial review of arbitral awards: Courts can review arbitral awards only on limited grounds as specified in the Act of 1996.
+    * Principles of contract law: The validity of termination of contracts and the entitlement to damages for breach.
+    * Principles of interim relief: Courts have the power to grant interim relief in appropriate cases, but the scope of such relief is subject to specific provisions of the relevant statutes.
+
+## 4. Arguments Presented
+
+• Plaintiff’s Argument (Petitioners):
+    * The termination notice was arbitrary, illegal, and unsustainable in law.
+    * The delays in obtaining building permissions were caused by the first respondent's inaction, not their own fault.
+    * They are entitled to specific performance of the agreements or damages for breach.
+    * They should be allowed to continue in possession of the property pending the disposal of the main petition.
+    * The panchanama dated 19.12.2018 is a self-serving document and cannot be accepted as proof of possession.
+
+• Defendant’s Argument (First Respondent):
+    * The petitioners breached the agreements and the termination notice was validly issued.
+    * They are entitled to recover the unpaid lease rentals and annual development premium.
+    * They took over possession of the property on 19.12.2018 under a panchanama and the petitioners are no longer in possession.
+    * The Commercial Court should not grant any interim relief beyond suspension of the arbitral award.
+
+## 5. Court’s Analysis and Reasoning
+
+• Key Findings:
+    * The arbitral award dated 06.12.2018 was a "nil" award, rejecting both the petitioners' claims and the first respondent's counter-claims.
+    * The Commercial Court dismissed the petitioners' application under Section 36(2) of the Act of 1996 to suspend the operation of the arbitral award and the termination notice.
+    * The court held that the power under Section 36(2) and (3) of the Act of 1996 is limited only to stay of operation of the arbitral award.
+    * The court held that the issue of possession was not raised before the Arbitral Tribunal and therefore cannot be considered in the petition under Section 34 of the Act of 1996.
+
+• Interpretation of Law:
+    * The court interpreted Section 36 of the Act of 1996 to mean that the power to grant interim relief is limited to suspension of the arbitral award. 
+    * The court emphasized that Section 9 of the Act of 1996 provides for seeking interim measures of protection separately, and not through an application under Section 36.
+
+• Application of Law:
+    * The court applied the interpretation of Section 36 to the facts of the case, finding that the petitioners' application for suspension of the termination notice was not covered by the statute's provisions.
+    * The court refused to consider the issue of possession, arguing that it was not part of the arbitral dispute and the panchanama dated 19.12.2018 was an independent post-award development.
+
+## 6. Judgment
+
+• Final Decision: The court dismissed the civil revision petition filed by the petitioners.
+• Relief Granted: No relief was granted to either party.
+• Orders: The court upheld the Commercial Court's order dismissing the petitioners' application to suspend the operation of the arbitral award. 
+
+## 7. Implications
+
+• Impact on Law: The case clarifies the scope of the power to grant interim relief under Section 36(2) and (3) of the Arbitration and Conciliation Act, 1996, confirming that it is limited to suspension of the arbitral award.
+• Future Relevance: The judgment provides guidance for future cases involving applications for interim relief under Section 36 of the Act of 1996, emphasizing the need for separate applications under Section 9 for seeking interim measures of protection.
+• Broader Context: The case highlights the importance of clearly framing legal issues and seeking relief under the appropriate provisions of law. It also reinforces the principle of limited judicial review of arbitral awards.
+
+## 8. Summary Points
+
+• Key Takeaways:
+    * The scope of the power to grant interim relief under Section 36(2) and (3) of the Act of 1996 is limited to suspension of the arbitral award.
+    * Courts cannot grant independent interim relief beyond suspension of the award unless it is specifically authorized by another provision of law, such as Section 9 of the Act of 1996.
+    * The Commercial Court's dismissal of an application under Section 36(2) to suspend both the arbitral award and the termination notice was upheld, as the latter relief was not authorized by the statute.
+    * The court declined to consider the issue of possession, which was not a part of the arbitral dispute and arose after the award.
+
+## 9. References
+
+• Citations:
+    * Arbitration and Conciliation Act, 1996 (Act of 1996)
+    * Andhra Pradesh Societies Registration Act, 2001
+    * Code of Civil Procedure, 1908 (5 of 1908)
+    * STATE OF UTTAR PRADESH V/s. MAHARAJA DHARMANDER SINGH (1989) 2 SCC 505
+    * MEGHMALA V/s. G.NARASIMHA REDDY (2010) 8 SCC 383
+    * SUNDER SINGH V/s. MUNICIPAL CORPORATION OF HYDERABAD 1998 (6) ALD 112 (DB)
+
+• Further Reading:
+    * The Arbitration and Conciliation Act, 1996 (available online)
+    * Relevant case law on interim relief under the Act of 1996 (available through legal databases). 

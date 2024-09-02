@@ -1,0 +1,83 @@
+## Case Title
+
+* **Case Name:** Raj Process Equipments and Systems Pvt. Ltd. & Ors. vs. Honest Derivatives Pvt. Ltd.
+* **Court:** Supreme Court of India
+* **Date of Judgment:** 3rd November 2022
+* **Citation:**  Not available in the provided text.
+
+## Background and Context
+
+* **Brief Overview:** Honest Derivatives Pvt. Ltd. (Respondent) filed a suit against Raj Process Equipments and Systems Pvt. Ltd. & Ors. (Appellants) for recovery of damages in December 2017, claiming the Appellants supplied defective machinery. The Appellants failed to file written statements despite several opportunities, leading to an ex-parte order against them.  The case was later transferred from a Civil Court to a Commercial Court.
+* **Key Issues:**
+    * Whether the Appellants forfeited their right to file written statements due to the expiry of the 120-day period stipulated under Order V Rule 1 of CPC.
+    * Whether the transfer of the case from a Civil Court to a Commercial Court affected the application of Order VIII Rule 1 and its interpretation as directory, not mandatory.
+
+## Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * Order V Rule 1 of CPC (Code of Civil Procedure) - Deals with time limits for filing written statements.
+    * Order VIII Rule 1 of CPC - Concerns the procedure for filing written statements.
+    * Commercial Courts Act, 2015 - Establishes specialized courts for commercial disputes.
+
+* **Precedents Cited:**
+    * **SCG Contracts India Private Limited v. K.S.Chamankar Infrastructure Limited (2019) 12 SCC 210:**  Held that the timeline prescribed in Order V Rule 1 is mandatory for commercial disputes.
+    * **Salem Advocate Bar Association v. Union of India, (2005) 6 SCC 344:**  Held that the proviso to Order VIII Rule 1 is directory, not mandatory.
+
+* **Legal Doctrines:**
+    * **Mandatory vs. Directory Provisions:**  The distinction between provisions that must be strictly adhered to and those that are merely guidelines.
+    * **Interpretation of Statutes:**  The principles used to interpret the meaning of legal provisions.
+
+## Arguments Presented
+
+* **Appellant’s Argument:**
+    * Argued that the time limit for filing written statements should be considered directory, not mandatory, as the case was initially filed in a Civil Court, not a Commercial Court.
+    * Relied on the Salem Advocate Bar Association judgment, where the Supreme Court held that Order VIII Rule 1 is directory.
+    * Claimed that applying the SCG Contracts India Private Limited judgment, which dealt with Commercial Courts, to a case originally filed in a Civil Court would be inappropriate.
+    * Requested the court to allow them to file their written statements and contest the claim on merits.
+
+* **Respondent’s Argument:**
+    * Relied on the SCG Contracts India Private Limited judgment, arguing that the time limit in Order V Rule 1 is mandatory.
+    * Emphasized that the transfer of the case to a Commercial Court did not change the applicability of the mandatory time limit.
+    * Maintained that the Appellants forfeited their right to file written statements by failing to meet the deadline.
+
+## Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The Supreme Court distinguished the case from SCG Contracts India Private Limited as the latter involved a suit originally filed in a Commercial Court.
+    * The Court emphasized that the time limit in Order VIII Rule 1 was directory, not mandatory, for Civil Courts, as established by Salem Advocate Bar Association.
+    * The Court found that applying the SCG Contracts India Private Limited judgment to this case would be a misinterpretation of the law.
+* **Interpretation of Law:**
+    * The Court clarified that the interpretation of Order VIII Rule 1 as directory applied to cases originally filed in Civil Courts, not Commercial Courts.
+    * The Court differentiated the application of Order V Rule 1 (Commercial Courts) and Order VIII Rule 1 (Civil Courts) and upheld the precedent set in Salem Advocate Bar Association.
+* **Application of Law:**
+    * The Court applied the interpretation of Order VIII Rule 1 as directory to the case, considering the fact that the suit originated in a Civil Court.
+    * The Court considered the suit's nature (damages claim for defective machinery) and found that depriving the Appellants of an opportunity to defend their position would be unfair.
+
+## Judgment
+
+* **Final Decision:** The appeal was allowed. The impugned orders of the High Court and the Commercial Court were set aside.
+* **Relief Granted:** The Appellants were granted permission to file their written statements, and the Commercial Court was directed to proceed with the hearing on merits.
+* **Orders:** The Commercial Court was ordered to take on record the written statements filed by the Appellants and continue the hearing of the suit on merits.
+
+## Implications
+
+* **Impact on Law:**  This judgment reaffirmed the interpretation of Order VIII Rule 1 as directory for cases originally filed in Civil Courts, despite their subsequent transfer to Commercial Courts.
+* **Future Relevance:** This judgment provides a clear distinction between the application of Order V Rule 1 (for Commercial Courts) and Order VIII Rule 1 (for Civil Courts), which will be crucial in future cases involving similar situations.
+* **Broader Context:** This judgment emphasizes the importance of ensuring fair trial processes and allowing parties to contest claims on merits, even in cases involving time delays.
+
+## Summary Points
+
+* The Supreme Court reversed the lower courts' decisions, allowing the Appellants to file their written statements and contest the claim on merits.
+* The Court clarified the applicability of different rules for Civil Courts (Order VIII Rule 1) and Commercial Courts (Order V Rule 1).
+* The judgment emphasizes the principle of fairness in litigation and ensuring parties have a fair opportunity to present their arguments.
+
+## References
+
+* **Salem Advocate Bar Association v. Union of India, (2005) 6 SCC 344**
+* **SCG Contracts India Private Limited v. K.S.Chamankar Infrastructure Limited (2019) 12 SCC 210**
+
+## Further Reading
+
+* **Code of Civil Procedure, 1908**
+* **Commercial Courts Act, 2015**
+* **Supreme Court of India Case Laws Database**

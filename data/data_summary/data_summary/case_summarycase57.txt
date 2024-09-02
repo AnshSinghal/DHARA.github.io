@@ -1,0 +1,101 @@
+## 1. Case Title
+
+* **Case Name:** C.K. Surendran vs Kunhimoosa
+* **Court:** Kerala High Court
+* **Date of Judgment:** 17th September 2021
+* **Citation:** CRP. 146/21
+
+## 2. Background and Context
+
+* **Brief Overview:** C.K. Surendran (plaintiff) filed a suit (O.S.No. 151 of 2020) against Kunhimoosa (defendant) seeking a mandatory injunction to vacate a building and damages for its use and occupation. The defendant requested the transfer of the suit to the Commercial Court under the Commercial Courts Act, 2015, claiming the transaction was a commercial dispute. The plaintiff objected, arguing the dispute did not fall under the Act's definition and the specified value was below Rs. 3 lakhs. The Munsiff Court, despite the objection, transferred the suit to the Commercial Court. The plaintiff filed a revision petition against this transfer order.
+
+* **Key Issues:** 
+    * Whether the dispute qualifies as a 'commercial dispute' under the Commercial Courts Act, 2015.
+    * Whether the specified value of the suit exceeds Rs. 3 lakhs.
+    * Whether the Munsiff Court had the authority to transfer the suit under Section 15 of the Act.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * **Commercial Courts Act, 2015:** 
+        * Section 2(1)(c): Definition of 'Commercial Dispute'
+        * Section 2(1)(i): Definition of 'Specified Value'
+        * Section 12: Methodology for determining Specified Value
+        * Section 15: Transfer of Suits and Applications
+        * Section 16: Amendments to the Code of Civil Procedure, 1908
+    * **Kerala Court Fees and Suits Valuation Act, 1959:** 
+        * Section 27(c): Court fees for suits for injunction.
+    * **Code of Civil Procedure, 1908:** 
+        * Order VII Rule 10: Returning plaint
+        * Section 24: Power to transfer suits
+
+* **Precedents Cited:**
+    * **Ambalal Sarabhai Enterprises Ltd. v. K.S. Infraspace LLP and Another [(2020) 15 SCC 585]:** Regarding the interpretation of "agreements relating to immovable property used exclusively in trade or commerce."
+    * **Vasu Healthcare Pvt. Ltd. v. Gujarat Akruti TCG Biotech Ltd. [AIR 2017 Guj. 153]:**  Interpreting the meaning of "used exclusively in trade or commerce."
+    * **Federation of A.P. Chambers of Commerce & Industry and Ors. v. State of A.P and Ors. [(2006) 8 SCC 550]:** Regarding the interpretation of 'in praesenti' user for a similar provision in another Act.
+    * **Mrs. Sony Dave v Trans Asian Industries Expositions Pvt. Ltd (AIR 2016 Delhi 186):** On harmonizing the Commercial Courts Act with the Court Fees Act for determining specified value.
+    * **Fine Footwear Pvt. Ltd. Represented by its Director v. Skechers USA Inc. and Another [2019 SCC Online Kar. 1024]:**  Supporting the harmonious interpretation of the two Acts.
+
+* **Legal Doctrines:**
+    * **Harmonious Interpretation:** The court applied the principle of interpreting statutes in a way that ensures consistency between different laws.
+    * **Plain Meaning Rule:** The court relied on the ordinary and natural meaning of the words used in the statute.
+
+## 4. Arguments Presented
+
+* **Plaintiff’s Argument:**
+    * The dispute was not a 'commercial dispute' as defined by the Act, as the agreement was for property 'to be used' for commerce, not 'being used.'
+    * The specified value was determined based on the Court Fees Act, which placed it below Rs. 3 lakhs, making the Munsiff Court the competent court.
+    * Section 15 of the Act only allowed transfer of suits pending on the date of the Act's commencement.
+
+* **Defendant’s Argument:**
+    * The agreement related to immovable property used exclusively for trade or commerce.
+    * The licencee was a firm, in which the plaintiff was a partner, making the dispute also related to a partnership agreement.
+    * The specified value should be determined under the Commercial Courts Act, overriding the Court Fees Act.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The building was not actually being used for trade or commerce, as the commercial activity was yet to begin.
+    * The agreement did not involve "user in praesenti," which is required for it to be considered an agreement relating to property "used exclusively in trade or commerce."
+    * The Court Fees Act should be interpreted harmoniously with the Commercial Courts Act for determining the specified value.
+    * The Munsiff Court had no power to transfer the suit, as this authority was vested with the High Court under Section 15 of the Act.
+
+* **Interpretation of Law:**
+    * The court interpreted the phrase "agreements relating to immovable property used exclusively in trade or commerce" as requiring actual use 'in praesenti' and not potential or future use.
+    * The court found that the specified value should be determined based on the Court Fees Act, since it was not determined by the market value of the property.
+    * Section 15 was interpreted as applying to suits pending on the date of the Act's commencement, not to suits filed after that date.
+
+* **Application of Law:**
+    * The court applied the interpretation of "used exclusively in trade or commerce" to the facts of the case, finding that the property was not actually being used commercially.
+    * The court applied the principle of harmonious interpretation to reconcile the Commercial Courts Act and the Court Fees Act.
+    * The court applied the restrictions on the transfer of suits under Section 15 to the Munsiff Court's actions, finding the transfer to be unauthorized.
+
+## 6. Judgment
+
+* **Final Decision:** The civil revision petition was allowed.
+* **Relief Granted:** The impugned order transferring the suit (O.S.No.151 of 2020) to the Commercial Court was set aside.
+* **Orders:** The suit was ordered to remain before the Munsiff's Court, Vadakara.
+
+## 7. Implications
+
+* **Impact on Law:** The judgment clarifies the meaning of "agreements relating to immovable property used exclusively in trade or commerce" in the Commercial Courts Act, emphasizing the requirement of actual use. It also reaffirms the importance of harmonious interpretation between different statutes.
+* **Future Relevance:** This case provides guidance for future cases dealing with the transfer of suits under the Commercial Courts Act, particularly those involving property agreements and the determination of specified value.
+* **Broader Context:** The judgment underlines the importance of avoiding overburdening Commercial Courts with cases that do not meet the specific criteria outlined in the Act.
+
+## 8. Summary Points
+
+* The dispute did not qualify as a 'commercial dispute' under the Act, as the property was not actually being used for commercial purposes.
+* The specified value was determined based on the Court Fees Act and was below Rs. 3 lakhs.
+* The Munsiff Court lacked the authority to transfer the suit to the Commercial Court.
+* The judgment emphasizes the need for a narrow interpretation of 'commercial disputes' to ensure the efficient functioning of Commercial Courts.
+
+## 9. References
+
+* **Commercial Courts Act, 2015**
+* **Kerala Court Fees and Suits Valuation Act, 1959**
+* **Code of Civil Procedure, 1908**
+* **Ambalal Sarabhai Enterprises Ltd. v. K.S. Infraspace LLP and Another [(2020) 15 SCC 585]**
+* **Vasu Healthcare Pvt. Ltd. v. Gujarat Akruti TCG Biotech Ltd. [AIR 2017 Guj. 153]**
+* **Federation of A.P. Chambers of Commerce & Industry and Ors. v. State of A.P and Ors. [(2006) 8 SCC 550]**
+* **Mrs. Sony Dave v Trans Asian Industries Expositions Pvt. Ltd (AIR 2016 Delhi 186)**
+* **Fine Footwear Pvt. Ltd. Represented by its Director v. Skechers USA Inc. and Another [2019 SCC Online Kar. 1024]** 

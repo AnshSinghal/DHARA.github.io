@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A plaintiff has filed a suit alleging that the defendant infringed their design registrations for specific switch plates. The defendant argues that the designs are invalid due to prior publication and has filed a counterclaim seeking cancellation of the registrations. Is the counterclaim maintainable under the Designs Act, 2000?",
+    "Legal Principles": "The Designs Act, 2000 allows for cancellation of registered designs before the Controller of Designs (Section 19). However, Section 22(3) permits defendants in piracy suits to raise grounds for cancellation as a defense. The Supreme Court case S.D. Containers Indore v. Mold-Tek Packaging Ltd. clarified that defendants can independently file a counterclaim for cancellation within a piracy suit, and the court must transfer the suit to the High Court.",
+    "Relevant Sections": "Section 19: Cancellation of registration - (1) Any person interested may present a petition for the cancellation of the registration of a design at any time after the registration of the design, to the Controller on any of the following grounds, namely: ...\n\nSection 22: Piracy of registered design - (3) In any suit or any other proceeding for relief under sub-section (2), every ground on which the registration of a design may be cancelled under Section 19 shall be available as a ground of defence. ... (4) In a suit for infringement of a registered design, if a defendant raises a ground for cancellation of the registration of the design under Section 19, the suit shall be transferred to the High Court...",
+    "Context": "This query involves a case in the Delhi High Court where a plaintiff claims design infringement by a defendant who, in turn, files a counterclaim seeking cancellation of the designs under the Designs Act, 2000."
+  },
+  {
+    "Query": "A pharmaceutical company has sued a competitor for infringing its patent for a new cancer treatment. The defendant claims that the patent is invalid due to prior publication and seeks its revocation. Is the defendant's claim for patent revocation maintainable as a counterclaim in the infringement suit?",
+    "Legal Principles": "While the Patents Act does not explicitly mention counterclaims, the general principles of civil procedure allow for counterclaims where they are related to the subject matter of the main suit. A counterclaim alleging patent invalidity can be considered a valid defense within an infringement suit. However, the court's jurisdiction to adjudicate on patent validity may be limited.",
+    "Relevant Sections": "N/A (This is a general query about patent law, not specifically related to any specific section)",
+    "Context": "This query concerns a patent infringement case in a civil court where the defendant raises a counterclaim seeking revocation of the plaintiff's patent on the basis of prior publication."
+  },
+  {
+    "Query": "A software developer sued another company for copyright infringement, alleging that the defendant copied their source code. The defendant claims that they independently developed the software and requests the court to declare the plaintiff's copyright invalid. Is the defendant's request for copyright invalidation a valid counterclaim?",
+    "Legal Principles": "Similar to patent cases, a counterclaim seeking invalidation of a copyright can be raised in an infringement suit as a defense. However, the court may need to consider the specific provisions of the Copyright Act and its jurisdiction to adjudicate on copyright validity.",
+    "Relevant Sections": "N/A (This is a general query about copyright law, not specifically related to any specific section)",
+    "Context": "This query involves a copyright infringement case where the defendant seeks to invalidate the plaintiff's copyright claim as a defense."
+  },
+  {
+    "Query": "A fashion designer sued a clothing company for trademark infringement, claiming that the company is using a similar logo that is confusingly similar to their registered trademark. The company argues that the plaintiff's trademark is not valid because it is not distinctive enough and seeks its cancellation. Can the company's claim for trademark cancellation be filed as a counterclaim?",
+    "Legal Principles": "A counterclaim for trademark cancellation can be a valid defense in an infringement suit, as it directly challenges the validity of the plaintiff's trademark claim. However, the court's jurisdiction and the specific provisions of the Trademark Act must be considered.",
+    "Relevant Sections": "N/A (This is a general query about trademark law, not specifically related to any specific section)",
+    "Context": "This query concerns a trademark infringement case where the defendant counterclaims seeking cancellation of the plaintiff's trademark on the grounds of insufficient distinctiveness."
+  },
+  {
+    "Query": "A homeowner sued a construction company for breach of contract, alleging that the company failed to complete the construction of their house on time and within budget. The construction company claims that the homeowner breached the contract by failing to make timely payments and seeks damages for the breach. Is the construction company's claim for damages a valid counterclaim?",
+    "Legal Principles": "In contract disputes, counterclaims are common where the defendant alleges that the plaintiff breached the contract and seeks damages for the breach. The counterclaim must be related to the original claim and within the jurisdiction of the court.",
+    "Relevant Sections": "N/A (This is a general query about contract law, not specifically related to any specific section)",
+    "Context": "This query concerns a breach of contract case where the defendant counterclaims seeking damages for the plaintiff's alleged breach."
+  },
+  {
+    "Query": "A landlord sued a tenant for non-payment of rent. The tenant claims that the landlord breached the lease agreement by failing to make necessary repairs to the property and seeks damages for the breach. Can the tenant's claim for damages be filed as a counterclaim?",
+    "Legal Principles": "A tenant's claim for damages arising from a landlord's breach of the lease agreement can be a valid counterclaim in a rent payment case. However, the specific terms of the lease agreement and the court's jurisdiction should be considered.",
+    "Relevant Sections": "N/A (This is a general query about landlord-tenant law, not specifically related to any specific section)",
+    "Context": "This query involves a landlord-tenant dispute where the tenant counterclaims seeking damages for the landlord's breach of the lease agreement."
+  },
+  {
+    "Query": "A car buyer sued a car dealership for selling them a defective car. The dealership argues that the buyer did not properly maintain the car and seeks to reduce the buyer's damages. Is the dealership's claim to reduce damages a valid counterclaim?",
+    "Legal Principles": "A defendant can raise a counterclaim to reduce the plaintiff's damages if it is related to the original claim. In a defective product case, the defendant might argue that the plaintiff's actions contributed to the defect or that they failed to mitigate their damages.",
+    "Relevant Sections": "N/A (This is a general query about product liability law, not specifically related to any specific section)",
+    "Context": "This query concerns a case where a buyer seeks damages for a defective product sold by a dealership, and the dealership counterclaims to reduce the buyer's damages."
+  },
+  {
+    "Query": "A company sued a former employee for breach of confidentiality agreement, alleging that the employee disclosed trade secrets to a competitor. The former employee claims that the confidentiality agreement is unenforceable and seeks to have it declared invalid. Can the former employee's claim for invalidation be filed as a counterclaim?",
+    "Legal Principles": "A counterclaim to declare a confidentiality agreement unenforceable can be a valid defense in a breach of confidentiality case. However, the specific terms of the agreement and the court's jurisdiction should be carefully considered.",
+    "Relevant Sections": "N/A (This is a general query about employment law, not specifically related to any specific section)",
+    "Context": "This query involves a case where an employer claims breach of confidentiality by a former employee, and the employee counterclaims seeking to invalidate the confidentiality agreement."
+  },
+  {
+    "Query": "A musician sued a record label for breach of contract, alleging that the label failed to promote their album adequately. The record label claims that the musician breached the contract by failing to deliver the album on time and seeks to terminate the contract. Is the record label's claim for termination a valid counterclaim?",
+    "Legal Principles": "A counterclaim for termination of a contract can be a valid defense in a breach of contract case if it is related to the original claim. In this case, the record label's claim for termination is directly related to the musician's claim for breach of the promotional obligations.",
+    "Relevant Sections": "N/A (This is a general query about contract law, not specifically related to any specific section)",
+    "Context": "This query concerns a case where a musician seeks damages for breach of contract by a record label, and the label counterclaims seeking termination of the contract."
+  },
+  {
+    "Query": "A patient sued a doctor for medical malpractice, alleging that the doctor's negligence caused them injuries. The doctor claims that the patient's injuries were pre-existing and unrelated to their treatment and seeks to dismiss the claim. Is the doctor's claim for dismissal a valid counterclaim?",
+    "Legal Principles": "A defendant in a medical malpractice case can raise a counterclaim to challenge the plaintiff's claim, such as arguing that the injuries were pre-existing or that the plaintiff's actions contributed to their injuries. However, the counterclaim must be related to the original claim and within the court's jurisdiction.",
+    "Relevant Sections": "N/A (This is a general query about medical malpractice law, not specifically related to any specific section)",
+    "Context": "This query involves a medical malpractice case where the doctor counterclaims seeking dismissal of the plaintiff's claim based on pre-existing injuries."
+  }
+]
+```

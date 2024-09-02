@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A company filed a suit for recovery of money against another company. The defendant company then filed a criminal case against the plaintiff company's executives, leading to their arrest. Under duress, the executives agreed to a settlement and signed a deed appointing an arbitrator. The plaintiff company later challenged the appointment of the arbitrator and sought termination of his mandate due to undue delay in the arbitration proceedings. Can the plaintiff company successfully challenge the arbitrator's appointment on the grounds of undue delay, considering the circumstances surrounding the agreement and the subsequent proceedings?",
+    "Legal Principles": "Termination of arbitrator's mandate due to undue delay, waiver of right to object, estoppel, dejure and defacto inability, supervisory jurisdiction of High Court under Article 227 of the Constitution of India",
+    "Relevant Sections": "Section 14 of the Arbitration and Conciliation Act, 1996, Section 4 of the Arbitration and Conciliation Act, 1996, Article 227 of the Constitution of India",
+    "Context": "Civil Revision Petition challenging an order terminating the mandate of an arbitrator due to undue delay in arbitration proceedings, arising from a commercial dispute involving a settlement agreement allegedly obtained under duress"
+  },
+  {
+    "Query": "A construction company was awarded a contract by a government agency. The contract contained an arbitration clause. A dispute arose between the parties, and the construction company initiated arbitration proceedings. The arbitrator failed to complete the proceedings within the stipulated time, despite numerous requests from the parties. The government agency sought to terminate the arbitrator's mandate on grounds of undue delay. Is the government agency's request justified, considering the circumstances surrounding the delay and the applicable legal framework?",
+    "Legal Principles": "Termination of arbitrator's mandate due to undue delay, waiver of right to object, dejure and defacto inability, principles of natural justice",
+    "Relevant Sections": "Section 14 of the Arbitration and Conciliation Act, 1996, Section 4 of the Arbitration and Conciliation Act, 1996",
+    "Context": "Application under Section 14(2) of the Arbitration and Conciliation Act, 1996 seeking termination of an arbitrator's mandate due to undue delay in resolving a construction contract dispute"
+  },
+  {
+    "Query": "Two parties entered into a commercial agreement containing an arbitration clause.  A dispute arose, and the parties agreed to appoint a specific arbitrator.  The arbitrator issued notices and began proceedings.  One party filed an application to challenge the arbitrator's appointment, alleging bias. The court dismissed the challenge. Subsequently, the challenging party filed another application seeking termination of the arbitrator's mandate on grounds of undue delay.  Is the court justified in terminating the arbitrator's mandate based on the delay, considering the previous challenge and the ongoing proceedings?",
+    "Legal Principles": "Termination of arbitrator's mandate due to undue delay, waiver of right to object, dejure and defacto inability, res judicata",
+    "Relevant Sections": "Section 14 of the Arbitration and Conciliation Act, 1996, Section 12 of the Arbitration and Conciliation Act, 1996",
+    "Context": "Application under Section 14(2) of the Arbitration and Conciliation Act, 1996 seeking termination of an arbitrator's mandate due to undue delay, following a prior challenge to the arbitrator's appointment on grounds of bias"
+  },
+  {
+    "Query": "A landlord and tenant entered into a lease agreement with an arbitration clause.  A dispute arose concerning rent payments.  The parties appointed an arbitrator.  The tenant filed an application seeking to terminate the arbitrator's mandate on grounds of undue delay in the proceedings.  The landlord argued that the delay was caused by the tenant's actions and that the tenant had waived the right to object.  Can the tenant successfully terminate the arbitrator's mandate based on the delay, considering the landlord's arguments?",
+    "Legal Principles": "Termination of arbitrator's mandate due to undue delay, waiver of right to object, dejure and defacto inability, principles of equity",
+    "Relevant Sections": "Section 14 of the Arbitration and Conciliation Act, 1996, Section 4 of the Arbitration and Conciliation Act, 1996",
+    "Context": "Application under Section 14(2) of the Arbitration and Conciliation Act, 1996 seeking termination of an arbitrator's mandate due to undue delay in resolving a landlord-tenant dispute"
+  },
+  {
+    "Query": "A software development company entered into a contract with a client, containing an arbitration clause.  A dispute arose concerning the quality of the software.  The parties appointed an arbitrator.  The arbitrator set a time limit for completion of the proceedings.  The software company filed an application seeking to extend the time limit, arguing that the complexity of the issues required more time.  The client opposed the extension request.  Can the court grant an extension to the time limit, considering the software company's arguments and the client's objections?",
+    "Legal Principles": "Extension of time in arbitration proceedings, complexity of issues, principles of fairness and justice",
+    "Relevant Sections": "Section 26 of the Arbitration and Conciliation Act, 1996",
+    "Context": "Application for extension of time limit in arbitration proceedings involving a software development contract dispute"
+  },
+  {
+    "Query": "A partnership entered into a business agreement with another company, containing an arbitration clause.  A dispute arose concerning the distribution of profits.  The partners appointed an arbitrator.  The arbitrator failed to make an award within the time agreed upon by the parties.  One partner filed an application seeking termination of the arbitrator's mandate on grounds of undue delay.  The other partner argued that the delay was caused by the arbitrator's illness and that the partner had waived the right to object.  Can the court terminate the arbitrator's mandate based on the delay, considering the partner's arguments and the circumstances surrounding the delay?",
+    "Legal Principles": "Termination of arbitrator's mandate due to undue delay, waiver of right to object, dejure and defacto inability, principles of fairness",
+    "Relevant Sections": "Section 14 of the Arbitration and Conciliation Act, 1996, Section 4 of the Arbitration and Conciliation Act, 1996",
+    "Context": "Application under Section 14(2) of the Arbitration and Conciliation Act, 1996 seeking termination of an arbitrator's mandate due to undue delay in resolving a partnership business dispute"
+  },
+  {
+    "Query": "A company filed a lawsuit against another company for breach of contract.  The contract contained an arbitration clause.  The court ordered the parties to proceed with arbitration.  The arbitrator was appointed, and the proceedings commenced.  The defendant company sought to challenge the arbitrator's mandate based on the application of the amended Arbitration and Conciliation Act, 2015, which came into effect after the commencement of the arbitration.  Is the defendant company's challenge justified, considering the timing of the amendment and the provisions of the Act?",
+    "Legal Principles": "Applicability of amended legislation to pending arbitral proceedings, transitional provisions, principle of retrospectivity",
+    "Relevant Sections": "Section 26 of the Arbitration and Conciliation Act, 2015",
+    "Context": "Challenge to an arbitrator's mandate based on the applicability of the amended Arbitration and Conciliation Act, 2015 to pending arbitral proceedings"
+  },
+  {
+    "Query": "Two parties entered into a contract for the sale of goods, containing an arbitration clause.  A dispute arose concerning the quality of the goods.  The parties appointed an arbitrator.  The arbitrator set a time limit for completing the proceedings.  One party filed an application seeking to terminate the arbitrator's mandate on grounds of undue delay, arguing that the arbitrator had failed to comply with the time limit.  The other party argued that the delay was caused by the arbitrator's illness and that the party had waived the right to object.  Can the court terminate the arbitrator's mandate based on the delay, considering the arguments of both parties and the applicable legal framework?",
+    "Legal Principles": "Termination of arbitrator's mandate due to undue delay, waiver of right to object, dejure and defacto inability, principles of fairness and justice",
+    "Relevant Sections": "Section 14 of the Arbitration and Conciliation Act, 1996, Section 4 of the Arbitration and Conciliation Act, 1996",
+    "Context": "Application under Section 14(2) of the Arbitration and Conciliation Act, 1996 seeking termination of an arbitrator's mandate due to undue delay in resolving a dispute arising from a contract for the sale of goods"
+  },
+  {
+    "Query": "A company filed an arbitration petition against another company, alleging a breach of contract.  The parties appointed an arbitrator.  The arbitrator set a time limit for completing the proceedings.  The defendant company failed to file its written statement within the stipulated time, causing a delay in the proceedings.  The plaintiff company sought to terminate the arbitrator's mandate due to the defendant company's delay.  Is the plaintiff company's request justified, considering the defendant company's conduct and the applicable legal framework?",
+    "Legal Principles": "Termination of arbitrator's mandate due to undue delay, waiver of right to object, dejure and defacto inability, principles of fairness and justice",
+    "Relevant Sections": "Section 14 of the Arbitration and Conciliation Act, 1996, Section 4 of the Arbitration and Conciliation Act, 1996",
+    "Context": "Application under Section 14(2) of the Arbitration and Conciliation Act, 1996 seeking termination of an arbitrator's mandate due to undue delay caused by the defendant company's failure to file its written statement in arbitration proceedings"
+  },
+  {
+    "Query": "A company entered into a joint venture agreement with another company, containing an arbitration clause.  A dispute arose concerning the division of profits.  The parties appointed an arbitrator.  The arbitrator set a time limit for completing the proceedings.  The arbitrator failed to comply with the time limit, citing complex legal issues and extensive documentation.  One company filed an application seeking to terminate the arbitrator's mandate on grounds of undue delay.  The other company argued that the delay was justified and that the company had waived the right to object.  Can the court terminate the arbitrator's mandate based on the delay, considering the arguments of both parties and the circumstances surrounding the delay?",
+    "Legal Principles": "Termination of arbitrator's mandate due to undue delay, waiver of right to object, dejure and defacto inability, principles of fairness and justice",
+    "Relevant Sections": "Section 14 of the Arbitration and Conciliation Act, 1996, Section 4 of the Arbitration and Conciliation Act, 1996",
+    "Context": "Application under Section 14(2) of the Arbitration and Conciliation Act, 1996 seeking termination of an arbitrator's mandate due to undue delay in resolving a dispute arising from a joint venture agreement"
+  }
+]
+```

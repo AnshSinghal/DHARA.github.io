@@ -1,0 +1,90 @@
+## 1. Case Title
+
+* **Case Name:** M/S Vittal Cashew Industries vs Tropical Industries International Pvt Ltd
+* **Court:** Karnataka High Court
+* **Date of Judgment:** 27th June 2023
+* **Citation:**  NC: 2023:KHC:22303, WP No. 9481 of 2022
+
+## 2. Background and Context
+
+* **Brief Overview:** This case arose from a commercial dispute between M/S Vittal Cashew Industries and M/S Vittal Impex (the petitioners/defendants) and Tropical Industries International Pvt Ltd and Vink Corporation DMCC (the respondents/plaintiffs).  The respondents filed a summary suit for recovery of Rs. 15,29,886.64/- in the IV Additional District Judge and Commercial Court, D.K., Mangaluru (the Commercial Court). 
+* **Key Issues:** The primary legal issue was whether the Commercial Court at Mangaluru had territorial jurisdiction to hear the suit considering a clause in a Settlement Agreement between the parties conferring exclusive jurisdiction on the courts at New Delhi.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * Order 37 CPC (Summary Suits)
+    * Order 7 Rule 11 CPC (Return of plaint)
+    * Sections 20 to 22 CPC (Territorial Jurisdiction)
+    * Section 151 CPC (Inherent powers of the court)
+    * Article 227 of the Constitution of India (Writ jurisdiction of High Courts) 
+* **Precedents Cited:**
+    * B.L.Kashyap & Sons Ltd., JMS Steels & Power Corpn.,- (2022) 3 SCC 294
+    * IDBI Trusteeship v. Hub Town Ltd.,- 2017 (1) SCC 568
+    * Shriram City Union Finance Corporation Ltd., vs. Rama Mishra - (2002) 9 SCC 613
+    * Abhimanya vs. Sri. Ram Investment Limited, Gulbarga - (2006) SCC Online Kar 530
+    * Indus Mobile Distribution Private Limited Versus Datawind Innovations Private Limited and Others, - (2017) 7 SCC 678
+    * Swastik Gases Pvt. Ltd. vs Indian Oil Corporation Ltd. - (2013) 9 SCC 32
+    * B.E. Simoese Von Staraburg Niedenthal & Anr. V. Chhattisgarh Investment Ltd. - (2015) 12 SCC 225
+    * Sundaram Finance Limited and Ors V. T. Thankam - 2015 (14) SCC 444
+    * Dr. Jagmittar Sain Bhagar v. Dir. Health Services, Haryana and Anr. - 2013 AIR SCW 4387
+    * Omega Finvest LLP v. Direct News Private Limited - 2022 SCC Online Del 3418 : (2022) 295 DLT 645
+    * Hakam Singh v. M/s. Gammon (India) Ltd., - (1971) 1 SCC 286
+    * Exl. Careers and another vs. Frankfinn Aviation Service Pvt. Ltd., -2020 (12) SCC 667
+    * Haier Telecom (India) P. Ltd. vs. Drive India Enterprises Solutions Ltd., - 2018 SCC Online Bom. 1014 (DB)
+    * Young Achievers vs. IMS Learning Resources - (2013) 10 SCC 535
+    * Zenith Drugs vs. Nicholas Piramal - (2020) 17 SCC 419
+    * Patel Roadways Limited vs. Prasad Trading Company - (1991) 4 SCC 270
+    * New Moga Transport vs United India Insurance - (2004) 4 SCC 677
+* **Legal Doctrines:**
+    * Territorial Jurisdiction:  The court considered the principles of territorial jurisdiction, focusing on the place where the cause of action arises.
+    * Contractual Agreement: The court examined the effect of a contractual agreement conferring exclusive jurisdiction on specific courts.
+    * Forum Non Conveniens:  The court referenced the doctrine of forum non conveniens, which allows a court to decline jurisdiction if another court is more appropriate. 
+
+## 4. Arguments Presented
+
+* **Plaintiff’s Argument:** The respondents argued that the Commercial Court at Mangaluru had jurisdiction as the 1st defendant resided within its jurisdiction. They emphasized that the agreement did not explicitly state that the courts at New Delhi had exclusive jurisdiction, and even if it did, the agreement was not relevant as the suit was not related to the agreement. 
+* **Defendant’s Argument:** The petitioners contended that the Settlement Agreement clearly conferred exclusive jurisdiction on the courts at New Delhi, and therefore, the Commercial Court had no jurisdiction to entertain the suit. They pointed to the specific language of the agreement and the nature of the dispute arising from it. 
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:** 
+    * The court found that clause 7.2 of the Settlement Agreement unequivocally conferred exclusive jurisdiction on the courts at New Delhi for any dispute arising out of the agreement.
+    * The court noted that the parties irrevocably waived any objection to venue in New Delhi on any ground, including forum non conveniens.
+    * The court determined that the cause of action for the suit arose in New Delhi due to the legal notice issued from there, the email correspondence originating from New Delhi and Dubai, and the nature of the transactions and liabilities between New Delhi, Dubai, and Kasargod.
+* **Interpretation of Law:** The court interpreted the language of the Settlement Agreement and applied the principles of territorial jurisdiction, considering the location of the cause of action and the agreement's clear language. 
+* **Application of Law:** The court applied the legal principles to the specific facts of the case, concluding that the Commercial Court at Mangaluru lacked jurisdiction because the cause of action arose in New Delhi, and the parties had explicitly agreed to exclusive jurisdiction in those courts.
+
+## 6. Judgment
+
+* **Final Decision:** The High Court allowed the petition and set aside the order of the Commercial Court.
+* **Relief Granted:** The court granted the petitioners' request to return the plaint and ordered the respondents to re-present it before the courts at New Delhi.
+* **Orders:**
+    * The impugned order dated 20.04.2022 passed by the Commercial Court was set aside.
+    * I.A.No.4 dated 30.05.2022 filed by the petitioners, seeking the return of the plaint, was allowed.
+    * The plaint was directed to be returned to the respondents for re-presentation before the jurisdictional court at New Delhi.
+
+## 7. Implications
+
+* **Impact on Law:** This case reinforces the principle that contractual agreements conferring exclusive jurisdiction are binding on the parties. It also emphasizes the importance of clearly defining the scope of jurisdiction in such agreements.
+* **Future Relevance:** The case provides a precedent for future disputes involving contractual agreements specifying exclusive jurisdiction. Courts will likely rely on this case when determining whether a court has jurisdiction when such agreements exist. 
+* **Broader Context:** The case highlights the significance of careful drafting and consideration of jurisdiction clauses in commercial agreements to prevent future litigation and ensure the efficient resolution of disputes in the appropriate forum.
+
+## 8. Summary Points
+
+* The parties entered into a Settlement Agreement that conferred exclusive jurisdiction on the courts at New Delhi for any dispute arising from the agreement.
+* The High Court found that the Commercial Court at Mangaluru lacked jurisdiction due to the contractual agreement and the fact that the cause of action arose in New Delhi.
+* The court ordered the return of the plaint to the respondents for re-presentation before the courts at New Delhi. 
+
+## 9. References
+
+* **Citations:** 
+    * Order 37 CPC
+    * Order 7 Rule 11 CPC
+    * Sections 20 to 22 CPC
+    * Section 151 CPC 
+    * Article 227 of the Constitution of India
+    * All the case precedents listed in the "Legal Principles Involved" section. 
+
+* **Further Reading:**
+    * Any legal texts or articles discussing territorial jurisdiction, contractual agreements conferring jurisdiction, and the doctrine of forum non conveniens.

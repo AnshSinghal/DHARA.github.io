@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A supplier of construction materials claims delayed payments from a government agency. The contract specifies a specific jurisdiction for dispute resolution, but the supplier argues that a special law governing government procurement overrides the contract clause. Can the supplier enforce their claim under the special law in a different jurisdiction?",
+    "Legal Principles": "Overriding effect of special legislation, statutory interpretation, jurisdiction in arbitration agreements, government contracts, construction law",
+    "Relevant Sections": "Section 24 of the MSMED Act, 2006; Section 20(2) of the Arbitration and Conciliation Act, 1996; Section 18(1), (2), and (4) of the MSMED Act, 2006",
+    "Context": "This query pertains to a dispute arising from a government procurement contract, where the supplier seeks to enforce their rights under a special law that has overriding effect. The issue of jurisdiction in arbitration agreements is also relevant."
+  },
+  {
+    "Query": "A small business owner filed a claim for delayed payments from a large corporation, but the corporation contests the jurisdiction of the Industry Facilitation Council. The contract between the parties specifies a different jurisdiction for dispute resolution. What factors should be considered in determining the correct jurisdiction?",
+    "Legal Principles": "Jurisdiction in arbitration agreements, overriding effect of special legislation, MSMED Act, 2006, contract interpretation",
+    "Relevant Sections": "Section 20(2) of the Arbitration and Conciliation Act, 1996; Section 18 of the MSMED Act, 2006; Section 24 of the MSMED Act, 2006",
+    "Context": "This query involves a dispute between a small business and a large corporation, with the applicability of the MSMED Act and the potential conflict with a contractual jurisdiction clause."
+  },
+  {
+    "Query": "A supplier of medical equipment claims delayed payments from a hospital. The supplier was registered as a small-scale industry before the contract was signed, but the hospital argues that the registration was obtained after the work was completed. Can the supplier claim the benefits of the MSMED Act, 2006 retrospectively?",
+    "Legal Principles": "Retroactive application of legislation, MSMED Act, 2006, registration requirements, delayed payments, medical equipment supply",
+    "Relevant Sections": "Section 2(n) of the MSMED Act, 2006; Section 8(1) of the MSMED Act, 2006; Section 32 of the MSMED Act, 2006",
+    "Context": "This query focuses on the application of the MSMED Act, 2006 in the context of a medical equipment supply contract, specifically concerning the timing of the supplier's registration."
+  },
+  {
+    "Query": "A technology company contracted with a government agency for software development but failed to receive timely payment. The company argues that the agency violated a special law protecting small businesses and seeks to enforce their claim through an Industry Facilitation Council. Can the company bypass the contract's arbitration clause and seek redress through the Council?",
+    "Legal Principles": "Overriding effect of special legislation, MSMED Act, 2006, arbitration agreements, government contracts, software development",
+    "Relevant Sections": "Section 18 of the MSMED Act, 2006; Section 24 of the MSMED Act, 2006",
+    "Context": "This query involves a dispute arising from a software development contract between a technology company and a government agency. The applicability of the MSMED Act and its potential conflict with a contractual arbitration clause are key issues."
+  },
+  {
+    "Query": "A textile manufacturer contracted with a clothing retailer but experienced delays in payment. The manufacturer, registered as a small-scale industry, seeks to enforce their rights under the MSMED Act, 2006 but the retailer argues that the contract's arbitration clause overrides the special law. Is the retailer correct in asserting that the contract clause supersedes the statutory provisions?",
+    "Legal Principles": "Overriding effect of special legislation, MSMED Act, 2006, arbitration agreements, textile industry, contract interpretation",
+    "Relevant Sections": "Section 18 of the MSMED Act, 2006; Section 24 of the MSMED Act, 2006",
+    "Context": "This query concerns a dispute between a textile manufacturer and a clothing retailer, with the focus on the potential conflict between the MSMED Act and a contractual arbitration clause."
+  },
+  {
+    "Query": "A food processing company supplied goods to a large supermarket chain but faced delays in payment. The company, registered under the MSMED Act, 2006, filed a claim with the Industry Facilitation Council. The supermarket chain challenges the Council's jurisdiction, arguing that the contract specifies a different jurisdiction. How should the court decide on the appropriate jurisdiction?",
+    "Legal Principles": "Jurisdiction in arbitration agreements, overriding effect of special legislation, MSMED Act, 2006, food industry, contract interpretation",
+    "Relevant Sections": "Section 18 of the MSMED Act, 2006; Section 24 of the MSMED Act, 2006; Section 20(2) of the Arbitration and Conciliation Act, 1996",
+    "Context": "This query involves a dispute between a food processing company and a supermarket chain, with the key issue being the appropriate jurisdiction for resolving the dispute, considering the MSMED Act and a contractual jurisdiction clause."
+  },
+  {
+    "Query": "A furniture manufacturer supplied furniture to a hotel chain but experienced delays in payment. The manufacturer, registered as a small-scale industry, filed a claim with the Industry Facilitation Council. The hotel chain argues that the contract specifies a different jurisdiction and that the manufacturer's registration is invalid due to a technicality. Can the manufacturer still claim the benefits of the MSMED Act?",
+    "Legal Principles": "Jurisdiction in arbitration agreements, overriding effect of special legislation, MSMED Act, 2006, registration requirements, furniture industry, contract interpretation",
+    "Relevant Sections": "Section 18 of the MSMED Act, 2006; Section 24 of the MSMED Act, 2006; Section 20(2) of the Arbitration and Conciliation Act, 1996; Section 8(1) of the MSMED Act, 2006",
+    "Context": "This query concerns a dispute between a furniture manufacturer and a hotel chain, with the key issues being the appropriate jurisdiction and the validity of the manufacturer's registration under the MSMED Act."
+  },
+  {
+    "Query": "A software development company contracted with a large corporation to develop a mobile application. The corporation failed to pay the company on time, and the company, registered as a small-scale industry, filed a claim with the Industry Facilitation Council. The corporation argues that the company is not entitled to the benefits of the MSMED Act because it registered after the contract was signed. Is the corporation's argument valid?",
+    "Legal Principles": "Retroactive application of legislation, MSMED Act, 2006, registration requirements, delayed payments, software development",
+    "Relevant Sections": "Section 2(n) of the MSMED Act, 2006; Section 8(1) of the MSMED Act, 2006; Section 32 of the MSMED Act, 2006",
+    "Context": "This query focuses on the application of the MSMED Act, 2006 in the context of a software development contract, specifically concerning the timing of the company's registration."
+  },
+  {
+    "Query": "A construction company, registered as a small-scale industry, entered into a contract with a government agency to build a new school. The agency delayed payment, and the company filed a claim with the Industry Facilitation Council. The agency argues that the contract specifies arbitration in a different jurisdiction. Can the company bypass the arbitration clause and seek redress through the Council?",
+    "Legal Principles": "Overriding effect of special legislation, MSMED Act, 2006, arbitration agreements, government contracts, construction law",
+    "Relevant Sections": "Section 18 of the MSMED Act, 2006; Section 24 of the MSMED Act, 2006",
+    "Context": "This query involves a dispute arising from a construction contract between a construction company and a government agency. The applicability of the MSMED Act and its potential conflict with a contractual arbitration clause are key issues."
+  },
+  {
+    "Query": "A printing company supplied printing services to a large publishing house but experienced delays in payment. The printing company, registered as a small-scale industry, filed a claim with the Industry Facilitation Council. The publishing house argues that the company is not eligible for the benefits of the MSMED Act because it registered after the work was completed. Is the publishing house's argument valid?",
+    "Legal Principles": "Retroactive application of legislation, MSMED Act, 2006, registration requirements, delayed payments, printing services",
+    "Relevant Sections": "Section 2(n) of the MSMED Act, 2006; Section 8(1) of the MSMED Act, 2006; Section 32 of the MSMED Act, 2006",
+    "Context": "This query focuses on the application of the MSMED Act, 2006 in the context of a printing services contract, specifically concerning the timing of the company's registration."
+  }
+]
+```

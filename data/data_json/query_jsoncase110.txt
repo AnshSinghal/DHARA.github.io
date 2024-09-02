@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A plaintiff is suing a defendant for passing off in Delhi. The plaintiff claims the defendant is selling infringing products in various markets within Delhi. The defendant argues that the plaintiff has not provided sufficient evidence of sales within Delhi's jurisdiction. Can the court dismiss the case based on lack of jurisdiction?",
+    "Legal Principles": "The court must decide jurisdictional issues at the initial stage by accepting all statements in the plaint as true. The court cannot dismiss the case based on a lack of evidence at this stage if the plaintiff has made allegations of sales within the court's jurisdiction.",
+    "Relevant Sections": "Order VII Rules 10 and 11 of the Code of Civil Procedure, 1908 (CPC), Exphar Sa and Anr. v. Eupharma Laboratories Ltd. and Anr.: (2004) 3 SCC 688, M/s RSPL Limited v. Mukesh Sharma & Anr.: 2016 SCC OnLine Del 4285, M/s Allied Blenders & Distillers Pvt. Ltd. v. Prag Distillery Pvt. Ltd. and Anr.: 2017 SCC OnLine Del 7225",
+    "Context": "This case involves an application under Order VII Rules 10 and 11 of the CPC, where the court must determine if the plaintiff has sufficiently pleaded a cause of action within its territorial jurisdiction."
+  },
+  {
+    "Query": "A company is suing another company for copyright infringement and passing off. The plaintiff's registered office is in Delhi, but they claim the defendant is selling infringing products in another state. The court dismisses the passing off claim, stating the plaintiff needs to file a separate suit in the other state where the sales occurred. Is this a correct ruling?",
+    "Legal Principles": "The court must consider all statements in the plaint as true when deciding an application under Order VII Rule 10 of the CPC. If the plaint alleges sales within the court's jurisdiction, the court cannot dismiss the case at this stage based on a lack of evidence.",
+    "Relevant Sections": "Order VII Rule 10 of the CPC, Exphar Sa and Anr. v. Eupharma Laboratories Ltd. and Anr.: (2004) 3 SCC 688",
+    "Context": "This case involves an application under Order VII Rule 10 of the CPC, where the court must determine if the plaintiff has sufficiently pleaded a cause of action within its territorial jurisdiction."
+  },
+  {
+    "Query": "A plaintiff is suing a defendant for trademark infringement and passing off. The plaintiff has a registered office in Delhi and claims the defendant is selling infringing products in Delhi. The defendant argues that the plaintiff's allegations are unsubstantiated and the court lacks jurisdiction. Should the court dismiss the suit at this stage?",
+    "Legal Principles": "When deciding an application under Order VII Rule 10 of the CPC, the court must take the facts in the plaint as true. The court cannot dismiss the suit based on the plaintiff's potential failure to prove their allegations at a later stage.",
+    "Relevant Sections": "Order VII Rule 10 of the CPC, M/s RSPL Limited v. Mukesh Sharma & Anr.: 2016 SCC OnLine Del 4285",
+    "Context": "This case involves an application under Order VII Rule 10 of the CPC, where the court must determine if the plaintiff has sufficiently pleaded a cause of action within its territorial jurisdiction."
+  },
+  {
+    "Query": "A company is suing another company for trademark infringement and passing off. The plaintiff alleges the defendant is selling infringing products in Delhi, but the defendant claims they only sell in another state. The plaintiff states they have a strong apprehension that the defendant will start selling in Delhi. Can the court dismiss the claim at this stage based on the lack of proof of sales in Delhi?",
+    "Legal Principles": "For an application under Order VII Rule 10 of the CPC, the court must accept the allegations in the plaint as true. If the plaintiff alleges a credible threat of future sales within the court's jurisdiction, the court cannot dismiss the case at this stage.",
+    "Relevant Sections": "Order VII Rule 10 of the CPC, M/s Allied Blenders & Distillers Pvt. Ltd. v. Prag Distillery Pvt. Ltd. and Anr.: 2017 SCC OnLine Del 7225",
+    "Context": "This case involves an application under Order VII Rule 10 of the CPC, where the court must determine if the plaintiff has sufficiently pleaded a cause of action within its territorial jurisdiction."
+  },
+  {
+    "Query": "A plaintiff is suing a defendant for passing off, claiming the defendant is selling products with a deceptively similar trademark in Delhi. The defendant argues the plaintiff has not provided evidence of sales in Delhi and the court lacks jurisdiction. Should the court dismiss the claim at this stage?",
+    "Legal Principles": "The court must assume the facts in the plaint are true when deciding an application under Order VII Rule 10 of the CPC. If the plaintiff alleges sales within the court's jurisdiction, the court cannot dismiss the case at this stage based on a lack of evidence.",
+    "Relevant Sections": "Order VII Rule 10 of the CPC, Exphar Sa and Anr. v. Eupharma Laboratories Ltd. and Anr.: (2004) 3 SCC 688",
+    "Context": "This case involves an application under Order VII Rule 10 of the CPC, where the court must determine if the plaintiff has sufficiently pleaded a cause of action within its territorial jurisdiction."
+  },
+  {
+    "Query": "A plaintiff is suing a defendant for trademark infringement and passing off, claiming the defendant is selling infringing products in Delhi. The defendant argues the plaintiff has not provided sufficient details about the specific locations where the sales are occurring. Can the court dismiss the case at this stage?",
+    "Legal Principles": "The court must accept the allegations in the plaint as true when deciding an application under Order VII Rule 10 of the CPC. If the plaintiff alleges sales within the court's jurisdiction, the court cannot dismiss the case at this stage based on a lack of detailed evidence.",
+    "Relevant Sections": "Order VII Rule 10 of the CPC, M/s RSPL Limited v. Mukesh Sharma & Anr.: 2016 SCC OnLine Del 4285",
+    "Context": "This case involves an application under Order VII Rule 10 of the CPC, where the court must determine if the plaintiff has sufficiently pleaded a cause of action within its territorial jurisdiction."
+  },
+  {
+    "Query": "A company is suing another company for trademark infringement and passing off. The plaintiff alleges the defendant is selling infringing products in Delhi, but the defendant claims they only sell online. The plaintiff argues that the defendant's online sales constitute a presence in Delhi. Can the court dismiss the claim at this stage based on the lack of physical sales in Delhi?",
+    "Legal Principles": "The court must accept the allegations in the plaint as true when deciding an application under Order VII Rule 10 of the CPC. If the plaintiff alleges online sales within the court's jurisdiction, the court cannot dismiss the case at this stage based on a lack of physical sales in Delhi.",
+    "Relevant Sections": "Order VII Rule 10 of the CPC, Exphar Sa and Anr. v. Eupharma Laboratories Ltd. and Anr.: (2004) 3 SCC 688",
+    "Context": "This case involves an application under Order VII Rule 10 of the CPC, where the court must determine if the plaintiff has sufficiently pleaded a cause of action within its territorial jurisdiction."
+  },
+  {
+    "Query": "A plaintiff is suing a defendant for passing off, claiming the defendant is selling products with a deceptively similar trademark in Delhi. The defendant argues the plaintiff has not provided any evidence of the defendant's intention to sell in Delhi. Can the court dismiss the claim at this stage based on the lack of proof of intent?",
+    "Legal Principles": "The court must accept the allegations in the plaint as true when deciding an application under Order VII Rule 10 of the CPC. If the plaintiff alleges sales within the court's jurisdiction, the court cannot dismiss the case at this stage based on a lack of proof of intent.",
+    "Relevant Sections": "Order VII Rule 10 of the CPC, M/s RSPL Limited v. Mukesh Sharma & Anr.: 2016 SCC OnLine Del 4285",
+    "Context": "This case involves an application under Order VII Rule 10 of the CPC, where the court must determine if the plaintiff has sufficiently pleaded a cause of action within its territorial jurisdiction."
+  },
+  {
+    "Query": "A company is suing another company for trademark infringement and passing off. The plaintiff alleges the defendant is selling infringing products in Delhi, but the defendant claims they only sell in a specific area outside of Delhi. The plaintiff argues that the defendant's sales in the specific area are close enough to Delhi to constitute a presence in Delhi. Can the court dismiss the claim at this stage based on the defendant's claim of limited sales area?",
+    "Legal Principles": "The court must accept the allegations in the plaint as true when deciding an application under Order VII Rule 10 of the CPC. If the plaintiff alleges sales within the court's jurisdiction, the court cannot dismiss the case at this stage based on the defendant's claim of a limited sales area.",
+    "Relevant Sections": "Order VII Rule 10 of the CPC, M/s RSPL Limited v. Mukesh Sharma & Anr.: 2016 SCC OnLine Del 4285",
+    "Context": "This case involves an application under Order VII Rule 10 of the CPC, where the court must determine if the plaintiff has sufficiently pleaded a cause of action within its territorial jurisdiction."
+  },
+  {
+    "Query": "A plaintiff is suing a defendant for copyright infringement and passing off. The plaintiff's registered office is in Delhi, and they claim the defendant is selling infringing products in a specific area within Delhi. The defendant argues that they are only selling in the specific area and not in the entire Delhi jurisdiction. Can the court dismiss the claim at this stage based on the defendant's claim of a limited sales area within Delhi?",
+    "Legal Principles": "The court must accept the allegations in the plaint as true when deciding an application under Order VII Rule 10 of the CPC. If the plaintiff alleges sales within the court's jurisdiction, the court cannot dismiss the case at this stage based on the defendant's claim of a limited sales area within Delhi.",
+    "Relevant Sections": "Order VII Rule 10 of the CPC, M/s RSPL Limited v. Mukesh Sharma & Anr.: 2016 SCC OnLine Del 4285",
+    "Context": "This case involves an application under Order VII Rule 10 of the CPC, where the court must determine if the plaintiff has sufficiently pleaded a cause of action within its territorial jurisdiction."
+  }
+]
+```

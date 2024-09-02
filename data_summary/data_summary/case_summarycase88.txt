@@ -1,0 +1,107 @@
+## 1. Case Title
+
+* **Case Name:** Telangana State Tourism Development Corporation Limited vs. M/S. A.A. Avocations Pvt. Ltd.
+* **Court:** Telangana High Court
+* **Date of Judgment:** 9th June 2022
+* **Citation:** CMA No. 163 of 2022
+
+## 2. Background and Context
+
+**Brief Overview:** This case involves a dispute between the Telangana State Tourism Development Corporation (TSTDC), the owner of a large plot of land developed into an eco-tourism and party area called "Durgam Cheruvu Eco Tourism Deck and Party Area," and M/S. A.A. Avocations Pvt. Ltd. (AA Avocations), the new lessee of the property. 
+
+**Key Issues:**
+* **Maintainability of the Application:** Whether the dispute between the parties constitutes a "commercial dispute" under the Commercial Courts Act, 2015, thereby necessitating jurisdiction in the Commercial Court.
+* **Jurisdiction of the Civil Court:** Whether the City Civil Court had jurisdiction to entertain the application filed under Section 9 of the Arbitration and Conciliation Act, 1996, given the nature of the dispute.
+* **Interim Relief:** Whether the Civil Court was justified in granting an interim injunction to AA Avocations restraining TSTDC from taking any coercive action.
+
+## 3. Legal Principles Involved
+
+**Relevant Statutes and Provisions:**
+* **Commercial Courts Act, 2015:**
+    * Section 2(1)(c)(vii): Defines "commercial dispute" to include "agreements relating to immovable property used exclusively in trade or commerce".
+    * Section 10:  Determines the jurisdiction for arbitration matters involving commercial disputes.
+    * Section 12: Defines "Specified Value" for determining the jurisdiction of Commercial Courts.
+* **Arbitration and Conciliation Act, 1996:**
+    * Section 9: Allows for interim relief in arbitral proceedings.
+
+**Precedents Cited:**
+* **Ambalal Sarabhai Enterprises Limited vs. K.S. Infraspace LLP and another** (2020) 15 SCC 585: The Supreme Court addressed the interpretation of "commercial dispute" and the role of the Commercial Court in such cases.
+* **Shree Balaji Sarees Private Limited Vs Shristi Infrastructure Development Corporation Limited:**  Calcutta High Court case addressing the nature of "commercial dispute."
+* **Uday Autolink Pvt.Ltd Vs Govindji Becharji Thakor:**  Gujarat High Court case dealing with the definition of "commercial dispute."
+* **Balakrishna Dattatraya Galande Vs Balakrishna Rambharose Gupta and another:** Supreme Court case concerning the granting of permanent injunctions in cases of non-payment of rent.
+
+**Legal Doctrines:**
+* **Jurisdictional Principles:** The court applied established principles governing the exercise of jurisdiction by various courts.
+* **Interpretation of Statutes:**  The court analyzed the language of the relevant statutory provisions to determine their intended scope.
+
+## 4. Arguments Presented
+
+**Plaintiff’s Argument (AA Avocations):**
+* The dispute does not arise out of a "commercial dispute" as defined by the Commercial Courts Act, 2015 because the property is not currently being used for commercial purposes.
+* The Civil Court has jurisdiction to entertain the application under Section 9 of the Arbitration and Conciliation Act, 1996.
+* The interim injunction granted by the Civil Court was justified as TSTDC was threatening to take coercive actions against AA Avocations, causing them irreparable harm.
+
+**Defendant’s Argument (TSTDC):**
+* The dispute is a "commercial dispute" as the land was previously used for commercial purposes, and the lease agreement was for commercial activity.
+* The City Civil Court lacked jurisdiction to entertain the application due to the nature of the dispute.
+* The interim injunction granted by the Civil Court was inappropriate as it prevented TSTDC from enforcing its rights under the lease agreement.
+
+## 5. Court’s Analysis and Reasoning
+
+**Key Findings:**
+* The court found that the "Durgam Cheruvu Eco Tourism Deck and Party Area" was already developed for commercial purposes by a previous lessee.
+* The land was not a barren or plain piece of land, and the previous lessee had constructed structures, tents, fixtures, and a microbrewery.
+* The lease agreement with AA Avocations was for commercial purposes, indicating the property's intended use.
+
+**Interpretation of Law:**
+* The court interpreted Section 2(1)(c)(vii) of the Commercial Courts Act, 2015 to mean that a dispute concerning immovable property becomes a "commercial dispute" if the property was *previously* used for commercial purposes, even if the current lessee hasn't commenced operations yet. 
+* The court analyzed Section 10 and Section 12 of the Act to determine that the Civil Court lacked jurisdiction in this case because the dispute involved a commercial property and the "Specified Value" exceeded one crore.
+
+**Application of Law:**
+* The court applied the legal principles related to the jurisdiction of courts and determined that the Civil Court lacked jurisdiction due to the nature of the dispute and the applicable statutory provisions. 
+* The court considered the Supreme Court's decision in **Balakrishna Dattatraya Galande Vs Balakrishna Rambharose Gupta and another** to emphasize that the non-payment of rent could affect the legality of the lessee's possession.
+
+## 6. Judgment
+
+**Final Decision:**
+* The High Court allowed the appeal filed by TSTDC. 
+* The order passed by the City Civil Court granting the interim injunction to AA Avocations was set aside.
+
+**Relief Granted:**
+* The court did not grant any specific relief to TSTDC other than setting aside the lower court order.
+
+**Orders:**
+* The court directed AA Avocations to seek any available remedy under the Commercial Courts Act, 2015. 
+* The court clarified that it did not express any opinion on the merits of the case, and all other issues were left open to be argued in appropriate proceedings. 
+
+## 7. Implications
+
+**Impact on Law:**
+* The judgment clarifies that for a dispute concerning immovable property to be considered a "commercial dispute" under the Commercial Courts Act, 2015, the property's *past* use for commercial purposes is sufficient, regardless of the current lessee's status.
+* It reinforces the importance of adhering to the jurisdictional guidelines set forth in the Commercial Courts Act, 2015, especially concerning disputes involving commercial properties.
+
+**Future Relevance:**
+* This case serves as a precedent for future disputes involving immovable properties previously used for commercial purposes, even if the current use is not yet active.
+* It is likely to influence courts in determining jurisdiction in such cases, ensuring adherence to the provisions of the Commercial Courts Act, 2015.
+
+**Broader Context:**
+* The judgment emphasizes the importance of resolving disputes through appropriate legal forums, promoting efficient dispute resolution and adherence to statutory provisions. 
+
+## 8. Summary Points
+
+* The Telangana High Court determined that the dispute between TSTDC and AA Avocations was a "commercial dispute" under the Commercial Courts Act, 2015, as the property had been previously used for commercial purposes.
+* The court found that the City Civil Court lacked jurisdiction to entertain the application and set aside the order granting interim relief to AA Avocations.
+* The judgment emphasizes the importance of adhering to the jurisdictional provisions of the Commercial Courts Act, 2015, particularly in cases involving commercial properties. 
+
+## 9. References
+
+* **Commercial Courts Act, 2015**
+* **Arbitration and Conciliation Act, 1996**
+* **Ambalal Sarabhai Enterprises Limited vs. K.S. Infraspace LLP and another** (2020) 15 SCC 585
+* **Shree Balaji Sarees Private Limited Vs Shristi Infrastructure Development Corporation Limited**
+* **Uday Autolink Pvt.Ltd Vs Govindji Becharji Thakor** 
+* **Balakrishna Dattatraya Galande Vs Balakrishna Rambharose Gupta and another** (2020) 19 SCC 119
+
+**Further Reading:**
+* **Case Law on the Commercial Courts Act, 2015:** Explore relevant judgments for a comprehensive understanding of the Act's application in different contexts. 
+* **Legal Texts on Arbitration and Conciliation:**  Refer to standard texts on arbitration law for in-depth analysis of legal principles and procedures. 

@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A developer, XYZ Properties, entered into an agreement to purchase a piece of land from ABC Land Holdings. The land was intended to be used for constructing a commercial shopping mall. However, ABC Land Holdings refused to sell the land, leading XYZ Properties to file a suit for specific performance. Is this a commercial dispute under the Commercial Courts Act, 2015?",
+    "Legal Principles": "The definition of 'commercial dispute' under Section 2(1)(c)(vii) of the Commercial Courts Act, 2015 focuses on agreements relating to immovable property 'used exclusively in trade or commerce.' The property must be actually used or being used for trade or commerce, not merely intended to be used in the future.",
+    "Relevant Sections": "Section 2(1)(c)(vii) of the Commercial Courts Act, 2015: \"'commercial dispute' means a dispute arising out of ... agreements relating to immovable property used exclusively in trade or commerce;\"",
+    "Context": "Jurisdiction: India. Case type: Specific performance of an agreement for sale of immovable property. The dispute arises from an agreement relating to land intended for commercial development."
+  },
+  {
+    "Query": "A company, Alpha Investments, lent money to Beta Enterprises for developing a commercial office building. When Beta Enterprises failed to repay the loan, Alpha Investments filed a suit for recovery of the loan amount. Does this dispute fall under the Commercial Courts Act, 2015?",
+    "Legal Principles": "The Commercial Courts Act, 2015 primarily focuses on disputes arising directly from agreements relating to immovable property used in trade or commerce. While the loan was used for commercial development, the dispute itself doesn't directly pertain to the property's use.",
+    "Relevant Sections": "Section 2(1)(c)(vii) of the Commercial Courts Act, 2015: \"'commercial dispute' means a dispute arising out of ... agreements relating to immovable property used exclusively in trade or commerce;\"",
+    "Context": "Jurisdiction: India. Case type: Recovery of loan amount. The dispute arises from a loan agreement used for commercial development, but the dispute itself is about the repayment of the loan, not the use of the property."
+  },
+  {
+    "Query": "Two companies, Gamma Ltd. and Delta Corp., entered into a joint venture agreement to develop a residential complex on a piece of land owned by Gamma Ltd. A dispute arose over the division of profits from the project. Is this a commercial dispute under the Commercial Courts Act, 2015?",
+    "Legal Principles": "The Commercial Courts Act, 2015 covers disputes arising from agreements relating to immovable property used exclusively in trade or commerce. While the joint venture agreement involves land development, the dispute centers around the division of profits, not the property's direct use for trade or commerce.",
+    "Relevant Sections": "Section 2(1)(c)(vii) of the Commercial Courts Act, 2015: \"'commercial dispute' means a dispute arising out of ... agreements relating to immovable property used exclusively in trade or commerce;\"",
+    "Context": "Jurisdiction: India. Case type: Dispute over profit sharing in a joint venture agreement. The dispute involves a residential complex project on land owned by one of the parties."
+  },
+  {
+    "Query": "A businessman, Mr. Kumar, filed a suit against a construction company, Zeta Builders, for failing to complete the construction of his residential building on time. Does this dispute qualify as a commercial dispute under the Commercial Courts Act, 2015?",
+    "Legal Principles": "The Commercial Courts Act, 2015 applies to disputes involving immovable property used exclusively in trade or commerce. A residential building, even if constructed by a commercial company, is not generally considered to be used for trade or commerce.",
+    "Relevant Sections": "Section 2(1)(c)(vii) of the Commercial Courts Act, 2015: \"'commercial dispute' means a dispute arising out of ... agreements relating to immovable property used exclusively in trade or commerce;\"",
+    "Context": "Jurisdiction: India. Case type: Breach of contract for construction of a residential building. The dispute involves a construction company building a residential property for an individual."
+  },
+  {
+    "Query": "A company, Omega Inc., entered into an agreement to lease a commercial office space from a property owner, Mr. Sharma. Omega Inc. failed to pay the rent, and Mr. Sharma filed a suit for recovery of the unpaid rent. Is this a commercial dispute under the Commercial Courts Act, 2015?",
+    "Legal Principles": "The Commercial Courts Act, 2015 applies to disputes involving immovable property used exclusively in trade or commerce. The lease agreement involves a commercial office space, and the dispute directly concerns the property's use for trade or commerce.",
+    "Relevant Sections": "Section 2(1)(c)(vii) of the Commercial Courts Act, 2015: \"'commercial dispute' means a dispute arising out of ... agreements relating to immovable property used exclusively in trade or commerce;\"",
+    "Context": "Jurisdiction: India. Case type: Recovery of rent under a lease agreement. The dispute involves a commercial office space, and the rent payment directly relates to the property's use for commercial purposes."
+  },
+  {
+    "Query": "Two individuals, Mr. Patel and Ms. Singh, entered into an agreement to purchase a plot of land for building a private residence. Ms. Singh later refused to go through with the purchase, and Mr. Patel filed a suit for specific performance. Is this a commercial dispute under the Commercial Courts Act, 2015?",
+    "Legal Principles": "The Commercial Courts Act, 2015 applies to disputes involving immovable property used exclusively in trade or commerce. The agreement concerns a plot of land intended for building a private residence, not for commercial use.",
+    "Relevant Sections": "Section 2(1)(c)(vii) of the Commercial Courts Act, 2015: \"'commercial dispute' means a dispute arising out of ... agreements relating to immovable property used exclusively in trade or commerce;\"",
+    "Context": "Jurisdiction: India. Case type: Specific performance of an agreement for sale of immovable property. The dispute involves a plot of land intended for building a private residence, not for commercial purposes."
+  },
+  {
+    "Query": "A company, Pi Ltd., entered into a contract with a construction company, Theta Constructions, to build a commercial factory on a piece of land owned by Pi Ltd. During construction, a dispute arose over the quality of materials used. Pi Ltd. filed a suit against Theta Constructions for breach of contract. Is this a commercial dispute under the Commercial Courts Act, 2015?",
+    "Legal Principles": "The Commercial Courts Act, 2015 covers disputes involving immovable property used exclusively in trade or commerce. The construction contract involves a commercial factory, and the dispute relates to the use of the property for trade or commerce.",
+    "Relevant Sections": "Section 2(1)(c)(vii) of the Commercial Courts Act, 2015: \"'commercial dispute' means a dispute arising out of ... agreements relating to immovable property used exclusively in trade or commerce;\"",
+    "Context": "Jurisdiction: India. Case type: Breach of contract for construction of a commercial factory. The dispute involves a commercial factory, and the dispute relates to the construction and use of the property for commercial purposes."
+  },
+  {
+    "Query": "A company, Rho Technologies, purchased a piece of land for constructing a research and development facility. Later, a dispute arose with the previous owner of the land over a boundary dispute. Rho Technologies filed a suit for declaration of title and possession of the land. Is this a commercial dispute under the Commercial Courts Act, 2015?",
+    "Legal Principles": "The Commercial Courts Act, 2015 applies to disputes involving immovable property used exclusively in trade or commerce. The dispute concerns a boundary dispute over land intended for a research and development facility, not directly related to the property's use for trade or commerce.",
+    "Relevant Sections": "Section 2(1)(c)(vii) of the Commercial Courts Act, 2015: \"'commercial dispute' means a dispute arising out of ... agreements relating to immovable property used exclusively in trade or commerce;\"",
+    "Context": "Jurisdiction: India. Case type: Declaration of title and possession of land. The dispute involves a boundary dispute over land intended for a research and development facility, not for direct commercial activity."
+  },
+  {
+    "Query": "A farmer, Mr. Singh, filed a suit against a construction company, Sigma Builders, for damaging his agricultural land during construction of a highway. Is this a commercial dispute under the Commercial Courts Act, 2015?",
+    "Legal Principles": "The Commercial Courts Act, 2015 applies to disputes involving immovable property used exclusively in trade or commerce. The dispute involves agricultural land used for farming, not for trade or commerce. The highway construction is a separate commercial activity, but the dispute directly relates to the agricultural land's damage.",
+    "Relevant Sections": "Section 2(1)(c)(vii) of the Commercial Courts Act, 2015: \"'commercial dispute' means a dispute arising out of ... agreements relating to immovable property used exclusively in trade or commerce;\"",
+    "Context": "Jurisdiction: India. Case type: Damage to agricultural land. The dispute involves agricultural land used for farming, not for trade or commerce. The construction company's activity is commercial, but the dispute centers on the damage to the agricultural land."
+  },
+  {
+    "Query": "A company, Tau Technologies, leased a warehouse from a property owner, Mr. Gupta, for storing its electronic equipment. After a fire damaged the warehouse, Tau Technologies filed a suit against Mr. Gupta for breach of the lease agreement, claiming negligence on his part. Is this a commercial dispute under the Commercial Courts Act, 2015?",
+    "Legal Principles": "The Commercial Courts Act, 2015 applies to disputes involving immovable property used exclusively in trade or commerce. The lease agreement involves a warehouse used for storing electronic equipment, a commercial activity. The dispute arises from the fire damage and the breach of the lease agreement, directly related to the property's use for commercial purposes.",
+    "Relevant Sections": "Section 2(1)(c)(vii) of the Commercial Courts Act, 2015: \"'commercial dispute' means a dispute arising out of ... agreements relating to immovable property used exclusively in trade or commerce;\"",
+    "Context": "Jurisdiction: India. Case type: Breach of lease agreement due to fire damage. The dispute involves a warehouse used for storing electronic equipment, a commercial activity. The dispute arises from the fire damage and the breach of the lease agreement, directly related to the property's use for commercial purposes."
+  }
+]
+``` 

@@ -1,0 +1,91 @@
+## 1. Case Title
+
+* **Case Name:** The Government @ State of Jharkhand through Department of Transport vs. M/S K.S Softnet Solution Private Ltd.
+* **Court:** Jharkhand High Court
+* **Date of Judgment:** 5th February 2024
+* **Citation:** C.M.P. No. 875 of 2023
+
+## 2. Background and Context
+
+* **Brief Overview:** The State of Jharkhand (Petitioner) filed a petition challenging an order passed by the Presiding Officer, Commercial Court, Ranchi, in an execution proceeding (Commercial Execution Case No. 02 of 2023). The order directed the attachment of the State's property based on an interim arbitral award passed in a separate arbitration case.
+* **Key Issues:** 
+    * Maintainability of the petition filed under Article 227 of the Constitution of India, challenging the order passed by the Commercial Court.
+    * Whether the order was appealable under Section 13(1-A) of the Commercial Courts Act, 2015, rendering the petition under Article 227 non-maintainable. 
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * Article 227 of the Constitution of India
+    * Section 37 of the Arbitration and Conciliation Act, 1996
+    * Section 13(1-A) of the Commercial Courts Act, 2015
+    * Section 115 of the Code of Civil Procedure (CPC)
+    * Order XLIII of the Code of Civil Procedure, 1908
+* **Precedents Cited:**
+    * Jaycee Housing Private Limited and Others v. Registrar (general), Orissa High Court, Cuttack and Others, (2023) 1 SCC 549
+    * Kandla Export Corporation and Another v. OCI Corporation and Another, (2018) 14 SCC 715
+    * Deep Industries Limited v. Oil and Natural gas Corporation Limited and Another, (2020) 15 SCC 706
+    * D.L.F. Housing and Construction Company (P) Ltd., New Delhi v. Sarup Singh and Others, (1969) 3 SCC 807
+* **Legal Doctrines:**
+    * **Jurisdictional Error:** Whether the lower court acted beyond its legal authority.
+    * **Interlocutory Orders:** Orders passed by a court that do not dispose of the entire case.
+    * **Revisionary Jurisdiction:** Power of a higher court to review the orders of a lower court.
+    * **Appealable Orders:** Orders that are specifically designated as appealable under law.
+
+## 4. Arguments Presented
+
+* **Petitioner's Argument:**
+    * The petition under Article 227 is maintainable because the order passed by the Commercial Court was interlocutory and not appealable under Section 37 of the Arbitration and Conciliation Act, 1996. 
+    * None of the conditions stipulated under Section 37 of the Act for appealability were met.
+    * The order was also not appealable under Section 13(1-A) of the Commercial Courts Act, 2015 because it was not specifically enumerated under Order XLIII of the CPC.
+* **Respondent's Argument:**
+    * The petition under Article 227 is not maintainable because the order was appealable under Section 13(1-A) of the Commercial Courts Act, 2015.
+    * The Commercial Court was functioning at the level of a District Judge, and the order passed was related to an execution proceeding.
+    * The absence of conditions specified under Section 37 of the Arbitration and Conciliation Act, 1996 did not preclude the appealability under the Commercial Courts Act, 2015.
+
+## 5. Court's Analysis and Reasoning
+
+* **Key Findings:**
+    * The court emphasized the specific purpose of the Commercial Courts Act, 2015 to expedite the disposal of commercial disputes.
+    * The court interpreted the non-obstante clause in Section 13(2) of the Act as explicitly barring any other form of appeal, including those under Article 227 of the Constitution or Section 115 of the CPC.
+    * The court found that the order passed by the Commercial Court was appealable under Section 13(1-A) of the Commercial Courts Act, 2015, as it was issued in an execution proceeding by a Commercial Court at the level of a District Judge. 
+* **Interpretation of Law:**
+    * The court interpreted the scope of Article 227 and Section 115 of the CPC in light of the amendments made in 2002. It concluded that these provisions primarily serve to correct jurisdictional errors and are not meant for reviewing interlocutory orders.
+    * The court carefully analyzed the interplay between the Arbitration and Conciliation Act, 1996, and the Commercial Courts Act, 2015, to determine the appropriate appellate forum.
+    * The court considered the precedent set in Kandla Export Corporation v. OCI Corporation, where the Supreme Court held that appeals under Section 13(1) of the Commercial Courts Act were limited to orders specifically enumerated under Order 43 of the CPC and Section 37 of the Arbitration Act. 
+* **Application of Law:**
+    * The court applied the principles established in Deep Industries Limited v. Oil and Natural gas Corporation Limited, wherein the Supreme Court clarified that petitions under Article 227 are maintainable only when the impugned order suffers from jurisdictional errors. 
+    * The court concluded that the petitioner's grievance in this case did not constitute a jurisdictional error, but rather an issue of disagreement with the order's content.
+    * The court determined that the petitioner's recourse lay within the framework of the Commercial Courts Act, 2015, through an appeal under Section 13(1-A).
+
+## 6. Judgment
+
+* **Final Decision:** The petition filed by the State of Jharkhand under Article 227 of the Constitution of India was dismissed as not maintainable. 
+* **Relief Granted:** No relief was granted to the petitioner.
+* **Orders:** 
+    * The interim order passed on 6th December 2023 was vacated.
+    * The petitioner was left open to seek alternative remedies for redressal of its grievance.
+
+## 7. Implications
+
+* **Impact on Law:** The judgment clarifies the scope of Article 227 of the Constitution in relation to appeals against orders passed by Commercial Courts. It reinforces the principle that the High Court's superintendence power under Article 227 is primarily limited to correcting jurisdictional errors.
+* **Future Relevance:** This judgment provides a clear precedent for future cases involving challenges to orders passed by Commercial Courts, particularly in the context of execution proceedings arising from arbitral awards. The court's emphasis on the exclusive appellate regime established under the Commercial Courts Act, 2015, is likely to influence future judicial decisions.
+* **Broader Context:** This case highlights the importance of legislative intent in interpreting statutes, particularly when different acts govern overlapping areas of law. The court's careful analysis of the purpose behind the Commercial Courts Act, 2015, demonstrates the need to consider the underlying objectives of statutory provisions while resolving legal disputes.
+
+## 8. Summary Points
+
+* The State of Jharkhand challenged an order of attachment issued by the Commercial Court in an execution proceeding. 
+* The court found that the order was appealable under Section 13(1-A) of the Commercial Courts Act, 2015, rendering the petition under Article 227 non-maintainable.
+* The court emphasized the exclusive appellate regime established by the Commercial Courts Act and its objective to expedite commercial disputes.
+* The judgment provides a precedent for future cases challenging orders of Commercial Courts, reinforcing the limitations of Article 227 to correct jurisdictional errors.
+
+## 9. References
+
+* **Citations:**
+    * Article 227 of the Constitution of India
+    * Section 37 of the Arbitration and Conciliation Act, 1996
+    * Section 13(1-A) of the Commercial Courts Act, 2015
+    * Section 115 of the Code of Civil Procedure (CPC)
+    * Order XLIII of the Code of Civil Procedure, 1908
+* **Further Reading:**
+    * Kandla Export Corporation and Another v. OCI Corporation and Another, (2018) 14 SCC 715
+    * Deep Industries Limited v. Oil and Natural gas Corporation Limited and Another, (2020) 15 SCC 706 

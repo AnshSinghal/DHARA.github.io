@@ -1,0 +1,85 @@
+## 1. Case Title
+
+* **Case Name:** Oil And Natural Gas Corporation Ltd vs Amit Ship Managment Pvt Ltd
+* **Court:** Gujarat High Court
+* **Date of Judgment:** 27 April, 2018
+* **Citation:** C/FA/474/2018
+
+## 2. Background and Context
+
+* **Brief Overview:** Oil and Natural Gas Corporation Ltd. (ONGC) sued Amit Ship Management Pvt. Ltd. (ASPL) and The Oriental Insurance Company Limited (Oriental) for damages to ONGC's diffuser system, which was allegedly damaged by a barge owned by ASPL. ONGC claimed the collision occurred due to ASPL's negligence and sought compensation from both ASPL and Oriental as the insurer. 
+* **Key Issues:**
+    * Whether the collision occurred due to ASPL's negligence.
+    * Whether the collision was an "Act of God," thereby absolving ASPL and Oriental from liability.
+    * Whether the failure of the trial court to specifically frame an issue regarding "Act of God" vitiated the proceedings.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * The Code of Civil Procedure, 1908, specifically Section 107 (power of court to frame issues).
+* **Precedents Cited:**
+    * Divisional Controller, KSRTC v. Mahadeva Shetty And Another (2003)7 SCC 197
+    * Vishwanatha Achari v. Kanakasabapathy (2005)6 SCC 56
+    * Prem Chand And Others v. Board of Revenue, Uttar Pradesh And Others (2008) 10 SCC 533
+    * Rishabh Chand Jain And Another v. Ginesh Chandra Jain (2016)6 SCC 675
+    * Swamy Atmananda And Others v. Sri Ramakrishna Tapovanam And Others (2005)10 SCC 51
+    * Sayeda Akhtar v. Abdul Ahad (2003)7 SCC 52
+    * Union of India And Others v. Vasavi Cooperative Housing Society Limited And Others (2014)2 SCC 269
+    * Nedunuri Kameswaramma v. Sampati Subba Rao - AIR 1963 SC 884
+* **Legal Doctrines:**
+    * "Act of God" - a natural event that cannot be anticipated or prevented, relieving liability.
+    * Burden of Proof - the plaintiff bears the burden of proving their case, including proving the defendant's negligence.
+
+## 4. Arguments Presented
+
+* **Plaintiff's Argument (ONGC):**
+    * ASPL's barge (M.V.PREETISAGAR) collided with ONGC's diffuser system due to ASPL's negligence.
+    * The collision was not an "Act of God," as ASPL's crew members could have prevented it by taking necessary precautions.
+    * The trial court erred in dismissing the suit on the "Act of God" ground without specifically framing an issue regarding it.
+    * ONGC cited several Supreme Court decisions to support their claim.
+* **Defendant's Argument (ASPL & Oriental):**
+    * The collision was a result of the "Act of God" - a strong current in the Tapi River that broke mooring ropes and caused the barges to drift uncontrollably.
+    * ASPL's crew members acted diligently to avoid the collision.
+    * The trial court correctly dismissed the suit based on the evidence proving the "Act of God" as the primary cause.
+    * The defendants relied on Supreme Court precedents to argue that the failure to frame a specific issue regarding "Act of God" didn't vitiate the proceedings.
+
+## 5. Court's Analysis and Reasoning
+
+* **Key Findings:**
+    * The court found that the plaintiff (ONGC) failed to prove that the collision was caused by ASPL's negligence.
+    * The court held that the collision occurred due to the strong current in the Tapi River, which was an "Act of God," and therefore, the defendants (ASPL & Oriental) were not liable.
+    * The court concluded that the trial court's failure to specifically frame an issue regarding "Act of God" did not prejudice the proceedings as both parties presented evidence and arguments on this issue.
+* **Interpretation of Law:**
+    * The court interpreted the "Act of God" doctrine as a natural event beyond human control, absolving the defendant from liability.
+    * The court applied the principle that the plaintiff bears the burden of proving their case, including the defendant's negligence.
+* **Application of Law:**
+    * The court applied the "Act of God" doctrine to the facts of the case, finding that the strong current in the river was a natural event beyond human control and caused the collision.
+    * The court applied the burden of proof principle, finding that ONGC failed to prove ASPL's negligence.
+
+## 6. Judgment
+
+* **Final Decision:** The appeal was dismissed. The court upheld the trial court's judgment dismissing the suit.
+* **Relief Granted:** No relief was granted to the plaintiff.
+* **Orders:** The court ordered the Registry to send the case record back to the learned Commercial Court, Vadodara.
+
+## 7. Implications
+
+* **Impact on Law:** The judgment reiterates the applicability of the "Act of God" doctrine in cases of collision caused by natural events. It reaffirms the burden of proof principle in civil litigation.
+* **Future Relevance:** The judgment can be cited in future cases involving collision, "Act of God," and the burden of proof. 
+* **Broader Context:** The case highlights the importance of thorough evidence and clear pleadings in establishing liability in civil disputes.
+
+## 8. Summary Points
+
+* ONGC sued ASPL and Oriental for damages to their diffuser system, claiming the collision was due to ASPL's negligence.
+* The court found that the collision was caused by a strong current in the Tapi River, an "Act of God," absolving the defendants from liability.
+* The court concluded that the trial court's failure to specifically frame an issue regarding "Act of God" did not vitiate the proceedings as both parties presented evidence and arguments on this issue.
+* The appeal was dismissed, and the court upheld the trial court's judgment dismissing the suit.
+
+## 9. References
+
+* **Citations:**
+    * The Code of Civil Procedure, 1908, Section 107
+    * All cited case names and citations listed above.
+* **Further Reading:**
+    * Texts on Torts and Negligence.
+    * Legal research databases for related judgments involving "Act of God" and maritime law. 

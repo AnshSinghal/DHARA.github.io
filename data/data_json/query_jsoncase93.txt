@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A partnership dispute has arisen where one partner claims a significant loss due to the actions of other partners, and the dispute involves a substantial amount of money. The partner seeks an injunction to protect their interests while arbitration proceedings are initiated. The question is whether the dispute should be adjudicated in a civil court or a commercial court.",
+    "Legal Principles": "Jurisdiction of commercial courts, determination of 'specified value' in commercial disputes, interpretation of statutes, purposive construction, principles of statutory interpretation, commercial dispute under the Commercial Courts Act, 2015, interim measures in arbitration under the Arbitration and Conciliation Act, 1996",
+    "Relevant Sections": "Section 2 (1) (c)1, Section 2 (1) (i)2, Sections 63, 10 (3)4, and 125 of the Commercial Courts Act, 2015; Section 96 of the Arbitration and Conciliation Act, 1996.",
+    "Context": "Partnership dispute, commercial dispute, jurisdiction of commercial court, application for injunction under Section 9 of the Arbitration and Conciliation Act, 1996"
+  },
+  {
+    "Query": "A dispute has arisen between partners in a Limited Liability Partnership (LLP) regarding the management and operations of the LLP. One partner seeks to restrain the other partners from taking actions that could potentially harm the LLP. The question is whether the dispute qualifies as a 'commercial dispute' under the Commercial Courts Act, 2015, and if so, whether the Commercial Court has jurisdiction to hear the matter.",
+    "Legal Principles": "Commercial dispute, partnership agreement, LLP agreement, jurisdiction of commercial courts, determination of 'specified value', interpretation of statutory provisions",
+    "Relevant Sections": "Section 2 (1) (c) of the Commercial Courts Act, 2015 (definition of 'commercial dispute'), Section 2 (1) (i) of the Commercial Courts Act, 2015 (definition of 'specified value'), Section 6 of the Commercial Courts Act, 2015 (jurisdiction of Commercial Court)",
+    "Context": "LLP dispute, partnership agreement, commercial dispute, jurisdiction of commercial court, interpretation of statutory provisions"
+  },
+  {
+    "Query": "A company has filed an application under Section 9 of the Arbitration and Conciliation Act, 1996, seeking an interim injunction to prevent a rival company from engaging in certain business activities. The rival company argues that the dispute is a commercial dispute and should be heard by a commercial court. The question is whether the dispute falls within the purview of commercial disputes under the Commercial Courts Act, 2015, and whether the civil court erred in entertaining the application.",
+    "Legal Principles": "Commercial dispute, jurisdiction of commercial courts, determination of 'specified value', interpretation of statutes, interim measures in arbitration under the Arbitration and Conciliation Act, 1996, Section 9 of the Arbitration and Conciliation Act, 1996",
+    "Relevant Sections": "Section 2 (1) (c) of the Commercial Courts Act, 2015 (definition of 'commercial dispute'), Section 2 (1) (i) of the Commercial Courts Act, 2015 (definition of 'specified value'), Section 6 of the Commercial Courts Act, 2015 (jurisdiction of Commercial Court), Section 9 of the Arbitration and Conciliation Act, 1996",
+    "Context": "Commercial dispute, jurisdiction of commercial court, interim injunction under Section 9 of the Arbitration and Conciliation Act, 1996, interpretation of statutory provisions"
+  },
+  {
+    "Query": "A contract dispute has arisen between two parties involving a significant amount of money. One party seeks to enforce the contract, while the other party claims that the contract is invalid. The question is whether the dispute should be resolved in a civil court or a commercial court.",
+    "Legal Principles": "Commercial dispute, contract dispute, jurisdiction of commercial courts, determination of 'specified value', interpretation of statutes",
+    "Relevant Sections": "Section 2 (1) (c) of the Commercial Courts Act, 2015 (definition of 'commercial dispute'), Section 2 (1) (i) of the Commercial Courts Act, 2015 (definition of 'specified value'), Section 6 of the Commercial Courts Act, 2015 (jurisdiction of Commercial Court)",
+    "Context": "Contract dispute, commercial dispute, jurisdiction of commercial court, interpretation of statutory provisions"
+  },
+  {
+    "Query": "A property dispute has arisen between two individuals, involving a substantial amount of money. One party claims ownership of the property, while the other party disputes the claim. The question is whether the dispute should be adjudicated in a civil court or a commercial court.",
+    "Legal Principles": "Commercial dispute, property dispute, jurisdiction of commercial courts, determination of 'specified value', interpretation of statutes",
+    "Relevant Sections": "Section 2 (1) (c) of the Commercial Courts Act, 2015 (definition of 'commercial dispute'), Section 2 (1) (i) of the Commercial Courts Act, 2015 (definition of 'specified value'), Section 6 of the Commercial Courts Act, 2015 (jurisdiction of Commercial Court)",
+    "Context": "Property dispute, commercial dispute, jurisdiction of commercial court, interpretation of statutory provisions"
+  },
+  {
+    "Query": "A company has filed an application under Section 11 of the Arbitration and Conciliation Act, 1996, seeking to appoint an arbitrator to resolve a dispute with its supplier. The supplier claims that the dispute is a commercial dispute and should be heard by a commercial court. The question is whether the dispute falls within the purview of commercial disputes under the Commercial Courts Act, 2015, and whether the civil court erred in entertaining the application.",
+    "Legal Principles": "Commercial dispute, jurisdiction of commercial courts, determination of 'specified value', interpretation of statutes, arbitration under the Arbitration and Conciliation Act, 1996, Section 11 of the Arbitration and Conciliation Act, 1996",
+    "Relevant Sections": "Section 2 (1) (c) of the Commercial Courts Act, 2015 (definition of 'commercial dispute'), Section 2 (1) (i) of the Commercial Courts Act, 2015 (definition of 'specified value'), Section 6 of the Commercial Courts Act, 2015 (jurisdiction of Commercial Court), Section 11 of the Arbitration and Conciliation Act, 1996",
+    "Context": "Commercial dispute, jurisdiction of commercial court, appointment of arbitrator under Section 11 of the Arbitration and Conciliation Act, 1996, interpretation of statutory provisions"
+  },
+  {
+    "Query": "A dispute has arisen between a landlord and a tenant regarding the terms of a lease agreement. The landlord claims that the tenant has breached the agreement, while the tenant claims that the landlord has violated the terms. The question is whether the dispute qualifies as a 'commercial dispute' under the Commercial Courts Act, 2015, and if so, whether the Commercial Court has jurisdiction to hear the matter.",
+    "Legal Principles": "Commercial dispute, lease agreement, landlord-tenant dispute, jurisdiction of commercial courts, determination of 'specified value', interpretation of statutory provisions",
+    "Relevant Sections": "Section 2 (1) (c) of the Commercial Courts Act, 2015 (definition of 'commercial dispute'), Section 2 (1) (i) of the Commercial Courts Act, 2015 (definition of 'specified value'), Section 6 of the Commercial Courts Act, 2015 (jurisdiction of Commercial Court)",
+    "Context": "Landlord-tenant dispute, lease agreement, commercial dispute, jurisdiction of commercial court, interpretation of statutory provisions"
+  },
+  {
+    "Query": "A company has filed a lawsuit against a former employee, alleging breach of contract and misappropriation of confidential information. The former employee claims that the dispute is a commercial dispute and should be heard by a commercial court. The question is whether the dispute falls within the purview of commercial disputes under the Commercial Courts Act, 2015, and whether the civil court erred in entertaining the lawsuit.",
+    "Legal Principles": "Commercial dispute, breach of contract, misappropriation of confidential information, jurisdiction of commercial courts, determination of 'specified value', interpretation of statutes",
+    "Relevant Sections": "Section 2 (1) (c) of the Commercial Courts Act, 2015 (definition of 'commercial dispute'), Section 2 (1) (i) of the Commercial Courts Act, 2015 (definition of 'specified value'), Section 6 of the Commercial Courts Act, 2015 (jurisdiction of Commercial Court)",
+    "Context": "Employment dispute, breach of contract, misappropriation of confidential information, commercial dispute, jurisdiction of commercial court, interpretation of statutory provisions"
+  },
+  {
+    "Query": "A dispute has arisen between two companies regarding the sale and purchase of goods. One company claims that the other company breached the terms of the contract, while the other company claims that the goods were defective. The question is whether the dispute qualifies as a 'commercial dispute' under the Commercial Courts Act, 2015, and if so, whether the Commercial Court has jurisdiction to hear the matter.",
+    "Legal Principles": "Commercial dispute, sale and purchase of goods, breach of contract, defective goods, jurisdiction of commercial courts, determination of 'specified value', interpretation of statutory provisions",
+    "Relevant Sections": "Section 2 (1) (c) of the Commercial Courts Act, 2015 (definition of 'commercial dispute'), Section 2 (1) (i) of the Commercial Courts Act, 2015 (definition of 'specified value'), Section 6 of the Commercial Courts Act, 2015 (jurisdiction of Commercial Court)",
+    "Context": "Sale and purchase of goods, commercial dispute, jurisdiction of commercial court, interpretation of statutory provisions"
+  },
+  {
+    "Query": "A company has filed an application under Section 9 of the Arbitration and Conciliation Act, 1996, seeking an interim injunction to prevent a competitor from using its trade secrets. The competitor claims that the dispute is a commercial dispute and should be heard by a commercial court. The question is whether the dispute falls within the purview of commercial disputes under the Commercial Courts Act, 2015, and whether the civil court erred in entertaining the application.",
+    "Legal Principles": "Commercial dispute, trade secrets, intellectual property, jurisdiction of commercial courts, determination of 'specified value', interpretation of statutes, interim measures in arbitration under the Arbitration and Conciliation Act, 1996, Section 9 of the Arbitration and Conciliation Act, 1996",
+    "Relevant Sections": "Section 2 (1) (c) of the Commercial Courts Act, 2015 (definition of 'commercial dispute'), Section 2 (1) (i) of the Commercial Courts Act, 2015 (definition of 'specified value'), Section 6 of the Commercial Courts Act, 2015 (jurisdiction of Commercial Court), Section 9 of the Arbitration and Conciliation Act, 1996",
+    "Context": "Intellectual property dispute, trade secrets, commercial dispute, jurisdiction of commercial court, interim injunction under Section 9 of the Arbitration and Conciliation Act, 1996, interpretation of statutory provisions"
+  }
+]
+```

@@ -1,0 +1,110 @@
+##  M/S KLR Group Enterprises vs Madhu H V 
+
+**1. Case Title**
+
+* **Case Name:** M/S KLR Group Enterprises vs Madhu H V 
+* **Court:** Karnataka High Court
+* **Date of Judgment:** 19th July 2024
+* **Citation:**  Commercial Appeal No. 56 of 2024 (in COM.A.A 3 of 2024)
+
+**2. Background and Context**
+
+* **Brief Overview:** M/S KLR Group Enterprises (Appellant) sought to appeal an order by the Commercial Court, Bengaluru Rural, denying their application for an ex-parte interim injunction under Section 9 of the Arbitration and Conciliation Act, 1996 (Act, 1996). The Appellant was attempting to restrain the Respondents (Madhu H V and others) from interfering with their property and development works.
+* **Key Issues:**
+    * Whether an order refusing or granting an ex-parte interim measure under Section 9 of the Act, 1996, in a commercial arbitration dispute, is appealable under Section 37 of the Act, 1996.
+    * Whether the proviso to Section 13(1A) of the Commercial Courts Act, 2015 (Act, 2015) bars such an appeal. 
+
+**3. Legal Principles Involved**
+
+* **Relevant Statutes and Provisions:**
+    * Arbitration and Conciliation Act, 1996 (Act, 1996): Sections 9 and 37
+    * Commercial Courts Act, 2015 (Act, 2015): Section 13(1A)
+    * Code of Civil Procedure, 1908 (Code): Order XXXIX Rule 3, Order XLIII Rule 1
+    * High Court of Karnataka Arbitration (Proceedings before the Courts) Rules, 2001 (Rules, 2001): Rule 9 
+* **Precedents Cited:**
+    * **In Favor of the Appellant:** 
+        * M/s. Sorting Hat Technologies Private Limited vs. Sri Vishal Vivek Tiwari (COMAP No.274/2022)
+        * ICICI Bank Limited vs. IVRCL Ltd. (2011 SCC ONLINE AP 210)
+        * M/S Bilasraika Sponge Iron Pvt. Ltd., vs. M/S Devi Trading Company (2002 SCC ONLINE Guj 288)
+        * Aventis Pasteur S.A vs. Cadila Pharmaceuticals Ltd., (2014 SCC ONLINE Bom 534)
+        * Perin Hoshang Davierwalla And Another vs. Kobad Dorabji Davierwalla and others (ILR 2010 KAR 4722)
+        * M/S Nikitha Build-Tech (P) Ltd., vs. M/S Natural Textiles Pvt. Ltd. (ILR 2010 KAR 2846)
+        * Smt Madhumati vs. The State of Karnataka and others (2022 SCC ONLINE SC 1219)
+        * Essar House Private Limited vs. Arcellor Mittal Nippon Steel India Limited (2020) 15 SCC 585
+        * Antrix vs Davas (2018 SCC online Delhi 9338) 
+    * **In Favor of the Respondents:**
+        * Symphony Services Corporation (India) Private Limited, Bangalore vs. Sudip Bhattacharjee (2008) 2 KLJ 24
+        * A Venkatasubbaiah Naidu Vs S Challappan and ors. (2000) 7 SUPREME COURT CASES 695)
+        * M/S Parijatha And Another Vs Kamalaksha Nayak and ors. (AIR 1982 Karnataka 105)
+        * MR.R.Ravindaranatha Manvi VS Mr.K.R.Ramesh and ors. (Misc. First Appeal No.3837/2018)
+        * Madiwalappa Shivappa Badiger vs Sri Sukshethra Sri.Somanatha Shivappa Muttya Committee (ILR 1992 KAR 2644)
+        * National Thermal Power Corporation Ltd. Vs. Meghalaya Power Distribution Corporation. Ltd. and others (AIR 2021 MEGHALAYA 53)
+        * BGS SGS SOMA JV Vs. NHPC Ltd. (AIR Online 2019 SC 1720)
+        * Ambalal Sarabhai Enterprises Ltd. Vs. K.S Infraspace LLP & Another (AIR Online 2019 SC 1720) 
+* **Legal Doctrines:**
+    * **Principles of Interpretation:** The Court interpreted the language of the relevant statutes and rules. 
+    * **Final Order vs Interlocutory Order:** The Court addressed the distinction between final orders and interlocutory orders in the context of Section 9 applications.
+    * **Scope of Discretionary Powers:** The Court acknowledged the discretionary power of the Courts but recognized that such powers must be exercised based on certain principles.
+
+**4. Arguments Presented**
+
+* **Appellant’s Argument:**
+    * The power to grant interim orders under Section 9 of the Act, 1996 includes the power to grant ex-parte interim orders, as acknowledged by the Rules, 2001. 
+    * An order declining an ex-parte interim measure is an appealable order under Section 37 of the Act, 1996.
+    * The precedent established in M/s. Sorting Hat Technologies Private Limited vs. Sri Vishal Vivek Tiwari, and other cited judgments, supports their argument.
+* **Respondent’s Argument:**
+    * Appeals under Section 37 of the Act, 1996 are only maintainable against interlocutory orders specifically enumerated in Order XLIII of the Code, as per the proviso to Section 13(1A) of the Act, 2015.
+    * The impugned order is not a final order under Section 9 of the Act, 1996, as the application is still pending before the learned District Judge.
+    * The order in M/s. Sorting Hat Technologies Private Limited is not binding precedent and the decision in Symphony Services Corporation (India) Private Limited, Bangalore should be followed. 
+    * An appeal against an order refusing ex-parte interim measure would defeat the purpose of the Act, 1996 and Act, 2015, as per the Apex Court's decision in BGS SGS SOMA JV Vs. NHPC LTD.
+    * The dispute is not a commercial dispute, rendering the appeal itself inadmissible before the High Court.
+
+**5. Court’s Analysis and Reasoning**
+
+* **Key Findings:**
+    * The Court found that the language of Rule 9 of Rules, 2001 suggests that ex-parte interim measures, if granted, are in exercise of power under Section 9 of the Act, 1996. 
+    * The Court analyzed the interplay of Section 9 and 37 of the Act, 1996, Section 13 of the Act, 2015, and Rule 9 of Rules, 2001.
+    * The Court determined that the order refusing an ex-parte interim measure is a final order as it definitively denies the specific relief sought.
+* **Interpretation of Law:** 
+    * The Court emphasized the non-obstante clause in Section 37 of the Act, 1996, indicating its overriding effect.
+    * The Court noted that Section 13 of the Act, 2015 limits appealable orders under Order XLIII of the Code, but this does not affect the scope of Section 37 of the Act, 1996.
+* **Application of Law:**
+    * The Court applied the principles of interpretation to conclude that the expression "granting or refusing to grant any measure under Section 9" in Section 37 of the Act, 1996, encompasses ex-parte interim measures.
+    * The Court distinguished the precedents cited by both parties, clarifying that some judgments addressed different legal issues and were not directly applicable.
+
+**6. Judgment**
+
+* **Final Decision:** The appeal was disposed of. 
+* **Relief Granted:** The case was remitted back to the Commercial Court (the Section 9 Court) to consider the application for interim measure under Section 9 of the Act, 1996. The interim protection granted by the High Court to the Appellant was extended until the Section 9 application was finally disposed of.
+* **Orders:**
+    * The Section 9 Court was directed to hear the objections of the Respondents expeditiously and to cooperate with the parties for early disposal of the application. 
+    * The High Court did not address the issue of whether the dispute was a commercial dispute and directed the Commercial Court to consider this if not already decided.
+
+**7. Implications**
+
+* **Impact on Law:**
+    * This judgment clarifies that an order granting or refusing an ex-parte interim measure under Section 9 of the Act, 1996 is appealable under Section 37 of the Act, 1996, even when the Section 9 application is before a Commercial Court.
+    * This decision overrules the previous decision in Symphony Services Corporation (India) Private Limited, Bangalore vs. Sudip Bhattacharjee. 
+* **Future Relevance:**
+    * This judgment is likely to influence future legal decisions regarding the appealability of orders on ex-parte interim measures under Section 9 of the Act, 1996. 
+* **Broader Context:**
+    * This judgment is significant for parties involved in arbitration proceedings, as it clarifies their rights to appeal certain orders.
+
+**8. Summary Points**
+
+* Appeals against orders granting or refusing ex-parte interim measures under Section 9 of the Act, 1996 are maintainable under Section 37 of the Act, 1996.
+* The proviso to Section 13(1A) of the Act, 2015 does not restrict appeals under Section 37 of the Act, 1996.
+* The scope of interference by the appellate court is limited in these appeals, focusing primarily on whether the ex-parte order could be deferred until the respondent is heard. 
+* The decision in Symphony Services Corporation (India) Private Limited, Bangalore vs. Sudip Bhattacharjee has been overruled.
+
+**9. References**
+
+* Please refer to the full text of the judgment for citations to statutes, cases, and legal texts. 
+
+**Further Reading:** 
+
+*  The Arbitration and Conciliation Act, 1996
+*  The Commercial Courts Act, 2015
+*  The Code of Civil Procedure, 1908
+*  The High Court of Karnataka Arbitration (Proceedings before the Courts) Rules, 2001 
+*  Relevant case law cited in the judgment. 

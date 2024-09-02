@@ -1,0 +1,110 @@
+## 1. Case Title
+
+* **Case Name:** M/s Shree Ram Junawa Industries vs. M/s Rounak Steels
+* **Court:** Rajasthan High Court - Jodhpur
+* **Date of Judgment:** 18th October 2022
+* **Citation:** S.B. Civil Writ Petition No. 8048/2022
+
+## 2. Background and Context
+
+* **Brief Overview:**  M/s Shree Ram Junawa Industries (petitioner) purchased goods from M/s Rounak Steels (respondent) but failed to make timely payment. The respondent filed a complaint with the Micro and Small Enterprises Facilitation Council (MSEFC) under the Micro, Small and Medium Enterprises Development Act, 2006 (MSMED Act). The MSEFC issued an award directing the petitioner to pay the amount due. The petitioner challenged this award before the Rajasthan High Court, but the petition was dismissed. Subsequently, the petitioner filed an appeal under Section 34 of the Arbitration and Conciliation Act, 1996 (Arbitration Act) in the Commercial Court and was directed to deposit 75% of the award amount. The petitioner failed to deposit the amount and the appeal was dismissed. The respondent then initiated execution proceedings. The petitioner filed objections under Section 47 of the CPC, which were rejected by the Commercial Court. The petitioner then filed this writ petition challenging the order rejecting the objections.
+
+* **Key Issues:** 
+    * Validity of the MSEFC award: Was the award passed in violation of Section 10 of the Arbitration Act due to the death of one of the members of the Arbitration Tribunal?
+    * Premature execution proceedings: Were the execution proceedings initiated before the expiry of the time limit for challenging the award under the Arbitration Act?
+    * Stamp duty on the award: Was the award required to be stamped under the Rajasthan Stamp Act?
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:** 
+    * Micro, Small and Medium Enterprises Development Act, 2006 (MSMED Act)
+    * Arbitration and Conciliation Act, 1996 (Arbitration Act)
+    * Code of Civil Procedure (CPC)
+    * Rajasthan Stamp Act
+
+* **Precedents Cited:**
+    * Chief Engineer, Hydel Project and Others Vs. Ravinder Nath and Others, reported in (2008) 2 SCC 350
+    * S.A. Mohideen Vs. S.A. Fasluddin and Ors. [O.P. No.310 of 2018, O.A. Nos.257, 258 of 2018 and A.No.2450 of 2018, decided on 02.08.2018]
+    * SRS Investments Bengal Tiger Ltd. and Ors. Vs. Rahul Todi and Ors. [C.O.Nos.39-41 of 2019 and C.O.No.197 of 2019, decided on 24.06.2019]
+    * R.S. Bajwa and Company Vs. State of Chhattisgarh and Ors., reported in AIR 2008 Chh 75
+    * Ravinder Kaur Vs. Ashok Kumar and Another, reported in AIR 2004 SC 904
+    * Satyadhyan Ghosal and Ors. Vs. Smt. Deorjin Debi and Anr., reported in AIR 1960 SC 941
+
+* **Legal Doctrines:**
+    * Res judicata
+    * Principles of limitation
+    * Interpretation of statutes
+    * Judicial discretion
+
+## 4. Arguments Presented
+
+* **Petitioner’s Argument:**
+    * The MSEFC award was passed by an even number of members in violation of Section 10 of the Arbitration Act, making it non-executable.
+    * The execution proceedings were premature as they were initiated before the expiry of the period for challenging the award.
+    * The award was not sufficiently stamped, making it unenforceable.
+
+* **Respondent’s Argument:**
+    * The Commercial Court was correct in rejecting the petitioner’s objections.
+    * The award was valid as the decision to pass it was taken by the full panel of the Arbitration Tribunal.
+    * The execution proceedings were not premature.
+    * The award was not required to be stamped.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The court found that the petitioner had deliberately disregarded previous court orders and used various forums to delay the execution of the award.
+    * The court held that the principles of res judicata applied as the petitioner had failed to deposit the required amount and the appeal had been dismissed.
+    * The court noted that the decision to pass the award was made by all three members of the Arbitration Tribunal, despite the death of one member later.
+    * The court held that the execution proceedings were not premature as they were filed after the time limit for challenging the award had expired.
+    * The court found that the award did not require stamping under the Rajasthan Stamp Act.
+
+* **Interpretation of Law:**
+    * The court interpreted Section 10 of the Arbitration Act to mean that the decision to pass an award must be taken by the full panel of the Arbitration Tribunal, even if one member is no longer alive.
+    * The court interpreted the provisions of the Arbitration Act and the Rajasthan Stamp Act regarding limitation periods and stamp duty.
+
+* **Application of Law:**
+    * The court applied the principles of res judicata and limitation periods to the facts of the case.
+    * The court applied the relevant provisions of the Arbitration Act and the Rajasthan Stamp Act to determine the validity of the award and the execution proceedings.
+
+## 6. Judgment
+
+* **Final Decision:** The writ petition was dismissed.
+
+* **Relief Granted:** No relief was granted to the petitioner.
+
+* **Orders:** The stay petition was also dismissed.
+
+## 7. Implications
+
+* **Impact on Law:** The judgment reinforces the application of the principles of res judicata and limitation periods in arbitration proceedings. It also clarifies the requirements for the validity of an award passed by the MSEFC under the MSMED Act.
+
+* **Future Relevance:** This case serves as a reminder to parties in similar disputes to comply with court orders and avoid frivolous litigation. It also emphasizes the importance of adhering to the legal requirements for valid arbitration proceedings and execution of awards.
+
+* **Broader Context:** The judgment highlights the need for a speedy and efficient resolution of commercial disputes in India. It emphasizes the importance of the courts in enforcing the law and ensuring that parties uphold their legal obligations.
+
+## 8. Summary Points
+
+* The petitioner failed to comply with previous court orders and deliberately delayed the execution of the award.
+* The petitioner’s objections to the execution proceedings were rejected due to the application of the principles of res judicata and limitation periods.
+* The court held that the MSEFC award was valid even though one member of the Arbitration Tribunal died before the final award was signed.
+* The award was not required to be stamped under the Rajasthan Stamp Act.
+
+## 9. References
+
+* **Citations:** 
+    * Micro, Small and Medium Enterprises Development Act, 2006 (MSMED Act)
+    * Arbitration and Conciliation Act, 1996 (Arbitration Act)
+    * Code of Civil Procedure (CPC)
+    * Rajasthan Stamp Act
+    * Chief Engineer, Hydel Project and Others Vs. Ravinder Nath and Others, reported in (2008) 2 SCC 350
+    * S.A. Mohideen Vs. S.A. Fasluddin and Ors. [O.P. No.310 of 2018, O.A. Nos.257, 258 of 2018 and A.No.2450 of 2018, decided on 02.08.2018]
+    * SRS Investments Bengal Tiger Ltd. and Ors. Vs. Rahul Todi and Ors. [C.O.Nos.39-41 of 2019 and C.O.No.197 of 2019, decided on 24.06.2019]
+    * R.S. Bajwa and Company Vs. State of Chhattisgarh and Ors., reported in AIR 2008 Chh 75
+    * Ravinder Kaur Vs. Ashok Kumar and Another, reported in AIR 2004 SC 904
+    * Satyadhyan Ghosal and Ors. Vs. Smt. Deorjin Debi and Anr., reported in AIR 1960 SC 941
+
+* **Further Reading:**
+    *  The Micro, Small and Medium Enterprises Development Act, 2006
+    * The Arbitration and Conciliation Act, 1996
+    * The Code of Civil Procedure (CPC)
+    * The Rajasthan Stamp Act

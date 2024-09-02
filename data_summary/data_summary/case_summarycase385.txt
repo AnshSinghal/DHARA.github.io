@@ -1,0 +1,94 @@
+##  Vijay Kumar Varshney vs Longlast Power Products Ltd And Anr
+
+**1. Case Title**
+
+* **Case Name:** Vijay Kumar Varshney vs Longlast Power Products Ltd And Anr
+* **Court:** Delhi High Court
+* **Date of Judgment:** 3rd July, 2023
+* **Citation:** Not provided in the text.
+
+**2. Background and Context**
+
+* **Brief Overview:** The case involves a commercial dispute between Vijay Kumar Varshney (Petitioner/Plaintiff) and Longlast Power Products Ltd. and Anr. (Respondents/Defendants) regarding the alleged unauthorized use of the Petitioner's trademark "AMAZE" on batteries by the Respondents. The Petitioner filed a suit seeking an injunction to prevent the Respondents from using the mark, claiming passing off. 
+* **Key Issues:** 
+    * Whether the Petitioner had a reasonable cause for not disclosing certain documents along with the plaint, as required under Order XI Rule 1(5) of the Code of Civil Procedure, 1908 (CPC).
+    * Whether the Petitioner could rely on documents not disclosed with the plaint to rebut the Respondent's claims, as per Order XI Rule 1(1)(c)(ii) of CPC.
+
+**3. Legal Principles Involved**
+
+* **Relevant Statutes and Provisions:**
+    * Order XI of CPC, particularly Rule 1(1), 1(3), 1(4), and 1(5).
+    * Commercial Courts Act, 2015.
+* **Precedents Cited:**
+    * Sudhir Kumar v. Vinay Kumar G.B. (2021 SCC Online SC 734).
+    * Bela Creation Pvt. Ltd. v. Anuj Textiles (2022 SCC OnLine Del 1366).
+    * M-Power Energy India (P) Ltd. and Anr. v. Sumana Mazumdar (2022 SCC OnLine Del 3312).
+    * The Great Gatsby Club v. Mahesh Prefab (2022 SCC OnLine Del 2099).
+    * HT Media and Ors. v. Brain Link International Inc. & Ors. (2021 SCC OnLine Del 5398).
+    * Brainlink International Inc. & Anr. v. HT Media Limited & Anr., Petition for Special Leave to Appeal C No. 3579/2022, order dated 14th March, 2022.
+    * Prakash Corporates v. Dee Vee Projects (2022 SCC OnLine SC 180).
+    * Bennett Coleman & Co. Ltd. v. ARG Outlier Media Pvt. Ltd. (Neutral Citation No. 2023:DHC:001726).
+* **Legal Doctrines:**
+    * Passing off.
+    * Doctrine of prior user.
+    * Supervisory jurisdiction of the High Court under Article 227 of the Constitution of India.
+
+**4. Arguments Presented**
+
+* **Petitioner's Argument:** 
+    * The Petitioner claimed to have been using the trademark "AMAZE" since 2008 and discovered that the Respondents were selling batteries under the same mark without permission.
+    * The Petitioner argued that they had inadvertently omitted certain documents from the initial filing due to the COVID-19 pandemic and its impact on their staff and counsel's ability to work.
+    * They argued that the documents were necessary to support their case and rebut the Respondent's claims.
+    * The Petitioner emphasized that the suit was still in its early stages and the denial of additional documents could hamper the pursuit of justice.
+* **Respondent's Argument:**
+    * The Respondents argued that the Petitioner had a duty to disclose all relevant documents with the plaint or within 30 days, as per Order XI Rule 1(1) of CPC.
+    * They emphasized that the Petitioner had declared on oath that they had disclosed all documents in their possession, control, and custody at the time of filing the suit.
+    * The Respondents cited the Supreme Court judgment in Sudhir Kumar (supra) to argue that the strict provisions of Order XI Rule 1(5) should apply in this case.
+    * They argued that the Petitioner had not established a sufficient reason for the non-disclosure of documents and that the COVID-19 pandemic did not justify the delay.
+
+**5. Court’s Analysis and Reasoning**
+
+* **Key Findings:** 
+    * The court found that the Petitioner had not established a separate reason for "non-disclosure" of documents beyond the reasons for "non-filing."
+    * The court found that the distinction between "non-disclosure" and "non-filing" was artificial and that the COVID-19 pandemic could constitute a reasonable cause for both.
+    * The court found that the Petitioner had made a basic disclosure of the documents in question in the plaint and that the law does not require an exhaustive list of all documents in the pleadings.
+    * The court found that the COVID-19 pandemic created extraordinary circumstances that justified the Petitioner's delay in submitting the additional documents.
+    * The court found that the documents sought to be introduced by the Petitioner were relevant to the case and were necessary to rebut the Respondent's claims.
+    * The court recognized the Respondent's argument regarding its jurisdiction under Article 227 of the Constitution of India but found that the Trial Court's decision contained a manifest error, necessitating intervention.
+* **Interpretation of Law:** 
+    * The court interpreted Order XI Rule 1(5) of CPC as requiring a reasonable cause for not disclosing documents within the party's possession, control, and custody. 
+    * The court found that the COVID-19 pandemic could be a valid reason for not filing documents with the plaint, as recognized by the Supreme Court in Prakash Corporates (supra).
+    * The court distinguished the Sudhir Kumar (supra) judgment, noting that it did not put an absolute bar on admitting additional documents and that the circumstances of that case were different.
+* **Application of Law:** 
+    * The court applied the legal principles regarding disclosure of documents under Order XI of CPC and the discretionary power of the court to admit additional documents.
+    * The court considered the unique circumstances of the case, particularly the COVID-19 pandemic, and balanced the need for procedural fairness with the need to prevent undue delays.
+    * The court ultimately found that the Petitioner's delay was justified and allowed the admission of additional documents.
+
+**6. Judgment**
+
+* **Final Decision:** The petition was allowed.
+* **Relief Granted:** The Impugned Order dated 02nd August, 2022 was set aside. The additional documents were allowed to be taken on record.
+* **Orders:**
+    * The Petitioner was ordered to pay INR 50,000/- in costs to the Respondents within a week of the judgment.
+    * The Respondents were given two weeks to file any additional documents they wanted to submit to the Trial Court.
+
+**7. Implications**
+
+* **Impact on Law:** The judgment clarifies that the COVID-19 pandemic can be considered a valid reason for not filing certain documents with the plaint, even if they are within the party's possession, control, and custody, subject to the discretion of the court. It also emphasizes that the court should consider the unique circumstances of each case while applying Order XI Rule 1(5) of CPC.
+* **Future Relevance:** The case provides guidance for future decisions involving the admission of additional documents in commercial cases, particularly in light of exceptional circumstances such as the COVID-19 pandemic. 
+* **Broader Context:** The judgment highlights the importance of balancing procedural fairness with the need to prevent undue delays in commercial proceedings. It also emphasizes the court's responsibility to ensure that justice is served, even in the face of technical arguments.
+
+**8. Summary Points**
+
+* The Delhi High Court allowed the Petitioner to introduce additional documents that were not filed with the plaint, finding that the COVID-19 pandemic constituted a valid reason for the delay.
+* The court emphasized that the distinction between "non-disclosure" and "non-filing" under Order XI of CPC is artificial and that the COVID-19 pandemic could justify both.
+* The court distinguished the Sudhir Kumar (supra) judgment, emphasizing that it did not put an absolute bar on admitting additional documents.
+* The judgment highlights the court's power to exercise discretion and balance procedural fairness with the need to prevent undue delays.
+
+**9. References**
+
+* **Citations:** Refer to the "Precedents Cited" section above for full citations.
+* **Further Reading:** 
+    * The Commercial Courts Act, 2015.
+    * Order XI of the Code of Civil Procedure, 1908.
+    * The Supreme Court's judgments in Sudhir Kumar (supra) and Prakash Corporates (supra).

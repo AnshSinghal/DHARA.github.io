@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A defendant in a commercial suit failed to file a written statement within the 30-day deadline and later submitted it without an application for condonation of delay. The court rejected the written statement, citing the defendant's negligence. Can the defendant appeal this decision, arguing that technicalities shouldn't override substantial justice?",
+    "Legal Principles": "The principle of substantial justice, where procedural rules should not be allowed to obstruct a fair resolution of the case. However, this principle must be balanced with the need for efficient and timely disposal of cases, particularly in commercial suits where prompt resolution is crucial.",
+    "Relevant Sections": "Order VIII Rule 1 of the Code of Civil Procedure (CPC) states that written statements filed beyond 30 days from service of summons will only be accepted on record for reasons to be recorded in writing. The Commercial Courts Act, 2015 emphasizes the need for speedy disposal of commercial suits.",
+    "Context": "This query relates to a commercial suit, where the defendant's failure to adhere to procedural deadlines and lack of a condonation application led to the rejection of the written statement. The legal issue revolves around balancing the principle of substantial justice with the need for adherence to procedural rules, especially in commercial cases."
+  },
+  {
+    "Query": "A party in a commercial suit failed to file a written statement within the 120-day deadline prescribed by the Commercial Courts Act, 2015. The court refused to accept the belated statement. Can the party argue that the court should have exercised its inherent powers under Section 151 of the CPC to condone the delay?",
+    "Legal Principles": "The inherent power of courts under Section 151 of the CPC, which can be invoked for the ends of justice or to prevent abuse of the process of the court. However, this power cannot be used to override mandatory provisions like the 120-day limit for filing written statements in commercial suits.",
+    "Relevant Sections": "Order VIII Rule 1 and Rule 10 of the CPC, which outline the time limits for filing written statements. Section 151 of the CPC, which grants inherent powers to courts.",
+    "Context": "This query concerns the application of Section 151 of the CPC in the context of commercial suits and the strict deadlines imposed by the Commercial Courts Act, 2015. The legal issue is whether the court's inherent power can be used to condone delay beyond the specified time limit for filing written statements."
+  },
+  {
+    "Query": "A plaintiff in a commercial suit has filed a suit for recovery of outstanding dues. The defendant, however, contends that the plaintiff has already received payment through a cheque, which was subsequently dishonored. Can the defendant argue that the plaintiff's claim is barred under the Negotiable Instruments Act, 1881?",
+    "Legal Principles": "The Negotiable Instruments Act, 1881 governs the legal framework for negotiable instruments like cheques. The Act provides specific provisions regarding the dishonor of cheques and the legal remedies available to the payee.",
+    "Relevant Sections": "Section 138 of the Negotiable Instruments Act, 1881, which deals with the offence of dishonour of a cheque for insufficiency of funds. Section 142 of the Act, which sets out the procedure for filing a complaint in case of dishonour of a cheque.",
+    "Context": "This query involves a commercial dispute where the payment of dues is disputed. The defendant's argument centers around the dishonor of a cheque, raising the potential applicability of the Negotiable Instruments Act, 1881."
+  },
+  {
+    "Query": "In a commercial suit, the defendant failed to file a written statement within the prescribed time, and subsequently filed an application for condonation of delay. The court dismissed the application, citing the defendant's negligence. Can the defendant appeal the decision, arguing that the court's decision was based on a misinterpretation of the law?",
+    "Legal Principles": "The concept of judicial review, where higher courts can scrutinize decisions of lower courts to ensure they are in accordance with the law. Courts must correctly interpret and apply legal principles, and decisions based on misinterpretation can be challenged.",
+    "Relevant Sections": "Article 227 of the Constitution of India, which empowers High Courts to exercise supervisory jurisdiction over lower courts. Order VIII Rule 1 of the CPC, which outlines the procedures for filing written statements in civil suits.",
+    "Context": "This query focuses on the grounds for appealing a lower court's decision, specifically when the court's ruling is alleged to be based on a misinterpretation of the relevant legal provisions regarding the filing of written statements and condonation of delay."
+  },
+  {
+    "Query": "A party in a commercial suit failed to file a written statement within the stipulated time. The court, despite being aware of the delay, proceeded with the case without accepting the belated written statement. Can the party argue that the court's conduct was a violation of principles of natural justice?",
+    "Legal Principles": "The principles of natural justice, which emphasize the need for fairness and impartiality in judicial proceedings. These principles include the right to be heard, the right to a fair trial, and the right to notice and opportunity to be heard.",
+    "Relevant Sections": "Article 14 and 21 of the Constitution of India, which guarantee the right to equality before the law and the right to life and liberty, respectively. These fundamental rights encompass the principles of natural justice.",
+    "Context": "This query involves an alleged violation of natural justice in a commercial suit, where the court's actions are perceived as unfair and prejudicial to the party who failed to meet the procedural deadline for filing the written statement."
+  },
+  {
+    "Query": "A defendant in a commercial suit filed a written statement after the statutory deadline. The court rejected the statement, holding that the defendant should have filed an application for condonation of delay. Can the defendant argue that the court's decision was overly technical and that the delay was not unreasonable?",
+    "Legal Principles": "The principle of equity, where courts can exercise discretion to mitigate the harsh effects of rigid rules when justice demands it. Courts should consider the reasons for delay and exercise a balance between procedural compliance and fairness.",
+    "Relevant Sections": "Order VIII Rule 1 of the CPC, which requires an application for condonation of delay for written statements filed beyond 30 days. Section 151 of the CPC, which grants inherent powers to courts to prevent injustice and abuse of process.",
+    "Context": "This query relates to the application of procedural rules in commercial suits, specifically regarding the condonation of delay. The defendant's argument centers on the court's perceived technicality and the reasonableness of the delay."
+  },
+  {
+    "Query": "A party in a commercial suit failed to file a written statement within the stipulated time. The court rejected the belated statement, citing the need for speedy disposal of commercial cases. Can the party argue that the court's decision was overly rigid and that the delay was minor and did not prejudice the other party?",
+    "Legal Principles": "The principle of balance between procedural efficiency and fairness, where courts should prioritize the speedy resolution of cases but also ensure that parties have a fair opportunity to present their case.",
+    "Relevant Sections": "The Commercial Courts Act, 2015, which emphasizes the need for swift disposal of commercial disputes. Order VIII Rule 1 of the CPC, which sets out procedures for filing written statements.",
+    "Context": "This query examines the balance between judicial efficiency and fairness in commercial suits. The argument centers around the court's decision to reject a belated written statement, considering the impact of the delay on the opposing party and the overall progress of the case."
+  },
+  {
+    "Query": "A defendant in a commercial suit filed a written statement without an application for condonation of delay, arguing that the delay was minor and unintentional. The court rejected the statement, citing the strict requirements of the Commercial Courts Act, 2015. Can the defendant appeal the decision, arguing that the court's interpretation of the Act was too narrow?",
+    "Legal Principles": "The principle of statutory interpretation, where courts must interpret the meaning of legislation in a way that promotes its underlying purpose and intent. Courts should avoid overly narrow or technical interpretations that may lead to unjust outcomes.",
+    "Relevant Sections": "The Commercial Courts Act, 2015, which aims to expedite the resolution of commercial disputes. Order VIII Rule 1 of the CPC, which deals with the filing of written statements.",
+    "Context": "This query concerns the interpretation of the Commercial Courts Act, 2015 in the context of procedural rules. The defendant's argument focuses on the court's perceived narrow interpretation of the Act's requirements and the potential for a more flexible approach in specific situations."
+  },
+  {
+    "Query": "A party in a commercial suit filed a written statement beyond the statutory deadline. The court rejected the statement, holding that the party should have filed an application for condonation of delay. Can the party argue that the delay was caused by exceptional circumstances, such as a natural disaster, and that the court should have exercised its discretion to condone the delay?",
+    "Legal Principles": "The principle of exceptional circumstances, where courts can exercise discretion to condone delays when they are caused by factors beyond the party's control. Courts should consider the nature and severity of the circumstances and their impact on the party's ability to comply with procedural deadlines.",
+    "Relevant Sections": "Order VIII Rule 1 of the CPC, which governs the filing of written statements. Section 151 of the CPC, which grants inherent powers to courts to prevent injustice and abuse of process.",
+    "Context": "This query relates to the application of procedural rules in commercial suits, specifically regarding the condonation of delay. The defendant's argument centers on the existence of exceptional circumstances that caused the delay and the court's potential discretion to condone it."
+  },
+  {
+    "Query": "A defendant in a commercial suit filed a written statement beyond the statutory deadline, citing a genuine misunderstanding of the procedural requirements. The court rejected the statement, holding that the defendant should have sought condonation of delay. Can the defendant appeal the decision, arguing that the court should have considered the defendant's good faith and lack of intent to deliberately delay the proceedings?",
+    "Legal Principles": "The principle of good faith, where courts should consider the parties' intentions and conduct when deciding on procedural matters. Courts should be mindful of situations where a party acted in good faith but made an error in complying with procedural deadlines.",
+    "Relevant Sections": "Order VIII Rule 1 of the CPC, which governs the filing of written statements. Section 151 of the CPC, which grants inherent powers to courts to prevent injustice and abuse of process.",
+    "Context": "This query examines the application of procedural rules in commercial suits, specifically regarding the condonation of delay. The defendant's argument centers on the importance of good faith and the lack of deliberate intent to delay the proceedings, seeking a more lenient approach from the court."
+  }
+]
+```

@@ -1,0 +1,110 @@
+## 1. Case Title
+
+* **Case Name:** M/S M.B. Patil Constructions Ltd vs The Executive Engineer
+* **Court:** Karnataka High Court, Kalaburagi Bench
+* **Date of Judgment:** 15th July 2022
+* **Citation:** Not provided in the document.
+
+## 2. Background and Context
+
+* **Brief Overview:** M/S M.B. Patil Constructions Ltd. (Petitioner) was awarded four contracts by the Executive Engineer, PWP & IWTD Division, Raichur (Respondent 1) for a road project. Disputes arose, leading to arbitration where the Sole Arbitrator (Respondent 2) awarded a substantial sum to the Petitioner. Respondent 1 filed four separate arbitration suits under Section 34 of the Arbitration and Conciliation Act, 1996 (Act of 1996) before the Principal District & Sessions Judge, Kalaburagi (Commercial Court).
+* **Key Issues:**
+    * Whether the Commercial Court was justified in condoning the delay in filing the arbitration suits under Section 34 of the Act of 1996, considering the time period for filing such suits and the application for correction of the award under Section 33 of the Act of 1996.
+    * Whether the limitation period for filing the application under Section 34 of the Act of 1996 commenced from the date the award was received or from the date the Arbitrator disposed of the application under Section 33 of the Act of 1996.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * Arbitration and Conciliation Act, 1996 (Act of 1996):
+        * Section 33: Correction and interpretation of award; additional award.
+        * Section 34: Recourse against arbitral award.
+        * Section 34(1): Application for setting aside the award.
+        * Section 34(2): Grounds for setting aside the award.
+        * Section 34(3): Limitation period for filing application under Section 34.
+    * Limitation Act: Section 5.
+    * General Clauses Act, 1897: Section 3(35).
+* **Precedents Cited:**
+    * MUK LTD. vs UNION OF INDIA - AIR Online 2016 DEL 1
+    * D.M.JAWHAR MERICAN VS ENGINEERS INDIA LTD. - (DLH) 2009 (3) 129
+    * SIMPLEX INFRASTRUCTURE VS UNION OF INDIA - (2019)2 SCC 455
+    * IRCON INTERNATIONAL LTD. BUDHRAJ MINING & ORS. - 2007(4) ARBLR 159 DELHI
+    * UNION OF INDIA VS SABOO MINERALS PVT. LTD. - 2003(3) RAJ 354
+    * VED PRAKASH VS UNION OF INDIA - 2018(10) SCJ 280
+    * STATE OF HIMACHAL PRADESH & ANR. VS HIMACHAL TECHNO ENGINEERS & ANR. - (2010)12 SCC 210
+    * BOKARO & RAMGUR LTD. VS PRASUN KUMAR BANERJEE - AIR 1968 PAT 150
+    * NAGAR PALIKA, MIRZAPUR VS MIRZAPUR ELECT. SUPPLY CO. LTD. - AIR 1990 SC 2273
+    * RAFIQUE BIBI (DEAD) BY LRS VS SYED WALIUDDIN (DEAD) BY LRS & OTHERS - (2004)1 SCC 287
+    * Hindusthan Commercial Bank Ltd vs Punnu Sahu (dead through legal representatives - AIR 1970 Supreme Court 1384
+    * Nusli Neville Wadia vs. Ivory Properties and Others - AIR 2019 Supreme Court 5125
+    * State of Himachal Pradesh and another vs Himachal Techno Engineers and another - (2010) 12 Supreme Court Cases 210
+* **Legal Doctrines:**
+    * Jurisdiction: Power of a court to decide a case.
+    * Limitation Period: Time limit for filing legal actions.
+    * Condonation of Delay: Permission granted by a court to extend the limitation period.
+    * Implied Agreement/Consent: Agreement inferred from conduct.
+    * Acquiescence: Silence or inaction that implies acceptance of a situation.
+
+## 4. Arguments Presented
+
+* **Petitioner’s Argument:**
+    * Respondent 1 filed the arbitration suits beyond the three-month limitation period prescribed under Section 34(3) of the Act of 1996.
+    * The Commercial Court's condonation of the delay was excessive as it exceeded the permissible 30-day extension under Section 34(3).
+    * Respondent 1's application under Section 33 of the Act of 1996 for correction of the award was filed beyond the 30-day period, rendering it null and void.
+    * The limitation period for filing the application under Section 34(1) commenced from the date of receiving the award, not from the date the Arbitrator disposed of the Section 33 application.
+    * Petitioner was not heard before the Arbitrator corrected the award based on Respondent 1's letter.
+* **Respondent’s Argument:**
+    * The order passed under Section 33 of the Act of 1996 for correction of the award merged with the original award.
+    * Petitioner did not challenge the Arbitrator's order under Section 33, indicating implied consent.
+    * The arbitration suit was filed within the prescribed three-month period from the date the Arbitrator disposed of the Section 33 application.
+    * The Commercial Court was justified in condoning the delay, which was within the permissible 30-day extension.
+    * The correction made to the award benefited both parties and facilitated its execution.
+    * The Arbitrator's award, granting a substantial sum to the Petitioner, placed a significant burden on the state exchequer.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The application under Section 33 of the Act of 1996 for correction of the award was filed beyond the prescribed 30-day period, but the Arbitrator entertained it and corrected the award.
+    * Petitioner did not challenge the order passed by the Arbitrator under Section 33, indicating implied consent.
+    * The arbitration suit was filed within the three-month limitation period, starting from the date the Arbitrator disposed of the Section 33 application.
+    * The Commercial Court, within its discretion, exercised its power under Section 34(3) of the Act of 1996 and condoned the delay in filing the suit.
+* **Interpretation of Law:**
+    * The Court interpreted Section 33 and Section 34(3) of the Act of 1996 and the Limitation Act to determine the relevant limitation periods and the court's power to condone delays.
+    * The Court also interpreted the precedents cited by both parties to understand how similar issues have been decided in previous cases.
+* **Application of Law:**
+    * The Court applied the legal principles to the specific facts of the case, considering the date of the award, the date the Section 33 application was disposed of, and the date the arbitration suit was filed.
+    * The Court also considered the petitioner's inaction in challenging the Arbitrator's order under Section 33 as an indication of implied agreement or acquiescence.
+
+## 6. Judgment
+
+* **Final Decision:** The writ petitions filed by the Petitioner were dismissed.
+* **Relief Granted:** No relief was granted to the Petitioner.
+* **Orders:** The Court upheld the Commercial Court's order condoning the delay in filing the arbitration suit and dismissed the writ petitions.
+
+## 7. Implications
+
+* **Impact on Law:**
+    * This judgment reaffirms the court's power to condone delays in filing arbitration suits under Section 34 of the Act of 1996, within the prescribed limitations.
+    * The judgment clarifies the starting point of the limitation period when a correction application under Section 33 is made and disposed of by the Arbitrator.
+    * It emphasizes the importance of challenging a court order promptly, as inaction could be interpreted as implied consent or acquiescence.
+* **Future Relevance:**
+    * This judgment provides guidance for future cases involving challenges to arbitral awards and the application of Section 33 and Section 34 of the Act of 1996.
+    * It may influence decisions regarding the condonation of delays and the interpretation of implied agreement or acquiescence.
+* **Broader Context:**
+    * This case highlights the complexities of arbitration proceedings and the importance of understanding the specific requirements and timelines under the Act of 1996.
+    * The judgment underscores the need for parties to be proactive in pursuing legal remedies and challenging adverse orders within the prescribed limitations.
+
+## 8. Summary Points
+
+* **Key Takeaways:**
+    * The Commercial Court's condonation of the delay in filing arbitration suits was upheld as it was within the permissible 30-day extension under Section 34(3) of the Act of 1996.
+    * The limitation period for filing the application under Section 34 commenced from the date the Arbitrator disposed of the application under Section 33 of the Act of 1996.
+    * The Petitioner's inaction in challenging the Arbitrator's order under Section 33 was considered as implied agreement or acquiescence.
+    * Parties must be proactive in challenging adverse orders within the prescribed limitations.
+
+## 9. References
+
+* **Citations:**
+    * The specific citations for the statutes, rules, and precedents mentioned in this summary should be verified and included from the original document.
+* **Further Reading:**
+    * For a deeper understanding of arbitration law in India, consider referring to relevant legal texts and commentaries on the Arbitration and Conciliation Act, 1996.
+    * Research additional case law involving Section 33 and Section 34 of the Act of 1996 for further insights into these provisions.

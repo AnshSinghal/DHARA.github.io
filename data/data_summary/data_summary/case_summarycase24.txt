@@ -1,0 +1,166 @@
+## 1. Case Title
+
+•	Case Name: Laxmi Polyfab Pvt. Ltd. vs. Eden Realty Ventures Pvt. Ltd. & Anr.
+•	Court: Calcutta High Court
+•	Date of Judgment: 7th April 2021
+•	Citation: AIR 2021 CALCUTTA 190, AIRONLINE 2021 CAL 278
+
+## 2. Background and Context
+
+•	**Brief Overview**: This case involved multiple applications in various suits pending before the Calcutta High Court, concerning the interplay of Section 12A and Section 15 of the Commercial Courts Act, 2015 (CCA, 2015). The dispute revolved around the mandatory nature of pre-institution mediation under Section 12A, the transfer of suits involving commercial disputes to the Commercial Division under Section 15, and the applicability of these provisions to arbitration proceedings.
+
+•	**Key Issues**:
+    1. Is Section 12A of the CCA, 2015 mandatory or directory?
+    2. How do Section 12A and Section 15 of the CCA, 2015 interact in suits filed after the notification of the "Specified Value" for commercial disputes?
+    3. Can a suit of the "Specified Value" involving a commercial dispute be transferred to the Commercial Division of the Calcutta High Court under Section 12A? 
+    4. If transfer is possible, what are the procedures and modalities for the transfer?
+    5. Can a suit filed in the Commercial Division be transferred to the Ordinary Original Civil Jurisdiction if it's not a commercial dispute?
+    6. If such a transfer is possible, what are the procedures and modalities for the transfer?
+    7. How should proceedings under the Arbitration and Conciliation Act, 1996 be dealt with in light of these issues?
+
+## 3. Legal Principles Involved
+
+•	**Relevant Statutes and Provisions**:
+    * The Commercial Courts Act, 2015 (CCA, 2015)
+        * Section 2(1)(c) - Definition of "commercial dispute"
+        * Section 12A - Pre-institution mediation and settlement
+        * Section 15 - Transfer of pending cases
+        * Section 21 - Overriding effect of the Act
+    * The Arbitration and Conciliation Act, 1996 (ACA, 1996)
+    * The Code of Civil Procedure, 1908 (CPC, 1908)
+        * Order VII Rule 10 - Return of plaint
+        * Order VII Rule 11 - Rejection of plaint
+        * Order XV-A - Case management hearings
+    * The Legal Services Authorities Act, 1987 (LSA, 1987)
+    * The Limitation Act, 1963
+    * The Indian Partnership Act, 1932
+    * The Letters Patent, 1865
+    * The Designs Act, 2000
+    * The Patents Act, 1970
+
+•	**Precedents Cited**:
+    * R.N. Jadi & Brothers & Ors. v. Subhash Chandra (2007)
+    * Zolba v. Keshao & Ors. (2008)
+    * State of U.P. v. Manbodhan Lal Srivastava (AIR 1957)
+    * Hari Vishnu Kamath v. Syed Ahmad Ishaque & Ors. (AIR 1955)
+    * Shivjee Singh v. Nagendra Tiwary & Ors. (AIR 2010)
+    * Ajit Kumar Sen & Anr. v. State of West Bengal & Ors. (AIR 1954)
+    * The Food Inspector, Cannanore Municipality, Cannanore v. M. Gopalan (AIR 1991)
+    * Smt. Sunita Devi & Ors. v. Abdhesh Kumar Sinha alias Kamleshwari Pd. Sinha & Ors. (AIR 2005)
+    * Smt. Lila Gupta v. Laxmi Narain & Ors. (AIR 1978)
+    * Sharif-ud-Din v. Abdul Gani Lone (AIR 1980)
+    * Owners and Parties interested in M.V. "Vali Pero" v. Fernandeo Lopez & Ors. (AIR 1989)
+    * Macquarie Bank Limited v. Shilpi Cable Technologies Limited (2018)
+    * Salem Advocate Bar Association, Tamil Nadu v. Union of India (2005)
+    * Srei Infrastructure Finance Limited v. Candor Gurgaon two Developers and Projects Pvt. Ltd. (2018)
+    * State of Bihar & Ors. v. Bihar Rajya Bhumi Vikas Bank Samiti (2018)
+    * Port Blair v. Airport Authority of India (2011)
+    * Chaluvegowda v. State (2012)
+    * Gangappa Gurupadappa Guwad v. Rachawwa (1970)
+    * Ambalal Sarabhai Enterprises Ltd versus K S Infraspace LLP and another (2019)
+    * Oil and Natural Gas Corporation versus Modern Construction and Company (2014)
+    * Amar Nath Dogra versus Union of India (AIR 1963)
+    * Behari Chowdhary and another versus State of Bihar and others (AIR 1984)
+    * Soni Dave versus Translation Industries Expositions Private Limited (AIR 2016)
+    * Hubtown Ltd. versus IDBI Trusteeship Services Ltd. (2016)
+    * M/s Dhanbad Fuels Ltd versus Union of India and others (2021)
+    * Ganga Taro Vazirani v. Deepak Raheja (2021)
+    * Seth Loonkaran Sethiya & Ors. v. Mr. Ivan E. John & Ors. (1977)
+    * SCG Contracts (India) Private Ltd. v. K.S. Chamankar Infrastructure Private Ltd. & Ors. (2019)
+    * State of Maharashtra v. Chanderkant (1977)
+    * State of Kerala v. Sudhir Kumar (2013)
+    * Babaji Kondaji Garad v. Nasik Merchants Co-operative Bank Ltd. Nasik (1984)
+
+•	**Legal Doctrines**:
+    * **Mandatory vs. Directory**: The court analyzed the distinction between mandatory and directory provisions of law, considering the language used, the object and purpose of the provision, and the consequences of non-compliance.
+    * **Strict Construction**: The court emphasized the need for strict construction of the CCA, 2015, considering its objective of expeditious disposal of commercial disputes.
+    * **Jurisdiction and Transfer**: The court considered the principles of jurisdiction, transfer of suits, and the interplay of various legal provisions governing these aspects.
+    * **Interpretation of Statutes**: The court applied various principles of statutory interpretation to understand the legislative intent and apply the law to the facts of the case.
+
+## 4. Arguments Presented
+
+•	**Plaintiff’s Argument**:
+    * In cases involving commercial disputes, Section 12A of the CCA, 2015 should be considered directory, not mandatory.
+    * Failure to comply with Section 12A shouldn't be fatal to a suit, especially when pre-institution mediation wasn't feasible or infrastructure was absent.
+    * The court should exercise its jurisdiction under Section 15 of the CCA, 2015 to transfer suits to the Commercial Division, even if they were initially filed in the Ordinary Original Civil Jurisdiction.
+    * The court should interpret Section 15 broadly, enabling the transfer of suits even after the notification of the Specified Value.
+
+•	**Defendant’s Argument**:
+    * Section 12A of the CCA, 2015 is mandatory, and failure to comply with its requirements should lead to the dismissal of the suit.
+    * Suits filed after the notification of the Specified Value cannot be transferred to the Commercial Division under Section 15(1), as they are not "pending" within the meaning of the provision.
+    * The court should strictly construe the provisions of the CCA, 2015, ensuring compliance with pre-institution mediation and transfer procedures.
+
+## 5. Court’s Analysis and Reasoning
+
+•	**Key Findings**:
+    * The court found that Section 12A of the CCA, 2015 is mandatory, considering its objective of expediting commercial dispute resolution through pre-institution mediation.
+    * The court acknowledged that the public wasn't aware of the requirement for pre-institution mediation before January 1, 2016, and the infrastructure for it wasn't available until December 11, 2020.
+    * The court held that suits filed in the Ordinary Original Civil Jurisdiction after the notification of the Specified Value cannot be transferred to the Commercial Division under Section 15(1) because they are not "pending" in the relevant sense.
+    * The court recognized the court's power to return plaints under Order VII Rule 10 of the CPC, 1908, providing a mechanism to address suits filed in the wrong jurisdiction.
+
+•	**Interpretation of Law**:
+    * The court interpreted "shall" in Section 12A as mandatory, emphasizing the legislative intent to prioritize mediation in commercial disputes.
+    * The court read "pending" in Section 15(1) narrowly, limiting its application to suits filed before the notification of the Specified Value.
+    * The court emphasized the need for strict construction of the CCA, 2015, ensuring its intended purpose of expediting commercial disputes.
+
+•	**Application of Law**:
+    * The court applied these interpretations to the specific facts of each case, deciding whether the relevant requirements were met and determining appropriate outcomes.
+    * The court applied Order VII Rule 10 of the CPC, 1908 to return plaints to the appropriate forum in cases where suits were filed in the wrong jurisdiction.
+    * The court distinguished between filing and institution of suits, clarifying the applicability of Section 12A and Section 15 based on these stages.
+
+## 6. Judgment
+
+•	**Final Decision**:
+    * The court held that Section 12A of the CCA, 2015 is mandatory.
+    * The court held that suits filed in the Ordinary Original Civil Jurisdiction after the notification of the Specified Value cannot be transferred to the Commercial Division under Section 15(1).
+    * The court upheld the court's power to return plaints under Order VII Rule 10 of the CPC, 1908.
+
+•	**Relief Granted**:
+    * The court dismissed several applications seeking rejection of the plaint, stay of proceedings, or transfer of suits.
+    * The court directed the return of plaints to be filed in the appropriate forum, including the Commercial Division.
+
+•	**Orders**:
+    * The court ordered the disposal of certain cases in the Commercial Division, allowing the plaintiffs to re-file their claims.
+    * The court ordered the transfer of specific arbitration proceedings to the Commercial Division.
+
+## 7. Implications
+
+•	**Impact on Law**:
+    * This judgment clarifies the mandatory nature of pre-institution mediation under Section 12A of the CCA, 2015 for commercial disputes.
+    * The judgment narrows the scope of Section 15(1) for transferring suits involving commercial disputes, limiting its application to "pending" suits before the notification of the Specified Value.
+    * The judgment emphasizes the court's power to return plaints under Order VII Rule 10 of the CPC, 1908, ensuring proper jurisdiction for commercial dispute cases.
+
+•	**Future Relevance**:
+    * This judgment will likely influence future decisions regarding pre-institution mediation, transfer of suits, and the applicability of the CCA, 2015 to arbitration proceedings.
+    * The judgment provides guidance on the interpretation and application of key provisions in the CCA, 2015, setting a precedent for future legal proceedings.
+
+•	**Broader Context**:
+    * The judgment highlights the legislative intent to expedite commercial dispute resolution through pre-institution mediation and specialized courts.
+    * The judgment emphasizes the need for clarity and consistency in the application of the CCA, 2015 to ensure its effectiveness and facilitate a conducive environment for business.
+
+## 8. Summary Points
+
+•	**Key Takeaways**:
+    * Section 12A of the CCA, 2015 is mandatory, requiring pre-institution mediation for commercial disputes.
+    * Suits filed in the Ordinary Original Civil Jurisdiction after the notification of the Specified Value cannot be transferred to the Commercial Division under Section 15(1).
+    * The court has the power to return plaints to the appropriate forum under Order VII Rule 10 of the CPC, 1908.
+    * The CCA, 2015 prioritizes mediation and aims for expeditious resolution of commercial disputes.
+
+## 9. References
+
+•	**Citations**:
+    * Commercial Courts Act, 2015
+    * Arbitration and Conciliation Act, 1996
+    * Code of Civil Procedure, 1908
+    * Legal Services Authorities Act, 1987
+    * Limitation Act, 1963
+    * Indian Partnership Act, 1932
+    * Letters Patent, 1865
+    * Designs Act, 2000
+    * Patents Act, 1970
+
+•	**Further Reading**:
+    * Ambalal Sarabhai Enterprises Ltd versus K S Infraspace LLP and another (2019)
+    * Hubtown Ltd. versus IDBI Trusteeship Services Ltd. (2016)
+    * M/s Dhanbad Fuels Ltd versus Union of India and others (2021)
+    * Ganga Taro Vazirani v. Deepak Raheja (2021)

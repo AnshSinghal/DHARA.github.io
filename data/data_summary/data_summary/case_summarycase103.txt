@@ -1,0 +1,82 @@
+## Case Title
+
+* **Case Name:** Condore Health Care Pvt. Ltd. vs. M/S Corem Pharma Pvt. Ltd.
+* **Court:** Telangana High Court
+* **Date of Judgment:** 3rd August 2018
+* **Citation:** Not explicitly provided in the text.
+
+## Background and Context
+
+* **Brief Overview:** Condore Health Care Pvt. Ltd. (Petitioner) filed a suit against M/S Corem Pharma Pvt. Ltd. (Respondent) in the City Civil Court, Hyderabad, claiming infringement of their trademark rights. The dispute arose from a Memorandum of Understanding (MOU) signed between the parties in 2013, which involved the transfer of certain brand names. The Petitioner argued that the Respondent was using these brand names without their permission, causing them significant financial losses. The Respondent argued that the suit should be dismissed because the value of the subject matter in the suit was less than the minimum threshold required for commercial courts under the Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015 (hereinafter referred to as "the Act"). The lower court refused to reject the plaint, prompting the Petitioner to file this revision petition.
+* **Key Issues:** 
+    1. Whether the "specified value" under Section 12 of the Act referred to the market value of the subject matter as mentioned in the MOU or the value of the relief sought by the Petitioner. 
+    2. Whether the commercial court had jurisdiction to try trademark disputes irrespective of the "specified value."
+
+## Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015 (the Act): 
+        * **Section 2(1)(c)(xvii):** Defines "commercial dispute" to include intellectual property rights related to trademarks.
+        * **Section 12(1)(d):** Specifies the method of determining the "specified value" of a commercial dispute related to intangible rights, particularly stating that the market value of the rights as estimated by the plaintiff should be considered.
+* **Precedents Cited:**
+    * **GUINESS WORLD RECORDS LIMITED v. SABABBI NMANGAL:**  This Delhi High Court judgment (2016 (66) PTC 341 [DEL]) dealt with the interpretation of Section 7 of the Act regarding the jurisdiction of the commercial division of High Courts. 
+    * **NOVARTIS AG v. CIPLA LTD:**  Another Delhi High Court judgment (CS(OS) No.3812 of 2014 dated 27.11.20015) also involved the interpretation of Section 7 of the Act.
+    * **KALLA YADAGIRI v. KOTHA BAL REDDY:** This full bench judgment of the Telangana High Court (1999 (1) ALD 222) dealt with the valuation of suits for the purpose of jurisdiction.
+    * **S.Rm.Ar.S.Sp. Sathappa Chettiar v. S.Rm.Ar.Rm. Ramanathan Chettiar:** This Supreme Court judgment provided guidance on the relationship between the valuation of a suit for court fees and its determination of jurisdiction.
+    * **Y. VENKATA SESHA REDDY VS. CHEMBATI KAUSALYAMMA:** This judgment of the Telangana High Court (2007 (6) ALD 561) followed the principles laid down in KALLA YADAGIRI v. KOTHA BAL REDDY.
+* **Legal Doctrines:**
+    * **Jurisdiction:** The court's authority to hear and decide a case based on the nature of the claim and its value.
+    * **Interpretation of Statutes:** The process of understanding and applying the meaning of legislative provisions.
+    * **Valuation of Suits:** The method of determining the value of a suit for the purpose of court fees and jurisdictional determination.
+
+## Arguments Presented
+
+* **Petitioner's Argument:** The Petitioner argued that the "specified value" under Section 12 of the Act should be determined by the value of the reliefs sought in the suit, not the market value of the subject matter. They claimed that the value of the reliefs was less than Rs. 14 lakhs, which was below the threshold for commercial courts. Therefore, the City Civil Court did not have jurisdiction to hear the case. 
+* **Respondent's Argument:** The Respondent argued that the "specified value" referred to the market value of the subject matter, as stated in the MOU, which was Rs. 1,90,00,000/-. They argued that trademark disputes, irrespective of the "specified value," were within the jurisdiction of commercial courts. Alternatively, they argued that the suit fell under Section 2(1)(c)(xvii) of the Act and therefore, the commercial court had jurisdiction to hear the case. 
+
+## Court's Analysis and Reasoning
+
+* **Key Findings:** 
+    * The court found that the two precedents cited by the Petitioner (GUINESS WORLD RECORDS LIMITED v. SABABBI NMANGAL and NOVARTIS AG v. CIPLA LTD) dealt with the interpretation of Section 7 of the Act, which concerned the jurisdiction of the commercial division of High Courts, not the jurisdiction of commercial courts in general. 
+    * The court held that Section 2(1)(c) of the Act is subject to Section 12 of the Act. Therefore, for a commercial court to have jurisdiction, the dispute must not only fall under Section 2(1)(c) but also meet the specified value requirements of Section 12.
+    * The court relied on the full bench decision in KALLA YADAGIRI v. KOTHA BAL REDDY to support their finding that the value of the relief sought by the plaintiff, not the market value of the subject matter, determines the jurisdiction of the court.
+* **Interpretation of Law:** 
+    * The court interpreted the "specified value" under Section 12(1)(d) of the Act to mean the market value of the intangible rights as estimated by the plaintiff in the context of the reliefs sought, not the market value of the subject matter as stated in the MOU.
+    * The court interpreted Section 7 of the Act to emphasize that commercial divisions of High Courts have jurisdiction over commercial disputes stipulated by an Act to lie in a court not inferior to a District Court, regardless of the pecuniary value.
+* **Application of Law:** 
+    * The court applied the principles established in KALLA YADAGIRI v. KOTHA BAL REDDY to the facts of the case. It reasoned that the Petitioner's relief sought was based on the violation of the MOU, not on the market value of the subject matter. Therefore, the value of the relief sought, not the market value as stated in the MOU, determined the court's jurisdiction.
+
+## Judgment
+
+* **Final Decision:** The court allowed the revision petition. 
+* **Relief Granted:** The court set aside the impugned order of the lower court and directed that the suit be transferred to the appropriate court having jurisdiction based on the value of the relief sought by the Petitioner.
+* **Orders:** The suit was to be transferred to the appropriate court. 
+
+## Implications
+
+* **Impact on Law:** The judgment reaffirmed the principle that the value of the relief sought by the plaintiff determines the jurisdiction of the court, not the market value of the subject matter. This principle applies to commercial courts as well as other courts.
+* **Future Relevance:** The judgment provides guidance for future cases involving the determination of jurisdiction in commercial disputes, especially those involving intangible rights. It clarified the interpretation of Section 12 of the Act and its relationship to other provisions of the Act.
+* **Broader Context:** The judgment highlights the importance of understanding the distinction between the value of the subject matter of a dispute and the value of the relief sought by the plaintiff. This distinction is crucial for determining the appropriate court to hear a case and ensuring that the parties are able to access the correct forum for their claims.
+
+## Summary Points
+
+* **Key Takeaways:**
+    * The value of the relief sought, not the market value of the subject matter, determines the jurisdiction of the court.
+    * Commercial courts have jurisdiction over trademark disputes that meet the "specified value" requirements under Section 12 of the Act.
+    * Section 2(1)(c) of the Act is subject to Section 12, meaning that a commercial dispute must meet both the definition of a commercial dispute and the specified value requirements.
+    * The court's decision in KALLA YADAGIRI v. KOTHA BAL REDDY is an important precedent for understanding the valuation of suits for the purpose of jurisdiction.
+
+## References
+
+* **Citations:** 
+    * Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015 (the Act)
+    * GUINESS WORLD RECORDS LIMITED v. SABABBI NMANGAL (2016 (66) PTC 341 [DEL])
+    * NOVARTIS AG v. CIPLA LTD (CS(OS) No.3812 of 2014 dated 27.11.20015)
+    * KALLA YADAGIRI v. KOTHA BAL REDDY (1999 (1) ALD 222)
+    * S.Rm.Ar.S.Sp. Sathappa Chettiar v. S.Rm.Ar.Rm. Ramanathan Chettiar
+    * Y. VENKATA SESHA REDDY VS. CHEMBATI KAUSALYAMMA (2007 (6) ALD 561)
+* **Further Reading:**
+    * Court Fees and Suits Valuation Act, 1956
+    * Other judgments relating to jurisdiction in commercial courts and intellectual property disputes.
+
+This summary provides a detailed overview of the case, covering all the key facts, arguments, legal principles, and implications of the judgment.  The information presented here is relevant for understanding the court's reasoning and its impact on existing law and legal practice.

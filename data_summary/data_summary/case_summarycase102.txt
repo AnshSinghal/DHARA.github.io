@@ -1,0 +1,107 @@
+## 1. Case Title
+
+* **Case Name:** Larsen And Toubro Limited vs Geodesic Techniques Private Limited
+* **Court:** Karnataka High Court
+* **Date of Judgment:** 21st October 2021
+* **Citation:** COMAP NO.31 OF 2021
+
+## 2. Background and Context
+
+* **Brief Overview:** Larsen and Toubro Limited (L&T), a construction company, sub-contracted structural steel roof work for the Bangalore International Airport Limited (BIAL) expansion project to Geodesic Techniques Private Limited (Geodesic). Disputes arose due to delays in the completion of the work. Geodesic filed an arbitration application, and an Arbitral Tribunal awarded Rs. 5,32,83,419/- to Geodesic, including interest and costs. L&T challenged this award under Section 34 of the Arbitration and Conciliation Act, 1996, but the Commercial Court dismissed their objections. This appeal challenges the Commercial Court's judgment.
+* **Key Issues:** 
+    * Whether the Commercial Court adequately considered L&T's objections under Section 34 of the Arbitration and Conciliation Act, 1996.
+    * Whether the Commercial Court's judgment was sufficiently reasoned and not merely a cryptic conclusion.
+    * Whether the award of 18% interest was justified.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:** 
+    * Arbitration and Conciliation Act, 1996 (the Act)
+        * Section 11(6): Appointment of Arbitrator
+        * Section 34: Setting Aside Arbitral Awards
+        * Section 34(2): Grounds for setting aside arbitral awards 
+    * Commercial Courts Act, 2015
+        * Section 13(1A): Jurisdiction of Commercial Courts
+        * Section 37: Appeal from orders of Commercial Courts
+* **Precedents Cited:**
+    * SSANYONG ENGINEERING AND CONSTRUCTION COMPANY LIMITED VS. NATIONAL HIGHWAYS AUTHORITY OF INDIA, (2019) 15 SCC 131
+    * DYNA TECHNOLOGIES PVT. LTD. VS. CROMPTON GREAVES LTD., 2019 SCC ONLINE SC 1656
+    * V4 INFRASTRUCTURE PRIVATE LIMITED VS. JINDAL BIOCHEM PRIVATE LIMITED, FAO (OS) (COMM) 107/2018
+    * ASSOCIATE BUILDERS VS. DELHI DEVELOPMENT AUTHORITY, (2015) 3 SCC 49
+    * P.SHEIK BATCHA ROWTHER AND OTHERS VS. N.R.ALAGAPPAN SERVAI, AIR 1959 MAD 12
+    * ORIENTAL STRUCTURAL ENGINEERS PRIVATE LIMITED VS. STATEOF KERALA, (2021) 6 SCC 150
+    * UNION OF INDIA VS. WARSAW ENGINEERS AND OTHERS, COMAP NO.25/2021
+    * NATIONAL HIGHWAYS AUTHORITY OF INDIA VS. M.HAKEEM & ANR., 2021 SCC ONLINE SC 473
+    * PATEL ENGINEERING LTD VS. NORTH EASTERN ELECTRIC POWER CORPORATION LTD., (2020) 7 SCC 167
+    * NATIONAL HIGHWAYS AUTHORITY OF INDIA VS. ITD CEMENTATION INDIA LTD., (2015) 14 SCC 21
+    * NATIONAL HGIHWAYS AUTHORITY OF INDIA VS. R.N. SHETTY & COMPANY, 2014 SCC ONLINE DEL 3392
+* **Legal Doctrines:**
+    * Public policy of India
+    * Principle of finality of arbitral awards
+    * Judicial deference to arbitral tribunals' decisions
+    * Requirement of reasons in judicial decisions
+    * Scope of interference under Section 34 of the Arbitration and Conciliation Act, 1996
+
+## 4. Arguments Presented
+
+* **Appellant's (L&T) Argument:**
+    * The Commercial Court did not adequately consider the objections raised under Section 34 of the Act.
+    * The Commercial Court's judgment was cryptic and lacked reasoning.
+    * The award of 18% interest was unjustified and not supported by any reasoning.
+    * The judgments relied upon by L&T were not properly considered by the Commercial Court.
+* **Respondent's (Geodesic) Argument:**
+    * The Commercial Court followed the two-stage process in examining objections under Section 34 as outlined in the Warsaw Engineers case.
+    * L&T failed to make out any grounds for interference under Section 34(2) of the Act.
+    * The judgment of the Commercial Court is consistent with the principles laid down in various Supreme Court and High Court decisions.
+    * L&T's grounds for challenging the award do not fall within the scope of Section 34(2) of the Act.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The court acknowledges the limited scope of interference with arbitral awards under Section 34 of the Act.
+    * The court emphasizes the importance of reasoned judgments, citing the principle that reason is the "heartbeat" of every judicial decision.
+    * The court finds that the Commercial Court's judgment failed to provide sufficient reasoning and did not adequately address the arguments presented by L&T.
+    * The court reiterates the requirement for detailed consideration of all grounds raised under Section 34 of the Act.
+* **Interpretation of Law:**
+    * The court reiterates the requirement of the Commercial Court to address all grounds raised under Section 34 of the Act and provide reasons for its conclusions.
+    * The court emphasizes the importance of the two-stage process under Section 34 as outlined in the Warsaw Engineers case.
+    * The court interprets the scope of the 'public policy' ground under Section 34.
+* **Application of Law:**
+    * The court finds that the Commercial Court did not comply with the requirements of Section 34 of the Act, particularly regarding reasons and detailed consideration of grounds.
+    * The court applies the precedent in the Warsaw Engineers case to conclude that the Commercial Court failed to meet the required standards of judgment writing.
+
+## 6. Judgment
+
+* **Final Decision:** The judgment of the Commercial Court is quashed, and the matter is remitted back to the Commercial Court.
+* **Relief Granted:** The appellant (L&T) is granted the opportunity to have its objections under Section 34 re-examined by the Commercial Court.
+* **Orders:**
+    * The Commercial Court is directed to fix a date for hearing within four months from the date of appearance of the parties.
+    * The Commercial Court is to conclude the proceeding within four months from the date of appearance.
+
+## 7. Implications
+
+* **Impact on Law:** This judgment emphasizes the need for comprehensive and reasoned judgments in cases challenging arbitral awards under Section 34 of the Arbitration and Conciliation Act, 1996. It underscores the importance of addressing all grounds raised and providing sufficient justification for decisions.
+* **Future Relevance:** This case serves as a precedent for future challenges to arbitral awards under Section 34, highlighting the need for detailed consideration of all grounds and reasoned conclusions.
+* **Broader Context:** This judgment contributes to the ongoing debate surrounding judicial review of arbitral awards and emphasizes the importance of striking a balance between finality and ensuring fair process.
+
+## 8. Summary Points
+
+* The Commercial Court's judgment dismissing L&T's objections under Section 34 was found to be insufficiently reasoned.
+* The court reiterated the two-stage process for examining objections under Section 34.
+* The case emphasizes the importance of detailed consideration of all grounds raised under Section 34 and providing clear justifications for decisions.
+* The appeal was successful, leading to the remand of the case back to the Commercial Court.
+
+## 9. References
+
+* Arbitration and Conciliation Act, 1996
+* Commercial Courts Act, 2015
+* SSANYONG ENGINEERING AND CONSTRUCTION COMPANY LIMITED VS. NATIONAL HIGHWAYS AUTHORITY OF INDIA, (2019) 15 SCC 131
+* DYNA TECHNOLOGIES PVT. LTD. VS. CROMPTON GREAVES LTD., 2019 SCC ONLINE SC 1656
+* UNION OF INDIA VS. WARSAW ENGINEERS AND OTHERS, COMAP NO.25/2021
+* Other cited precedents (as listed in the judgment)
+
+## Further Reading:
+
+*  Arbitration and Conciliation Act, 1996 (available online)
+*  Commercial Courts Act, 2015 (available online)
+*  Supreme Court and High Court judgments cited in this summary (available through legal databases)

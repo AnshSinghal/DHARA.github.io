@@ -1,0 +1,104 @@
+## 1. Case Title
+
+* **Case Name:** Prakash Corporates vs. Dee Vee Projects Limited 
+* **Court:** Supreme Court of India
+* **Date of Judgment:** 14th February 2022
+* **Citation:** (Not provided in the text, but would be available through legal databases)
+
+## 2. Background and Context
+
+* **Brief Overview:** The case involved a contractual dispute between Prakash Corporates (Appellant) and Dee Vee Projects Limited (Respondent).  Both parties were involved in public contract works, with Prakash Corporates sub-contracting portions of two projects from Dee Vee Projects.  A disagreement arose regarding monetary liabilities stemming from these sub-contracts, culminating in Prakash Corporates issuing a demand notice under the Insolvency and Bankruptcy Code, 2016. Dee Vee Projects denied this claim, asserted a counterclaim, and ultimately filed a suit for recovery of alleged excess payment made to Prakash Corporates.
+* **Key Issues:** The primary issue in the case was whether the Appellant, Prakash Corporates, should be allowed to file a written statement in the suit filed by the Respondent, Dee Vee Projects, despite exceeding the statutory deadline prescribed by the Commercial Courts Act, 2015. This involved examining the impact of the Supreme Court's orders in the Suo Motu Writ Petition (Civil) No. 3 of 2020 (SMWP No. 3 of 2020) concerning extensions of limitation periods due to the COVID-19 pandemic.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * **Code of Civil Procedure, 1908 (CPC):** Particularly relevant provisions were Order V Rule 1(1), Order VIII Rule 1, Order VIII Rule 10, and Section 151.
+    * **Commercial Courts Act, 2015:** Key sections were Section 12-A and Section 16, which amended the CPC provisions in relation to commercial disputes of specified value.
+    * **Insolvency and Bankruptcy Code, 2016:**  This Code was referenced in relation to the demand notice issued by the Appellant.
+    * **Limitation Act, 1963:** Section 4, dealing with expiry of prescribed periods when courts are closed, was relevant to the argument regarding dies non juridicus.
+* **Precedents Cited:**
+    * **SCG Contracts (India) Private Limited v. K.S. Chamankar Infrastructure Private Limited and Ors.: (2019) 12 SCC 210:** This case clarified the mandatory nature of the time limits for filing written statements under the amended CPC provisions.
+    * **SS Group Pvt. Ltd. v. Aaditiya J. Garg and Anr.: 2020 SCC OnLine SC 1050:**  This case addressed the extension of limitation periods during COVID-19.
+    * **Sagufa Ahmed and Ors. v. Upper Assam Polywood Products Private Limited and Ors.: (2021) 2 SCC 317:** This case established that the extension of limitation periods granted by the Supreme Court in SMWP No. 3 of 2020 did not automatically condone delays beyond the prescribed limits.
+    * **S. Kasi v. State: Criminal Appeal No. 452 of 2020 decided on 19.06.2020 [(2020) SCC OnLine SC 529]:** This case addressed the applicability of the SMWP No. 3 of 2020 orders to criminal proceedings involving chargesheets, and how it did not apply to all applications.
+    * **New India Assurance Co. Ltd. v. Hill Multipurpose Cold Storage (P) Ltd.: (2020) 5 SCC 757:** This case confirmed that the Consumer Court had no power to extend the time for filing a response to a complaint beyond 45 days. 
+* **Legal Doctrines:**
+    * **Dies Non Juridicus:** The concept of a day on which the Court does not ordinarily sit or carry-on business, which can impact the calculation of limitation periods.
+    * **Inherent Powers of the Court:** The ability of the court to exercise inherent powers under Section 151 of the CPC to ensure justice and prevent injustice.
+    * **Mandamus:** The legal remedy used by the Appellant to seek a direction from the High Court to compel the Commercial Court to allow the filing of the written statement.
+
+## 4. Arguments Presented
+
+* **Plaintiff's Argument (Dee Vee Projects Limited):**
+    * The Appellant had forfeited its right to file a written statement due to exceeding the 120-day deadline prescribed by the Commercial Courts Act, 2015.
+    * The orders passed in SMWP No. 3 of 2020 were not applicable to the filing of written statements, and the Appellant could not claim the benefit of those orders.
+    * The Appellant's claim for condonation of delay was not permissible under the statute, as the written statement had not been filed at all.
+    * The Appellant's repeated requests for adjournments and delays demonstrated a lack of diligence.
+    * The decisions in SCG Contracts and Sagufa Ahmed case confirmed the court's limited power to extend time beyond the statutory limit.
+* **Defendant's Argument (Prakash Corporates):**
+    * The impugned orders were flawed, being contrary to the Supreme Court's directions in SMWP No. 3 of 2020.
+    * The suit was filed during the period when the Supreme Court's orders in SMWP No. 3 of 2020 were in operation, and the entire period from 15.03.2020 until 02.10.2021 should be excluded for the purposes of limitation, including the deadline for filing a written statement.
+    * The Appellant faced extraordinary circumstances due to the pandemic, including lockdowns, personal illnesses, and family emergencies, which justified a further relaxation of the deadline.
+    * The High Court's administrative order dated 05.04.2021 effectively created a situation where the Trial Court was not functioning normally, further justifying the extension of the deadline.
+    * The Appellant had a pending application under Section 10 of the CPC seeking a stay of the suit proceedings, which should have been considered by the Trial Court before proceeding further.
+
+## 5. Court's Analysis and Reasoning
+
+* **Key Findings:**
+    * The Supreme Court acknowledged the extraordinary circumstances created by the COVID-19 pandemic and the need for flexibility in applying legal principles.
+    * The Court emphasized the purpose behind the orders passed in SMWP No. 3 of 2020, which was to alleviate the hardships faced by litigants due to lockdowns and disruptions.
+    * The Court held that the period from 15.03.2020 to 02.10.2021 should be excluded while computing the period of limitation for all proceedings, including the filing of written statements.
+    * The Court also recognized that the High Court's administrative order dated 05.04.2021 effectively curtailed the functioning of the Trial Court, making it impossible to consider those days as normal working days for the purposes of calculating limitation periods.
+* **Interpretation of Law:**
+    * The Court interpreted the orders passed in SMWP No. 3 of 2020 broadly, recognizing their purpose of protecting litigants from hardship caused by the pandemic.
+    * The Court noted that the purpose of the provisions in the CPC and the Commercial Courts Act regarding the filing of written statements was to ensure the orderly progression of litigation, not to punish parties.
+    * The Court applied the concept of dies non juridicus to the period during which the High Court's administrative order was in operation, effectively extending the limitation period for the Appellant.
+* **Application of Law:**
+    * The Court found that the Appellant's case fell within the scope of the Supreme Court's orders in SMWP No. 3 of 2020, as the suit was filed and the prescribed deadline for filing the written statement expired during the pandemic.
+    * The Court concluded that the Appellant was entitled to an extension of time to file its written statement, taking into account the extraordinary circumstances, the Supreme Court's orders, and the limited functioning of the Trial Court due to the High Court's administrative order.
+    * The Court also emphasized the need for the Trial Court to address the pending application filed by the Appellant under Section 10 of the CPC.
+
+## 6. Judgment
+
+* **Final Decision:** The appeal was allowed. 
+* **Relief Granted:**
+    * The orders of the Commercial Court and the High Court were set aside.
+    * The written statement prepared and notarised by the Appellant on 07.07.2021 was ordered to be taken on record.
+* **Orders:** The Trial Court was directed to proceed with the suit in accordance with law, taking into account the written statement filed by the Appellant. The Trial Court was also directed to deal with the pending applications before taking any other steps in the suit.
+
+## 7. Implications
+
+* **Impact on Law:**
+    * The judgment further clarified the applicability of the Supreme Court's orders in SMWP No. 3 of 2020, extending their scope to include situations where deadlines for filing written statements fall within the periods prescribed by those orders.
+    * The judgment reinforced the concept of dies non juridicus as a relevant factor in calculating limitation periods when courts are not functioning normally due to administrative orders or unforeseen circumstances.
+* **Future Relevance:** 
+    * This case is likely to be cited in future cases concerning the calculation of limitation periods during periods of disruption or emergency, particularly in relation to the COVID-19 pandemic and its lingering impact.
+    * It provides a framework for courts to balance strict statutory deadlines with the need for flexibility and fairness when litigants face extraordinary circumstances.
+* **Broader Context:**
+    * The case highlights the challenges faced by the legal system in navigating situations where exceptional circumstances require modifications to established legal principles.
+    * It demonstrates the willingness of the Indian courts to ensure justice and fairness in the face of unforeseen events like a global pandemic.
+
+## 8. Summary Points
+
+* The Supreme Court extended the scope of its orders in SMWP No. 3 of 2020 to encompass the filing of written statements in commercial suits.
+* The Court found that the pandemic and the High Court's administrative order created extraordinary circumstances that justified extending the deadline for filing the Appellant's written statement.
+* The Court emphasized the importance of procedural fairness and the need for courts to avoid punishing litigants for delays caused by factors beyond their control.
+* The judgment has significant implications for future cases involving the calculation of limitation periods during periods of disruption, particularly in light of the ongoing COVID-19 pandemic.
+
+## 9. References
+
+* **Citations:**
+    * Code of Civil Procedure, 1908 (CPC)
+    * Commercial Courts Act, 2015
+    * Insolvency and Bankruptcy Code, 2016
+    * Limitation Act, 1963
+    * SCG Contracts (India) Private Limited v. K.S. Chamankar Infrastructure Private Limited and Ors.: (2019) 12 SCC 210
+    * SS Group Pvt. Ltd. v. Aaditiya J. Garg and Anr.: 2020 SCC OnLine SC 1050
+    * Sagufa Ahmed and Ors. v. Upper Assam Polywood Products Private Limited and Ors.: (2021) 2 SCC 317
+    * S. Kasi v. State: Criminal Appeal No. 452 of 2020 decided on 19.06.2020 [(2020) SCC OnLine SC 529]
+    * New India Assurance Co. Ltd. v. Hill Multipurpose Cold Storage (P) Ltd.: (2020) 5 SCC 757 
+* **Further Reading:**
+    * P. Ramanatha Aiyar’s Law Lexicon (5th Ed., Vol. 2)
+    * Articles and commentaries on the Commercial Courts Act, 2015 and its impact on commercial litigation.
+    * Recent case law dealing with limitation periods and condonation of delay in the context of COVID-19. 

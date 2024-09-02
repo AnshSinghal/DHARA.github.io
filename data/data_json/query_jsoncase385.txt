@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A plaintiff in a trademark infringement case filed a suit online due to Covid-19 restrictions, but inadvertently failed to include certain documents. They later sought permission to introduce these documents. The Court dismissed their applications, citing a lack of reasonable cause for non-disclosure. The plaintiff appeals, arguing that the Court misinterpreted Order XI Rule 1(5) of the CPC and failed to consider the impact of the pandemic. What should the High Court decide regarding this appeal?",
+    "Legal Principles": "Order XI Rule 1(5) of the CPC, Reasonable Cause for Non-Disclosure, Covid-19 Pandemic's Impact on Legal Proceedings, Interpretation of Procedural Rules, Exercise of Supervisory Jurisdiction by High Court under Article 227",
+    "Relevant Sections": "Order XI Rule 1(1), Order XI Rule 1(3), Order XI Rule 1(4), Order XI Rule 1(5) of the CPC, Article 227 of the Constitution of India",
+    "Context": "Commercial Dispute, Trademark Infringement, Appeal before Delhi High Court, Application for Filing Additional Documents"
+  },
+  {
+    "Query": "A commercial dispute involves a plaintiff claiming prior use of a trademark, while the defendant contests this claim. The plaintiff filed additional documents to support their claim of prior use, but the Court dismissed the application based on the plaintiff's failure to disclose these documents at the time of filing the plaint. The plaintiff now seeks to introduce these documents, arguing they are essential to rebut the defendant's claim. Should the Court allow the introduction of these documents?",
+    "Legal Principles": "Order XI Rule 1(1)(c)(ii) of the CPC, Prior Use of Trademark, Burden of Proof, Rebuttal Evidence, Interpretation of Procedural Rules",
+    "Relevant Sections": "Order XI Rule 1(1)(c)(ii) of the CPC",
+    "Context": "Commercial Dispute, Trademark Infringement, Application for Filing Additional Documents"
+  },
+  {
+    "Query": "A plaintiff filed a suit online due to the Covid-19 pandemic, but some documents were not included in the initial filing. The Court dismissed their application to introduce these documents, emphasizing the need for reasonable cause for non-disclosure. The plaintiff appeals, claiming the pandemic's impact justifies the delay. Is the High Court's intervention justified under Article 227 of the Constitution?",
+    "Legal Principles": "Article 227 of the Constitution of India, Supervisory Jurisdiction of High Court, Covid-19 Pandemic's Impact on Legal Proceedings, Procedural Fairness, Balancing of Interests",
+    "Relevant Sections": "Article 227 of the Constitution of India",
+    "Context": "Commercial Dispute, Appeal before Delhi High Court, Application for Filing Additional Documents"
+  },
+  {
+    "Query": "A plaintiff in a commercial dispute filed a suit during the Covid-19 pandemic and omitted certain documents. They later sought to introduce these documents but were denied by the Court. The plaintiff claims the pandemic's impact hampered their ability to file all documents, while the defendant argues for a strict interpretation of Order XI Rule 1(5) of the CPC. What should the High Court decide regarding this appeal?",
+    "Legal Principles": "Order XI Rule 1(5) of the CPC, Covid-19 Pandemic's Impact on Legal Proceedings, Interpretation of Procedural Rules, Balancing of Interests, Application of Precedents",
+    "Relevant Sections": "Order XI Rule 1(5) of the CPC",
+    "Context": "Commercial Dispute, Appeal before Delhi High Court, Application for Filing Additional Documents"
+  },
+  {
+    "Query": "A plaintiff in a trademark infringement case filed a suit online, but they omitted certain invoices and online status of the defendant's trademark applications. The Court dismissed their application to introduce these documents, claiming they failed to establish a reasonable cause for non-disclosure. The plaintiff appeals, arguing the pandemic's impact and the documents' relevance justify their belated submission. How should the High Court rule on this appeal?",
+    "Legal Principles": "Order XI Rule 1(5) of the CPC, Reasonable Cause for Non-Disclosure, Relevance of Documents, Covid-19 Pandemic's Impact on Legal Proceedings",
+    "Relevant Sections": "Order XI Rule 1(5) of the CPC",
+    "Context": "Commercial Dispute, Trademark Infringement, Appeal before Delhi High Court, Application for Filing Additional Documents"
+  },
+  {
+    "Query": "A plaintiff in a commercial dispute filed a suit during the pandemic and omitted certain documents. The Court dismissed their application to introduce these documents, citing the failure to disclose them initially. The plaintiff argues the pandemic hampered their ability to access these documents, while the defendant insists on a strict application of Order XI Rule 1(5). Is the High Court's intervention warranted under Article 227?",
+    "Legal Principles": "Order XI Rule 1(5) of the CPC, Article 227 of the Constitution of India, Supervisory Jurisdiction of High Court, Covid-19 Pandemic's Impact on Legal Proceedings",
+    "Relevant Sections": "Order XI Rule 1(5) of the CPC, Article 227 of the Constitution of India",
+    "Context": "Commercial Dispute, Appeal before Delhi High Court, Application for Filing Additional Documents"
+  },
+  {
+    "Query": "A plaintiff in a contract dispute filed a suit online, but they omitted certain documents that were inaccessible due to Covid-19 restrictions. They sought to introduce these documents later, but the Court dismissed their application, citing the need for reasonable cause for non-disclosure. The plaintiff appeals, arguing the pandemic justified their delayed submission. Can the High Court intervene under Article 227?",
+    "Legal Principles": "Order XI Rule 1(5) of the CPC, Article 227 of the Constitution of India, Supervisory Jurisdiction of High Court, Covid-19 Pandemic's Impact on Legal Proceedings",
+    "Relevant Sections": "Order XI Rule 1(5) of the CPC, Article 227 of the Constitution of India",
+    "Context": "Commercial Dispute, Contract Dispute, Appeal before Delhi High Court, Application for Filing Additional Documents"
+  },
+  {
+    "Query": "A plaintiff in a copyright infringement case filed a suit online during the pandemic, but they omitted certain documents due to technical issues. They sought to introduce these documents later, but the Court dismissed their application, citing the need for reasonable cause for non-disclosure. The plaintiff appeals, arguing the pandemic's impact justifies their delay. Should the High Court intervene?",
+    "Legal Principles": "Order XI Rule 1(5) of the CPC, Article 227 of the Constitution of India, Supervisory Jurisdiction of High Court, Covid-19 Pandemic's Impact on Legal Proceedings",
+    "Relevant Sections": "Order XI Rule 1(5) of the CPC, Article 227 of the Constitution of India",
+    "Context": "Commercial Dispute, Copyright Infringement, Appeal before Delhi High Court, Application for Filing Additional Documents"
+  },
+  {
+    "Query": "A plaintiff in a patent infringement case filed a suit online during the pandemic, but they omitted certain documents due to logistical challenges. They sought to introduce these documents later, but the Court dismissed their application, citing the need for reasonable cause for non-disclosure. The plaintiff appeals, arguing the pandemic's impact justifies their delay. Should the High Court intervene?",
+    "Legal Principles": "Order XI Rule 1(5) of the CPC, Article 227 of the Constitution of India, Supervisory Jurisdiction of High Court, Covid-19 Pandemic's Impact on Legal Proceedings",
+    "Relevant Sections": "Order XI Rule 1(5) of the CPC, Article 227 of the Constitution of India",
+    "Context": "Commercial Dispute, Patent Infringement, Appeal before Delhi High Court, Application for Filing Additional Documents"
+  },
+  {
+    "Query": "A plaintiff in a trade secret misappropriation case filed a suit online, but they omitted certain documents due to a lack of access during the pandemic. They sought to introduce these documents later, but the Court dismissed their application, citing the need for reasonable cause for non-disclosure. The plaintiff appeals, arguing the pandemic's impact justifies their delay. Should the High Court intervene?",
+    "Legal Principles": "Order XI Rule 1(5) of the CPC, Article 227 of the Constitution of India, Supervisory Jurisdiction of High Court, Covid-19 Pandemic's Impact on Legal Proceedings",
+    "Relevant Sections": "Order XI Rule 1(5) of the CPC, Article 227 of the Constitution of India",
+    "Context": "Commercial Dispute, Trade Secret Misappropriation, Appeal before Delhi High Court, Application for Filing Additional Documents"
+  }
+]
+```

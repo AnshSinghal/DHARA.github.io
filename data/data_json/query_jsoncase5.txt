@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A construction company entered into a contract with a government agency to build a highway. The contract stipulated a specific commencement date and a price escalation clause. Due to unforeseen circumstances, the commencement date was delayed. The construction company claims price escalation based on the delayed commencement date, arguing that the original price agreed upon is no longer applicable. The government agency, however, argues that the price escalation should only be applied from the actual commencement date, not the originally planned date.",
+    "Legal Principles": "Contract interpretation, force majeure, price escalation clauses, commencement date, contractual terms",
+    "Relevant Sections": "Clause 4.5.2 of the CMDA, Clause 5.4.3 of the CMDA,  Section 37 of the Arbitration Act",
+    "Context": "This case involves a contract dispute between a construction company and a government agency regarding price escalation due to a delay in the commencement date. The case involves the interpretation of contract clauses regarding commencement date and price escalation."
+  },
+  {
+    "Query": "A mining company is seeking compensation for fixed costs incurred due to a delay in coal delivery by the buyer. The buyer argues that the delay was caused by unforeseen circumstances and that they are not responsible for the mining company's fixed costs. The mining company insists that the buyer's delay constitutes a breach of contract, entitling them to compensation.",
+    "Legal Principles": "Contractual obligations, breach of contract, fixed costs, force majeure, event of default",
+    "Relevant Sections": "Clause 8.2(iii) of the CMDA",
+    "Context": "This case involves a dispute between a mining company and a coal buyer regarding compensation for fixed costs incurred due to a delay in coal delivery. The case hinges on the interpretation of contract clauses regarding delivery schedule and the consequences of a breach of contract."
+  },
+  {
+    "Query": "Two companies formed a joint venture to develop a coal mine. They established an escrow account as per government regulations for mine closure expenses. One of the companies claims that the amount in the escrow account should be returned as mine closure activities have not yet commenced. The other company argues that the amount should remain in the escrow account until mine closure activities are completed, as per the government guidelines.",
+    "Legal Principles": "Joint venture agreements, escrow accounts, government regulations, contractual obligations, interpretation of regulations",
+    "Relevant Sections": "Clause 3.2.1 of the CMDA, Ministry of Coal guidelines",
+    "Context": "This case involves a dispute between two joint venture partners regarding the management of an escrow account for mine closure expenses. The case focuses on the interpretation of contractual agreements and government regulations concerning escrow accounts and mine closure activities."
+  },
+  {
+    "Query": "A software development company contracted with a client to develop a software application. The contract included a specific delivery date and a provision for liquidated damages for late delivery. The software development company failed to deliver the application on time, citing unforeseen technical challenges. The client seeks to claim liquidated damages for the delay. The software development company argues that the technical challenges constitute a force majeure event, excusing their late delivery.",
+    "Legal Principles": "Contractual obligations, liquidated damages, force majeure, breach of contract, delay in performance",
+    "Relevant Sections": "Contractual provisions for delivery date and liquidated damages, force majeure clauses",
+    "Context": "This case involves a dispute between a software development company and a client regarding liquidated damages for delayed delivery of a software application. The case focuses on the interpretation of contract clauses regarding delivery date, liquidated damages, and force majeure events."
+  },
+  {
+    "Query": "A property developer entered into a contract with a construction company to build an apartment complex. The contract stipulated a fixed price for construction, with a provision for price escalation based on certain indices. During the construction phase, there was a significant increase in construction material costs. The property developer claims that the price escalation clause applies to the increased costs. The construction company argues that the price escalation clause only applies to specific indices, not to general market fluctuations.",
+    "Legal Principles": "Contractual obligations, price escalation clauses, interpretation of contract terms, construction contracts",
+    "Relevant Sections": "Contract provisions for fixed price and price escalation clauses",
+    "Context": "This case involves a dispute between a property developer and a construction company regarding price escalation due to increased construction costs. The case focuses on the interpretation of contract clauses regarding fixed price, price escalation, and the scope of the price escalation clause."
+  },
+  {
+    "Query": "A company entered into a contract with a supplier for the supply of raw materials. The contract specified a delivery schedule and a penalty for late delivery. The supplier failed to meet the delivery schedule due to unforeseen delays at its manufacturing plant. The company claims the penalty for late delivery. The supplier argues that the delays constitute a force majeure event, excusing its failure to meet the delivery schedule.",
+    "Legal Principles": "Contractual obligations, force majeure, breach of contract, delay in performance, penalty clauses",
+    "Relevant Sections": "Contract provisions for delivery schedule, penalty clauses, force majeure clauses",
+    "Context": "This case involves a dispute between a company and a supplier regarding a penalty for late delivery of raw materials. The case focuses on the interpretation of contract clauses regarding delivery schedule, penalty clauses, and the applicability of force majeure events."
+  },
+  {
+    "Query": "A vendor entered into a contract with a buyer to sell a piece of land. The contract included a specific payment schedule and a provision for forfeiture of the deposit in case of default. The buyer failed to make a payment on time, citing financial difficulties. The vendor seeks to enforce the forfeiture clause and reclaim the deposit. The buyer argues that the vendor should consider alternative solutions instead of forfeiting the deposit.",
+    "Legal Principles": "Contractual obligations, default, forfeiture clauses, remedies for breach of contract, equitable considerations",
+    "Relevant Sections": "Contract provisions for payment schedule and forfeiture clause",
+    "Context": "This case involves a dispute between a vendor and a buyer regarding the forfeiture of a deposit due to a payment default. The case focuses on the interpretation of contract clauses regarding payment schedule, forfeiture clause, and the equitable considerations involved in enforcing the forfeiture clause."
+  },
+  {
+    "Query": "A company entered into a joint venture agreement with a partner to develop a new product. The agreement specified a profit sharing mechanism. After the product launch, a dispute arose regarding the interpretation of the profit sharing clause. One company claims that the profit sharing should be calculated based on a specific formula, while the other company argues for a different interpretation.",
+    "Legal Principles": "Joint venture agreements, profit sharing, contract interpretation, dispute resolution",
+    "Relevant Sections": "Joint venture agreement provisions for profit sharing",
+    "Context": "This case involves a dispute between two joint venture partners regarding the interpretation of a profit sharing clause in their agreement. The case focuses on the interpretation of contract clauses related to profit sharing and the resolution of disputes arising from such interpretation."
+  },
+  {
+    "Query": "A tenant entered into a lease agreement with a landlord. The lease agreement included a provision for rent increases based on a specific index. The landlord seeks to increase the rent based on the index. The tenant argues that the rent increase is unreasonable and that the landlord should consider other factors, such as market conditions, before increasing the rent.",
+    "Legal Principles": "Lease agreements, rent increase provisions, contract interpretation, reasonableness, market conditions",
+    "Relevant Sections": "Lease agreement provisions for rent increase",
+    "Context": "This case involves a dispute between a landlord and a tenant regarding a rent increase based on an index in the lease agreement. The case focuses on the interpretation of contract clauses related to rent increases, the reasonableness of the increase, and the consideration of market conditions."
+  },
+  {
+    "Query": "A company contracted with a service provider to provide IT support services. The contract specified a service level agreement (SLA) with performance metrics and penalties for non-compliance. The service provider failed to meet the performance metrics, resulting in service disruptions. The company seeks to claim penalties for non-compliance under the SLA. The service provider argues that the disruptions were caused by factors beyond their control.",
+    "Legal Principles": "Service level agreements (SLAs), performance metrics, penalties for non-compliance, breach of contract, force majeure",
+    "Relevant Sections": "Service level agreement provisions for performance metrics and penalties",
+    "Context": "This case involves a dispute between a company and a service provider regarding penalties for non-compliance with a service level agreement (SLA). The case focuses on the interpretation of SLA provisions related to performance metrics, penalties, and the applicability of force majeure events."
+  }
+]
+```

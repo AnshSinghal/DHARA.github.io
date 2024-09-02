@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A plaintiff, a resident of Delhi, filed a suit for infringement of a registered design against a defendant operating in Mumbai. The defendant claims that the plaintiff's design is not original and seeks its cancellation under Section 19 of the Designs Act, 2000. Which High Court has jurisdiction over the suit?",
+    "Legal Principles": "The Designs Act, 2000, specifically Section 22(4), dictates that suits involving a plea for cancellation of a registered design are to be transferred to the High Court where the suit is pending. The jurisdiction is determined by the location where the cause of action arises.",
+    "Relevant Sections": "**Section 22(4) of the Designs Act, 2000:** Notwithstanding anything contained in the second proviso to sub-section (2), where any ground or which the registration of a design may be cancelled under section 19 has been availed of as a ground of defence under sub-section (3) in any suit or other proceeding for relief under sub-section (2), the suit or such other proceedings shall be transferred by the Court, in which the suit or such other proceeding is pending, to the High Court for decision.",
+    "Context": "Jurisdictional dispute in a design infringement suit involving a plea for cancellation of the registered design under Section 19 of the Designs Act, 2000."
+  },
+  {
+    "Query": "A company based in Chennai filed a suit in the Madras High Court against a competitor for infringing its patented invention. The defendant countered by arguing that the patent is invalid due to prior art and requested its cancellation under Section 104 of the Patents Act, 1970. Can the Madras High Court handle this case or does it need to be transferred?",
+    "Legal Principles": "Similar to the Designs Act, Section 104 of the Patents Act, 1970, mandates the transfer of suits where the defendant seeks cancellation of the patent to the High Court where the suit is pending. The Commercial Division of the High Court is typically designated to handle these cases.",
+    "Relevant Sections": "**Section 104 of the Patents Act, 1970:** (1) In any suit or other proceeding for relief under section 64 or section 65, where any ground on which the patent may be revoked under section 64 has been availed of as a ground of defence, the suit or other proceeding shall be transferred by the Court, in which the suit or other proceeding is pending, to the High Court for decision.",
+    "Context": "Patent infringement case in the Madras High Court with a counterclaim for patent cancellation under Section 104 of the Patents Act, 1970."
+  },
+  {
+    "Query": "A software company in Bangalore registered a copyright for its new software program. Another company in Hyderabad started selling a very similar software. The Bangalore company filed a copyright infringement suit in the Karnataka High Court. The Hyderabad company pleaded that the Bangalore software was not original and sought its copyright cancellation. Should the case be transferred from the Karnataka High Court?",
+    "Legal Principles": "The Copyright Act, 1957, does not have a specific provision like Section 22(4) of the Designs Act or Section 104 of the Patents Act for mandatory transfer of suits involving copyright cancellation. However, the principles of jurisdiction and the nature of the dispute might influence the decision.",
+    "Relevant Sections": "No specific provision for transfer of copyright cancellation cases in the Copyright Act, 1957.",
+    "Context": "Copyright infringement case in the Karnataka High Court with a counterclaim for copyright cancellation. The relevant legal principles are derived from the Copyright Act, 1957, and general jurisdictional principles."
+  },
+  {
+    "Query": "A small business owner in Kolkata filed a trademark infringement suit against a larger company for using a similar logo in Mumbai. The defendant argued that the plaintiff's trademark was not distinctive and sought its cancellation. Should the case be transferred from the Calcutta High Court to the Bombay High Court?",
+    "Legal Principles": "The Trade Marks Act, 1999, does not have a provision like Section 22(4) of the Designs Act for mandatory transfer of suits involving trademark cancellation. The jurisdiction is typically determined by where the cause of action arises, but the court might consider the convenience of the parties and the nature of the dispute.",
+    "Relevant Sections": "No specific provision for transfer of trademark cancellation cases in the Trade Marks Act, 1999.",
+    "Context": "Trademark infringement case in the Calcutta High Court with a counterclaim for trademark cancellation. The relevant legal principles are derived from the Trade Marks Act, 1999, and general jurisdictional principles."
+  },
+  {
+    "Query": "A company in Delhi filed a suit in the Delhi High Court against another company in Delhi for infringing its registered design. The defendant argued that the plaintiff's design was not new or original and sought its cancellation under Section 19 of the Designs Act, 2000. Should the Delhi High Court transfer the case to the Commercial Division?",
+    "Legal Principles": "The Commercial Courts Act, 2015, mandates that suits and applications related to commercial disputes, including those involving intellectual property rights like designs, patents, trademarks, and copyrights, are to be heard by the Commercial Division of the High Court if the High Court has ordinary original civil jurisdiction. This applies to suits transferred under Section 22(4) of the Designs Act.",
+    "Relevant Sections": "**Section 7 of the Commercial Courts Act, 2015:** Provided further that all suits and applications transferred to the High Court by virtue of sub-section (4) of section 22 of the Designs Act, 2000 (16 of 2000) or section 104 of the Patents Act, 1970 (39 of 1970) shall be heard and disposed of by the Commercial Division of the High Court in all the areas over which the High Court exercises ordinary original civil jurisdiction.",
+    "Context": "Design infringement case in the Delhi High Court with a counterclaim for design cancellation under Section 19 of the Designs Act, 2000. The relevant legal principles are derived from the Designs Act, 2000, and the Commercial Courts Act, 2015."
+  },
+  {
+    "Query": "Two companies, both operating in different states, entered into a contract for the supply of goods. One company filed a suit in the High Court of its state, alleging breach of contract by the other company. The defendant raised a counterclaim for damages, arguing that the plaintiff's actions caused financial losses. Can the High Court handle this case, or does it need to be transferred to a different court?",
+    "Legal Principles": "In cases of breach of contract, the jurisdiction is generally determined by the place where the contract was made or where the breach occurred. The court also considers the residence or place of business of the parties involved.",
+    "Relevant Sections": "No specific provision for transfer of breach of contract cases in the Indian Contract Act, 1872. The relevant legal principles are derived from the Indian Contract Act, 1872, and general jurisdictional principles.",
+    "Context": "Breach of contract suit filed in the High Court of one state with a counterclaim for damages. The relevant legal principles are derived from the Indian Contract Act, 1872, and general jurisdictional principles."
+  },
+  {
+    "Query": "A tenant in Mumbai filed a suit in the Bombay High Court against his landlord, alleging illegal eviction and seeking an injunction to prevent further eviction attempts. The landlord countered by alleging that the tenant failed to pay rent and demanded eviction. Should the Bombay High Court retain the case, or should it be transferred to a lower court?",
+    "Legal Principles": "The Bombay Rent Control Act, 1947, governs rent control matters in Mumbai. It specifies the jurisdiction of different courts, including the Bombay High Court and the Rent Control Courts, for dealing with eviction and other related disputes.",
+    "Relevant Sections": "The Bombay Rent Control Act, 1947.",
+    "Context": "Eviction case filed in the Bombay High Court under the Bombay Rent Control Act, 1947. The relevant legal principles are derived from the Bombay Rent Control Act, 1947, and general jurisdictional principles."
+  },
+  {
+    "Query": "A couple in Delhi filed a divorce petition in the Delhi High Court. The wife alleged cruelty and desertion by the husband and sought a divorce decree. The husband contested the allegations and filed a counterclaim for divorce on grounds of adultery. Can the Delhi High Court handle this case, or does it need to be transferred to a family court?",
+    "Legal Principles": "The Family Courts Act, 1984, aims to provide a specialized forum for resolving family disputes, including divorce, custody, and maintenance. In many jurisdictions, Family Courts have exclusive jurisdiction over such matters. However, the High Court may retain jurisdiction depending on the specific circumstances of the case.",
+    "Relevant Sections": "The Family Courts Act, 1984.",
+    "Context": "Divorce case filed in the Delhi High Court under the Hindu Marriage Act, 1955, with a counterclaim for divorce. The relevant legal principles are derived from the Hindu Marriage Act, 1955, and the Family Courts Act, 1984."
+  },
+  {
+    "Query": "A bank in Chennai filed a suit in the Madras High Court against a borrower for recovery of a loan amount. The borrower contested the claim and argued that the bank charged excessive interest rates and violated loan terms. Should the Madras High Court handle this case, or should it be transferred to a specialized debt recovery tribunal?",
+    "Legal Principles": "The Recovery of Debts Due to Banks and Financial Institutions Act, 1993, established specialized tribunals for efficient recovery of debts owed to banks and financial institutions. The jurisdiction of these tribunals can vary, and the High Court might retain jurisdiction depending on the nature of the dispute and the amount involved.",
+    "Relevant Sections": "The Recovery of Debts Due to Banks and Financial Institutions Act, 1993.",
+    "Context": "Loan recovery case filed in the Madras High Court against a borrower. The relevant legal principles are derived from the Recovery of Debts Due to Banks and Financial Institutions Act, 1993, and general jurisdictional principles."
+  },
+  {
+    "Query": "A driver in Hyderabad was involved in a road accident, resulting in injuries to another driver. The injured driver filed a suit in the Telangana High Court against the driver and the insurance company for damages. The insurance company argued that the driver violated the insurance policy terms and sought to avoid liability. Should the Telangana High Court handle this case, or should it be transferred to a Motor Accidents Claims Tribunal (MACT)?",
+    "Legal Principles": "The Motor Vehicles Act, 1988, established the Motor Accidents Claims Tribunals (MACTs) to deal with claims for compensation arising from road accidents. The MACTs have exclusive jurisdiction over such claims, except in specific circumstances where the High Court might retain jurisdiction.",
+    "Relevant Sections": "The Motor Vehicles Act, 1988.",
+    "Context": "Road accident case filed in the Telangana High Court involving a claim for damages. The relevant legal principles are derived from the Motor Vehicles Act, 1988, and general jurisdictional principles."
+  }
+]
+```

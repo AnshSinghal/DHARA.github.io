@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A company, 'ABC Enterprises', took a loan from 'XYZ Financial Corporation' and defaulted on repayment. XYZ Financial Corporation took possession of ABC Enterprises' assets under the State Financial Corporations Act, 1951. Subsequently, 'DEF Suppliers' sued ABC Enterprises for non-payment of goods supplied.  DEF Suppliers then seeks to add XYZ Financial Corporation as a defendant in the suit, arguing that the corporation, having taken possession of ABC Enterprises, is now liable for the debt.  XYZ Financial Corporation objects, arguing there is no privity of contract.  Should XYZ Financial Corporation be held liable for the debt owed by ABC Enterprises?",
+    "Legal Principles": "Privity of Contract, Liability of Successor in Interest, Section 29 of the State Financial Corporations Act, 1951",
+    "Relevant Sections": "Section 29 of the State Financial Corporations Act, 1951",
+    "Context": "Civil Suit, Contract Law, Corporate Law,  India"
+  },
+  {
+    "Query": "A plaintiff, 'Alpha Technologies', obtained a decree against 'Beta Industries' for payment of a sum of money with interest at 18% per annum. The decree has become final. During execution, Beta Industries claims that the interest rate is excessive and should be reduced to 12% per annum. Can the executing court reconsider the interest rate in the final decree?",
+    "Legal Principles": "Res Judicata, Execution of Decrees, Section 34 of the Code of Civil Procedure, 1908",
+    "Relevant Sections": "Section 34 of the Code of Civil Procedure, 1908",
+    "Context": "Civil Execution, India"
+  },
+  {
+    "Query": "A plaintiff, 'Gamma Corp', filed a suit against 'Delta Ltd' in a civil court. The suit was decreed in favor of Gamma Corp, and the decree became final. Subsequently, Gamma Corp seeks to execute the decree in a commercial court, arguing that the Commercial Courts Act, 2015 applies to the case. Delta Ltd objects, claiming the case should remain in the civil court. Which court has jurisdiction to execute the decree?",
+    "Legal Principles": "Jurisdiction of Courts, Commercial Courts Act, 2015, Execution of Decrees",
+    "Relevant Sections": "Section 15 of the Commercial Courts Act, 2015, Section 38 of the Code of Civil Procedure, 1908",
+    "Context": "Civil Execution, Commercial Law, India"
+  },
+  {
+    "Query": "'Epsilon Builders' was awarded a contract to build a school building by the 'City Municipality'. The contract included a provision for earnest money deposit. Epsilon Builders defaulted on the contract and the City Municipality forfeited the earnest money deposit. Epsilon Builders argues that the forfeiture was unfair and seeks to recover the deposit with interest.  What legal principles apply to the determination of interest in such a case?",
+    "Legal Principles": "Contract Law, Earnest Money Deposit, Forfeiture, Interest, Unjust Enrichment",
+    "Relevant Sections": "Indian Contract Act, 1872",
+    "Context": "Contract Law, India"
+  },
+  {
+    "Query": "A defendant, 'Zeta Holdings', provided a bank guarantee to secure a claim by the plaintiff, 'Theta Corp', during a pending suit. The suit was ultimately decreed in favor of Theta Corp. Zeta Holdings now argues that the bank guarantee should be released as it was provided only as security during the suit. Is Zeta Holdings correct?",
+    "Legal Principles": "Bank Guarantee, Security, Execution of Decrees",
+    "Relevant Sections": "Code of Civil Procedure, 1908",
+    "Context": "Civil Execution, India"
+  },
+  {
+    "Query": "'Omega Enterprises' filed a suit against 'Pi Corp' for recovery of a debt, which was decreed in favor of Omega Enterprises.  During execution proceedings, Pi Corp raises an objection arguing that the decree is void ab initio due to a jurisdictional error. Can the executing court consider this objection?",
+    "Legal Principles": "Jurisdiction of Courts, Void Decree, Execution of Decrees",
+    "Relevant Sections": "Section 47 of the Code of Civil Procedure, 1908",
+    "Context": "Civil Execution, India"
+  },
+  {
+    "Query": "'Rho Technologies' obtained a decree against 'Sigma Ltd' for payment of a sum of money. The decree was passed by a civil court. Subsequently, the Commercial Courts Act, 2015 was enacted. Rho Technologies now seeks to execute the decree in a commercial court. Does the enactment of the Commercial Courts Act, 2015 divest the civil court of jurisdiction to execute the decree?",
+    "Legal Principles": "Jurisdiction of Courts, Commercial Courts Act, 2015, Execution of Decrees",
+    "Relevant Sections": "Section 15 of the Commercial Courts Act, 2015, Section 38 of the Code of Civil Procedure, 1908",
+    "Context": "Civil Execution, Commercial Law, India"
+  },
+  {
+    "Query": "'Tau Enterprises' was awarded a decree against 'Upsilon Ltd' for payment of a sum of money with interest. The decree became final.  Tau Enterprises now seeks to execute the decree, arguing for interest at a higher rate than originally awarded in the decree. Can the executing court grant Tau Enterprises a higher interest rate than what was awarded in the final decree?",
+    "Legal Principles": "Res Judicata, Execution of Decrees, Interest",
+    "Relevant Sections": "Section 34 of the Code of Civil Procedure, 1908",
+    "Context": "Civil Execution, India"
+  },
+  {
+    "Query": "A plaintiff, 'Xi Inc.', filed a suit against 'Ypsilon Ltd' in a civil court. The suit was decreed in favor of Xi Inc, and the decree became final. Subsequently, Xi Inc seeks to execute the decree but the defendant, Ypsilon Ltd, claims the decree is unenforceable due to a new law that was enacted after the decree was passed.  Can the executing court refuse to enforce the decree due to the new law?",
+    "Legal Principles": "Execution of Decrees, Retrospective Effect of Laws",
+    "Relevant Sections": "Code of Civil Procedure, 1908",
+    "Context": "Civil Execution, India"
+  },
+  {
+    "Query": "'Zeta Inc.' filed a suit against 'Omega Corp.' for a debt.  The suit was decreed in favor of Zeta Inc., but Omega Corp. failed to pay the decree amount.  Zeta Inc. sought to execute the decree, but Omega Corp. objected, claiming that the suit was barred by the law of limitation. Can the executing court consider this objection?",
+    "Legal Principles": "Execution of Decrees, Limitation Act, 1963",
+    "Relevant Sections": "Section 47 of the Code of Civil Procedure, 1908, Limitation Act, 1963",
+    "Context": "Civil Execution, India"
+  }
+]
+```

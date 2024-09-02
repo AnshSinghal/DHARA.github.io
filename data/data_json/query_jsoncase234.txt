@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A defendant in a commercial suit filed in a Commercial Court seeks to challenge an order permitting the plaintiff to file an additional affidavit in lieu of evidence after the matter was posted for arguments. The defendant argues that the order violates the provisions of Order 18 Rule 4 of the Code of Civil Procedure (CPC) as amended by the Commercial Courts Act, 2015.",
+    "Legal Principles": "Order 18 Rule 4(1A) of the CPC as amended by the Commercial Courts Act, 2015, prohibits the filing of additional affidavits in lieu of evidence after the matter is posted for arguments unless sufficient cause is shown. The court has the power to permit additional evidence only if sufficient cause is made out in an application filed for that purpose. Section 8 of the Commercial Courts Act, 2015, bars revision applications or petitions against interlocutory orders of a Commercial Court.",
+    "Relevant Sections": "Order 18 Rule 4(1A) & (1B) of the CPC, Section 8 of the Commercial Courts Act, 2015.",
+    "Context": "Commercial suit, interlocutory order, additional evidence, affidavit in lieu of evidence, supervisory jurisdiction under Article 227 of the Constitution of India."
+  },
+  {
+    "Query": "In a commercial dispute, the plaintiff seeks to lead further evidence after the matter was posted for arguments. The plaintiff contends that the power of attorney holder had been cross-examined on the basis that he was not authorized to lead evidence, and therefore, the plaintiff himself needs to provide evidence.",
+    "Legal Principles": "Order 18 Rule 4 of the CPC as amended by the Commercial Courts Act, 2015, governs the filing of evidence in commercial suits. The court has the power to permit additional evidence only if sufficient cause is shown. The principle of estoppel prevents a party from taking a contradictory position after making an admission.",
+    "Relevant Sections": "Order 18 Rule 4 of the CPC, Section 8 of the Commercial Courts Act, 2015.",
+    "Context": "Commercial dispute, interlocutory order, additional evidence, power of attorney, estoppel."
+  },
+  {
+    "Query": "A defendant in a commercial suit challenges the trial court's decision to allow the plaintiff to file a fresh affidavit in lieu of evidence after the matter was posted for arguments. The defendant argues that the plaintiff failed to comply with the requirements of Order 15A of the CPC, which mandates the filing of all witness affidavits simultaneously at the Case Management Hearing.",
+    "Legal Principles": "Order 15A of the CPC mandates the holding of a Case Management Hearing in commercial suits to expedite the trial process. The court must fix the date for filing of witness affidavits and ensure compliance. Order 18 Rule 4(1A) requires the simultaneous filing of all witness affidavits at the time directed in the Case Management Hearing.",
+    "Relevant Sections": "Order 15A, Order 18 Rule 4 of the CPC, Section 8 of the Commercial Courts Act, 2015.",
+    "Context": "Commercial suit, interlocutory order, additional evidence, Case Management Hearing, compliance with court orders."
+  },
+  {
+    "Query": "The plaintiff in a commercial suit, after filing a witness affidavit and allowing the witness to be cross-examined, seeks to file a fresh affidavit in lieu of evidence to correct inconsistencies or expand on previous testimony. The defendant argues that this is an abuse of process and would prejudice their case.",
+    "Legal Principles": "The court has the power to permit additional evidence only if sufficient cause is shown. The principle of finality requires that parties should not be allowed to repeatedly introduce new evidence after the matter has been posted for arguments.",
+    "Relevant Sections": "Order 18 Rule 4 of the CPC, Section 8 of the Commercial Courts Act, 2015.",
+    "Context": "Commercial suit, interlocutory order, additional evidence, finality of proceedings, prejudice."
+  },
+  {
+    "Query": "A plaintiff in a commercial suit filed in a Commercial Court seeks to challenge an order that dismissed the plaintiff's application for permission to adduce additional evidence. The plaintiff argues that the court failed to consider the principle of providing a fair opportunity to present evidence.",
+    "Legal Principles": "The court has a duty to ensure that parties have a fair opportunity to present evidence. However, the court also has the power to manage the proceedings effectively and prevent abuse of process. The principle of finality requires that the court should not allow repeated applications for additional evidence.",
+    "Relevant Sections": "Order 18 Rule 4 of the CPC, Section 8 of the Commercial Courts Act, 2015.",
+    "Context": "Commercial suit, interlocutory order, additional evidence, fair opportunity to present evidence, finality of proceedings."
+  },
+  {
+    "Query": "A defendant in a commercial suit challenges the trial court's decision to permit the plaintiff to file an additional affidavit in lieu of evidence, arguing that the plaintiff failed to establish sufficient cause for the late filing.",
+    "Legal Principles": "Order 18 Rule 4(1B) of the CPC requires the plaintiff to show sufficient cause for filing additional evidence. The court must consider the reasons given by the plaintiff and determine whether they warrant allowing the additional evidence.",
+    "Relevant Sections": "Order 18 Rule 4(1B) of the CPC, Section 8 of the Commercial Courts Act, 2015.",
+    "Context": "Commercial suit, interlocutory order, additional evidence, sufficient cause, late filing."
+  },
+  {
+    "Query": "A plaintiff in a commercial suit filed in a Commercial Court seeks to challenge an order that disallowed the plaintiff from presenting additional evidence after the matter was posted for arguments. The plaintiff argues that the court's decision violated the principle of natural justice.",
+    "Legal Principles": "The principle of natural justice requires that parties should be given a fair opportunity to be heard. However, the court also has the power to manage the proceedings effectively and prevent abuse of process. Order 18 Rule 4 of the CPC governs the filing of evidence in commercial suits.",
+    "Relevant Sections": "Order 18 Rule 4 of the CPC, Section 8 of the Commercial Courts Act, 2015.",
+    "Context": "Commercial suit, interlocutory order, additional evidence, natural justice, abuse of process."
+  },
+  {
+    "Query": "A defendant in a commercial suit challenges the trial court's decision to permit the plaintiff to file an additional affidavit in lieu of evidence, arguing that the plaintiff's application was not filed in accordance with the prescribed procedure.",
+    "Legal Principles": "The court has the power to permit additional evidence only if sufficient cause is shown. The plaintiff must follow the prescribed procedure for filing applications for additional evidence. Section 8 of the Commercial Courts Act, 2015, bars revision applications or petitions against interlocutory orders of a Commercial Court.",
+    "Relevant Sections": "Order 18 Rule 4 of the CPC, Section 8 of the Commercial Courts Act, 2015.",
+    "Context": "Commercial suit, interlocutory order, additional evidence, prescribed procedure, supervisory jurisdiction."
+  },
+  {
+    "Query": "A plaintiff in a commercial suit filed in a Commercial Court seeks to challenge an order that disallowed the plaintiff from presenting additional evidence. The plaintiff argues that the court's decision was based on a misinterpretation of the relevant legal provisions.",
+    "Legal Principles": "The court must interpret and apply the law correctly. Order 18 Rule 4 of the CPC governs the filing of evidence in commercial suits. The court has the power to permit additional evidence only if sufficient cause is shown.",
+    "Relevant Sections": "Order 18 Rule 4 of the CPC, Section 8 of the Commercial Courts Act, 2015.",
+    "Context": "Commercial suit, interlocutory order, additional evidence, misinterpretation of law, supervisory jurisdiction."
+  },
+  {
+    "Query": "A defendant in a commercial suit challenges the trial court's decision to permit the plaintiff to file an additional affidavit in lieu of evidence, arguing that the plaintiff's application did not provide adequate reasons for the late filing.",
+    "Legal Principles": "Order 18 Rule 4(1B) of the CPC requires the plaintiff to show sufficient cause for filing additional evidence. The court must consider the reasons given by the plaintiff and determine whether they warrant allowing the additional evidence. Section 8 of the Commercial Courts Act, 2015, bars revision applications or petitions against interlocutory orders of a Commercial Court.",
+    "Relevant Sections": "Order 18 Rule 4(1B) of the CPC, Section 8 of the Commercial Courts Act, 2015.",
+    "Context": "Commercial suit, interlocutory order, additional evidence, sufficient cause, late filing, supervisory jurisdiction."
+  }
+]
+```

@@ -1,0 +1,81 @@
+## 1. Case Title
+
+* **Case Name:** Yashoda Thakore vs. Kuchipudi Dance Centre and Ors.
+* **Court:** Delhi High Court
+* **Date of Judgment:** 12 July, 2023
+* **Citation:** CM(M)-IPD 10/2023 & CM APPL. 27785/2023
+
+## 2. Background and Context
+
+* **Brief Overview:** Swapnasundari, a renowned Kuchipudi dancer, sued her former student, Yashoda Thakore, for copyright infringement. The suit claimed that Thakore performed Swapnasundari's copyrighted dance item for commercial purposes without permission. The case was filed in the Delhi Commercial Court, with the Kuchipudi Dance Centre (Swapnasundari's dance institution) and YouTube LLC also named as defendants. Thakore, residing in Hyderabad, challenged the Commercial Court's jurisdiction through the present petition.
+* **Key Issues:** The primary issue was whether the Delhi Commercial Court had jurisdiction to hear the case, considering Thakore's residence in Hyderabad and the application of the Copyright Act and the Commercial Courts Act.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * **Copyright Act, 1957:** Section 62(2) regarding jurisdiction in copyright infringement cases.
+    * **Commercial Courts Act, 2015:** Section 6 concerning jurisdiction of Commercial Courts and its explanation incorporating Sections 16 to 20 of the CPC.
+    * **Code of Civil Procedure, 1908 (CPC):** Section 20 defining jurisdiction based on defendant's residence or cause of action.
+* **Precedents Cited:**
+    * **Ultra Home Construction Pvt. Ltd. v. Purushottam Kumar Choubey (2016) DLT 320 (DB):** This Division Bench judgment of the Delhi High Court dealt with the interplay between Section 62 of the Copyright Act and Section 20 of the CPC.
+    * **Indian Performing Rights Society Ltd. v. Sanjay Dalia (2015) 10 SCC 161:** This Supreme Court judgment interpreted the non obstante clause in Section 62 of the Copyright Act.
+    * **Solidaire India Ltd. v. Fairgrowth Financial Services Ltd. (2001) 3 SCC 71:** This Supreme Court case addressed the conflict between two statutes regarding territorial jurisdiction, emphasizing the later statute's precedence.
+* **Legal Doctrines:** 
+    * **Jurisdiction:** The court's authority to hear and decide a case.
+    * **Non obstante Clause:** A provision in a statute overriding other laws or provisions.
+    * **Statutory Interpretation:** Determining the meaning and scope of legislation.
+    * **Conflict of Laws:** Resolving disagreements between different legal provisions.
+
+## 4. Arguments Presented
+
+* **Plaintiff's Argument:** The Commercial Court had jurisdiction based on:
+    * Swapnasundari's residence and business in Delhi.
+    * The infringing videos being accessible from Delhi.
+    * Section 62(2) of the Copyright Act, which provides for additional forum for copyright infringement suits.
+* **Defendant's Argument:**
+    * Section 62 of the Copyright Act does not apply due to the presence of Section 6 of the Commercial Courts Act, which, read with Section 20 of the CPC, determines jurisdiction.
+    * The decision in Ultra Home Construction Pvt. Ltd. v. Purushottam Kumar Choubey (2016) DLT 320 (DB) is per incuriam as it ignores the explanation to Section 6 of the Commercial Courts Act.
+    * The later statute (Commercial Courts Act) should prevail over the earlier one (Copyright Act).
+    * The case is distinct from Solidaire India Ltd. v. Fairgrowth Financial Services Ltd. (2001) 3 SCC 71, as there is no clear conflict between the relevant statutes.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The court affirmed the Division Bench decision in Ultra Home Construction Pvt. Ltd. v. Purushottam Kumar Choubey (2016) DLT 320 (DB).
+    * The non obstante clause in Section 62 of the Copyright Act allows a plaintiff to file a suit where they reside or carry on business, regardless of the defendant's residence or where the cause of action arises.
+    * The explanation to Section 6 of the Commercial Courts Act does not supersede the application of Section 62 of the Copyright Act.
+    * The court found no conflict between the Copyright Act and the Commercial Courts Act, deeming them to operate in separate spheres.
+    * The Solidaire case was distinguishable, as it involved a clear conflict between two statutes.
+* **Interpretation of Law:** The court interpreted the non obstante clause in Section 62 of the Copyright Act as granting an additional forum for copyright infringement suits, distinct from the jurisdiction determined by Section 20 of the CPC.
+* **Application of Law:** The court applied the precedent set in Ultra Home Construction to the present case, confirming that Swapnasundari, residing and carrying on business in Delhi, could file the copyright infringement suit in the Delhi Commercial Court.
+
+## 6. Judgment
+
+* **Final Decision:** The petition was dismissed in limine. The Delhi Commercial Court's jurisdiction was upheld.
+* **Relief Granted:** No relief was granted to the petitioner.
+* **Orders:** The petitioner was granted an additional two weeks to deposit the costs as ordered by the Commercial Court.
+
+## 7. Implications
+
+* **Impact on Law:** The judgment reinforces the interpretation of Section 62 of the Copyright Act, confirming its applicability even in the context of the Commercial Courts Act. This maintains the plaintiff's right to choose a forum based on their residence or place of business.
+* **Future Relevance:** This case sets a precedent for future cases involving jurisdiction in copyright infringement matters where the plaintiff resides or carries on business in a different location from the defendant. It clarifies the interaction between the Copyright Act and the Commercial Courts Act.
+* **Broader Context:** The judgment underscores the importance of clarity in interpreting legislation and respecting precedents established by higher courts. It demonstrates the courts' commitment to upholding the rights of copyright holders while ensuring fair access to justice.
+
+## 8. Summary Points
+
+* The Delhi High Court upheld the jurisdiction of the Delhi Commercial Court to hear a copyright infringement case, despite the defendant residing in Hyderabad.
+* The court clarified that Section 62 of the Copyright Act, with its non obstante clause, provides an additional forum for copyright infringement suits beyond the usual rules of jurisdiction.
+* The judgment affirmed the precedent set in Ultra Home Construction Pvt. Ltd. v. Purushottam Kumar Choubey (2016) DLT 320 (DB), highlighting the distinct nature of the Copyright Act and the Commercial Courts Act.
+
+## 9. References
+
+* **Citations:**
+    * **Copyright Act, 1957:** Section 62(2)
+    * **Commercial Courts Act, 2015:** Section 6
+    * **Code of Civil Procedure, 1908 (CPC):** Section 20
+    * **Ultra Home Construction Pvt. Ltd. v. Purushottam Kumar Choubey (2016) DLT 320 (DB):**
+    * **Indian Performing Rights Society Ltd. v. Sanjay Dalia (2015) 10 SCC 161:**
+    * **Solidaire India Ltd. v. Fairgrowth Financial Services Ltd. (2001) 3 SCC 71:**
+* **Further Reading:**
+    * For a comprehensive understanding of copyright law in India, refer to the Copyright Act, 1957 and its related case law.
+    * Explore cases related to jurisdiction in the Commercial Courts Act, 2015 for deeper insights into its application. 

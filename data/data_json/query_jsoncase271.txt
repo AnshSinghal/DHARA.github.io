@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A landlord filed a suit for eviction against a tenant who was operating a printing business in the leased property. The tenant argued that the dispute was not a commercial dispute and therefore, the suit should not be transferred to the Commercial Court. The landlord, however, argued that the lease agreement was for commercial purposes and therefore, the dispute was a commercial dispute. The Commercial Court allowed the landlord's application for transfer. Whether the Commercial Court's order was correct?",
+    "Legal Principles": "Definition of a 'commercial dispute' under Section 2(1)(c)(vii) of the Commercial Courts Act, 2015, the applicability of the Act to disputes arising out of agreements relating to immovable properties used exclusively in trade or commerce, the jurisdiction of Commercial Courts in handling such disputes.",
+    "Relevant Sections": "Section 2(1)(c)(vii) of the Commercial Courts Act, 2015: 'commercial dispute' includes disputes arising out of agreements relating to immovable properties used exclusively in trade or commerce.",
+    "Context": "Jurisdiction: Karnataka High Court, Case Type: Writ Petition challenging the order of a Commercial Court transferring a suit for eviction to the designated Commercial Court."
+  },
+  {
+    "Query": "A company filed a suit against another company for breach of contract. The defendant company argued that the suit was barred under Section 12A of the Commercial Courts Act, 2015, as the plaintiff had not exhausted the remedy of pre-institution mediation. The plaintiff company argued that the suit was filed before the Supreme Court's judgment in Patil Automation Private Limited (2022 SCC Online SC 1028) made Section 12A mandatory and therefore, the pre-institution mediation requirement was not applicable. Was the suit barred under Section 12A?",
+    "Legal Principles": "Mandatory nature of Section 12A of the Commercial Courts Act, 2015, the effect of the Supreme Court's judgment in Patil Automation Private Limited (2022 SCC Online SC 1028) on the applicability of Section 12A, the prospective operation of judicial pronouncements.",
+    "Relevant Sections": "Section 12A of the Commercial Courts Act, 2015, Order VII Rule 11 of the Code of Civil Procedure.",
+    "Context": "Jurisdiction: Karnataka High Court, Case Type: Writ Petition challenging the order of a Commercial Court rejecting an application for rejection of the plaint based on the non-compliance of Section 12A of the Commercial Courts Act."
+  },
+  {
+    "Query": "A company filed a suit for recovery of money against another company. The defendant company argued that the suit was premature as the plaintiff had not exhausted the mandatory pre-litigation mediation process contemplated under Section 12-A of the Commercial Courts Act, 2015. The plaintiff company argued that the suit was filed before the Supreme Court judgment in Patil Automation Private Limited (2022 SCC Online SC 1028) made Section 12-A mandatory. Whether the suit was premature?",
+    "Legal Principles": "Mandatory nature of Section 12A of the Commercial Courts Act, 2015, the effect of the Supreme Court's judgment in Patil Automation Private Limited (2022 SCC Online SC 1028) on the applicability of Section 12A, the prospective operation of judicial pronouncements, the concept of pre-litigation mediation.",
+    "Relevant Sections": "Section 12A of the Commercial Courts Act, 2015, Order VII Rule 11 of the Code of Civil Procedure.",
+    "Context": "Jurisdiction: Karnataka High Court, Case Type: Writ Petition challenging the order of a Commercial Court rejecting an application for rejection of the plaint based on the non-compliance of Section 12A of the Commercial Courts Act."
+  },
+  {
+    "Query": "A company filed a suit for recovery of money against another company. The defendant company argued that the suit was barred by limitation. The plaintiff company argued that the suit was filed within the limitation period. Whether the suit was barred by limitation?",
+    "Legal Principles": "The concept of limitation, the provisions of the Limitation Act, 1963, the computation of limitation period, the effect of a suit being filed within the limitation period.",
+    "Relevant Sections": "The Limitation Act, 1963, relevant sections pertaining to the computation of limitation period for recovery of money.",
+    "Context": "Jurisdiction: Karnataka High Court, Case Type: Writ Petition challenging the order of a Commercial Court rejecting an application for rejection of the plaint based on the plea of limitation."
+  },
+  {
+    "Query": "A company filed a suit against another company for breach of contract. The defendant company argued that the suit was barred by res judicata. The plaintiff company argued that the suit was not barred by res judicata. Whether the suit was barred by res judicata?",
+    "Legal Principles": "The doctrine of res judicata, the elements of res judicata, the effect of a prior judgment on a subsequent suit.",
+    "Relevant Sections": "Section 11 of the Code of Civil Procedure, 1908, which deals with res judicata.",
+    "Context": "Jurisdiction: Karnataka High Court, Case Type: Writ Petition challenging the order of a Commercial Court rejecting an application for rejection of the plaint based on the plea of res judicata."
+  },
+  {
+    "Query": "A company filed a suit for specific performance of a contract against another company. The defendant company argued that the contract was void. The plaintiff company argued that the contract was valid. Whether the contract was void?",
+    "Legal Principles": "The concept of void contracts, the elements of a void contract, the effect of a void contract.",
+    "Relevant Sections": "Sections 10 to 30 of the Indian Contract Act, 1872, which deal with the validity of contracts.",
+    "Context": "Jurisdiction: Karnataka High Court, Case Type: Writ Petition challenging the order of a Commercial Court rejecting an application for rejection of the plaint based on the plea of void contract."
+  },
+  {
+    "Query": "A company filed a suit for damages against another company for negligence. The defendant company argued that it was not negligent. The plaintiff company argued that the defendant company was negligent. Whether the defendant company was negligent?",
+    "Legal Principles": "The concept of negligence, the elements of negligence, the standard of care in negligence cases.",
+    "Relevant Sections": "Sections 2(1) to 2(9) of the Consumer Protection Act, 1986, which deal with the definition of negligence and other relevant sections.",
+    "Context": "Jurisdiction: Karnataka High Court, Case Type: Writ Petition challenging the order of a Commercial Court rejecting an application for rejection of the plaint based on the plea of negligence."
+  },
+  {
+    "Query": "A company filed a suit for injunction against another company. The defendant company argued that the injunction was not justified. The plaintiff company argued that the injunction was justified. Whether the injunction was justified?",
+    "Legal Principles": "The concept of injunctions, the different types of injunctions, the grounds for granting injunctions.",
+    "Relevant Sections": "Sections 37 to 42 of the Specific Relief Act, 1963, which deal with injunctions.",
+    "Context": "Jurisdiction: Karnataka High Court, Case Type: Writ Petition challenging the order of a Commercial Court granting or rejecting an application for injunction."
+  },
+  {
+    "Query": "A company filed a suit for declaration against another company. The defendant company argued that the declaration was not justified. The plaintiff company argued that the declaration was justified. Whether the declaration was justified?",
+    "Legal Principles": "The concept of declarations, the grounds for granting declarations, the effect of a declaration.",
+    "Relevant Sections": "Sections 44 to 55 of the Specific Relief Act, 1963, which deal with declarations.",
+    "Context": "Jurisdiction: Karnataka High Court, Case Type: Writ Petition challenging the order of a Commercial Court granting or rejecting an application for declaration."
+  },
+  {
+    "Query": "A company filed a suit for recovery of possession of a property against another company. The defendant company argued that it had a right to possession. The plaintiff company argued that it had a right to possession. Whether the plaintiff company had a right to possession?",
+    "Legal Principles": "The concept of possession, the different types of possession, the rights of a person in possession.",
+    "Relevant Sections": "Sections 9 to 16 of the Transfer of Property Act, 1882, which deal with possession.",
+    "Context": "Jurisdiction: Karnataka High Court, Case Type: Writ Petition challenging the order of a Commercial Court granting or rejecting an application for recovery of possession."
+  }
+]
+```

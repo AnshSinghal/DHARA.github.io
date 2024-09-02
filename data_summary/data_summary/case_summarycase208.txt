@@ -1,0 +1,107 @@
+##  Case Title
+
+* **Case Name:** Sri Ashes Deb vs The State of Tripura
+* **Court:** Tripura High Court
+* **Date of Judgment:** 10th April, 2024
+* **Citation:**  Arb. A. 05 of 2023 & Arb. A. 06 of 2023
+
+## Background and Context
+
+* **Brief Overview:** Sri Ashes Deb, a contractor, had entered into two separate works contracts with the State of Tripura for the construction of bridges. Disputes arose in both contracts, leading to their termination by the State.  Deb then sought arbitration, and the Arbitrator awarded him significant compensation. The State subsequently filed applications under Section 34 of the Arbitration and Conciliation Act, 1996 (hereinafter "the Act") to set aside the arbitral awards, seeking condonation of the delay in filing these applications.
+* **Key Issues:** 
+    * Whether the applications under Section 34 of the Act were barred by delay beyond the three-month period prescribed by the Act.
+    * Whether the Commercial Court, West Tripura, Agartala had territorial jurisdiction to entertain the Section 34 applications, given that the works were executed in Dhalai District.
+    * Whether the Court of Additional District Judge, West Tripura, Agartala was competent to hear the commercial appeal.
+    * Whether the explanations offered by the State for the delay constituted sufficient cause to condone the delay.
+
+## Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * Arbitration and Conciliation Act, 1996 (especially Sections 5, 11(6), 31(5), 32, 33, 34, and 37)
+    * Commercial Courts Act, 2015 (especially Sections 2(1)(e), 3(1), 3(3), 10, and 13(1-A))
+    * Limitation Act, 1963 (especially Sections 3, 4, 12, 29(2), and 43)
+    * General Clauses Act, 1897 (especially Sections 3(35), 4, 9, and 10)
+    * Code of Civil Procedure, 1908 (especially Order VII Rule 10 & 10A, and Section 20)
+* **Precedents Cited:**
+    * Union of India Vs. Tecco Trichy Engineers & Contractors, (2005) 4 SCC 239
+    * State of Maharashtra & Ors. Vs. ARK Builders Pvt. Ltd., (2011) 4 SCC 616
+    * Anil Kumar Jinabhai Patel Vs. Pravin Chandra Jinabhai Patel & Ors., (2018) 15 SCC 178
+    * P Radha Bai & Ors. Vs. P Ashok Kumar & Anr., (2019) 13 SCC 445
+    * Oriental Insurance Company Ltd. Vs. Tejparas Associates and Exports Pvt. Ltd., (2019) 9 SCC 435
+    * Dakshin Haryana Bijli Vitran Nigam Ltd. Vs Navigant Technologies Private Limited., (2021) 7 SCC 657
+    * Bhimashankar Sahakari Sakkare Karkhane Niyamita Vs. Walchandnagar Industries Limited (WIL), (2023) 8 SCC 453
+    * Consolidated Engineering Enterprises Vs. Principal Secretary, Irrigation Department & Ors., (2008) 7 SCC 169
+    * State of Himachal Pradesh & Anr., Vs. Himachal Techno Engineers & Anr., (2010) 12 SCC 210
+    * Simplex Infrastructure Limited Vs. Union of India (2019) 2 SCC 505
+    * Union of India Vs. Popular Construction Co., (2001) 8 SCC 470
+    * Rameshchandra Ambalal Joshi Vs. State of Gujarat & Anr. (2014) 11 SCC 759
+* **Legal Doctrines:** 
+    * Special Law Supersedes General Law (Generalia specialibus non derogant)
+    * Interpretation of Statutory Provisions
+    * Jurisdiction of Courts
+    * Limitation Period
+    * Condonation of Delay
+
+## Arguments Presented
+
+* **Appellant's Argument:**
+    * The application under Section 34 of the Act was barred by limitation, as it was filed beyond the three-month period from the date of receipt of the award. 
+    * The Commercial Court, West Tripura, Agartala lacked territorial jurisdiction to entertain the application, as the work was executed in Dhalai District.
+    * The Court of Additional District Judge, West Tripura, Agartala was incompetent to hear and adjudicate the Commercial Appeal, as the Act requires a District Judge.
+    * The State's explanations for delay were not sufficient to warrant condonation.
+* **Respondent's Argument:**
+    * The delay of 30 days was condonable under the proviso to Section 34(3) of the Act.
+    * The Commercial Court, West Tripura, Agartala had territorial jurisdiction because Deb, the appellant, resided in Agartala, and the award was passed in Agartala.
+    * The designation of the Additional District Judge as the Commercial Judge was valid and not subject to challenge at the appellate stage.
+
+## Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The court held that the three-month period prescribed under Section 34(3) of the Act for filing an application to set aside an arbitral award starts from the date of receipt of the award by the party.
+    * The court relied upon a series of Supreme Court decisions that established this principle and rejected the State's argument to include the first day in the calculation of the three-month period.
+    * The court also rejected the State's reliance on the decision in Himachal Techno Engineers, as the Supreme Court had later clarified the interpretation of Section 34(3) in subsequent decisions.
+    * The court determined that the application under Section 34 of the Act was filed beyond the permissible period and could not be condoned. 
+    * Due to the success on the first issue, the court did not delve into the other issues raised regarding territorial jurisdiction and competence.
+
+## Judgment
+
+* **Final Decision:** The appeals were allowed. The court held that the applications under Section 34 of the Act filed by the State were barred by limitation. 
+* **Relief Granted:**  The matters pending before the District Commercial Court, West Tripura, Agartala, were held to be barred by delay.
+* **Orders:** The court dismissed the applications under Section 34 of the Act and disposed of any pending applications.
+
+## Implications
+
+* **Impact on Law:** The judgment reaffirms the principle that the limitation period for challenging an arbitral award under Section 34(3) of the Act begins from the date of receipt of the award by the party.  It clarifies that the first day of the three-month period is excluded and the period should be calculated in calendar months.
+* **Future Relevance:** The judgment serves as a binding precedent for similar disputes regarding the calculation of the limitation period for challenging arbitral awards. 
+* **Broader Context:** The case highlights the importance of timely filing of applications to challenge arbitral awards and the strict interpretation of limitation periods in such cases.
+
+## Summary Points
+
+* The three-month limitation period under Section 34(3) of the Act commences from the date of receipt of the arbitral award, and the first day of the period is excluded.
+* The Supreme Court's subsequent decisions have superseded the interpretation in Himachal Techno Engineers regarding the calculation of the three-month period.
+* The court's decision underscores the need for clear and consistent legal interpretation and application in arbitral disputes.
+
+## References
+
+* **Citations:** 
+    * Arbitration and Conciliation Act, 1996
+    * Commercial Courts Act, 2015
+    * Limitation Act, 1963
+    * General Clauses Act, 1897
+    * Code of Civil Procedure, 1908
+    * Union of India Vs. Tecco Trichy Engineers & Contractors, (2005) 4 SCC 239
+    * State of Maharashtra & Ors. Vs. ARK Builders Pvt. Ltd., (2011) 4 SCC 616
+    * Anil Kumar Jinabhai Patel Vs. Pravin Chandra Jinabhai Patel & Ors., (2018) 15 SCC 178
+    * P Radha Bai & Ors. Vs. P Ashok Kumar & Anr., (2019) 13 SCC 445
+    * Oriental Insurance Company Ltd. Vs. Tejparas Associates and Exports Pvt. Ltd., (2019) 9 SCC 435
+    * Dakshin Haryana Bijli Vitran Nigam Ltd. Vs Navigant Technologies Private Limited., (2021) 7 SCC 657
+    * Bhimashankar Sahakari Sakkare Karkhane Niyamita Vs. Walchandnagar Industries Limited (WIL), (2023) 8 SCC 453
+    * Consolidated Engineering Enterprises Vs. Principal Secretary, Irrigation Department & Ors., (2008) 7 SCC 169
+    * State of Himachal Pradesh & Anr., Vs. Himachal Techno Engineers & Anr., (2010) 12 SCC 210
+    * Simplex Infrastructure Limited Vs. Union of India (2019) 2 SCC 505
+    * Union of India Vs. Popular Construction Co., (2001) 8 SCC 470
+    * Rameshchandra Ambalal Joshi Vs. State of Gujarat & Anr. (2014) 11 SCC 759
+* **Further Reading:**
+    * Arbitration and Conciliation Act, 1996 (Commentary and Case Laws)
+    * The Limitation Act, 1963 (Commentary and Case Laws)
+    * Supreme Court Judgments on Arbitral Awards

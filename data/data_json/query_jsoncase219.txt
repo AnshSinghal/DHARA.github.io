@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A company has filed an execution application under Section 36 of the Arbitration Act for an award passed in a commercial dispute. The application is pending before the Principal Civil Court of original jurisdiction in a district. Should the application be transferred to the Commercial Court?",
+    "Legal Principles": "The Commercial Court, constituted under Section 3(1) of the Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015, is the competent court to execute arbitral awards in commercial disputes.",
+    "Relevant Sections": "Section 10(3) of the Commercial Courts Act provides that applications arising out of arbitration in commercial disputes shall be filed in the Commercial Court. Section 15(2) mandates the transfer of such applications from civil courts to the Commercial Court.",
+    "Context": "This query deals with the jurisdiction to execute arbitral awards in commercial disputes, specifically focusing on the interplay between the Arbitration and Conciliation Act, 1996, and the Commercial Courts Act, 2015. It explores the scope of 'applications' under Section 15(2) of the Commercial Courts Act."
+  },
+  {
+    "Query": "Two parties entered into a contract containing an arbitration clause. A dispute arose, and the Arbitrator passed an award in favor of one party. The losing party filed objections against the award before the District and Sessions Judge. The objections were dismissed, and the winning party seeks to execute the award. Which court has jurisdiction to execute the award, the Principal Civil Court or the Commercial Court?",
+    "Legal Principles": "The Commercial Court has exclusive jurisdiction to execute arbitral awards in commercial disputes, regardless of the stage of the arbitration proceedings.",
+    "Relevant Sections": "Section 10(3) of the Commercial Courts Act grants the Commercial Court jurisdiction over applications arising from arbitral proceedings in commercial disputes. Section 15(2) mandates the transfer of such applications from other courts.",
+    "Context": "This query deals with the jurisdiction to execute arbitral awards in commercial disputes, specifically focusing on the situation where objections have been filed against the award before a different court. It clarifies the application of the Commercial Courts Act even after the initial arbitral proceedings are concluded."
+  },
+  {
+    "Query": "A construction company has filed an execution application for an arbitral award against a government agency. The dispute relates to a construction contract worth over Rs. 1 crore. The agency argues that the Commercial Court lacks jurisdiction because the case involves a government entity. Is the Commercial Court competent to execute the award?",
+    "Legal Principles": "The Commercial Court's jurisdiction extends to all commercial disputes, regardless of the identity of the parties, including government entities, if the dispute meets the value threshold.",
+    "Relevant Sections": "Section 10(3) of the Commercial Courts Act defines the jurisdiction of the Commercial Court based on the subject matter of the dispute and the value threshold, not the nature of the parties involved.",
+    "Context": "This query explores the scope of the Commercial Court's jurisdiction in cases involving government entities as parties in a commercial dispute. It clarifies that the Commercial Courts Act's provisions regarding jurisdiction are not limited by the identity of the parties involved."
+  },
+  {
+    "Query": "A party has filed an execution application for an arbitral award in a dispute arising from an international commercial agreement. The award was passed in a foreign country. Does the Commercial Court in India have jurisdiction to execute the award?",
+    "Legal Principles": "The Commercial Court in India may have jurisdiction to execute foreign arbitral awards if the relevant international conventions are applicable and the award meets certain requirements.",
+    "Relevant Sections": "The Commercial Courts Act does not explicitly address the execution of foreign arbitral awards. However, India is a signatory to the New York Convention on the Recognition and Enforcement of Foreign Arbitral Awards, which provides a framework for the enforcement of such awards.",
+    "Context": "This query deals with the jurisdiction of Indian courts to execute foreign arbitral awards, specifically focusing on the interplay between domestic legislation and international conventions. It highlights the importance of the New York Convention in this context."
+  },
+  {
+    "Query": "Two parties engaged in an arbitration process and reached a settlement agreement. However, one party later refused to comply with the settlement agreement. Can the other party seek enforcement of the settlement agreement in the Commercial Court?",
+    "Legal Principles": "Settlement agreements reached during arbitration proceedings can be enforced as if they were arbitral awards, giving the Commercial Court jurisdiction to enforce them.",
+    "Relevant Sections": "The Commercial Courts Act grants jurisdiction over applications arising out of arbitration proceedings, which includes settlement agreements reached during those proceedings.",
+    "Context": "This query explores the enforceability of settlement agreements reached during arbitration proceedings in the Commercial Court. It clarifies that the Commercial Courts Act's jurisdiction extends to enforcing such agreements as if they were arbitral awards."
+  },
+  {
+    "Query": "A dispute arose between two companies concerning a contract for the supply of goods. The contract contained an arbitration clause, and the Arbitrator passed an award in favor of the supplier. The buyer filed objections against the award, but the objections were dismissed. The supplier now seeks to execute the award. Does the Commercial Court have jurisdiction over the execution proceedings?",
+    "Legal Principles": "The Commercial Court has exclusive jurisdiction to execute arbitral awards in commercial disputes, even after objections have been filed against the award before a different court.",
+    "Relevant Sections": "Section 10(3) of the Commercial Courts Act grants the Commercial Court jurisdiction over applications arising from arbitral proceedings in commercial disputes. Section 15(2) mandates the transfer of such applications from other courts.",
+    "Context": "This query deals with the jurisdiction to execute arbitral awards in commercial disputes, specifically focusing on the situation where objections have been filed against the award before a different court. It clarifies the application of the Commercial Courts Act even after the initial arbitral proceedings are concluded."
+  },
+  {
+    "Query": "Two parties entered into a contract for the construction of a building. The contract contained an arbitration clause. After a dispute arose, the Arbitrator passed an award in favor of the contractor. The owner filed objections to the award, but the objections were dismissed. The contractor now seeks to execute the award. Which court has jurisdiction over the execution proceedings?",
+    "Legal Principles": "The Commercial Court has exclusive jurisdiction to execute arbitral awards in commercial disputes, regardless of the stage of the arbitration proceedings.",
+    "Relevant Sections": "Section 10(3) of the Commercial Courts Act grants the Commercial Court jurisdiction over applications arising from arbitral proceedings in commercial disputes. Section 15(2) mandates the transfer of such applications from other courts.",
+    "Context": "This query deals with the jurisdiction to execute arbitral awards in commercial disputes, specifically focusing on the situation where objections have been filed against the award before a different court. It clarifies the application of the Commercial Courts Act even after the initial arbitral proceedings are concluded."
+  },
+  {
+    "Query": "A company filed an application for execution of an arbitral award in a commercial dispute. The application is pending before the Principal Civil Court of original jurisdiction. The company later filed a similar application before the Commercial Court. Should both applications be transferred to the Commercial Court?",
+    "Legal Principles": "The Commercial Court has exclusive jurisdiction to execute arbitral awards in commercial disputes, and any pending applications in other courts should be transferred.",
+    "Relevant Sections": "Section 10(3) of the Commercial Courts Act provides that applications arising out of arbitration in commercial disputes shall be filed in the Commercial Court. Section 15(2) mandates the transfer of such applications from civil courts to the Commercial Court.",
+    "Context": "This query deals with the jurisdiction to execute arbitral awards in commercial disputes, specifically focusing on the situation where multiple applications have been filed in different courts. It clarifies the transfer provisions of the Commercial Courts Act to ensure efficient and centralized handling of such applications."
+  },
+  {
+    "Query": "Two parties entered into a contract for the sale of goods. The contract contained an arbitration clause. A dispute arose, and the Arbitrator passed an award in favor of the seller. The buyer filed objections against the award, but the objections were dismissed. The seller seeks to execute the award. Which court has jurisdiction to execute the award, the Principal Civil Court or the Commercial Court?",
+    "Legal Principles": "The Commercial Court has exclusive jurisdiction to execute arbitral awards in commercial disputes, regardless of the stage of the arbitration proceedings.",
+    "Relevant Sections": "Section 10(3) of the Commercial Courts Act grants the Commercial Court jurisdiction over applications arising from arbitral proceedings in commercial disputes. Section 15(2) mandates the transfer of such applications from other courts.",
+    "Context": "This query deals with the jurisdiction to execute arbitral awards in commercial disputes, specifically focusing on the situation where objections have been filed against the award before a different court. It clarifies the application of the Commercial Courts Act even after the initial arbitral proceedings are concluded."
+  },
+  {
+    "Query": "A company filed an application for execution of an arbitral award in a commercial dispute. The application is pending before the Principal Civil Court of original jurisdiction. The company later filed a similar application before the Commercial Court. Should both applications be transferred to the Commercial Court?",
+    "Legal Principles": "The Commercial Court has exclusive jurisdiction to execute arbitral awards in commercial disputes, and any pending applications in other courts should be transferred.",
+    "Relevant Sections": "Section 10(3) of the Commercial Courts Act provides that applications arising out of arbitration in commercial disputes shall be filed in the Commercial Court. Section 15(2) mandates the transfer of such applications from civil courts to the Commercial Court.",
+    "Context": "This query deals with the jurisdiction to execute arbitral awards in commercial disputes, specifically focusing on the situation where multiple applications have been filed in different courts. It clarifies the transfer provisions of the Commercial Courts Act to ensure efficient and centralized handling of such applications."
+  }
+]
+```

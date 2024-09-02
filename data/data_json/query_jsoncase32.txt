@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A company is challenging the validity of a notification issued by the State Government designating a Court of Civil Judge (Senior Division) as a Commercial Court. The company argues that this designation conflicts with the provisions of the Arbitration Act, 1996, which designates the Principal Civil Court as the sole court for arbitration disputes.",
+    "Legal Principles": "Conflict of Laws, Special Statutes, Interpretation of Statutes, Jurisdiction of Courts, Arbitration Act, 1996, Commercial Courts Act, 2015",
+    "Relevant Sections": "Section 2(1)(e) of the Arbitration Act, 1996, Sections 3, 10, 15, & 21 of the Commercial Courts Act, 2015",
+    "Context": "This case involves a dispute over the jurisdiction of courts in India. Specifically, it addresses the question of whether the Commercial Courts Act, 2015 overrides the provisions of the Arbitration Act, 1996 regarding the exclusive jurisdiction of the Principal Civil Court in arbitration matters."
+  },
+  {
+    "Query": "A dispute arises from an arbitration agreement between two parties. The case was initially filed in the Court of learned District Judge, but was subsequently transferred to the Commercial Court designated under the Commercial Courts Act, 2015. One party challenges the transfer, arguing that the Arbitration Act, 1996 mandates that the Principal Civil Court should handle such disputes.",
+    "Legal Principles": "Transfer of Cases, Jurisdiction of Courts, Arbitration Act, 1996, Commercial Courts Act, 2015",
+    "Relevant Sections": "Section 2(1)(e) of the Arbitration Act, 1996, Sections 3, 10, 15 & 21 of the Commercial Courts Act, 2015",
+    "Context": "This case focuses on the application of the Commercial Courts Act, 2015 to arbitration disputes and the transfer of cases from other courts to the designated Commercial Court."
+  },
+  {
+    "Query": "Two companies are engaged in a commercial dispute that involves an arbitration clause. The case is pending in the High Court, but the Commercial Division of the High Court has been constituted. One party seeks the transfer of the case to the Commercial Division under the provisions of the Commercial Courts Act, 2015.",
+    "Legal Principles": "Jurisdiction of Courts, Commercial Courts Act, 2015, Transfer of Cases, Arbitration Act, 1996",
+    "Relevant Sections": "Section 15 of the Commercial Courts Act, 2015",
+    "Context": "This case involves the application of Section 15 of the Commercial Courts Act, 2015, which addresses the transfer of cases involving commercial disputes, including those arising from arbitration agreements, to the designated Commercial Division."
+  },
+  {
+    "Query": "A plaintiff files a suit in the Commercial Court, which is designated under the Commercial Courts Act, 2015, for a commercial dispute arising from a breach of contract. The defendant argues that the case should be transferred to the Principal Civil Court because it involves a specialized area of law not covered by the Commercial Courts Act.",
+    "Legal Principles": "Jurisdiction of Courts, Commercial Courts Act, 2015, Specialized Areas of Law",
+    "Relevant Sections": "Section 3 of the Commercial Courts Act, 2015",
+    "Context": "This case concerns the scope of the Commercial Courts Act, 2015 and whether it covers all commercial disputes, or if certain types of disputes remain under the jurisdiction of the Principal Civil Court."
+  },
+  {
+    "Query": "A company is challenging the constitution of a Commercial Court in a district, arguing that it violates the principles of separation of powers and infringes upon the authority of the High Court.",
+    "Legal Principles": "Separation of Powers, Judicial Independence, Constitutionality of Laws, Commercial Courts Act, 2015",
+    "Relevant Sections": "Section 3 of the Commercial Courts Act, 2015",
+    "Context": "This case involves a constitutional challenge to the Commercial Courts Act, 2015, specifically the provisions regarding the establishment of Commercial Courts."
+  },
+  {
+    "Query": "Two parties entered into an international commercial arbitration agreement. The dispute arises in India, and one party files an application in the High Court. The other party argues that the case should be transferred to the Commercial Division of the High Court under the Commercial Courts Act, 2015.",
+    "Legal Principles": "International Commercial Arbitration, Jurisdiction of Courts, Commercial Courts Act, 2015, Arbitration Act, 1996",
+    "Relevant Sections": "Sections 10(1) and 15 of the Commercial Courts Act, 2015",
+    "Context": "This case concerns the application of the Commercial Courts Act, 2015 to international commercial arbitration disputes and the transfer of cases to the Commercial Division."
+  },
+  {
+    "Query": "A company files an application under Section 9 of the Arbitration Act, 1996 in the Commercial Court designated under the Commercial Courts Act, 2015. The opposing party argues that the application should be filed in the Principal Civil Court, as per the provisions of the Arbitration Act.",
+    "Legal Principles": "Jurisdiction of Courts, Arbitration Act, 1996, Commercial Courts Act, 2015",
+    "Relevant Sections": "Sections 2(1)(e) and 9 of the Arbitration Act, 1996, Sections 3 and 10 of the Commercial Courts Act, 2015",
+    "Context": "This case involves a dispute over the correct forum for filing applications under the Arbitration Act, 1996, particularly in the context of the Commercial Courts Act, 2015."
+  },
+  {
+    "Query": "Two parties are involved in a commercial dispute involving a high value contract. The dispute involves both contractual issues and allegations of fraud. One party seeks to have the case heard in the Commercial Court, while the other argues that the case should be heard in the Principal Civil Court due to the fraud allegations.",
+    "Legal Principles": "Jurisdiction of Courts, Commercial Courts Act, 2015, Fraud, Contract Law",
+    "Relevant Sections": "Section 3 of the Commercial Courts Act, 2015",
+    "Context": "This case explores the application of the Commercial Courts Act, 2015 to complex commercial disputes that involve multiple legal issues, such as contract law and fraud."
+  },
+  {
+    "Query": "A company files an appeal against an order of the Commercial Court under the provisions of the Commercial Courts Act, 2015. The opposing party argues that the appeal should be filed in the High Court, as per the provisions of the Arbitration Act, 1996.",
+    "Legal Principles": "Jurisdiction of Courts, Appeals, Arbitration Act, 1996, Commercial Courts Act, 2015",
+    "Relevant Sections": "Sections 2(1)(e) and 34 of the Arbitration Act, 1996, Sections 3, 10, and 15 of the Commercial Courts Act, 2015",
+    "Context": "This case involves a dispute over the proper forum for appealing an order of the Commercial Court, particularly in the context of arbitration disputes."
+  },
+  {
+    "Query": "A party seeks to challenge the validity of an arbitral award based on alleged procedural irregularities. The Commercial Court, designated under the Commercial Courts Act, 2015, has been asked to review the award. The opposing party argues that the High Court is the appropriate forum for such challenges.",
+    "Legal Principles": "Arbitral Awards, Judicial Review, Jurisdiction of Courts, Arbitration Act, 1996, Commercial Courts Act, 2015",
+    "Relevant Sections": "Sections 34 and 36 of the Arbitration Act, 1996, Sections 3 and 10 of the Commercial Courts Act, 2015",
+    "Context": "This case deals with the jurisdiction of courts to review arbitral awards, particularly in light of the establishment of Commercial Courts under the Commercial Courts Act, 2015."
+  }
+]
+```

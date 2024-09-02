@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "Two partners in a business, A and B, had a falling out. B decided to leave the partnership and signed a separation agreement. A continued the business, and B later alleged that A had siphoned funds from the business during the partnership. B wants to sue A for the alleged misappropriation of funds, but A claims that the accounts were settled at the time of the separation. Can B sue A for the alleged siphoning of funds after the separation agreement was signed?",
+    "Legal Principles": "A party can't reopen settled accounts unless there is evidence of fraud or misrepresentation. Partnership agreements can contain provisions for dispute resolution, such as arbitration. The scope of an arbitration agreement can impact the types of disputes that can be brought before an arbitrator.",
+    "Relevant Sections": "Section 34 of the Arbitration and Conciliation Act, 1996 (dealing with applications to set aside arbitral awards). Section 37 of the Arbitration and Conciliation Act, 1996 (dealing with appeals against judgments confirming or setting aside arbitral awards).",
+    "Context": "Jurisdiction: India. Case type: Commercial dispute, partnership dissolution, fraud, arbitration."
+  },
+  {
+    "Query": "A construction company, X, entered into a contract with a government agency, Y, for the construction of a new school building. The contract included an arbitration clause. During construction, disputes arose over the quality of materials used. X argued that the materials met the contract specifications, while Y claimed they were substandard. Y filed an application to set aside the arbitral award, which favored X. Can Y successfully challenge the arbitral award on the grounds that the arbitrator erred in interpreting the contract?",
+    "Legal Principles": "Arbitrators have a wide latitude in interpreting contracts, and their decisions are generally upheld unless there is a clear error of law or the interpretation is unreasonable. The court's review of an arbitral award is limited under the Arbitration and Conciliation Act, 1996.",
+    "Relevant Sections": "Section 34 of the Arbitration and Conciliation Act, 1996 (dealing with applications to set aside arbitral awards). Section 28 of the Arbitration and Conciliation Act, 1996 (dealing with rules applicable to the substance of the dispute).",
+    "Context": "Jurisdiction: India. Case type: Construction contract dispute, arbitration, contract interpretation."
+  },
+  {
+    "Query": "Two companies, A and B, entered into a joint venture agreement for the development of a software product. The agreement contained an arbitration clause. During the venture, disputes arose over the allocation of profits and the intellectual property rights to the software. A filed an application to set aside the arbitral award, which favored B, on the grounds that the arbitrator exceeded his jurisdiction by deciding matters beyond the scope of the arbitration agreement. Can A successfully challenge the award on these grounds?",
+    "Legal Principles": "Arbitrators must stay within the bounds of their jurisdiction as defined by the arbitration agreement. An award can be set aside if it deals with issues not contemplated by or falling outside the terms of the arbitration agreement. Courts can review arbitral awards for jurisdictional errors.",
+    "Relevant Sections": "Section 34 of the Arbitration and Conciliation Act, 1996 (dealing with applications to set aside arbitral awards). Section 16 of the Arbitration and Conciliation Act, 1996 (dealing with the scope of the submission to arbitration).",
+    "Context": "Jurisdiction: India. Case type: Joint venture dispute, arbitration, exceeding jurisdiction."
+  },
+  {
+    "Query": "A landlord, L, leased a commercial property to a tenant, T, for a period of 5 years. The lease agreement included an arbitration clause. After two years, T decided to terminate the lease early, claiming that L had breached certain lease obligations. L filed an application to set aside the arbitral award, which favored T, on the grounds that the award was against public policy. Can L successfully challenge the award on these grounds?",
+    "Legal Principles": "An arbitral award can be set aside if it conflicts with the public policy of India. Public policy considerations can encompass a wide range of issues, such as fraud, corruption, or violations of fundamental legal principles.",
+    "Relevant Sections": "Section 34 of the Arbitration and Conciliation Act, 1996 (dealing with applications to set aside arbitral awards). Section 34(2)(b)(ii) of the Arbitration and Conciliation Act, 1996 (dealing with awards in conflict with public policy).",
+    "Context": "Jurisdiction: India. Case type: Lease dispute, arbitration, public policy."
+  },
+  {
+    "Query": "A software developer, S, contracted with a client, C, to develop a custom software application. The contract contained an arbitration clause. During development, disputes arose over the functionalities and deadlines of the project. C filed an application to set aside the arbitral award, which favored S, on the grounds that the arbitrator failed to provide adequate reasons for his decision. Can C successfully challenge the award on this basis?",
+    "Legal Principles": "Arbitrators are generally required to provide reasons for their awards. The adequacy of the reasons provided can be reviewed by the court, but the court cannot substitute its own judgment for that of the arbitrator.",
+    "Relevant Sections": "Section 34 of the Arbitration and Conciliation Act, 1996 (dealing with applications to set aside arbitral awards). Section 31(3) of the Arbitration and Conciliation Act, 1996 (dealing with reasons for arbitral awards).",
+    "Context": "Jurisdiction: India. Case type: Software development contract dispute, arbitration, lack of reasons for award."
+  },
+  {
+    "Query": "A company, A, entered into a contract with a supplier, B, for the supply of raw materials. The contract contained an arbitration clause. A later alleged that B had supplied substandard materials, leading to production delays and financial losses. A filed an application to set aside the arbitral award, which favored B, on the grounds that the arbitrator had failed to properly consider the evidence presented by A. Can A successfully challenge the award on the grounds of inadequate consideration of evidence?",
+    "Legal Principles": "Arbitrators are responsible for assessing the evidence before them and reaching a decision based on that evidence. Courts generally don't interfere with an arbitrator's assessment of evidence unless it is completely unreasonable or unsupported by the record.",
+    "Relevant Sections": "Section 34 of the Arbitration and Conciliation Act, 1996 (dealing with applications to set aside arbitral awards).",
+    "Context": "Jurisdiction: India. Case type: Contract dispute, arbitration, inadequate consideration of evidence."
+  },
+  {
+    "Query": "Two parties, X and Y, entered into a contract for the sale of a piece of land. The contract included an arbitration clause. After the sale, disputes arose over the ownership of a portion of the land, with X claiming that Y had misrepresented the boundaries. Y filed an application to set aside the arbitral award, which favored X, on the grounds that the arbitrator's decision was based on a misunderstanding of the applicable law. Can Y successfully challenge the award on the grounds of an error of law?",
+    "Legal Principles": "Arbitrators can make errors of law, but courts are hesitant to set aside awards solely on this basis. Errors of law must be significant and demonstrably affect the outcome of the case. The court's role is to ensure that the arbitrator's decision is not based on a fundamental misinterpretation of the law.",
+    "Relevant Sections": "Section 34 of the Arbitration and Conciliation Act, 1996 (dealing with applications to set aside arbitral awards). Section 34(2)(b)(ii) of the Arbitration and Conciliation Act, 1996 (dealing with awards in conflict with public policy).",
+    "Context": "Jurisdiction: India. Case type: Land sale dispute, arbitration, error of law."
+  },
+  {
+    "Query": "A company, A, contracted with a construction company, B, to build a new office building. The contract contained an arbitration clause. During construction, disputes arose over the project timeline and budget. B filed an application to set aside the arbitral award, which favored A, on the grounds that the arbitrator's decision was based on a bias towards A. Can B successfully challenge the award on the grounds of bias?",
+    "Legal Principles": "Arbitrators must be impartial and free from bias. If there is evidence of bias, an award can be set aside. The burden of proof lies with the party alleging bias.",
+    "Relevant Sections": "Section 34 of the Arbitration and Conciliation Act, 1996 (dealing with applications to set aside arbitral awards). Section 12 of the Arbitration and Conciliation Act, 1996 (dealing with impartiality and independence of arbitrators).",
+    "Context": "Jurisdiction: India. Case type: Construction contract dispute, arbitration, bias."
+  },
+  {
+    "Query": "A company, X, entered into a contract with a distributor, Y, for the distribution of its products. The contract contained an arbitration clause. After the contract was terminated, X filed an application to set aside the arbitral award, which favored Y, on the grounds that the arbitrator had failed to follow the proper procedures in conducting the arbitration. Can X successfully challenge the award on the grounds of procedural irregularities?",
+    "Legal Principles": "Arbitrators must follow the procedures outlined in the arbitration agreement or the Arbitration and Conciliation Act, 1996. Failure to comply with proper procedures can be grounds for setting aside an award. The court will examine the specific procedural irregularities and their impact on the fairness of the arbitration.",
+    "Relevant Sections": "Section 34 of the Arbitration and Conciliation Act, 1996 (dealing with applications to set aside arbitral awards). Section 19 of the Arbitration and Conciliation Act, 1996 (dealing with arbitral procedure).",
+    "Context": "Jurisdiction: India. Case type: Distribution agreement dispute, arbitration, procedural irregularities."
+  },
+  {
+    "Query": "Two companies, A and B, entered into a joint venture agreement for the development of a new technology. The agreement contained an arbitration clause. After the joint venture failed, A filed an application to set aside the arbitral award, which favored B, on the grounds that the award was based on a misunderstanding of the relevant facts. Can A successfully challenge the award on the grounds of factual errors?",
+    "Legal Principles": "Arbitrators must make decisions based on the evidence presented. Courts are generally reluctant to overturn awards based on factual errors unless the errors are demonstrably material and affect the outcome of the case.",
+    "Relevant Sections": "Section 34 of the Arbitration and Conciliation Act, 1996 (dealing with applications to set aside arbitral awards).",
+    "Context": "Jurisdiction: India. Case type: Joint venture dispute, arbitration, factual errors."
+  }
+]
+```

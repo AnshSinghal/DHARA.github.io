@@ -1,0 +1,142 @@
+##  1. Case Title
+
+* **Case Name:** Vishal Pipes Limited vs Bhavya Pipe Industry
+* **Court:** Delhi High Court
+* **Date of Judgment:** 3rd June, 2022
+* **Citation:** FAO-IPD 1/2022
+
+## 2. Background and Context
+
+* **Brief Overview:** Vishal Pipes Limited (Plaintiff/Appellant) filed a suit against Bhavya Pipe Industry (Defendant/Respondent) seeking a permanent injunction against trademark and copyright infringement, passing off, and other reliefs. The suit was filed in the Patiala House Courts, New Delhi, before a District Judge who was not designated as a Commercial Court. The Plaintiff alleged that the Defendant's trademark "BPI" was deceptively similar to its registered trademark "VPL INDIA".
+* **Key Issues:**
+    * Whether a District Judge who is not designated as a Commercial Court has jurisdiction to hear Intellectual Property (IP) cases, particularly those valued below Rs. 3 lakhs.
+    * Whether the Commercial Courts Act, 2015 (CCA) applies to IP cases valued below Rs. 3 lakhs. 
+    * What criteria should be used for determining the "specified value" of IP suits, especially when considering the value of intangible rights. 
+    * Whether undervaluation of IP suits to avoid the provisions of the CCA is permissible.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * The Commercial Courts Act, 2015 (CCA)
+    * The Trade Marks Act, 1999
+    * The Copyright Act, 1957
+    * The Indian Patents Act, 1970
+    * The Indian Designs Act, 2000
+    * The Protection of Plant Varieties and Farmers Rights Act, 2001 
+    * The Civil Procedure Code, 1908 (CPC)
+    * The Court Fees Act, 1870
+    * The Suits Valuation Act, 1887 
+* **Precedents Cited:**
+    * Soni Dave v. M/s Trans Asian Industries Expositions Pvt. Ltd., AIR 2016 Del 186
+    * Fine Footwear v. Skechers U.S.A., 2019 (5) KarLJ 358
+    * Bharat Bhogilal v. Leitz Tooling Systems India Pvt. Ltd., 2020 (82) PTC 458 (Bom)
+    * Kirloskar Aaf Limited v. American Air Filters Company Inc. & Anr., RFA No.1 of 2015, 25th September, 2018
+    * Subhashini Malik v. S.K. Gandhi & Ors., (2016) 233 DLT 83
+    * Meenakshisundaram Chettiar v. Venkatachalam Chettiar, (1980) 1 SCC 616
+    * Abdul Hamid Shamsi v. Abdul Majid, (1988) 2 SCC 575
+    * Bharat Sanchar Nigam Ltd. v. All India Bharat Sanchar Nigam Executives' Association (Regd.) & Ors. (2006) 130 DLT 195
+    * Lalit Babbar v. Ramson Prime Technologies Pvt. Ltd., CS(Comm.) 1857/2020, decided on 23rd December, 2020
+    * Kesavarapu Venkateswarlu & Ors. v Sardharala Satanaryana & Ors., AIR 1957 AP 49(FB)
+    * V Ramamirthaam v. Rama Film Service, AIR 1951 Mad 93(FB)
+    * Harshad Chiman Lal Modi v. D.L.F. Universal Ltd. And Ors., (2005) 7 SCC 791
+    * Mantoo Sarkar v Oriental Insurance Company Limited & Ors., (2009) 2 SCC 244
+    * Glaxo Laboratories v. Presiding Officer, AIR 1984 SC 505
+    * Maya Mathew v. State of Kerala and Ors., (2010) 4 SCC 498
+    * Vijay Kumar Ghai & Ors. v. State of West Bengal & Ors., SLP (Crl.) 10951 of 2019, decided on 22nd March, 2022
+    * Krishna Lal Chawla and Ors. v. State of U.P. and Anr., MANU/SC/0161/2021 : (2021) 5 SCC 435
+    * Commercial Aviation & Travel Company v. Vimani Pannalal, (1988) SCC 423
+    * Kalla Yadagiri v. Kotha Bal Reddy, (1999) 1 ALD 222 (FB)
+    * Dashrath B. Rathod v. Fox Star Studios India Pvt. Ltd., 2017 SCC OnLine Bom 345
+    * Rahisuddin v. Gambit Leasing & Finance Pvt. Ltd., 2011 (176) DLT 696
+    * Super Cassettes Industries Pvt. Ltd. M/s Goldy Industries Pvt. Ltd., CS(COMM) 775/2016, decided on 17th August, 2016
+    * Ambala Sarabhai Enterprises Limited v. K S Infraspace LLP and Anr., 2020 (15) SCC 585
+    * Neelkanth Healthcare Pvt. Ltd. v. Neelkanth Healthchem, AIR 2018 Raj 67
+* **Legal Doctrines:**
+    * The "twin test" of jurisdiction (pecuniary and subject-matter) for Commercial Courts
+    * Harmonious construction of statutes
+    * Forum shopping
+    * Undervaluation of suits
+    * Dominous litis (the plaintiff's right to choose the forum)
+
+## 4. Arguments Presented
+
+* **Plaintiff’s Argument:**
+    *  A large number of IPR matters valued below Rs. 3 lakhs are pending before the District Judges (non-Commercial) and these should be allowed to continue there.
+    * Reliance on the definition of 'specified value' in Section 2(c)(xvii) of the CCA, arguing that suits valued below Rs. 3 lakhs are not within the purview of Commercial Courts.
+    * Cited various case precedents supporting their argument.
+    * Stated they would have no objection to the matter being heard by the Commercial Court.
+* **Defendant’s Argument:**
+    *  All IPR cases, irrespective of value, should be adjudicated by Commercial Courts.
+    * The intent of the CCA is to ensure speedy resolution of commercial disputes.
+    * The "specified value" of a suit cannot be ignored and should be considered along with the subject matter of the dispute.
+    * The plaintiff's right to choose the forum is not unfettered and should not allow them to avoid the provisions of the CCA.
+    * Argued for a more stringent valuation process for IP cases, considering the market value of intangible rights.
+    * Cited several case precedents supporting their argument.
+    * Argued for the importance of harmoniously interpreting the provisions of the CCA and IPR statutes.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The Court acknowledged that all IPR cases are "commercial disputes" within the definition of the CCA.
+    * The Court clarified that the "specified value" of Rs. 3 lakhs, as defined in the CCA, is not a mere procedural matter, but a substantive element that determines the applicability of the Act's provisions.
+    * The Court recognized the potential for undervaluation of IP suits to avoid the CCA's rigorous procedures.
+    * The Court observed that while the Plaintiff has the right to value their suit, this right is not absolute and cannot be exercised to the detriment of the CCA's objectives.
+* **Interpretation of Law:**
+    * The Court interpreted the CCA, specifically the definition of "specified value," to indicate that the "specified value" threshold is crucial for applying the Act's provisions.
+    * The Court analyzed the intention behind the 2018 Amendment to the CCA, which lowered the "specified value" from Rs. 1 crore to Rs. 3 lakhs, and concluded that the purpose was to extend the benefits of the CCA to a wider range of commercial disputes.
+    * The Court reconciled the provisions of the CCA with those of the IPR statutes, emphasizing the need for a harmonized interpretation.
+* **Application of Law:**
+    * The Court recognized that while the plaintiff has the right to determine the value of their suit, this right cannot be used to arbitrarily undervalue IP cases to avoid the CCA's provisions.
+    * The Court reasoned that the "specified value" should be determined not solely on the basis of the relief sought, but also by considering the market value of the intangible right involved in the IP dispute.
+    * The Court emphasized that the objective of the CCA is to ensure speedy resolution of commercial disputes and that allowing undervaluation would undermine this objective.
+
+## 6. Judgment
+
+* **Final Decision:**
+    * The Court ruled in favor of the Defendant, holding that the Commercial Courts, specifically the District Judges designated as Commercial Courts, have jurisdiction over all IPR cases in Delhi, irrespective of their value.
+* **Relief Granted:**
+    * The Court directed that all pending IPR suits before the District Judges (non-Commercial) in Delhi should be transferred to the District Judges (Commercial).
+* **Orders:**
+    * The Court ordered that all IPR cases in Delhi, even those valued below Rs. 3 lakhs, should be initially filed before the District Judges (Commercial).
+    * The Court instructed that the District Judges (Commercial) should examine the "specified value" of such cases to determine whether the valuation is arbitrary or unreasonable.
+    * The Court directed that if the valuation is found to be arbitrary, the District Judges (Commercial) should direct the Plaintiff to amend their plaint and pay the requisite court fee.
+    * The Court directed that even IPR cases valued below Rs. 3 lakhs, which are ultimately adjudicated as non-commercial suits, should continue to be listed before the District Judges (Commercial).
+
+## 7. Implications
+
+* **Impact on Law:**
+    * The judgment clarifies the jurisdiction of Commercial Courts over IP cases in Delhi.
+    * The judgment underscores the importance of the "specified value" threshold in determining the applicability of the CCA's provisions.
+    * The judgment establishes a framework for scrutinizing valuations in IP cases to prevent undervaluation and forum shopping.
+* **Future Relevance:**
+    * This case will likely have a significant impact on future IP litigation in Delhi and potentially influence decisions in other jurisdictions.
+    * The judgment's emphasis on harmonizing the CCA and IPR statutes provides guidance for future interpretations of these laws.
+* **Broader Context:**
+    * The case highlights the ongoing debate about the role of Commercial Courts and the need to strike a balance between providing specialized procedures for commercial disputes and ensuring fairness and access to justice.
+
+## 8. Summary Points
+
+* All IPR cases are considered "commercial disputes" under the CCA.
+* The "specified value" threshold of Rs. 3 lakhs is a crucial factor in determining the applicability of the CCA's provisions.
+* The plaintiff's right to value their suit cannot be used to arbitrarily undervalue IP cases to avoid the CCA's provisions.
+* The "specified value" should be determined by considering both the relief sought and the market value of the intangible right involved in the IP dispute.
+* Commercial Courts, specifically the District Judges designated as Commercial Courts, have jurisdiction over all IPR cases in Delhi.
+* Undervaluation of IP suits is unacceptable and will be scrutinized by Commercial Courts.
+
+## 9. References
+
+* **Citations:**
+    * The Commercial Courts Act, 2015 (CCA)
+    * The Trade Marks Act, 1999
+    * The Copyright Act, 1957
+    * The Indian Patents Act, 1970
+    * The Indian Designs Act, 2000
+    * The Protection of Plant Varieties and Farmers Rights Act, 2001
+    * The Civil Procedure Code, 1908 (CPC)
+    * The Court Fees Act, 1870
+    * The Suits Valuation Act, 1887 
+    * All case citations mentioned above. 
+
+* **Further Reading:** 
+    *  Other judgments related to Commercial Courts, "specified value," and IP disputes. 
+    *  Legal texts on intellectual property law and commercial litigation. 

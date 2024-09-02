@@ -1,0 +1,148 @@
+## 1. Case Title
+
+* **Case Name:** Bharat Bhogilal Patel vs Leitz Tooling Systems India Pvt. Ltd.
+* **Court:** Bombay High Court
+* **Date of Judgment:** 1st June, 2019
+* **Citation:** 2019 SCC Online Bom 358
+
+## 2. Background and Context
+
+* **Brief Overview:** This case involved a review petition filed by Leitz Tooling Systems India Pvt. Ltd. (the petitioner) challenging a judgment passed by the Bombay High Court's Commercial Division in a commercial suit filed by Bharat Bhogilal Patel (the plaintiff). The key issue was the applicability of the amendments introduced to the Code of Civil Procedure, 1908 ("CPC") by the Commercial Courts Act, 2015 ("Commercial Courts Act") in commercial disputes not of a "Specified Value". The Commercial Courts Act defines "Specified Value" as a commercial dispute with a value not less than Rupees Three Lacs.
+* **Key Issues:** 
+    * Whether the amendments introduced to the CPC by the Commercial Courts Act apply to commercial disputes not of a Specified Value, but nonetheless heard by a Commercial Division under the Commercial Courts Act. 
+    * Whether the mandatory period of 120 days for filing a written statement under the Commercial Courts Act applies to commercial suits not of a Specified Value.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * The Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015 (4 of 2016)
+    * The Code of Civil Procedure, 1908
+    * Section 2 (i) of the Commercial Courts Act (defines "Specified Value")
+    * Section 4 of the Commercial Courts Act (establishes Commercial Divisions)
+    * Section 7 of the Commercial Courts Act (jurisdiction of Commercial Divisions)
+    * Section 16 of the Commercial Courts Act (amendments to the CPC)
+    * Order VIII, Rule 1 of the CPC (provisions regarding filing of written statements)
+    * The Trade Marks Act, 1999
+    * Section 134 of the Trade Marks Act (jurisdiction for suits)
+    * The Copyright Act, 1957
+    * Section 62 of the Copyright Act (jurisdiction for suits)
+* **Precedents Cited:**
+    * M/s SCG Contracts India Pvt. Ltd. vs. K.S. Chamankar Infrastructure Pvt. Ltd. & Ors. (2019 SCC Online SC 226)
+    * Axis Bank Limited vs. Mira Gehani & Ors. (2019 SCC Online Bom 358)
+    * Indian Overseas Bank vs. Jason Deckor P. Ltd. (MANU/GJ/1383/2018)
+    * Nagarjuna Fertilizers & Chemicals Limited vs. Tecnimont SpA & Ors. (MANU/HY/0448/2018)
+    * Invoke Medical System Pvt. Ltd. vs. Kunal Structure (India) Pvt. Ltd. (MANU/GJ/0227/2019)
+    * Samsung Leasing Ltd. & Ors. vs. Samsung Electronic Co. Ltd. & Anr. (2018 (167) DRJ 654)
+    * OCI Corporation vs. Kandla Export Corporation & Ors (2016 SCC Online Guj 5981)
+    * Prakash Nath Khanna & Anr. vs. Commissioner of Income Tax & Anr. (2004) 9 SCC 686
+    * Union of India vs. National Federation of Blind (2013) 10 SCC 772
+    * Tata Power Company Ltd. & Ors. vs. Maharashtra Electricity Regulatory Commission & Ors. (MANU/SC/0932/2009)
+    * Ajay Enterprises (P) Ltd. & Anr. vs. Municipal Corporation of Delhi (ILR (1972) 2 Del 629)
+    * K.P. Varghese vs. Income Tax Officer & Anr. (1981) 4 SCC 173
+    * Karnataka Rare Earth vs. Deptt. of Mines & Geology (2004) 2 SCC 783
+    * Aphali Pharmaceuticals Ltd. v. State of Maharashtra (1989) 4 SCC
+    * Sansar Chand Atri vs. State of Punjab (2002) 4 SCC 154
+    * Union of India vs Filip Tiago De Gama of Vedem Vasco De Gama (1990 (1) SCC 277)
+    * Rajbir Singh Dalal (Dr.) vs Chaudhari Devilal University, Sirsa (2008 (9) SCC 284)
+    * Commissioner of Income Tax, Central Calcutta vs National Taj Traders (1980 (1) SCC 370)
+    * Shailesh Dhairyawan vs Mohan Balkrishna Lulla (2016 (3) SCC 619)
+    * Indian Performing Rights Society vs Sanjay Dalia (2015 (10) SCC 161)
+    * B. Premanand vs. Mohan Koikal (2011) 4 SCC 266
+    * Kanai Lal Sur vs. Paramnidhi Sadhukhan (AIR 1957 SC 907)
+    * Commr. of Customs v. Dilip Kumar & Co. (2018) 9 SCC 1
+* **Legal Doctrines:** 
+    * **Literal Rule of Interpretation:** The court primarily applied the literal rule, giving effect to the plain meaning of the words used in the statute.
+    * **Purposive Interpretation:** The plaintiff's counsel argued for a purposive interpretation of the statute, emphasizing the objective and intent behind the Commercial Courts Act.
+    * **Golden Rule:** The court considered the golden rule in certain situations where the literal interpretation would lead to absurdity or inconsistency.
+    * **Mischief Rule:** The court did not explicitly rely on the mischief rule.
+    * **Harmonious Construction:** The court attempted to harmonize the various provisions of the Commercial Courts Act.
+    * **Rule of Casus Omissus:** The court considered the possibility of a casus omissus (an omission) but ultimately relied on the literal interpretation.
+
+## 4. Arguments Presented
+
+* **Plaintiff's Argument:** 
+    * The plaintiff's counsel argued that the amendments introduced by the Commercial Courts Act should apply to all "commercial disputes", regardless of the Specified Value. 
+    * The counsel relied on the Preamble, Section 4, Section 7, and the Schedule to the Commercial Courts Act to support this interpretation. 
+    * He asserted that the intent behind the Act was to expedite the resolution of commercial disputes, and applying the amendments selectively would lead to absurdity and undermine the Act's purpose. 
+    * He also argued that the lack of reference to "Specified Value" in the Schedule and marginal note/heading to Section 16 indicated the legislature's intention for the amendments to apply to all commercial disputes.
+    * Further, the plaintiff's counsel highlighted the practical consequences of applying the amendments selectively, which would create a backlog in the Commercial Division, contradicting the Act's objective.
+* **Defendant's Argument:**
+    * The defendant's counsel argued that the amendments introduced by the Commercial Courts Act only applied to "commercial disputes of a Specified Value."
+    * He argued for a literal interpretation of Section 16 of the Commercial Courts Act, emphasizing the phrase "in their application to any suit in respect of a commercial dispute of a Specified Value."
+    * The defendant's counsel relied on various precedents to support the literal rule of interpretation.
+    * He further argued that the whole scheme of the Commercial Courts Act linked commercial disputes with Specified Value, and the plaintiff's valuation of the suit at Rs. 20,000/- indicated that it was not a Specified Value dispute. 
+
+## 5. Court's Analysis and Reasoning
+
+* **Key Findings:** 
+    * The court acknowledged that the marginal note/heading to Section 16 could not control the plain meaning of the section. 
+    * The court also found that the expressions in the Schedule to the Commercial Courts Act could not prevail against the express enactment.
+    * The court recognized the potential for absurdity and inconvenience if the amendments were applied selectively, but it felt bound by the literal interpretation of Section 16.
+* **Interpretation of Law:** 
+    * The court emphasized the plain language of Section 16 and interpreted the phrase "commercial disputes of a Specified Value" literally. 
+    * The court found no ambiguity in the language of Section 16 and did not find sufficient grounds to depart from the literal interpretation.
+* **Application of Law:**
+    * The court applied the literal interpretation of Section 16 to the facts of the case, concluding that the amendments introduced to the CPC by the Commercial Courts Act only applied to commercial disputes of a Specified Value.
+    * Therefore, the mandatory period of 120 days for filing a written statement under the Commercial Courts Act did not apply to the suit, as it was not a Specified Value dispute.
+
+## 6. Judgment
+
+* **Final Decision:** The court ruled in favor of the petitioner (Leitz Tooling Systems India Pvt. Ltd.)
+* **Relief Granted:** The court condoned the delay of two days in filing the written statement in the suit and disposed of the Notice of Motion.
+* **Orders:** The court concluded that the amendments introduced to the CPC by the Commercial Courts Act only applied to Commercial Disputes of a Specified Value and not Commercial Disputes not of a Specified Value.
+
+## 7. Implications
+
+* **Impact on Law:** The judgment clarified the scope of the amendments introduced by the Commercial Courts Act, confirming that they only apply to commercial disputes of a Specified Value. 
+* **Future Relevance:** This judgment provides guidance for future cases involving the interpretation of Section 16 of the Commercial Courts Act. 
+* **Broader Context:** The judgment highlights the importance of adhering to the literal rule of interpretation when the language of a statute is clear. It also underscores the potential challenges in applying the Commercial Courts Act in situations where the value of a commercial dispute falls below the Specified Value threshold.
+
+## 8. Summary Points
+
+* The amendments introduced to the CPC by the Commercial Courts Act only apply to commercial disputes with a value exceeding Rupees Three Lacs (Specified Value).
+* The court interpreted Section 16 of the Commercial Courts Act literally and did not depart from the plain meaning of the language.
+* The court's decision has implications for future cases involving the application of the Commercial Courts Act to commercial disputes below the Specified Value.
+
+## 9. References
+
+* **Citations:** 
+    * The Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015 (4 of 2016)
+    * The Code of Civil Procedure, 1908
+    * Section 2 (i) of the Commercial Courts Act
+    * Section 4 of the Commercial Courts Act
+    * Section 7 of the Commercial Courts Act
+    * Section 16 of the Commercial Courts Act
+    * Order VIII, Rule 1 of the CPC
+    * The Trade Marks Act, 1999
+    * Section 134 of the Trade Marks Act
+    * The Copyright Act, 1957
+    * Section 62 of the Copyright Act
+    * M/s SCG Contracts India Pvt. Ltd. vs. K.S. Chamankar Infrastructure Pvt. Ltd. & Ors. (2019 SCC Online SC 226)
+    * Axis Bank Limited vs. Mira Gehani & Ors. (2019 SCC Online Bom 358)
+    * Indian Overseas Bank vs. Jason Deckor P. Ltd. (MANU/GJ/1383/2018)
+    * Nagarjuna Fertilizers & Chemicals Limited vs. Tecnimont SpA & Ors. (MANU/HY/0448/2018)
+    * Invoke Medical System Pvt. Ltd. vs. Kunal Structure (India) Pvt. Ltd. (MANU/GJ/0227/2019)
+    * Samsung Leasing Ltd. & Ors. vs. Samsung Electronic Co. Ltd. & Anr. (2018 (167) DRJ 654)
+    * OCI Corporation vs. Kandla Export Corporation & Ors (2016 SCC Online Guj 5981)
+    * Prakash Nath Khanna & Anr. vs. Commissioner of Income Tax & Anr. (2004) 9 SCC 686
+    * Union of India vs. National Federation of Blind (2013) 10 SCC 772
+    * Tata Power Company Ltd. & Ors. vs. Maharashtra Electricity Regulatory Commission & Ors. (MANU/SC/0932/2009)
+    * Ajay Enterprises (P) Ltd. & Anr. vs. Municipal Corporation of Delhi (ILR (1972) 2 Del 629)
+    * K.P. Varghese vs. Income Tax Officer & Anr. (1981) 4 SCC 173
+    * Karnataka Rare Earth vs. Deptt. of Mines & Geology (2004) 2 SCC 783
+    * Aphali Pharmaceuticals Ltd. v. State of Maharashtra (1989) 4 SCC
+    * Sansar Chand Atri vs. State of Punjab (2002) 4 SCC 154
+    * Union of India vs Filip Tiago De Gama of Vedem Vasco De Gama (1990 (1) SCC 277)
+    * Rajbir Singh Dalal (Dr.) vs Chaudhari Devilal University, Sirsa (2008 (9) SCC 284)
+    * Commissioner of Income Tax, Central Calcutta vs National Taj Traders (1980 (1) SCC 370)
+    * Shailesh Dhairyawan vs Mohan Balkrishna Lulla (2016 (3) SCC 619)
+    * Indian Performing Rights Society vs Sanjay Dalia (2015 (10) SCC 161)
+    * B. Premanand vs. Mohan Koikal (2011) 4 SCC 266
+    * Kanai Lal Sur vs. Paramnidhi Sadhukhan (AIR 1957 SC 907)
+    * Commr. of Customs v. Dilip Kumar & Co. (2018) 9 SCC 1
+* **Further Reading:**
+    *  **Principles of Statutory Interpretation** by Justice G.P. Singh 
+    * **Statutory Interpretation** by  P. St. J. Langan
+    * **Bennion on Statutory Interpretation** by  H.W.R. Wade and  A.W. Bradley 
+
+This summary provides a comprehensive overview of the case, including background information, legal principles, arguments presented, court's analysis and reasoning, judgment, and implications. It incorporates all the relevant sections, legal doctrines, and case precedents cited in the text file. 

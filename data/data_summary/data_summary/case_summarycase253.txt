@@ -1,0 +1,147 @@
+##  1. Case Title
+
+* **Case Name:** V.Pranav vs. Vanishree
+* **Court:** Madras High Court
+* **Date of Judgment:** 18 June, 2024
+* **Citation:** 2024:MHC:2330 
+
+##  2. Background and Context
+
+**Brief Overview:** This case involved a dispute among partners of a spinning mill firm called "M/s. Narasu's Spinning Mills". The dispute originated from a Section 9 application filed by four partners against the fifth partner, the bank, and the firm itself, seeking a declaration of the firm's existence, the right to operate bank accounts, and an injunction against the fifth partner's interference in the firm's affairs.  
+
+**Key Issues:**
+
+* **Maintainability of Appeal:** The appellants challenged an order allowing the impleadment of the fifth partner and the firm in the Section 9 application. The key question was whether an appeal under Section 37(1)(b) of the Arbitration and Conciliation Act, 1996 (A&C Act) lay against an order acceding to an impleadment prayer.
+* **Validity of Partnership Deed:** The fifth partner argued that the 2002 partnership deed was unilaterally thrust upon him, while the appellants contended that it was valid. 
+* **Continuing Partnership:** The fifth partner claimed he had retired from the firm, while the appellants argued he continued to be a partner.
+* **Jurisdiction of Arbitral Tribunal:** The issue was whether the Arbitral Tribunal, once appointed, would have jurisdiction over the Section 9 application, effectively converting it into a Section 17 application. 
+
+##  3. Legal Principles Involved
+
+**Relevant Statutes and Provisions:**
+
+* **The Arbitration and Conciliation Act, 1996 (A&C Act):**
+    * Section 2(1)(b): Defines "arbitration agreement".
+    * Section 7: Applies to arbitration agreements.
+    * Section 9: Deals with interim measures.
+    * Section 11:  Relates to appointment of an arbitrator.
+    * Section 17:  Provides for the powers of an arbitral tribunal.
+    * Section 21:  Defines "commencement of arbitral proceedings".
+    * Section 37(1)(b): Concerns appeals against orders relating to interim measures.
+* **The Commercial Courts Act, 2015:**
+    * Section 13: Deals with the jurisdiction of Commercial Courts.
+* **The Indian Partnership Act, 1932:**
+    * Applicable to matters not specifically stated in the partnership deeds.
+
+**Precedents Cited:**
+
+* **Fuerst Day Lawson Limited Vs. Jindal Exports Limited (2011) 8 SCC 333:** On the negative import of a self-contained code, specifically the A&C Act.
+* **P.S. Sathappan (2004) 11 SCC 672:** On the self-contained nature of the A&C Act. 
+* **V.G.Santhosam and Others Vs. Shanthi Gnanasekaran and Others (2020 SCC OnLine Mad 560):**  On the maintainability of an appeal against an implead order. This case was appealed to the Supreme Court via S.L.P (C) Nos.9234- 9237/2020 and dismissed, leaving the Madras High Court order intact.
+* **M.Mythrai Vs. T.Ramesh and Others (2021 SCC OnLine Mad 13704):**  This case followed the V.G.Santhosam decision.
+* **Arupri Logistics Pvt. Ltd., Vs. Vilas Gupta and Others (2023 SCC OnLine Del 4297):**  This case from Delhi High Court was not directly applied but reserved for future consideration.
+* **Kunhayammed and Others Vs. State of Kerala and another (2000) 6 SCC:** On the Kunhayammed principle concerning the Doctrine of Merger.
+* **Firm Ashok Traders Vs. Gurumukh Das Saluja (2004) 3 SCC 155:** On the principle that interim orders cannot be perpetual.
+* **Arcelor Mittal Nippon Steel India Limited Vs. Essar Bulk Terminal Limited (2022) 1 SCC 712:** On the application of Section 9(3) of the A&C Act.
+* **Cholamandalam Investment and Finance Company Limited Vs. Harkhabhai Amarshibhai Vaghadiya (Arb.A.No.40 of 2022, etc. batch, dated 16.02.2022):** On the interpretation of Section 9(2) of the A&C Act, affirming the Firm Ashok Traders principle.
+
+**Legal Doctrines:**
+
+* **Doctrine of Merger:** This doctrine states that a judgment of a lower court is merged into the judgment of a higher court when an appeal is successful. However, this principle did not apply in the V.G.Santhosam case as the Supreme Court dismissed the SLP before issuing notice.
+* **Self-contained Code:** The A&C Act is considered a self-contained code, meaning it implicitly excludes the application of general laws and procedures in matters of arbitration.
+
+##  4. Arguments Presented
+
+**Appellants' Argument:**
+
+* **Maintainability of Appeal:** The appellants argued that the impugned order (allowing impleadment) was an order under Section 9(1)(ii)(e) of the A&C Act and therefore, appealable under Section 37(1)(b). They relied on the V.G.Santhosam and M.Mythrai cases.
+* **Validity of Partnership Deed:** The appellants argued that the 2002 partnership deed was valid and that the fifth partner remained a partner in the firm. 
+* **Jurisdiction of Arbitral Tribunal:** The appellants argued that the Arbitral Tribunal should not have jurisdiction over the Section 9 application as it was a separate issue from the arbitration.
+
+**Respondents' Argument:**
+
+* **Maintainability of Appeal:**  The respondents argued that the appeal was not maintainable because the impugned order did not grant or refuse any interim measure under Section 9. They contended that the impleadment order was a procedural matter and not a substantive order.
+* **Validity of Partnership Deed:** The fifth respondent argued that the 2002 partnership deed was unilaterally thrust upon him and hence, not valid. He also claimed he had retired from the firm.
+* **Jurisdiction of Arbitral Tribunal:**  The respondents argued that the Arbitral Tribunal should have jurisdiction over the Section 9 application as it was a matter related to the partnership.
+
+##  5. Court’s Analysis and Reasoning
+
+**Key Findings:**
+
+* **Maintainability of Appeal:** The Court left open the question of whether the implead order was an order under Section 9(1)(ii)(e) of the A&C Act. It decided to allow the appellants to contest the order if the Section 9 application resulted in an order granting or refusing interim relief. 
+* **Validity of Partnership Deed and Continuing Partnership:** The Court did not express any opinion on the validity of the 2002 partnership deed or the status of the fifth partner (retired or not) as it decided to relegate these issues to the Arbitral Tribunal.
+* **Jurisdiction of Arbitral Tribunal:** The Court decided that the Arbitral Tribunal would have jurisdiction over the Section 9 application, effectively converting it into a Section 17 application. This decision was based on the consensus between the parties, who agreed to refer all disputed matters, including the Section 9 prayer, to the Arbitral Tribunal. 
+
+**Interpretation of Law:**
+
+* The Court re-iterated the principle that the A&C Act is a self-contained code, implying that the general laws and procedures are excluded from matters of arbitration.
+* The Court affirmed the Firm Ashok Traders principle that interim orders cannot be perpetual, as per the Cholamandalam common order dated 16.02.2022. 
+* The Court also recognized the Arcelor Mittal principle regarding the application of Section 9(3) of the A&C Act.
+
+**Application of Law:**
+
+* The Court decided not to resolve the maintainability issue of the appeal, leaving it open for later consideration.
+* The Court chose not to adjudicate on the disputed partnership deed and the status of the fifth partner, deciding to relegate these issues to the Arbitral Tribunal.
+* The Court decided to grant jurisdiction to the Arbitral Tribunal to decide the Section 9 prayer, effectively converting it into a Section 17 application. This was based on the consensus between the parties and the principle that all disputed matters should be decided by the Arbitral Tribunal.
+
+##  6. Judgment
+
+**Final Decision:**
+
+* The Court disposed of the CMA and CMPs.
+
+**Relief Granted:**
+
+* The Court directed the dismissal of the suit in O.S.No.10 of 2020 as withdrawn, leaving all questions open to be decided by the Arbitral Tribunal.
+* The Court revoked the interim order dated 24.05.2024 in C.M.P.No.11113 of 2024, directing the Section 9 prayer to be decided by the Arbitral Tribunal under Section 17. 
+
+**Orders:**
+
+* The Court appointed Thiru. M.K.Kabir as the Sole Arbitrator, based on the consensus between the parties.
+* The Court requested the Arbitral Tribunal to hold the first sitting expeditiously.
+* The Court instructed the parties to inform the Section 11 Court of the order and give a suitable closure to the Section 11 application.
+
+##  7. Implications
+
+**Impact on Law:**
+
+* The Court's decision to allow the appellants to contest the implead order in future if necessary does not necessarily establish a clear precedent for appealing impleadment orders.
+* The Court's decision to refer all disputed matters to the Arbitral Tribunal, including the Section 9 prayer, reaffirms the principle of enforcing arbitration agreements.
+* The Court's confirmation of the Cholamandalam common order concerning Section 9(2) reaffirms the principle that interim orders cannot be perpetual.
+
+**Future Relevance:**
+
+* This case might influence future decisions on the maintainability of appeals against implead orders under Section 9 of the A&C Act.
+* The case sets a precedent for resolving disputes within the framework of arbitration agreements, even when interim measures are involved. 
+
+**Broader Context:**
+
+* The case highlights the complex legal issues that can arise in partnership disputes.
+* The case demonstrates the importance of consensus and cooperation between parties in settling disputes through arbitration.
+
+##  8. Summary Points
+
+* The case involved a dispute among partners of a spinning mill firm.
+* The key issue was whether an appeal lay against an order allowing impleadment in a Section 9 application.
+* The Court decided to leave the maintainability issue open and relegate all disputed matters to the Arbitral Tribunal.
+* The Court appointed a Sole Arbitrator and instructed the parties to inform the Section 11 Court of the order. 
+
+##  9. References
+
+**Citations:**
+
+* The Arbitration and Conciliation Act, 1996 (Act No.26 of 1996)
+* The Commercial Courts Act, 2015
+* The Indian Partnership Act, 1932
+
+**Further Reading:**
+
+* **V.G.Santhosam and Others Vs. Shanthi Gnanasekaran and Others (2020 SCC OnLine Mad 560)**
+* **M.Mythrai Vs. T.Ramesh and Others (2021 SCC OnLine Mad 13704)**
+* **Arupri Logistics Pvt. Ltd., Vs. Vilas Gupta and Others (2023 SCC OnLine Del 4297)**
+* **Fuerst Day Lawson Limited Vs. Jindal Exports Limited (2011) 8 SCC 333)**
+* **P.S. Sathappan (2004) 11 SCC 672)**
+* **Kunhayammed and Others Vs. State of Kerala and another (2000) 6 SCC)**
+* **Firm Ashok Traders Vs. Gurumukh Das Saluja (2004) 3 SCC 155)**
+* **Arcelor Mittal Nippon Steel India Limited Vs. Essar Bulk Terminal Limited (2022) 1 SCC 712)**
+* **Cholamandalam Investment and Finance Company Limited Vs. Harkhabhai Amarshibhai Vaghadiya (Arb.A.No.40 of 2022, etc. batch, dated 16.02.2022)** 

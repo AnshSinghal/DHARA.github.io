@@ -1,0 +1,133 @@
+## 1. Case Title
+
+* **Case Name:** Hindustan Steelworks Construction Limited vs. New Okhla Industrial Development Authority
+* **Court:** Allahabad High Court
+* **Date of Judgment:** 22nd September 2023
+* **Citation:** 2023:AHC:184463-DB
+
+## 2. Background and Context
+
+* **Brief Overview:** This case arose from a contract between Hindustan Steelworks Construction Limited (HSCL), a Government of India undertaking, and the New Okhla Industrial Development Authority (NOIDA) for the construction of two flyovers in Gautam Budh Nagar. After the work commenced, NOIDA suspected inflated contract costs and suspended the work for 928 days. HSCL, facing financial distress, agreed to complete the project at the original cost without claiming compensation for the suspension period. However, after completing the project, HSCL claimed damages for the suspension period and price escalation, leading to arbitration. 
+* **Key Issues:**
+    * Whether the Supplementary Memorandum of Understanding (Supplementary MoU) signed by HSCL was vitiated by coercion, duress, or undue influence.
+    * Whether HSCL was entitled to damages under Clause 13(ii)(b) of the General Conditions of Contract (GCC) for the suspension period despite agreeing to waive such claims in the Supplementary MoU.
+    * Whether the Court could partially set aside the arbitral award while upholding the remaining portion of the award.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * **Arbitration and Conciliation Act, 1996 (ACA):** 
+        * Section 11: Appointment of Arbitrator
+        * Section 13: Definition of consent
+        * Section 14: Definition of free consent
+        * Section 15: Definition of coercion
+        * Section 16: Definition of undue influence
+        * Section 34: Application for setting aside arbitral award
+        * Section 37: Appeal from order of Court
+    * **Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015:**
+        * Section 13: Jurisdiction of Commercial Courts
+    * **Contract Act, 1872:**
+        * Section 23: Agreements void as being against public policy
+* **Precedents Cited:**
+    * **M/s Classic Motors Limited Vs. Maruti Udyog Limited (Delhi High Court)**:  Defines four factors to determine duress or coercion in a commercial contract.
+    * **Central Inland Water Transport Corporation Ltd. Vs. Brojo Nath Ganguly (Supreme Court)**: Examines the concept of unequal bargaining power in contracts.
+    * **Balaji Pressure Vessels Ltd. Vs. Bharat Petroleum Corporation Ltd. (Bombay High Court)**: Discusses the plea of coercion in a commercial contract.
+    * **Government of Andhra Pradesh Irrigation Department Vs. G. Kondala Rao (Andhra Pradesh High Court)**:  Relates to the plea of coercion and undue influence.
+    * **Dakshin Haryana Bijli Vitran Nigam Ltd. Vs. M/s Navigant Technologies Pvt. Ltd. (Supreme Court)**: Addresses the partial setting aside of arbitral awards.
+    * **Ssangyong Engineering and Construction Company Ltd. Vs. National Highways Authority of India (NHAI) (Supreme Court)**:  Clarifies the scope of "public policy of India" under Section 34 of the ACA.
+    * **Associate Builders (Supreme Court)**: Defines "fundamental policy of Indian law" and "most basic notions of morality or justice" in the context of public policy.
+    * **ONGC Limited Vs. Western Geco International Ltd (Supreme Court)**: Addresses interference with arbitral awards on the grounds of non-judicial approach.
+    * **Delhi Airport Metro Express Pvt Ltd Vs. Delhi Metro Rail Corporation Ltd (Supreme Court)**:  Explains "patent illegality" under Section 34(2-A) of the ACA.
+    * **Municipal Corporation of Delhi Vs. Jagan Nath Ashok Kumar and another (Supreme Court)**:  Emphasizes that the Arbitral Tribunal is the master of evidence.
+    * **State of Jharkhand and others Vs. HSS Integrated SDN and another (Supreme Court)**: Reaffirms the "possible view" theory in arbitration proceedings.
+    * **Maharashtra State Electricity Distribution Co. Ltd. Vs. Datar Switchgear Ltd (Supreme Court)**:  States that findings of fact by the Arbitral Tribunal are beyond scrutiny under Section 34 of the ACA.
+    * **NTPC Ltd. Vs. SPML Infra Ltd (Supreme Court)**:  Examines the plea of economic duress in the context of settlement agreements.
+    * **Vidya Drolia & Others v. Durga Trading Corporation (Supreme Court)**:  Limits the scope of judicial review in arbitration proceedings.
+    * **K. Ramachandra Rao vs. Union of India & Others (Supreme Court)**: Deals with the issue of accord and satisfaction under undue influence.
+    * **Supermint Exports Private Limited vs. New India Assurance Company Limited and Others (Delhi High Court)**: Addresses the defense of undue influence and coercion in relation to discharge vouchers.
+    * **New India Assurance Company Limited vs. Khanna Paper Mills Limited (Delhi High Court)**: Discusses the finality of arbitral tribunal findings on duress and coercion.
+    * **Associated Constructions vs. Pawanhans Helicopters Pvt. Ltd (Supreme Court)**:  Deals with the issue of economic duress and no-dues certificates.
+    * **Unikol Bottlers Limited vs. Dhillon Kool Drinks (Delhi High Court)**:  Defines factors to determine whether a party exercised free will in entering into a supplemental agreement.
+    * **Sara International Limited vs. Rizhao Steel Holding Company Limited (Delhi High Court)**:  Elaborates on the legal principles related to economic duress.
+    * **Pao On and others vs. Lau Yiu Long and others (Privy Council)**:  Defines the concept of duress in contractual situations.
+    * **Gas Authority of India Ltd Vs. Indian Petrochemicals Corporation Ltd and others (Supreme Court)**:  Upholds the plea of unequal bargaining power in commercial contracts.
+    * **Kalpraj Dharamshri & Others vs. Kotak Investment Advisors Ltd. & Others (Supreme Court)**: Applies the principles laid down in Central Inland to strike down unconscionable clauses in commercial transactions.
+    * **National Insurance Company Limited vs. Boghara Polycab Private Limited (Supreme Court)**:  Leaves the issue of accord and satisfaction to be decided by the arbitral tribunal.
+    * **Secretary to Govt. Department of Education (Primary) and others Vs. Bheemesh Alias Bheemappa (Supreme Court)**:  Interprets rules of compassionate appointment.
+    * **R.S. Jiwani (M/s.) Mumbai Vs. Ircone International Ltd. Mumbai (Bombay High Court)**:  Addresses the applicability of severability to arbitral awards under Section 34 of the ACA.
+    * **J.G. Engineers Pvt. Ltd. Vs. Union of India and another (Supreme Court)**: Applies the doctrine of severability to uphold certain claims while setting aside others.
+    * **National Highways Authority of India Vs. The Additional Commissioner, Nagpur and others (Bombay High Court)**:  Reiterates that severability can be applied under Section 34 of the ACA.
+    * **John Peter Fernandes Vs. Saraswati Ramchandra Ghanate and others (Bombay High Court)**: Applies severability to an arbitral award, segregating the bad part from the good part.
+    * **Project Director, National Highways No.45 E and 220 National Highways Authority of India Vs. M. Hakeem and another (Supreme Court)**:  Compares the provisions of the old and new Arbitration Acts.
+    * **National Highways Authority of India Vs P. Nagaraju @ Cheluvaiah and another (Supreme Court)**:  Reiterates that the Court under Section 34 cannot modify an arbitral award.
+    * **Kinnari Mullick and another vs. Ghanshyam Das Damini (Supreme Court)**:  Explains the scope of Section 34(4) of the ACA.
+    * **McDermott International Inc. Vs. Burn Standard Co. Limited (Supreme Court)**:  Discusses the role of the Court in arbitration proceedings.
+* **Legal Doctrines:**
+    * **Economic Duress:** This doctrine applies when one party coerces another party into entering into a contract or agreement against their will by using illegitimate pressure or threats.
+    * **Unequal Bargaining Power:**  This doctrine considers situations where parties have significantly different economic or legal positions, which can lead to unfair or unreasonable contracts.
+    * **Severability:** This doctrine allows a court to uphold valid parts of a contract or agreement while setting aside invalid or unenforceable portions.
+    * **Issue Estoppel:** This doctrine prevents parties from re-litigating issues that have already been decided in a previous legal proceeding.
+    * **Res Judicata:** This doctrine prevents parties from re-litigating a matter that has already been decided by a competent court.
+
+## 4. Arguments Presented
+
+* **Appellant's Argument:** 
+    * HSCL argued that the Supplementary MoU was obtained under duress, coercion, and undue influence from NOIDA. 
+    * They argued that NOIDA was in a dominant position and used its power to force HSCL to waive its right to claim damages for the suspension period.
+    * HSCL argued that they were under financial distress due to the suspension and had no other choice but to agree to the terms. 
+    * They asserted that the Supplementary MoU did not override or amend Clause 13(ii)(b) of the GCC, which entitled them to damages for the suspension period.
+    * HSCL argued that the Court had the power to partially set aside the award by separating the claim for damages from other valid claims. 
+* **Respondent's Argument:** 
+    * NOIDA argued that HSCL voluntarily agreed to complete the project at the original cost without compensation for the suspension period. 
+    * They presented HSCL's letters dated 29.04.2005 and 10.05.2005, where HSCL explicitly agreed to forgo compensation and price escalation.
+    * NOIDA argued that HSCL, being a Government of India undertaking, had access to independent legal advice and could have chosen to treat the suspension as a foreclosure of the contract.
+    * NOIDA contended that HSCL raised the plea of coercion and undue influence as an afterthought to unjustly enrich themselves at the cost of the public exchequer.
+    * They argued that the Court did not have the power to partially set aside the award and that setting aside the claim for damages would necessitate setting aside the entire award.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The Court found that the suspension of work was due to reasons attributable to NOIDA.
+    * The Court found that HSCL did not protest or take any steps to avoid the Supplementary MoU at the time of its execution.
+    * The Court found that HSCL had the option to treat the suspension as a foreclosure of the contract under Clause 11 of the GCC but chose not to exercise this option.
+    * The Court found that HSCL raised the claim for damages for the suspension period as an afterthought and that there was no evidence of coercion or undue influence in the execution of the Supplementary MoU.
+    * The Court found that the doctrine of severability applies to arbitral awards under Section 34 of the ACA.
+* **Interpretation of Law:** 
+    * The Court interpreted Section 34 of the ACA, which outlines the grounds for setting aside arbitral awards, and clarified the scope of "public policy of India."
+    * The Court reviewed various precedents related to economic duress, unequal bargaining power, and the concept of "legitimate pressure" in commercial transactions.
+* **Application of Law:**
+    * The Court applied the principles of economic duress and unequal bargaining power to the facts of the case, finding that HSCL had not proven their claim of coercion.
+    * The Court determined that the Supplementary MoU superseded Clause 13(ii)(b) of the GCC, precluding HSCL from claiming damages for the suspension period.
+    * The Court applied the doctrine of severability, allowing it to set aside the claim for damages while upholding the remaining portion of the award.
+
+## 6. Judgment
+
+* **Final Decision:** The appeal was allowed in part. The Court upheld the arbitral award regarding price variation but set aside the award for damages related to the suspension period.
+* **Relief Granted:** The Court upheld the award of Rs. 23.94 crores for price variation but set aside the award of Rs. 35.92 crores for damages, along with the related interest.
+* **Orders:** The court directed that the remaining part of the arbitral award be enforced, and the award relating to damages for the suspension period be set aside. 
+
+## 7. Implications
+
+* **Impact on Law:** This judgment reaffirms the applicability of the doctrine of severability to arbitral awards under Section 34 of the ACA. It clarifies that the Court has the power to partially set aside an award while upholding valid portions.
+* **Future Relevance:**  This case provides guidance on how courts should assess claims of economic duress and unequal bargaining power in commercial contracts. It emphasizes the importance of protest and other actions demonstrating a lack of free will in accepting a contractual agreement.
+* **Broader Context:** This case highlights the potential tension between upholding the principle of contract sanctity and protecting parties from unfair or coerced agreements in commercial transactions. It also underscores the need for parties to clearly document their understanding and intentions regarding contractual terms.
+
+## 8. Summary Points
+
+* HSCL failed to prove that the Supplementary MoU was obtained under duress or undue influence from NOIDA.
+* HSCL's claim for damages for the suspension period was deemed an afterthought and unsupported by evidence.
+* The Court upheld the doctrine of severability, allowing it to partially set aside the arbitral award.
+* The case emphasizes the importance of clearly documenting agreements and raising objections promptly to avoid later claims of coercion or duress.
+
+## 9. References
+
+* **Arbitration and Conciliation Act, 1996 (ACA)**
+* **Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015**
+* **Contract Act, 1872**
+* **All precedents cited within the judgment's text.**
+
+## Further Reading
+
+* **Chitty on Contracts**
+* **UNCITRAL Model Law on International Commercial Arbitration**
+* **Supreme Court judgments on arbitration, economic duress, and contract interpretation.** 

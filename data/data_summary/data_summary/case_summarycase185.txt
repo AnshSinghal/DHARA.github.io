@@ -1,0 +1,88 @@
+## 1. Case Title
+
+* **Case Name:** New Okhla Industrial Development Authority vs. M/S Pathik Software Education Private Limited and another
+* **Court:** Allahabad High Court 
+* **Date of Judgment:** 6th September 2023
+* **Citation:** 2023:AHC:175308-DB
+
+## 2. Background and Context
+
+* **Brief Overview:** This case involves a dispute between the New Okhla Industrial Development Authority (NOIDA) and M/s Pathik Software Education Private Limited (the plaintiff company) regarding the cancellation of a lease agreement for a plot of land in Sector 142 Noida. The plaintiff company, allotted the land in 2006, failed to complete construction and pay dues within stipulated timelines, leading to lease cancellation by NOIDA in 2021.  The plaintiff company challenged this cancellation in a commercial court suit, which ruled in their favor. NOIDA appealed this decision in the Allahabad High Court.
+* **Key Issues:**
+    * Whether the dispute between NOIDA and the plaintiff company falls under the definition of "commercial dispute" as defined by the Commercial Courts Act, 2015.
+    * Whether NOIDA followed proper procedures for serving notices and canceling the lease agreement under the lease deed and relevant legislation.
+    * Whether the plaintiff company was entitled to the relief granted by the commercial court. 
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * **Commercial Courts Act, 2015:** Sections 2, 3, 5, 6, 7, 9, 11, 12, 13, 14, 15, 16, 22.
+    * **Code of Civil Procedure, 1908:** Order VII Rule 11, Order XIIIA, Order XXXIX Rules 1 & 2.
+    * **Specific Relief Act, 1963:** Sections 34, 38, 41.
+    * **U.P. Industrial Area Development Act, 1976:** Section 3.
+    * **U.P. Urban Planning and Development Act, 1973:** Section 43.
+    * **Companies Act, 1956:** (Relevant for establishing the plaintiff company's nature)
+* **Precedents Cited:**
+    * Ambalal Sarabhai Enterprises Ltd. vs. K.S. Infraspace LLP & another
+    * Bachhaj Nahar vs. Nilima Mandal & another
+    * Mrs. Akella Lalitha vs. Sri Konda Hanumantha Rao & another
+    * Sri Saurav Jain & Anr. vs. M/s A.B.P. Design & Anr
+    * Messrs. Trojan & Co. Ltd. vs. Rm. N.N. Nagappa Chettiar
+    * Vasu Healthcare Private Limited vs. Gujarat Akruti TCG Biotech Limited
+    * Federation of A.P. Chambers of Commerce & Industry and Ors. vs. State of A.P. and Ors.
+    * Chandrika Misir v. Bhaiya Lal
+* **Legal Doctrines:**
+    * **Jurisdiction of Courts:**  This case involved a crucial examination of the jurisdiction of the Commercial Court under the Commercial Courts Act, 2015.
+    * **Interpretation of Statutes:** The court had to interpret the meaning of "commercial dispute" and "used exclusively in trade or commerce" as defined in the Commercial Courts Act.
+    * **Contract Law:** The case revolved around the breach of a lease agreement and the consequences of such a breach.
+    * **Procedural Law:** The court examined the validity of the notice served on the plaintiff company under the lease agreement and the relevant legislation. 
+
+## 4. Arguments Presented
+
+* **Plaintiff's Argument:**
+    * The plaintiff company argued that it was not served with proper notice before the cancellation of the lease agreement. They contended that NOIDA sent notices to the residential address of a director, not the registered office of the company, as mandated by the lease agreement. 
+    * The plaintiff company argued that the cancellation of the lease agreement was illegal and sought a declaration that the cancellation notice was null and void. They also sought a permanent injunction restraining NOIDA from interfering with their possession of the plot and from executing a lease deed with the defendant company.
+    * They argued that the dispute was a "commercial dispute" as defined under the Commercial Courts Act, 2015, and that the commercial court had jurisdiction.
+* **Defendant's Argument:**
+    * NOIDA argued that the plaintiff company breached the lease agreement by failing to complete construction and make timely payments. They asserted that they sent notices to the plaintiff company at the available address, which included the address of the director, and that the notices were properly served. 
+    * NOIDA also contended that the commercial court had no jurisdiction as the dispute did not fall under the definition of a "commercial dispute" because the property was not "actually used" for trade or commerce. 
+    * NOIDA argued that the plaintiff company had deliberately abandoned the project and failed to comply with the terms of the lease agreement. 
+    * The defendant company, M/s Innova A.M. Tech L.L.P, argued that they had a valid contract with NOIDA to purchase the plot and that the plaintiff company had no right to interfere with their acquisition of the land.
+    * They also pointed out that the plaintiff company was essentially an inactive shell company and was not legally entitled to the plot.
+
+## 5. Court's Analysis and Reasoning
+
+* **Key Findings:**
+    * The High Court found that the commercial court had incorrectly concluded that the dispute between NOIDA and the plaintiff company was a "commercial dispute" under the Commercial Courts Act, 2015.
+    * The court held that the property was not "actually used" for trade or commerce at the time of lease cancellation. The fact that the property was "likely to be used" for such purpose was not sufficient to establish jurisdiction under the Act.
+    * The court found that the plaintiff company had failed to comply with the terms of the lease agreement, including timely construction and payments. 
+    * The court acknowledged that the plaintiff company had received proper notice of cancellation, even if they were not served at their registered office.
+    * The court also accepted NOIDA's argument that the plaintiff company was an inactive company with no genuine business operations.
+* **Interpretation of Law:** The court relied on various precedents to interpret the definition of "commercial dispute" in the Commercial Courts Act, 2015.  They emphasized that the word "used" in the context of the Act signifies "actually used" and not "likely to be used" or "ready for use." 
+* **Application of Law:** The court applied the legal principles to the facts of the case and concluded that the commercial court had no jurisdiction to decide the dispute. They held that the plaintiff company was not entitled to the relief granted by the commercial court.
+
+## 6. Judgment
+
+* **Final Decision:** The Allahabad High Court allowed both appeals and set aside the judgment and decree of the Commercial Court dated 28.03.2022.
+* **Relief Granted:** The court effectively reversed the commercial court's decision, reaffirming the cancellation of the lease agreement by NOIDA. 
+* **Orders:** The court declared that the cancellation notice dated 07.01.2021 was valid and binding, and that NOIDA was entitled to re-allot the plot to the defendant company.
+
+## 7. Implications
+
+* **Impact on Law:** This judgment clarifies the scope of the definition of "commercial dispute" under the Commercial Courts Act, 2015, particularly regarding agreements for immovable property. It reinforces the need for properties to be "actually used" for trade or commerce for disputes to fall under the Act's jurisdiction.
+* **Future Relevance:** This case serves as a precedent for future cases involving disputes arising from lease agreements for immovable property, particularly where the property is not actively used for trade or commerce. It may also influence decisions regarding the interpretation of the "used exclusively in trade and commerce" provision in other contexts.
+* **Broader Context:** This case highlights the importance of parties complying with the terms of lease agreements and emphasizes the consequences of default. It also underscores the need for commercial courts to strictly adhere to their jurisdictional limits under the Commercial Courts Act, 2015.
+
+## 8. Summary Points
+
+* The Allahabad High Court determined that the dispute between NOIDA and the plaintiff company did not constitute a "commercial dispute" under the Commercial Courts Act, 2015, as the property was not "actually used" for trade or commerce.
+* The court upheld NOIDA's cancellation of the lease agreement due to the plaintiff company's breach of contract, finding that proper notice was served.
+* The judgment reinforces the need for strict interpretation of the "used exclusively in trade and commerce" provision in the Commercial Courts Act, 2015.
+
+## 9. References
+
+* **Citations:** All relevant statutes, cases, and legal texts have been cited in the summary above.
+* **Further Reading:** 
+    * The Commercial Courts Act, 2015
+    * Cases cited in the judgment. 
+    * Legal commentary and articles on the Commercial Courts Act, 2015, and the definition of "commercial dispute."

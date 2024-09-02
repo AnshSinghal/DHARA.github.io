@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A dispute arose between a construction company and a state government agency over a contract to build a new highway. The construction company claims that the agency breached the contract by failing to provide necessary land permits on time, causing significant delays and cost overruns. The agency argues that the construction company failed to meet certain performance milestones and therefore breached the contract first. The agency also contends that the construction company's claim for damages is inflated.",
+    "Legal Principles": "Contract breach,  Specific performance, Damages,  Time is of the essence,  Performance milestones,  Force majeure,  Mitigation of damages,  Public policy,  Arbitration",
+    "Relevant Sections": "Sections 34 and 37 of the Arbitration & Conciliation Act, 1996,  Sections 16, 21 of the Specific Relief Act, 1963,  Article 299 of the Constitution of India",
+    "Context": "Civil Appeal,  Contract law,  Arbitration,  Jurisdiction of High Court"
+  },
+  {
+    "Query": "A software development company entered into a contract with a financial institution to develop a new online banking platform. The software company claims that the financial institution failed to provide adequate specifications and testing support, resulting in delays and defects in the platform. The financial institution counters that the software company failed to meet the agreed upon deadlines and delivered a product that did not meet the specified requirements. Both parties are seeking damages for breach of contract.",
+    "Legal Principles": "Contract breach,  Specific performance, Damages,  Indemnity,  Intellectual property,  Warranties,  Mitigation of damages,  Duty to mitigate",
+    "Relevant Sections": "Sections 34 and 37 of the Arbitration & Conciliation Act, 1996",
+    "Context": "Civil Appeal,  Contract law,  Arbitration,  Software development,  Technology law"
+  },
+  {
+    "Query": "A landowner entered into an agreement with a mining company to allow mining operations on his property. The landowner later alleges that the mining company exceeded the permitted scope of operations and caused environmental damage to his property. The mining company denies the allegations and claims that the landowner is attempting to renegotiate the contract after discovering the value of the minerals on his land.",
+    "Legal Principles": "Contract breach,  Environmental law,  Land ownership,  Mining regulations,  Environmental impact assessment,  Damages,  Injunctions",
+    "Relevant Sections": "Sections 34 and 37 of the Arbitration & Conciliation Act, 1996",
+    "Context": "Civil Appeal,  Contract law,  Environmental law,  Mining law"
+  },
+  {
+    "Query": "A pharmaceutical company claims that a competitor has infringed on its patent for a new drug. The competitor denies infringement and argues that the patent is invalid. The pharmaceutical company is seeking an injunction to stop the competitor from selling the infringing drug, as well as damages for lost profits.",
+    "Legal Principles": "Intellectual property law,  Patent infringement,  Injunctions,  Damages,  Validity of patent",
+    "Relevant Sections": "The Patents Act, 1970",
+    "Context": "Civil Appeal,  Intellectual property law,  Pharmaceutical industry"
+  },
+  {
+    "Query": "A homeowner hired a contractor to build an addition to their house. The homeowner claims that the contractor used substandard materials and workmanship, resulting in structural defects in the addition. The contractor denies the allegations and claims that the homeowner failed to provide adequate supervision during construction.",
+    "Legal Principles": "Contract breach,  Negligence,  Construction law,  Warranties,  Damages,  Remedies",
+    "Relevant Sections": "The Indian Contract Act, 1872",
+    "Context": "Civil Appeal,  Contract law,  Construction law"
+  },
+  {
+    "Query": "A company that provides financial services claims that a competitor has engaged in unfair competition by making false and misleading statements about its products and services. The competitor denies the allegations and argues that its statements were truthful and made in good faith.",
+    "Legal Principles": "Unfair competition,  False advertising,  Misleading statements,  Damages,  Injunctions",
+    "Relevant Sections": "The Competition Act, 2002",
+    "Context": "Civil Appeal,  Competition law,  Financial services industry"
+  },
+  {
+    "Query": "A technology company claims that a former employee has violated a confidentiality agreement by disclosing trade secrets to a competitor. The former employee denies the allegations and argues that the information disclosed was not confidential or was already in the public domain.",
+    "Legal Principles": "Trade secrets,  Confidentiality agreements,  Employment law,  Non-competition clauses,  Damages,  Injunctions",
+    "Relevant Sections": "The Indian Contract Act, 1872",
+    "Context": "Civil Appeal,  Employment law,  Technology industry"
+  },
+  {
+    "Query": "A family is involved in a dispute over the ownership of a piece of land that has been passed down through generations. One family member claims that the land was unfairly divided, while the other family member insists that the division was fair and in accordance with the wishes of the deceased ancestor.",
+    "Legal Principles": "Property law,  Inheritance,  Will,  Succession,  Division of property,  Family law",
+    "Relevant Sections": "The Transfer of Property Act, 1882",
+    "Context": "Civil Appeal,  Property law,  Family law"
+  },
+  {
+    "Query": "A partnership between two businesses is dissolving after a disagreement over the division of profits and assets. One business partner claims that the other business partner is misrepresenting the value of the partnership's assets and is attempting to unfairly acquire a larger share of the profits.",
+    "Legal Principles": "Partnership law,  Dissolution of partnership,  Division of assets,  Valuation of assets,  Breach of fiduciary duty,  Accountability",
+    "Relevant Sections": "The Indian Partnership Act, 1932",
+    "Context": "Civil Appeal,  Partnership law,  Business law"
+  },
+  {
+    "Query": "A company claims that a government agency has unfairly denied it a license to operate a new business. The company argues that the agency's decision was arbitrary and capricious and that it was denied due process. The government agency contends that the company failed to meet the licensing requirements and that its decision was based on legitimate considerations.",
+    "Legal Principles": "Administrative law,  Licensing,  Due process,  Judicial review,  Arbitrary and capricious decision",
+    "Relevant Sections": "The Administrative Procedure Act, 1958",
+    "Context": "Civil Appeal,  Administrative law,  Business law"
+  }
+]
+```

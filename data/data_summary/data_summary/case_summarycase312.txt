@@ -1,0 +1,129 @@
+## 1. Case Title
+
+* **Case Name:** The Kolkata Municipal Corporation vs. Jain Infra Projects Limited
+* **Court:** Calcutta High Court
+* **Date of Judgment:** 27 August 2021
+* **Citation:** APO 39 of 2021, AP 411 of 2020 
+
+## 2. Background and Context
+
+* **Brief Overview:** The Kolkata Municipal Corporation (KMC) sought to set aside an arbitral award in favor of Jain Infra Projects Limited (JIPL). The award was published on 15 February 2019, and the KMC received it on 27 February 2019. They filed an application to set aside the award on 18 June 2019, exceeding the three-month period prescribed by Section 34 of the Arbitration and Conciliation Act, 1996 (the Act). This delay led to the case.
+* **Key Issues:** 
+    * Whether the Calcutta High Court had territorial and pecuniary jurisdiction to hear the case.
+    * Whether the KMC's delay in filing the application to set aside the award could be condoned.
+    * Whether the time spent by the KMC pursuing the matter in lower courts without jurisdiction (due to a jurisdictional error) should be excluded under Section 14 of the Limitation Act, 1963. 
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:** 
+    * **Arbitration and Conciliation Act, 1996:**
+        * Section 34: Deals with applications for setting aside arbitral awards.
+        * Section 34(3): Provides for a three-month period to file such an application, with an additional 30 days for condonation of delay if sufficient cause is shown. 
+        * Section 2(1)(e): Defines "venue of arbitration."
+        * Section 2(7): Defines "seat of arbitration." 
+        * Section 20: Deals with the jurisdiction of courts in matters related to arbitration.
+    * **Limitation Act, 1963:**
+        * Section 3: Deals with the general provisions of limitation.
+        * Section 5: Deals with the condonation of delay.
+        * Section 14: Excludes time spent in bona fide proceedings before a court without jurisdiction.
+    * **Commercial Courts Act, 2015:**
+        * Section 10: Deals with the jurisdiction of Commercial Courts.
+    * **Code of Civil Procedure, 1908:**
+        * Order 7 Rule 10A(1): Deals with returning a plaint filed in the wrong court.
+        * Order 7 Rule 10A(2): Deals with applications for specifying the court for re-filing after a plaint is returned.
+* **Precedents Cited:**
+    * **Ram Ujarey vs. Union of India (1999) 1 SCC 685:**  Limitation starts running from the date the plaint is actually returned, not from the date of the order returning it.
+    * **Consolidated Engineering Enterprises vs. Principal Secretary, Irrigation Department & Ors. (2008) 7 SCC 169:** Section 14 of the Limitation Act can be applied to arbitration proceedings.
+    * **M.P. Steel Corporation vs. Commissioner of Central Excise (2015) 7 SCC 58:** Provides guidelines for applying Section 14 of the Limitation Act.
+    * **Union of India vs. Popular Construction Co. (2001) 8 SCC 470:** Section 5 of the Limitation Act does not apply to applications for setting aside an arbitral award filed beyond the prescribed time under Section 34 of the Act.
+    * **Oriental Insurance Co. Ltd. vs. Tejparas Associates and Exports Pvt. Ltd. (2019) 9 SCC 435:** Re-filing of a case after return due to jurisdictional issues is not always considered fresh filing, and delay in such cases can be condoned.
+    * **Simplex Infrastructure Ltd. vs. Union of India (2019) 2 SCC 45:**  A case supporting the application of Section 14 of the Limitation Act in arbitration cases.
+    * **Maqbul Ahmed vs. Pratap Narayan Singh (AIR 1935 Privy Council 85):** Time consumed between the order returning a plaint and re-filing in a competent court cannot be excluded. 
+    * **Amarchand Inani vs. Union of India (AIR 1973 SC 313):** Filing a suit after return from a court without jurisdiction is a fresh filing. 
+    * **Suo Moto Writ Petition (Civil) No. (s) 3/2020 (In Re: Cognizance for Extension of Limitation):** Cases concerning extending limitation periods due to the COVID-19 pandemic. 
+    * **Civil Appeal 3007-3008 of 2020 Sugafa Ahmed & Ors. vs. Upper Assam Plywood Products Private Limited:** Concerns extension of limitation period due to the pandemic.
+    * **GA 2 of 2020 in CS 245 of 2019 Siddha Real Estate Development Private Limited vs. Girdhar Fiscal Services Private Limited:** Concerns extension of limitation period due to the pandemic.
+    * **Civil Appeal 4085 of 2020 SS Group Pvt. Ltd. Vs. Aaditya J. Garg:** Concerns extension of limitation period due to the pandemic. 
+* **Legal Doctrines:** 
+    * **Jurisdiction:** The court's power to hear and decide a case.
+    * **Limitation:** The time period within which legal action can be taken.
+    * **Condonation of Delay:** The power of the court to excuse delay in filing a case.
+    * **Bona Fide Proceedings:**  Actions taken in good faith, without intent to deceive or cause harm. 
+    * **Exclusion of Time:** The court's ability to exclude certain time periods from the calculation of limitation.
+    * **Re-filing vs. Fresh Filing:**  The distinction between filing a case again in a competent court after a return from a court without jurisdiction, and starting a new case.
+
+## 4. Arguments Presented
+
+* **KMC's Argument:**
+    * The 22-day delay in filing the application was caused by sufficient reason and should be condoned under Section 34(3) of the Act.
+    * The time spent between 18 June 2019 and 22 December 2020, while the case was in courts without jurisdiction, should be excluded under Section 14 of the Limitation Act, 1963.
+    * The application filed before the Calcutta High Court was a re-filing, not a fresh filing, and thus the delay in re-filing was not substantial.
+    * The KMC was not at fault for the delay in receiving the cause papers after the order of return was passed by the Commercial Court at Alipore.
+    * The KMC is entitled to the benefits of the extensions to limitation periods granted by the Supreme Court due to the COVID-19 pandemic.
+* **JIPL's Argument:**
+    * The KMC's application was filed beyond the permissible 120-day limit, as Section 14 of the Limitation Act is not applicable to Section 34 of the Act.
+    * The KMC was responsible for the delay in receiving the cause papers and did not act diligently.
+    * The KMC should have filed an appeal against the order returning the application, rather than re-filing it. 
+    * The KMC's re-filing was a fresh filing, and the delay in re-filing should not be condoned.
+    * The Supreme Court orders regarding limitation period extensions due to the pandemic were not applicable because the limitation period in this case had begun before 15 March 2020.
+    * The KMC failed to file an application under Order 7 Rule 10A(3) of the Code of Civil Procedure, 1908, which would have been necessary to invoke the benefits of Section 14 of the Limitation Act.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The Calcutta High Court had both territorial and pecuniary jurisdiction to hear the case.
+    * The KMC was entitled to the benefits of Section 14 of the Limitation Act, 1963, as they had pursued the case bona fide in courts without jurisdiction.
+    * The time between 18 June 2019 and 22 December 2020 should be excluded from the calculation of the limitation period.
+    * The 22-day delay in filing the initial application should be condoned.
+    * The re-filing before the Calcutta High Court was not considered a fresh filing, but a continuation of the original proceeding.
+    * The court did not rely on the Supreme Court orders regarding pandemic-related limitation period extensions.
+* **Interpretation of Law:** 
+    * The court interpreted Section 34(3) of the Act as having its own provision for condoning delay, separate from Section 5 of the Limitation Act.
+    * The court held that Section 14 of the Limitation Act was applicable to arbitration proceedings, including applications under Section 34.
+    * The court determined that the time spent in courts without jurisdiction was excludable under Section 14, provided the party acted in good faith. 
+    * The court interpreted Order 7 Rule 10A(2) as not being mandatory, so the failure to file an application under this rule was not a fatal flaw. 
+* **Application of Law:** 
+    * The court applied the principles of jurisdiction, limitation, condonation of delay, and exclusion of time to the specific facts of the case.
+    * The court relied on precedents, particularly those regarding the application of Section 14 of the Limitation Act in arbitration cases and the concept of re-filing versus fresh filing.
+
+## 6. Judgment
+
+* **Final Decision:** The Calcutta High Court allowed the KMC's appeal and set aside the order of the single judge dismissing the application.
+* **Relief Granted:** The KMC's application to set aside the arbitral award was allowed, and the case was sent back to the lower court to be heard on merits.
+* **Orders:** The court ordered that the application be heard on its merits and that the time spent by the KMC in lower courts without jurisdiction be excluded from the limitation period.
+
+## 7. Implications
+
+* **Impact on Law:** The judgment reinforces the applicability of Section 14 of the Limitation Act in arbitration cases and clarifies the court's power to condone delay in such cases.
+* **Future Relevance:** The case provides guidance for future cases involving jurisdictional challenges and delays in filing applications to set aside arbitral awards. 
+* **Broader Context:** The case highlights the importance of balancing technical legal considerations with the need for a fair and just outcome, particularly when large sums of money are at stake.
+
+## 8. Summary Points
+
+* The Calcutta High Court allowed the KMC's appeal and reinstated their application to set aside an arbitral award.
+* The court condoned the delay in filing the application and excluded the time spent in courts without jurisdiction.
+* The judgment clarifies the application of the Limitation Act and its interplay with the Arbitration and Conciliation Act in such cases.
+* The court emphasized the need to consider the fairness of the outcome and avoid dismissing cases on technical grounds. 
+
+## 9. References
+
+* **Arbitration and Conciliation Act, 1996**
+* **Limitation Act, 1963**
+* **Commercial Courts Act, 2015**
+* **Code of Civil Procedure, 1908**
+* **Ram Ujarey vs. Union of India (1999) 1 SCC 685**
+* **Consolidated Engineering Enterprises vs. Principal Secretary, Irrigation Department & Ors. (2008) 7 SCC 169**
+* **M.P. Steel Corporation vs. Commissioner of Central Excise (2015) 7 SCC 58**
+* **Union of India vs. Popular Construction Co. (2001) 8 SCC 470**
+* **Oriental Insurance Co. Ltd. vs. Tejparas Associates and Exports Pvt. Ltd. (2019) 9 SCC 435**
+* **Simplex Infrastructure Ltd. vs. Union of India (2019) 2 SCC 45**
+* **Maqbul Ahmed vs. Pratap Narayan Singh (AIR 1935 Privy Council 85)**
+* **Amarchand Inani vs. Union of India (AIR 1973 SC 313)**
+* **Suo Moto Writ Petition (Civil) No. (s) 3/2020 (In Re: Cognizance for Extension of Limitation)**
+* **Civil Appeal 3007-3008 of 2020 Sugafa Ahmed & Ors. vs. Upper Assam Plywood Products Private Limited**
+* **GA 2 of 2020 in CS 245 of 2019 Siddha Real Estate Development Private Limited vs. Girdhar Fiscal Services Private Limited**
+* **Civil Appeal 4085 of 2020 SS Group Pvt. Ltd. Vs. Aaditya J. Garg** 
+
+**Further Reading:** 
+* For a deeper understanding of arbitral awards and their enforcement, you can consult other judgments relating to the Arbitration and Conciliation Act. 
+* For further analysis of the application of the Limitation Act in various legal situations, you can explore other judgments related to the Limitation Act, 1963. 

@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A plaintiff claims exclusive rights to the trademark 'Express' for their business manufacturing and servicing elevators. The defendant is also using 'Express' in their trademark for similar products. The plaintiff claims trademark infringement and passing off. Should the court grant an injunction?",
+    "Legal Principles": "The court must determine if the plaintiff has a valid trademark for 'Express' and if the defendant's use is infringing. The court must also consider the likelihood of confusion and the potential for passing off. If the plaintiff can demonstrate a valid trademark and likelihood of confusion, the court may grant an injunction to prevent further infringement and passing off.",
+    "Relevant Sections": "Section 9, 15, and 17 of the Trademark Act, 1999",
+    "Context": "Trademark infringement and passing off, India"
+  },
+  {
+    "Query": "A company is accused of infringing on a trademark by using a similar logo and name, but claims they have been using the mark for years prior to the plaintiff's registration. What factors should the court consider when determining priority of use?",
+    "Legal Principles": "The court must consider the date of first use, the scope and nature of the use, and the extent of the plaintiff's knowledge of the defendant's prior use. The court may also consider evidence of reputation and goodwill.",
+    "Relevant Sections": "Section 12(3) of the Trade and Merchandise Marks Act, 1958",
+    "Context": "Trademark infringement, India"
+  },
+  {
+    "Query": "A plaintiff seeks an injunction against a defendant using a generic word in their trademark. The plaintiff argues that their use of the word has established distinctiveness. Should the court grant an injunction?",
+    "Legal Principles": "Generic words are not inherently protectable as trademarks. However, a plaintiff may be able to establish distinctiveness through secondary meaning, which occurs when a generic word acquires a unique association with the plaintiff's goods or services. The court must consider the evidence of secondary meaning and the likelihood of confusion.",
+    "Relevant Sections": "Section 9 of the Trademark Act, 1999",
+    "Context": "Trademark infringement, India"
+  },
+  {
+    "Query": "A plaintiff claims trademark infringement based on the defendant's use of a similar word mark. The plaintiff's trademark includes a disclaimer clause limiting their exclusive rights to the descriptive matter. Can the plaintiff still claim infringement?",
+    "Legal Principles": "A disclaimer clause limits the scope of protection for a trademark. The court must consider the specific language of the disclaimer and the nature of the descriptive matter to determine if the defendant's use infringes on the plaintiff's exclusive rights.",
+    "Relevant Sections": "Section 17 of the Trademark Act, 1999",
+    "Context": "Trademark infringement, India"
+  },
+  {
+    "Query": "A defendant argues that the plaintiff's delay in bringing a trademark infringement suit constitutes laches. Should the court consider this argument?",
+    "Legal Principles": "The doctrine of laches bars a plaintiff from asserting a claim if they have unreasonably delayed in bringing suit and such delay has prejudiced the defendant. The court must consider the length of the delay, the reason for the delay, and the prejudice suffered by the defendant.",
+    "Relevant Sections": "No specific section, but a general legal principle",
+    "Context": "Trademark infringement, India"
+  },
+  {
+    "Query": "A plaintiff claims passing off based on the defendant's use of a similar trademark. The plaintiff is a registered trademark holder, but the defendant claims they were using the mark prior to the plaintiff's registration. Should the court consider this argument?",
+    "Legal Principles": "The court must consider the date of first use and the scope and nature of the defendant's use. The court may also consider evidence of reputation and goodwill to determine if the defendant's prior use has created a likelihood of confusion.",
+    "Relevant Sections": "No specific section, but a general legal principle",
+    "Context": "Passing off, India"
+  },
+  {
+    "Query": "A plaintiff seeks an injunction against a defendant using a similar trademark for a product that is sold to a specialized customer base. Can the plaintiff still claim a likelihood of confusion?",
+    "Legal Principles": "The court must consider the relevant factors for determining likelihood of confusion, such as the similarity of the marks, the similarity of the goods or services, the marketing channels, and the sophistication of the consumers. Even if the customer base is specialized, the court must still consider the possibility of confusion.",
+    "Relevant Sections": "No specific section, but a general legal principle",
+    "Context": "Trademark infringement, India"
+  },
+  {
+    "Query": "A defendant argues that the plaintiff's trademark is not distinctive because it is a generic word. The plaintiff claims they have established distinctiveness through long use and advertising. Should the court consider this argument?",
+    "Legal Principles": "Generic words are not inherently protectable as trademarks. However, a plaintiff may be able to establish distinctiveness through secondary meaning, which occurs when a generic word acquires a unique association with the plaintiff's goods or services. The court must consider the evidence of secondary meaning and the likelihood of confusion.",
+    "Relevant Sections": "Section 9 of the Trademark Act, 1999",
+    "Context": "Trademark infringement, India"
+  },
+  {
+    "Query": "A plaintiff seeks an injunction against a defendant using a similar trademark. The plaintiff claims that the defendant is deliberately trying to pass off their goods as the plaintiff's goods. What evidence must the plaintiff provide to support this claim?",
+    "Legal Principles": "To prove passing off, the plaintiff must demonstrate that they have established goodwill and reputation in their trademark, that the defendant's use of a similar trademark is likely to cause confusion among consumers, and that the defendant's use is intended to deceive consumers or take advantage of the plaintiff's goodwill.",
+    "Relevant Sections": "No specific section, but a general legal principle",
+    "Context": "Passing off, India"
+  },
+  {
+    "Query": "A plaintiff seeks an injunction against a defendant using a similar trademark. The plaintiff is a registered trademark holder, but the defendant claims they have been using the mark for years prior to the plaintiff's registration. How should the court approach this case?",
+    "Legal Principles": "The court must determine if the defendant's prior use of the mark was sufficient to establish common law trademark rights. If so, the court may find that the plaintiff's later registration does not prevent the defendant from continuing to use the mark. The court may also consider other factors such as the scope and nature of the defendant's use, the plaintiff's knowledge of the defendant's prior use, and the likelihood of confusion.",
+    "Relevant Sections": "No specific section, but a general legal principle",
+    "Context": "Trademark infringement, India"
+  }
+]
+```

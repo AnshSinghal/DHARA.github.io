@@ -1,0 +1,95 @@
+## Case Title
+
+* **Case Name:** The Kolkata Municipal Corporation vs Jain Infraprojects Limited
+* **Court:** Calcutta High Court
+* **Date of Judgment:** 22nd February 2021
+* **Citation:** AIRONLINE 2021 CAL 187
+
+## Background and Context
+
+* **Brief Overview:** The Kolkata Municipal Corporation (KMC) filed an application under Section 34 of the Arbitration and Conciliation Act, 1996 (the Act) seeking to set aside an arbitral award passed in favor of Jain Infraprojects Limited (JIL). The KMC challenged the Award in the Commercial Court, South 24-Parganas, but the court dismissed the application due to lack of jurisdiction and directed the KMC to file the application in the appropriate court. The KMC then filed the present application in the Calcutta High Court.
+
+* **Key Issues:** The main issue before the court was whether the KMC's application was barred by limitation under Section 34(3) of the Act. 
+
+## Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * **The Arbitration and Conciliation Act, 1996:** Section 34(3) 
+    * **The Limitation Act, 1963:** Section 5, Section 14
+* **Precedents Cited:**
+    * **Union of India vs. Popular Construction Co.; (2001) 8 SCC 470**
+    * **Simplex Infrastructure Limited vs. Union of India; (2019) 2 SCC 455**
+    * **Maqbul Ahmed & Ors. vs. Pratap Narain Singh & Ors.; AIR 1935 PC 85**
+    * **Sri Amar Chand Inani Vs. Union of India; (1973) 1 SCC 115**
+    * **Suo Moto Writ Petition (C) No.3/2020 (Supreme Court)**
+    * **Sagufa Ahmed vs. Upper Assam Plywood Products Pvt. Ltd. (Civil Appeal Nos.3007-3008 of 2020)**
+    * **M/s. SS Group Pvt. Ltd. vs. Aaditiya J. Garg (Civil Appeal No.4085 of 2020)**
+    * **Consolidated Engineering Enterprises vs. Irrigation Department; (2008) 7 SCC 169**
+* **Legal Doctrines:**
+    * **Limitation Period:** The time within which a legal action must be initiated.
+    * **Condonation of Delay:** The court's power to excuse a delay in filing a legal action.
+    * **Jurisdiction:** The authority of a court to hear and decide a case.
+    * **Sufficient Cause:** A valid reason justifying a delay in filing a legal action.
+
+## Arguments Presented
+
+* **KMC's Argument:** 
+    * The KMC argued that there was only a 22-day delay in filing the Section 34 application and that the delay was caused by the Commercial Court's order returning the application.
+    * The KMC relied on Supreme Court orders extending limitation periods due to the COVID-19 pandemic.
+* **JIL's Argument:**
+    * JIL contended that the KMC's application was barred by limitation as the delay of 22 days was not explained or condoned. 
+    * JIL argued that the Supreme Court's orders extending limitation periods did not extend the time for condoning delays.
+    * JIL cited precedents stating that Section 5 of the Limitation Act did not apply to Section 34 applications.
+
+## Court's Analysis and Reasoning
+
+* **Key Findings:**
+    * The court found that the KMC had failed to explain the initial delay of 22 days in filing the Section 34 application.
+    * The court held that the delay was not caused by the Commercial Court's order returning the application, as the KMC knew of the potential jurisdictional issue at the time of filing.
+    * The court found that the KMC did not provide sufficient reasons for the further delay in filing the application after receiving the Commercial Court's order.
+    * The court concluded that the Supreme Court's orders extending limitation periods due to the pandemic did not apply to the case, as the KMC did not demonstrate that they were prevented from taking timely action due to the pandemic.
+
+* **Interpretation of Law:**
+    * The court interpreted Section 34(3) of the Act as a peremptory provision that does not allow for an automatic extension of the three-month limitation period. 
+    * The court interpreted the Supreme Court's orders extending limitation periods as applying only to those who were prevented from acting due to the pandemic.
+
+* **Application of Law:**
+    * The court applied the principles of limitation and condonation of delay to the facts of the case.
+    * The court considered the relevant precedents and applied the principle that Section 5 of the Limitation Act does not apply to Section 34 applications.
+
+## Judgment
+
+* **Final Decision:** The court dismissed the KMC's application under Section 34 of the Act.
+* **Relief Granted:** No relief was granted to the KMC.
+* **Orders:** The court issued an order dismissing the application without any order as to costs.
+
+## Implications
+
+* **Impact on Law:** The judgment reiterates the importance of strict adherence to the limitation periods prescribed under Section 34(3) of the Act.
+* **Future Relevance:** This judgment provides guidance on the application of Section 34(3) and the applicability of the Supreme Court's orders extending limitation periods due to the pandemic.
+* **Broader Context:** The judgment highlights the importance of timely action in legal proceedings and the requirement to provide adequate justification for any delays.
+
+## Summary Points
+
+* The KMC's application to set aside an arbitral award was dismissed due to the applicant's failure to explain and condone the delay in filing the application.
+* The court found that the applicant's arguments regarding jurisdictional issues and the pandemic did not justify the delay.
+* The judgment emphasizes the need for strict compliance with limitation periods in Section 34 applications.
+
+## References
+
+* **The Arbitration and Conciliation Act, 1996**
+* **The Limitation Act, 1963**
+* **Union of India vs. Popular Construction Co.; (2001) 8 SCC 470**
+* **Simplex Infrastructure Limited vs. Union of India; (2019) 2 SCC 455**
+* **Maqbul Ahmed & Ors. vs. Pratap Narain Singh & Ors.; AIR 1935 PC 85**
+* **Sri Amar Chand Inani Vs. Union of India; (1973) 1 SCC 115**
+* **Suo Moto Writ Petition (C) No.3/2020 (Supreme Court)**
+* **Sagufa Ahmed vs. Upper Assam Plywood Products Pvt. Ltd. (Civil Appeal Nos.3007-3008 of 2020)**
+* **M/s. SS Group Pvt. Ltd. vs. Aaditiya J. Garg (Civil Appeal No.4085 of 2020)**
+* **Consolidated Engineering Enterprises vs. Irrigation Department; (2008) 7 SCC 169**
+
+## Further Reading
+
+* **A Guide to the Arbitration and Conciliation Act, 1996** (by renowned legal authors)
+* **The Limitation Act, 1963: A Commentary** (by renowned legal authors)
+* **Cases related to Section 34 of the Arbitration and Conciliation Act, 1996** (available on legal databases and research platforms) 

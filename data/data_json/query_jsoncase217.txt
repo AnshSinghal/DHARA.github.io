@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A contractor was awarded a contract by a government agency.  The contractor allegedly submitted fraudulent documents to secure the contract.  After the contract was awarded, the agency discovered the fraud and cancelled the contract.  The contractor sued the agency for breach of contract and demanded payment for work performed.  The agency argued that the contract was voidable due to the contractor's fraud.  The contractor then filed for arbitration.  The agency sought to have the arbitration award set aside, arguing that the arbitrator had no jurisdiction because the contract was void due to fraud.",
+    "Legal Principles": "The legal principles involved in this case include the validity of contracts, the impact of fraud on contract formation, the right to arbitration, and the jurisdiction of arbitrators.  The Court will likely consider the following legal precedents:  (1)  Whether a contract obtained through fraud is void or voidable. (2)  Whether a void contract can be the subject of arbitration.  (3)  Whether an arbitrator's jurisdiction is limited to the terms of the contract or extends to issues of contract validity. ",
+    "Relevant Sections": "The relevant sections of the Arbitration and Conciliation Act, 1996, include Section 34(2), which allows a party to apply to set aside an arbitral award on grounds such as lack of jurisdiction.  The case may also refer to Section 11(5) of the Act, which governs the appointment of an arbitrator.",
+    "Context": "This case involves a dispute between a government agency and a contractor, and the question of whether an arbitration award can be set aside on the grounds of the arbitrator's lack of jurisdiction.  The jurisdiction issue stems from the agency's claim that the contract was voidable due to fraud.  The case is heard in India, specifically in the Allahabad High Court." 
+  },
+  {
+    "Query": "Two parties entered into a contract for the sale of goods.  The contract included an arbitration clause.  One party breached the contract and the other party filed for arbitration.  The arbitrator issued an award in favor of the non-breaching party.  The breaching party applied to the court to set aside the award, arguing that the arbitrator had exceeded his authority in the award.  The court found that the arbitrator had not exceeded his authority.  The breaching party then appealed the court's decision.",
+    "Legal Principles": "The legal principles involved in this case include the scope of an arbitrator's authority, the grounds for challenging an arbitration award, and the standard of review applied by the court to an arbitration award.",
+    "Relevant Sections": "The relevant sections of the Arbitration and Conciliation Act, 1996, include Section 34(2), which allows a party to apply to set aside an arbitral award on grounds such as exceeding the arbitrator's authority.",
+    "Context": "This case involves a dispute between two parties over the breach of a contract that includes an arbitration clause.  The dispute is currently in the appeal stage, with the breaching party challenging the court's decision regarding the scope of the arbitrator's authority." 
+  },
+  {
+    "Query": "A party filed an application to set aside an arbitration award, but the application was filed after the statutory limitation period.  The party claimed that the delay was caused by the need to pursue other legal remedies before the court could have jurisdiction to hear the application to set aside the award.  The court must determine whether the delay should be condoned based on the principle of 'exclusion of time' under Section 14 of the Limitation Act.",
+    "Legal Principles": "The legal principles involved in this case include the concept of limitation periods in legal proceedings, the application of the 'exclusion of time' principle under Section 14 of the Limitation Act, and the court's discretion to condone delay.",
+    "Relevant Sections": "The relevant sections include Section 34(3) of the Arbitration and Conciliation Act, 1996, which sets the limitation period for challenging an arbitration award, and Section 14 of the Limitation Act, 1963, which deals with the exclusion of time spent in pursuing other legal remedies.",
+    "Context": "This case involves an application to set aside an arbitration award that was filed out of time.  The court must decide whether to condone the delay, considering whether the party's pursuit of other legal remedies justifies the exclusion of time under Section 14 of the Limitation Act." 
+  },
+  {
+    "Query": "A dispute arose between two parties involving a construction contract.  The contract contained an arbitration clause.  One party filed for arbitration, but the other party refused to participate.  The arbitrator issued an award in favor of the party who filed for arbitration.  The party who refused to participate in the arbitration sought to set aside the award, arguing that the arbitration was invalid because they did not consent to it.",
+    "Legal Principles": "The legal principles involved in this case include the requirement of consent in arbitration, the impact of a party's refusal to participate in arbitration, and the validity of an arbitration award issued in the absence of a party's consent.",
+    "Relevant Sections": "The relevant sections of the Arbitration and Conciliation Act, 1996, include Section 11(5), which deals with the appointment of an arbitrator, and Section 34(2), which allows a party to apply to set aside an arbitral award on grounds such as lack of consent.",
+    "Context": "This case involves a dispute between two parties over a construction contract with an arbitration clause.  One party's refusal to participate in arbitration led to the other party obtaining an award.  The court must determine whether the arbitration process was valid and whether the award should be set aside." 
+  },
+  {
+    "Query": "A party applied to set aside an arbitration award on the grounds of fraud.  The party alleged that the opposing party had presented false evidence during the arbitration proceedings.  The court must determine whether the party's application to set aside the award is valid based on the evidence presented and the applicable legal principles.",
+    "Legal Principles": "The legal principles involved in this case include the concept of fraud in arbitration, the standard of proof required to establish fraud, and the grounds for setting aside an arbitration award due to fraud.",
+    "Relevant Sections": "The relevant section is Section 34(2) of the Arbitration and Conciliation Act, 1996, which allows a party to apply to set aside an arbitral award on grounds such as fraud.",
+    "Context": "This case involves an application to set aside an arbitration award on the grounds of fraud.  The court must assess the evidence of fraud and determine whether it meets the legal requirements for setting aside an award." 
+  },
+  {
+    "Query": "Two parties entered into a contract with an arbitration clause.  A dispute arose, and one party sought to initiate arbitration.  The other party argued that the arbitration clause was invalid and that the court should hear the dispute instead.  The court must determine whether the arbitration clause is valid and whether the parties are bound by it.",
+    "Legal Principles": "The legal principles involved in this case include the enforceability of arbitration clauses, the factors considered in determining the validity of an arbitration clause, and the court's role in deciding whether to enforce an arbitration clause.",
+    "Relevant Sections": "The relevant section is Section 7 of the Arbitration and Conciliation Act, 1996, which deals with the enforceability of arbitration agreements.",
+    "Context": "This case involves a dispute over the enforceability of an arbitration clause in a contract.  The court must determine whether the arbitration clause is valid and whether the parties are bound to resolve their dispute through arbitration." 
+  },
+  {
+    "Query": "An arbitration award was issued in favor of one party, but the award was not served on the other party in a timely manner.  The party who was not served on time filed an application to set aside the award, arguing that the delay in service rendered the award invalid.  The court must determine whether the delay in service constitutes a valid ground for setting aside the award.",
+    "Legal Principles": "The legal principles involved in this case include the requirements for proper service of an arbitration award, the impact of a delay in service, and the grounds for setting aside an award due to a procedural defect in service.",
+    "Relevant Sections": "The relevant section is Section 34(2) of the Arbitration and Conciliation Act, 1996, which allows a party to apply to set aside an arbitral award on grounds such as a violation of the rules of natural justice or a procedural defect.",
+    "Context": "This case involves an arbitration award that was not served on one party in a timely manner.  The court must decide whether the delay in service constitutes a valid ground for setting aside the award, considering the relevant legal principles and procedures." 
+  },
+  {
+    "Query": "Two parties engaged in an arbitration proceeding, but one party failed to comply with an order of the arbitrator.  The other party sought to have the arbitrator impose sanctions against the non-compliant party.  The arbitrator imposed sanctions, but the non-compliant party appealed the arbitrator's decision.  The court must determine whether the arbitrator had the authority to impose sanctions and whether the sanctions were appropriate.",
+    "Legal Principles": "The legal principles involved in this case include the arbitrator's authority to impose sanctions, the grounds for imposing sanctions, and the standard of review applied by the court to an arbitrator's decision on sanctions.",
+    "Relevant Sections": "The relevant section is Section 30 of the Arbitration and Conciliation Act, 1996, which deals with the arbitrator's power to issue interim measures and sanctions.",
+    "Context": "This case involves a dispute over the arbitrator's authority to impose sanctions for a party's failure to comply with an order.  The court must review the arbitrator's decision on sanctions, considering the legal principles and procedures governing sanctions in arbitration." 
+  },
+  {
+    "Query": "Two parties entered into a contract with an arbitration clause, but the clause did not specify the applicable law to be used in the arbitration.  A dispute arose, and the parties proceeded to arbitration.  The arbitrator applied a particular law in his award, but one of the parties challenged the award, arguing that the arbitrator had applied the wrong law.  The court must determine whether the arbitrator was correct in applying the particular law in the absence of a specific designation in the arbitration clause.",
+    "Legal Principles": "The legal principles involved in this case include the determination of applicable law in arbitration, the role of the arbitration clause in specifying the applicable law, and the court's role in reviewing an arbitrator's decision on applicable law.",
+    "Relevant Sections": "The relevant section is Section 28 of the Arbitration and Conciliation Act, 1996, which deals with the applicable law in arbitration proceedings.",
+    "Context": "This case involves a dispute over the application of law in an arbitration proceeding where the arbitration clause did not specify the applicable law.  The court must determine whether the arbitrator's choice of law was correct and whether the award should be set aside based on the applicable legal principles." 
+  },
+  {
+    "Query": "A party applied to set aside an arbitration award on the grounds that the arbitrator was biased.  The party alleged that the arbitrator had a personal relationship with the opposing party.  The court must determine whether the party's application to set aside the award is valid based on the evidence presented and the applicable legal principles.",
+    "Legal Principles": "The legal principles involved in this case include the concept of bias in arbitration, the standard of proof required to establish bias, and the grounds for setting aside an arbitration award due to bias.",
+    "Relevant Sections": "The relevant section is Section 12(1)(b) of the Arbitration and Conciliation Act, 1996, which deals with the grounds for challenging the appointment of an arbitrator, including bias.",
+    "Context": "This case involves an application to set aside an arbitration award on the grounds of the arbitrator's bias.  The court must assess the evidence of bias and determine whether it meets the legal requirements for setting aside an award." 
+  }
+]
+```

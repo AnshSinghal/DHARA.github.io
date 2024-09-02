@@ -1,0 +1,130 @@
+##  1. Case Title
+
+* **Case Name:** ArcelorMittal Nippon Steel India Ltd vs Essar Bulk Terminal Ltd 
+* **Court:** Gujarat High Court 
+* **Date of Judgment:** 17 August, 2021
+* **Citation:**  C/SCA/10492/2021
+
+## 2. Background and Context
+
+* **Brief Overview:** This case involves a dispute between ArcelorMittal Nippon Steel India Ltd. (AMNS) and Essar Bulk Terminal Ltd. (EBTL) concerning a Cargo Handling Agreement (CHA) signed in 2011.  AMNS, the successor to Essar Steel Ltd., invoked the arbitration clause in the agreement due to disagreements related to cargo handling charges.  AMNS filed a Section 11 application before the Gujarat High Court for appointment of an Arbitral Tribunal, while EBTL filed an interim relief application under Section 9 of the Arbitration and Conciliation Act, 1996 (the Act) before the Commercial Court in Surat. 
+* **Key Issues:**
+    * Whether the Commercial Court could continue to entertain the Section 9 application for interim relief after the Arbitral Tribunal was constituted. 
+    * Interpretation of the word "entertain" within the context of Section 9(3) of the Act.
+    * The scope of the High Court's jurisdiction under Article 227 of the Constitution to interfere with the Commercial Court's proceedings.
+
+## 3. Legal Principles Involved
+
+* **Relevant Statutes and Provisions:**
+    * Article 227 of the Constitution of India (High Court's supervisory jurisdiction over subordinate courts)
+    * Section 5 of the Arbitration and Conciliation Act, 1996 (Extent of Judicial Intervention)
+    * Section 9 of the Arbitration and Conciliation Act, 1996 (Interim measures by Court)
+    * Section 11 of the Arbitration and Conciliation Act, 1996 (Appointment of Arbitrator)
+    * Section 17 of the Arbitration and Conciliation Act, 1996 (Interim measures ordered by Arbitral Tribunal)
+    * Section 36 of the Arbitration and Conciliation Act, 1996 (Enforcement of arbitral award)
+    * Section 37 of the Arbitration and Conciliation Act, 1996 (Appeals from certain judgments and orders)
+    * Order 22 Rule 6 of the Code of Civil Procedure, 1908 (Abatement of suit)
+    * Order 41 Rule 4 and Order 41 Rule 9 of the Code of Civil Procedure, 1908 (Appeals from decrees and orders)
+* **Precedents Cited:** 
+    * Tufan Chatterjee Vs. Rangan Dhar, AIR 2016 Cal 213
+    * Manbhupinder Singh Atwal Vs. Neeraj Kumarpal Shah, 2019 (4) GLR 3229
+    * Nehru Nagar Vijay Lenyadri C.H.S.L. Vs. S.D. Bhalerao Construction Pvt. Ltd., 2018 SCC OnLine Bom 20461
+    * MSTC Limited Vs. K.A. Malle Pharmaceuticals Limited, F.M.A. no.982 of 2017
+    * Alka Chandewar Vs. Shamshul Ishrar Khan, (2017) 16 SCC 119
+    * Benara Bearings & Pistons Ltd Vs. Mahle Engine Components India Pvt. Ltd., 2017 SCC OnLine Del 7226
+    * Srei Equipment Finance Ltd. (SEFF) vs. Ray Infra Services Pvt. Ltd. and Ors., 2016 SCC OnLine Cal 6765
+    * Energo Engineering Projects Vs. TRF Ltd., 2016 SCC OnLine 6560
+    * Ardee Infrastructure Pvt. Ltd Vs. Ms. Anuradha Bhatia, 2017 SCC OnLine Del 6402
+    * Bhubhaneshwar Expressway Vs. National Highway Authority of India, 2019 SCC OnLine Del 11390
+    * Tata Capital Vs. Nectar Prints, 2019 SCC OnLine Bom 4546
+    * Krishanlal S. Attkan Vs. Union of India, 2019 SCC OnLine Bom 4549
+    * Johnson Stephen V. MCEES Trading & Ors., SLP(C) no.6538-6539 of 2021
+    * Lakshmi Rattan Engineering Works Ltd. Vs. Asst. Commission of Sales Tax, AIR 1968 SC 488
+    * Kundan Lal Vs. Jagan Nath Sharma, AIR 1962 All 547
+    * Hindustan Commercial Bank Ltd. Vs. Punnu Sahu (Dead) Through LRs, (1971) 3 SCC 124
+    * Martin & Harris Ltd. Vs. Additional District Judge & Ors., (1998) 1 SCC 732
+    * Anil Kunj Bihari Saraf Vs. Namboodas, 1996 SCC OnLine MP 112
+    * Ram Kishan Fauji Vs. State of Haryana, (2017) 5 SCC 533
+    * Radhe Shyam & Anr. Vs. Chhabi Nath & Ors., (2015) 5 SCC 423
+    * Shalini Shyam Shetty & Anr. Vs. Rajendra Shankar Patil, (2010) 8 SCC 329
+    * Waryam Singh & Anr. Vs. Amarnath & Anr., AIR 1954 SC 215
+    * Ajay Singh & Anr. Vs. State of Chattisgarh & Anr., (2017) 3 SCC 330
+    * Bharat Aluminium Company vs. Kaiser Aluminum Technical Services Inc, (2016) 4 SCC 126
+    * PASL Wind Solutions Private Limited vs.GE Power Conversion India Private Limited, 2021 SCC Online SC 331
+    * Econet Wireless Ltd vs.Vee Networks Ltd, (2006) EWHC 1568 (Comm)
+    * Gerald Metals SA vs. The Trustees of the Timis Trust and others, (2016) EWHC 2327
+    * NCC International AB vs. Alliance Concrete Singapore Pte Ltd, (2008) 2 SLR 565
+    * Gary Born, International Commercial Arbitration, Volume II (Third Edition, 2021)
+    * Leviathan Shipping Co.Ltd vs.Sky Sailing Overseas Co. Ltd, (1998) 4 HKC 347
+    * Bhaven Construction Through Authorized Signatory Premjibhai K Shah vs. Executive Engineer Sardar Sarovar Narmada Nigam Ltd and Another, 2021 SCC Online SC 8
+    * Achutunanda Baidya & Anr. Vs. State of Orissa & Ors. reported in (2009) 5 SCC 229
+* **Legal Doctrines:**
+    * Principle of Party Autonomy: The freedom of parties to choose arbitration as a method of dispute resolution and to determine its processes.
+    * Court Subsidiarity Model:  A model where the Court's role in granting interim relief is limited, and preference is given to the Arbitral Tribunal.
+    * Interpretation of Statutes: The application of established rules and principles to understand the meaning and intent of statutory provisions. 
+
+## 4. Arguments Presented
+
+* **Plaintiff’s Argument (AMNS):**
+    * Once the Arbitral Tribunal is constituted, the Court should not entertain Section 9 applications for interim relief.
+    *  The word "entertain" in Section 9(3) means to consider and adjudicate upon the application, not simply to admit it.
+    * The Court should only entertain Section 9 applications if the remedy under Section 17 is not efficacious.
+    * The Commercial Court acted beyond its jurisdiction by not referring the matter to the Arbitral Tribunal and by continuing to hear the Section 9 application.
+    * The International practice of "Court Subsidiarity" supports the view that the Court should defer to the Arbitral Tribunal.
+* **Defendant’s Argument (EBTL):**
+    *  The Commercial Court has jurisdiction to entertain the Section 9 applications, even after the Arbitral Tribunal is constituted.
+    *  The petitioner's petition is premature, as the Commercial Court is yet to pronounce its order on the Section 9 applications.
+    *  The word "entertain" in Section 9(3) refers to the initial admission and hearing of the application, not its final adjudication.
+    *  The urgency of EBTL's need for interim relief outweighs the preference for the Arbitral Tribunal to decide.
+    *  The High Court should not interfere with the Commercial Court's proceedings unless exceptional circumstances or bad faith are shown.
+
+## 5. Court’s Analysis and Reasoning
+
+* **Key Findings:**
+    * The Gujarat High Court acknowledged that the word "entertain" in Section 9(3) can have different interpretations, but emphasized its meaning in the context of the statute and its purpose.
+    * The court rejected the petitioner's argument that "entertain" means to adjudicate upon and dispose of the application, holding that it only means to initially consider and hear the application.
+    * The court found that while the Commercial Court could not be prevented from passing an order on the Section 9 applications, the petitioner's application seeking to refer the disputes to the Arbitral Tribunal was premature, as the Commercial Court had not yet considered the efficacy of the remedy under Section 17.
+* **Interpretation of Law:**
+    * The court interpreted Section 9(3) of the Act to mean that the Court shall not entertain an application under Section 9(1) after the Arbitral Tribunal is constituted, unless it finds that the remedy under Section 17 is not efficacious.
+    *  The court highlighted the legislative intent behind the 2015 amendment to Section 9, which aimed to reduce the Court's role in arbitration and promote party autonomy.
+    *  The court considered the arguments regarding the interpretation of the word "entertain" and ultimately concluded that it should be understood in the context of the specific statutory provision and its purpose.
+* **Application of Law:**
+    * The court held that the petitioner's application seeking to refer the disputes to the Arbitral Tribunal was premature because the Commercial Court had not yet considered the efficacy of the remedy under Section 17.
+    * The court found that the petitioner's petition was not a suitable case for intervention under Article 227, as the Commercial Court still had jurisdiction to decide the Section 9 application, and the petitioner had an alternate remedy through an appeal under Section 37 of the Act.
+
+## 6. Judgment
+
+* **Final Decision:** The Gujarat High Court dismissed the petition under Article 227 of the Constitution.
+* **Relief Granted:** No relief was granted to the petitioner.
+* **Orders:** The Court directed the Commercial Court not to pronounce its order on both Section 9 applications until September 3, 2021, allowing the petitioner time to appeal to the Supreme Court.
+
+## 7. Implications
+
+* **Impact on Law:**
+    * This judgment provides further clarification on the interpretation of Section 9(3) of the Arbitration and Conciliation Act, 1996.
+    * The court's interpretation of the word "entertain" reinforces the principle that the Court should not interfere with the arbitral process unless there are compelling reasons to do so.
+    * The judgment emphasizes the significance of the Court's role in assessing the efficacy of the remedy under Section 17 before entertaining Section 9 applications.
+* **Future Relevance:**
+    * This case is likely to be cited in future cases involving the interpretation of Section 9(3) of the Act, particularly in situations where the Arbitral Tribunal has been constituted.
+    * The judgment provides guidance to courts on the appropriate circumstances for intervention under Article 227 in relation to arbitration proceedings.
+* **Broader Context:**
+    * This case reflects a continuing trend in Indian law to prioritize party autonomy and reduce judicial intervention in arbitration.
+    * The judgment reinforces the importance of ensuring that arbitration proceedings are conducted efficiently and effectively.
+
+## 8. Summary Points
+
+* **Key Takeaways:**
+    * The Court's role in granting interim relief is limited once the Arbitral Tribunal is constituted.
+    * The Court should not entertain Section 9 applications for interim relief after the Arbitral Tribunal is constituted unless the remedy under Section 17 is not efficacious.
+    *  The word "entertain" in Section 9(3) does not mean to adjudicate upon and dispose of the application, but rather to consider and hear the application.
+    * The High Court will exercise its supervisory jurisdiction under Article 227 with caution in relation to arbitration proceedings, preferring to rely on the statutory appeal mechanism under Section 37.
+
+## 9. References
+
+* **Citations:**
+    * All statutes, cases, and legal texts cited in the summary are fully referenced within the text.
+* **Further Reading:**
+    * Articles and legal commentary on the interpretation of Section 9(3) of the Arbitration and Conciliation Act, 1996.
+    * Case law dealing with the scope of the High Court's jurisdiction under Article 227 of the Constitution.
+
+This summary provides a comprehensive overview of the ArcelorMittal Nippon Steel India Ltd vs Essar Bulk Terminal Ltd case, highlighting the key facts, legal principles, arguments, and the Court's reasoning. It also delves into the implications of the judgment for future legal decisions and its broader context within Indian arbitration law. 

@@ -1,0 +1,151 @@
+## 1. Case Title
+
+* **Case Name:** M/s.Kapoor Imaging Private Limited vs. M/s.Kodak Polychrome Graphics Asia Export Pvt. Ltd. and Others
+* **Court:** Madras High Court
+* **Date of Judgment:** 15th March 2021
+* **Citation:** O.S.A. Nos. 235 and 239 of 2020
+
+## 2. Background and Context
+
+**Brief Overview:** The appellant, M/s. Kapoor Imaging Private Limited, had filed a suit (C.S.No.220 of 2009) against the respondents, M/s. Kodak Polychrome Graphics Asia Export Pvt. Ltd., M/s. Kodak (India) Private Limited, and M/s. Kodak (Singapore) Pte Limited, seeking payment of Rs. 2,15,37,054/- for principal amount and interest owed to them.  The case was initially filed on the Original Side of the Madras High Court but was later transferred to the Commercial Division.
+
+**Key Issues:** 
+
+* **Maintainability of the Appeals:** Whether the appeals filed by the appellant against interlocutory orders passed by the Single Judge in the Commercial Division are maintainable under Clause 15 of the Letters Patent and Section 13 of the Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015 (CCA).
+* **Admissibility of Secondary Evidence:** Whether the appellant is entitled to mark certain documents as secondary evidence after they were eschewed by the Single Judge for non-compliance with Section 65 of the Indian Evidence Act.
+* **Filing of Affidavit under Section 65-B of the Indian Evidence Act:** Whether the appellant should be permitted to file an affidavit of its Accounts Manager and Systems-in-charge under Section 65-B of the Indian Evidence Act.
+
+## 3. Legal Principles Involved
+
+**Relevant Statutes and Provisions:**
+
+* **Code of Civil Procedure, 1908 (CPC):**
+    * Order VII Rule 14
+    * Order IX
+    * Order XIII A
+    * Order 41 Rule 27
+    * Order 43 Rule 1
+    * Order XLIX Rule 3
+* **Indian Evidence Act, 1872:**
+    * Section 65
+    * Section 65-B
+* **Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015 (CCA):**
+    * Section 4
+    * Section 8
+    * Section 13
+    * Section 15
+    * Section 18
+    * Section 21
+* **Arbitration and Conciliation Act, 1996:**
+    * Section 37
+* **Letters Patent of the Madras High Court:**
+    * Clause 15
+
+**Precedents Cited:**
+
+* Garikapati Vs. Subbiah Choudhry, AIR 1957 SC 540
+* Hitendra Vishnu Thakur and others Vs. State of Maharashtra, 1994 (4) SCC 602
+* Videocon International Limited Vs. Securities and Exchange Board of India, 2015 (4) SCC 33
+* Rubinetterie Bresciane Bonomi SPA vs. Lehry Instrumentation and Values Private Limited, 2019 (4) CTC 188
+* Magic Frames and others vs. Radiance Media Private Limited, 2019 (4) CTC 497 = 2019 (3) LW 385 = 2019 (5) MLJ 479
+* M/s.Kapoor Imaging Private Limited Vs. M/s.Kodak (India) Private Limited, CDJ 2020 MHC 1737
+* Shah Babulal Khimji Vs. Jayaben D.Kania and another, 1981 (4) SCC 8
+* R.V.E.Venkatachala Gounder Vs. Arumigh Visweswaraswami and V.P. Temple and another, 2003 (8) SCC 752
+* Dhanpat Vs. Sheo Ram, 2020 SCC Online SC 606
+* Arjun Panditrao Khotkara Vs. Kailash Kushanrao Gorantyal and others, 2020 (7) SCC 1 = 2020 SCC Online SC 571
+* Rubinetterie Bresciane Bonomi SpA Vs. Lehry Instrumentation and Valves Private Limited, 2019 (2) MLJ 257
+* J.Yashoda Vs. K.Shohana Rani, 2007 (5) SCC 730
+* Sivamalai Viswakarma Samuthaya Nala Sangam Vs. Natarajab and four others, 2007 (2) LW 211
+* Union of India vs. Ibrahim Uddin and another, 2012 (8) SCC 148
+
+**Legal Doctrines:**
+
+* **Vested Right:** The right to appeal is a substantive right that accrues to a party on the date the suit is instituted.
+* **Res Judicata:**  The doctrine of res judicata prevents the same issue from being raised again once a final judgment has been made.
+* **Waiver:**  A party may waive its right to insist on formal proof of a document by failing to raise a timely objection to its admissibility.
+* **Interlocutory Orders:** Orders that do not finally determine the rights of the parties and can be addressed in an appeal against the final judgment.
+
+## 4. Arguments Presented
+
+**Plaintiff’s Argument:**
+
+* The appeals are maintainable under Clause 15 of the Letters Patent because they were filed before the CCA was notified in Madras, and the plaintiff had a vested right to appeal under the Letters Patent.
+* The appellant had a vested right to appeal under Clause 15 of the Letters Patent, as the "lis" commenced with the filing of the applications in August 2017. 
+* Section 13 of the CCA does not apply to the case as the applications were filed before the notification of the Commercial Division.
+* The appellant is entitled to mark the eschewed documents as secondary evidence, even though no application was filed under Section 65 of the Indian Evidence Act prior to marking them, because there is no requirement for such an application.
+* The appellant should be allowed to file the affidavit of its Accounts Manager and Systems-in-charge under Section 65-B of the Indian Evidence Act because the Single Judge had not provided any reasons for dismissing this application.
+
+**Defendant’s Argument:**
+
+* The appeals are not maintainable under Clause 15 of the Letters Patent because the order passed by the Single Judge does not constitute a "judgment" as defined by the Letters Patent.
+* The appeals are not maintainable under Section 13 of the CCA because the order under challenge is not an order specifically enumerated under Order XLIII of the CPC or Section 37 of the Arbitration and Conciliation Act, 1996.
+* The appellant cannot claim ignorance of the requirement to seek permission before marking secondary evidence under Section 65 of the Indian Evidence Act and cannot be permitted to file an application for such permission after the documents were eschewed.
+* The appellant had not specified the specific sub-clause of Section 65 of the Indian Evidence Act under which they were seeking to file secondary evidence, and they did not plead the specific circumstances required under Section 65(c).
+
+## 5. Court’s Analysis and Reasoning
+
+**Key Findings:**
+
+* The court found that the order passed by the Single Judge was an interlocutory order and not a "judgment" within the meaning of Clause 15 of the Letters Patent.
+* The court held that the appeals are not maintainable under Section 13 of the CCA, as the order was passed by the Commercial Division of the High Court and the CCA specifically prohibits appeals against interlocutory orders of the Commercial Division.
+* The court determined that the appellant's failure to file an application for leave to mark secondary evidence prior to marking the documents was a fatal flaw and that the order eschewing the documents was not a matter that could be revisited.
+
+**Interpretation of Law:**
+
+* The court interpreted Clause 15 of the Letters Patent to mean that an appeal lies only from a "judgment" and not from interlocutory orders.
+* The court interpreted Section 13 of the CCA to mean that appeals against interlocutory orders of the Commercial Division are prohibited. 
+* The court interpreted Section 65 of the Indian Evidence Act to require a party to seek permission before marking secondary evidence.
+
+**Application of Law:**
+
+* The court applied the principle of "vested right" to determine that the appellant's right to appeal accrued when the suit was instituted in February 2009, but this right was circumscribed by the subsequent enactment of the CCA. 
+* The court applied the doctrine of res judicata to hold that the appellant could not revisit the order eschewing the documents.
+* The court applied the principle of waiver to conclude that the appellant's failure to object to the admissibility of the documents at the time of marking them constituted a waiver of their right to insist on formal proof.
+
+## 6. Judgment
+
+**Final Decision:** 
+
+* The court dismissed the Original Side Appeals (OSAs) as not maintainable.
+
+**Relief Granted:** 
+
+* No relief was granted to the appellant.
+
+**Orders:**
+
+* The appeals were dismissed.
+* The connected C.M.Ps. were closed.
+
+## 7. Implications
+
+**Impact on Law:**
+
+* This judgment reinforces the interpretation of Clause 15 of the Letters Patent and Section 13 of the CCA as restricting the appealability of interlocutory orders.
+* The judgment confirms that a party cannot be permitted to mark documents as secondary evidence after they were eschewed for non-compliance with the Indian Evidence Act.
+
+**Future Relevance:**
+
+* This case serves as a reminder that parties must comply with procedural requirements for admitting evidence, such as seeking permission to mark secondary evidence, in a timely manner.
+* The judgment may influence future decisions on the maintainability of appeals against interlocutory orders, particularly in cases involving the Commercial Division of High Courts.
+
+**Broader Context:**
+
+* This case highlights the importance of adhering to procedural rules in legal proceedings. 
+* The judgment also underscores the potential implications of transferring cases to specialized courts, such as the Commercial Division, for parties' right to appeal.
+
+## 8. Summary Points
+
+* Appeals against interlocutory orders of the Commercial Division are generally not maintainable under the CCA.
+* The right to appeal is a vested right that accrues on the date the suit is instituted, but subsequent enactments, such as the CCA, can take away this right.
+* Failure to comply with procedural requirements for admitting evidence, such as seeking permission to mark secondary evidence, can result in the documents being eschewed.
+* The doctrine of res judicata prevents parties from re-litigating issues that have already been decided by the court.
+
+## 9. References
+
+* **Citations:** See "Relevant Statutes and Provisions" and "Precedents Cited" sections above.
+* **Further Reading:** 
+    * The Commercial Courts, Commercial Division and Commercial Appellate Division of High Courts Act, 2015
+    * The Code of Civil Procedure, 1908
+    * The Indian Evidence Act, 1872
+    * The Letters Patent of the Madras High Court 

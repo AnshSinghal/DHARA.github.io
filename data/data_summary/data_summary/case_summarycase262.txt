@@ -1,0 +1,94 @@
+##  1. Case Title
+
+	•	Case Name: State of Tripura vs. Damni
+	•	Court: Tripura High Court
+	•	Date of Judgment: 9th October 2023
+	•	Citation:  IA 03 OF 2023 IN ARB. A. 04 OF 2023
+
+## 2. Background and Context
+
+	•	**Brief Overview:** The State of Tripura (Applicant/Appellant) entered into an agreement with Damni (Respondent/Contractor) for the construction of two RCC bridges in 2007. The contract was later rescinded due to delays in starting the work by Damni. Damni invoked arbitration proceedings, which ruled in his favor. The State of Tripura appealed this decision in a Commercial Court, but the appeal was dismissed due to a limitation period. This dismissal was further appealed to the High Court and ultimately withdrawn with the liberty to file fresh proceedings. The State of Tripura filed a review application with the Commercial Court, which was also dismissed. The present case involves the State of Tripura's attempt to appeal the dismissal of the review application.
+	•	**Key Issues:**
+		* Whether the State of Tripura's appeal was barred by limitation.
+		* Whether the State of Tripura had provided sufficient cause for condoning the delay in filing the appeal.
+		* Whether the review application filed by the State of Tripura was maintainable.
+
+## 3. Legal Principles Involved
+
+	•	**Relevant Statutes and Provisions:**
+		* Section 5 of the Limitation Act (for condoning delay)
+		* Section 13(1A) of the Commercial Courts Act, 2015 (for limitation period in appeals)
+		* Order XLIII of the Code of Civil Procedure, 1908 (for appealable orders)
+		* Section 37 of the Arbitration and Conciliation Act, 1996 (for appeals against arbitral awards)
+		* Order XXIII, Rule 1(3) of the Code of Civil Procedure, 1908 (for withdrawal of suits)
+		* Section 33 of the Arbitration and Conciliation Act, 1996 (for correction of errors in arbitral awards)
+		* Section 34 of the Arbitration and Conciliation Act, 1996 (for judicial review of arbitral awards)
+	•	**Precedents Cited:**
+		* Hindustan Steelworks Construction Ltd. Vrs. The State of Tripura & Ors. (IA No.02/2022 in Commercial App. No.1 of 2023)
+		* The State of Tripura & Ors. Vrs. Jain Irrigation System Ltd. (IA No.03 of 2023 in Arbitration 01 of 2023)
+		* State of Uttar Pradesh & Ors. Vrs. M/S Satish Chand Shivhare and Brothers [SLP(Civil) No.5301 of 2022]
+		* The State of Tripura & Ors. Vrs. Sri Subhas Chandra Datta (decided on 22.08.2023)
+		* Chandi Construction Company Ltd. Vrs. Executive Engineer & Ors, reported in 2013(4) Arb. LR 69 (P & H)
+		* State of Arunachal Pradesh vs. Damni Construction Co., (2007) 10 Supreme Court Cases 742
+	•	**Legal Doctrines:**
+		* **Sufficient Cause:** The legal principle that allows courts to condone delay in filing legal proceedings if the party seeking condonation provides a valid reason for the delay.
+		* **Vigilantibus et Non- Dormientibus Jura Subvenieunt:** A Latin maxim that states the law aids the vigilant, not those who sleep on their rights.
+		* **Functus Officio:** A legal doctrine that dictates a court or tribunal loses the power to act or review its own decisions once a final decision has been made.
+
+## 4. Arguments Presented
+
+	•	**Plaintiff’s Argument (State of Tripura):**
+		* The delay in filing the appeal was due to inter-departmental movement of the file, a bona fide reason.
+		* The delay was not deliberate and the appeal should be allowed for the fair ends of justice.
+	•	**Defendant’s Argument (Damni):**
+		* The State of Tripura did not demonstrate due diligence in pursuing the appeal.
+		* The State of Tripura failed to obtain a certified copy of the order within a reasonable time, showing negligence.
+		* The appeal was filed outside the limitation period and therefore not maintainable.
+		* The review application was not maintainable under the Arbitration & Conciliation Act.
+		* The Order 23, Rule 1(3) of CPC does not exclude or extend the limitation period.
+
+## 5. Court’s Analysis and Reasoning
+
+	•	**Key Findings:**
+		* The State of Tripura did not demonstrate diligence in pursuing the appeal by failing to obtain a certified copy of the order promptly.
+		* The delay of 48 days in filing the appeal was not considered a reasonable or short delay.
+		* The reasons provided by the State of Tripura for the delay were not considered sufficient cause.
+		* The review application filed by the State of Tripura was not maintainable under the Arbitration & Conciliation Act, 1996.
+	•	**Interpretation of Law:**
+		* The court emphasized the importance of adhering to the procedures laid down in the Commercial Courts Act, 2015 to achieve its objectives of speedy disposal of commercial disputes.
+		* The court reiterated the maxim "Vigilantibus et Non- Dormientibus Jura Subvenieunt," highlighting the obligation of parties to be vigilant in pursuing their legal rights.
+		* The court clarified that Order 23, Rule 1(3) of CPC does not extend or exclude the limitation period.
+		* The court held that the power of review is not available under the Arbitration & Conciliation Act, 1996.
+	•	**Application of Law:**
+		* The court applied the principle of sufficient cause and found the State of Tripura's reasons for the delay insufficient.
+		* The court applied the doctrine of Functus Officio to determine that the Commercial Court was unable to review its own decision.
+		* The court applied the principles of limitation and found the appeal barred by time.
+
+## 6. Judgment
+
+	•	**Final Decision:** The condonation application (IA No.03/2023) was dismissed. The connected Arbitration Appeal 04/2023 was also dismissed. Pending applications were also dismissed.
+	•	**Relief Granted:** No relief was granted to the State of Tripura.
+	•	**Orders:** The court ordered the dismissal of the condonation application and the connected Arbitration Appeal.
+
+## 7. Implications
+
+	•	**Impact on Law:** The judgment reinforces the importance of adhering to limitation periods and exercising due diligence in pursuing legal proceedings. It also clarifies the unavailability of review proceedings under the Arbitration & Conciliation Act, 1996.
+	•	**Future Relevance:** This judgment serves as a precedent for future cases involving condonation of delay and review applications in arbitration proceedings.
+	•	**Broader Context:** The judgment highlights the importance of efficient dispute resolution mechanisms in the commercial context to attract investment and foster a positive business environment.
+
+## 8. Summary Points
+
+	•	The State of Tripura's appeal was dismissed due to the failure to provide sufficient cause for condoning the delay in filing the appeal.
+	•	The court found the State of Tripura negligent in pursuing the appeal and did not demonstrate due diligence.
+	•	The review application filed by the State of Tripura was not maintainable under the Arbitration & Conciliation Act, 1996.
+	•	The judgment emphasizes the importance of adhering to limitation periods and exercising due diligence in commercial disputes.
+
+## 9. References
+
+	•	**Citations:** All statutes, cases, and legal texts mentioned in the summary are fully cited within the document.
+	•	**Further Reading:**
+		* The Arbitration and Conciliation Act, 1996
+		* The Commercial Courts Act, 2015
+		* The Code of Civil Procedure, 1908
+		* The Limitation Act, 1963
+		* Relevant legal articles and commentaries on the topics of condonation of delay, review proceedings, and arbitration. 

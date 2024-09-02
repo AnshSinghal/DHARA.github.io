@@ -1,0 +1,64 @@
+```json
+[
+  {
+    "Query": "A construction company filed an application for interim protection under Section 9 of the Arbitration and Conciliation Act in Delhi. However, the contract specified Kolkata as the venue for arbitration proceedings. Should the Delhi court have jurisdiction to hear the application, or should it be referred to Kolkata?",
+    "Legal Principles": "Jurisdictional exclusivity under Section 42 of the Arbitration and Conciliation Act, 1996, Estoppel, Doctrine of Forum Non Conveniens",
+    "Relevant Sections": "Section 42, Section 9, Section 11 of the Arbitration and Conciliation Act, 1996",
+    "Context": "Jurisdictional dispute in an arbitration case involving a construction company, where the contract designates a venue but not a seat of arbitration."
+  },
+  {
+    "Query": "Two parties entered into an agreement with an arbitration clause, specifying Mumbai as the venue for arbitration. One party filed an application under Section 11 of the Act in Mumbai, seeking the appointment of an arbitrator. However, the other party argued that the agreement only specified a venue and not a seat, and that the application should be filed in the court where the first application under Part 1 of the Act was made. How should the Mumbai court proceed?",
+    "Legal Principles": "Jurisdictional exclusivity under Section 42 of the Arbitration and Conciliation Act, 1996, Distinction between venue and seat of arbitration",
+    "Relevant Sections": "Section 42, Section 11 of the Arbitration and Conciliation Act, 1996",
+    "Context": "Dispute regarding the appropriate court for hearing an application under Section 11 of the Arbitration Act, where the agreement designates a venue but not a seat of arbitration."
+  },
+  {
+    "Query": "A landlord and tenant entered into a lease agreement with an arbitration clause, designating Bangalore as the venue for arbitration. After a dispute arose, the tenant filed an application under Section 9 of the Act in Bangalore. Later, the landlord sought to challenge an arbitral award in a different court, arguing that Bangalore was not the seat of arbitration. What is the relevant legal framework for determining the appropriate court for challenging the award?",
+    "Legal Principles": "Jurisdictional exclusivity under Section 42 of the Arbitration and Conciliation Act, 1996, Estoppel",
+    "Relevant Sections": "Section 42, Section 9, Section 34 of the Arbitration and Conciliation Act, 1996",
+    "Context": "Dispute regarding the appropriate court for challenging an arbitral award in a lease agreement, where the agreement designates a venue but not a seat of arbitration."
+  },
+  {
+    "Query": "Two parties entered into a joint venture agreement with an arbitration clause, specifying Hyderabad as the venue for arbitration. One party filed an application under Section 8 of the Act in Hyderabad, seeking interim relief. Subsequently, a dispute arose regarding the interpretation of the agreement, and the other party sought to file an application under Section 11 of the Act in a different court. Is the court in Hyderabad bound by the initial application under Section 8?",
+    "Legal Principles": "Exceptions to the jurisdictional exclusivity under Section 42 of the Arbitration and Conciliation Act, 1996",
+    "Relevant Sections": "Section 42, Section 8, Section 11 of the Arbitration and Conciliation Act, 1996",
+    "Context": "Dispute regarding the appropriate court for hearing an application under Section 11 of the Arbitration Act, where an earlier application under Section 8 was filed in a different court."
+  },
+  {
+    "Query": "A company filed an application under Section 9 of the Act in Chennai, seeking interim protection in a contract dispute with its supplier. The contract did not specify a seat of arbitration, but only a venue in Mumbai. Later, the company filed an application under Section 34 of the Act in Mumbai to challenge an arbitral award. Can the Mumbai court entertain the application, despite the initial application filed in Chennai?",
+    "Legal Principles": "Jurisdictional exclusivity under Section 42 of the Arbitration and Conciliation Act, 1996, Estoppel",
+    "Relevant Sections": "Section 42, Section 9, Section 34 of the Arbitration and Conciliation Act, 1996",
+    "Context": "Dispute regarding the appropriate court for challenging an arbitral award, where the agreement designates a venue but not a seat of arbitration, and an initial application under Section 9 was filed in a different court."
+  },
+  {
+    "Query": "Two parties entered into a technology licensing agreement with an arbitration clause, designating Bangalore as the venue for arbitration. One party filed an application under Section 11 of the Act in Bangalore, seeking the appointment of an arbitrator. The other party argued that the agreement only specified a venue and not a seat, and that the application should be filed in the court where the first application under Part 1 of the Act was made. How should the Bangalore court proceed?",
+    "Legal Principles": "Jurisdictional exclusivity under Section 42 of the Arbitration and Conciliation Act, 1996, Distinction between venue and seat of arbitration",
+    "Relevant Sections": "Section 42, Section 11 of the Arbitration and Conciliation Act, 1996",
+    "Context": "Dispute regarding the appropriate court for hearing an application under Section 11 of the Arbitration Act, where the agreement designates a venue but not a seat of arbitration."
+  },
+  {
+    "Query": "A company filed an application under Section 9 of the Act in Delhi, seeking interim protection in a contract dispute with a foreign supplier. The contract specified London as the venue for arbitration. Later, the company filed an application under Section 34 of the Act in London to challenge an arbitral award. Is the London court bound by the initial application filed in Delhi?",
+    "Legal Principles": "Jurisdictional exclusivity under Section 42 of the Arbitration and Conciliation Act, 1996",
+    "Relevant Sections": "Section 42, Section 9, Section 34 of the Arbitration and Conciliation Act, 1996",
+    "Context": "Dispute regarding the appropriate court for challenging an arbitral award in an international contract, where the agreement designates a venue but not a seat of arbitration, and an initial application under Section 9 was filed in a different court."
+  },
+  {
+    "Query": "Two parties entered into a construction contract with an arbitration clause, specifying Chennai as the venue for arbitration. One party filed an application under Section 11 of the Act in Chennai, seeking the appointment of an arbitrator. However, the other party argued that the agreement only specified a venue and not a seat, and that the application should be filed in the court where the first application under Part 1 of the Act was made. How should the Chennai court proceed?",
+    "Legal Principles": "Jurisdictional exclusivity under Section 42 of the Arbitration and Conciliation Act, 1996, Distinction between venue and seat of arbitration",
+    "Relevant Sections": "Section 42, Section 11 of the Arbitration and Conciliation Act, 1996",
+    "Context": "Dispute regarding the appropriate court for hearing an application under Section 11 of the Arbitration Act, where the agreement designates a venue but not a seat of arbitration."
+  },
+  {
+    "Query": "A company filed an application under Section 9 of the Act in Mumbai, seeking interim protection in a contract dispute with its customer. The contract did not specify a seat of arbitration, but only a venue in Delhi. Later, the company filed an application under Section 34 of the Act in Delhi to challenge an arbitral award. Can the Delhi court entertain the application, despite the initial application filed in Mumbai?",
+    "Legal Principles": "Jurisdictional exclusivity under Section 42 of the Arbitration and Conciliation Act, 1996, Estoppel",
+    "Relevant Sections": "Section 42, Section 9, Section 34 of the Arbitration and Conciliation Act, 1996",
+    "Context": "Dispute regarding the appropriate court for challenging an arbitral award, where the agreement designates a venue but not a seat of arbitration, and an initial application under Section 9 was filed in a different court."
+  },
+  {
+    "Query": "A landlord and tenant entered into a lease agreement with an arbitration clause, designating Kolkata as the venue for arbitration. After a dispute arose, the tenant filed an application under Section 9 of the Act in Kolkata. Later, the landlord sought to challenge an arbitral award in a different court, arguing that Kolkata was not the seat of arbitration. What is the relevant legal framework for determining the appropriate court for challenging the award?",
+    "Legal Principles": "Jurisdictional exclusivity under Section 42 of the Arbitration and Conciliation Act, 1996, Estoppel",
+    "Relevant Sections": "Section 42, Section 9, Section 34 of the Arbitration and Conciliation Act, 1996",
+    "Context": "Dispute regarding the appropriate court for challenging an arbitral award in a lease agreement, where the agreement designates a venue but not a seat of arbitration."
+  }
+]
+```
