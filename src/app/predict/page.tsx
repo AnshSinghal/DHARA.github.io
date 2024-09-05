@@ -31,7 +31,7 @@ export default function SearchPage() {
     
         try {
           console.log("query", query);
-          const response = await fetch("https://6630-34-69-94-154.ngrok-free.app/predict", {
+          const response = await fetch("https://3c69-34-45-13-120.ngrok-free.app/predict", {
             method: "POST",
             headers: {
               "Content-Type": "application/json",
