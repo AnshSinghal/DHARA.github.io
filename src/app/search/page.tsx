@@ -1,6 +1,6 @@
 'use client';
 
-import { PlaceholdersAndVanishInput } from "@/components/ui/placeholders-and-vanish-input";
+// import { PlaceholdersAndVanishInput } from "@/components/ui/placeholders-and-vanish-input";
 import { PlaceholdersAndInputSearch } from "@/ui-components/search-bar";
 import { useRouter, useSearchParams } from "next/navigation";
 import { useState } from "react";

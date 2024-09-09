@@ -1,10 +1,11 @@
 "use client";
+import Image from "next/image";
 import React, { useState } from "react";
-import { HoverEffect } from "../components/ui/card-hover-effect";
+// import { HoverEffect } from "../components/ui/card-hover-effect";
 import { motion } from "framer-motion";
 import { LampContainer } from "../components/ui/lamp";
-import { AnimatedTooltip } from "../components/ui/animated-tooltip";
-import { PlaceholdersAndVanishInput } from "../components/ui/placeholders-and-vanish-input";
+// import { AnimatedTooltip } from "../components/ui/animated-tooltip";
+// import { PlaceholdersAndVanishInput } from "../components/ui/placeholders-and-vanish-input";
 import { useRouter } from "next/navigation";
 import { Spotlight } from "@/components/ui/spotlight";
 import { cn } from "@/lib/utils";
