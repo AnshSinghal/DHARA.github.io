@@ -31,7 +31,7 @@ export default function SearchPage() {
     
         try {
           console.log("query", query);
-          const response = await fetch("https://86d1-103-47-74-66.ngrok-free.app/query", {
+          const response = await fetch("https://7be1-103-47-74-66.ngrok-free.app/query", {
             method: "POST",
             headers: {
               "Content-Type": "application/json",
