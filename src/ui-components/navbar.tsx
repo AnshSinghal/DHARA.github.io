@@ -15,11 +15,11 @@ export function Navbar({ className }: { className?: string }) {
         <MenuItem setActive={setActive} active={active} item="Home">
         </MenuItem></a>
         <a href="/search">
-        <MenuItem setActive={setActive} active={active} item="Search">
+        <MenuItem setActive={setActive} active={active} item="Ask">
         </MenuItem></a>
-        <a href="/predict">
+        {/* <a href="/predict">
         <MenuItem setActive={setActive} active={active} item="Predict">
-        </MenuItem></a>
+        </MenuItem></a> */}
         <a href="/about">
         <MenuItem setActive={setActive} active={active} item="About Us">
         </MenuItem></a>
