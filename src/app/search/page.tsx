@@ -35,7 +35,7 @@ export default function SearchPage() {
       formData.append('file', selectedFile);
 
       try {
-        const response = await fetch('https://f180-103-47-74-66.ngrok-free.app/upload-file', {
+        const response = await fetch('https://2110-14-97-132-203.ngrok-free.app/upload-file', {
           method: 'POST',
           body: formData, // Send the file to the backend
         });
@@ -63,7 +63,7 @@ export default function SearchPage() {
 
     try {
       console.log("query", query);
-      const response = await fetch("https://f180-103-47-74-66.ngrok-free.app/query", {
+      const response = await fetch("https://2110-14-97-132-203.ngrok-free.app/query", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
