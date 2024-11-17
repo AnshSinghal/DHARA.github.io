@@ -170,9 +170,11 @@ export default function LampDemo() {
     </div>
     <div className="md:w-1/2 flex justify-center">
       <Image
-        src="favicon.png" // Replace with your image path
+        src="/favicon.png" // Replace with your image path
         alt="DHARA Illustration"
         className="w-full h-auto"
+        width={500}
+        height={500}
       />
     </div>
   </div>
