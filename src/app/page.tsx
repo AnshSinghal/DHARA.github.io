@@ -148,7 +148,7 @@ export default function LampDemo() {
         </LampContainer>
       </div>
       <div className="flex items-center justify-center mt-[-200px]">
-        <a href="/search">
+        <a href="http://localhost:5173">
           <button className="relative inline-flex w-[18rem] h-20 overflow-hidden rounded-full p-[5px] focus:outline-none focus:ring-2 focus:ring-slate-400 focus:ring-offset-2 focus:ring-offset-slate-50">
             <span className="absolute inset-[-1000%] animate-[spin_2s_linear_infinite] bg-[conic-gradient(from_90deg_at_50%_50%,#E2CBFF_0%,#393BB2_50%,#E2CBFF_100%)]" />
             <span className="inline-flex h-full w-full cursor-pointer items-center justify-center rounded-full bg-slate-950 px-3 py-1 text-lg font-medium text-white backdrop-blur-3xl">
