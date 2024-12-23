@@ -20,9 +20,9 @@ export function Navbar({ className }: { className?: string }) {
         {/* <a href="/predict">
         <MenuItem setActive={setActive} active={active} item="Predict">
         </MenuItem></a> */}
-        <a href="/about">
+        {/* <a href="/about">
         <MenuItem setActive={setActive} active={active} item="About Us">
-        </MenuItem></a>
+        </MenuItem></a> */}
       </Menu>
     </div>
   );
